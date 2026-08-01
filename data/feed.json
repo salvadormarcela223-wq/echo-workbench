@@ -1,0 +1,381 @@
+{
+  "updatedAt": "2026-08-01T10:30:00+08:00",
+  "news": [
+    {
+      "id": "n-20260801-01",
+      "date": "2026-05-08",
+      "title": "FDA 发布未授权 ENDS 与尼古丁袋执法优先级指南",
+      "source": "FDA 烟草制品中心 (CTP)",
+      "cat": "监管执法",
+      "heat": 5,
+      "summary": "FDA 于 5 月 8 日发布最终指南，明确对尚未获上市前授权（PMTA）的电子烟与尼古丁袋产品，在哪些情形下「暂不优先执法」，并建立公开清单；同时强调对明显吸引未成年人（卡通形象、伪装形态、类玩具外观）的产品仍会执法。",
+      "impact": "对中国出口企业是「开口+收紧」双重信号：已受理待审 PMTA 产品获缓冲，但合规门槛与透明度要求同步抬高，备案清单化将直接影响渠道准入。",
+      "link": "https://www.fda.gov/tobacco-products/ctp-newsroom/fda-issues-guidance-enforcement-priorities-unauthorized-ends-and-nicotine-pouch-products"
+    },
+    {
+      "id": "n-20260801-02",
+      "date": "2026-05-05",
+      "title": "FDA 首次授权非薄荷醇调味电子烟（Glas 四款），DAR 技术成关键",
+      "source": "两个至上 / LawMayus",
+      "cat": "巨头动向",
+      "heat": 4,
+      "summary": "FDA 通过 PMTA 授权 Glas 公司 4 款封闭式烟弹，其中 Gold（芒果）、Sapphire（蓝莓）为史上首次获批的非烟草、非薄荷醇调味产品，核心合规抓手是「设备访问限制技术（DAR）」：政府证件年龄核验+蓝牙配对+随机生物识别。",
+      "impact": "调味禁区被打破，但路径高度依赖身份与设备级管控；对追求口味创新又想进美国市场的中国厂商，技术合规（而非配方）成为分水岭。",
+      "link": "https://cn.2firsts.com/news/detail?id=16913"
+    },
+    {
+      "id": "n-20260801-03",
+      "date": "2026-05-18",
+      "title": "欧盟 TPD3 进入公众咨询期，意见征集至 2026-08-14",
+      "source": "European Commission / 2FIRSTS",
+      "cat": "海外监管",
+      "heat": 5,
+      "summary": "欧盟委员会就《烟草制品指令》(TPD) 修订发起证据征集与公众咨询，拟将监管范围从烟草制品扩至「所有尼古丁产品」（含尼古丁袋、无尼古丁电子烟），并讨论风味限制、平装、数字营销管控。正式立法提案预计 2026 Q4，成员国审查 2027，最早实施约 2029。",
+      "impact": "这是十年来最大监管转向。风味禁令从个别成员国走向欧盟协调，对出口欧洲的中国企业是重大战略信号，当前咨询窗是少数能影响终稿的窗口。",
+      "link": "https://en.2firsts.com/news/eu-launches-online-feedback-as-tpd-revision-enters-new-milestone"
+    },
+    {
+      "id": "n-20260801-04",
+      "date": "2026-07-03",
+      "title": "国家烟草专卖局：对电子烟相关生产企业实施总量管理",
+      "source": "国家烟草专卖局 / 中新经纬",
+      "cat": "政策法规",
+      "heat": 4,
+      "summary": "国家烟草专卖局修订 7 份监管文件，明确「在供需动态平衡下对电子烟相关生产企业进行总量管理，依法依规核定产能和生产规模」，并新增境内外 IPO 前置审查制度。",
+      "impact": "国内供给侧从「限制类」走向「总量天花板」，出口企业需提交目的地合规证明；产能、资本开支与上市路径全面纳入监管，行业集中度将进一步提升。",
+      "link": "https://new.qq.com/rain/a/20260703A073RS00?refer=cp_1009"
+    },
+    {
+      "id": "n-20260801-05",
+      "date": "2026-05-15",
+      "title": "WHO 警告尼古丁袋盯上青少年，全球约 160 国无专门监管",
+      "source": "WHO",
+      "cat": "趋势洞察",
+      "heat": 4,
+      "summary": "WHO 发布首份全球尼古丁袋报告，指出其通过糖果风味、隐蔽包装、社媒与网红营销、F1/音乐节赞助瞄准年轻人；2024 年零售量超 230 亿单位、同比增 50%+。报告呼吁风味限制、广告禁令、平装、含量上限与年龄验证。",
+      "impact": "减害叙事与青少年保护之间的拉锯加剧，尼古丁袋正被纳入更严框架；对中国企业而言，袋类产品出海的合规变量显著上升。",
+      "link": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge"
+    },
+    {
+      "id": "n-20260801-06",
+      "date": "2026-04-01",
+      "title": "法国将尼古丁袋销售与持有列为刑事犯罪",
+      "source": "Vaping360",
+      "cat": "海外监管",
+      "heat": 3,
+      "summary": "自 4 月 1 日起，法国将无烟口腔尼古丁产品（含尼古丁袋）的销售与持有刑事化，使用者面临监禁风险，是欧洲风味与品类管控趋严的代表性案例。",
+      "impact": "欧盟内部监管分化明显（丹麦、荷兰、比利时、芬兰等也在推进限制），多速监管下出口策略需按国别精细拆分化。",
+      "link": "https://www.vaping360.com/"
+    },
+    {
+      "id": "n-20260801-07",
+      "date": "2026-07-20",
+      "title": "Shopify 将美国电子烟执法扩大为全球销售禁令",
+      "source": "Vaping360",
+      "cat": "市场数据",
+      "heat": 3,
+      "summary": "Shopify 禁止全球范围内所有电子烟销售，迫使美国以外的合规零售商下架产品或离开平台，显示支付与平台渠道风险正成为继监管之后的第二道关卡。",
+      "impact": "渠道与支付风控正成为新型非关税壁垒；品牌独立站与跨境支付的合规设计，将和产品质量同等重要。",
+      "link": "https://www.vaping360.com/vape-news/"
+    },
+    {
+      "id": "n-20260801-08",
+      "date": "2026-05-11",
+      "title": "LOST MARY 推出首款透明舱体产品 VIZ，50K 口数成新标杆",
+      "source": "Vaping360",
+      "cat": "产品技术",
+      "heat": 3,
+      "summary": "LOST MARY 发布 VIZ——品牌首款 360° 透明环绕舱体一次性产品（50mg 盐烟、USB-C、可视液仓、MTL 吸感），代表一次性品类向「可视化+高口数+灯光交互」演进。",
+      "impact": "产品差异化从口味转向「透明化信任+体验感」；对 CMF 与交互设计提出新课题，也呼应监管对可视量的潜在要求。",
+      "link": "https://www.vaping360.com/"
+    }
+  ],
+  "insights": [
+    {
+      "id": "i-20260801-01",
+      "date": "2026-06-16",
+      "topic": "行业态势",
+      "title": "2026 中国购物者报告：增长从一线年轻人转向低线「熟龄家庭」",
+      "origin": "Bain & Company × Worldpanel by Numerator",
+      "region": "中国",
+      "core": "2025 年城镇 FMCG 支出仅增 0.9%（量+3.6%、价-2.6%），呈「量增价跌」；2026 Q1 仍波动，4 月回正。增长引擎变为四五线城市与中老年/单人家庭，电商占城镇 FMCG 38%，O2O 三季度同比+8%，自有品牌销售额+57%。",
+      "view": "这不是消费降级，而是消费者「算账能力」的成熟。品牌若还用一线年轻白领的画像做创新，会系统性错失增量。真正的机会在下沉市场的熟龄家庭与「质价比」业态（会员店、量贩零食、折扣店）。",
+      "action": "重新切分人群 × 渠道矩阵：为低线熟龄家庭设计大规格/家庭装与可信性价比叙事；把 O2O 与折扣业态作为新品首发与渗透的主战场，而非补充渠道。",
+      "link": "https://worldpanelbynumerator.com/insights/china-shopper-report-2026-vol-1"
+    },
+    {
+      "id": "i-20260801-02",
+      "date": "2026-01-01",
+      "topic": "食品科学·趋势",
+      "title": "英敏特 2026 食饮趋势：古法新绎、多元食刻、感官入微",
+      "origin": "Mintel 英敏特",
+      "region": "全球",
+      "core": "三大预测：①古法新绎——品牌作为文化守护者，复兴发酵/腌制/干燥等传统保存法；②多元食刻——饮食从单一蛋白/纤维转向文化包容的多样性，AI 帮用户「随机安排」每周膳食；③感官入微——多感官创新从玩趣转向务实，服务老年、神经多样化、GLP-1 人群。",
+      "view": "感官不再是「锦上添花」的营销词，而成为包容性设计的核心工具。谁能用证据级口感/香气/质地去服务被忽视的人群，谁就拿到下一个十年信任票。",
+      "action": "把「感官包容性」写进产品 brief：从老年与特殊膳食人群的质地/风味偏好出发做配方，而非先定概念再补感官。",
+      "link": "http://www.xfrb.com.cn/article/zx/10513139103055.html"
+    },
+    {
+      "id": "i-20260801-03",
+      "date": "2025-10-13",
+      "topic": "食品科学·趋势",
+      "title": "Innova 2026 十大趋势：蛋白与肠道健康领跑，多感官纵享升温",
+      "origin": "Innova Market Insights",
+      "region": "全球",
+      "core": "近 60% 全球消费者主动增加蛋白摄入；59% 认为肠道健康关乎全身；60% 在纵享时偏好探索新事物（Layers of Delight）；功能性饮品、天然植物基、正念传统（Crafting Tradition）并列重点。",
+      "view": "「健康」与「纵享」不再是二选一。增长来自把功能声称做成可感知的感官体验——蛋白要有口感、肠道要有风味、纵享要有层次。",
+      "action": "在概念开发中并行跑「功能证据」与「感官体验」两条线，避免产品沦为只有 label 没有 mouthfeel 的「健康壳」。",
+      "link": "https://www.innovamarketinsights.com/press-releases/innovas-top-ten-trends-2026-shaping-the-future-of-food-beverage/"
+    },
+    {
+      "id": "i-20260801-04",
+      "date": "2026-03-23",
+      "topic": "技术·工具",
+      "title": "AWE 2026：AI 家电、智能眼镜与家庭机器人走向规模化",
+      "origin": "经济参考报 / AWE 2026",
+      "region": "中国",
+      "core": "AWE 2026 显示 AI 终端从「被动响应」转向「主动智能」：海尔「AI 之眼」冰箱识别食材、空调人感雷达节能；智能眼镜 2025 全球出货 1280 万台（+26%），中国 275 万台（+107%）；IDC 预计 2026 中国智能家居出货 3 亿台（+8.8%）。",
+      "view": "消费电子的增长逻辑从「硬件参数」切换为「场景理解力」。对做用户研究的我们，研究对象从「人用设备」变成「设备预判人」——研究设计要把 Agent/主动性纳入情境。",
+      "action": "研究方案增加「主动智能接受度」维度：用户何时信任、何时反感设备自作主张；并把隐私/断网可用性作为核心测试项。",
+      "link": "http://jjckb.xinhuanet.com/20260323/2c8f082b728b40aa995b05cff1745e3d/c.html"
+    },
+    {
+      "id": "i-20260801-05",
+      "date": "2026-01-01",
+      "topic": "消费者洞察",
+      "title": "益普索 2026 食饮趋势：从品牌崇拜到「科学消费理性主义」",
+      "origin": "Ipsos 益普索",
+      "region": "中国",
+      "core": "69% 消费者更看重产品是否契合自身健康状态与营养需求，36% 对「精准营养」关注度攀升；61% 会在不同场景选不同产品（一人食、熬夜、睡前、体重管理高度分化）。",
+      "view": "消费者不再为「进口/网红/大牌」买单，而是拿着配料表当论文读。这对 CMI 的含义是：洞察要从「态度问卷」升级到「场景 × 状态 × 成分证据」的行为还原。",
+      "action": "用社媒行为+场景日志做「状态切片」研究，替代泛泛的态度量表；把「场景细分」作为 segmentation 的一级变量。",
+      "link": "https://t.cj.sina.com.cn/articles/view/7879923018/1d5ae154a01901fu8o"
+    },
+    {
+      "id": "i-20260801-06",
+      "date": "2026-03-16",
+      "topic": "方法论·AI",
+      "title": "「AI+消费」成为拉动消费的新基础设施，也是研究新界面",
+      "origin": "新华社 / AWE 观察",
+      "region": "中国",
+      "core": "「AI+消费」从概念落地为刚需：端侧大模型让家电断网可用、隐私更安全；AI 购物（如「千问」30 亿请客活动，1.3 亿人体验、近 2 亿次一句话下单）重构推广与转化路径。IDC 预计 2026 中国 AI 手机出货占比 53%。",
+      "view": "AI 既是被研究的消费对象，也是研究者的工具。它把「自然交互、普惠下沉、体验升级、供需重构」四条路径同时打开，CMI 的方法栈必须补上「AI 行为数据」这一新源。",
+      "action": "建立 AI 交互行为的数据采集规范（脱敏、同意、场景标注），并把「AI 购物旅程」纳入全链路研究框架。",
+      "link": "https://xinhua.org/tech/20260316/e7a4aae62c7f497cb1c6cc71d08876c0/c.html"
+    }
+  ],
+  "readings": [
+    {
+      "id": "r-01",
+      "tag": "BBC",
+      "title": "Why do you always wake up at 3 a.m.?",
+      "subtitle": "睡眠中断背后的科学，以及你能做的几件小事",
+      "minutes": 6,
+      "body": [
+        "<p>Many healthy adults wake up <u>briefly</u> two to four times a night, often without remembering it. But when the brain starts linking 'waking' with 'worry', <u>cortisol</u> can spike and make falling back asleep much harder.</p>",
+        "<p>Research suggests keeping the bedroom cool, dark and quiet, and avoiding <u>screens</u> that <u>emit</u> blue light. A short breathing exercise can signal safety to the nervous system.</p>",
+        "<p>If it happens most nights, it may be worth <u>tracking</u> patterns for two weeks before jumping to conclusions — consistency matters more than a single bad night.</p>"
+      ],
+      "vocab": [
+        {"w": "briefly", "p": "/ˈbriːfli/", "t": "adv. 短暂地", "lv": "基础"},
+        {"w": "cortisol", "p": "/ˈkɔːrtɪsɒl/", "t": "n. 皮质醇（压力激素）", "lv": "商务"},
+        {"w": "screens", "p": "/skriːnz/", "t": "n. 屏幕（手机/电脑）", "lv": "基础"},
+        {"w": "emit", "p": "/iˈmɪt/", "t": "v. 发出（光/热）", "lv": "IELTS"},
+        {"w": "tracking", "p": "/ˈtrækɪŋ/", "t": "v. 追踪、记录", "lv": "基础"}
+      ],
+      "phrases": [
+        {"en": "fall back asleep", "zh": "重新入睡"},
+        {"en": "jump to conclusions", "zh": "草率下结论"}
+      ]
+    },
+    {
+      "id": "r-02",
+      "tag": "TED",
+      "title": "What sitting all day does to your brain and body",
+      "subtitle": "运动科学家 Keith Diaz 的「微运动」处方",
+      "minutes": 7,
+      "body": [
+        "<p>We are living in the most <u>sedentary</u> era in human history, and it quietly <u>wrecks</u> our health even if we exercise regularly. The fix may be surprisingly small.</p>",
+        "<p>Exercise scientist Keith Diaz recommends a five-minute 'movement break' every 30 minutes — a walk, <u>stretches</u>, or even <u>tidying</u> your desk. Tiny doses of movement boost mood, energy and focus.</p>",
+        "<p>The point is not intensity, but <u>frequency</u>: sprinkle movement throughout the day instead of <u>compressing</u> it into one gym session.</p>"
+      ],
+      "vocab": [
+        {"w": "sedentary", "p": "/ˈsednteri/", "t": "adj. 久坐的", "lv": "IELTS"},
+        {"w": "wrecks", "p": "/reks/", "t": "v. 严重损害", "lv": "商务"},
+        {"w": "stretches", "p": "/ˈstretʃɪz/", "t": "n. 拉伸", "lv": "基础"},
+        {"w": "tidying", "p": "/ˈtaɪdiɪŋ/", "t": "v. 整理", "lv": "基础"},
+        {"w": "frequency", "p": "/ˈfriːkwənsi/", "t": "n. 频率", "lv": "基础"},
+        {"w": "compressing", "p": "/kəmˈpresɪŋ/", "t": "v. 压缩、集中", "lv": "TOEFL"}
+      ],
+      "phrases": [
+        {"en": "movement break", "zh": "活动间隙（微运动）"},
+        {"en": "sprinkle ... throughout", "zh": "把……分散在……之中"}
+      ]
+    },
+    {
+      "id": "r-03",
+      "tag": "旅行",
+      "title": "How to breeze through a foreign airport",
+      "subtitle": "像本地人一样从容过关的小技巧",
+      "minutes": 5,
+      "body": [
+        "<p>A <u>foreign</u> airport can feel <u>overwhelming</u>, but a little preparation turns <u>chaos</u> into routine. First, screenshot your boarding pass and <u>visa</u> page before you lose signal.</p>",
+        "<p>Learn three <u>phrases</u> in the local language: 'Where is baggage claim?', 'I have a connecting flight', and 'Thank you'. A smile travels further than perfect grammar.</p>",
+        "<p>Give yourself a <u>buffer</u> — arrive early, walk slowly, and watch how locals <u>queue</u>. Calm is a skill you can practise.</p>"
+      ],
+      "vocab": [
+        {"w": "foreign", "p": "/ˈfɒrən/", "t": "adj. 外国的", "lv": "基础"},
+        {"w": "overwhelming", "p": "/ˌəʊvəˈwelmɪŋ/", "t": "adj. 令人不知所措的", "lv": "IELTS"},
+        {"w": "chaos", "p": "/ˈkeɪɒs/", "t": "n. 混乱", "lv": "商务"},
+        {"w": "visa", "p": "/ˈviːzə/", "t": "n. 签证", "lv": "基础"},
+        {"w": "buffer", "p": "/ˈbʌfə/", "t": "n. 缓冲时间", "lv": "商务"},
+        {"w": "queue", "p": "/kjuː/", "t": "v./n. 排队", "lv": "基础"}
+      ],
+      "phrases": [
+        {"en": "breeze through", "zh": "轻松通过"},
+        {"en": "connecting flight", "zh": "转机航班"}
+      ]
+    },
+    {
+      "id": "r-04",
+      "tag": "BBC",
+      "title": "The robot army quietly transforming retail",
+      "subtitle": "当中国机器人遇上英国的货架与人力短缺",
+      "minutes": 6,
+      "body": [
+        "<p>Britain's weak <u>productivity</u> growth and <u>labour</u> shortages are creating an opening for Chinese robotics firms. In warehouses and shops, machines now <u>sort</u>, <u>stack</u> and even greet customers.</p>",
+        "<p>Rather than replacing people overnight, the shift is <u>gradual</u>: robots take the repetitive tasks, while humans handle judgement and care. The result can be lower costs and steadier shelves.</p>",
+        "<p>For travellers and shoppers, it is a small window into how 'made in China' is moving from products to <u>capabilities</u> — and how work itself is being redrawn.</p>"
+      ],
+      "vocab": [
+        {"w": "productivity", "p": "/ˌprɒdʌkˈtɪvəti/", "t": "n. 生产率", "lv": "商务"},
+        {"w": "labour", "p": "/ˈleɪbə/", "t": "n. 劳动力", "lv": "商务"},
+        {"w": "sort", "p": "/sɔːt/", "t": "v. 分类", "lv": "基础"},
+        {"w": "stack", "p": "/stæk/", "t": "v. 堆叠", "lv": "基础"},
+        {"w": "gradual", "p": "/ˈɡrædʒuəl/", "t": "adj. 渐进的", "lv": "IELTS"},
+        {"w": "capabilities", "p": "/ˌkeɪpəˈbɪlətiz/", "t": "n. 能力", "lv": "商务"}
+      ],
+      "phrases": [
+        {"en": "labour shortage", "zh": "劳动力短缺"},
+        {"en": "redraw the line", "zh": "重新划定界限"}
+      ]
+    },
+    {
+      "id": "r-05",
+      "tag": "TED",
+      "title": "The art of reading minds",
+      "subtitle": "心理读心师 Oz Pearlman 的「观察」课",
+      "minutes": 6,
+      "body": [
+        "<p>Mentalist Oz Pearlman says he has no special powers — only sharp <u>observation</u>. He watches where people look, how they <u>fidget</u>, and what they avoid saying.</p>",
+        "<p>The real skill is curiosity: most of us are so busy performing that we stop <u>noticing</u>. Reading a room is less magic than <u>attention</u> trained on purpose.</p>",
+        "<p>In daily work, this translates to better listening — picking up the <u>unsaid</u> and responding to what matters, not just what is voiced.</p>"
+      ],
+      "vocab": [
+        {"w": "observation", "p": "/ˌɒbzəˈveɪʃn/", "t": "n. 观察", "lv": "基础"},
+        {"w": "fidget", "p": "/ˈfɪdʒɪt/", "t": "v. 坐立不安、小动作", "lv": "IELTS"},
+        {"w": "noticing", "p": "/ˈnəʊtɪsɪŋ/", "t": "v. 注意到", "lv": "基础"},
+        {"w": "attention", "p": "/əˈtenʃn/", "t": "n. 注意力", "lv": "基础"},
+        {"w": "unsaid", "p": "/ˌʌnˈsed/", "t": "adj. 未说出口的", "lv": "TOEFL"}
+      ],
+      "phrases": [
+        {"en": "read a room", "zh": "读懂现场气氛"},
+        {"en": "pick up on", "zh": "察觉、捕捉"}
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "id": "d-01",
+      "scene": "机场值机",
+      "title": "At the check-in counter",
+      "zhTitle": "在值机柜台",
+      "minutes": 4,
+      "goal": "练习护照/行李/座位相关表达，从容应对值机",
+      "lines": [
+        {"r": "A", "en": "Good morning. May I see your passport and booking reference, please?", "zh": "早上好，请出示您的护照和预订编号。"},
+        {"r": "B", "en": "Sure, here you are. I'd like a window seat if possible.", "zh": "好的，给您。如果可以的话我想要靠窗的座位。"},
+        {"r": "A", "en": "I can arrange that. Are you checking in any bags today?", "zh": "可以安排。您今天有要托运的行李吗？"},
+        {"r": "B", "en": "Just one suitcase. Does it meet the weight limit?", "zh": "就一个行李箱。它超重了吗？"},
+        {"r": "A", "en": "It's within the limit. Your boarding pass is ready — gate 22, boarding at 10:40.", "zh": "在限额内。您的登机牌好了——22 号登机口，10:40 登机。"}
+      ],
+      "keys": [
+        {"en": "booking reference", "zh": "预订编号（订单号）"},
+        {"en": "within the limit", "zh": "在限额/标准之内"}
+      ]
+    },
+    {
+      "id": "d-02",
+      "scene": "商务社交",
+      "title": "Small talk at a conference",
+      "zhTitle": "会议上的闲聊",
+      "minutes": 5,
+      "goal": "用自然的破冰句开启商务对话，并过渡到合作话题",
+      "lines": [
+        {"r": "A", "en": "Hi, I don't think we've met. I'm Echo, from the consumer insights team.", "zh": "你好，我们好像还没见过。我是 Echo，来自消费者洞察团队。"},
+        {"r": "B", "en": "Nice to meet you. I work on product strategy. What brings you to this session?", "zh": "很高兴认识你。我做产品策略。你为什么来听这场？"},
+        {"r": "A", "en": "I'm exploring how AI is changing our research methods. Have you seen anything useful today?", "zh": "我在研究 AI 如何改变我们的研究方法。你今天有看到什么有用的吗？"},
+        {"r": "B", "en": "Actually, yes — a talk on real-time consumer signals. We should compare notes sometime.", "zh": "其实有——一个关于实时消费者信号的演讲。我们应该找个时间交流一下。"},
+        {"r": "A", "en": "I'd love that. Let's grab coffee after the keynote.", "zh": "太好了。主题演讲后我们喝杯咖啡吧。"}
+      ],
+      "keys": [
+        {"en": "compare notes", "zh": "交换看法、互通信息"},
+        {"en": "grab coffee", "zh": "（口语）喝杯咖啡聊聊"}
+      ]
+    },
+    {
+      "id": "d-03",
+      "scene": "酒店入住",
+      "title": "Checking into a hotel",
+      "zhTitle": "办理酒店入住",
+      "minutes": 4,
+      "goal": "掌握入住登记、特殊需求与Wi-Fi等常用句",
+      "lines": [
+        {"r": "A", "en": "Good evening. Do you have a reservation under the name Lee?", "zh": "晚上好。请问有预订在 Lee 名下吗？"},
+        {"r": "B", "en": "Yes, for two nights. Is breakfast included?", "zh": "有的，住两晚。含早餐吗？"},
+        {"r": "A", "en": "It is — served from 7 to 10. Could I have a room on a higher floor, away from the elevator?", "zh": "含的——7 点到 10 点供应。可以安排高一点、远离电梯的房间吗？"},
+        {"r": "B", "en": "Certainly. Here's your key card, and the Wi-Fi password is on this slip.", "zh": "当然可以。这是您的房卡，Wi-Fi 密码在这张纸上。"}
+      ],
+      "keys": [
+        {"en": "under the name", "zh": "以……名字预订"},
+        {"en": "away from the elevator", "zh": "远离电梯（安静）"}
+      ]
+    },
+    {
+      "id": "d-04",
+      "scene": "异地用餐",
+      "title": "Ordering with dietary needs",
+      "zhTitle": "带饮食限制的点餐",
+      "minutes": 4,
+      "goal": "清晰表达过敏/忌口，避免误会",
+      "lines": [
+        {"r": "A", "en": "Welcome! Have you decided what you'd like to order?", "zh": "欢迎！您决定好点什么了吗？"},
+        {"r": "B", "en": "Not yet. I'm allergic to peanuts — could you tell me which dishes are safe?", "zh": "还没。我对花生过敏——能告诉我哪些菜是安全的吗？"},
+        {"r": "A", "en": "Of course. The grilled fish and the vegetable soup are both nut-free. I'll note the allergy for the kitchen.", "zh": "当然。烤鱼和蔬菜汤都不含坚果。我会在厨房单上标注过敏。"},
+        {"r": "B", "en": "Perfect, thank you. Could I also get that without spicy sauce?", "zh": "太好了，谢谢。那份可以不放辣酱吗？"}
+      ],
+      "keys": [
+        {"en": "allergic to", "zh": "对……过敏"},
+        {"en": "nut-free", "zh": "不含坚果的"}
+      ]
+    },
+    {
+      "id": "d-05",
+      "scene": "职场谈 AI",
+      "title": "Talking about AI at work",
+      "zhTitle": "在办公室聊 AI",
+      "minutes": 5,
+      "goal": "用职场商务英语表达对 AI 的看法与担忧",
+      "lines": [
+        {"r": "A", "en": "Have you tried the new AI assistant? It's been a game-changer for my drafts.", "zh": "你试过新的 AI 助手了吗？它彻底改变了我写草稿的方式。"},
+        {"r": "B", "en": "I have, but I'm cautious. I double-check everything it produces.", "zh": "试过，但我比较谨慎。它生成的东西我都会复核。"},
+        {"r": "A", "en": "Fair enough. I see it as a starting point, not the final answer.", "zh": "有道理。我把它当作起点，而不是最终答案。"},
+        {"r": "B", "en": "Exactly. The human touch still matters most with our clients.", "zh": "没错。对咱们的客户来说，人情味依然最重要。"}
+      ],
+      "keys": [
+        {"en": "game-changer", "zh": "改变格局的事物（口语）"},
+        {"en": "double-check", "zh": "复核、再确认"}
+      ]
+    }
+  ]
+}
