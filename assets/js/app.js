@@ -73,12 +73,13 @@
 
   /* -------------------- 页面注册表 -------------------- */
   const PAGES = [
-    { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪' },
-    { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报' },
-    { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志' },
-    { key: 'english', name: '英语学习', icon: 'lang', desc: '每日阅读 · 情景对话 · 单词本' },
-    { key: 'muse', name: '随想记录', icon: 'muse', desc: '电影 / 话剧 / 演唱会 / 阅读 / 旅行' },
-    { key: 'spark', name: '灵光乍现', icon: 'spark', desc: '想到就记，标签分流' }
+    { key: 'home', name: '概览', icon: 'star', desc: '今日工作台总览', color: '#B8895A', c2: '#E8D5BE', c3: '#F6EDE1' },
+    { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪', color: '#C2604F', c2: '#E4C3BB', c3: '#F7EAE6' },
+    { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报', color: '#4F7A5B', c2: '#BFD7C4', c3: '#EBF2EC' },
+    { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志', color: '#41608C', c2: '#B8C6DC', c3: '#EAEFF6' },
+    { key: 'english', name: '英语学习', icon: 'lang', desc: '每日阅读 · 情景对话 · 单词本', color: '#C28A2C', c2: '#E2C98C', c3: '#F7F0DF' },
+    { key: 'muse', name: '随想记录', icon: 'muse', desc: '电影 / 话剧 / 演唱会 / 阅读 / 旅行', color: '#7A5F95', c2: '#CDBEDC', c3: '#F0EBF5' },
+    { key: 'spark', name: '灵光乍现', icon: 'spark', desc: '想到就记，标签分流', color: '#C57A3C', c2: '#E2C2A2', c3: '#F8EEE4' }
   ];
   window.PAGES = PAGES;
 
@@ -98,7 +99,8 @@
   function renderNav() {
     const c = counts();
     $('#nav').innerHTML = PAGES.map((p, i) =>
-      '<button class="nav-item' + (p.key === cur ? ' on' : '') + '" data-go="' + p.key + '">' +
+      '<button class="nav-item' + (p.key === cur ? ' on' : '') + '" data-go="' + p.key + '" style="--mc:' + p.color + '">' +
+      (p.key === 'home' ? '<span class="ndot home"></span>' : '<span class="ndot" style="background:' + p.color + '"></span>') +
       '<span class="ico">' + ico(p.icon) + '</span>' +
       '<span>' + esc(p.name) + '</span>' +
       (c[p.key] ? '<span class="num">' + c[p.key] + '</span>' : '') +
@@ -126,11 +128,12 @@
   /* -------------------- 路由 -------------------- */
   let cur = '';
   function route() {
-    const k = (location.hash.replace('#/', '') || 'news');
-    cur = PAGES.some(p => p.key === k) ? k : 'news';
+    const k = (location.hash.replace('#/', '') || 'home');
+    cur = PAGES.some(p => p.key === k) ? k : 'home';
     const p = PAGES.find(x => x.key === cur);
     $('#pgTitle').textContent = p.name;
     $('#pgDesc').textContent = p.desc;
+    document.body.setAttribute('data-mod', cur);
     renderNav();
     const view = $('#view');
     view.innerHTML = '';
@@ -141,6 +144,50 @@
   window.addEventListener('hashchange', route);
   window.rerender = () => { renderNav(); route(); };
   window.gotoPage = k => { location.hash = '#/' + k; };
+
+  /* -------------------- 概览 · Bento 首页 -------------------- */
+  function renderHome(view) {
+    const c = counts();
+    const pf = S.s.profile;
+    const now = new Date();
+    const h = now.getHours();
+    const greet = h < 11 ? '早上好' : h < 14 ? '中午好' : h < 18 ? '下午好' : '晚上好';
+    const dateStr = now.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+
+    const tiles = PAGES.filter(p => p.key !== 'home').map(p =>
+      '<button class="bento-tile mod-' + p.key + '" data-go="' + p.key + '" ' +
+      'style="--mc:' + p.color + ';--mc-soft:' + p.c2 + ';--mc-wash:' + p.c3 + '">' +
+      '<span class="bt-ico">' + ico(p.icon) + '</span>' +
+      '<span class="bt-name">' + esc(p.name) + '</span>' +
+      '<span class="bt-desc">' + esc(p.desc) + '</span>' +
+      '<span class="bt-count">' + (c[p.key] || 0) + '<i>项</i></span>' +
+      '<span class="bt-watermark">' + ico(p.icon) + '</span>' +
+      '</button>'
+    ).join('');
+
+    view.innerHTML =
+      '<div class="scroll"><div class="wrap">' +
+      '<div class="bento">' +
+      '<div class="bento-hero">' +
+      '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
+      '<div class="hero-date">' + esc(dateStr) + '</div>' +
+      '<div class="hero-chips">' +
+      '<span><b>' + (c.news || 0) + '</b>行业资讯</span>' +
+      '<span><b>' + (c.insight || 0) + '</b>专业提升</span>' +
+      '<span><b>' + (c.plan || 0) + '</b>待办</span>' +
+      '<span><b>' + (c.english || 0) + '</b>单词</span>' +
+      '</div>' +
+      '</div>' +
+      tiles +
+      '</div>' +
+      '</div></div>';
+
+    view.querySelectorAll('[data-go]').forEach(b => b.onclick = () => {
+      location.hash = '#/' + b.dataset.go; closeSide();
+    });
+  }
+  window.Pages = window.Pages || {};
+  window.Pages.home = renderHome;
 
   /* -------------------- 同步状态 -------------------- */
   function paintSync() {
@@ -336,7 +383,7 @@
   /* -------------------- 启动 -------------------- */
   seed(false);
   paintSync();
-  if (!location.hash) location.hash = '#/news';
+  if (!location.hash) location.hash = '#/home';
   route();
 
   window.addEventListener('store:change', () => renderNav());

@@ -532,3 +532,111 @@ table.tbl tbody tr:hover .row-act { opacity: 1; }
   .sidebar, .topbar, .spark-dock, .row-act, .btn { display: none !important; }
   body, .scroll { overflow: visible; height: auto; }
 }
+
+/* ==========================================================
+   模块主题色 · 编辑珠宝（每模块独立色，整站随切换而变）
+   ========================================================== */
+body[data-mod="news"]    { --accent: #C2604F; --accent-soft: #E4C3BB; --accent-wash: #F7EAE6; }
+body[data-mod="insight"] { --accent: #4F7A5B; --accent-soft: #BFD7C4; --accent-wash: #EBF2EC; }
+body[data-mod="plan"]    { --accent: #41608C; --accent-soft: #B8C6DC; --accent-wash: #EAEFF6; }
+body[data-mod="english"] { --accent: #C28A2C; --accent-soft: #E2C98C; --accent-wash: #F7F0DF; }
+body[data-mod="muse"]    { --accent: #7A5F95; --accent-soft: #CDBEDC; --accent-wash: #F0EBF5; }
+body[data-mod="spark"]   { --accent: #C57A3C; --accent-soft: #E2C2A2; --accent-wash: #F8EEE4; }
+
+/* 分类标签固定色（不随模块主题漂移，保持语义稳定） */
+.tag.c1 { background: #F7EAE6; color: #A8483A; }
+.tag.c2 { background: #EBF2EC; color: #3C6349; }
+.tag.c3 { background: #EAEFF6; color: #355080; }
+.tag.c4 { background: #F7F0DF; color: #9A6C18; }
+.tag.c5 { background: #F0EBF5; color: #614B7A; }
+
+/* 导航色点：常驻显示模块色，激活态用模块自身色 */
+.ndot { width: 6px; height: 6px; border-radius: 50%; flex: 0 0 auto; opacity: .5; transition: opacity .25s var(--ease), transform .25s var(--ease); }
+.ndot.home { background: linear-gradient(135deg, var(--accent), var(--sage)); opacity: .8; }
+.nav-item:hover .ndot { opacity: .85; }
+.nav-item.on .ndot { opacity: 1; transform: scale(1.15); }
+.nav-item.on::before { background: var(--mc, var(--accent)); }
+.nav-item.on .ico { color: var(--mc, var(--accent)); }
+
+/* 页面标题随模块着色 */
+.page-title { transition: color .3s var(--ease); }
+body[data-mod="news"]    .page-title { color: #B14A39; }
+body[data-mod="insight"] .page-title { color: #3F6A4B; }
+body[data-mod="plan"]    .page-title { color: #355A86; }
+body[data-mod="english"] .page-title { color: #B07D22; }
+body[data-mod="muse"]    .page-title { color: #6A5085; }
+body[data-mod="spark"]   .page-title { color: #B56C30; }
+
+/* ==========================================================
+   Bento 概览首页
+   ========================================================== */
+.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: 150px; gap: 14px; }
+
+.bento-hero {
+  grid-column: span 6;
+  background: linear-gradient(122deg, #2B2933 0%, #3A3528 100%);
+  color: #F4EFE6; border-radius: var(--r-lg);
+  padding: 22px 28px; display: flex; flex-direction: column; justify-content: center;
+  position: relative; overflow: hidden; box-shadow: var(--sh-3);
+}
+.bento-hero::after {
+  content: ''; position: absolute; right: -50px; top: -60px;
+  width: 220px; height: 220px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(184,137,90,.32), transparent 70%);
+}
+.hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; }
+.hero-date { font-size: 12.5px; color: #C9C2B5; margin-top: 5px; letter-spacing: .4px; }
+.hero-chips { display: flex; gap: 22px; margin-top: 18px; flex-wrap: wrap; }
+.hero-chips span { font-size: 12px; color: #D8D2C5; display: flex; align-items: baseline; gap: 6px; }
+.hero-chips b { font-family: var(--font-serif); font-size: 20px; color: #fff; font-weight: 600; }
+
+.bento-tile {
+  position: relative; overflow: hidden;
+  border-radius: var(--r-lg); border: 1px solid var(--line);
+  background: var(--mc-wash, var(--surface)); padding: 16px 18px;
+  display: flex; flex-direction: column; gap: 4px; text-align: left; cursor: pointer;
+  transition: transform .3s var(--ease), box-shadow .3s var(--ease), border-color .3s var(--ease);
+}
+.bento-tile:hover { transform: translateY(-3px); box-shadow: var(--sh-3); border-color: var(--mc); }
+.bento-tile:active { transform: translateY(-1px) scale(.992); }
+.bt-ico {
+  width: 40px; height: 40px; border-radius: 12px; background: var(--mc); color: #fff;
+  display: grid; place-items: center; flex: 0 0 auto;
+  box-shadow: 0 5px 14px color-mix(in srgb, var(--mc) 38%, transparent);
+}
+.bt-ico svg { width: 21px; height: 21px; stroke: #fff; fill: none; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.bt-name { font-size: 15px; font-weight: 600; color: var(--ink); margin-top: 7px; }
+.bt-desc { font-size: 11.5px; color: var(--ink-3); line-height: 1.5; }
+.bt-count { margin-top: auto; font-family: var(--font-serif); font-size: 27px; font-weight: 600; color: var(--mc); line-height: 1; }
+.bt-count i { font-size: 12px; font-style: normal; font-family: var(--font); color: var(--ink-3); margin-left: 3px; }
+.bt-watermark { position: absolute; right: -12px; bottom: -16px; width: 92px; height: 92px; color: var(--mc); opacity: .09; pointer-events: none; }
+.bt-watermark svg { width: 100%; height: 100%; stroke: currentColor; fill: none; stroke-width: 1.2; }
+
+/* 错落：行业资讯占左侧 2 行大块，灵光乍现占底部整条 */
+.bento .mod-news { grid-column: span 3; grid-row: span 2; }
+.bento .mod-insight, .bento .mod-plan,
+.bento .mod-english, .bento .mod-muse { grid-column: span 3; }
+.bento .mod-spark { grid-column: span 6; flex-direction: row; align-items: center; gap: 14px; }
+.bento .mod-spark .bt-count { margin-top: 0; margin-left: auto; }
+.bento .mod-news .bt-count { font-size: 40px; }
+.bento .mod-news .bt-name { font-size: 18px; }
+.bento .mod-news .bt-desc { font-size: 12.5px; max-width: 80%; }
+
+/* ==========================================================
+   响应式 · Bento
+   ========================================================== */
+@media (max-width: 900px) {
+  .bento { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 140px; }
+  .bento-hero { grid-column: span 2; }
+  .bento .mod-news, .bento .mod-insight, .bento .mod-plan,
+  .bento .mod-english, .bento .mod-muse, .bento .mod-spark { grid-column: span 2; grid-row: auto; }
+  .bento .mod-spark { flex-direction: column; align-items: flex-start; }
+  .bento .mod-spark .bt-count { margin-top: auto; margin-left: 0; }
+  .bento .mod-news .bt-count { font-size: 27px; }
+  .bento .mod-news .bt-name { font-size: 15px; }
+}
+@media (max-width: 560px) {
+  .bento { grid-template-columns: 1fr; }
+  .bento-hero, .bento-tile, .bento .mod-news, .bento .mod-english { grid-column: span 1; grid-row: auto; }
+  .bento-hero { padding: 18px 20px; }
+}
