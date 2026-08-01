@@ -73,7 +73,7 @@
 
   /* -------------------- 页面注册表 -------------------- */
   const PAGES = [
-    { key: 'home', name: '概览', icon: 'star', desc: '今日工作台总览', color: '#566069', c2: '#D9DDE0', c3: '#F1F3F4' },
+    { key: 'home', name: '概览', icon: 'home', desc: '今日工作台总览', color: '#566069', c2: '#D9DDE0', c3: '#F1F3F4' },
     { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪', color: '#41566B', c2: '#D5DADE', c3: '#F0F2F3' },
     { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报', color: '#6B6470', c2: '#DFDDE0', c3: '#F3F3F4' },
     { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志', color: '#6E7479', c2: '#DFE0E2', c3: '#F3F4F4' },
@@ -100,9 +100,8 @@
     const c = counts();
     $('#nav').innerHTML = PAGES.map((p, i) =>
       '<button class="nav-item' + (p.key === cur ? ' on' : '') + '" data-go="' + p.key + '" style="--mc:' + p.color + '">' +
-      (p.key === 'home' ? '<span class="ndot home"></span>' : '<span class="ndot" style="background:' + p.color + '"></span>') +
-      '<span class="ico">' + ico(p.icon) + '</span>' +
-      '<span>' + esc(p.name) + '</span>' +
+      '<span class="nav-ico">' + ico(p.icon) + '</span>' +
+      '<span class="nav-name">' + esc(p.name) + '</span>' +
       (c[p.key] ? '<span class="num">' + c[p.key] + '</span>' : '') +
       '</button>'
     ).join('');
@@ -165,6 +164,10 @@
       '</button>'
     ).join('');
 
+    const calState = { y: now.getFullYear(), m: now.getMonth() };
+    const calTile = '<div class="bento-tile mod-cal" style="--mc:#41566B" id="calTile">' + calHTML(calState.y, calState.m) + '</div>';
+    const tilesAll = tiles.replace('</button>', '</button>' + calTile, 1);
+
     view.innerHTML =
       '<div class="scroll"><div class="wrap">' +
       '<div class="bento">' +
@@ -178,14 +181,84 @@
       '<span><b>' + (c.english || 0) + '</b>单词</span>' +
       '</div>' +
       '</div>' +
-      tiles +
+      tilesAll +
       '</div>' +
       '</div></div>';
 
     view.querySelectorAll('[data-go]').forEach(b => b.onclick = () => {
       location.hash = '#/' + b.dataset.go; closeSide();
     });
+    bindCalendar(view);
   }
+
+  /* ================= 概览日历 ================= */
+  const HOLIDAYS_2026 = {
+    '01-01':{n:'元旦',e:'🎊',t:'cn'}, '02-14':{n:'情人节',e:'💝',t:'intl'},
+    '02-15':{n:'春节调休班',e:'💼',t:'work'}, '02-16':{n:'除夕',e:'🥟',t:'cn'},
+    '02-17':{n:'春节',e:'🏮',t:'cn'}, '02-18':{n:'春节',e:'🏮',t:'cn'},
+    '04-04':{n:'清明',e:'🌿',t:'cn'}, '04-05':{n:'清明',e:'🌿',t:'cn'},
+    '04-26':{n:'劳动调休班',e:'💼',t:'work'}, '05-01':{n:'劳动节',e:'🔧',t:'cn'},
+    '05-02':{n:'劳动节',e:'🔧',t:'cn'}, '05-09':{n:'劳动调休班',e:'💼',t:'work'},
+    '05-10':{n:'母亲节',e:'🌷',t:'intl'}, '06-19':{n:'端午',e:'🐉',t:'cn'},
+    '06-21':{n:'父亲节',e:'👔',t:'intl'}, '07-01':{n:'建党节',e:'⭐',t:'cn'},
+    '08-01':{n:'建军节',e:'🎖️',t:'cn'}, '08-08':{n:'国际猫咪日',e:'🐱',t:'intl'},
+    '08-19':{n:'七夕',e:'💕',t:'cn'}, '08-27':{n:'中元节',e:'🪔',t:'cn'},
+    '09-25':{n:'中秋',e:'🌕',t:'cn'}, '09-27':{n:'国庆调休班',e:'💼',t:'work'},
+    '10-01':{n:'国庆',e:'🇨🇳',t:'cn'}, '10-02':{n:'国庆',e:'🇨🇳',t:'cn'},
+    '10-10':{n:'国庆调休班',e:'💼',t:'work'}, '10-31':{n:'万圣节',e:'🎃',t:'intl'},
+    '11-26':{n:'感恩节',e:'🦃',t:'intl'}, '12-24':{n:'平安夜',e:'🎄',t:'intl'},
+    '12-25':{n:'圣诞节',e:'🎄',t:'intl'}, '12-31':{n:'跨年',e:'🎆',t:'intl'},
+    '03-08':{n:'妇女节',e:'🌸',t:'cn'}, '03-14':{n:'白色情人节',e:'💝',t:'intl'}
+  };
+  const LUNAR = {1:'乙巳年 腊月',2:'丙午年 正月',3:'丙午年 二月',4:'丙午年 三月',5:'丙午年 四月',6:'丙午年 五月',7:'丙午年 六月',8:'丙午年 七月',9:'丙午年 八月',10:'丙午年 九月',11:'丙午年 十月',12:'丙午年 冬月'};
+  function calKey(y,m,d){ return y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0'); }
+  function getSched(ds){ try{ return JSON.parse(localStorage.getItem(ds)||'[]'); }catch(e){ return []; } }
+  function setSched(ds,a){ try{ localStorage.setItem(ds, JSON.stringify(a)); }catch(e){} }
+  function calHTML(y,m){
+    const now=new Date(); const isT=(y===now.getFullYear()&&m===now.getMonth());
+    const first=new Date(y,m,1).getDay(); const dim=new Date(y,m+1,0).getDate();
+    const prevDim=(m===0?new Date(y-1,12,0):new Date(y,m,0)).getDate();
+    let cells='';
+    for(let i=first-1;i>=0;i--) cells+='<div class="cal-d out"><span class="cal-n">'+(prevDim-i)+'</span></div>';
+    for(let d=1;d<=dim;d++){
+      const ds=calKey(y,m,d); const k=String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+      const h=HOLIDAYS_2026[k]; const td=isT&&d===now.getDate(); const sc=getSched(ds);
+      const cls='cal-d'+(td?' today':'')+(h?' has':'')+(sc.length?' sched':'');
+      const f=h?'<span class="cal-f" title="'+esc(h.n)+'">'+h.e+'</span>':'';
+      const star=td?'<span class="cal-star">★</span>':'';
+      cells+='<div class="'+cls+'" data-date="'+ds+'">'+f+'<span class="cal-n">'+d+'</span>'+star+'</div>';
+    }
+    const total=first+dim; const trail=Math.ceil(total/7)*7-total;
+    for(let d=1;d<=trail;d++) cells+='<div class="cal-d out"><span class="cal-n">'+d+'</span></div>';
+    const lunar=LUNAR[m+1]||''; const st=getSched(calKey(y,m,now.getDate()));
+    const foot=isT?('今日日程 · <b>'+st.length+'</b> 项'+(st.length?'　'+esc(st[0]):'')):'点击日期添加日程';
+    const wd='日一二三四五六'.split('').map(w=>'<div class="cal-wd">'+w+'</div>').join('');
+    return '<div class="cal-head"><div><div class="cal-m">'+y+' 年 '+(m+1)+' 月</div><div class="cal-l">'+lunar+'</div></div>'
+      +'<div class="cal-nav"><button class="cal-p" aria-label="上个月">‹</button><button class="cal-n" aria-label="下个月">›</button></div></div>'
+      +'<div class="cal-grid">'+wd+cells+'</div><div class="cal-foot">'+foot+'</div>';
+  }
+  function bindCalendar(view){
+    const tile=view&&view.querySelector('#calTile'); if(!tile) return;
+    if(!tile._cal) tile._cal={y:new Date().getFullYear(),m:new Date().getMonth()};
+    const st=tile._cal;
+    const paint=()=>{
+      tile.innerHTML=calHTML(st.y,st.m);
+      tile.querySelector('.cal-p').onclick=e=>{e.stopPropagation();st.m--;if(st.m<0){st.m=11;st.y--;}paint();};
+      tile.querySelector('.cal-n').onclick=e=>{e.stopPropagation();st.m++;if(st.m>11){st.m=0;st.y++;}paint();};
+      tile.querySelectorAll('.cal-d[data-date]').forEach(cx=>{cx.onclick=e=>{e.stopPropagation();openSched(cx.dataset.date);};});
+    };
+    paint();
+  }
+  window.__refreshCal=()=>{const v=document.getElementById('view');if(v)bindCalendar(v);};
+  function openSched(ds){
+    const arr=getSched(ds);
+    const list=arr.length?arr.map((t,i)=>'<div style="display:flex;gap:8px;align-items:center;padding:7px 0;border-bottom:1px solid var(--line-soft)"><span style="flex:1;font-size:13px;color:var(--ink)">'+esc(t)+'</span><button class="icon-btn" data-del="'+i+'">'+ico('trash')+'</button></div>').join(''):'<div style="color:var(--ink-3);font-size:13px;margin-bottom:10px">暂无日程</div>';
+    modal({title:'日程 · '+ds, body:list+'<input class="inp" id="schedInp" placeholder="添加日程，回车保存" style="width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:10px;font-size:13.5px">',
+      okText:'添加', onOk:(m)=>{const v=m.querySelector('#schedInp').value.trim();if(v){arr.push(v);setSched(ds,arr);} setTimeout(()=>window.__refreshCal&&window.__refreshCal(),60); return true;},
+      after:(m)=>{const inp=m.querySelector('#schedInp');inp.onkeydown=e=>{if(e.key==='Enter'){const v=inp.value.trim();if(v){arr.push(v);setSched(ds,arr);setTimeout(()=>window.__refreshCal&&window.__refreshCal(),60);m.querySelector('[data-ok]').click();}}};
+        m.querySelectorAll('[data-del]').forEach(b=>b.onclick=()=>{arr.splice(+b.dataset.del,1);setSched(ds,arr);b.closest('div').remove();setTimeout(()=>window.__refreshCal&&window.__refreshCal(),60);});}});
+  }
+
   window.Pages = window.Pages || {};
   window.Pages.home = renderHome;
 
