@@ -23,7 +23,7 @@
   --ink-4: #C3B9AB;
 
   /* 主色 · 焦糖 */
-  --accent: #B8895A;
+  --accent: #566069;
   --accent-soft: #E8D5BE;
   --accent-wash: #F6EDE1;
 
@@ -536,19 +536,19 @@ table.tbl tbody tr:hover .row-act { opacity: 1; }
 /* ==========================================================
    模块主题色 · 编辑珠宝（每模块独立色，整站随切换而变）
    ========================================================== */
-body[data-mod="news"]    { --accent: #C2604F; --accent-soft: #E4C3BB; --accent-wash: #F7EAE6; }
-body[data-mod="insight"] { --accent: #4F7A5B; --accent-soft: #BFD7C4; --accent-wash: #EBF2EC; }
-body[data-mod="plan"]    { --accent: #41608C; --accent-soft: #B8C6DC; --accent-wash: #EAEFF6; }
-body[data-mod="english"] { --accent: #C28A2C; --accent-soft: #E2C98C; --accent-wash: #F7F0DF; }
-body[data-mod="muse"]    { --accent: #7A5F95; --accent-soft: #CDBEDC; --accent-wash: #F0EBF5; }
-body[data-mod="spark"]   { --accent: #C57A3C; --accent-soft: #E2C2A2; --accent-wash: #F8EEE4; }
+body[data-mod="news"]    { --accent: #41566B; --accent-soft: #D5DADE; --accent-wash: #F0F2F3; }
+body[data-mod="insight"] { --accent: #6B6470; --accent-soft: #DFDDE0; --accent-wash: #F3F3F4; }
+body[data-mod="plan"]    { --accent: #6E7479; --accent-soft: #DFE0E2; --accent-wash: #F3F4F4; }
+body[data-mod="english"] { --accent: #8AA093; --accent-soft: #E5EAE7; --accent-wash: #F6F7F6; }
+body[data-mod="muse"]    { --accent: #6E5270; --accent-soft: #DFD9E0; --accent-wash: #F3F1F4; }
+body[data-mod="spark"]   { --accent: #A7AEB6; --accent-soft: #ECEDEF; --accent-wash: #F8F8F9; }
 
 /* 分类标签固定色（不随模块主题漂移，保持语义稳定） */
-.tag.c1 { background: #F7EAE6; color: #A8483A; }
-.tag.c2 { background: #EBF2EC; color: #3C6349; }
-.tag.c3 { background: #EAEFF6; color: #355080; }
-.tag.c4 { background: #F7F0DF; color: #9A6C18; }
-.tag.c5 { background: #F0EBF5; color: #614B7A; }
+.tag.c1 { background: #F0F2F3; color: #A8483A; }
+.tag.c2 { background: #F3F3F4; color: #3C6349; }
+.tag.c3 { background: #F3F4F4; color: #355080; }
+.tag.c4 { background: #F6F7F6; color: #9A6C18; }
+.tag.c5 { background: #F3F1F4; color: #614B7A; }
 
 /* 导航色点：常驻显示模块色，激活态用模块自身色 */
 .ndot { width: 6px; height: 6px; border-radius: 50%; flex: 0 0 auto; opacity: .5; transition: opacity .25s var(--ease), transform .25s var(--ease); }
@@ -560,12 +560,12 @@ body[data-mod="spark"]   { --accent: #C57A3C; --accent-soft: #E2C2A2; --accent-w
 
 /* 页面标题随模块着色 */
 .page-title { transition: color .3s var(--ease); }
-body[data-mod="news"]    .page-title { color: #B14A39; }
-body[data-mod="insight"] .page-title { color: #3F6A4B; }
-body[data-mod="plan"]    .page-title { color: #355A86; }
-body[data-mod="english"] .page-title { color: #B07D22; }
-body[data-mod="muse"]    .page-title { color: #6A5085; }
-body[data-mod="spark"]   .page-title { color: #B56C30; }
+body[data-mod="news"]    .page-title { color: #41566B; }
+body[data-mod="insight"] .page-title { color: #6B6470; }
+body[data-mod="plan"]    .page-title { color: #6E7479; }
+body[data-mod="english"] .page-title { color: #8AA093; }
+body[data-mod="muse"]    .page-title { color: #6E5270; }
+body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 
 /* ==========================================================
    Bento 概览首页

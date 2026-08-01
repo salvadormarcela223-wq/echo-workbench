@@ -73,13 +73,13 @@
 
   /* -------------------- 页面注册表 -------------------- */
   const PAGES = [
-    { key: 'home', name: '概览', icon: 'star', desc: '今日工作台总览', color: '#B8895A', c2: '#E8D5BE', c3: '#F6EDE1' },
-    { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪', color: '#C2604F', c2: '#E4C3BB', c3: '#F7EAE6' },
-    { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报', color: '#4F7A5B', c2: '#BFD7C4', c3: '#EBF2EC' },
-    { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志', color: '#41608C', c2: '#B8C6DC', c3: '#EAEFF6' },
-    { key: 'english', name: '英语学习', icon: 'lang', desc: '每日阅读 · 情景对话 · 单词本', color: '#C28A2C', c2: '#E2C98C', c3: '#F7F0DF' },
-    { key: 'muse', name: '随想记录', icon: 'muse', desc: '电影 / 话剧 / 演唱会 / 阅读 / 旅行', color: '#7A5F95', c2: '#CDBEDC', c3: '#F0EBF5' },
-    { key: 'spark', name: '灵光乍现', icon: 'spark', desc: '想到就记，标签分流', color: '#C57A3C', c2: '#E2C2A2', c3: '#F8EEE4' }
+    { key: 'home', name: '概览', icon: 'star', desc: '今日工作台总览', color: '#566069', c2: '#D9DDE0', c3: '#F1F3F4' },
+    { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪', color: '#41566B', c2: '#D5DADE', c3: '#F0F2F3' },
+    { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报', color: '#6B6470', c2: '#DFDDE0', c3: '#F3F3F4' },
+    { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志', color: '#6E7479', c2: '#DFE0E2', c3: '#F3F4F4' },
+    { key: 'english', name: '英语学习', icon: 'lang', desc: '每日阅读 · 情景对话 · 单词本', color: '#8AA093', c2: '#E5EAE7', c3: '#F6F7F6' },
+    { key: 'muse', name: '随想记录', icon: 'muse', desc: '电影 / 话剧 / 演唱会 / 阅读 / 旅行', color: '#6E5270', c2: '#DFD9E0', c3: '#F3F1F4' },
+    { key: 'spark', name: '灵光乍现', icon: 'spark', desc: '想到就记，标签分流', color: '#A7AEB6', c2: '#ECEDEF', c3: '#F8F8F9' }
   ];
   window.PAGES = PAGES;
 
