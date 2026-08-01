@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="theme-color" content="#F7F3EC">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>Echo 的工作台</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='26' fill='%23E9D6BC'/%3E%3Ctext x='50' y='68' font-size='54' text-anchor='middle' fill='%236B4E30' font-family='Georgia,serif'%3EE%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- ============ SVG 图标库 ============ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+<defs>
+  <symbol id="i-news" viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4h9A1.5 1.5 0 0 1 16 5.5V18a2 2 0 0 0 2 2H6a2 2 0 0 1-2-2V5.5Z"/><path d="M16 9h2.5A1.5 1.5 0 0 1 20 10.5V18a2 2 0 0 1-2 2"/><path d="M7 8h6M7 11.5h6M7 15h3.5"/></symbol>
+  <symbol id="i-brain" viewBox="0 0 24 24"><path d="M12 5.5a2.5 2.5 0 0 0-4.9-.7A2.6 2.6 0 0 0 4.6 8a2.6 2.6 0 0 0-.4 4.4A2.6 2.6 0 0 0 5.6 17a2.5 2.5 0 0 0 4.4 1.6"/><path d="M12 5.5a2.5 2.5 0 0 1 4.9-.7A2.6 2.6 0 0 1 19.4 8a2.6 2.6 0 0 1 .4 4.4A2.6 2.6 0 0 1 18.4 17a2.5 2.5 0 0 1-4.4 1.6"/><path d="M12 5.5V20"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M8.5 5h8A1.5 1.5 0 0 1 18 6.5v13A1.5 1.5 0 0 1 16.5 21h-9A1.5 1.5 0 0 1 6 19.5v-13A1.5 1.5 0 0 1 7.5 5"/><path d="M9 5a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 5"/><path d="M9.5 12.5l2 2 3.5-4"/></symbol>
+  <symbol id="i-lang" viewBox="0 0 24 24"><path d="M3 6h11M8.5 4v2M11 6c0 4.5-3 8-7 9.5"/><path d="M6 11.5c1.5 2.5 3.8 4 6 4.5"/><path d="M13 21l4.2-10 4.2 10M14.6 17.6h5.2"/></symbol>
+  <symbol id="i-muse" viewBox="0 0 24 24"><path d="M5 4.5h11.5a2 2 0 0 1 2 2v13a1 1 0 0 1-1.6.8L12 17l-4.9 3.3A1 1 0 0 1 5.5 19.5V5a.5.5 0 0 1 .5-.5"/><path d="M9 9h6M9 12.5h4"/></symbol>
+  <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 2.5l1.9 5.1 5.1 1.9-5.1 1.9L12 16.5l-1.9-5.1L5 9.5l5.1-1.9L12 2.5Z"/><path d="M18.5 15.5l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8.8-2.2Z"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h10"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24"><path d="M16.5 4.5l3 3L8 19l-4 1 1-4L16.5 4.5Z"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9.5 7V5h5v2M6.5 7l.8 12a1.5 1.5 0 0 0 1.5 1.4h6.4a1.5 1.5 0 0 0 1.5-1.4L17.5 7"/></symbol>
+  <symbol id="i-tick" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></symbol>
+  <symbol id="i-cloud" viewBox="0 0 24 24"><path d="M7 18a4 4 0 0 1-.4-8A5.5 5.5 0 0 1 17.3 9.5 3.8 3.8 0 0 1 17 18H7Z"/><path d="M12 12v5M9.8 14.2L12 12l2.2 2.2"/></symbol>
+  <symbol id="i-cog" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 14.5a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5v.2a2 2 0 1 1-4 0v-.1a1.6 1.6 0 0 0-1-1.5 1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.6 1.6 0 0 0 1.5-1 1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1h.2a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1Z"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1 5.9-5.2-2.8-5.2 2.8 1-5.9L3.5 9.7l5.9-.8L12 3.5Z"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H10a2 2 0 0 1 2 2v13a2 2 0 0 0-2-2H5.5A1.5 1.5 0 0 1 4 15.5v-10Z"/><path d="M20 5.5A1.5 1.5 0 0 0 18.5 4H14a2 2 0 0 0-2 2v13a2 2 0 0 1 2-2h4.5a1.5 1.5 0 0 0 1.5-1.5v-10Z"/></symbol>
+  <symbol id="i-chat" viewBox="0 0 24 24"><path d="M20 12a7 7 0 0 1-7 7H8l-4 2.5V12a7 7 0 0 1 7-7h2a7 7 0 0 1 7 7Z"/><path d="M9 11h6M9 14h3.5"/></symbol>
+  <symbol id="i-cards" viewBox="0 0 24 24"><rect x="3" y="6" width="13" height="13" rx="2"/><path d="M8 3h11a2 2 0 0 1 2 2v11"/><path d="M7 12h5M7 15h3"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 11a8 8 0 0 0-14-4.5L4 9"/><path d="M4 5v4h4"/><path d="M4 13a8 8 0 0 0 14 4.5L20 15"/><path d="M20 19v-4h-4"/></symbol>
+  <symbol id="i-inbox" viewBox="0 0 24 24"><path d="M3.5 13h4l1.5 3h6l1.5-3h4"/><path d="M5.2 5.6 3.5 13v4.5A1.5 1.5 0 0 0 5 19h14a1.5 1.5 0 0 0 1.5-1.5V13l-1.7-7.4A1.5 1.5 0 0 0 17.3 4.5H6.7a1.5 1.5 0 0 0-1.5 1.1Z"/></symbol>
+  <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 5h16l-6.2 7.4V19l-3.6-2v-4.6L4 5Z"/></symbol>
+  <symbol id="i-down" viewBox="0 0 24 24"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M4.5 19.5h15"/></symbol>
+  <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 15V4M7.5 8.5 12 4l4.5 4.5M4.5 19.5h15"/></symbol>
+</defs>
+</svg>
+
+<div class="app">
+  <!-- ============ 侧边栏 ============ -->
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="avatar" id="avatarBox" title="点击更换头像">E</div>
+      <div class="brand-text">
+        <div class="brand-name" id="brandName">Echo 的工作台</div>
+        <div class="brand-sub" id="brandSub">FMCG · 感官 & CMI</div>
+      </div>
+    </div>
+
+    <div class="nav-label">工 作 台</div>
+    <nav class="nav" id="nav"></nav>
+
+    <div class="side-foot">
+      <button id="btnSync" title="云端同步"><svg><use href="#i-cloud"></use></svg>同步</button>
+      <button id="btnSet" title="设置"><svg><use href="#i-cog"></use></svg>设置</button>
+    </div>
+  </aside>
+  <div class="backdrop" id="backdrop"></div>
+
+  <!-- ============ 主区 ============ -->
+  <main class="main">
+    <header class="topbar">
+      <button class="burger" id="burger"><svg><use href="#i-menu"></use></svg></button>
+      <div>
+        <div class="page-title" id="pgTitle">行业资讯</div>
+        <div class="page-desc" id="pgDesc"></div>
+      </div>
+      <div class="topbar-right">
+        <div class="sync-dot" id="syncDot"><i></i><span>本地</span></div>
+      </div>
+    </header>
+    <div id="view" style="flex:1;min-height:0;display:flex;flex-direction:column;overflow:hidden"></div>
+  </main>
+</div>
+
+<div class="toast-box" id="toastBox"></div>
+<div id="modalRoot"></div>
+
+<script src="assets/js/seed-news.js"></script>
+<script src="assets/js/seed-insight.js"></script>
+<script src="assets/js/seed-reading.js"></script>
+<script src="assets/js/seed-dialog.js"></script>
+<script src="assets/js/store.js"></script>
+<script src="assets/js/app-boot.js"></script>
+<script src="assets/js/pages-info.js"></script>
+<script src="assets/js/pages-plan.js"></script>
+<script src="assets/js/pages-english.js"></script>
+<script src="assets/js/pages-note.js"></script>
+<script src="assets/js/feed.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
