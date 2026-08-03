@@ -572,13 +572,13 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 /* ==========================================================
    Bento 概览首页
    ========================================================== */
-.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: 150px; gap: 14px; }
+.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: start; }
 
 .bento-hero {
   grid-column: span 6;
   background: linear-gradient(122deg, #23262D 0%, #2C333B 100%);
   color: #F4EFE6; border-radius: var(--r-lg);
-  padding: 22px 28px; display: flex; flex-direction: column;
+  padding: 18px 24px; display: flex; flex-direction: column;
   position: relative; overflow: hidden; box-shadow: var(--sh-3);
 }
 .bento-hero::after {
@@ -638,10 +638,10 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bento .mod-cal { grid-column: span 3; grid-row: span 2; background: var(--surface); cursor: default; }
 .bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
 
-/* 日历移到问候条右侧：与 hero 并排（各自适应高度，不强制等高） */
-.bento-top { grid-column: 1 / -1; grid-row: span 3; display: flex; gap: 14px; align-items: flex-start; }
-.bento-top .bento-hero { flex: 1 1 auto; margin: 0; }
-.bento-top .mod-cal { flex: 0 0 300px; width: 300px; grid-column: auto; grid-row: auto; }
+/* 概览顶部：hero问候 + 日历并排，各自按内容自然高度，不强制等高，错落有致 */
+.bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: flex-start; }
+.bento-top .bento-hero { flex: 0 0 auto; margin: 0; max-width: 420px; }
+.bento-top .mod-cal { flex: 0 0 auto; width: 300px; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }
