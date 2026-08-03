@@ -115,7 +115,7 @@
     const av = $('#avatarBox');
     av.innerHTML = pf.avatar
       ? '<img src="' + esc(pf.avatar) + '" alt="">'
-      : '<img src="assets/img/avatar.png?v=20260803b" alt="">';
+      : '<img src="assets/img/avatar.png?v=20260803c" alt="">';
   }
 
   /* -------------------- 侧边栏（移动端） -------------------- */
@@ -171,7 +171,6 @@
     view.innerHTML =
       '<div class="scroll"><div class="wrap">' +
       '<div class="bento">' +
-      '<div class="bento-top">' +
       '<div class="bento-hero">' +
       '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
       '<div class="hero-date">' + esc(dateStr) + '</div>' +
@@ -184,7 +183,6 @@
       '</div>' +
       '</div>' +
       calTile +
-      '</div>' +
       tiles +
       '</div>' +
       '</div></div>';

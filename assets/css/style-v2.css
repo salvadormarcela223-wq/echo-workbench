@@ -626,22 +626,26 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bt-watermark { position: absolute; right: -12px; bottom: -16px; width: 92px; height: 92px; color: var(--mc); opacity: .09; pointer-events: none; }
 .bt-watermark svg { width: 100%; height: 100%; stroke: currentColor; fill: none; stroke-width: 1.2; }
 
-/* 错落：行业资讯占左侧 2 行大块，灵光乍现占底部整条 */
-.bento .mod-news { grid-column: span 3; grid-row: span 2; }
-.bento .mod-insight, .bento .mod-plan,
-.bento .mod-english, .bento .mod-muse { grid-column: span 3; }
+/* 方案A · 杂志式拼接（每行铺满6格，无空白） */
+/* Row1: hero(4) + cal(2) 并排填满 */
+.bento > .bento-hero { grid-column: span 4; grid-row: span 2; align-self: stretch; }
+.bento .mod-cal { grid-column: span 2; grid-row: span 2; align-self: stretch; background: var(--surface); cursor: default; }
+.bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
+
+/* Row2: news(2) + insight(2) + plan(2) = 6 */
+.bento .mod-news { grid-column: span 2; }
+.bento .mod-insight, .bento .mod-plan { grid-column: span 2; }
+
+/* Row3: english(3) + muse(3) = 6 */
+.bento .mod-english { grid-column: span 3; }
+.bento .mod-muse { grid-column: span 3; }
+
+/* Row4: spark(6) 整条 */
 .bento .mod-spark { grid-column: span 6; flex-direction: row; align-items: center; gap: 14px; }
 .bento .mod-spark .bt-count { margin-top: 0; margin-left: auto; }
 .bento .mod-news .bt-count { font-size: 40px; }
 .bento .mod-news .bt-name { font-size: 18px; }
 .bento .mod-news .bt-desc { font-size: 12.5px; max-width: 80%; }
-.bento .mod-cal { grid-column: span 3; grid-row: span 2; background: var(--surface); cursor: default; }
-.bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
-
-/* 概览顶部：hero问候 + 日历并排，各自按内容自然高度，不强制等高，错落有致 */
-.bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: flex-start; }
-.bento-top .bento-hero { flex: 0 0 auto; margin: 0; max-width: 420px; }
-.bento-top .mod-cal { flex: 0 0 auto; width: 300px; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }
@@ -670,10 +674,9 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
    响应式 · Bento
    ========================================================== */
 @media (max-width: 900px) {
-  .bento { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 140px; }
-  .bento-top { flex-direction: column; }
-  .bento-top .mod-cal { width: 100%; flex-basis: auto; }
-  .bento-hero { grid-column: span 2; }
+  .bento { grid-template-columns: repeat(2, 1fr); }
+  .bento > .bento-hero { grid-column: span 2; }
+  .bento .mod-cal { grid-column: span 2; }
   .bento .mod-news, .bento .mod-insight, .bento .mod-plan,
   .bento .mod-english, .bento .mod-muse, .bento .mod-spark { grid-column: span 2; grid-row: auto; }
   .bento .mod-spark { flex-direction: column; align-items: flex-start; }
@@ -683,8 +686,7 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 }
 @media (max-width: 560px) {
   .bento { grid-template-columns: 1fr; }
-  .bento-top { flex-direction: column; }
-  .bento-top .mod-cal { width: 100%; flex-basis: auto; }
-  .bento-hero, .bento-tile, .bento .mod-news, .bento .mod-english { grid-column: span 1; grid-row: auto; }
+  .bento > .bento-hero, .bento-tile, .bento .mod-news,
+  .bento .mod-cal, .bento .mod-english { grid-column: span 1; grid-row: auto; }
   .bento-hero { padding: 18px 20px; }
 }
