@@ -638,21 +638,21 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bento .mod-cal { grid-column: span 3; grid-row: span 2; background: var(--surface); cursor: default; }
 .bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
 
-/* 日历移到问候条右侧：与 hero 并排（占3行=450px，确保日历不被grid裁切） */
-.bento-top { grid-column: 1 / -1; grid-row: span 3; display: flex; gap: 14px; align-items: stretch; }
+/* 日历移到问候条右侧：与 hero 并排（各自适应高度，不强制等高） */
+.bento-top { grid-column: 1 / -1; grid-row: span 3; display: flex; gap: 14px; align-items: flex-start; }
 .bento-top .bento-hero { flex: 1 1 auto; margin: 0; }
-.bento-top .mod-cal { flex: 0 0 320px; width: 320px; min-height: 380px; grid-column: auto; grid-row: auto; }
+.bento-top .mod-cal { flex: 0 0 300px; width: 300px; grid-column: auto; grid-row: auto; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }
-.cal-m { font-size: 16px; font-weight: 600; color: var(--ink); font-family: var(--font-serif); }
-.cal-l { font-size: 11.5px; color: var(--ink-3); margin-top: 2px; letter-spacing: .5px; }
+.cal-m { font-size: 14.5px; font-weight: 600; color: var(--ink); font-family: var(--font-serif); }
+.cal-l { font-size: 10.5px; color: var(--ink-3); margin-top: 1px; letter-spacing: .5px; }
 .cal-nav { display: flex; gap: 6px; }
 .cal-nav button { width: 28px; height: 28px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-2); cursor: pointer; font-size: 16px; line-height: 1; display: grid; place-items: center; transition: background .2s var(--ease), color .2s var(--ease); }
 .cal-nav button:hover { background: var(--surface-3); color: var(--mc); }
-.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; margin-top: 10px; }
-.cal-wd { font-size: 11.5px; color: var(--ink-4); text-align: center; padding: 2px 0; }
-.cal-d { position: relative; aspect-ratio: 1 / 1; display: grid; place-items: center; border-radius: 8px; font-size: 14px; color: var(--ink-2); cursor: pointer; transition: background .2s var(--ease); }
+.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; margin-top: 6px; }
+.cal-wd { font-size: 11px; color: var(--ink-4); text-align: center; padding: 1px 0; }
+.cal-d { position: relative; aspect-ratio: 1 / 1; display: grid; place-items: center; border-radius: 6px; font-size: 13px; color: var(--ink-2); cursor: pointer; transition: background .2s var(--ease); }
 .cal-d.out { color: var(--ink-4); opacity: .4; }
 .cal-d:hover { background: var(--surface-3); }
 .cal-d.today { background: color-mix(in srgb, var(--mc) 14%, transparent); color: var(--mc); font-weight: 700; }
