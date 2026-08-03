@@ -8,7 +8,8 @@
 
   // 内容 feed 与站点同源（GitHub Pages 的 data/feed.json），无需跨域、无需令牌即可读取。
   // 由每日自动化任务抓取最新素材后写入该文件。
-  const URL = 'data/feed.json';
+  // v 参数用于破 CDN 缓存，每次更新内容时递增。
+  const URL = 'data/feed.json?v=20260803';
 
   let cache = null;
 
@@ -29,6 +30,9 @@
     // 英语学习：云端优先，缺失时回退到内置 seed
     window.SEED_READINGS = (Array.isArray(j.readings) && j.readings.length) ? j.readings : (window.SEED_READINGS || []);
     window.SEED_DIALOGS = (Array.isArray(j.dialogs) && j.dialogs.length) ? j.dialogs : (window.SEED_DIALOGS || []);
+
+    // 关键：拉到新数据后立刻持久化到 localStorage，确保刷新后不丢失
+    if (S.save) S.save(true);
   }
 
   async function load() {
