@@ -11,7 +11,7 @@ window.SEED_READINGS = [
     tag: 'BBC Future 风格 · 感官科学',
     title: 'Why the Click of a Lid Can Sell a Product',
     subtitle: '一声盖子的"咔哒"，如何卖掉一件商品',
-    minutes: 9,
+    minutes: 10,
     body: [
       "When researchers in Nairobi asked consumers to describe their toothpaste, they expected the usual vocabulary: mint intensity, foam volume, whitening power. Instead, people talked about the lid.",
       "The <b>click</b> it made when it closed, one participant explained, was the sound of a product that had been made carefully. It was, in her words, a promise kept. Nobody had asked about lids. Nobody had put lids on the questionnaire. And that, argue the authors of a recent study, is precisely the problem with how the industry has measured experience for the past forty years.",
@@ -47,7 +47,7 @@ window.SEED_READINGS = [
     tag: 'BBC Worklife 风格 · 职场趋势',
     title: 'Quiet Hiring Is Reshaping the Workplace',
     subtitle: '"安静招聘"，正在悄悄改写职场规则',
-    minutes: 8,
+    minutes: 10,
     body: [
       "When a company needs a new skill, the old reflex was to post a job, screen hundreds of applicants, and hope. A quieter trend is spreading instead: moving someone who already works there into the gap. Call it <u>quiet hiring</u> — filling a need from within before the requisition is ever written.",
       "The appeal is obvious. Internal candidates need no onboarding to the culture, no explanation of the product, no months of <u>ramp-up</u>. Managers get speed; employees get a path that was previously invisible. In tight labour markets, it is also cheaper than a contested external search.",
@@ -77,7 +77,7 @@ window.SEED_READINGS = [
     tag: 'TED 人文风格 · 领导力',
     title: 'The Strength of Saying "I Don\'t Know"',
     subtitle: '说"我不知道"，是一种被低估的力量',
-    minutes: 8,
+    minutes: 10,
     body: [
       "We are trained to treat certainty as competence. The leader who hesitates, the expert who pauses, the colleague who admits a gap — we read them as weak. Yet the most <u>resilient</u> teams are often the ones where someone at the top can say, out loud, 'I don't know.'",
       "Vulnerability at work is not <u>oversharing</u>. It is the <u>disciplined</u> act of naming the edge of your knowledge so others can meet you there. A manager who says 'I'm unsure which framework fits' invites a better one from the room. A <u>defensive</u> manager, guarding the appearance of control, gets a quieter, smaller room.",
@@ -107,7 +107,7 @@ window.SEED_READINGS = [
     tag: 'The Atlantic 风格 · 城市生活',
     title: 'The Vanishing Third Place',
     subtitle: '正在消失的"第三空间"',
-    minutes: 9,
+    minutes: 10,
     body: [
       "Sociologists divide life into three spaces: home, work, and the <u>in-between</u> where neither role applies — the café, the library, the park bench, the corner shop. These 'third places' are where strangers become neighbours and a city learns to trust itself.",
       "They are disappearing. The library closes early. The <u>corner store</u> is replaced by a <u>warehouse</u> we order from. The café that knew your name is priced for tourists. We have never been more able to stay home, and never more <u>isolated</u> in the places we share.",
@@ -137,7 +137,7 @@ window.SEED_READINGS = [
     tag: 'Vox 风格 · 心理',
     title: 'Procrastination Is an Emotion Problem',
     subtitle: '拖延，是一个情绪问题，不是时间问题',
-    minutes: 8,
+    minutes: 10,
     body: [
       "The usual advice for procrastination is a schedule. Make a list. Use a timer. Break it into steps. None of it touches the real problem, because procrastination is rarely about time. It is about <u>avoidance</u> — of a feeling, not a task.",
       "When a task makes us anxious, <u>bored</u>, or afraid of failing, the brain does what brains do: it seeks relief. Scrolling, snacking, reorganising the desk — these are not <u>laziness</u>. They are <u>temporary</u> escapes from an emotion we have not named.",
