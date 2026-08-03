@@ -173,7 +173,8 @@
       '<div class="bento">' +
       '<div class="bento-hero">' +
       '<img class=\"hero-avatar\" src=\"assets/img/avatar.png?v=20260803c\" alt=\"Echo\" />' +
-      '<div class=\"hero-body\">'<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
+      '<div class=\"hero-body\">'+
+      '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
       '<div class="hero-date">' + esc(dateStr) + '</div>' +
       (function(){const q=HERO_QUOTES[(new Date().getDate())%HERO_QUOTES.length];return '<div class="hero-quote"><span class="qmark">\u201C</span>'+esc(q.t)+'<span class="attr">\u2014 '+esc(q.a)+'</span></div>';})() +
             '</div>'
