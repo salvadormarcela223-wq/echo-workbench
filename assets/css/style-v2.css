@@ -575,10 +575,9 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: stretch; }
 
 .bento-hero {
-  grid-column: span 6;
   background: linear-gradient(122deg, #23262D 0%, #2C333B 100%);
   color: #F4EFE6; border-radius: var(--r-lg);
-  padding: 26px 28px; display: flex; flex-direction: column;
+  padding: 24px 28px; display: flex; flex-direction: column;
   position: relative; overflow: hidden; box-shadow: var(--sh-3);
 }
 .bento-hero::after {
@@ -586,15 +585,15 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
   width: 220px; height: 220px; border-radius: 50%;
   background: radial-gradient(circle, rgba(120,150,170,.28), transparent 70%);
 }
-.hero-greet { font-family: var(--font-serif); font-size: 28px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
-.hero-date { font-size: 13.5px; color: #9AA6AD; margin-top: 6px; letter-spacing: .4px; position: relative; z-index: 1; }
+.hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
+.hero-date { font-size: 13px; color: #9AA6AD; margin-top: 5px; letter-spacing: .4px; position: relative; z-index: 1; }
 .hero-quote {
-  margin-top: 22px;
+  margin-top: 16px;
   margin-bottom: auto;
-  padding: 16px 0 14px;
+  padding: 12px 0 10px;
   position: relative; z-index: 1;
   font-family: var(--font-serif);
-  font-size: 15.5px; line-height: 1.8; color: #D6DCE0;
+  font-size: 14.5px; line-height: 1.75; color: #D6DCE0;
   font-style: italic; max-width: 92%;
   border-top: 1px solid rgba(255,255,255,.08);
 }
@@ -604,20 +603,19 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .hero-chips span { font-size: 12.5px; color: #AEB9BF; display: flex; align-items: baseline; gap: 6px; }
 .hero-chips b { font-family: var(--font-serif); font-size: 20px; color: #fff; font-weight: 600; }
 
-/* Hero 内部布局：左侧文字 + 右侧头像，填满无空白 */
+/* Hero 内部布局：左侧文字 + 右侧头像 */
 .hero-avatar {
-  position: absolute; right: 20px; bottom: 18px;
-  width: 130px; height: 130px; border-radius: 50%;
+  position: absolute; right: 16px; bottom: 12px;
+  width: 100px; height: 100px; border-radius: 50%;
   object-fit: cover;
-  border: 3px solid rgba(255,255,255,.12);
-  box-shadow: 0 4px 20px rgba(0,0,0,.25);
+  border: 2px solid rgba(255,255,255,.15);
+  box-shadow: 0 3px 14px rgba(0,0,0,.25);
   z-index: 2;
 }
 .hero-body {
   position: relative; z-index: 1;
-  padding-right: 160px;
+  padding-right: 150px;
   display: flex; flex-direction: column;
-  min-height: 280px;
 }
 
 .bento-tile {
