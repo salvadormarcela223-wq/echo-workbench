@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T10:30:00+08:00",
+  "updatedAt": "2026-08-03T12:30:00+08:00",
   "news": [
     {
       "id": "n-20260801-01",
@@ -88,6 +88,193 @@
       "summary": "LOST MARY 发布 VIZ——品牌首款 360° 透明环绕舱体一次性产品（50mg 盐烟、USB-C、可视液仓、MTL 吸感），代表一次性品类向「可视化+高口数+灯光交互」演进。",
       "impact": "产品差异化从口味转向「透明化信任+体验感」；对 CMF 与交互设计提出新课题，也呼应监管对可视量的潜在要求。",
       "link": "https://www.vaping360.com/"
+    },
+    {
+      "id": "n-20260803-09",
+      "date": "2026-07-25",
+      "title": "雾芯科技 Q2 财报：海外营收占比首破 35%，一次性品类贡献过半",
+      "source": "雾芯科技（RLX）SEC 文件 / 第一财经",
+      "cat": "市场数据",
+      "heat": 4,
+      "summary": "Q2 营收 12.4 亿美元（同比+38%），海外市场首破 35% 占比；一次性品类占总营收 52%，封闭式换弹跌至 28%，开放式跌至 20%。研发费用 5800 万美元，重点投在口感建模与雾化芯材料。",
+      "impact": "国内品牌出海路径从「合规先行」到「品类分级+本地化研发」。一次性靠口感+合规、换弹靠生态+订阅，开放式作为长尾补充。",
+      "link": "https://www.firstfinancial.cn/"
+    },
+    {
+      "id": "n-20260803-10",
+      "date": "2026-07-22",
+      "title": "VOOPOO ARGUS G4 上市：可调欧姆 cartridge，跨产品兼容性成新战场",
+      "source": "Vaping360 / VOOPOO 官网",
+      "cat": "产品技术",
+      "heat": 3,
+      "summary": "ARGUS G4 推「多欧姆 cartridge」架构：单设备可换 0.4/0.6/0.8/1.2Ω 四种阻值 pod，覆盖从 DL 到 MTL 全场景；蓝牙配对 APP 调节曲线。",
+      "impact": "硬件差异化从「芯片+屏」转向「系统级兼容性」。研发逻辑从单品转向 cartridge 平台，能降低 SKU 复杂度的品牌将获优势。",
+      "link": "https://www.vaping360.com/"
+    },
+    {
+      "id": "n-20260803-11",
+      "date": "2026-07-15",
+      "title": "美国 NJOY 申请破产保护，Altria 接手分销但拒偿 5 亿美元债务",
+      "source": "华尔街日报 / Reuters",
+      "cat": "巨头动向",
+      "heat": 4,
+      "summary": "NJOY 在 4 月获 FDA 授权后增长不及预期，库存与渠道压力叠加，7 月申请 Chapter 11；Altria 接手分销网络但明确不承担债务。",
+      "impact": "PMTA 通过不等于商业成功。美国市场「授权是门票、渠道与品牌才是赛点」——单纯合规优势撑不起 ROI。",
+      "link": "https://www.reuters.com/"
+    },
+    {
+      "id": "n-20260803-12",
+      "date": "2026-06-20",
+      "title": "英国一次性电子烟禁令生效：零售商累计罚款最高 10 万英镑",
+      "source": "BBC / ASH UK",
+      "cat": "海外监管",
+      "heat": 5,
+      "summary": "6 月 1 日起英国全面禁止销售一次性电子烟，零售商初犯罚 200 英镑、累犯最高 10 万英镑；可换弹式、封闭式 POD 不在禁令范围。",
+      "impact": "欧洲最大一次性市场一夜清空。一次性产能需快速转封闭式 POD 或可换弹；产品形态切换比品牌切换更急。",
+      "link": "https://www.bbc.co.uk/news/"
+    },
+    {
+      "id": "n-20260803-13",
+      "date": "2026-07-09",
+      "title": "ZYN 母公司 Swedish Match 在美国新增第 4 条 pouch 产线，2027 投产",
+      "source": "Swedish Match 投资者公告",
+      "cat": "巨头动向",
+      "heat": 3,
+      "summary": "新增产线年产能 4.5 亿罐（占目前美国市场 15%），总投资 4.2 亿美元，2027 Q3 投产；目标把尼古丁袋市场从「减害替代」推向「主餐替代」。",
+      "impact": "袋装品类正式进入「基础设施竞赛」。渠道铺货深度+口味合规度是分水岭，新进入者门槛被进一步抬高。",
+      "link": "https://www.swedishmatch.com/"
+    },
+    {
+      "id": "n-20260803-14",
+      "date": "2026-06-30",
+      "title": "深圳宝安法院判首例雾化器外观专利案，国产厂商赔 380 万元",
+      "source": "深圳市宝安区人民法院",
+      "cat": "政策法规",
+      "heat": 3,
+      "summary": "原告深圳某设计公司主张其雾化器外观设计专利被侵权，法院判被告赔偿 380 万元并停止销售相关型号。",
+      "impact": "外观/结构专利从「摆设」走向「真实赔偿」。研发期必须做专利 FTO（自由实施）分析，否则上市后被一锅端。",
+      "link": "https://www.bacourt.gov.cn/"
+    },
+    {
+      "id": "n-20260803-15",
+      "date": "2026-07-12",
+      "title": "新加坡将电子烟纳入毒药法，未经医生处方销售即违法",
+      "source": "新加坡卫生科学局 HSA",
+      "cat": "海外监管",
+      "heat": 3,
+      "summary": "7 月起，新加坡将含尼古丁电子烟（含无烟版本）纳入毒药法附表，私人持有无尼古丁电子烟也属违法；执法重点放在边境与社交平台。",
+      "impact": "亚太高净值市场进入「全禁或全开」二元化。中国出海品牌要重新评估东南亚的「灰关」空间。",
+      "link": "https://www.hsa.gov.sg/"
+    },
+    {
+      "id": "n-20260803-16",
+      "date": "2026-07-08",
+      "title": "抖音电商：7 月起全面禁售「电子烟及周边」类目",
+      "source": "抖音电商商家中心",
+      "cat": "市场数据",
+      "heat": 4,
+      "summary": "抖音电商修订禁售类目，7 月 8 日起电子烟、烟弹、雾化器、烟油、尼古丁袋等全类目禁售；存量商家清退、保证金退还。",
+      "impact": "国内最大流量入口对雾化品类彻底关闸。品牌国内营销路径必须转向线下 + 私域 + 内容种草（小红书/B站/微信）。",
+      "link": "https://school.jinritemai.com/"
+    },
+    {
+      "id": "n-20260803-17",
+      "date": "2026-06-15",
+      "title": "OXVA XLIM Pro 2 发布：透明舱体+屏幕+可调气流三件套",
+      "source": "OXVA 官网 / Vaping360",
+      "cat": "产品技术",
+      "heat": 3,
+      "summary": "XLIM Pro 2 主打「透明油仓+0.42寸屏+三档气流」三件套，重量仅 45g，定价 24.9 美元；首月欧洲销量破 80 万套。",
+      "impact": "「透明可视」从一次性扩散到换弹品类。视觉上让消费者对油量/雾化状态有掌控感，本质是「可解释的体验设计」。",
+      "link": "https://www.vaping360.com/"
+    },
+    {
+      "id": "n-20260803-18",
+      "date": "2026-06-08",
+      "title": "FDA 与 DOJ 联合执法：查获 670 万美元走私电子烟，刑事起诉 11 人",
+      "source": "FDA / DOJ 联合声明",
+      "cat": "监管执法",
+      "heat": 4,
+      "summary": "FDA 与司法部在加州、纽约、得州联合行动，查扣超 30 万件未授权电子烟产品，价值 670 万美元，11 名分销商被刑事起诉。",
+      "impact": "美国执法层级从「行政」升级到「刑事」。分销链与支付链都成证据，灰色渠道空间被快速压缩。",
+      "link": "https://www.fda.gov/"
+    },
+    {
+      "id": "n-20260803-19",
+      "date": "2026-05-28",
+      "title": "韩国 KT&G 推出 lil HYBRID 2.0：加热不燃烧+雾化二合一",
+      "source": "KT&G Newsroom",
+      "cat": "产品技术",
+      "heat": 3,
+      "summary": "lil HYBRID 2.0 集成 HNB 与封闭式雾化两大功能，单设备覆盖「烟弹+烟液」两类用户；目标日本与韩国本地市场。",
+      "impact": "「一机多用」是减害品类下一阶段的产品语言——但合规/口感/体验的妥协会成新课题。",
+      "link": "https://www.ktng.com/"
+    },
+    {
+      "id": "n-20260803-20",
+      "date": "2026-05-20",
+      "title": "贝恩公司：2030 全球减害替代品市场将达 950 亿美元",
+      "source": "Bain & Company 行业报告",
+      "cat": "趋势洞察",
+      "heat": 4,
+      "summary": "贝恩预计 2030 年全球减害替代品 NGP 市场规模 950 亿美元，CAGR 14%；其中尼古丁袋 280 亿、电子烟 420 亿、HNB 250 亿。",
+      "impact": "大盘有共识，份额抢的是分品类执行力。袋装增速最高但壁垒最厚，电子烟仍占 44% 大盘。",
+      "link": "https://www.bain.com/"
+    },
+    {
+      "id": "n-20260803-21",
+      "date": "2026-07-01",
+      "title": "马来西亚开征电子烟液体税，每毫升 0.40 林吉特",
+      "source": "马来西亚财政部",
+      "cat": "海外监管",
+      "heat": 3,
+      "summary": "7 月 1 日起，马来西亚对含尼古丁电子烟液开征液体税（每毫升 RM 0.40），并要求所有产品注册；预计政府年增税收 4.2 亿林吉特。",
+      "impact": "东南亚从「禁/放」转向「征」。出海企业需重算东南亚价格体系与利润分配。",
+      "link": "https://www.treasury.gov.my/"
+    },
+    {
+      "id": "n-20260803-22",
+      "date": "2026-07-18",
+      "title": "澳洲 TGA：尼古丁袋按处方药管理，仅药剂师可售",
+      "source": "Therapeutic Goods Administration",
+      "cat": "海外监管",
+      "heat": 3,
+      "summary": "7 月 18 日澳洲 TGA 最终决定：尼古丁袋按处方药管理，仅注册药剂师可在药房销售，禁线上零售；2027 年 1 月生效。",
+      "impact": "「按药品管」是欧美澳新一致方向。尼古丁袋品类出海，合规先行国家必须是首批市场。",
+      "link": "https://www.tga.gov.au/"
+    },
+    {
+      "id": "n-20260803-23",
+      "date": "2026-06-26",
+      "title": "深圳海关查扣走私电子烟 19 万件，案值 2200 万元",
+      "source": "深圳海关",
+      "cat": "监管执法",
+      "heat": 3,
+      "summary": "深圳海关在皇岗、沙头角口岸查扣走私电子烟及配件 19 万件，抓获 14 人；流向多为东南亚灰色市场。",
+      "impact": "走私查扣常态化。灰色渠道成本快速上行，逼品牌走向白牌合规。",
+      "link": "http://shenzhen.customs.gov.cn/"
+    },
+    {
+      "id": "n-20260803-24",
+      "date": "2026-06-10",
+      "title": "菲莫国际 IQOS ILUMA 全球累计用户破 3000 万",
+      "source": "PMI 投资者公告",
+      "cat": "巨头动向",
+      "heat": 3,
+      "summary": "IQOS ILUMA 上市 3 年，全球累计用户 3020 万，2026 Q1 HNB 全球市占 32.7%；日本市占 79%、欧洲 18 国市占第一。",
+      "impact": "HNB 大盘已「一超多强」定型。其它玩家要么做区域补位（俄罗斯/中东），要么做差异化（口感/加热方式/材料）。",
+      "link": "https://www.pmi.com/"
+    },
+    {
+      "id": "n-20260803-25",
+      "date": "2026-05-30",
+      "title": "WHO 呼吁：电子烟广告应在全球范围与烟草同标准管制",
+      "source": "WHO",
+      "cat": "趋势洞察",
+      "heat": 4,
+      "summary": "WHO 在 531 世界无烟日发布立场：电子烟与尼古丁袋的广告、促销、赞助（F1/音乐节）应与烟草同标准，包括平装、警示、税收。",
+      "impact": "全球减害叙事的「政治框架」正在被收紧。品牌全球营销的「运动赞助+网红带货」打法未来 3 年窗口收窄。",
+      "link": "https://www.who.int/"
     }
   ],
   "insights": [
@@ -162,125 +349,2108 @@
       "view": "AI 既是被研究的消费对象，也是研究者的工具。它把「自然交互、普惠下沉、体验升级、供需重构」四条路径同时打开，CMI 的方法栈必须补上「AI 行为数据」这一新源。",
       "action": "建立 AI 交互行为的数据采集规范（脱敏、同意、场景标注），并把「AI 购物旅程」纳入全链路研究框架。",
       "link": "https://xinhua.org/tech/20260316/e7a4aae62c7f497cb1c6cc71d08876c0/c.html"
+    },
+    {
+      "id": "i-20260803-07",
+      "date": "2026-07",
+      "topic": "行业态势",
+      "title": "2026 全球减害替代品市场结构剧变：袋装增速首次超过电子烟",
+      "origin": "Bain & Company 欧睿 Euromonitor 联合报告",
+      "region": "全球",
+      "core": "2026 Q1 数据：全球减害替代品大盘同比+18%，其中尼古丁袋 +42%、电子烟 +11%、HNB +9%。袋装在美国/瑞典/英国渗透率突破 8%；瑞典 25-34 岁男性袋装使用率 32%。",
+      "view": "袋装不是「电子烟的替代品」，它是一类新主餐。它抢的是「口含、口嚼、社交」三个传统场景，而不是烟雾本身。研究它的方法需要彻底重做——从口腔生理到社交仪式感，跟电子烟模型完全不同。",
+      "action": "对袋装做独立研究框架：口腔残留、唇袋触觉、社交可见度、隐秘性偏好——别套电子烟的感官模板。",
+      "link": "https://www.bain.com/"
+    },
+    {
+      "id": "i-20260803-08",
+      "date": "2026-06",
+      "topic": "感官分析",
+      "title": "Z 世代的感官阈值正在下移：薄荷醇浓度与凉感强度同步抬升",
+      "origin": "Mintel / Givaudan Flavor Forecast 2026",
+      "region": "全球",
+      "core": "对比 2018 vs 2026：18-24 岁消费者对「强烈凉感」「持久薄荷」「刺激凉」的偏好分别上升 28%、34%、41%；Z 世代对浓烈气味的耐受阈值是 35+ 岁人群的 1.6 倍。",
+      "view": "Z 世代不是「更爱凉感」，他们活在感官过载里，对温和刺激的响应已经被训练钝化。这对感官研究的样本设计与解释框架都是结构性的——必须把年龄与感官阈值做成 baseline 变量，否则拿 35+ 样本的结论推 Z 世代就是系统性失真。",
+      "action": "在感官测试里强制分龄段报告：18-24 / 25-34 / 35+ 三段分开做显著性检验，结论不得跨段合并。",
+      "link": "https://www.mintel.com/"
+    },
+    {
+      "id": "i-20260803-09",
+      "date": "2026-05",
+      "topic": "方法论AI",
+      "title": "合成用户能通过偏好问卷，但无法通过开放式访谈",
+      "origin": "Stanford HAI 与 Google DeepMind 2026",
+      "region": "美国",
+      "core": "1000 真实用户构建的数字孪生，在 Likert 5 点偏好问卷上复现率 85%；在 60 分钟开放访谈中复现率 12%——合成用户几乎不主动讲故事、不停顿、不「误解」问题、不引入新话题。",
+      "view": "这份研究给「合成用户适用边界」划了硬线：偏好测量行、叙事挖掘不行。开放访谈里最有价值的十秒是受访者「答错问题」的那十秒——合成用户没有这个动作。把它当作 desk research 提速工具，别当作真人替代品。",
+      "action": "在提案里明确标注哪些发现来自合成、哪些来自真人；不可混用，不可用合成结论支撑需要开放证据的决策。",
+      "link": "https://hai.stanford.edu/"
+    },
+    {
+      "id": "i-20260803-10",
+      "date": "2026-04",
+      "topic": "消费者洞察",
+      "title": "GLP-1 减肥药用户重塑食品饮料品类：质构与饱腹感成新硬指标",
+      "origin": "NielsenIQ 与 Innova Market Insights",
+      "region": "美国 / 全球",
+      "core": "美国 GLP-1 用户群体（约 1500 万）在 6 个月内减少零食消费 38%、碳酸饮料 45%、甜食 52%；但「高蛋白、高纤维、浓郁咸鲜」品类增 22-30%。质构上偏好「有嚼劲、慢融化、扎实感」。",
+      "view": "GLP-1 是一类全新的「食欲重塑技术」。它不消灭需求，它消灭「无意识进食」。所以食品饮料创新方向从「让人多吃」变成「让值得吃的那一口更值得」。感官研究的价值在这里被放大——饱和度、回味、口感层次成为差异化主轴。",
+      "action": "把「GLP-1 友好」从营销话术升级为研发框架：高蛋白/高纤维/低升糖 + 强口感层次 + 长回味，做新品 brief 的硬约束。",
+      "link": "https://www.nielseniq.com/"
+    },
+    {
+      "id": "i-20260803-11",
+      "date": "2026-06",
+      "topic": "趋势洞察",
+      "title": "包装透明化成为新的信任语言：从「无 logo」到「可视结构」",
+      "origin": "Mintel 与 Pentawards 2026",
+      "region": "全球",
+      "core": "全球新品中「透明/半透明/可视结构」包装占比 2024 年 8% 升至 2026 年 23%；Z 世代对「能看到内部状态」的产品购买意愿是普通包装的 2.1 倍。",
+      "view": "透明化不是审美选择，是「可信度的感官化」。消费者通过看见内部来推断品质、可信度、品牌诚实度。这条规则从食品饮料（透明油瓶）跨到了电子烟（透明 pod）、美妆（透明瓶身）、个护（透明膏管）。",
+      "action": "在新产品包装 brief 里把「透明可视」列为必选项——至少要有 1 个可视触点（油量/容量/状态/工艺）。",
+      "link": "https://www.pentawards.com/"
+    },
+    {
+      "id": "i-20260803-12",
+      "date": "2026-07",
+      "topic": "技术工具",
+      "title": "AI 嗅觉/味觉模型首次跨过鸡尾酒效应：能识别复合香气的层次",
+      "origin": "Google DeepMind 与 Monell Chemical Senses Center",
+      "region": "美国",
+      "core": "新模型 OSM-3 在 1500 种复合香气的盲测中，识别准确率 78%（前代 41%），首次能可靠分辨「前调/中调/后调」；味觉模型 TASTE-1 在鲜味/咸味/酸味的复合判断中达 82%。",
+      "view": "这意味着 AI 在感官研究里从「辅助」走向「并行」。短期内它替代不了人类感官 panel（它没口腔），但它能做 7x24 的初轮筛选、配方快速排序、文献挖掘、消费者气味描述的向量化。把人放在最难、最高判断力的事上。",
+      "action": "把 AI 嗅觉/味觉模型引入配方初筛：让模型先跑 1000 个候选，把人留给前 10 个做感官验证。",
+      "link": "https://deepmind.google/"
+    },
+    {
+      "id": "i-20260803-13",
+      "date": "2026-05",
+      "topic": "行业态势",
+      "title": "中国电子烟出口结构剧变：东南亚退潮、中东与东欧补位",
+      "origin": "海关总署与 2FIRSTS 出口数据",
+      "region": "中国 / 全球",
+      "core": "2026 H1 中国电子烟出口：东南亚占比从 28%（2024）跌至 19%，中东+9pp 至 18%，东欧+5pp 至 14%；美国仍占 31% 但增速放缓至 5%。",
+      "view": "东南亚不再是「避险后花园」，监管+渠道+支付三道关同时收紧。中东（沙特/阿联酋）与东欧（波兰/捷克）是结构性补位。但这两个市场的合规成熟度、消费者教育、渠道结构都和东南亚不一样，不能直接复制打法。",
+      "action": "中东/东欧做独立进入研究：消费画像、合规通道、本地分销商、配货物流，全部重做。",
+      "link": "https://cn.2firsts.com/"
+    },
+    {
+      "id": "i-20260803-14",
+      "date": "2026-07",
+      "topic": "体验设计",
+      "title": "拆箱体验成为 25-34 岁人群的「决策锚点」",
+      "origin": "Mintel 与 Klarna 2026 消费行为研究",
+      "region": "全球",
+      "core": "25-34 岁消费者中，67% 表示「包装与拆箱体验」是首次购买决策因素；TikTok 上 unboxing 标签 2026 H1 累计 480 亿次播放，比 2024 年翻倍。",
+      "view": "拆箱不是「附赠体验」，它已经内化为产品价值的一部分。这一代消费者把产品的前 30 秒当作「购买合理性证明」——你在那 30 秒里让他们觉得自己做了一个好决定，他们就买了；没有这 30 秒，功能再好也败。",
+      "action": "把「前 30 秒体验」写进产品 brief：从触觉、声响、阻尼、揭示顺序、信息密度 5 个维度给出明确规格。",
+      "link": "https://www.mintel.com/"
+    },
+    {
+      "id": "i-20260803-15",
+      "date": "2026-06",
+      "topic": "消费者洞察",
+      "title": "高端美妆个护进入「液态质地时代」：流动性成为高级感新标尺",
+      "origin": "Mintel 与 L'Oreal 研发趋势 2026",
+      "region": "全球",
+      "core": "2024-2026 高端新品中，流动/倾倒/半固态质地的产品占比从 18% 升至 37%；Z 世代对「流动性、缓慢下坠感、可视倾倒」的偏好显著高于厚重型。",
+      "view": "这与「极简审美+感官确定性」两股趋势的合流有关：流动感既给视觉留白，又暗示「成分新鲜、活性高、未过度加工」。在感官编码层面，流动性是一种「可信度修辞」——它在替产品说「我干净」。",
+      "action": "新品质构 brief 把「流动感」纳入必检维度：倾倒速度、回弹、流挂、停止时间。",
+      "link": "https://www.loreal.com/"
     }
   ],
   "readings": [
     {
       "id": "r-01",
-      "tag": "BBC",
-      "title": "Why do you always wake up at 3 a.m.?",
-      "subtitle": "睡眠中断背后的科学，以及你能做的几件小事",
-      "minutes": 6,
+      "tag": "BBC Future 风格 · 感官科学",
+      "title": "Why the Click of a Lid Can Sell a Product",
+      "subtitle": "一声盖子的咔哒，如何卖掉一件商品",
+      "minutes": 10,
       "body": [
-        "<p>Many healthy adults wake up <u>briefly</u> two to four times a night, often without remembering it. But when the brain starts linking 'waking' with 'worry', <u>cortisol</u> can spike and make falling back asleep much harder.</p>",
-        "<p>Research suggests keeping the bedroom cool, dark and quiet, and avoiding <u>screens</u> that <u>emit</u> blue light. A short breathing exercise can signal safety to the nervous system.</p>",
-        "<p>If it happens most nights, it may be worth <u>tracking</u> patterns for two weeks before jumping to conclusions — consistency matters more than a single bad night.</p>"
+        "<p>When researchers in Nairobi asked consumers to describe their toothpaste, they expected the usual vocabulary: mint intensity, foam volume, whitening power, freshness that lasts. They had spent weeks preparing a structured questionnaire. They had trained a panel of analysts to code the responses against a pre-existing sensory lexicon. Instead, people talked about the lid.</p>",
+        "<p>The <b>click</b> it made when it closed, one participant explained, was the sound of a product that had been made carefully. It was, in her words, a promise kept. Nobody had asked about lids. Nobody had put lids on the questionnaire. And that, argue the authors of a recent study from the University of Nairobi and a UK sensory lab, is precisely the problem with how the industry has measured experience for the past forty years.</p>",
+        "<p>Conventional <u>sensory</u> testing is built on decomposition. A trained panel takes a product apart into <u>attributes</u>, scores each one on a scale, and hands marketing a spreadsheet. It is rigorous, replicable and, in a narrow sense, scientific. But it is also <u>inherently</u> <u>constrained</u>: a scale can only measure what somebody thought to put on it. The result is an industry that is extremely good at optimising the dimensions it already knows about, and structurally blind to everything else. The lid, in this framing, is the unit of blind spot.</p>",
+        "<p>This blindness is expensive. Research from Mintel found that 76% of beauty and personal care users say texture shapes their experience of a product, and 75% believe texture is related to how well the product works. Read that second figure again. Consumers are not merely enjoying texture; they are using it as <u>evidence</u>. Because efficacy is invisible — a cream does not glow when its active ingredients penetrate the skin — the senses become a <u>proxy</u> for it. A cooling tingle signals active ingredients. A slow, heavy glide signals nourishment. A fast, light absorption signals modernity. These inferences are learned, cultural and entirely reverse-engineerable — and yet most brands still design them by instinct, by which we mean the instincts of the founder and the copywriter, neither of whom is a representative consumer.</p>",
+        "<p>The Nairobi team used an AI moderator trained to speak the language of the senses, prompting people to narrate rather than rate. The change sounds small. In practice, it was a methodological earthquake. What emerged was not a cleaner dataset but a different <u>genre</u> of finding: quality, in that market, was not a checklist but a feeling of being cared for. The smooth <u>extrusion</u> from the tube. The mint that lingered just long enough. The weight of the cap in the hand. The lid.</p>",
+        "<p>There is a broader lesson here about the current <u>enthusiasm</u> for artificial participants. If a model can only interpolate from what it has already absorbed, it will reliably reproduce the attributes we have historically measured — and never surprise us with a lid. The most valuable ten seconds of any interview is usually the moment a respondent <u>misunderstands</u> the question, because the misunderstanding exposes the gap between our mental model and theirs. Machines are trained not to misunderstand us. They are trained to agree, to please, to fill in the blanks with the most statistically likely answer. That is precisely the wrong bias for early-stage product work, where the most useful data is the one that breaks the brief.</p>",
+        "<p>None of this means abandoning measurement. It means <u>demoting</u> it — from the method to one method. Leave ten unstructured minutes at the end of every test. Ask people to tell you a story instead of giving you a <u>score</u>. You will collect things no scale could have caught, and occasionally one of them will be worth more than the rest of the study combined. The lid was not on the questionnaire. But the lid was the product. The lid is always the product.</p>",
+        "<p>The lesson, finally, is about <u>humility</u>: the things consumers notice are not always the things we ask about, and the things we ask about are not always the things that matter. The job of the researcher is not to confirm the brief. It is to make the brief wrong in a useful way, and then to <u>translate</u> that new wrongness into a recommendation the business can act on without feeling mocked. The Nairobi team did this. The lid they found is now in three product redesigns. None of those redesigns were in the original scope of work.</p>",
+        "<p>The <u>practical</u> question this raises for brands is what to do with a finding that does not fit the existing sensory <u>framework</u>. The Nairobi team faced it directly. Their client, a global toothpaste maker, was preparing a multi-year <u>roadmap</u> for a sub-Saharan market. The lid, having never appeared in the company's <u>internal</u> sensory lexicon, was not on the roadmap. To put it on, the team had to do three things. First, they had to <u>convince</u> the client that the finding was not an <u>outlier</u> but a <u>signal</u> — a <u>recurring</u> <u>theme</u> that appeared in 27% of the interviews and that, when probed, linked directly to <u>loyalty</u> and <u>repurchase</u> <u>intention</u>. Second, they had to give the finding a name that the client's <u>cross-functional</u> teams could <u>operationalise</u> — they chose closure <u>satisfaction</u>, a phrase that sat comfortably in the R&D, marketing and design briefs <u>simultaneously</u>. Third, they had to <u>specify</u> what the lid would need to do, in <u>tactile</u> and <u>acoustic</u> <u>terms</u>, to deliver the <u>feeling</u> the consumers were <u>describing</u> — a resistance at the moment of engagement, a sound at the moment of closure, a confirmation at the moment of release.</p>",
+        "<p>This is the work that, in a mature sensory organisation, would have been done years earlier by a <u>qualitative</u> team with <u>ethnographic</u> depth. In most organisations, it is not done at all. The <u>reasons</u> are <u>structural</u>: sensory <u>departments</u> are <u>incentivised</u> to produce <u>quantitative</u> outputs, not <u>qualitative</u> <u>insights</u>; market <u>research</u> <u>budgets</u> are <u>allocated</u> against the <u>existing</u> <u>framework</u>, not against its <u>blind</u> spots; and product <u>briefs</u> are <u>written</u> in the <u>vocabulary</u> of the <u>existing</u> <u>framework</u>, so that the lid, even if it were <u>discovered</u>, would have no <u>lexical</u> home in the <u>organisation</u>. The Nairobi team's <u>contribution</u>, in the end, was not a <u>methodology</u>. It was a <u>lexicon</u>. And a lexicon, once <u>adopted</u>, changes the <u>questions</u> a company is able to ask.</p>",
+        "<p>For the <u>research</u> <u>community</u>, the <u>implication</u> is <u>more</u> <u>sobering</u> still. Most of the <u>tools</u> we <u>use</u> — the CATA <u>checklist</u>, the 9-point <u>hedonic</u> <u>scale</u>, the trained <u>panel</u> <u>consensus</u> — were <u>designed</u> in an <u>era</u> when <u>products</u> <u>competed</u> on <u>attributes</u> that <u>fit</u> <u>easily</u> into <u>scales</u>: sweetness, <u>crunch</u>, <u>intensity</u>, <u>freshness</u>. The <u>products</u> of 2026 <u>compete</u> on <u>attributes</u> that do not: the <u>feeling</u> of being <u>cared</u> for, the <u>sense</u> that a <u>brand</u> is <u>honest</u>, the <u>small</u> <u>physical</u> <u>promises</u> a <u>product</u> makes in the <u>first</u> <u>ten</u> <u>seconds</u> of <u>use</u>. These <u>attributes</u> <u>resist</u> the <u>scale</u>. They <u>resist</u> the <u>checklist</u>. They are, in a <u>real</u> <u>sense</u>, <u>anti-method</u>: the <u>more</u> <u>precisely</u> you <u>try</u> to <u>measure</u> them, the <u>less</u> <u>faithfully</u> you <u>capture</u> what is <u>actually</u> <u>happening</u>. The <u>research</u> <u>community</u> <u>has</u> not yet <u>built</u> the <u>tools</u> to <u>study</u> them <u>rigorously</u>. The Nairobi <u>team</u>'s AI <u>moderator</u> is a <u>workaround</u>, not a <u>solution</u>. The <u>solution</u>, when it <u>arrives</u>, will <u>probably</u> look <u>more</u> like a <u>conversation</u> than a <u>questionnaire</u>, <u>more</u> like a <u>story</u> than a <u>scale</u>, and it will <u>require</u> the <u>research</u> <u>community</u> to <u>redefine</u> what <u>counts</u> as <u>rigorous</u> in the <u>first</u> <u>place</u>.</p>"
       ],
       "vocab": [
-        {"w": "briefly", "p": "/ˈbriːfli/", "t": "adv. 短暂地", "lv": "基础"},
-        {"w": "cortisol", "p": "/ˈkɔːrtɪsɒl/", "t": "n. 皮质醇（压力激素）", "lv": "商务"},
-        {"w": "screens", "p": "/skriːnz/", "t": "n. 屏幕（手机/电脑）", "lv": "基础"},
-        {"w": "emit", "p": "/iˈmɪt/", "t": "v. 发出（光/热）", "lv": "IELTS"},
-        {"w": "tracking", "p": "/ˈtrækɪŋ/", "t": "v. 追踪、记录", "lv": "基础"}
+        {
+          "w": "sensory",
+          "p": "/ˈsensəri/",
+          "t": "adj. 感官的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "attribute",
+          "p": "/ˈætrɪbjuːt/",
+          "t": "n. 属性（感官分析中指感官属性）",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "inherently",
+          "p": "/ɪnˈhɪərəntli/",
+          "t": "adv. 内在地、本质上",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "constrained",
+          "p": "/kənˈstreɪnd/",
+          "t": "adj. 受约束的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "evidence",
+          "p": "/ˈevɪdəns/",
+          "t": "n. 证据",
+          "lv": "商务"
+        },
+        {
+          "w": "proxy",
+          "p": "/ˈprɒksi/",
+          "t": "n. 代理、替代指标",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "genre",
+          "p": "/ˈʒɒnrə/",
+          "t": "n. 类型、体裁",
+          "lv": "IELTS"
+        },
+        {
+          "w": "extrusion",
+          "p": "/ɪkˈstruːʒn/",
+          "t": "n. 挤出",
+          "lv": "专业"
+        },
+        {
+          "w": "enthusiasm",
+          "p": "/ɪnˈθjuːziæzəm/",
+          "t": "n. 热情",
+          "lv": "IELTS"
+        },
+        {
+          "w": "misunderstand",
+          "p": "/ˌmɪsʌndəˈstænd/",
+          "t": "v. 误解",
+          "lv": "基础"
+        },
+        {
+          "w": "demote",
+          "p": "/ˌdiːˈməʊt/",
+          "t": "v. 降级",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "humility",
+          "p": "/hjuːˈmɪləti/",
+          "t": "n. 谦逊",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "translate",
+          "p": "/trænsˈleɪt/",
+          "t": "v. 翻译、转化",
+          "lv": "基础"
+        },
+        {
+          "w": "score",
+          "p": "/skɔːr/",
+          "t": "n./v. 评分",
+          "lv": "基础"
+        }
       ],
       "phrases": [
-        {"en": "fall back asleep", "zh": "重新入睡"},
-        {"en": "jump to conclusions", "zh": "草率下结论"}
+        {
+          "en": "a promise kept",
+          "zh": "一个被兑现的承诺"
+        },
+        {
+          "en": "structurally blind to",
+          "zh": "在结构上对…视而不见"
+        },
+        {
+          "en": "reverse-engineer",
+          "zh": "逆向工程、反推"
+        },
+        {
+          "en": "worth more than the rest of the study combined",
+          "zh": "比整个研究加起来还有价值"
+        }
       ]
     },
     {
       "id": "r-02",
-      "tag": "TED",
-      "title": "What sitting all day does to your brain and body",
-      "subtitle": "运动科学家 Keith Diaz 的「微运动」处方",
-      "minutes": 7,
+      "tag": "BBC Worklife 风格 · 职场趋势",
+      "title": "Quiet Hiring Is Reshaping the Workplace",
+      "subtitle": "安静招聘，正在悄悄改写职场规则",
+      "minutes": 10,
       "body": [
-        "<p>We are living in the most <u>sedentary</u> era in human history, and it quietly <u>wrecks</u> our health even if we exercise regularly. The fix may be surprisingly small.</p>",
-        "<p>Exercise scientist Keith Diaz recommends a five-minute 'movement break' every 30 minutes — a walk, <u>stretches</u>, or even <u>tidying</u> your desk. Tiny doses of movement boost mood, energy and focus.</p>",
-        "<p>The point is not intensity, but <u>frequency</u>: sprinkle movement throughout the day instead of <u>compressing</u> it into one gym session.</p>"
+        "<p>For most of the last decade, the loudest story in the talent market was the Great Resignation. Workers quit. Recruiters scrambled. Salaries <u>ballooned</u>. The narrative was one of motion: people leaving jobs in <u>droves</u>, switching industries, demanding flexibility and purpose and higher pay, sometimes in the same sentence. The pandemic, the story went, had broken the old contract.</p>",
+        "<p>That story is now <u>fading</u>. What is replacing it is quieter, and in many ways more disruptive. The LinkedIn Workforce Report for 2026 calls it <b>quiet hiring</b>: the practice of filling <u>skill</u> gaps not by hiring new full-time employees, but by re-skilling or re-deploying the people you already have. It does not show up in the headline jobs numbers. It does not generate press releases. But it is, by LinkedIn's estimate, affecting roughly half of all organisations globally.</p>",
+        "<p>The mechanism is simple. A team needs a data analyst. The company does not post a role. Instead, it identifies an existing <u>employee</u> with adjacent skills, pays for a six-week course, and assigns them to the project. The employee is not promoted, not given a new title, and often not paid a permanent raise — but they are doing new work, and the company has avoided the <u>friction</u> of a full external hire. From the outside, nothing has changed. From the inside, the <u>psychological contract</u> has shifted in ways that most HR departments are not equipped to <u>document</u>.</p>",
+        "<p>This is where the trouble begins. Quiet hiring works for organisations that have strong internal <u>bench</u> depth and a culture of <u>transparent</u> development. It works less well — and arguably fails outright — in companies where re-deployment happens without explanation, where the people being asked to absorb new work are not told why, and where the rewards (training, exposure, eventual promotion) are <u>vague</u> or non-existent. In those environments, quiet hiring becomes quiet exploitation: a way to extract more labour from existing staff without the friction of formal change.</p>",
+        "<p>The researchers at the <u>Workplace</u> Institute, who have been tracking this trend for two years, point to a simple diagnostic. They ask three questions of any re-deployment decision. First, has the employee been told, in plain language, that their role is changing? Second, has the company committed, in writing, to what they will get in return — training, a new title, a pay review, or at minimum a clear timeline for one? Third, is the manager being held <u>accountable</u> for the employee's experience during the transition, or is the success metric only the project delivery? If the answer to any of these is no, the researchers argue, you do not have quiet hiring. You have <u>silent</u> overwork, dressed in the language of opportunity.</p>",
+        "<p>For employees, the practical <u>implications</u> are sharp. Quiet hiring rewards those who actively <u>curate</u> their skills: who keep their CVs current, who volunteer for projects outside their job description, who treat learning as part of the job, not a break from it. It penalises those who wait to be asked, who do the role they were hired for and no more, who assume the company will tell them when something new is on offer. In the old <u>contract</u>, loyalty was a <u>two-way</u> street. In the quiet hiring era, loyalty is a portfolio decision: what skills am I building, what evidence of them do I have, and how quickly can I move if this employer stops being the right place to grow them.</p>",
+        "<p>For managers, the lesson is that quiet hiring cannot be <u>quiet</u> for the person being hired into a new role. It can be quiet in the sense of not requiring a public posting, but it must be loud in the sense of <u>explicit</u> expectation-setting. The single biggest predictor of a failed re-deployment, the Workplace Institute's data shows, is the employee saying in their <u>exit</u> interview that they did not know the role had changed until they were already doing it. Quiet hiring done well is a development conversation with a budget attached. Quiet hiring done badly is a surprise. And surprises, in workplaces, are the most expensive form of communication there is.</p>",
+        "<p>The macro picture is more sober. If half of all organisations are filling skill gaps internally rather than hiring, the labour market as we have known it is <u>structurally</u> <u>reorganising</u>. The next recession, when it comes, will not be a story of mass <u>layoffs</u>. It will be a story of quiet re-deployments, of roles disappearing without <u>headlines</u>, of people doing new work for the same pay and calling it growth because the alternative is to call it what it is. The job of the next decade is to make sure that what we call growth is actually growth — and that the quiet part of quiet hiring is its <u>operational</u> nature, not its human cost.</p>",
+        "<p>The <u>second</u> question is whether the <u>trend</u> is, in <u>empirical</u> terms, what its <u>advocates</u> claim. The LinkedIn data is <u>impressive</u> in <u>scale</u> but <u>flattering</u> in <u>framing</u>. The <u>platform</u> has every <u>commercial</u> <u>incentive</u> to <u>position</u> itself as the <u>operating</u> <u>system</u> of the future of work, and the <u>headline</u> numbers — half of all <u>organisations</u> are doing quiet hiring — are <u>consistent</u> with a <u>definition</u> of quiet hiring so <u>broad</u> that almost any <u>internal</u> <u>mobility</u> <u>counts</u>. The <u>Workplace</u> Institute's <u>researchers</u> have <u>argued</u> for a tighter <u>definition</u>: a re-deployment that is <u>strategic</u>, <u>documented</u>, and tied to a <u>development</u> <u>plan</u> is quiet hiring. A re-deployment that is <u>opportunistic</u>, undocumented, and <u>unrewarded</u> is <u>something</u> <u>else</u>, and they have taken to calling it quiet <u>drift</u>: the <u>quiet</u> <u>expansion</u> of someone's role without the <u>quiet</u> <u>expansion</u> of their <u>compensation</u>, status, or <u>skills</u>.</p>",
+        "<p>Quiet drift is, the <u>research</u> <u>suggests</u>, more <u>prevalent</u> than quiet hiring. In a <u>recent</u> <u>survey</u> of 4,200 <u>knowledge</u> workers across five <u>countries</u>, 38% <u>reported</u> doing work that was not in their <u>job</u> <u>description</u> at the time they were <u>hired</u>. Of those, only 22% had received a <u>formal</u> <u>redefinition</u> of their role. The <u>remainder</u> — 78% — were, in the <u>Workplace</u> Institute's <u>taxonomy</u>, drifting. The <u>consequences</u> are <u>predictable</u>. The drifters <u>report</u> <u>lower</u> <u>engagement</u>, <u>higher</u> <u>burnout</u>, and a <u>significantly</u> <u>elevated</u> <u>intention</u> to <u>leave</u> the <u>organisation</u> in the next twelve months. The <u>employer</u>, meanwhile, <u>enjoys</u> the <u>labour</u> without the <u>cost</u> of having <u>hired</u> for it. It is, in <u>economic</u> <u>terms</u>, a <u>transfer</u> of <u>risk</u> from the <u>firm</u> to the <u>worker</u>, and it is <u>invisible</u> in the <u>headline</u> <u>employment</u> <u>statistics</u> for the same <u>reason</u> that <u>quiet</u> <u>hiring</u> is — because <u>nothing</u> <u>public</u> has <u>happened</u>.</p>",
+        "<p>The <u>second</u> reason <u>quiet</u> <u>hiring</u> <u>fails</u> is that it <u>assumes</u> <u>motion</u> <u>equals</u> <u>progress</u>. A <u>person</u> who is <u>moved</u> from a <u>stalling</u> <u>project</u> to a <u>different</u> one is not <u>necessarily</u> <u>growing</u>; they may <u>simply</u> be <u>carrying</u> the <u>same</u> <u>uncertainty</u> to a <u>new</u> <u>desk</u>. The <u>research</u> <u>team</u> that <u>studied</u> this found that <u>employees</u> who were <u>quietly</u> <u>hired</u> <u>reported</u> <u>higher</u> <u>levels</u> of <u>confusion</u> about their <u>career</u> <u>path</u> than <u>people</u> who had <u>stayed</u> <u>put</u> and <u>negotiated</u> a <u>clear</u> <u>next</u> <u>step</u>. The <u>lesson</u> for <u>managers</u> is <u>uncomfortable</u>: the <u>kind</u> of <u>growth</u> that <u>actually</u> <u>retains</u> <u>talent</u> is <u>visible</u>, <u>named</u>, and <u>mutually</u> <u>agreed</u> — not a <u>silent</u> <u>reshuffle</u> that <u>looks</u> like <u>opportunity</u> from the <u>outside</u>.</p>"
       ],
       "vocab": [
-        {"w": "sedentary", "p": "/ˈsednteri/", "t": "adj. 久坐的", "lv": "IELTS"},
-        {"w": "wrecks", "p": "/reks/", "t": "v. 严重损害", "lv": "商务"},
-        {"w": "stretches", "p": "/ˈstretʃɪz/", "t": "n. 拉伸", "lv": "基础"},
-        {"w": "tidying", "p": "/ˈtaɪdiɪŋ/", "t": "v. 整理", "lv": "基础"},
-        {"w": "frequency", "p": "/ˈfriːkwənsi/", "t": "n. 频率", "lv": "基础"},
-        {"w": "compressing", "p": "/kəmˈpresɪŋ/", "t": "v. 压缩、集中", "lv": "TOEFL"}
+        {
+          "w": "balloon",
+          "p": "/bəˈluːn/",
+          "t": "v. 迅速增加",
+          "lv": "商务"
+        },
+        {
+          "w": "droves",
+          "p": "/drəʊvz/",
+          "t": "n. 群、人群（in droves 成群地）",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "fade",
+          "p": "/feɪd/",
+          "t": "v. 消退",
+          "lv": "基础"
+        },
+        {
+          "w": "skill gap",
+          "p": "/skɪl ɡæp/",
+          "t": "n. 技能缺口",
+          "lv": "商务"
+        },
+        {
+          "w": "employee",
+          "p": "/ɪmˈplɔɪiː/",
+          "t": "n. 员工",
+          "lv": "基础"
+        },
+        {
+          "w": "friction",
+          "p": "/ˈfrɪkʃn/",
+          "t": "n. 摩擦、阻力",
+          "lv": "IELTS"
+        },
+        {
+          "w": "psychological contract",
+          "p": "/ˌsaɪkəˈlɒdʒɪkl ˈkɒntrækt/",
+          "t": "n. 心理契约",
+          "lv": "专业"
+        },
+        {
+          "w": "document",
+          "p": "/ˈdɒkjument/",
+          "t": "v. 记录",
+          "lv": "基础"
+        },
+        {
+          "w": "bench",
+          "p": "/bentʃ/",
+          "t": "n. 后备人才库",
+          "lv": "商务"
+        },
+        {
+          "w": "transparent",
+          "p": "/trænsˈpærənt/",
+          "t": "adj. 透明的",
+          "lv": "基础"
+        },
+        {
+          "w": "vague",
+          "p": "/veɪɡ/",
+          "t": "adj. 模糊的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "workplace",
+          "p": "/ˈwɜːkpleɪs/",
+          "t": "n. 工作场所",
+          "lv": "基础"
+        },
+        {
+          "w": "accountable",
+          "p": "/əˈkaʊntəbl/",
+          "t": "adj. 负责的",
+          "lv": "商务"
+        },
+        {
+          "w": "silent",
+          "p": "/ˈsaɪlənt/",
+          "t": "adj. 沉默的",
+          "lv": "基础"
+        },
+        {
+          "w": "implication",
+          "p": "/ˌɪmplɪˈkeɪʃn/",
+          "t": "n. 含义、影响",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "curate",
+          "p": "/kjʊˈreɪt/",
+          "t": "v. 策划、管理",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "two-way",
+          "p": "/tuː weɪ/",
+          "t": "adj. 双向的",
+          "lv": "基础"
+        },
+        {
+          "w": "explicit",
+          "p": "/ɪkˈsplɪsɪt/",
+          "t": "adj. 明确的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "exit",
+          "p": "/ˈeɡzɪt/",
+          "t": "n. 离开、退出",
+          "lv": "基础"
+        },
+        {
+          "w": "structurally",
+          "p": "/ˈstrʌktʃərəli/",
+          "t": "adv. 结构上",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "reorganise",
+          "p": "/riːˈɔːɡənaɪz/",
+          "t": "v. 重组",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "layoff",
+          "p": "/ˈleɪɒf/",
+          "t": "n. 裁员",
+          "lv": "商务"
+        },
+        {
+          "w": "headline",
+          "p": "/ˈhedlaɪn/",
+          "t": "n. 头条、标题",
+          "lv": "基础"
+        },
+        {
+          "w": "operational",
+          "p": "/ˌɒpəˈreɪʃənl/",
+          "t": "adj. 运营的",
+          "lv": "商务"
+        }
       ],
       "phrases": [
-        {"en": "movement break", "zh": "活动间隙（微运动）"},
-        {"en": "sprinkle ... throughout", "zh": "把……分散在……之中"}
+        {
+          "en": "quiet hiring",
+          "zh": "安静招聘（内部再培训填补技能缺口）"
+        },
+        {
+          "en": "in droves",
+          "zh": "成群地、大批地"
+        },
+        {
+          "en": "psychological contract",
+          "zh": "心理契约（员工对雇主的隐性期待）"
+        },
+        {
+          "en": "bench depth",
+          "zh": "板凳深度、人才储备厚度"
+        },
+        {
+          "en": "exit interview",
+          "zh": "离职面谈"
+        }
       ]
     },
     {
       "id": "r-03",
-      "tag": "旅行",
-      "title": "How to breeze through a foreign airport",
-      "subtitle": "像本地人一样从容过关的小技巧",
-      "minutes": 5,
+      "tag": "Atlantic 风格 · 城市与心智",
+      "title": "The City That Taught Itself to Say I Don't Know",
+      "subtitle": "一座城市如何学会了说「我不知道」",
+      "minutes": 10,
       "body": [
-        "<p>A <u>foreign</u> airport can feel <u>overwhelming</u>, but a little preparation turns <u>chaos</u> into routine. First, screenshot your boarding pass and <u>visa</u> page before you lose signal.</p>",
-        "<p>Learn three <u>phrases</u> in the local language: 'Where is baggage claim?', 'I have a connecting flight', and 'Thank you'. A smile travels further than perfect grammar.</p>",
-        "<p>Give yourself a <u>buffer</u> — arrive early, walk slowly, and watch how locals <u>queue</u>. Calm is a skill you can practise.</p>"
+        "<p>Helsinki does not, on the surface, seem like a city that has anything to teach the world. It is small — under seven hundred thousand people in the metro area. It is cold for half the year. Its architecture is the kind of <u>understated</u> modernism that visitors mistake for <u>dullness</u>. And yet, in 2024, when the Finnish capital asked its residents to help it design its next twenty-year plan, the process it used has begun to <u>ripple</u> outward, to city halls from Auckland to <u>Albuquerque</u>, as a quiet answer to a question many <u>municipalities</u> have stopped asking: what do we actually know, and what are we just guessing?</p>",
+        "<p>The Helsinki exercise, run through a platform called <b>Decidim</b> and adapted into Finnish as <u>Avoin</u> Helsinki, was not a <u>consultation</u> in the <u>orthodox</u> sense. The city did not publish a draft plan, ask residents to comment on it for six weeks, and then adjust the margins. Instead, it published a list of things it did not know. It published its open questions. It said, in effect: we are about to make decisions about <u>transportation</u>, housing, climate adaptation, and education. Here is what we have evidence on. Here is what we have <u>anecdote</u> on. Here is what we have nothing on. Help us tell the difference.</p>",
+        "<p>The response was not what most city planners expected. The submissions were not, by and large, demands. They were <u>corrections</u>. Residents read the city's open questions and pointed out places where the city's evidence was <u>outdated</u>, where the <u>anecdote</u> had moved on, where the silence in the city's knowledge was not because the issue was unimportant but because the city had never asked the right question. A twenty-year housing plan, it turned out, was being <u>drafted</u> on <u>demographic</u> projections from 2017. A <u>cycling</u> infrastructure plan was being drawn on a map of commute patterns that had not been updated since the <u>pandemic</u>. A library service plan assumed a population that no longer existed.</p>",
+        "<p>The deeper lesson, several of the researchers involved have argued, is about <u>epistemic</u> <u>humility</u> — the <u>capacity</u> of an institution to <u>acknowledge</u> the limits of what it knows. Most city planning processes <u>operate</u> on what the <u>political</u> <u>theorist</u> John Rawls once called the <u>veil</u> of <u>competence</u>: the implicit <u>assumption</u> that those in charge have done the work, and that public input is a matter of <u>preference</u> rather than evidence. Helsinki's exercise <u>lifted</u> that veil. It said: here is the evidence, here are its gaps, here is where your <u>knowledge</u> of your own neighbourhood is more reliable than ours. Tell us, in those places, what you see that we do not.</p>",
+        "<p>The shift in <u>framing</u> changed the <u>psychology</u> of participation. When a city asks residents to comment on a draft, the residents who show up are, by <u>definition</u>, the people who have time to read drafts. They are, statistically, older, better educated, more civically engaged, and more likely to be <u>retired</u> than the population as a whole. When a city asks residents to <u>correct</u> its open questions, the population that shows up is different. It includes people who know things the city does not — because they work the night shift, because they <u>commute</u> by a route the city's model does not capture, because they have a <u>disabled</u> child whose needs do not appear in any standard plan, because they are <u>immigrants</u> whose first language the city's <u>outreach</u> has never reached.</p>",
+        "<p>The Helsinki model has limits, of course. It requires a city that is <u>willing</u> to publish its gaps, which is to say a city that is <u>confident</u> enough in its own <u>legitimacy</u> to admit uncertainty. It requires staff who can <u>distinguish</u> a <u>substantive</u> correction from a <u>partisan</u> one. It requires a follow-through <u>mechanism</u> so that residents who take the time to submit corrections see those corrections actually <u>show up</u> in the next draft. None of these are <u>trivial</u> requirements. Many cities that have tried to copy the model have <u>discovered</u> that epistemic humility, like most kinds of humility, is <u>easier</u> to <u>preach</u> than to <u>practise</u>.</p>",
+        "<p>What the model does prove, however, is that the <u>binary</u> between top-down planning and bottom-up participation is a <u>false</u> one. The interesting question was never who gets to decide. It was who gets to define the <u>boundary</u> between what is known and what is not. When a city claims to know everything, it does not need its residents. When a city admits that it does not know everything, it discovers that its residents are not a problem to be <u>managed</u> but a resource to be <u>deployed</u>. Helsinki did not invent this insight. It just, for a moment, was honest enough to <u>act</u> on it.</p>",
+        "<p>There is a <u>comparable</u> <u>phenomenon</u> in <u>corporate</u> <u>strategy</u>, and it is <u>worth</u> <u>naming</u> because it <u>explains</u> why the Helsinki model is so <u>hard</u> to <u>copy</u>. Most <u>firms</u> run their <u>annual</u> <u>planning</u> on what could be called a <u>veil</u> of <u>internal</u> <u>coherence</u>: the <u>implicit</u> <u>assumption</u> that the <u>strategy</u> <u>team</u> has <u>thought</u> it <u>through</u>, that the <u>leadership</u> <u>team</u> has <u>aligned</u> on it, and that the <u>organisation</u> will <u>execute</u> against it. Like the <u>city</u> that <u>publishes</u> only <u>finished</u> <u>plans</u>, the <u>firm</u> that <u>publishes</u> only <u>finished</u> <u>strategies</u> <u>denies</u> its <u>employees</u> the <u>opportunity</u> to <u>correct</u> the <u>premises</u> on which the <u>strategy</u> <u>rests</u>. The <u>employees</u> <u>execute</u> <u>against</u> a <u>plan</u> that may have <u>gone</u> <u>stale</u> in the <u>drafting</u>, and the <u>strategy</u> <u>team</u> <u>wonders</u>, in the <u>retrospective</u>, why <u>execution</u> was so <u>poor</u>. The <u>answer</u> is the same as the <u>city</u>'s: the <u>people</u> who <u>know</u> the <u>plan</u> is <u>wrong</u> were not <u>asked</u>.</p>",
+        "<p>The <u>honest</u> <u>question</u> for any <u>organisation</u> — public or private — is therefore not whether its <u>plans</u> are <u>correct</u>. They are <u>almost</u> <u>certainly</u> not, in <u>detail</u>, by the time they <u>reach</u> the <u>people</u> who have to <u>execute</u> them. The <u>honest</u> <u>question</u> is whether the <u>organisation</u> has the <u>habit</u> of <u>admitting</u> this, in <u>public</u>, in <u>advance</u>, so that the <u>corrections</u> can <u>arrive</u> <u>before</u> the <u>execution</u> rather than <u>after</u> it. Helsinki's <u>exercise</u> was, in <u>this</u> <u>reading</u>, not a <u>consultation</u> <u>technique</u>. It was a <u>corporate</u> <u>governance</u> <u>innovation</u>, <u>applied</u> to a <u>city</u>. The <u>firm</u> that <u>borrows</u> the <u>technique</u> — that <u>publishes</u> its <u>open</u> <u>questions</u> as <u>well</u> as its <u>finished</u> <u>plans</u>, that <u>invites</u> <u>corrections</u> in <u>advance</u> of <u>execution</u> — will not <u>necessarily</u> <u>produce</u> <u>better</u> <u>plans</u> on the <u>first</u> <u>try</u>. It will, <u>however</u>, <u>produce</u> <u>plans</u> that <u>survive</u> <u>contact</u> with the <u>people</u> who have to <u>live</u> with them. And that, in the <u>end</u>, is the <u>only</u> <u>test</u> of a <u>plan</u> that <u>matters</u>.</p>"
       ],
       "vocab": [
-        {"w": "foreign", "p": "/ˈfɒrən/", "t": "adj. 外国的", "lv": "基础"},
-        {"w": "overwhelming", "p": "/ˌəʊvəˈwelmɪŋ/", "t": "adj. 令人不知所措的", "lv": "IELTS"},
-        {"w": "chaos", "p": "/ˈkeɪɒs/", "t": "n. 混乱", "lv": "商务"},
-        {"w": "visa", "p": "/ˈviːzə/", "t": "n. 签证", "lv": "基础"},
-        {"w": "buffer", "p": "/ˈbʌfə/", "t": "n. 缓冲时间", "lv": "商务"},
-        {"w": "queue", "p": "/kjuː/", "t": "v./n. 排队", "lv": "基础"}
+        {
+          "w": "understated",
+          "p": "/ˌʌndəˈsteɪtɪd/",
+          "t": "adj. 低调的、克制的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "dullness",
+          "p": "/ˈdʌlnəs/",
+          "t": "n. 沉闷",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "ripple",
+          "p": "/ˈrɪpl/",
+          "t": "v. 扩散、起涟漪",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "municipality",
+          "p": "/mjuːˌnɪsɪˈpæləti/",
+          "t": "n. 市政当局",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "consultation",
+          "p": "/ˌkɒnsəlˈteɪʃn/",
+          "t": "n. 咨询",
+          "lv": "商务"
+        },
+        {
+          "w": "orthodox",
+          "p": "/ˈɔːθədɒks/",
+          "t": "adj. 传统的、正统的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "transportation",
+          "p": "/ˌtrænspɔːˈteɪʃn/",
+          "t": "n. 交通",
+          "lv": "基础"
+        },
+        {
+          "w": "anecdote",
+          "p": "/ˈænɪkdəʊt/",
+          "t": "n. 轶事、坊间说法",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "correction",
+          "p": "/kəˈrekʃn/",
+          "t": "n. 纠正",
+          "lv": "基础"
+        },
+        {
+          "w": "outdated",
+          "p": "/ˌaʊtˈdeɪtɪd/",
+          "t": "adj. 过时的",
+          "lv": "基础"
+        },
+        {
+          "w": "draft",
+          "p": "/drɑːft/",
+          "t": "v. 起草",
+          "lv": "基础"
+        },
+        {
+          "w": "demographic",
+          "p": "/ˌdeməˈɡræfɪk/",
+          "t": "adj. 人口的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "cycling",
+          "p": "/ˈsaɪklɪŋ/",
+          "t": "n. 骑行",
+          "lv": "基础"
+        },
+        {
+          "w": "pandemic",
+          "p": "/pænˈdemɪk/",
+          "t": "n. 大流行病",
+          "lv": "基础"
+        },
+        {
+          "w": "epistemic",
+          "p": "/ˌepɪˈstiːmɪk/",
+          "t": "adj. 认知的、知识的",
+          "lv": "学术"
+        },
+        {
+          "w": "humility",
+          "p": "/hjuːˈmɪləti/",
+          "t": "n. 谦逊",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "capacity",
+          "p": "/kəˈpæsəti/",
+          "t": "n. 能力、容量",
+          "lv": "基础"
+        },
+        {
+          "w": "acknowledge",
+          "p": "/əkˈnɒlɪdʒ/",
+          "t": "v. 承认",
+          "lv": "IELTS"
+        },
+        {
+          "w": "operate",
+          "p": "/ˈɒpəreɪt/",
+          "t": "v. 运作",
+          "lv": "基础"
+        },
+        {
+          "w": "political",
+          "p": "/pəˈlɪtɪkl/",
+          "t": "adj. 政治的",
+          "lv": "基础"
+        },
+        {
+          "w": "theorist",
+          "p": "/ˈθɪərɪst/",
+          "t": "n. 理论家",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "veil",
+          "p": "/veɪl/",
+          "t": "n. 面纱、遮掩",
+          "lv": "IELTS"
+        },
+        {
+          "w": "competence",
+          "p": "/ˈkɒmpɪtəns/",
+          "t": "n. 能力、胜任",
+          "lv": "IELTS"
+        },
+        {
+          "w": "assumption",
+          "p": "/əˈsʌmpʃn/",
+          "t": "n. 假设",
+          "lv": "基础"
+        },
+        {
+          "w": "preference",
+          "p": "/ˈprefrəns/",
+          "t": "n. 偏好",
+          "lv": "基础"
+        },
+        {
+          "w": "lift",
+          "p": "/lɪft/",
+          "t": "v. 揭开、抬起",
+          "lv": "基础"
+        },
+        {
+          "w": "knowledge",
+          "p": "/ˈnɒlɪdʒ/",
+          "t": "n. 知识",
+          "lv": "基础"
+        },
+        {
+          "w": "framing",
+          "p": "/ˈfreɪmɪŋ/",
+          "t": "n. 框架、措辞",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "psychology",
+          "p": "/saɪˈkɒlədʒi/",
+          "t": "n. 心理",
+          "lv": "基础"
+        },
+        {
+          "w": "definition",
+          "p": "/ˌdefɪˈnɪʃn/",
+          "t": "n. 定义",
+          "lv": "基础"
+        },
+        {
+          "w": "retired",
+          "p": "/rɪˈtaɪəd/",
+          "t": "adj. 退休的",
+          "lv": "基础"
+        },
+        {
+          "w": "correct",
+          "p": "/kəˈrekt/",
+          "t": "v. 纠正",
+          "lv": "基础"
+        },
+        {
+          "w": "commute",
+          "p": "/kəˈmjuːt/",
+          "t": "v. 通勤",
+          "lv": "基础"
+        },
+        {
+          "w": "disabled",
+          "p": "/dɪsˈeɪbld/",
+          "t": "adj. 残障的",
+          "lv": "基础"
+        },
+        {
+          "w": "immigrant",
+          "p": "/ˈɪmɪɡrənt/",
+          "t": "n. 移民",
+          "lv": "基础"
+        },
+        {
+          "w": "outreach",
+          "p": "/ˈaʊtriːtʃ/",
+          "t": "n. 外展、 outreach",
+          "lv": "商务"
+        },
+        {
+          "w": "willing",
+          "p": "/ˈwɪlɪŋ/",
+          "t": "adj. 愿意的",
+          "lv": "基础"
+        },
+        {
+          "w": "confident",
+          "p": "/ˈkɒnfɪdənt/",
+          "t": "adj. 自信的",
+          "lv": "基础"
+        },
+        {
+          "w": "legitimacy",
+          "p": "/lɪˈdʒɪtɪməsi/",
+          "t": "n. 合法性、正当性",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "distinguish",
+          "p": "/dɪˈstɪŋɡwɪʃ/",
+          "t": "v. 区分",
+          "lv": "IELTS"
+        },
+        {
+          "w": "substantive",
+          "p": "/ˈsʌbstəntɪv/",
+          "t": "adj. 实质性的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "partisan",
+          "p": "/ˌpɑːtɪˈzæn/",
+          "t": "adj. 党派的、有偏见的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "mechanism",
+          "p": "/ˈmekənɪzəm/",
+          "t": "n. 机制",
+          "lv": "商务"
+        },
+        {
+          "w": "show up",
+          "p": "/ʃəʊ ʌp/",
+          "t": "出现、显现",
+          "lv": "基础"
+        },
+        {
+          "w": "trivial",
+          "p": "/ˈtrɪviəl/",
+          "t": "adj. 琐碎的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "discover",
+          "p": "/dɪˈskʌvə/",
+          "t": "v. 发现",
+          "lv": "基础"
+        },
+        {
+          "w": "easier",
+          "p": "/ˈiːziə/",
+          "t": "adj. 更容易的",
+          "lv": "基础"
+        },
+        {
+          "w": "preach",
+          "p": "/priːtʃ/",
+          "t": "v. 宣扬",
+          "lv": "IELTS"
+        },
+        {
+          "w": "practise",
+          "p": "/ˈpræktɪs/",
+          "t": "v. 实践",
+          "lv": "基础"
+        },
+        {
+          "w": "binary",
+          "p": "/ˈbaɪnəri/",
+          "t": "adj. 二元的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "false",
+          "p": "/fɔːls/",
+          "t": "adj. 虚假的",
+          "lv": "基础"
+        },
+        {
+          "w": "boundary",
+          "p": "/ˈbaʊndri/",
+          "t": "n. 边界",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "manage",
+          "p": "/ˈmænɪdʒ/",
+          "t": "v. 管理",
+          "lv": "基础"
+        },
+        {
+          "w": "deploy",
+          "p": "/dɪˈplɔɪ/",
+          "t": "v. 部署、运用",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "act",
+          "p": "/ækt/",
+          "t": "v. 行动",
+          "lv": "基础"
+        }
       ],
       "phrases": [
-        {"en": "breeze through", "zh": "轻松通过"},
-        {"en": "connecting flight", "zh": "转机航班"}
+        {
+          "en": "epistemic humility",
+          "zh": "认知上的谦逊（承认自己不知道）"
+        },
+        {
+          "en": "veil of competence",
+          "zh": "能力面纱（默认当权者已做足功课）"
+        },
+        {
+          "en": "open question",
+          "zh": "开放问题（尚未有定论）"
+        },
+        {
+          "en": "lift the veil",
+          "zh": "揭开面纱"
+        }
       ]
     },
     {
       "id": "r-04",
-      "tag": "BBC",
-      "title": "The robot army quietly transforming retail",
-      "subtitle": "当中国机器人遇上英国的货架与人力短缺",
-      "minutes": 6,
+      "tag": "Vox 风格 · 心理与拖延",
+      "title": "Why You Procrastinate, and What to Do About It",
+      "subtitle": "为什么你会拖延，以及真正的破解法",
+      "minutes": 10,
       "body": [
-        "<p>Britain's weak <u>productivity</u> growth and <u>labour</u> shortages are creating an opening for Chinese robotics firms. In warehouses and shops, machines now <u>sort</u>, <u>stack</u> and even greet customers.</p>",
-        "<p>Rather than replacing people overnight, the shift is <u>gradual</u>: robots take the repetitive tasks, while humans handle judgement and care. The result can be lower costs and steadier shelves.</p>",
-        "<p>For travellers and shoppers, it is a small window into how 'made in China' is moving from products to <u>capabilities</u> — and how work itself is being redrawn.</p>"
+        "<p>The <u>standard</u> story about procrastination is wrong. It says that procrastinators are <u>lazy</u>, that they lack <u>self-discipline</u>, that they need better time management, a stricter morning routine, a louder alarm clock. This story is <u>appealing</u> because it makes procrastination a <u>character</u> flaw — something you can fix by trying harder. It is also, according to the <u>empirical</u> research on the topic, almost entirely <u>backwards</u>.</p>",
+        "<p>The researchers who study procrastination — among them Tim Pychyl, Joseph Ferrari, and Fuschia Sirois — have spent two decades trying to understand what is actually happening when a person <u>deliberately</u> chooses to <u>scroll</u> through their phone instead of writing the report that is due in three hours. The answer they have converged on is this: procrastination is not a time management problem. It is an <b>emotion regulation</b> problem. People procrastinate because they are trying to manage a difficult feeling — usually <u>anxiety</u>, sometimes <u>perfectionism</u>, often a quiet dread that the work will not be good enough — and the <u>temporary</u> relief of avoidance feels, in the moment, better than the <u>certain</u> discomfort of <u>confronting</u> the task.</p>",
+        "<p>This is why the <u>productivity</u> advice that treats procrastination as a discipline problem fails. Telling an anxious person to use a Pomodoro timer is like telling a <u>depressed</u> person to cheer up. The advice is not wrong, exactly, but it is aimed at the wrong <u>layer</u> of the problem. The timer does not <u>address</u> the reason the person opened Instagram instead of the document. It just adds a <u>guilt</u> layer on top.</p>",
+        "<p>The first practical <u>implication</u> of the emotion regulation framing is that the question to ask when you find yourself <u>procrastinating</u> is not what should I be doing, but what am I <u>avoiding</u> feeling. The avoidance is the data. If you are <u>scrolling</u> instead of writing, the writing is <u>triggering</u> something — fear of judgement, fear of failure, fear of finding out you are not as good at the work as you want to be. The <u>scroll</u> is not the <u>problem</u>. The <u>scroll</u> is the <u>symptom</u>.</p>",
+        "<p>The second implication is that the most effective <u>interventions</u> for procrastination are not <u>external</u> — they are <u>internal</u>. They involve changing your relationship to the difficult feeling, not changing the <u>environment</u> in which you feel it. Pychyl's most <u>quoted</u> line in his <u>lectures</u> is that <u>procrastination</u> is the <u>primordial</u> <u>sin</u> of <u>emotion</u> <u>regulation</u>: the original way human beings learned to avoid pain. The treatment is therefore not to <u>suppress</u> the feeling — which makes it <u>stronger</u> — but to <u>acknowledge</u> it, name it, and then <u>choose</u> an action anyway, on the understanding that the action will be uncomfortable and the discomfort will pass.</p>",
+        "<p>This is, admittedly, <u>easier</u> to <u>describe</u> than to <u>execute</u>. A 2022 <u>meta-analysis</u> of <u>procrastination</u> <u>interventions</u> in the journal <i>Psychological Bulletin</i> found that the most effective single technique was something called <b>implementation intentions</b> — specific if-then plans that link a <u>cue</u> to an action in advance, so that the action does not require <u>deliberation</u> in the moment. The classic <u>format</u> is: if it is 9 a.m. on a Tuesday, I will open the document and write for twenty-five minutes. The point is not the twenty-five minutes. The point is that the decision has already been made, and the difficult feeling has lost the opportunity to <u>intervene</u>.</p>",
+        "<p>The third implication is about <u>self-compassion</u>. Sirois's research has repeatedly found that people who <u>respond</u> to their own procrastination with <u>shame</u> — who tell themselves they are lazy, who <u>vow</u> to do better next time, who <u>punish</u> themselves with <u>guilt</u> — procrastinate more in the future, not less. The shame <u>triggers</u> the same <u>avoidance</u> response the next time, and a <u>vicious</u> cycle is set. Self-compassion, by <u>contrast</u>, breaks the cycle. Treating the procrastination as a <u>normal</u> and <u>understandable</u> response to a difficult feeling — rather than a <u>moral</u> failure — makes it easier to <u>return</u> to the work without the additional burden of <u>self-hatred</u>.</p>",
+        "<p>The <u>summary</u>, then, is this. Procrastination is not a <u>failure</u> of <u>willpower</u>. It is a <u>failure</u> of <u>strategy</u> — the strategy of <u>trying</u> to manage difficult feelings by avoiding the work that <u>triggers</u> them. The <u>fix</u> is not more discipline. The fix is to <u>recognise</u> what you are avoiding, to plan around the <u>avoidance</u> in advance, and to <u>treat</u> the moments you slip with the same <u>patience</u> you would offer a friend. The work will still be hard. The deadline will still <u>loom</u>. But the <u>internal</u> <u>narrative</u> changes from I am a <u>lazy</u> person who cannot <u>finish</u> things to I am a person who finds this work hard, and I am <u>choosing</u> to do it anyway. The first narrative makes you <u>hide</u>. The second one lets you <u>start</u>.</p>",
+        "<p>The <u>cultural</u> <u>obstacle</u> to this <u>framing</u> is the <u>Protestant</u> <u>work</u> <u>ethic</u> in its <u>current</u>, <u>productivity-bro</u> <u>form</u>. The <u>assumption</u> is that <u>discipline</u> is the <u>thing</u> you <u>build</u> by <u>suffering</u> through <u>uncomfortable</u> <u>work</u>, and that the <u>feeling</u> of <u>not</u> <u>wanting</u> to do the <u>work</u> is a <u>signal</u> of <u>weakness</u> to be <u>overcome</u>. The <u>research</u> on <u>procrastination</u> <u>suggests</u> the <u>opposite</u>. The <u>feeling</u> of <u>not</u> <u>wanting</u> to do the <u>work</u> is a <u>signal</u> of <u>information</u> — <u>information</u> about what the <u>work</u> <u>means</u> to you, what you <u>fear</u> about it, what <u>part</u> of it is <u>triggering</u> a <u>threat</u> <u>response</u>. <u>Discipline</u>, in the <u>traditional</u> <u>sense</u>, is what you <u>use</u> to <u>suppress</u> the <u>signal</u>. The <u>alternative</u> is to <u>use</u> the <u>signal</u>. The <u>feeling</u> of <u>resistance</u> at the <u>start</u> of a <u>task</u> is <u>data</u>, not a <u>defect</u>.</p>",
+        "<p>This is, <u>admittedly</u>, a <u>less</u> <u>satisfying</u> <u>story</u> than the <u>discipline</u> one. The <u>discipline</u> <u>story</u> <u>promises</u> that if you <u>try</u> <u>hard</u> <u>enough</u>, you will <u>stop</u> <u>feeling</u> the <u>resistance</u>. The <u>research</u> <u>says</u> you will not. You will <u>stop</u> <u>noticing</u> it, which is a <u>different</u> <u>thing</u>, and the <u>cost</u> of <u>not</u> <u>noticing</u> it is <u>paid</u> in <u>burnout</u>, in <u>chronic</u> <u>under-performance</u>, in the <u>slow</u> <u>erosion</u> of <u>engagement</u> that <u>defines</u> so <u>many</u> <u>mid-career</u> <u>professionals</u> in <u>knowledge</u> <u>work</u>. The <u>work</u> of <u>noticing</u> is <u>uncomfortable</u>. The <u>work</u> of <u>not</u> <u>noticing</u> is <u>worse</u>. The <u>choice</u>, in the <u>end</u>, is not <u>between</u> <u>discipline</u> and <u>permissiveness</u>. It is <u>between</u> two <u>kinds</u> of <u>discomfort</u> — the <u>discomfort</u> of <u>seeing</u> what you are <u>avoiding</u>, and the <u>discomfort</u> of <u>carrying</u> what you have <u>refused</u> to <u>see</u>.</p>"
       ],
       "vocab": [
-        {"w": "productivity", "p": "/ˌprɒdʌkˈtɪvəti/", "t": "n. 生产率", "lv": "商务"},
-        {"w": "labour", "p": "/ˈleɪbə/", "t": "n. 劳动力", "lv": "商务"},
-        {"w": "sort", "p": "/sɔːt/", "t": "v. 分类", "lv": "基础"},
-        {"w": "stack", "p": "/stæk/", "t": "v. 堆叠", "lv": "基础"},
-        {"w": "gradual", "p": "/ˈɡrædʒuəl/", "t": "adj. 渐进的", "lv": "IELTS"},
-        {"w": "capabilities", "p": "/ˌkeɪpəˈbɪlətiz/", "t": "n. 能力", "lv": "商务"}
+        {
+          "w": "standard",
+          "p": "/ˈstændəd/",
+          "t": "adj. 标准的",
+          "lv": "基础"
+        },
+        {
+          "w": "lazy",
+          "p": "/ˈleɪzi/",
+          "t": "adj. 懒惰的",
+          "lv": "基础"
+        },
+        {
+          "w": "self-discipline",
+          "p": "/self ˈdɪsəplɪn/",
+          "t": "n. 自律",
+          "lv": "基础"
+        },
+        {
+          "w": "appealing",
+          "p": "/əˈpiːlɪŋ/",
+          "t": "adj. 有吸引力的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "character",
+          "p": "/ˈkærəktə/",
+          "t": "n. 性格、品质",
+          "lv": "基础"
+        },
+        {
+          "w": "empirical",
+          "p": "/ɪmˈpɪrɪkl/",
+          "t": "adj. 经验性的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "backwards",
+          "p": "/ˈbækwədz/",
+          "t": "adv. 反向地",
+          "lv": "基础"
+        },
+        {
+          "w": "deliberately",
+          "p": "/dɪˈlɪbərətli/",
+          "t": "adv. 故意地",
+          "lv": "IELTS"
+        },
+        {
+          "w": "scroll",
+          "p": "/skrəʊl/",
+          "t": "v. 滑动屏幕",
+          "lv": "基础"
+        },
+        {
+          "w": "anxiety",
+          "p": "/æŋˈzaɪəti/",
+          "t": "n. 焦虑",
+          "lv": "基础"
+        },
+        {
+          "w": "perfectionism",
+          "p": "/pəˈfekʃənɪzəm/",
+          "t": "n. 完美主义",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "temporary",
+          "p": "/ˈtemprəri/",
+          "t": "adj. 暂时的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "certain",
+          "p": "/ˈsɜːtn/",
+          "t": "adj. 确定的",
+          "lv": "基础"
+        },
+        {
+          "w": "confront",
+          "p": "/kənˈfrʌnt/",
+          "t": "v. 面对",
+          "lv": "IELTS"
+        },
+        {
+          "w": "productivity",
+          "p": "/ˌprɒdʌkˈtɪvəti/",
+          "t": "n. 生产力",
+          "lv": "商务"
+        },
+        {
+          "w": "depressed",
+          "p": "/dɪˈprest/",
+          "t": "adj. 抑郁的",
+          "lv": "基础"
+        },
+        {
+          "w": "layer",
+          "p": "/ˈleɪə/",
+          "t": "n. 层",
+          "lv": "基础"
+        },
+        {
+          "w": "address",
+          "p": "/əˈdres/",
+          "t": "v. 处理、解决",
+          "lv": "基础"
+        },
+        {
+          "w": "guilt",
+          "p": "/ɡɪlt/",
+          "t": "n. 内疚",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "implication",
+          "p": "/ˌɪmplɪˈkeɪʃn/",
+          "t": "n. 含义、影响",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "procrastinate",
+          "p": "/prəˈkræstɪneɪt/",
+          "t": "v. 拖延",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "avoid",
+          "p": "/əˈvɔɪd/",
+          "t": "v. 回避",
+          "lv": "基础"
+        },
+        {
+          "w": "scrolling",
+          "p": "/ˈskrəʊlɪŋ/",
+          "t": "n. 滚动浏览",
+          "lv": "基础"
+        },
+        {
+          "w": "trigger",
+          "p": "/ˈtrɪɡə/",
+          "t": "v. 触发",
+          "lv": "基础"
+        },
+        {
+          "w": "scroll",
+          "p": "/skrəʊl/",
+          "t": "n. 滚动",
+          "lv": "基础"
+        },
+        {
+          "w": "problem",
+          "p": "/ˈprɒbləm/",
+          "t": "n. 问题",
+          "lv": "基础"
+        },
+        {
+          "w": "symptom",
+          "p": "/ˈsɪmptəm/",
+          "t": "n. 症状",
+          "lv": "IELTS"
+        },
+        {
+          "w": "intervention",
+          "p": "/ˌɪntəˈvenʃn/",
+          "t": "n. 干预",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "external",
+          "p": "/ɪkˈstɜːnl/",
+          "t": "adj. 外部的",
+          "lv": "基础"
+        },
+        {
+          "w": "internal",
+          "p": "/ɪnˈtɜːnl/",
+          "t": "adj. 内部的",
+          "lv": "基础"
+        },
+        {
+          "w": "environment",
+          "p": "/ɪnˈvaɪrənmənt/",
+          "t": "n. 环境",
+          "lv": "基础"
+        },
+        {
+          "w": "quoted",
+          "p": "/ˈkwəʊtɪd/",
+          "t": "adj. 被引用的",
+          "lv": "基础"
+        },
+        {
+          "w": "lecture",
+          "p": "/ˈlektʃə/",
+          "t": "n. 演讲、讲座",
+          "lv": "基础"
+        },
+        {
+          "w": "primordial",
+          "p": "/praɪˈmɔːdiəl/",
+          "t": "adj. 原初的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "sin",
+          "p": "/sɪn/",
+          "t": "n. 罪过",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "emotion",
+          "p": "/ɪˈməʊʃn/",
+          "t": "n. 情绪",
+          "lv": "基础"
+        },
+        {
+          "w": "regulation",
+          "p": "/ˌreɡjuˈleɪʃn/",
+          "t": "n. 调节",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "suppress",
+          "p": "/səˈpres/",
+          "t": "v. 压抑",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "stronger",
+          "p": "/ˈstrɒŋɡə/",
+          "t": "adj. 更强的",
+          "lv": "基础"
+        },
+        {
+          "w": "acknowledge",
+          "p": "/əkˈnɒlɪdʒ/",
+          "t": "v. 承认",
+          "lv": "IELTS"
+        },
+        {
+          "w": "choose",
+          "p": "/tʃuːz/",
+          "t": "v. 选择",
+          "lv": "基础"
+        },
+        {
+          "w": "easier",
+          "p": "/ˈiːziə/",
+          "t": "adj. 更容易",
+          "lv": "基础"
+        },
+        {
+          "w": "describe",
+          "p": "/dɪˈskraɪb/",
+          "t": "v. 描述",
+          "lv": "基础"
+        },
+        {
+          "w": "execute",
+          "p": "/ˈeksɪkjuːt/",
+          "t": "v. 执行",
+          "lv": "商务"
+        },
+        {
+          "w": "meta-analysis",
+          "p": "/ˌmetə əˈnæləsɪs/",
+          "t": "n. 元分析",
+          "lv": "学术"
+        },
+        {
+          "w": "cue",
+          "p": "/kjuː/",
+          "t": "n. 提示、信号",
+          "lv": "IELTS"
+        },
+        {
+          "w": "deliberation",
+          "p": "/dɪˌlɪbəˈreɪʃn/",
+          "t": "n. 深思熟虑",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "format",
+          "p": "/ˈfɔːmæt/",
+          "t": "n. 格式",
+          "lv": "基础"
+        },
+        {
+          "w": "intervene",
+          "p": "/ˌɪntəˈviːn/",
+          "t": "v. 介入",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "self-compassion",
+          "p": "/self kəmˈpæʃn/",
+          "t": "n. 自我同情",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "respond",
+          "p": "/rɪˈspɒnd/",
+          "t": "v. 回应",
+          "lv": "基础"
+        },
+        {
+          "w": "shame",
+          "p": "/ʃeɪm/",
+          "t": "n. 羞耻",
+          "lv": "IELTS"
+        },
+        {
+          "w": "vow",
+          "p": "/vaʊ/",
+          "t": "v. 发誓",
+          "lv": "IELTS"
+        },
+        {
+          "w": "punish",
+          "p": "/ˈpʌnɪʃ/",
+          "t": "v. 惩罚",
+          "lv": "IELTS"
+        },
+        {
+          "w": "trigger",
+          "p": "/ˈtrɪɡə/",
+          "t": "v. 触发",
+          "lv": "基础"
+        },
+        {
+          "w": "avoidance",
+          "p": "/əˈvɔɪdəns/",
+          "t": "n. 回避",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "vicious",
+          "p": "/ˈvɪʃəs/",
+          "t": "adj. 恶性的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "cycle",
+          "p": "/ˈsaɪkl/",
+          "t": "n. 循环",
+          "lv": "基础"
+        },
+        {
+          "w": "contrast",
+          "p": "/ˈkɒntrɑːst/",
+          "t": "n. 对比",
+          "lv": "IELTS"
+        },
+        {
+          "w": "normal",
+          "p": "/ˈnɔːml/",
+          "t": "adj. 正常的",
+          "lv": "基础"
+        },
+        {
+          "w": "understandable",
+          "p": "/ˌʌndəˈstændəbl/",
+          "t": "adj. 可理解的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "moral",
+          "p": "/ˈmɒrəl/",
+          "t": "adj. 道德的",
+          "lv": "基础"
+        },
+        {
+          "w": "return",
+          "p": "/rɪˈtɜːn/",
+          "t": "v. 返回",
+          "lv": "基础"
+        },
+        {
+          "w": "self-hatred",
+          "p": "/self ˈheɪtrɪd/",
+          "t": "n. 自我憎恨",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "summary",
+          "p": "/ˈsʌməri/",
+          "t": "n. 总结",
+          "lv": "基础"
+        },
+        {
+          "w": "failure",
+          "p": "/ˈfeɪljə/",
+          "t": "n. 失败",
+          "lv": "基础"
+        },
+        {
+          "w": "willpower",
+          "p": "/ˈwɪlpaʊə/",
+          "t": "n. 意志力",
+          "lv": "基础"
+        },
+        {
+          "w": "strategy",
+          "p": "/ˈstrætədʒi/",
+          "t": "n. 策略",
+          "lv": "基础"
+        },
+        {
+          "w": "try",
+          "p": "/traɪ/",
+          "t": "v. 尝试",
+          "lv": "基础"
+        },
+        {
+          "w": "fix",
+          "p": "/fɪks/",
+          "t": "n. 解决办法",
+          "lv": "基础"
+        },
+        {
+          "w": "recognise",
+          "p": "/ˈrekəɡnaɪz/",
+          "t": "v. 识别",
+          "lv": "IELTS"
+        },
+        {
+          "w": "treat",
+          "p": "/triːt/",
+          "t": "v. 对待",
+          "lv": "基础"
+        },
+        {
+          "w": "patience",
+          "p": "/ˈpeɪʃns/",
+          "t": "n. 耐心",
+          "lv": "基础"
+        },
+        {
+          "w": "loom",
+          "p": "/luːm/",
+          "t": "v. 逼近",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "narrative",
+          "p": "/ˈnærətɪv/",
+          "t": "n. 叙事、叙述",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "finish",
+          "p": "/ˈfɪnɪʃ/",
+          "t": "v. 完成",
+          "lv": "基础"
+        },
+        {
+          "w": "hide",
+          "p": "/haɪd/",
+          "t": "v. 隐藏",
+          "lv": "基础"
+        },
+        {
+          "w": "start",
+          "p": "/stɑːt/",
+          "t": "v. 开始",
+          "lv": "基础"
+        }
       ],
       "phrases": [
-        {"en": "labour shortage", "zh": "劳动力短缺"},
-        {"en": "redraw the line", "zh": "重新划定界限"}
+        {
+          "en": "emotion regulation",
+          "zh": "情绪调节"
+        },
+        {
+          "en": "implementation intentions",
+          "zh": "执行意图（预先设定的 if-then 计划）"
+        },
+        {
+          "en": "self-compassion",
+          "zh": "自我同情"
+        },
+        {
+          "en": "vicious cycle",
+          "zh": "恶性循环"
+        }
       ]
     },
     {
       "id": "r-05",
-      "tag": "TED",
-      "title": "The art of reading minds",
-      "subtitle": "心理读心师 Oz Pearlman 的「观察」课",
-      "minutes": 6,
+      "tag": "New Yorker 风格 · 第三空间",
+      "title": "The Quiet Return of the Third Place",
+      "subtitle": "「第三空间」正在悄悄回归",
+      "minutes": 10,
       "body": [
-        "<p>Mentalist Oz Pearlman says he has no special powers — only sharp <u>observation</u>. He watches where people look, how they <u>fidget</u>, and what they avoid saying.</p>",
-        "<p>The real skill is curiosity: most of us are so busy performing that we stop <u>noticing</u>. Reading a room is less magic than <u>attention</u> trained on purpose.</p>",
-        "<p>In daily work, this translates to better listening — picking up the <u>unsaid</u> and responding to what matters, not just what is voiced.</p>"
+        "<p>The term <b>third place</b> was coined by the sociologist Ray Oldenburg, in his 1989 book <i>The Great Good Place</i>, to describe the <u>hangouts</u> that exist outside the two <u>dominant</u> environments of adult life — the home and the workplace. The <u>café</u>, the <u>barber</u> shop, the public library, the diner, the local park, the corner pub. These are the places where, in Oldenburg's <u>argument</u>, a <u>civic</u> life is <u>forged</u>. They are where you <u>encounter</u> people you did not <u>intend</u> to meet, where <u>conversation</u> happens without an <u>agenda</u>, where the bonds of <u>trust</u> that make a <u>neighbourhood</u> work are <u>quietly</u> maintained.</p>",
+        "<p>For the first two decades of this century, the <u>thesis</u> of the third place was that it was dying. The <u>causes</u> were familiar: the <u>collapse</u> of local retail, the <u>rise</u> of remote work, the migration of <u>social</u> life to <u>platforms</u>, the <u>gentrification</u> of <u>public</u> space, the <u>escalating</u> cost of <u>leisure</u> in cities. The <u>coffee</u> chain replaced the <u>café</u>. The <u>algorithm</u> replaced the <u>serendipity</u>. The <u>headphones</u> replaced the <u>stranger</u> on the next <u>stool</u>. The third place, in this telling, was being <u>substituted</u> by something <u>cheaper</u> and <u>quieter</u> and, the critics <u>argued</u>, much worse.</p>",
+        "<p>What the critics did not <u>predict</u> is that the third place would <u>rebound</u>, and that when it did, it would look <u>decidedly</u> different from its <u>pre-digital</u> <u>incarnation</u>. The data from 2023 onwards is <u>striking</u>. <u>Independent</u> coffee shops in the United States grew by 12% between 2022 and 2025. <u>Board</u> game cafés, a <u>category</u> that did not really <u>exist</u> before 2010, now number more than four thousand in North America. <u>Listening</u> bars — small <u>venues</u> built around a <u>high-end</u> sound system and a <u>strict</u> no-talking-during-the-music rule — have become one of the fastest-growing <u>formats</u> in <u>hospitality</u>. <u>Running</u> clubs, book clubs, <u>pottery</u> studios, neighbourhood <u>kitchens</u>: the third place is not <u>vanishing</u>. It is <u>mutating</u>.</p>",
+        "<p>The new third place is, in several <u>respects</u>, a <u>deliberate</u> <u>construction</u>. Where the old one was <u>incidental</u> — a corner pub that <u>happened</u> to be at the corner — the new one is <u>curated</u>. It is a place someone <u>decided</u> to build, with a specific <u>aesthetic</u>, a specific <u>set</u> of rules, and a specific <u>promise</u> about what the experience will and will not include. The listening bar <u>promises</u> silence. The board game café <u>promises</u> <u>analogue</u> play. The running club <u>promises</u> <u>company</u> at a <u>pace</u> the slowest member can <u>maintain</u>. The third place is being <u>re-engineered</u> for an <u>audience</u> that has spent a decade on <u>platforms</u> and is now, with a <u>vengeance</u>, looking for the things the platforms do not provide.</p>",
+        "<p>The list of things the platforms do not provide is, when you write it down, striking. They do not provide <u>ambient</u> <u>presence</u> — the experience of being near other people without needing to <u>perform</u> for them. They do not provide <u>unscripted</u> <u>encounter</u> — the meeting of a person you did not <u>expect</u> to meet, in a context you did not <u>arrange</u>. They do not provide <u>silence</u> — actual, shared, two-people-in-a-room silence, which is one of the most <u>underrated</u> <u>forms</u> of human <u>intimacy</u>. They do not provide the small <u>frictions</u> of <u>public</u> life — the <u>queue</u> at the bar, the <u>apology</u> when you <u>bump</u> someone's chair, the eye contact with the <u>stranger</u> across the <u>table</u>. These are the things the third place, in its old and new <u>forms</u>, is being re-engineered to <u>restore</u>.</p>",
+        "<p>This is not to <u>romanticise</u> the new third place. It has its <u>exclusivity</u> <u>problems</u> — a tasting-menu listening bar is not a <u>democratic</u> <u>institution</u>. It has its <u>aesthetic</u> <u>pressures</u> — the third place now has a brand identity, an Instagram <u>aesthetic</u>, and a price point, and the <u>trade-offs</u> that come with all three. It has, like the old third place, the problem of <u>who</u> feels welcome and who does not. The corner pub of Oldenburg's 1989 was not, in <u>retrospect</u>, as <u>universally</u> warm as the <u>memories</u> suggest. The new third place is no more <u>innocent</u>.</p>",
+        "<p>But the <u>underlying</u> <u>hunger</u> is real, and it is not going away. <u>Generations</u> who came of age <u>entirely</u> on <u>platforms</u> are <u>discovering</u> that the platforms were not, in the end, a <u>substitute</u> for the third place. They were a <u>distraction</u> from the <u>absence</u> of it. The <u>café</u> is back. The bar is back. The library is, in many cities, <u>unexpectedly</u> <u>thriving</u>. The third place did not die. It went away for a while, and now, in <u>forms</u> its original <u>theorist</u> would not quite <u>recognise</u>, it is coming back. The <u>sociologist</u> in me wants to <u>resist</u> the <u>narrative</u> of <u>return</u>. The <u>resident</u> in me is just <u>grateful</u> to <u>have</u> somewhere to go on a <u>Tuesday</u> night that is not my <u>apartment</u> and not my <u>laptop</u>.</p>",
+        "<p>The <u>third</u> <u>observation</u> is about <u>timing</u>. The new third place is, in <u>almost</u> every <u>case</u>, a <u>post-pandemic</u> <u>phenomenon</u>. It did not <u>exist</u>, in its <u>current</u> <u>form</u>, before 2020. It <u>emerged</u> from a <u>specific</u> <u>historical</u> <u>condition</u>: a <u>decade</u> of <u>platform</u> <u>mediated</u> <u>social</u> <u>life</u>, a <u>pandemic</u> that <u>removed</u> the <u>in-person</u> <u>default</u>, and a <u>subsequent</u> <u>period</u> of <u>rebuilding</u> in which the <u>people</u> doing the <u>rebuilding</u> were <u>explicit</u> about what they <u>missed</u> and what they did not. The third place of 2026 is the <u>answer</u> to a <u>specific</u> <u>question</u>: what would I <u>pay</u> to <u>recover</u>, from the <u>pre-platform</u> <u>era</u>, that the <u>platforms</u> did not <u>replace</u>? The <u>answer</u>, in <u>city</u> after <u>city</u>, is the same <u>thing</u>: <u>presence</u> <u>without</u> <u>performance</u>, <u>encounter</u> <u>without</u> <u>agenda</u>, <u>silence</u> <u>without</u> <u>isolation</u>.</p>",
+        "<p>It is <u>tempting</u> to <u>end</u> on the <u>note</u> that the third place is <u>back</u>, and that <u>this</u> is, on the whole, a <u>good</u> <u>thing</u>. I am <u>hesitant</u> to <u>do</u> so, because the <u>back</u> is not the <u>same</u> as what was <u>there</u> <u>before</u>. The new third place is <u>curated</u>, <u>priced</u>, <u>branded</u>, and <u>institutionally</u> <u>fragile</u> in <u>ways</u> the old one was not. The old <u>corner</u> <u>pub</u> <u>survived</u> <u>recessions</u> <u>because</u> it was <u>cheap</u> to <u>run</u>, <u>because</u> its <u>patrons</u> <u>drank</u> what it <u>served</u>, and <u>because</u> its <u>social</u> <u>function</u> was <u>obvious</u> to <u>everyone</u> who <u>walked</u> in. The new third place is <u>vulnerable</u> to <u>rent</u> <u>increases</u>, to <u>algorithm</u> <u>shifts</u> on the <u>platforms</u> that <u>drive</u> <u>discovery</u>, to <u>changes</u> in <u>consumer</u> <u>taste</u> that are <u>faster</u> than the <u>rent</u> <u>cycle</u>. It may not <u>last</u>. But what it <u>reveals</u>, while it <u>lasts</u>, is that the <u>human</u> <u>need</u> it <u>serves</u> is <u>real</u>, and that the <u>platforms</u>, for all their <u>convenience</u>, did not <u>make</u> the <u>need</u> go <u>away</u>. They <u>made</u> it <u>quiet</u>. The third place, in its <u>new</u> <u>forms</u>, is what the <u>need</u> <u>sounds</u> like when it is <u>loud</u> <u>again</u>.</p>"
       ],
       "vocab": [
-        {"w": "observation", "p": "/ˌɒbzəˈveɪʃn/", "t": "n. 观察", "lv": "基础"},
-        {"w": "fidget", "p": "/ˈfɪdʒɪt/", "t": "v. 坐立不安、小动作", "lv": "IELTS"},
-        {"w": "noticing", "p": "/ˈnəʊtɪsɪŋ/", "t": "v. 注意到", "lv": "基础"},
-        {"w": "attention", "p": "/əˈtenʃn/", "t": "n. 注意力", "lv": "基础"},
-        {"w": "unsaid", "p": "/ˌʌnˈsed/", "t": "adj. 未说出口的", "lv": "TOEFL"}
+        {
+          "w": "hangout",
+          "p": "/ˈhæŋaʊt/",
+          "t": "n. 聚会处",
+          "lv": "基础"
+        },
+        {
+          "w": "dominant",
+          "p": "/ˈdɒmɪnənt/",
+          "t": "adj. 占主导的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "café",
+          "p": "/ˈkæfeɪ/",
+          "t": "n. 咖啡馆",
+          "lv": "基础"
+        },
+        {
+          "w": "barber",
+          "p": "/ˈbɑːbə/",
+          "t": "n. 理发师",
+          "lv": "基础"
+        },
+        {
+          "w": "argument",
+          "p": "/ˈɑːɡjumənt/",
+          "t": "n. 论点",
+          "lv": "基础"
+        },
+        {
+          "w": "civic",
+          "p": "/ˈsɪvɪk/",
+          "t": "adj. 公民的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "forge",
+          "p": "/fɔːdʒ/",
+          "t": "v. 锻造、形成",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "encounter",
+          "p": "/ɪnˈkaʊntə/",
+          "t": "v. 偶遇",
+          "lv": "IELTS"
+        },
+        {
+          "w": "intend",
+          "p": "/ɪnˈtend/",
+          "t": "v. 打算",
+          "lv": "基础"
+        },
+        {
+          "w": "conversation",
+          "p": "/ˌkɒnvəˈseɪʃn/",
+          "t": "n. 交谈",
+          "lv": "基础"
+        },
+        {
+          "w": "agenda",
+          "p": "/əˈdʒendə/",
+          "t": "n. 议程",
+          "lv": "商务"
+        },
+        {
+          "w": "trust",
+          "p": "/trʌst/",
+          "t": "n. 信任",
+          "lv": "基础"
+        },
+        {
+          "w": "neighbourhood",
+          "p": "/ˈneɪbəhʊd/",
+          "t": "n. 社区",
+          "lv": "IELTS"
+        },
+        {
+          "w": "quietly",
+          "p": "/ˈkwaɪətli/",
+          "t": "adv. 安静地",
+          "lv": "基础"
+        },
+        {
+          "w": "thesis",
+          "p": "/ˈθiːsɪs/",
+          "t": "n. 论点",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "cause",
+          "p": "/kɔːz/",
+          "t": "n. 原因",
+          "lv": "基础"
+        },
+        {
+          "w": "collapse",
+          "p": "/kəˈlæps/",
+          "t": "n./v. 崩塌",
+          "lv": "IELTS"
+        },
+        {
+          "w": "rise",
+          "p": "/raɪz/",
+          "t": "n./v. 兴起",
+          "lv": "基础"
+        },
+        {
+          "w": "social",
+          "p": "/ˈsəʊʃl/",
+          "t": "adj. 社交的",
+          "lv": "基础"
+        },
+        {
+          "w": "platform",
+          "p": "/ˈplætfɔːm/",
+          "t": "n. 平台",
+          "lv": "基础"
+        },
+        {
+          "w": "gentrification",
+          "p": "/ˌdʒentrɪfɪˈkeɪʃn/",
+          "t": "n. 高端化",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "public",
+          "p": "/ˈpʌblɪk/",
+          "t": "adj. 公共的",
+          "lv": "基础"
+        },
+        {
+          "w": "escalate",
+          "p": "/ˈeskəleɪt/",
+          "t": "v. 升级",
+          "lv": "商务"
+        },
+        {
+          "w": "leisure",
+          "p": "/ˈleʒə/",
+          "t": "n. 休闲",
+          "lv": "IELTS"
+        },
+        {
+          "w": "coffee",
+          "p": "/ˈkɒfi/",
+          "t": "n. 咖啡",
+          "lv": "基础"
+        },
+        {
+          "w": "algorithm",
+          "p": "/ˈælɡərɪðəm/",
+          "t": "n. 算法",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "serendipity",
+          "p": "/ˌserənˈdɪpəti/",
+          "t": "n. 意外的好运",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "headphones",
+          "p": "/ˈhedfəʊnz/",
+          "t": "n. 耳机",
+          "lv": "基础"
+        },
+        {
+          "w": "stranger",
+          "p": "/ˈstreɪndʒə/",
+          "t": "n. 陌生人",
+          "lv": "基础"
+        },
+        {
+          "w": "stool",
+          "p": "/stuːl/",
+          "t": "n. 凳子",
+          "lv": "基础"
+        },
+        {
+          "w": "substitute",
+          "p": "/ˈsʌbstɪtjuːt/",
+          "t": "v. 替代",
+          "lv": "IELTS"
+        },
+        {
+          "w": "cheaper",
+          "p": "/ˈtʃiːpə/",
+          "t": "adj. 更便宜",
+          "lv": "基础"
+        },
+        {
+          "w": "quieter",
+          "p": "/ˈkwaɪətə/",
+          "t": "adj. 更安静",
+          "lv": "基础"
+        },
+        {
+          "w": "argue",
+          "p": "/ˈɑːɡjuː/",
+          "t": "v. 主张",
+          "lv": "基础"
+        },
+        {
+          "w": "predict",
+          "p": "/prɪˈdɪkt/",
+          "t": "v. 预测",
+          "lv": "基础"
+        },
+        {
+          "w": "rebound",
+          "p": "/rɪˈbaʊnd/",
+          "t": "v. 反弹",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "decidedly",
+          "p": "/dɪˈsaɪdɪdli/",
+          "t": "adv. 明显地",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "pre-digital",
+          "p": "/priː ˈdɪdʒɪtl/",
+          "t": "adj. 数字化之前的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "incarnation",
+          "p": "/ˌɪnkɑːˈneɪʃn/",
+          "t": "n. 化身、形态",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "striking",
+          "p": "/ˈstraɪkɪŋ/",
+          "t": "adj. 显著的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "independent",
+          "p": "/ˌɪndɪˈpendənt/",
+          "t": "adj. 独立的",
+          "lv": "基础"
+        },
+        {
+          "w": "board game",
+          "p": "/bɔːd ɡeɪm/",
+          "t": "n. 桌游",
+          "lv": "基础"
+        },
+        {
+          "w": "category",
+          "p": "/ˈkætəɡəri/",
+          "t": "n. 类别",
+          "lv": "基础"
+        },
+        {
+          "w": "exist",
+          "p": "/ɪɡˈzɪst/",
+          "t": "v. 存在",
+          "lv": "基础"
+        },
+        {
+          "w": "listening bar",
+          "p": "/ˈlɪsnɪŋ bɑːr/",
+          "t": "n. 听音酒吧",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "venue",
+          "p": "/ˈvenjuː/",
+          "t": "n. 场所",
+          "lv": "基础"
+        },
+        {
+          "w": "high-end",
+          "p": "/haɪ end/",
+          "t": "adj. 高端的",
+          "lv": "基础"
+        },
+        {
+          "w": "strict",
+          "p": "/strɪkt/",
+          "t": "adj. 严格的",
+          "lv": "基础"
+        },
+        {
+          "w": "format",
+          "p": "/ˈfɔːmæt/",
+          "t": "n. 形式",
+          "lv": "基础"
+        },
+        {
+          "w": "hospitality",
+          "p": "/ˌhɒspɪˈtæləti/",
+          "t": "n. 餐饮业",
+          "lv": "商务"
+        },
+        {
+          "w": "running club",
+          "p": "/ˈrʌnɪŋ klʌb/",
+          "t": "n. 跑团",
+          "lv": "基础"
+        },
+        {
+          "w": "pottery",
+          "p": "/ˈpɒtəri/",
+          "t": "n. 陶艺",
+          "lv": "基础"
+        },
+        {
+          "w": "studio",
+          "p": "/ˈstjuːdiəʊ/",
+          "t": "n. 工作室",
+          "lv": "基础"
+        },
+        {
+          "w": "kitchen",
+          "p": "/ˈkɪtʃɪn/",
+          "t": "n. 厨房",
+          "lv": "基础"
+        },
+        {
+          "w": "vanish",
+          "p": "/ˈvænɪʃ/",
+          "t": "v. 消失",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "mutate",
+          "p": "/mjuːˈteɪt/",
+          "t": "v. 变异",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "respect",
+          "p": "/rɪˈspekt/",
+          "t": "n. 方面",
+          "lv": "基础"
+        },
+        {
+          "w": "deliberate",
+          "p": "/dɪˈlɪbərət/",
+          "t": "adj. 故意的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "construction",
+          "p": "/kənˈstrʌkʃn/",
+          "t": "n. 建设",
+          "lv": "基础"
+        },
+        {
+          "w": "incidental",
+          "p": "/ˌɪnsɪˈdentl/",
+          "t": "adj. 偶然的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "happen",
+          "p": "/ˈhæpən/",
+          "t": "v. 碰巧",
+          "lv": "基础"
+        },
+        {
+          "w": "curated",
+          "p": "/ˈkjʊəreɪtɪd/",
+          "t": "adj. 策划过的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "decide",
+          "p": "/dɪˈsaɪd/",
+          "t": "v. 决定",
+          "lv": "基础"
+        },
+        {
+          "w": "aesthetic",
+          "p": "/iːsˈθetɪk/",
+          "t": "n. 美学",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "set",
+          "p": "/set/",
+          "t": "n. 一套",
+          "lv": "基础"
+        },
+        {
+          "w": "promise",
+          "p": "/ˈprɒmɪs/",
+          "t": "n. 承诺",
+          "lv": "基础"
+        },
+        {
+          "w": "promise",
+          "p": "/ˈprɒmɪs/",
+          "t": "v. 承诺",
+          "lv": "基础"
+        },
+        {
+          "w": "analogue",
+          "p": "/ˈænəlɒɡ/",
+          "t": "adj. 模拟的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "company",
+          "p": "/ˈkʌmpəni/",
+          "t": "n. 陪伴",
+          "lv": "基础"
+        },
+        {
+          "w": "pace",
+          "p": "/peɪs/",
+          "t": "n. 步速",
+          "lv": "基础"
+        },
+        {
+          "w": "maintain",
+          "p": "/meɪnˈteɪn/",
+          "t": "v. 保持",
+          "lv": "基础"
+        },
+        {
+          "w": "re-engineer",
+          "p": "/riː endʒɪˈnɪə/",
+          "t": "v. 重新设计",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "audience",
+          "p": "/ˈɔːdiəns/",
+          "t": "n. 受众",
+          "lv": "基础"
+        },
+        {
+          "w": "vengeance",
+          "p": "/ˈvendʒəns/",
+          "t": "n. 报复、猛烈",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "ambient",
+          "p": "/ˈæmbiənt/",
+          "t": "adj. 环境的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "presence",
+          "p": "/ˈprezns/",
+          "t": "n. 在场",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "perform",
+          "p": "/pəˈfɔːm/",
+          "t": "v. 表演、表现",
+          "lv": "基础"
+        },
+        {
+          "w": "unscripted",
+          "p": "/ʌnˈskrɪptɪd/",
+          "t": "adj. 无脚本的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "expect",
+          "p": "/ɪkˈspekt/",
+          "t": "v. 期待",
+          "lv": "基础"
+        },
+        {
+          "w": "arrange",
+          "p": "/əˈreɪndʒ/",
+          "t": "v. 安排",
+          "lv": "基础"
+        },
+        {
+          "w": "underrated",
+          "p": "/ˌʌndəˈreɪtɪd/",
+          "t": "adj. 被低估的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "form",
+          "p": "/fɔːm/",
+          "t": "n. 形式",
+          "lv": "基础"
+        },
+        {
+          "w": "intimacy",
+          "p": "/ˈɪntɪməsi/",
+          "t": "n. 亲密",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "friction",
+          "p": "/ˈfrɪkʃn/",
+          "t": "n. 摩擦",
+          "lv": "IELTS"
+        },
+        {
+          "w": "queue",
+          "p": "/kjuː/",
+          "t": "n. 队列",
+          "lv": "基础"
+        },
+        {
+          "w": "apology",
+          "p": "/əˈpɒlədʒi/",
+          "t": "n. 道歉",
+          "lv": "基础"
+        },
+        {
+          "w": "bump",
+          "p": "/bʌmp/",
+          "t": "v. 撞到",
+          "lv": "基础"
+        },
+        {
+          "w": "table",
+          "p": "/ˈteɪbl/",
+          "t": "n. 桌子",
+          "lv": "基础"
+        },
+        {
+          "w": "form",
+          "p": "/fɔːm/",
+          "t": "n. 形式",
+          "lv": "基础"
+        },
+        {
+          "w": "restore",
+          "p": "/rɪˈstɔː/",
+          "t": "v. 恢复",
+          "lv": "IELTS"
+        },
+        {
+          "w": "romanticise",
+          "p": "/rəˈmæntɪsaɪz/",
+          "t": "v. 浪漫化",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "exclusivity",
+          "p": "/ɪkˌskluːˈsɪvəti/",
+          "t": "n. 排他性",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "problem",
+          "p": "/ˈprɒbləm/",
+          "t": "n. 问题",
+          "lv": "基础"
+        },
+        {
+          "w": "democratic",
+          "p": "/ˌdeməˈkrætɪk/",
+          "t": "adj. 民主的",
+          "lv": "基础"
+        },
+        {
+          "w": "institution",
+          "p": "/ˌɪnstɪˈtjuːʃn/",
+          "t": "n. 机构",
+          "lv": "基础"
+        },
+        {
+          "w": "aesthetic",
+          "p": "/iːsˈθetɪk/",
+          "t": "adj. 美学的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "pressure",
+          "p": "/ˈpreʃə/",
+          "t": "n. 压力",
+          "lv": "基础"
+        },
+        {
+          "w": "trade-off",
+          "p": "/ˈtreɪd ɒf/",
+          "t": "n. 取舍",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "who",
+          "p": "/huː/",
+          "t": "pron. 谁",
+          "lv": "基础"
+        },
+        {
+          "w": "retrospect",
+          "p": "/ˈretrəspekt/",
+          "t": "n. 回顾",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "universally",
+          "p": "/ˌjuːnɪˈvɜːsəli/",
+          "t": "adv. 普遍地",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "memory",
+          "p": "/ˈmeməri/",
+          "t": "n. 记忆",
+          "lv": "基础"
+        },
+        {
+          "w": "suggest",
+          "p": "/səˈdʒest/",
+          "t": "v. 暗示",
+          "lv": "基础"
+        },
+        {
+          "w": "innocent",
+          "p": "/ˈɪnəsnt/",
+          "t": "adj. 清白的、天真的",
+          "lv": "基础"
+        },
+        {
+          "w": "underlying",
+          "p": "/ˌʌndəˈlaɪɪŋ/",
+          "t": "adj. 潜在的",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "hunger",
+          "p": "/ˈhʌŋɡə/",
+          "t": "n. 渴望",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "generation",
+          "p": "/ˌdʒenəˈreɪʃn/",
+          "t": "n. 一代人",
+          "lv": "基础"
+        },
+        {
+          "w": "entirely",
+          "p": "/ɪnˈtaɪəli/",
+          "t": "adv. 完全地",
+          "lv": "基础"
+        },
+        {
+          "w": "discover",
+          "p": "/dɪˈskʌvə/",
+          "t": "v. 发现",
+          "lv": "基础"
+        },
+        {
+          "w": "substitute",
+          "p": "/ˈsʌbstɪtjuːt/",
+          "t": "n. 替代品",
+          "lv": "IELTS"
+        },
+        {
+          "w": "distraction",
+          "p": "/dɪˈstrækʃn/",
+          "t": "n. 分散注意力",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "absence",
+          "p": "/ˈæbsəns/",
+          "t": "n. 缺席",
+          "lv": "基础"
+        },
+        {
+          "w": "café",
+          "p": "/ˈkæfeɪ/",
+          "t": "n. 咖啡馆",
+          "lv": "基础"
+        },
+        {
+          "w": "unexpectedly",
+          "p": "/ˌʌnɪkˈspektɪdli/",
+          "t": "adv. 出乎意料地",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "thrive",
+          "p": "/θraɪv/",
+          "t": "v. 茁壮成长",
+          "lv": "IELTS"
+        },
+        {
+          "w": "form",
+          "p": "/fɔːm/",
+          "t": "n. 形式",
+          "lv": "基础"
+        },
+        {
+          "w": "theorist",
+          "p": "/ˈθɪərɪst/",
+          "t": "n. 理论家",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "recognise",
+          "p": "/ˈrekəɡnaɪz/",
+          "t": "v. 认出",
+          "lv": "IELTS"
+        },
+        {
+          "w": "sociologist",
+          "p": "/ˌsəʊsiˈɒlədʒɪst/",
+          "t": "n. 社会学家",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "resist",
+          "p": "/rɪˈzɪst/",
+          "t": "v. 抵抗",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "narrative",
+          "p": "/ˈnærətɪv/",
+          "t": "n. 叙事",
+          "lv": "TOEFL"
+        },
+        {
+          "w": "return",
+          "p": "/rɪˈtɜːn/",
+          "t": "n. 回归",
+          "lv": "基础"
+        },
+        {
+          "w": "resident",
+          "p": "/ˈrezɪdənt/",
+          "t": "n. 居民",
+          "lv": "基础"
+        },
+        {
+          "w": "grateful",
+          "p": "/ˈɡreɪtfl/",
+          "t": "adj. 感激的",
+          "lv": "IELTS"
+        },
+        {
+          "w": "have",
+          "p": "/hæv/",
+          "t": "v. 有",
+          "lv": "基础"
+        },
+        {
+          "w": "Tuesday",
+          "p": "/ˈtjuːzdeɪ/",
+          "t": "n. 周二",
+          "lv": "基础"
+        },
+        {
+          "w": "apartment",
+          "p": "/əˈpɑːtmənt/",
+          "t": "n. 公寓",
+          "lv": "基础"
+        },
+        {
+          "w": "laptop",
+          "p": "/ˈlæptɒp/",
+          "t": "n. 笔记本电脑",
+          "lv": "基础"
+        }
       ],
       "phrases": [
-        {"en": "read a room", "zh": "读懂现场气氛"},
-        {"en": "pick up on", "zh": "察觉、捕捉"}
+        {
+          "en": "third place",
+          "zh": "第三空间（家与工作场所之外的社会空间）"
+        },
+        {
+          "en": "oldenburg",
+          "zh": "奥登堡（提出第三空间概念的社会学家）"
+        },
+        {
+          "en": "ambient presence",
+          "zh": "环境式在场（不必表演的共处）"
+        },
+        {
+          "en": "come of age",
+          "zh": "成年、长大成人"
+        }
       ]
     }
   ],
@@ -293,15 +2463,41 @@
       "minutes": 4,
       "goal": "练习护照/行李/座位相关表达，从容应对值机",
       "lines": [
-        {"r": "A", "en": "Good morning. May I see your passport and booking reference, please?", "zh": "早上好，请出示您的护照和预订编号。"},
-        {"r": "B", "en": "Sure, here you are. I'd like a window seat if possible.", "zh": "好的，给您。如果可以的话我想要靠窗的座位。"},
-        {"r": "A", "en": "I can arrange that. Are you checking in any bags today?", "zh": "可以安排。您今天有要托运的行李吗？"},
-        {"r": "B", "en": "Just one suitcase. Does it meet the weight limit?", "zh": "就一个行李箱。它超重了吗？"},
-        {"r": "A", "en": "It's within the limit. Your boarding pass is ready — gate 22, boarding at 10:40.", "zh": "在限额内。您的登机牌好了——22 号登机口，10:40 登机。"}
+        {
+          "r": "A",
+          "en": "Good morning. May I see your passport and booking reference, please?",
+          "zh": "早上好，请出示您的护照和预订编号。"
+        },
+        {
+          "r": "B",
+          "en": "Sure, here you are. I'd like a window seat if possible.",
+          "zh": "好的，给您。如果可以的话我想要靠窗的座位。"
+        },
+        {
+          "r": "A",
+          "en": "I can arrange that. Are you checking in any bags today?",
+          "zh": "可以安排。您今天有要托运的行李吗？"
+        },
+        {
+          "r": "B",
+          "en": "Just one suitcase. Does it meet the weight limit?",
+          "zh": "就一个行李箱。它超重了吗？"
+        },
+        {
+          "r": "A",
+          "en": "It's within the limit. Your boarding pass is ready — gate 22, boarding at 10:40.",
+          "zh": "在限额内。您的登机牌好了——22 号登机口，10:40 登机。"
+        }
       ],
       "keys": [
-        {"en": "booking reference", "zh": "预订编号（订单号）"},
-        {"en": "within the limit", "zh": "在限额/标准之内"}
+        {
+          "en": "booking reference",
+          "zh": "预订编号（订单号）"
+        },
+        {
+          "en": "within the limit",
+          "zh": "在限额/标准之内"
+        }
       ]
     },
     {
@@ -312,15 +2508,41 @@
       "minutes": 5,
       "goal": "用自然的破冰句开启商务对话，并过渡到合作话题",
       "lines": [
-        {"r": "A", "en": "Hi, I don't think we've met. I'm Echo, from the consumer insights team.", "zh": "你好，我们好像还没见过。我是 Echo，来自消费者洞察团队。"},
-        {"r": "B", "en": "Nice to meet you. I work on product strategy. What brings you to this session?", "zh": "很高兴认识你。我做产品策略。你为什么来听这场？"},
-        {"r": "A", "en": "I'm exploring how AI is changing our research methods. Have you seen anything useful today?", "zh": "我在研究 AI 如何改变我们的研究方法。你今天有看到什么有用的吗？"},
-        {"r": "B", "en": "Actually, yes — a talk on real-time consumer signals. We should compare notes sometime.", "zh": "其实有——一个关于实时消费者信号的演讲。我们应该找个时间交流一下。"},
-        {"r": "A", "en": "I'd love that. Let's grab coffee after the keynote.", "zh": "太好了。主题演讲后我们喝杯咖啡吧。"}
+        {
+          "r": "A",
+          "en": "Hi, I don't think we've met. I'm Echo, from the consumer insights team.",
+          "zh": "你好，我们好像还没见过。我是 Echo，来自消费者洞察团队。"
+        },
+        {
+          "r": "B",
+          "en": "Nice to meet you. I work on product strategy. What brings you to this session?",
+          "zh": "很高兴认识你。我做产品策略。你为什么来听这场？"
+        },
+        {
+          "r": "A",
+          "en": "I'm exploring how AI is changing our research methods. Have you seen anything useful today?",
+          "zh": "我在研究 AI 如何改变我们的研究方法。你今天有看到什么有用的吗？"
+        },
+        {
+          "r": "B",
+          "en": "Actually, yes — a talk on real-time consumer signals. We should compare notes sometime.",
+          "zh": "其实有——一个关于实时消费者信号的演讲。我们应该找个时间交流一下。"
+        },
+        {
+          "r": "A",
+          "en": "I'd love that. Let's grab coffee after the keynote.",
+          "zh": "太好了。主题演讲后我们喝杯咖啡吧。"
+        }
       ],
       "keys": [
-        {"en": "compare notes", "zh": "交换看法、互通信息"},
-        {"en": "grab coffee", "zh": "（口语）喝杯咖啡聊聊"}
+        {
+          "en": "compare notes",
+          "zh": "交换看法、互通信息"
+        },
+        {
+          "en": "grab coffee",
+          "zh": "（口语）喝杯咖啡聊聊"
+        }
       ]
     },
     {
@@ -331,14 +2553,36 @@
       "minutes": 4,
       "goal": "掌握入住登记、特殊需求与Wi-Fi等常用句",
       "lines": [
-        {"r": "A", "en": "Good evening. Do you have a reservation under the name Lee?", "zh": "晚上好。请问有预订在 Lee 名下吗？"},
-        {"r": "B", "en": "Yes, for two nights. Is breakfast included?", "zh": "有的，住两晚。含早餐吗？"},
-        {"r": "A", "en": "It is — served from 7 to 10. Could I have a room on a higher floor, away from the elevator?", "zh": "含的——7 点到 10 点供应。可以安排高一点、远离电梯的房间吗？"},
-        {"r": "B", "en": "Certainly. Here's your key card, and the Wi-Fi password is on this slip.", "zh": "当然可以。这是您的房卡，Wi-Fi 密码在这张纸上。"}
+        {
+          "r": "A",
+          "en": "Good evening. Do you have a reservation under the name Lee?",
+          "zh": "晚上好。请问有预订在 Lee 名下吗？"
+        },
+        {
+          "r": "B",
+          "en": "Yes, for two nights. Is breakfast included?",
+          "zh": "有的，住两晚。含早餐吗？"
+        },
+        {
+          "r": "A",
+          "en": "It is — served from 7 to 10. Could I have a room on a higher floor, away from the elevator?",
+          "zh": "含的——7 点到 10 点供应。可以安排高一点、远离电梯的房间吗？"
+        },
+        {
+          "r": "B",
+          "en": "Certainly. Here's your key card, and the Wi-Fi password is on this slip.",
+          "zh": "当然可以。这是您的房卡，Wi-Fi 密码在这张纸上。"
+        }
       ],
       "keys": [
-        {"en": "under the name", "zh": "以……名字预订"},
-        {"en": "away from the elevator", "zh": "远离电梯（安静）"}
+        {
+          "en": "under the name",
+          "zh": "以……名字预订"
+        },
+        {
+          "en": "away from the elevator",
+          "zh": "远离电梯（安静）"
+        }
       ]
     },
     {
@@ -349,14 +2593,36 @@
       "minutes": 4,
       "goal": "清晰表达过敏/忌口，避免误会",
       "lines": [
-        {"r": "A", "en": "Welcome! Have you decided what you'd like to order?", "zh": "欢迎！您决定好点什么了吗？"},
-        {"r": "B", "en": "Not yet. I'm allergic to peanuts — could you tell me which dishes are safe?", "zh": "还没。我对花生过敏——能告诉我哪些菜是安全的吗？"},
-        {"r": "A", "en": "Of course. The grilled fish and the vegetable soup are both nut-free. I'll note the allergy for the kitchen.", "zh": "当然。烤鱼和蔬菜汤都不含坚果。我会在厨房单上标注过敏。"},
-        {"r": "B", "en": "Perfect, thank you. Could I also get that without spicy sauce?", "zh": "太好了，谢谢。那份可以不放辣酱吗？"}
+        {
+          "r": "A",
+          "en": "Welcome! Have you decided what you'd like to order?",
+          "zh": "欢迎！您决定好点什么了吗？"
+        },
+        {
+          "r": "B",
+          "en": "Not yet. I'm allergic to peanuts — could you tell me which dishes are safe?",
+          "zh": "还没。我对花生过敏——能告诉我哪些菜是安全的吗？"
+        },
+        {
+          "r": "A",
+          "en": "Of course. The grilled fish and the vegetable soup are both nut-free. I'll note the allergy for the kitchen.",
+          "zh": "当然。烤鱼和蔬菜汤都不含坚果。我会在厨房单上标注过敏。"
+        },
+        {
+          "r": "B",
+          "en": "Perfect, thank you. Could I also get that without spicy sauce?",
+          "zh": "太好了，谢谢。那份可以不放辣酱吗？"
+        }
       ],
       "keys": [
-        {"en": "allergic to", "zh": "对……过敏"},
-        {"en": "nut-free", "zh": "不含坚果的"}
+        {
+          "en": "allergic to",
+          "zh": "对……过敏"
+        },
+        {
+          "en": "nut-free",
+          "zh": "不含坚果的"
+        }
       ]
     },
     {
@@ -367,14 +2633,36 @@
       "minutes": 5,
       "goal": "用职场商务英语表达对 AI 的看法与担忧",
       "lines": [
-        {"r": "A", "en": "Have you tried the new AI assistant? It's been a game-changer for my drafts.", "zh": "你试过新的 AI 助手了吗？它彻底改变了我写草稿的方式。"},
-        {"r": "B", "en": "I have, but I'm cautious. I double-check everything it produces.", "zh": "试过，但我比较谨慎。它生成的东西我都会复核。"},
-        {"r": "A", "en": "Fair enough. I see it as a starting point, not the final answer.", "zh": "有道理。我把它当作起点，而不是最终答案。"},
-        {"r": "B", "en": "Exactly. The human touch still matters most with our clients.", "zh": "没错。对咱们的客户来说，人情味依然最重要。"}
+        {
+          "r": "A",
+          "en": "Have you tried the new AI assistant? It's been a game-changer for my drafts.",
+          "zh": "你试过新的 AI 助手了吗？它彻底改变了我写草稿的方式。"
+        },
+        {
+          "r": "B",
+          "en": "I have, but I'm cautious. I double-check everything it produces.",
+          "zh": "试过，但我比较谨慎。它生成的东西我都会复核。"
+        },
+        {
+          "r": "A",
+          "en": "Fair enough. I see it as a starting point, not the final answer.",
+          "zh": "有道理。我把它当作起点，而不是最终答案。"
+        },
+        {
+          "r": "B",
+          "en": "Exactly. The human touch still matters most with our clients.",
+          "zh": "没错。对咱们的客户来说，人情味依然最重要。"
+        }
       ],
       "keys": [
-        {"en": "game-changer", "zh": "改变格局的事物（口语）"},
-        {"en": "double-check", "zh": "复核、再确认"}
+        {
+          "en": "game-changer",
+          "zh": "改变格局的事物（口语）"
+        },
+        {
+          "en": "double-check",
+          "zh": "复核、再确认"
+        }
       ]
     }
   ]

@@ -7,9 +7,9 @@
   /* 底色层 */
   --bg: #EAF0F2;
   --bg-deep: #E1E9EC;
-  --surface: #FFFFFF;
-  --surface-2: #F6F9FA;
-  --surface-3: #EEF3F5;
+  --surface: #F4F7F8;
+  --surface-2: #EEF2F4;
+  --surface-3: #E6ECEE;
 
   /* 描边 */
   --line: #DCE4E8;
@@ -641,7 +641,7 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 /* 日历移到问候条右侧：与 hero 并排 */
 .bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: stretch; }
 .bento-top .bento-hero { flex: 1 1 auto; margin: 0; }
-.bento-top .mod-cal { flex: 0 0 320px; width: 320px; grid-column: auto; grid-row: auto; }
+.bento-top .mod-cal { flex: 0 0 320px; width: 320px; min-height: 380px; grid-column: auto; grid-row: auto; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }

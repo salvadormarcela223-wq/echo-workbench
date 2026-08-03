@@ -143,11 +143,6 @@
     const topics = ['全部'].concat(TOPICS.filter(t => all.some(n => n.topic === t)));
 
     box.innerHTML =
-      '<div class="card card-pad page" style="margin-bottom:18px;background:linear-gradient(135deg,var(--accent-wash),var(--surface));border-color:var(--accent-soft)">' +
-      '<div style="font-size:10.5px;letter-spacing:1.4px;color:var(--accent);font-weight:600;margin-bottom:6px">视 阈 锚 定</div>' +
-      '<div style="font-family:var(--font-serif);font-size:15px;line-height:1.75;color:var(--ink)">以「在用户研究与感官分析领域拥有 15 年操盘经验的资深独立顾问」视角审视全球情报——不复述结论，只给判断、立场与可执行动作。</div>' +
-      '</div>' +
-
       '<div class="stats stagger">' +
       stat('情报总量', all.length, '条') +
       stat('覆盖主题', topics.length - 1, '类') +
