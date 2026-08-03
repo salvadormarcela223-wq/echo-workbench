@@ -115,7 +115,7 @@
     const av = $('#avatarBox');
     av.innerHTML = pf.avatar
       ? '<img src="' + esc(pf.avatar) + '" alt="">'
-      : '<img src="assets/img/avatar.png" alt="">';
+      : '<img src="assets/img/avatar.png?v=20260803b" alt="">';
   }
 
   /* -------------------- 侧边栏（移动端） -------------------- */
