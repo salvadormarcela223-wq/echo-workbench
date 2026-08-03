@@ -169,7 +169,7 @@ a:hover { text-decoration: underline; }
   display: flex; align-items: center; gap: 14px;
   padding: 0 26px;
   border-bottom: 1px solid var(--line);
-  background: rgba(255, 253, 249, .8);
+  background: rgba(220, 228, 232, .82);
   backdrop-filter: blur(12px);
 }
 .burger { display: none; width: 34px; height: 34px; border-radius: 10px; place-items: center; }
@@ -578,7 +578,7 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
   grid-column: span 6;
   background: linear-gradient(122deg, #23262D 0%, #2C333B 100%);
   color: #F4EFE6; border-radius: var(--r-lg);
-  padding: 22px 28px; display: flex; flex-direction: column; justify-content: center;
+  padding: 22px 28px; display: flex; flex-direction: column;
   position: relative; overflow: hidden; box-shadow: var(--sh-3);
 }
 .bento-hero::after {
@@ -586,9 +586,21 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
   width: 220px; height: 220px; border-radius: 50%;
   background: radial-gradient(circle, rgba(120,150,170,.28), transparent 70%);
 }
-.hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; }
-.hero-date { font-size: 13px; color: #9AA6AD; margin-top: 5px; letter-spacing: .4px; }
-.hero-chips { display: flex; gap: 22px; margin-top: 18px; flex-wrap: wrap; }
+.hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
+.hero-date { font-size: 13px; color: #9AA6AD; margin-top: 5px; letter-spacing: .4px; position: relative; z-index: 1; }
+.hero-quote {
+  margin-top: 14px;
+  margin-bottom: auto;
+  padding: 12px 0 10px;
+  position: relative; z-index: 1;
+  font-family: var(--font-serif);
+  font-size: 14.5px; line-height: 1.75; color: #D6DCE0;
+  font-style: italic; max-width: 92%;
+  border-top: 1px solid rgba(255,255,255,.08);
+}
+.hero-quote .qmark { color: #8AA5B5; font-size: 22px; line-height: 0; vertical-align: -6px; margin-right: 4px; font-style: normal; }
+.hero-quote .attr { display: block; margin-top: 8px; font-size: 11px; color: #8E9AA2; font-style: normal; letter-spacing: .6px; }
+.hero-chips { display: flex; gap: 22px; margin-top: auto; padding-top: 10px; flex-wrap: wrap; position: relative; z-index: 1; border-top: 1px solid rgba(255,255,255,.06); }
 .hero-chips span { font-size: 12.5px; color: #AEB9BF; display: flex; align-items: baseline; gap: 6px; }
 .hero-chips b { font-family: var(--font-serif); font-size: 20px; color: #fff; font-weight: 600; }
 
@@ -629,7 +641,7 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 /* 日历移到问候条右侧：与 hero 并排 */
 .bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: stretch; }
 .bento-top .bento-hero { flex: 1 1 auto; margin: 0; }
-.bento-top .mod-cal { flex: 0 0 330px; width: 330px; grid-column: auto; grid-row: auto; }
+.bento-top .mod-cal { flex: 0 0 320px; width: 320px; grid-column: auto; grid-row: auto; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }

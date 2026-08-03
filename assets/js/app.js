@@ -175,7 +175,8 @@
       '<div class="bento-hero">' +
       '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
       '<div class="hero-date">' + esc(dateStr) + '</div>' +
-      '<div class="hero-chips">' +
+      (function(){const q=HERO_QUOTES[(new Date().getDate())%HERO_QUOTES.length];return '<div class="hero-quote"><span class="qmark">\u201C</span>'+esc(q.t)+'<span class="attr">\u2014 '+esc(q.a)+'</span></div>';})() +
+            '<div class="hero-chips">' +
       '<span><b>' + (c.news || 0) + '</b>行业资讯</span>' +
       '<span><b>' + (c.insight || 0) + '</b>专业提升</span>' +
       '<span><b>' + (c.plan || 0) + '</b>待办</span>' +
@@ -193,6 +194,40 @@
     });
     bindCalendar(view);
   }
+
+  /* -------------------- 每日小诗/格言（30 句，按日期轮换） -------------------- */
+  const HERO_QUOTES = [
+    { t: 'The only way to do great work is to love what you do.', a: 'Steve Jobs · 2005 Stanford' },
+    { t: 'In the middle of every difficulty lies opportunity.', a: 'Albert Einstein' },
+    { t: 'What you do every day matters more than what you do once in a while.', a: 'Gretchen Rubin' },
+    { t: 'Slow is smooth, smooth is fast.', a: 'Navy SEAL adage' },
+    { t: 'Discipline equals freedom.', a: 'Jocko Willink' },
+    { t: 'Be curious, not judgmental.', a: 'Walt Whitman' },
+    { t: 'You are what you do, not what you say you will do.', a: 'Carl Jung' },
+    { t: 'The cave you fear to enter holds the treasure you seek.', a: 'Joseph Campbell' },
+    { t: 'A river cuts through rock not by its power, but by its persistence.', a: 'James N. Watkins' },
+    { t: 'Almost everything will work again if you unplug it for a few minutes — including you.', a: 'Anne Lamott' },
+    { t: 'The mind is everything. What you think you become.', a: 'Buddha' },
+    { t: 'How we spend our days is, of course, how we spend our lives.', a: 'Annie Dillard' },
+    { t: 'I have not failed. I have just found 10,000 ways that do not work.', a: 'Thomas Edison' },
+    { t: 'If you can dream it, you can do it.', a: 'Walt Disney' },
+    { t: 'The future depends on what you do today.', a: 'Mahatma Gandhi' },
+    { t: 'A person who never made a mistake never tried anything new.', a: 'Albert Einstein' },
+    { t: 'When nothing goes right, go left.', a: 'Anonymous' },
+    { t: 'Happiness is not something ready made. It comes from your own actions.', a: 'Dalai Lama' },
+    { t: 'If you tell the truth, you do not have to remember anything.', a: 'Mark Twain' },
+    { t: 'Do not go where the path may lead, go instead where there is no path and leave a trail.', a: 'Ralph Waldo Emerson' },
+    { t: 'The two most powerful warriors are patience and time.', a: 'Leo Tolstoy' },
+    { t: 'Quality is not an act, it is a habit.', a: 'Aristotle' },
+    { t: 'Stillness is where creativity and solutions are found.', a: 'Eckhart Tolle' },
+    { t: 'What we think, we become.', a: 'Buddha' },
+    { t: 'The unexamined life is not worth living.', a: 'Socrates' },
+    { t: 'Lost time is never found again.', a: 'Benjamin Franklin' },
+    { t: 'Begin and the mind grows heated. Continue and the task is completed.', a: 'Goethe' },
+    { t: 'Knowing yourself is the beginning of all wisdom.', a: 'Aristotle' },
+    { t: 'Where attention goes, energy flows.', a: 'Tony Robbins' },
+    { t: 'Make the most of yourself, for that is all there is of you.', a: 'Ralph Waldo Emerson' }
+  ];
 
   /* ================= 概览日历 ================= */
   const HOLIDAYS_2026 = {
