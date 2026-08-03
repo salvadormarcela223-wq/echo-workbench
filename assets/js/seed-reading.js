@@ -1,7 +1,8 @@
 /* ============================================================
    板块四【英语学习】· 每日阅读文章库（按日轮换）
-   风格：BBC / TED / 旅行通识为主；5 篇里仅保留 1 篇专业（感官科学），
-   其余以热点、焦点、经典通俗内容为主，词汇混合难度、偏职场商务、含出国旅行场景。
+   风格（Mix 1，已与用户确认）：5 篇里仅保留 1 篇专业（感官科学），
+   其余 4 篇为通识热点，覆盖 TED 人文 / BBC 职场趋势 / Atlantic 城市 /
+   Vox 心理，词汇混合难度、偏职场商务、含出国旅行场景。
    vocab: w=单词, p=音标, t=中文释义, lv=词汇等级标注
    ============================================================ */
 window.SEED_READINGS = [
@@ -43,118 +44,122 @@ window.SEED_READINGS = [
   },
   {
     id: 'r-02',
-    tag: 'BBC Travel 风格 · 通识阅读',
-    title: 'The Quiet Art of Getting Lost in a New City',
-    subtitle: '在一座陌生城市里，迷路是一门安静的艺术',
-    minutes: 7,
+    tag: 'BBC Worklife 风格 · 职场趋势',
+    title: 'Quiet Hiring Is Reshaping the Workplace',
+    subtitle: '"安静招聘"，正在悄悄改写职场规则',
+    minutes: 8,
     body: [
-      "When you step off the train in a place you have never visited, the map on your phone wants to route you the fastest way. But the best version of a new city is the one you were not supposed to find.",
-      "Turn off the GPS for an afternoon. Walk without a destination. The wrong turn that leads to a courtyard fountain, the bakery you did not plan to enter, the chat with the shopkeeper who corrects your pronunciation — these are the <u>textures</u> of travel no guidebook lists.",
-      "Researchers who study <u>well-being</u> have found that <u>novelty</u> — small, repeated doses of the unfamiliar — is one of the cheapest available boosts to mood. A street you cannot name, a language you only half follow, a meal you cannot predict: each quietly resets the part of the brain that routine had put to sleep.",
-      "The catch is that getting lost on purpose takes <u>permission</u>. Most of us are too <u>efficient</u> to wander. We optimise the trip, book the known, and come home having seen nothing we did not already expect. The cities wait, patient and unchanged, for the traveller willing to take the long way."
+      "When a company needs a new skill, the old reflex was to post a job, screen hundreds of applicants, and hope. A quieter trend is spreading instead: moving someone who already works there into the gap. Call it <u>quiet hiring</u> — filling a need from within before the requisition is ever written.",
+      "The appeal is obvious. Internal candidates need no onboarding to the culture, no explanation of the product, no months of <u>ramp-up</u>. Managers get speed; employees get a path that was previously invisible. In tight labour markets, it is also cheaper than a contested external search.",
+      "But the model has a blind spot. The team a person leaves behind loses its most capable member, often with no replacement planned. <u>Mobility</u> for one becomes a <u>deficit</u> for another. The organisation celebrates flexibility while a quiet <u>vacancy</u> spreads through the floor that lost them.",
+      "There is a deeper shift underneath. Work is being broken into smaller, project-shaped pieces, and talent is expected to flow toward them. The <u>permanent</u> role — same desk, same title, same decade — is slowly giving way to a portfolio of internal gigs. For ambitious people this is <u>liberating</u>; for others it is exhausting.",
+      "The lesson for anyone early in a career: your next opportunity may not be a posted job at all, but a problem your manager did not know you could solve. Make the skill visible. Quiet hiring only rewards the people already seen."
     ],
     vocab: [
-      { w: 'texture', p: '/ˈtekstʃə/', t: 'n. 质感，体验的肌理', lv: '专业' },
-      { w: 'well-being', p: '/wel ˈbiːɪŋ/', t: 'n. 幸福感，身心健康', lv: '商务' },
-      { w: 'novelty', p: '/ˈnɒvlti/', t: 'n. 新奇，新鲜感', lv: 'IELTS' },
-      { w: 'permission', p: '/pəˈmɪʃn/', t: 'n. 许可，准许', lv: '基础' },
-      { w: 'efficient', p: '/ɪˈfɪʃnt/', t: 'adj. 高效的', lv: 'TOEFL' },
-      { w: 'wander', p: '/ˈwɒndə/', t: 'v. 闲逛，漫游', lv: 'TOEFL' },
-      { w: 'routine', p: '/ruːˈtiːn/', t: 'n. 日常，惯例', lv: '基础' },
-      { w: 'unfamiliar', p: '/ˌʌnfəˈmɪliə/', t: 'adj. 陌生的', lv: 'IELTS' }
+      { w: 'quiet hiring', p: '/ˈkwaɪət ˈhaɪərɪŋ/', t: 'n. 安静招聘（内部调配补位）', lv: '商务' },
+      { w: 'ramp-up', p: '/ˈræmp ʌp/', t: 'n. 产能/能力爬坡，逐步上手', lv: '商务' },
+      { w: 'mobility', p: '/məʊˈbɪləti/', t: 'n. 流动性，调动', lv: 'TOEFL' },
+      { w: 'deficit', p: '/ˈdefɪsɪt/', t: 'n. 缺口，亏空', lv: 'IELTS' },
+      { w: 'vacancy', p: '/ˈveɪkənsi/', t: 'n. 空缺，职缺', lv: '商务' },
+      { w: 'permanent', p: '/ˈpɜːmənənt/', t: 'adj. 长期的，固定的', lv: '基础' },
+      { w: 'liberating', p: '/ˈlɪbəreɪtɪŋ/', t: 'adj. 令人解放的，自由的', lv: 'IELTS' },
+      { w: 'portfolio', p: '/pɔːtˈfəʊliəʊ/', t: 'n. 组合（此处指"内部任务组合"）', lv: '商务' }
     ],
     phrases: [
-      { en: 'turn off the GPS', zh: '关掉导航' },
-      { en: 'the long way', zh: '绕远路（慢慢探索）' },
-      { en: 'no guidebook lists', zh: '任何攻略都不会写' },
-      { en: 'resets the brain', zh: '让大脑"重启"焕然一新' }
+      { en: 'fill the gap', zh: '填补空缺' },
+      { en: 'tight labour market', zh: '紧张的劳动力市场' },
+      { en: 'give way to', zh: '让位于，被……取代' },
+      { en: 'make the skill visible', zh: '让能力被看见' }
     ]
   },
   {
     id: 'r-03',
-    tag: 'TED 风格 · 日常通识',
-    title: 'Why We Return to the Same Holiday Spot',
-    subtitle: '为什么我们总回到同一个度假地',
-    minutes: 7,
+    tag: 'TED 人文风格 · 领导力',
+    title: 'The Strength of Saying "I Don\'t Know"',
+    subtitle: '说"我不知道"，是一种被低估的力量',
+    minutes: 8,
     body: [
-      "There is a particular kind of comfort in the hotel where the light hits the balcony at the same hour, where the waiter already knows you take it black, where the beach is exactly as you remembered and not quite.",
-      "Behavioural scientists call this <u>repertoire</u> of familiar choices a <u>script</u> — a mental shortcut that spares us the <u>cognitive</u> cost of deciding. On holiday, that script is mostly harmless. It is why the same taverna in Rome, the same resort in Bali, the same cabin in the Alps keeps getting rebooked.",
-      "But familiarity has a quieter cost. A 2026 travel-study found that people who revisit the same three places report lower <u>novelty</u> satisfaction than those who rotate destinations — they are happy, yet slightly <u>diminished</u> by how little they now discover. The spot welcomes you; the world, meanwhile, waits just beyond it.",
-      "The interesting part is that you do not have to choose. Keeping a favourite is not the same as never leaving. The travellers who get the most from both keep one anchor and wander everywhere else — a known harbour, then a hundred unmapped coasts."
+      "We are trained to treat certainty as competence. The leader who hesitates, the expert who pauses, the colleague who admits a gap — we read them as weak. Yet the most <u>resilient</u> teams are often the ones where someone at the top can say, out loud, 'I don't know.'",
+      "Vulnerability at work is not <u>oversharing</u>. It is the <u>disciplined</u> act of naming the edge of your knowledge so others can meet you there. A manager who says 'I'm unsure which framework fits' invites a better one from the room. A <u>defensive</u> manager, guarding the appearance of control, gets a quieter, smaller room.",
+      "Psychologists who study <u>psychological safety</u> find the same pattern again and again: people speak up only when silence feels riskier than error. The cheapest way to build that safety is for those with status to go first — to model the question, not just the answer.",
+      "There is a <u>paradox</u> worth sitting with. Admitting uncertainty often makes you more, not less, trusted. We sense when someone is <u>performing</u> certainty; the slight tension in their voice gives it away. Candour, by contrast, relaxes the whole room.",
+      "Try it once this week. In a meeting where you would normally nod along, say the actual thing: 'I haven't thought that through.' Watch what happens. The conversation usually gets smarter — because now it includes you, honestly, instead of a <u>rehearsed</u> version of you."
     ],
     vocab: [
-      { w: 'repertoire', p: '/ˈrepətwɑː/', t: 'n. 全部拿手好戏，惯常套路', lv: 'TOEFL' },
-      { w: 'script', p: '/skrɪpt/', t: 'n. 脚本，惯常流程', lv: '基础' },
-      { w: 'cognitive', p: '/ˈkɒɡnətɪv/', t: 'adj. 认知的', lv: 'IELTS' },
-      { w: 'novelty', p: '/ˈnɒvlti/', t: 'n. 新奇感', lv: 'IELTS' },
-      { w: 'diminish', p: '/dɪˈmɪnɪʃ/', t: 'v. 减弱，减损', lv: 'TOEFL' },
-      { w: 'anchor', p: '/ˈæŋkə/', t: 'n. 锚点，依托', lv: '商务' },
-      { w: 'rotate', p: '/rəʊˈteɪt/', t: 'v. 轮换，交替', lv: 'TOEFL' },
-      { w: 'unmapped', p: '/ʌnˈmæpt/', t: 'adj. 未标注的，陌生的', lv: '专业' }
+      { w: 'resilient', p: '/rɪˈzɪliənt/', t: 'adj. 有韧性的，抗压强', lv: 'IELTS' },
+      { w: 'oversharing', p: '/ˌəʊvəˈʃeərɪŋ/', t: 'n. 过度分享（隐私）', lv: '商务' },
+      { w: 'disciplined', p: '/ˈdɪsəplɪnd/', t: 'adj. 自律的，有分寸的', lv: 'TOEFL' },
+      { w: 'defensive', p: '/dɪˈfensɪv/', t: 'adj. 防御性的，爱辩解的', lv: 'IELTS' },
+      { w: 'psychological safety', p: '/ˌsaɪkəˈlɒdʒɪkl ˈseɪfti/', t: 'n. 心理安全感', lv: '专业' },
+      { w: 'paradox', p: '/ˈpærədɒks/', t: 'n. 悖论，矛盾', lv: 'TOEFL' },
+      { w: 'performing', p: '/pəˈfɔːmɪŋ/', t: 'adj. 表演出来的，装出来的', lv: '商务' },
+      { w: 'rehearsed', p: '/rɪˈhɜːst/', t: 'adj. 排练过的，套话的', lv: 'IELTS' }
     ],
     phrases: [
-      { en: 'mental shortcut', zh: '心智捷径' },
-      { en: 'rebook the same', zh: '把同一个地方一订再订' },
-      { en: 'keep one anchor', zh: '留一处锚点（保留一个熟悉去处）' },
-      { en: 'a hundred unmapped coasts', zh: '上百片未标注的海岸' }
+      { en: 'treat ... as', zh: '把……当作' },
+      { en: 'name the edge of', zh: '点明……的边界/局限' },
+      { en: 'go first', zh: '率先（示范）' },
+      { en: 'sit with', zh: '静下心来体会（悖论）' }
     ]
   },
   {
     id: 'r-04',
-    tag: 'BBC Future 风格 · 生活观察',
-    title: 'The Small Rituals That Make a Place Feel Like Home',
-    subtitle: '让一个地方有了"家"的感觉的小仪式',
-    minutes: 8,
+    tag: 'The Atlantic 风格 · 城市生活',
+    title: 'The Vanishing Third Place',
+    subtitle: '正在消失的"第三空间"',
+    minutes: 9,
     body: [
-      "Home is not a building. It is the stack of tiny <u>repetitions</u> that tell your body it has arrived. The kettle that boils at the same time as the radio. The route you walk without thinking. The one café where they save you the corner table.",
-      "Anthropologists who study <u>belonging</u> note that these rituals form faster than we admit — usually within a few weeks of arriving somewhere new, before you have decided you like it. The brain files the unfamiliar as 'yours' quietly, almost against your permission.",
-      "That is why a three-week trip can feel more like home than a year of <u>commuting</u> to a job you tolerate. Belonging is <u>accrued</u>, not declared. The place does not announce itself; you accumulate it, one small habit at a time, until one morning the wrong turn becomes the right one without you noticing.",
-      "The lesson for anyone relocating, or simply travelling light: do not wait for a place to feel like home. Build the rituals, and the belonging follows. The souvenir mug, the familiar street food, the friend who texts first — these are the mortar. A place becomes yours the moment you stop performing the visit and start living it."
+      "Sociologists divide life into three spaces: home, work, and the <u>in-between</u> where neither role applies — the café, the library, the park bench, the corner shop. These 'third places' are where strangers become neighbours and a city learns to trust itself.",
+      "They are disappearing. The library closes early. The <u>corner store</u> is replaced by a <u>warehouse</u> we order from. The café that knew your name is priced for tourists. We have never been more able to stay home, and never more <u>isolated</u> in the places we share.",
+      "The loss is not merely <u>nostalgic</u>. Third places do quiet civic work: they teach tolerance by <u>exposing</u> us to difference, they keep eyes on the street, and they give the lonely a harmless <u>belonging</u>. A society that loses them pays for it elsewhere — in <u>alienation</u> and housing that feels like nothing more than a bedroom.",
+      "Some cities are fighting back. Public libraries reinvent themselves as <u>community</u> hubs; <u>superblocks</u> in places like Barcelona return road space to people; tiny <u>interventions</u> — a bench, a chess table, free wifi — turn a passage into a place. The pattern is cheap and stubborn: give people a reason to linger, and they will.",
+      "The lesson is personal, too. If your week contains no third place — nowhere you go without a purpose — you are missing a kind of rest that productivity cannot replace. Find the bench. Stay a while. The city was built to be <u>inhabited</u>, not just passed through."
     ],
     vocab: [
-      { w: 'repetition', p: '/ˌrepəˈtɪʃn/', t: 'n. 重复，反复', lv: '基础' },
-      { w: 'belonging', p: '/bɪˈlɒŋɪŋ/', t: 'n. 归属感', lv: 'IELTS' },
-      { w: 'commute', p: '/kəˈmjuːt/', t: 'v. 通勤', lv: 'TOEFL' },
-      { w: 'accrue', p: '/əˈkruː/', t: 'v. 累积，逐渐获得', lv: '商务' },
-      { w: 'mortar', p: '/ˈmɔːtə/', t: 'n. 灰浆，黏合剂（比喻联结）', lv: '专业' },
-      { w: 'relocate', p: '/ˌriːləʊˈkeɪt/', t: 'v. 搬迁，移居', lv: 'TOEFL' },
-      { w: 'perform', p: '/pəˈfɔːm/', t: 'v. 履行，做（此处指"扮演访客"）', lv: '商务' },
-      { w: 'familiar', p: '/fəˈmɪliə/', t: 'adj. 熟悉的', lv: 'IELTS' }
+      { w: 'in-between', p: '/ˌɪn bɪˈtwiːn/', t: 'n. 中间地带（此处指第三空间）', lv: '商务' },
+      { w: 'corner store', p: '/ˈkɔːnə stɔː/', t: 'n. 街角小店', lv: '基础' },
+      { w: 'isolated', p: '/ˈaɪsəleɪtɪd/', t: 'adj. 孤立的，孤独的', lv: 'IELTS' },
+      { w: 'nostalgic', p: '/nɒˈstældʒɪk/', t: 'adj. 怀旧的', lv: 'TOEFL' },
+      { w: 'belonging', p: '/bɪˈlɒŋɪŋ/', t: 'n. 归属感', lv: '商务' },
+      { w: 'alienation', p: '/ˌeɪliəˈneɪʃn/', t: 'n. 疏离感', lv: '学术' },
+      { w: 'community', p: '/kəˈmjuːnəti/', t: 'n. 社区', lv: '基础' },
+      { w: 'inhabited', p: '/ɪnˈhæbɪtɪd/', t: 'adj. 有人栖居的，有生活气息的', lv: 'TOEFL' }
     ],
     phrases: [
-      { en: 'stack of repetitions', zh: '一层层重复叠加' },
-      { en: 'files the unfamiliar as yours', zh: '把陌生默默归档为"你的"' },
-      { en: 'build the rituals', zh: '建立这些小仪式' },
-      { en: 'stop performing the visit', zh: '不再"扮演访客"' }
+      { en: 'divide ... into', zh: '把……划分为' },
+      { en: 'pay for it elsewhere', zh: '在别处付出代价' },
+      { en: 'turn ... into', zh: '把……变成' },
+      { en: 'passed through', zh: '匆匆穿过（而非生活其中）' }
     ]
   },
   {
     id: 'r-05',
-    tag: 'TED 风格 · 通用技能',
-    title: 'Small Talk Is a Skill You Can Practise',
-    subtitle: '闲聊是一项可以练习的技能',
-    minutes: 7,
+    tag: 'Vox 风格 · 心理',
+    title: 'Procrastination Is an Emotion Problem',
+    subtitle: '拖延，是一个情绪问题，不是时间问题',
+    minutes: 8,
     body: [
-      "Nobody is born good at the first thirty seconds with a stranger. The <u>instinct</u> is to <u>fill</u> the silence, to perform, to retreat into the phone. Small talk feels <u>artificial</u> precisely because we treat it as a test we might fail.",
-      "Communication researchers who study <u>rapport</u> find the opposite: the best connectors treat talk as <u>rehearsal</u> without stakes. A throwaway comment about the weather is not a failure of depth; it is the handshake of two strangers deciding the other is safe. You do not need to be <u>witty</u>. You need to be present.",
-      "Try this. Next time you are waiting — for coffee, for a train, for a table — offer one <u>unprompted</u> observation. The queue is slow. The weather turned. The game is on. These are <u>openings</u>, not endings. Most people are relieved you started, because they were quietly hoping someone else would.",
-      "The skill compounds. The more you talk without performing, the less the silence scares you. Travelling helps: a new city is a permanent small-talk — everyone is a stranger, everyone is safe to ignore, and the practice is unavoidable. You get fluent at connection by being bad at it first, in public, on purpose."
+      "The usual advice for procrastination is a schedule. Make a list. Use a timer. Break it into steps. None of it touches the real problem, because procrastination is rarely about time. It is about <u>avoidance</u> — of a feeling, not a task.",
+      "When a task makes us anxious, <u>bored</u>, or afraid of failing, the brain does what brains do: it seeks relief. Scrolling, snacking, reorganising the desk — these are not <u>laziness</u>. They are <u>temporary</u> escapes from an emotion we have not named.",
+      "This is why 'just start' so often fails. Starting does not remove the anxiety; it walks straight into it. The more we <u>criticise</u> ourselves for stalling, the more <u>threatening</u> the task becomes, and the stronger the pull to escape. Shame and avoidance feed each other.",
+      "The <u>evidence</u>-based fixes are counter-intuitive. Name the emotion first — 'I'm scared this won't be good' — and the urge often loosens. Lower the <u>stakes</u> of the first step until it feels <u>trivial</u>: not 'write the report' but 'open the document and type one sentence.' Momentum, not willpower, is what carries you.",
+      "Treat the feeling, and the task takes care of itself. A calmer mind does not need to flee, and a task you are no longer fleeing is simply... work. Hard, sometimes, but no longer a <u>threat</u> to be managed by disappearance."
     ],
     vocab: [
-      { w: 'instinct', p: '/ˈɪnstɪŋkt/', t: 'n. 本能', lv: 'IELTS' },
-      { w: 'fill', p: '/fɪl/', t: 'v. 填补，填满', lv: '基础' },
-      { w: 'artificial', p: '/ˌɑːtɪˈfɪʃl/', t: 'adj. 做作的，不自然的', lv: 'TOEFL' },
-      { w: 'rapport', p: '/ræˈpɔː/', t: 'n. 融洽，默契', lv: '商务' },
-      { w: 'rehearsal', p: '/rɪˈhɜːsl/', t: 'n. 排练，演练', lv: 'TOEFL' },
-      { w: 'witty', p: '/ˈwɪti/', t: 'adj. 机智的，风趣的', lv: 'IELTS' },
-      { w: 'unprompted', p: '/ʌnˈprɒmptɪd/', t: 'adj. 自发的，未被提示的', lv: '专业' },
-      { w: 'opening', p: '/ˈeɪpnɪŋ/', t: 'n. 开场，切入点', lv: '商务' }
+      { w: 'avoidance', p: '/əˈvɔɪdəns/', t: 'n. 回避，逃避', lv: 'TOEFL' },
+      { w: 'bored', p: '/bɔːd/', t: 'adj. 厌烦的，无聊的', lv: '基础' },
+      { w: 'laziness', p: '/ˈleɪzinəs/', t: 'n. 懒惰', lv: '基础' },
+      { w: 'temporary', p: '/ˈtemprəri/', t: 'adj. 暂时的', lv: 'IELTS' },
+      { w: 'criticise', p: '/ˈkrɪtɪsaɪz/', t: 'v. 批评，责怪', lv: '基础' },
+      { w: 'threatening', p: '/ˈθretnɪŋ/', t: 'adj. 令人不安的，有威胁感的', lv: 'IELTS' },
+      { w: 'stakes', p: '/steɪks/', t: 'n. 利害，赌注（the stakes=代价/风险）', lv: '商务' },
+      { w: 'trivial', p: '/ˈtrɪviəl/', t: 'adj. 微不足道的，极容易的', lv: 'TOEFL' }
     ],
     phrases: [
-      { en: 'fill the silence', zh: '填补沉默' },
-      { en: 'without stakes', zh: '没有利害关系（轻松试错）' },
-      { en: 'throwaway comment', zh: '随口一句话' },
-      { en: 'permanent small-talk', zh: '永久的破冰闲聊' }
+      { en: 'seek relief', zh: '寻求解脱/缓解' },
+      { en: 'feed each other', zh: '互相助长' },
+      { en: 'lower the stakes', zh: '降低门槛/风险' },
+      { en: 'take care of itself', zh: '自行解决' }
     ]
   }
 ];

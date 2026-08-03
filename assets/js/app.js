@@ -115,7 +115,7 @@
     const av = $('#avatarBox');
     av.innerHTML = pf.avatar
       ? '<img src="' + esc(pf.avatar) + '" alt="">'
-      : esc((pf.name || 'E').trim().charAt(0).toUpperCase());
+      : '<img src="assets/img/avatar.png" alt="">';
   }
 
   /* -------------------- 侧边栏（移动端） -------------------- */
@@ -171,6 +171,7 @@
     view.innerHTML =
       '<div class="scroll"><div class="wrap">' +
       '<div class="bento">' +
+      '<div class="bento-top">' +
       '<div class="bento-hero">' +
       '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
       '<div class="hero-date">' + esc(dateStr) + '</div>' +
@@ -181,7 +182,9 @@
       '<span><b>' + (c.english || 0) + '</b>单词</span>' +
       '</div>' +
       '</div>' +
-      tilesAll +
+      calTile +
+      '</div>' +
+      tiles +
       '</div>' +
       '</div></div>';
 
@@ -235,7 +238,9 @@
     const wd='日一二三四五六'.split('').map(w=>'<div class="cal-wd">'+w+'</div>').join('');
     return '<div class="cal-head"><div><div class="cal-m">'+y+' 年 '+(m+1)+' 月</div><div class="cal-l">'+lunar+'</div></div>'
       +'<div class="cal-nav"><button class="cal-p" aria-label="上个月">‹</button><button class="cal-n" aria-label="下个月">›</button></div></div>'
-      +'<div class="cal-grid">'+wd+cells+'</div><div class="cal-foot">'+foot+'</div>';
+      +'<div class="cal-grid">'+wd+cells+'</div>'
+      +'<div class="cal-foot">'+foot+'</div>'
+      +'<div class="cal-legend"><span>🎖️ 节日</span><span>★ 今天</span><span>● 有日程</span></div>';
   }
   function bindCalendar(view){
     const tile=view&&view.querySelector('#calTile'); if(!tile) return;
