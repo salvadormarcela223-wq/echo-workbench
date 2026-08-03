@@ -572,13 +572,13 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 /* ==========================================================
    Bento 概览首页
    ========================================================== */
-.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: start; }
+.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: stretch; }
 
 .bento-hero {
   grid-column: span 6;
   background: linear-gradient(122deg, #23262D 0%, #2C333B 100%);
   color: #F4EFE6; border-radius: var(--r-lg);
-  padding: 18px 24px; display: flex; flex-direction: column;
+  padding: 26px 28px; display: flex; flex-direction: column;
   position: relative; overflow: hidden; box-shadow: var(--sh-3);
 }
 .bento-hero::after {
@@ -586,15 +586,15 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
   width: 220px; height: 220px; border-radius: 50%;
   background: radial-gradient(circle, rgba(120,150,170,.28), transparent 70%);
 }
-.hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
-.hero-date { font-size: 13px; color: #9AA6AD; margin-top: 5px; letter-spacing: .4px; position: relative; z-index: 1; }
+.hero-greet { font-family: var(--font-serif); font-size: 28px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
+.hero-date { font-size: 13.5px; color: #9AA6AD; margin-top: 6px; letter-spacing: .4px; position: relative; z-index: 1; }
 .hero-quote {
-  margin-top: 14px;
+  margin-top: 22px;
   margin-bottom: auto;
-  padding: 12px 0 10px;
+  padding: 16px 0 14px;
   position: relative; z-index: 1;
   font-family: var(--font-serif);
-  font-size: 14.5px; line-height: 1.75; color: #D6DCE0;
+  font-size: 15.5px; line-height: 1.8; color: #D6DCE0;
   font-style: italic; max-width: 92%;
   border-top: 1px solid rgba(255,255,255,.08);
 }
@@ -603,6 +603,22 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .hero-chips { display: flex; gap: 22px; margin-top: auto; padding-top: 10px; flex-wrap: wrap; position: relative; z-index: 1; border-top: 1px solid rgba(255,255,255,.06); }
 .hero-chips span { font-size: 12.5px; color: #AEB9BF; display: flex; align-items: baseline; gap: 6px; }
 .hero-chips b { font-family: var(--font-serif); font-size: 20px; color: #fff; font-weight: 600; }
+
+/* Hero 内部布局：左侧文字 + 右侧头像，填满无空白 */
+.hero-avatar {
+  position: absolute; right: 20px; bottom: 18px;
+  width: 130px; height: 130px; border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255,255,255,.12);
+  box-shadow: 0 4px 20px rgba(0,0,0,.25);
+  z-index: 2;
+}
+.hero-body {
+  position: relative; z-index: 1;
+  padding-right: 160px;
+  display: flex; flex-direction: column;
+  min-height: 280px;
+}
 
 .bento-tile {
   position: relative; overflow: hidden;
@@ -628,8 +644,8 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 
 /* 方案A · 杂志式拼接（每行铺满6格，无空白） */
 /* Row1: hero(4) + cal(2) 并排填满 */
-.bento > .bento-hero { grid-column: span 4; grid-row: span 2; align-self: stretch; }
-.bento .mod-cal { grid-column: span 2; grid-row: span 2; align-self: stretch; background: var(--surface); cursor: default; }
+.bento > .bento-hero { grid-column: span 4; }
+.bento .mod-cal { grid-column: span 2; background: var(--surface); cursor: default; }
 .bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
 
 /* Row2: news(2) + insight(2) + plan(2) = 6 */

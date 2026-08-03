@@ -172,10 +172,12 @@
       '<div class="scroll"><div class="wrap">' +
       '<div class="bento">' +
       '<div class="bento-hero">' +
-      '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
+      '<img class=\"hero-avatar\" src=\"assets/img/avatar.png?v=20260803c\" alt=\"Echo\" />' +
+      '<div class=\"hero-body\">'<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
       '<div class="hero-date">' + esc(dateStr) + '</div>' +
       (function(){const q=HERO_QUOTES[(new Date().getDate())%HERO_QUOTES.length];return '<div class="hero-quote"><span class="qmark">\u201C</span>'+esc(q.t)+'<span class="attr">\u2014 '+esc(q.a)+'</span></div>';})() +
-            '<div class="hero-chips">' +
+            '</div>'
+      '<div class="hero-chips">' +
       '<span><b>' + (c.news || 0) + '</b>行业资讯</span>' +
       '<span><b>' + (c.insight || 0) + '</b>专业提升</span>' +
       '<span><b>' + (c.plan || 0) + '</b>待办</span>' +
