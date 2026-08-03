@@ -638,8 +638,8 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bento .mod-cal { grid-column: span 3; grid-row: span 2; background: var(--surface); cursor: default; }
 .bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
 
-/* 日历移到问候条右侧：与 hero 并排 */
-.bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: stretch; }
+/* 日历移到问候条右侧：与 hero 并排（占3行=450px，确保日历不被grid裁切） */
+.bento-top { grid-column: 1 / -1; grid-row: span 3; display: flex; gap: 14px; align-items: stretch; }
 .bento-top .bento-hero { flex: 1 1 auto; margin: 0; }
 .bento-top .mod-cal { flex: 0 0 320px; width: 320px; min-height: 380px; grid-column: auto; grid-row: auto; }
 
