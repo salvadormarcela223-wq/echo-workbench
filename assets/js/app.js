@@ -73,7 +73,7 @@
 
   /* -------------------- 页面注册表 -------------------- */
   const PAGES = [
-    { key: 'home', name: '概览', icon: 'home', desc: '今日工作台总览', color: '#566069', c2: '#D9DDE0', c3: '#F1F3F4' },
+    { key: 'home', name: '空间站', icon: 'home', desc: '今日工作台总览', color: '#566069', c2: '#D9DDE0', c3: '#F1F3F4' },
     { key: 'news', name: '行业资讯', icon: 'news', desc: '电子烟与新型烟草 · 全网热点追踪', color: '#41566B', c2: '#D5DADE', c3: '#F0F2F3' },
     { key: 'insight', name: '专业提升', icon: 'brain', desc: '用户研究 / 感官分析 / 消费者洞察 · 全球情报', color: '#6B6470', c2: '#DFDDE0', c3: '#F3F3F4' },
     { key: 'plan', name: '工作计划', icon: 'check', desc: '待办、优先级与工作日志', color: '#6E7479', c2: '#DFE0E2', c3: '#F3F4F4' },
@@ -115,7 +115,7 @@
     const av = $('#avatarBox');
     av.innerHTML = pf.avatar
       ? '<img src="' + esc(pf.avatar) + '" alt="">'
-      : '<img src="assets/img/avatar.png?v=20260803c" alt="">';
+      : '<img src="assets/img/avatar.png?v=20260803b" alt="">';
   }
 
   /* -------------------- 侧边栏（移动端） -------------------- */
@@ -168,66 +168,72 @@
     const calTile = '<div class="bento-tile mod-cal" style="--mc:#41566B" id="calTile">' + calHTML(calState.y, calState.m) + '</div>';
     const tilesAll = tiles.replace('</button>', '</button>' + calTile, 1);
 
+    const poem = DAILY_POEMS[(new Date().getDate()-1)%DAILY_POEMS.length];
     view.innerHTML =
-      '<div class="scroll"><div class="wrap">' +
-      '<div class="bento">' +
-      '<div class="bento-hero">' +
-      '<img class=\"hero-avatar\" src=\"assets/img/avatar.png?v=20260803c\" alt=\"Echo\" />' +
-      '<div class=\"hero-body\">'+
-      '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
-      '<div class="hero-date">' + esc(dateStr) + '</div>' +
-      (function(){const q=HERO_QUOTES[(new Date().getDate())%HERO_QUOTES.length];return '<div class="hero-quote"><span class="qmark">\u201C</span>'+esc(q.t)+'<span class="attr">\u2014 '+esc(q.a)+'</span></div>';})() +
-            '</div>'
-      '<div class="hero-chips">' +
-      '<span><b>' + (c.news || 0) + '</b>行业资讯</span>' +
-      '<span><b>' + (c.insight || 0) + '</b>专业提升</span>' +
-      '<span><b>' + (c.plan || 0) + '</b>待办</span>' +
-      '<span><b>' + (c.english || 0) + '</b>单词</span>' +
+    '<div class="scroll"><div class="wrap">' +
+    '<div class="hero-big">' +
+      '<div class="hero-left">' +
+        '<div class="hero-greet">' + greet + '，' + esc(pf.name || 'Echo') + '</div>' +
+        '<div class="hero-date">' + esc(dateStr) + '</div>' +
+        '<div class="hero-poem"><span class="qmark">"</span><div class="poem-lines">'+esc(poem.t).replace(/\\n/g,'<br>')+'</div><span class="attr">—— '+esc(poem.a)+'</span></div>' +
+        '<div class="hero-summary">' +
+          '<div class="summary-title">昨日新增</div>' +
+          '<div class="summary-grid">' +
+            '<span class="summary-item">行业资讯 <b>'+(c.news||0)+'</b></span>' +
+            '<span class="summary-item">专业提升 <b>'+(c.insight||0)+'</b></span>' +
+            '<span class="summary-item">待办事项 <b>'+(c.plan||0)+'</b></span>' +
+            '<span class="summary-item">待学单词 <b>'+(c.english||0)+'</b></span>' +
+            '<span class="summary-item">随想记录 <b>'+(c.muse||0)+'</b></span>' +
+            '<span class="summary-item">灵光乍现 <b>'+(c.spark||0)+'</b></span>' +
+          '</div>' +
+        '</div>' +
+        '<img class="hero-avatar" src="assets/img/avatar.png?v=20260804a" alt="Echo" />' +
       '</div>' +
+      '<div class="hero-cal">' +
+        '<canvas class="cal-fx"></canvas>' +
+        '<div class="cal-card" id="calTile">' + calHTML(calState.y, calState.m) + '</div>' +
       '</div>' +
-      calTile +
-      tiles +
-      '</div>' +
-      '</div></div>';
-
+    '</div>' +
+    '</div></div>';
     view.querySelectorAll('[data-go]').forEach(b => b.onclick = () => {
       location.hash = '#/' + b.dataset.go; closeSide();
     });
     bindCalendar(view);
   }
 
-  /* -------------------- 每日小诗/格言（30 句，按日期轮换） -------------------- */
-  const HERO_QUOTES = [
-    { t: 'The only way to do great work is to love what you do.', a: 'Steve Jobs · 2005 Stanford' },
-    { t: 'In the middle of every difficulty lies opportunity.', a: 'Albert Einstein' },
-    { t: 'What you do every day matters more than what you do once in a while.', a: 'Gretchen Rubin' },
-    { t: 'Slow is smooth, smooth is fast.', a: 'Navy SEAL adage' },
-    { t: 'Discipline equals freedom.', a: 'Jocko Willink' },
-    { t: 'Be curious, not judgmental.', a: 'Walt Whitman' },
-    { t: 'You are what you do, not what you say you will do.', a: 'Carl Jung' },
-    { t: 'The cave you fear to enter holds the treasure you seek.', a: 'Joseph Campbell' },
-    { t: 'A river cuts through rock not by its power, but by its persistence.', a: 'James N. Watkins' },
-    { t: 'Almost everything will work again if you unplug it for a few minutes — including you.', a: 'Anne Lamott' },
-    { t: 'The mind is everything. What you think you become.', a: 'Buddha' },
-    { t: 'How we spend our days is, of course, how we spend our lives.', a: 'Annie Dillard' },
-    { t: 'I have not failed. I have just found 10,000 ways that do not work.', a: 'Thomas Edison' },
-    { t: 'If you can dream it, you can do it.', a: 'Walt Disney' },
-    { t: 'The future depends on what you do today.', a: 'Mahatma Gandhi' },
-    { t: 'A person who never made a mistake never tried anything new.', a: 'Albert Einstein' },
-    { t: 'When nothing goes right, go left.', a: 'Anonymous' },
-    { t: 'Happiness is not something ready made. It comes from your own actions.', a: 'Dalai Lama' },
-    { t: 'If you tell the truth, you do not have to remember anything.', a: 'Mark Twain' },
-    { t: 'Do not go where the path may lead, go instead where there is no path and leave a trail.', a: 'Ralph Waldo Emerson' },
-    { t: 'The two most powerful warriors are patience and time.', a: 'Leo Tolstoy' },
-    { t: 'Quality is not an act, it is a habit.', a: 'Aristotle' },
-    { t: 'Stillness is where creativity and solutions are found.', a: 'Eckhart Tolle' },
-    { t: 'What we think, we become.', a: 'Buddha' },
-    { t: 'The unexamined life is not worth living.', a: 'Socrates' },
-    { t: 'Lost time is never found again.', a: 'Benjamin Franklin' },
-    { t: 'Begin and the mind grows heated. Continue and the task is completed.', a: 'Goethe' },
-    { t: 'Knowing yourself is the beginning of all wisdom.', a: 'Aristotle' },
-    { t: 'Where attention goes, energy flows.', a: 'Tony Robbins' },
-    { t: 'Make the most of yourself, for that is all there is of you.', a: 'Ralph Waldo Emerson' }
+  /* -------------------- 每日小诗 / 经典片段（31 条，按日期轮换，每条 4-5 行） -------------------- */
+  const DAILY_POEMS = [
+    { t: 'The only way to do great work\nis to love what you do.\nIf you haven\'t found it yet, keep looking.\nDon\'t settle.', a: 'Steve Jobs · Stanford 2005' },
+    { t: 'Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.', a: 'Robert Frost · The Road Not Taken' },
+    { t: 'In the middle of every difficulty\nlies opportunity.\nThe greater the obstacle,\nthe more glory in overcoming it.', a: 'Albert Einstein' },
+    { t: 'What you do every day matters more\nthan what you do once in a while.\nConsistency is the true mark of mastery.', a: 'Gretchen Rubin · Better Than Before' },
+    { t: 'Slow is smooth, smooth is fast.\nRush and you will fall.\nPatience is not about waiting,\nbut the ability to keep a good attitude\nwhile working hard for what you believe in.', a: 'Navy SEAL Adage' },
+    { t: 'Discipline equals freedom.\nThe pain of discipline weighs ounces,\nbut the pain of regret weighs tons.\nChoose your hard.', a: 'Jocko Willink · Extreme Ownership' },
+    { t: 'Be curious, not judgmental.\nA mind is like a parachute —\nit only works when it is open.\nThe fool thinks he is wise,\nbut the wise man knows himself to be a fool.', a: 'Walt Whitman / Socrates' },
+    { t: 'You are what you do, not what you say\nyou will do.\nActions speak louder than words,\nand habits are the compound interest\nof self-improvement.', a: 'Carl Jung / C.S. Lewis' },
+    { t: 'The cave you fear to enter\nholds the treasure you seek.\nFear is a natural reaction\nto moving closer to the truth.', a: 'Joseph Campbell · The Hero\'s Journey' },
+    { t: 'A river cuts through rock,\nnot by its power, but by its persistence.\nWater always finds a way.\nTime conquers all,\nif you give it enough of it.', a: 'James N. Watkins' },
+    { t: 'Almost everything will work again\nif you unplug it for a few minutes\n— including you.\nRest is not idleness;\nit is the fuel for what comes next.', a: 'Anne Lamott · Bird by Bird' },
+    { t: 'The mind is everything.\nWhat you think, you become.\nYour thoughts shape your reality,\nyour words shape your world,\nyour actions shape your destiny.', a: 'Buddha / Dhammapada' },
+    { t: 'How we spend our days is,\nof course, how we spend our lives.\nHow we spend our hours is,\nof course, how we spend our days.\nTell me, then:\nwhat did you do today?', a: 'Annie Dillard · The Writing Life' },
+    { t: 'I have not failed.\nI have just found 10,000 ways\nthat won\'t work.\nSuccess is failure in progress.\nGenius is 1% inspiration and 99% perspiration.', a: 'Thomas Edison' },
+    { t: 'If you can dream it, you can do it.\nAll our dreams can come true\nif we have the courage to pursue them.\nThe way to get started\nis quit talking and begin doing.', a: 'Walt Disney' },
+    { t: 'The future depends on\nwhat you do today.\nYour present circumstances don\'t determine\nwhere you can go;\nthey merely determine where you start.', a: 'Mahatma Gandhi' },
+    { t: 'A person who never made a mistake\nnever tried anything new.\nMistakes are proof\nthat you are trying.\nEvery expert was once a beginner.', a: 'Albert Einstein' },
+    { t: 'When nothing goes right — go left.\nWhen the path disappears — build one.\nWhen they say it cannot be done —\nthat is exactly why you must do it.', a: 'Anonymous' },
+    { t: 'Happiness is not something ready-made.\nIt comes from your own actions.\nThe purpose of our lives\nis to be happy.\nBe happy for this moment.', a: 'Dalai Lama' },
+    { t: 'If you tell the truth,\nyou don\'t have to remember anything.\nHonesty is a very expensive gift.\nDo not expect it from cheap people.', a: 'Mark Twain' },
+    { t: 'Do not go where the path may lead.\nGo instead where there is no path\nand leave a trail.\nTo see the world things\nthat never were and ask "why not?"', a: 'Ralph Waldo Emerson' },
+    { t: 'The two most powerful warriors\nare patience and time.\nGreat acts take time.\nWe are what we repeatedly do.\nexcellence is not an act but a habit.', a: 'Leo Tolstoy / Aristotle' },
+    { t: 'Quality is not an act,\nit is a habit.\nWe are what we repeatedly do.\nExcellence is never an accident.', a: 'Aristotle · Nicomachean Ethics' },
+    { t: 'Stillness is where creativity\nand solutions are found.\nIn the silence between thoughts\nlies the answer you have been seeking.\nBe still and know.', a: 'Eckhart Tolle · The Power of Now' },
+    { t: 'Knowing yourself is the beginning\nof all wisdom.\nThe unexamined life\nis not worth living.\nKnow thyself.', a: 'Aristotle / Socrates' },
+    { t: 'Where attention goes, energy flows.\nGuard your time fiercely.\nYou become what you think about\nall day long.\nFocus is the art of knowing\nwhat to ignore.', a: 'Tony Robbins / Jim Rohn' },
+    { t: 'Make the most of yourself,\nfor that is all there is of you.\nDo not lower your standards\nto fit into the world.\nrise above it.', a: 'Ralph Waldo Emerson' },
+    { t: 'Begin and the mind grows heated.\nContinue and the task is completed.\nWhatever you can do, or dream you can,\nbegin it. Boldness has genius, power, and magic in it.', a: 'Johann Wolfgang von Goethe' },
+    { t: 'It is during our darkest moments\nthat we must focus to see the light.\nStars cannot shine without darkness.\nYour struggle is your strength.', a: 'Aristotle' },
+    { t: 'Life is what happens\nwhen you\'re busy making other plans.\nCount your life by smiles, not tears.\nCount your age by friends, not years.', a: 'John Lennon' },
+    { t: 'In three words I can sum up\neverything I\'ve learned about life:\nit goes on.\nKeep your face always toward the sunshine\nand shadows will fall behind you.', a: 'Robert Frost / Walt Whitman' }
   ];
 
   /* ================= 概览日历 ================= */

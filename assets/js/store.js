@@ -147,7 +147,8 @@
         const remote = JSON.parse(text);
         if (!remote || typeof remote !== 'object') throw new Error('云端数据格式不正确');
         if (!force && (remote.updatedAt || 0) < (state.updatedAt || 0)) {
-          this.status('warn', '云端数据比本地旧，已跳过');
+          // 本地比云端新：无需拉取。这是正常状态，不应当作故障报警（避免每次刷新弹“同步异常”）。
+          this.status('ok', '本地已是最新（云端较旧，已跳过拉取）');
           return false;
         }
         state = deepMerge(JSON.parse(JSON.stringify(DEFAULT)), remote);

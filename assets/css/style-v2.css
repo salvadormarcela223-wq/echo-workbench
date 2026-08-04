@@ -572,12 +572,13 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 /* ==========================================================
    Bento 概览首页
    ========================================================== */
-.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: stretch; }
+.bento { display: grid; grid-template-columns: repeat(6, 1fr); grid-auto-rows: minmax(auto, max-content); gap: 14px; align-items: start; }
 
 .bento-hero {
+  grid-column: span 6;
   background: linear-gradient(122deg, #23262D 0%, #2C333B 100%);
   color: #F4EFE6; border-radius: var(--r-lg);
-  padding: 24px 28px; display: flex; flex-direction: column;
+  padding: 18px 24px; display: flex; flex-direction: column;
   position: relative; overflow: hidden; box-shadow: var(--sh-3);
 }
 .bento-hero::after {
@@ -588,7 +589,7 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .hero-greet { font-family: var(--font-serif); font-size: 24px; font-weight: 600; letter-spacing: .3px; position: relative; z-index: 1; }
 .hero-date { font-size: 13px; color: #9AA6AD; margin-top: 5px; letter-spacing: .4px; position: relative; z-index: 1; }
 .hero-quote {
-  margin-top: 16px;
+  margin-top: 14px;
   margin-bottom: auto;
   padding: 12px 0 10px;
   position: relative; z-index: 1;
@@ -602,21 +603,6 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .hero-chips { display: flex; gap: 22px; margin-top: auto; padding-top: 10px; flex-wrap: wrap; position: relative; z-index: 1; border-top: 1px solid rgba(255,255,255,.06); }
 .hero-chips span { font-size: 12.5px; color: #AEB9BF; display: flex; align-items: baseline; gap: 6px; }
 .hero-chips b { font-family: var(--font-serif); font-size: 20px; color: #fff; font-weight: 600; }
-
-/* Hero 内部布局：左侧文字 + 右侧头像 */
-.hero-avatar {
-  position: absolute; right: 16px; bottom: 12px;
-  width: 100px; height: 100px; border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid rgba(255,255,255,.15);
-  box-shadow: 0 3px 14px rgba(0,0,0,.25);
-  z-index: 2;
-}
-.hero-body {
-  position: relative; z-index: 1;
-  padding-right: 150px;
-  display: flex; flex-direction: column;
-}
 
 .bento-tile {
   position: relative; overflow: hidden;
@@ -640,26 +626,22 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .bt-watermark { position: absolute; right: -12px; bottom: -16px; width: 92px; height: 92px; color: var(--mc); opacity: .09; pointer-events: none; }
 .bt-watermark svg { width: 100%; height: 100%; stroke: currentColor; fill: none; stroke-width: 1.2; }
 
-/* 方案A · 杂志式拼接（每行铺满6格，无空白） */
-/* Row1: hero(4) + cal(2) 并排填满 */
-.bento > .bento-hero { grid-column: span 4; }
-.bento .mod-cal { grid-column: span 2; background: var(--surface); cursor: default; }
-.bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
-
-/* Row2: news(2) + insight(2) + plan(2) = 6 */
-.bento .mod-news { grid-column: span 2; }
-.bento .mod-insight, .bento .mod-plan { grid-column: span 2; }
-
-/* Row3: english(3) + muse(3) = 6 */
-.bento .mod-english { grid-column: span 3; }
-.bento .mod-muse { grid-column: span 3; }
-
-/* Row4: spark(6) 整条 */
+/* 错落：行业资讯占左侧 2 行大块，灵光乍现占底部整条 */
+.bento .mod-news { grid-column: span 3; grid-row: span 2; }
+.bento .mod-insight, .bento .mod-plan,
+.bento .mod-english, .bento .mod-muse { grid-column: span 3; }
 .bento .mod-spark { grid-column: span 6; flex-direction: row; align-items: center; gap: 14px; }
 .bento .mod-spark .bt-count { margin-top: 0; margin-left: auto; }
 .bento .mod-news .bt-count { font-size: 40px; }
 .bento .mod-news .bt-name { font-size: 18px; }
 .bento .mod-news .bt-desc { font-size: 12.5px; max-width: 80%; }
+.bento .mod-cal { grid-column: span 3; grid-row: span 2; background: var(--surface); cursor: default; }
+.bento .mod-cal:hover { transform: none; box-shadow: var(--sh-2); border-color: var(--line); }
+
+/* 概览顶部：hero问候 + 日历并排，各自按内容自然高度，不强制等高，错落有致 */
+.bento-top { grid-column: 1 / -1; display: flex; gap: 14px; align-items: flex-start; }
+.bento-top .bento-hero { flex: 0 0 auto; margin: 0; max-width: 420px; }
+.bento-top .mod-cal { flex: 0 0 auto; width: 300px; }
 
 .mod-cal { display: flex; flex-direction: column; }
 .cal-head { display: flex; align-items: flex-start; justify-content: space-between; }
@@ -688,9 +670,10 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
    响应式 · Bento
    ========================================================== */
 @media (max-width: 900px) {
-  .bento { grid-template-columns: repeat(2, 1fr); }
-  .bento > .bento-hero { grid-column: span 2; }
-  .bento .mod-cal { grid-column: span 2; }
+  .bento { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 140px; }
+  .bento-top { flex-direction: column; }
+  .bento-top .mod-cal { width: 100%; flex-basis: auto; }
+  .bento-hero { grid-column: span 2; }
   .bento .mod-news, .bento .mod-insight, .bento .mod-plan,
   .bento .mod-english, .bento .mod-muse, .bento .mod-spark { grid-column: span 2; grid-row: auto; }
   .bento .mod-spark { flex-direction: column; align-items: flex-start; }
@@ -700,7 +683,144 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 }
 @media (max-width: 560px) {
   .bento { grid-template-columns: 1fr; }
-  .bento > .bento-hero, .bento-tile, .bento .mod-news,
-  .bento .mod-cal, .bento .mod-english { grid-column: span 1; grid-row: auto; }
+  .bento-top { flex-direction: column; }
+  .bento-top .mod-cal { width: 100%; flex-basis: auto; }
+  .bento-hero, .bento-tile, .bento .mod-news, .bento .mod-english { grid-column: span 1; grid-row: auto; }
   .bento-hero { padding: 18px 20px; }
+}
+
+/* ================= 空间站 · 一体化首页（方案A） ================= */
+.hero-big {
+  position: relative;
+  display: flex;
+  gap: 28px;
+  align-items: stretch;
+  padding: 28px 32px 30px;
+  border-radius: 20px;
+  background: #233040;
+  border: 1px solid #33445A;
+  overflow: hidden;
+}
+.hero-left {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  position: relative;
+}
+.hero-greet {
+  font-family: var(--font-serif);
+  font-size: 28px;
+  font-weight: 600;
+  color: #FFFFFF;
+  letter-spacing: .3px;
+}
+.hero-date {
+  font-size: 13px;
+  color: #8AA5B5;
+  margin-top: 6px;
+  letter-spacing: .4px;
+}
+.hero-poem {
+  margin-top: 18px;
+  padding: 16px 18px;
+  border-radius: 12px;
+  background: rgba(255,255,255,.05);
+  border: 1px solid rgba(255,255,255,.08);
+  position: relative;
+  z-index: 1;
+}
+.hero-poem .qmark {
+  color: #7E93A4;
+  font-size: 22px;
+  line-height: 0;
+  vertical-align: -4px;
+  margin-right: 3px;
+}
+.hero-poem .poem-lines {
+  font-size: 14px;
+  line-height: 1.78;
+  color: #C5D0D8;
+  font-style: italic;
+  margin: 6px 0;
+}
+.hero-poem .attr {
+  display: block;
+  margin-top: 10px;
+  font-size: 11.5px;
+  color: #7E93A4;
+  font-style: normal;
+  letter-spacing: .5px;
+  text-align: right;
+}
+.hero-summary {
+  margin-top: 16px;
+  position: relative;
+  z-index: 1;
+}
+.summary-title {
+  font-size: 12px;
+  color: #7E93A4;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.summary-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.summary-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12.5px;
+  color: #A8BCC8;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background: rgba(255,255,255,.05);
+  border: 1px solid rgba(255,255,255,.07);
+}
+.summary-item b {
+  color: #FFFFFF;
+  font-weight: 600;
+  margin-left: 2px;
+}
+.hero-cal {
+  position: relative;
+  flex: 0 0 364px;
+  background: #1A232F;
+  border-radius: 16px;
+  padding: 14px 16px 16px;
+  --ink:#E8EEF2; --ink-2:#C5D0D8; --ink-3:#8AA5B5; --ink-4:#5F7585;
+  --surface:#1A232F; --surface-2:#243240; --surface-3:#2C3A47;
+  --line:#33445A; --line-soft:#27323E; --mc:#9B92EC;
+  overflow: hidden;
+}
+.hero-cal .cal-card { display: flex; flex-direction: column; height: 100%; }
+.hero-cal .cal-head { align-items: center; }
+.hero-cal .cal-m { font-size: 15px; }
+.hero-cal .cal-l { font-size: 10.5px; }
+.hero-cal .cal-grid { gap: 3px; margin-top: 6px; }
+.hero-cal .cal-wd { font-size: 11.5px; padding: 2px 0; }
+.hero-cal .cal-d { font-size: 14px; border-radius: 7px; }
+.hero-cal .cal-foot { font-size: 12px; }
+.hero-cal .cal-legend { font-size: 11.5px; }
+.hero-cal .cal-fx { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 4; }
+.hero-avatar {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  width: 72px; height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2.5px solid rgba(255,255,255,.15);
+  box-shadow: 0 4px 16px rgba(0,0,0,.35);
+  z-index: 5;
+}
+@media (max-width: 720px) {
+  .hero-big { flex-direction: column; padding: 20px; gap: 18px; }
+  .hero-cal { flex: 1 1 auto; }
+  .hero-avatar { width: 56px; height: 56px; right: 12px; bottom: 12px; }
+  .summary-grid { gap: 6px; }
 }
