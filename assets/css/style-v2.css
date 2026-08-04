@@ -1,4 +1,4 @@
-/* ==========================================================
+﻿/* ==========================================================
    Echo 的工作台 · 视觉体系
    奶油色系 / 低饱和 / 圆角 / 柔和动效
    ========================================================== */
@@ -347,12 +347,16 @@ table.tbl tbody tr:hover .row-act { opacity: 1; }
 .article { font-family: var(--font-serif); font-size: 15.5px; line-height: 1.92; color: #453D33; }
 .article p { margin-bottom: 17px; }
 .article b { font-weight: 700; }
-.article u, .kw {
+.article u {
   text-decoration: none; cursor: pointer; border-bottom: 1.5px dashed var(--accent-soft);
   padding: 0 1px; border-radius: 2px; transition: background .22s var(--ease);
 }
+.kw { cursor: pointer; border-radius: 2px; transition: background .15s var(--ease); }
 .article u:hover, .kw:hover { background: var(--accent-wash); }
 .article u.saved, .kw.saved { background: var(--gold-wash); border-bottom-color: var(--gold); }
+.cn-text { font-family: var(--font-sans); font-size: 14px; line-height: 1.85; color: var(--ink-2); }
+.cn-text p { margin: 0 0 12px; }
+.cn-text p:last-child { margin-bottom: 0; }
 
 .vocab-item {
   display: flex; align-items: flex-start; gap: 11px; padding: 10px 14px;
@@ -654,6 +658,11 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .cal-wd { font-size: 11px; color: var(--ink-4); text-align: center; padding: 1px 0; }
 .cal-d { position: relative; aspect-ratio: 1 / 1; display: grid; place-items: center; border-radius: 6px; font-size: 13px; color: var(--ink-2); cursor: pointer; transition: background .2s var(--ease); }
 .cal-d.out { color: var(--ink-4); opacity: .4; }
+.cal-cnt { display: flex; flex-direction: column; align-items: center; line-height: 1; gap: 1px; }
+.cal-lunar { display: block; font-size: 9px; color: var(--ink-4); margin-top: 2px; pointer-events: none; }
+.cal-lunar.first, .cal-lunar.full { color: var(--mc); font-weight: 600; }
+.cal-d.out .cal-lunar { opacity: .5; }
+.cal-d.today .cal-lunar { color: color-mix(in srgb, var(--mc) 55%, var(--ink-4)); }
 .cal-d:hover { background: var(--surface-3); }
 .cal-d.today { background: color-mix(in srgb, var(--mc) 14%, transparent); color: var(--mc); font-weight: 700; }
 .cal-d.today .cal-star { position: absolute; top: 2px; right: 4px; font-size: 11px; color: var(--mc); }
@@ -824,3 +833,30 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
   .hero-avatar { width: 56px; height: 56px; right: 12px; bottom: 12px; }
   .summary-grid { gap: 6px; }
 }
+
+/* 阅读页：点击单词原位弹窗 */
+.kw-pop {
+  position: absolute;
+  z-index: 999;
+  background: #fff;
+  color: #1f2733;
+  border: 1px solid #d7dee6;
+  border-radius: 10px;
+  box-shadow: 0 10px 28px rgba(15,30,50,.22);
+  padding: 10px 12px;
+  width: 230px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.kw-pop-w { font-weight: 600; font-size: 14px; }
+.kw-pop-p { color: #8a97a5; font-weight: 400; font-size: 12px; margin-left: 4px; }
+.kw-pop-t { margin: 6px 0 10px; color: #33414f; }
+.kw-pop-t i { color: #aab4bf; }
+.kw-pop-actions { display: flex; gap: 8px; }
+.kw-pop-actions button {
+  flex: 1; border: 0; border-radius: 7px; padding: 6px 0; font-size: 12.5px; cursor: pointer;
+}
+.kw-pop .kw-add { background: #6B6470; color: #fff; }
+.kw-pop .kw-add:hover { background: #564f5c; }
+.kw-pop .kw-close { background: #eef1f4; color: #56616d; }
+.kw-pop .kw-close:hover { background: #e2e7ec; }
