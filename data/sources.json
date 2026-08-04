@@ -1,0 +1,9 @@
+{
+  "news": [
+    { "name": "Tobacco Reporter", "type": "rss", "url": "https://tobaccoreporter.com/feed", "cat": "新型烟草", "region": "全球" },
+    { "name": "Vaping Post", "type": "rss", "url": "https://www.vapingpost.com/feed/", "cat": "电子烟", "region": "全球" },
+    { "name": "FDA CTP 新闻室", "type": "html", "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/", "sel": "ctp-newsroom", "cat": "监管", "region": "美国" },
+    { "name": "Tobacco Control 期刊博客", "type": "rss", "url": "https://blogs.bmj.com/tc/rss/", "cat": "科研/监管", "region": "全球" }
+  ],
+  "insights": []
+}
