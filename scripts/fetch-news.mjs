@@ -92,7 +92,7 @@ function parseHTML(html, base, sel) {
             cat: s.cat || '',
             summary: it.desc || '',
             date: it.pub ? new Date(it.pub).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10),
-            impact: '',
+            impact: '（每日自动抓取生成，影响解读待补充；点击原文链接查看完整报道）',
             origin: s.name,
           }));
           feed[grp] = add.concat(arr).slice(0, 60);

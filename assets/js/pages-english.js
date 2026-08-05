@@ -56,8 +56,8 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     const rect = el.getBoundingClientRect();
     const pop = document.createElement('div');
     pop.className = 'kw-pop';
-    pop.innerHTML = '<div class="kw-pop-w">'+esc(v.w)+' <span class="kw-pop-p">'+esc(v.p||'')+'</span></div>'+
-      '<div class="kw-pop-t">'+(v.t?esc(v.t):'<i>该词释义补全中</i>')+'</div>'+
+    pop.innerHTML = '<div class="kw-pop-w">'+esc(v.w)+' <span class="kw-pop-p" id="kwph">'+esc(v.p||'')+'</span></div>'+
+      '<div class="kw-pop-t" id="kwt">'+(v.t?esc(v.t):'<i>正在查询释义…</i>')+'</div>'+
       '<div class="kw-pop-actions"><button class="kw-add">加入单词本</button><button class="kw-close">关闭</button></div>';
     document.body.appendChild(pop);
     const pw = pop.offsetWidth, ph = pop.offsetHeight;
@@ -66,9 +66,29 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     if (left + pw > window.innerWidth - 10) left = window.innerWidth - pw - 10;
     if (top + ph > window.innerHeight + window.scrollY - 10) top = rect.top + window.scrollY - ph - 6;
     pop.style.left = left+'px'; pop.style.top = top+'px';
-    pop.querySelector('.kw-add').onclick = (e)=>{ e.stopPropagation(); addWord(v, fromTitle); el.classList.add('saved'); closeWordPop(); U.toast('已加入单词本','ok'); };
+    pop.querySelector('.kw-add').onclick = (e)=>{ e.stopPropagation(); const y = window.scrollY; addWord(v, fromTitle); el.classList.add('saved'); closeWordPop(); window.scrollTo(0, y); };
     pop.querySelector('.kw-close').onclick = (e)=>{ e.stopPropagation(); closeWordPop(); };
     setTimeout(()=>{ document.addEventListener('click', closeWordPop, {once:true}); }, 0);
+    fetchWordOnline(v, pop);
+  }
+
+  /* 在线词典兜底：补足音标；本地无释义时取英文释义 */
+  function fetchWordOnline(v, pop){
+    const phEl = pop.querySelector('#kwph');
+    const tEl = pop.querySelector('#kwt');
+    if (!phEl || !tEl) return;
+    const url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(v.w.toLowerCase());
+    fetch(url).then(r => r.ok ? r.json() : null).then(d => {
+      if (!Array.isArray(d) || !d[0]) return;
+      let ph = d[0].phonetic || '';
+      if (!ph && d[0].phonetics) { const p = d[0].phonetics.find(x => x.text); if (p) ph = p.text; }
+      if (ph && phEl && !phEl.textContent) phEl.textContent = ph;
+      if (!v.t) {
+        const m = d[0].meanings && d[0].meanings[0];
+        const def = m && m.definitions && m.definitions[0] && m.definitions[0].definition;
+        if (def) tEl.innerHTML = '<span class="kw-en">' + esc(def) + '</span><div class="kw-online">在线英文释义</div>';
+      }
+    }).catch(()=>{});
   }
 
   function paintRead(c) {
@@ -161,7 +181,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     if (S.s.words.some(w => w.w.toLowerCase() === key)) { if (!silent) U.toast('已在单词本中'); return false; }
     const item = { id: S.uid(), w: v.w, p: v.p || '', t: v.t || '', lv: v.lv || '阅读生词', from: from || '', mastered: false, createdAt: Date.now() };
     S.s.words.unshift(item);
-    if (!silent) { S.save(); U.toast('「' + v.w + '」已入单词本', 'ok'); window.rerender(); }
+    if (!silent) { S.save(); U.toast('「' + v.w + '」已入单词本', 'ok'); }
     return true;
   }
 
@@ -185,8 +205,10 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
         bubble.style.top = (r.top - 40) + 'px';
         bubble.onclick = e => {
           e.stopPropagation();
+          const y = window.scrollY;
           addWord({ w: txt, lv: '阅读生词' }, from);
           kill(); sel.removeAllRanges();
+          window.scrollTo(0, y);
         };
         document.body.appendChild(bubble);
       }, 10);

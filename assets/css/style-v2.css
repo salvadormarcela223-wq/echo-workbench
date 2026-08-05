@@ -852,6 +852,8 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .kw-pop-p { color: #8a97a5; font-weight: 400; font-size: 12px; margin-left: 4px; }
 .kw-pop-t { margin: 6px 0 10px; color: #33414f; }
 .kw-pop-t i { color: #aab4bf; }
+.kw-pop-t .kw-en { display:block; line-height:1.55; margin-top:2px; }
+.kw-online { font-size:10.5px; color:#aab4bf; margin-top:6px; letter-spacing:.3px; }
 .kw-pop-actions { display: flex; gap: 8px; }
 .kw-pop-actions button {
   flex: 1; border: 0; border-radius: 7px; padding: 6px 0; font-size: 12.5px; cursor: pointer;

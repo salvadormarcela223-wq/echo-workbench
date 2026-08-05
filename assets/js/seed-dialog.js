@@ -1,4 +1,4 @@
-/* ============================================================
+﻿/* ============================================================
    板块四【英语学习】· 情景对话库（每日随机，约 10 分钟精读+跟读）
    场景覆盖：旅行 / 日常 / 感官研究与 CMI 专业场景
    ============================================================ */
@@ -199,4 +199,141 @@ window.SEED_DIALOGS = [
       { en: 'what you make of it', zh: '你怎么看待它' }
     ]
   }
+  ,
+  {
+    id: 'd-08',
+    scene: '专业 · 焦点小组',
+    title: 'Moderating a Focus Group',
+    zhTitle: '主持一场焦点小组访谈',
+    minutes: 11,
+    goal: '练习在焦点小组中保持中立、追问而不引导、妥善处理冷场与分歧。',
+    lines: [
+      { r: 'Moderator', en: "Let's start simple — when you first tasted this, what was the very first thing that came to mind?", zh: '咱们从简单处开始——你第一口尝到时，最先冒出来的念头是什么？' },
+      { r: 'Respondent A', en: "It felt… clean? Like, not heavy on the tongue.", zh: '感觉……很干净？就是说，舌头上不厚重。' },
+      { r: 'Moderator', en: "Clean — can you stay with that word for a second? What makes it feel clean versus, say, watery?", zh: '“干净”——你能就这个词再多说一点吗？它和所谓“寡淡”的区别在哪？' },
+      { r: 'Respondent B', en: "For me clean means no aftertaste. Watery would be thin and forgettable.", zh: '对我来说干净就是没有余味。寡淡则是单薄、喝完就忘了。' },
+      { r: 'Moderator', en: "Good distinction. Anyone feel something different in the aftertaste?", zh: '这个区分很好。有人对余味有不同感受吗？' },
+      { r: 'Respondent C', en: "There's a slight bitterness at the end. Not bad, just… present.", zh: '尾段有一点苦。不讨厌，就是……存在感。' },
+      { r: 'Moderator', en: "Noted — a late bitterness. And does that bitterness make you want to take another sip, or stop?", zh: '记下了——尾段苦。这种苦是让你想再喝一口，还是想停下？' },
+      { r: 'Respondent A', en: "Actually it makes me curious. I'd go again.", zh: '其实它让我有点好奇。我会再喝。' },
+      { r: 'Moderator', en: "Curious is interesting. So the bitterness isn't a reject signal here?", zh: '“好奇”这个点有意思。所以这里的苦并不是拒绝信号？' },
+      { r: 'Respondent C', en: "No, it feels intentional. Like the product knows what it's doing.", zh: '不是，它感觉是刻意的。像产品心里有数。' }
+    ],
+    keys: [
+      { en: 'first thing that came to mind', zh: '最先想到的（念头）' },
+      { en: 'stay with that word', zh: '就这个词再展开' },
+      { en: 'aftertaste', zh: '余味 / 后味' },
+      { en: 'late bitterness', zh: '尾段苦感' },
+      { en: 'reject signal', zh: '（消费者的）拒绝信号' }
+    ]
+  },
+  {
+    id: 'd-09',
+    scene: '日常 · 咖啡店',
+    title: 'Ordering at a Café',
+    zhTitle: '在咖啡店点单',
+    minutes: 8,
+    goal: '掌握点单、定制规格、堂食外带与确认等待时间的日常高频表达。',
+    lines: [
+      { r: 'Barista', en: "Hi! What can I get for you?", zh: '您好！要点点什么？' },
+      { r: 'You', en: "Could I get a medium flat white, please? With oat milk if you have it.", zh: '麻烦来一杯中杯澳白，可以的话用燕麦奶。' },
+      { r: 'Barista', en: "Sure — oat milk, medium flat white. Anything to eat?", zh: '好的——燕麦奶，中杯澳白。要配点吃的吗？' },
+      { r: 'You', en: "Maybe one of those almond croissants. Is it still warm?", zh: '来一个那个杏仁可颂吧。现在还是热的吗？' },
+      { r: 'Barista', en: "Just came out of the oven. Want it heated a little more?", zh: '刚出炉。要再加热一下吗？' },
+      { r: 'You', en: "That'd be great, thank you. And could I get that to stay, not takeaway?", zh: '那太好了，谢谢。这杯我要堂食，不要外带。' },
+      { r: 'Barista', en: "For here. Name for the cup?", zh: '堂食。杯子写什么名字？' },
+      { r: 'You', en: "It's Echo. How long should I expect to wait?", zh: '写 Echo。大概要等多久？' },
+      { r: 'Barista', en: "About four minutes — I'll bring it over to your table.", zh: '大概四分钟——我给你送到座位上。' },
+      { r: 'You', en: "Perfect, thanks so much.", zh: '太好了，非常感谢。' }
+    ],
+    keys: [
+      { en: 'medium flat white', zh: '中杯澳白' },
+      { en: 'oat milk', zh: '燕麦奶' },
+      { en: 'to stay / for here', zh: '堂食' },
+      { en: 'takeaway', zh: '外带' },
+      { en: 'bring it over', zh: '送过来（到座位）' }
+    ]
+  },
+  {
+    id: 'd-10',
+    scene: '专业 · 供应商规格',
+    title: 'Negotiating a Specification With a Supplier',
+    zhTitle: '与供应商谈一份感官规格',
+    minutes: 12,
+    goal: '练习就感官规格、批次公差与交付节奏与供应商沟通，守住品质底线。',
+    lines: [
+      { r: 'Supplier', en: "So you want the sweetness capped at level 3 on your scale?", zh: '所以你们希望甜度上限压在你们量表的 3 级？' },
+      { r: 'You', en: "Level 3, and critically — no more than a half-step variance between batches.", zh: '3 级，而且关键是——批次之间波动不能超过半级。' },
+      { r: 'Supplier', en: "Half a step is tight. That means we re-calibrate the line every run.", zh: '半级很紧。那意味着每批我们都要重新校准产线。' },
+      { r: 'You', en: "I understand the cost. But the consumer test showed anything above 3.5 drops purchase intent.", zh: '成本我理解。但消费者测试显示，超过 3.5 购买意向就掉。' },
+      { r: 'Supplier', en: "Fair. What if we hold 3.0 to 3.3 and flag anything outside?", zh: '合理。那我们控制在 3.0 到 3.3，超出的做标记，行吗？' },
+      { r: 'You', en: "That works, as long as the flag triggers a hold, not a shipment.", zh: '可以，前提是标记触发的是“扣留”，不是“发货”。' },
+      { r: 'Supplier', en: "Agreed — out-of-band goes to quarantine, not the truck.", zh: '同意——超范围的进待检区，不上车。' },
+      { r: 'You', en: "And lead time? We can't promise the same volume if batches fail.", zh: '那交期呢？如果批次出问题，我们给不了同样产量。' },
+      { r: 'Supplier', en: "We'll build in a 10% buffer stock. You get first refusal on it.", zh: '我们会留 10% 缓冲库存。你们有优先调配权。' },
+      { r: 'You', en: "Good. Let's put the tolerance in writing before pilot.", zh: '好。试点前我们把公差写进合同。' }
+    ],
+    keys: [
+      { en: 'capped at level 3', zh: '上限控制在 3 级' },
+      { en: 'variance between batches', zh: '批次间差异 / 波动' },
+      { en: 'purchase intent', zh: '购买意向' },
+      { en: 'out-of-band', zh: '超出规格范围' },
+      { en: 'quarantine', zh: '（品质）待检 / 隔离' }
+    ]
+  },
+  {
+    id: 'd-11',
+    scene: '旅行 · 问路',
+    title: 'Getting Directions on the Street',
+    zhTitle: '在街上问路',
+    minutes: 9,
+    goal: '掌握问路、确认距离、交通方式切换与表达感谢的实用句型。',
+    lines: [
+      { r: 'You', en: "Excuse me, is the metro station far from here?", zh: '打扰一下，地铁站离这儿远吗？' },
+      { r: 'Local', en: "Which one? There are two within walking distance.", zh: '哪个站？步行范围内有两个。' },
+      { r: 'You', en: "The one near the museum — line 4, I think.", zh: '博物馆旁边那个——应该是 4 号线。' },
+      { r: 'Local', en: "That's about a ten-minute walk, straight down this street, then left at the church.", zh: '走过去大概十分钟，沿这条街一直走，到教堂左转。' },
+      { r: 'You', en: "Straight, then left at the church. And is it signposted?", zh: '一直走，教堂左转。那儿有路牌指示吗？' },
+      { r: 'Local', en: "Mostly. But the sign's small — look up, not at the shops.", zh: '基本有。但牌子小——抬头看，别盯店铺。' },
+      { r: 'You', en: "Got it. Could I take a bus instead, if I get lost?", zh: '明白了。万一迷路，我能坐公交吗？' },
+      { r: 'Local', en: "Bus 11 stops right there. But walking's quicker at this hour.", zh: '11 路公交就在那儿停。不过这会儿走路更快。' },
+      { r: 'You', en: "Perfect, I'll walk. Thank you, you saved me.", zh: '太好了，我走过去。谢谢你，帮了大忙。' },
+      { r: 'Local', en: "No problem — enjoy the museum.", zh: '不客气——博物馆好好玩。' }
+    ],
+    keys: [
+      { en: 'within walking distance', zh: '步行可达' },
+      { en: 'straight down', zh: '一直沿着……走' },
+      { en: 'signposted', zh: '有指示牌的' },
+      { en: 'at this hour', zh: '这个时候 / 这会儿' },
+      { en: 'saved me', zh: '帮了大忙' }
+    ]
+  },
+  {
+    id: 'd-12',
+    scene: '商务 · 邮件协调',
+    title: 'Scheduling a Meeting by Email',
+    zhTitle: '用邮件约一场会议',
+    minutes: 10,
+    goal: '练习礼貌提议时间、协调多人日程、提前同步议程与跟进。',
+    lines: [
+      { r: 'You', en: "Hi Mark, hoping to sync on the Q3 research plan — do you have 30 minutes next week?", zh: 'Mark 你好，想就三季度研究计划对齐一下——下周你有 30 分钟吗？' },
+      { r: 'Mark', en: "Wednesday looks open. Morning your time?", zh: '周三好像有空。你那边上午？' },
+      { r: 'You', en: "Wednesday 10am works. Should we include Lena from insights?", zh: '周三上午十点可以。要把洞察部的 Lena 也拉上吗？' },
+      { r: 'Mark', en: "Yes, she owns the consumer data. Send the invite and I'll add her.", zh: '要，消费数据是她负责的。你发邀约，我来加她。' },
+      { r: 'You', en: "Done. I'll share the agenda beforehand so we don't wander.", zh: '发了。我会提前发议程，免得跑题。' },
+      { r: 'Mark', en: "Please do — last time we spent 20 minutes on the wrong slide.", zh: '务必——上次我们拿错幻灯片耗了 20 分钟。' },
+      { r: 'You', en: "Noted. I'll keep it to three points: scope, timeline, owners.", zh: '记下了。我控制三个点：范围、时间线、责任人。' },
+      { r: 'Mark', en: "That's the Mark I like. Anything you need from me before?", zh: '这才对味。会前你需要我做什么？' },
+      { r: 'You', en: "Just your take on the budget ceiling. I don't want to over-promise.", zh: '就你对预算上限的看法。我不想过度承诺。' },
+      { r: 'Mark', en: "I'll send a one-liner by Tuesday. Talk Wednesday.", zh: '周二前我发一句话给你。周三聊。' }
+    ],
+    keys: [
+      { en: 'sync on', zh: '对齐 / 同步讨论' },
+      { en: 'open', zh: '（日程）有空' },
+      { en: 'beforehand', zh: '提前 / 事前' },
+      { en: 'wander', zh: '（会议）跑题' },
+      { en: 'budget ceiling', zh: '预算上限' }
+    ]
+  }
+
 ];
