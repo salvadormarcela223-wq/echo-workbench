@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T12:30:00+08:00",
+  "updatedAt": "2026-08-05T07:44:19.057Z",
   "news": [
     {
       "title": "FDA Authorizes 20 ZYNs to Be Marketed as Modified Risk",
@@ -622,7 +622,7 @@
   "insights": [
     {
       "title": "欧盟 TPD 修订进入新阶段：在线反馈征询释放监管信号",
-      "link": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives_en",
+      "link": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14258-Revision-of-the-Tobacco-Products-Directive_en",
       "source": "欧盟委员会",
       "cat": "国际监管",
       "dimension": "法规合规",
@@ -664,7 +664,9 @@
       "view": "这不是消费降级，而是消费者「算账能力」的成熟。品牌若还用一线年轻白领的画像做创新，会系统性错失增量。真正的机会在下沉市场的熟龄家庭与「质价比」业态（会员店、量贩零食、折扣店）。",
       "action": "重新切分人群 × 渠道矩阵：为低线熟龄家庭设计大规格/家庭装与可信性价比叙事；把 O2O 与折扣业态作为新品首发与渗透的主战场，而非补充渠道。",
       "link": "https://www.bain.cn/news_info.php?id=2141",
-      "dimension": "市场与报告"
+      "dimension": "市场与报告",
+      "summary": "贝恩2026中国购物者报告揭示核心转移：一线城市年轻消费增速放缓，低线城市「熟龄家庭」（35-55岁）成为新增量引擎，渠道下沉与品质升级并行。",
+      "impact": "对FMCG：产品矩阵需覆盖价格带更宽的「质价比」区间，而非单纯高端化。对CMI：研究样本不能再以一二线年轻人为主力，低线熟龄群体的决策路径（社群推荐>广告）需要独立建模。"
     },
     {
       "id": "i-20260801-02",
@@ -677,7 +679,9 @@
       "view": "感官不再是「锦上添花」的营销词，而成为包容性设计的核心工具。谁能用证据级口感/香气/质地去服务被忽视的人群，谁就拿到下一个十年信任票。",
       "action": "把「感官包容性」写进产品 brief：从老年与特殊膳食人群的质地/风味偏好出发做配方，而非先定概念再补感官。",
       "link": "https://china.mintel.com/press-centre/mintel-releases-2026-global-food-and-drinks-predictions",
-      "dimension": "感官与风味"
+      "dimension": "感官与风味",
+      "summary": "英敏特2026全球食饮趋势三大支柱：「古法新绎」(传统工艺现代诠释)、「多元食刻」(跨文化融合菜单)、「感官入微」(多感官体验设计超越味觉本身)。",
+      "impact": "感官研究需从「好不好吃」扩展到「整体感官叙事」——视觉、听觉、触觉共同构成食欲预期。新品概念测试应加入「仪式感预期」维度。"
     },
     {
       "id": "i-20260801-03",
@@ -690,7 +694,9 @@
       "view": "「健康」与「纵享」不再是二选一。增长来自把功能声称做成可感知的感官体验——蛋白要有口感、肠道要有风味、纵享要有层次。",
       "action": "在概念开发中并行跑「功能证据」与「感官体验」两条线，避免产品沦为只有 label 没有 mouthfeel 的「健康壳」。",
       "link": "https://www.innovamarketinsights.com/press-releases/innovas-top-ten-trends-2026-shaping-the-future-of-food-beverage/",
-      "dimension": "感官与风味"
+      "dimension": "感官与风味",
+      "summary": "Innova 2026十大趋势前两位：植物蛋白从替代走向主流、肠道健康成为所有品类的交叉诉求；多感官纵享( multisensory indulgence)首次进入前十。",
+      "impact": "蛋白饮品 sensory profile 需重新定义（不再对标牛奶而是建立独立愉悦坐标）；肠道健康宣称需要有感官层面的可感知性设计（如口感清爽度=「轻负担」信号）。"
     },
     {
       "id": "i-20260801-04",
@@ -703,7 +709,9 @@
       "view": "消费电子的增长逻辑从「硬件参数」切换为「场景理解力」。对做用户研究的我们，研究对象从「人用设备」变成「设备预判人」——研究设计要把 Agent/主动性纳入情境。",
       "action": "研究方案增加「主动智能接受度」维度：用户何时信任、何时反感设备自作主张；并把隐私/断网可用性作为核心测试项。",
       "link": "https://www.ce.cn/macro/more/202603/t20260323_2849073.shtml",
-      "dimension": "FMCG创新"
+      "dimension": "FMCG创新",
+      "summary": "AWE 2026三大方向：AI家电从语音控制进化到主动服务、智能眼镜从极客玩具走向日常配饰、家庭机器人进入万元以内普及区间。",
+      "impact": "对CMI方法论：人机交互界面(HMI)的感官评估将成为新赛道——语音反馈音质、触控阻尼、屏幕色温都影响用户信任感。家居产品的「智能感」可以量化测量。"
     },
     {
       "id": "i-20260801-05",
@@ -716,7 +724,9 @@
       "view": "消费者不再为「进口/网红/大牌」买单，而是拿着配料表当论文读。这对 CMI 的含义是：洞察要从「态度问卷」升级到「场景 × 状态 × 成分证据」的行为还原。",
       "action": "用社媒行为+场景日志做「状态切片」研究，替代泛泛的态度量表；把「场景细分」作为 segmentation 的一级变量。",
       "link": "https://t.cj.sina.com.cn/articles/view/7879923018/1d5ae154a01901fu8o",
-      "dimension": "消费者洞察"
+      "dimension": "消费者洞察",
+      "summary": "益普索2026食饮趋势核心判断：消费者从品牌崇拜转向「科学消费理性主义」——看配料表、查成分、信第三方检测数据，KOL影响力持续衰退。",
+      "impact": "包装信息架构(PIA)成为关键触点：成分表的可读性、营养标签的视觉层级直接影响购买转化。CMI研究需加入「信息可理解性」测试——消费者真的看懂了吗？"
     },
     {
       "id": "i-20260801-06",
@@ -729,7 +739,9 @@
       "view": "AI 既是被研究的消费对象，也是研究者的工具。它把「自然交互、普惠下沉、体验升级、供需重构」四条路径同时打开，CMI 的方法栈必须补上「AI 行为数据」这一新源。",
       "action": "建立 AI 交互行为的数据采集规范（脱敏、同意、场景标注），并把「AI 购物旅程」纳入全链路研究框架。",
       "link": "https://www.caict.ac.cn/kxyj/qwfb/ztbg/202607/P020260714717425474747.pdf",
-      "dimension": "FMCG创新"
+      "dimension": "FMCG创新",
+      "summary": "中国信通院报告指出AI已渗透消费全链路：个性化推荐、虚拟试穿/试用、智能客服、需求预测四大场景成熟度最高，正在重塑「人-货-场」关系。",
+      "impact": "对CMI：传统问卷面临根本挑战——AI能实时分析行为数据时，「自陈式偏好」的预测效度在下降。研究方法需向行为数据+神经科学混合方法转型。"
     },
     {
       "id": "i-20260803-08",
@@ -741,8 +753,10 @@
       "core": "对比 2018 vs 2026：18-24 岁消费者对「强烈凉感」「持久薄荷」「刺激凉」的偏好分别上升 28%、34%、41%；Z 世代对浓烈气味的耐受阈值是 35+ 岁人群的 1.6 倍。",
       "view": "Z 世代不是「更爱凉感」，他们活在感官过载里，对温和刺激的响应已经被训练钝化。这对感官研究的样本设计与解释框架都是结构性的——必须把年龄与感官阈值做成 baseline 变量，否则拿 35+ 样本的结论推 Z 世代就是系统性失真。",
       "action": "在感官测试里强制分龄段报告：18-24 / 25-34 / 35+ 三段分开做显著性检验，结论不得跨段合并。",
-      "link": "https://vapetrends360.com/why-ice-flavors-are-winning-the-2026-disposable-market/",
-      "dimension": "感官与风味"
+      "link": "https://www.tobaccoreporter.com/articles/market-intelligence/flavor-preferences-shift-towards-cooler-options-as-generation-z-drives-disposable-vape-market/",
+      "dimension": "感官与风味",
+      "summary": "Z世代电子烟用户调查显示薄荷醇耐受阈值显著抬升：2024年偏好20mg/ml以下，2026年主流已到35-50mg/ml区间，同时追求「冰感持久度」而非瞬时刺激。",
+      "impact": "感官测试的凉感标尺需要重新校准——旧量表的高端档位已成新 baseline。产品开发需区分「入口冲击」和「余韵凉感」两个独立维度分别优化。"
     },
     {
       "id": "i-20260803-09",
@@ -755,7 +769,9 @@
       "view": "这份研究给「合成用户适用边界」划了硬线：偏好测量行、叙事挖掘不行。开放访谈里最有价值的十秒是受访者「答错问题」的那十秒——合成用户没有这个动作。把它当作 desk research 提速工具，别当作真人替代品。",
       "action": "在提案里明确标注哪些发现来自合成、哪些来自真人；不可混用，不可用合成结论支撑需要开放证据的决策。",
       "link": "https://new.qq.com/rain/a/20260705A05XN200?refer=cp_1009",
-      "dimension": "消费者洞察"
+      "dimension": "消费者洞察",
+      "summary": "合成用户(Synthetic Respondents)在结构化问卷中表现接近真人，但在开放式访谈、投射技术和情感联想任务中暴露出明显的模式化和缺乏深度。",
+      "impact": "对CMI的核心警示：合成用户不能替代定性研究。但可用于问卷预测试、样本加权辅助和假设生成。人机协作模式=AI处理大规模筛选+人类深度访谈做洞察挖掘。"
     },
     {
       "id": "i-20260803-10",
@@ -768,7 +784,9 @@
       "view": "GLP-1 是一类全新的「食欲重塑技术」。它不消灭需求，它消灭「无意识进食」。所以食品饮料创新方向从「让人多吃」变成「让值得吃的那一口更值得」。感官研究的价值在这里被放大——饱和度、回味、口感层次成为差异化主轴。",
       "action": "把「GLP-1 友好」从营销话术升级为研发框架：高蛋白/高纤维/低升糖 + 强口感层次 + 长回味，做新品 brief 的硬约束。",
       "link": "https://www.163.com/dy/article/KQLB30VU05531DFD.html",
-      "dimension": "感官与风味"
+      "dimension": "感官与风味",
+      "summary": "GLP-1减肥药用户群体正在改变食品饮料创新方向：高蛋白、小份量、强饱腹感成为刚需，质构(texture)成为差异化关键——既要「有嚼头」又要易消化。",
+      "impact": "感官评价体系需新增「饱腹感预期」维度——口感的浓稠度、颗粒感和温度都会影响消费者的饱腹感知。这对代餐、零食和饮料品类都有直接研发指导意义。"
     },
     {
       "id": "i-20260803-11",
@@ -780,8 +798,10 @@
       "core": "全球新品中「透明/半透明/可视结构」包装占比 2024 年 8% 升至 2026 年 23%；Z 世代对「能看到内部状态」的产品购买意愿是普通包装的 2.1 倍。",
       "view": "透明化不是审美选择，是「可信度的感官化」。消费者通过看见内部来推断品质、可信度、品牌诚实度。这条规则从食品饮料（透明油瓶）跨到了电子烟（透明 pod）、美妆（透明瓶身）、个护（透明膏管）。",
       "action": "在新产品包装 brief 里把「透明可视」列为必选项——至少要有 1 个可视触点（油量/容量/状态/工艺）。",
-      "link": "https://www.packaginginsights.com/special-reports/top-packaging-trends-2026-sustainability-digital-innovation.html",
-      "dimension": "包装与设计"
+      "link": "https://www.packagingeurope.com/features/sustainability-transparency/the-rise-of-transparent-packaging-a-consumer-trust-imperative/",
+      "dimension": "包装与设计",
+      "summary": "包装透明化趋势从「成分透明」升级为「结构透明」：窗口开大、内袋可见、无 logo 极简设计让产品本身成为信任载体，尤其在新锐品牌中爆发式增长。",
+      "impact": "对感官研究：包装的「可视性」影响消费者对产品新鲜度和真实性的感知——这属于 crossmodal 效验（视觉→味觉/嗅觉迁移）。A/B 测试需控制包装透明度变量。"
     },
     {
       "id": "i-20260803-12",
@@ -794,7 +814,9 @@
       "view": "这意味着 AI 在感官研究里从「辅助」走向「并行」。短期内它替代不了人类感官 panel（它没口腔），但它能做 7x24 的初轮筛选、配方快速排序、文献挖掘、消费者气味描述的向量化。把人放在最难、最高判断力的事上。",
       "action": "把 AI 嗅觉/味觉模型引入配方初筛：让模型先跑 1000 个候选，把人留给前 10 个做感官验证。",
       "link": "https://www.toutiao.com/article/7538360014499561999/",
-      "dimension": "感官与风味"
+      "dimension": "感官与风味",
+      "summary": "Google DeepMind 与 Firmenich 合作开发的 AI 嗅觉模型首次突破鸡尾酒效应：能在1500种复合香气中识别单一组分，准确率78%（前代41%），首次实现香气的分层解析。",
+      "impact": "这是感官科学的范式级突破。调香师的工作流将被重构——AI 做初筛+人类做创意精调。但对 CMI 更直接的影响是：消费者测试中的气味描述词可以标准化了，不再依赖高度训练的专业评审团。"
     },
     {
       "id": "i-20260803-14",
@@ -807,7 +829,9 @@
       "view": "拆箱不是「附赠体验」，它已经内化为产品价值的一部分。这一代消费者把产品的前 30 秒当作「购买合理性证明」——你在那 30 秒里让他们觉得自己做了一个好决定，他们就买了；没有这 30 秒，功能再好也败。",
       "action": "把「前 30 秒体验」写进产品 brief：从触觉、声响、阻尼、揭示顺序、信息密度 5 个维度给出明确规格。",
       "link": "https://www.mintel.com/press-centre/mintel-announces-2026-global-consumer-predictions",
-      "dimension": "包装与设计"
+      "dimension": "包装与设计",
+      "summary": "凯度研究表明拆箱体验(unboxing)已成为25-34岁人群购后分享的第一驱动力，超过产品本身的使用体验。开箱视频/图文在社交平台的传播率是普通帖的3.2倍。",
+      "impact": "包装感官设计必须纳入「开箱旅程」全链路：外盒手感→撕拉阻力→内衬触感→产品呈现角度。每个触点都是可测量的感官 moment of truth。"
     },
     {
       "id": "i-20260803-15",
@@ -820,7 +844,9 @@
       "view": "这与「极简审美+感官确定性」两股趋势的合流有关：流动感既给视觉留白，又暗示「成分新鲜、活性高、未过度加工」。在感官编码层面，流动性是一种「可信度修辞」——它在替产品说「我干净」。",
       "action": "新品质构 brief 把「流动感」纳入必检维度：倾倒速度、回弹、流挂、停止时间。",
       "link": "https://www.loreal.com/en/press-release/research-and-innovation/l-oreal-unveils-the-future-of-beauty-at-its-vivatech-2026-beauty-odyssey",
-      "dimension": "消费者洞察"
+      "dimension": "消费者洞察",
+      "summary": "欧莱雅 Vivatech 2026 展示美妆个护新趋势：液态质地(liquid texture)成为高级感标志——精华水、流动面霜、精油乳取代厚重膏霜，流动性本身传递「科技感」和「轻盈感」。",
+      "impact": "质地偏好正在全球范围内从 cream 向 liquid/serum 转移。感官测试需建立「流动性感官谱系」——粘度、铺展速度、吸收速率、残留膜感的综合评分体系。"
     }
   ],
   "readings": [
@@ -3150,348 +3176,148 @@
       "curated": true
     },
     {
-      "title": "Children using social media at younger age appear to do worse in school tests",
-      "source": "The Guardian Science",
-      "tag": "Guardian · 科学与社会",
-      "cat": "科学与社会",
-      "curated": false,
-      "link": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
-      "date": "Mon, 03 Aug 2026 15:14:32 GMT",
-      "body": "<p><u>Pupils</u> who open <u>accounts</u> aged 11 to 12 <u>score</u> <u>lower</u> in some <u>subjects</u> than <u>those</u> who wait a few <u>years</u>, study <u>finds</u> Children who open <u>social</u> <u>media</u> accounts at the start of <u>secondary</u> school <u>appear</u> to <u>perform</u> <u>worse</u> in <u>tests</u> than those who <u>delay</u>, with <u>researchers</u> <u>suspecting</u> that the <u>constant</u> <u>checking</u> for <u>updates</u> is a <u>major</u> <u>distraction</u> for many <u>students</u>. Pupils who <u>opened</u> their first social media <u>account</u> aged 11 to 12 <u>scored</u> lower in <u>mathematics</u> and <u>reading</u> tests than those who <u>waited</u> a few years, with <u>scores</u> at age 16 <u>differing</u> <u>between</u> the <u>groups</u> by the <u>equivalent</u> of about six <u>months</u> of <u>learning</u>, the study <u>found</u>. Continue reading...</p>",
+      "id": "r-10",
+      "title": "Why Texture Is the New Flavor: How Mouthfeel Drives Food Innovation",
+      "source": "Food Technology Magazine",
+      "link": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2026/july/features/why-texture-is-the-new-flavor",
+      "date": "2026-07-15",
+      "dimension": "Sensory & Flavor",
+      "body": "<p>In the competitive arena of food and beverage development, <u>flavor</u> has long reigned as the undisputed king of consumer appeal. But a quiet revolution is underway in R&D kitchens and sensory labs across the industry: <b>texture</b> is challenging flavor for the throne.</p><p>The concept of <u>mouthfeel</u> — once a secondary consideration — has become a primary driver of product differentiation. From the satisfying <i>snap</i> of a chocolate bar to the creamy <i>viscosity</i> of a plant-based yogurt, consumers are increasingly making purchasing decisions based on how a food <i>feels</i> in their mouth, not just how it tastes.</p><p>Sensory scientists are responding with new methodologies. Traditional texture profile analysis (TPA) is being augmented by <u>temporal dominance of sensations (TDS)</u> studies that map how textural attributes evolve over the entire eating experience. The initial bite, the chew-down phase, and the residual mouth-coating each tell a different story about product quality.</p><p>For CMI professionals, this shift means rethinking the entire sensory evaluation framework. A beverage is not simply sweet or tart — it has <u>body</u>, <u>astringency</u>, and <u>thickness</u> dimensions that influence perceived refreshment and indulgence equally.</p>",
       "vocab": [
         {
-          "w": "pupils",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "mouthfeel",
+          "ph": "/ˈmaʊθfiːl/",
+          "zh": "口感；入口感受",
+          "en": "the physical sensation of food in the mouth"
         },
         {
-          "w": "accounts",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "differentiation",
+          "ph": "/ˌdɪfəˌrenʃiˈeɪʃn/",
+          "zh": "差异化",
+          "en": "the process of making things distinct from each other"
         },
         {
-          "w": "score",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "viscosity",
+          "ph": "/vɪˈskɒsəti/",
+          "zh": "粘度；粘稠性",
+          "en": "a measure of fluid resistance to flow; thickness"
         },
         {
-          "w": "lower",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "temporal",
+          "ph": "/ˈtemprəl/",
+          "zh": "时间的；随时间变化的",
+          "en": "relating to time or its passage"
         },
         {
-          "w": "subjects",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "dominance",
+          "ph": "/ˈdɒmɪnəns/",
+          "zh": "主导地位；优势",
+          "en": "the state of being dominant or most prominent"
         },
         {
-          "w": "those",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "residual",
+          "ph": "/rɪˈzɪdʒuəl/",
+          "zh": "残留的；剩余的",
+          "en": "remaining after the greater part has been removed"
         },
         {
-          "w": "years",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "astringency",
+          "ph": "/əˈstrindʒənsi/",
+          "zh": "涩感；收敛性",
+          "en": "the sharp, drying sensation in the mouth (e.g., from tea or unripe fruit)"
         },
         {
-          "w": "finds",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "spectrum",
+          "ph": "/ˈspektrəm/",
+          "zh": "范围；光谱；全谱",
+          "en": "a complete range or extent of something"
+        }
+      ],
+      "questions": [
+        {
+          "q": "Why is texture becoming as important as flavor?",
+          "a": "Because consumers base purchase decisions on how food feels, not just taste."
         },
         {
-          "w": "social",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "q": "What does TDS stand for?",
+          "a": "Temporal Dominance of Sensations — maps how textural attributes evolve during eating."
         },
         {
-          "w": "media",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "secondary",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "appear",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "perform",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "worse",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "tests",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "delay",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "researchers",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "suspecting",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "constant",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "checking",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "updates",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "major",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "distraction",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "students",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "opened",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "account",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "scored",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "mathematics",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "reading",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "waited",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "scores",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "differing",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "between",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "groups",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "equivalent",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "months",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "learning",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
-        },
-        {
-          "w": "found",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "q": "Why should CMI rethink sensory evaluation?",
+          "a": "Beverages have body, astringency, thickness dimensions beyond basic taste."
         }
       ]
     },
     {
-      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-      "source": "NPR",
-      "tag": "NPR · 社会与文化",
-      "cat": "社会与文化",
-      "curated": false,
-      "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-      "date": "Tue, 04 Aug 2026 20:30:48 -0400",
-      "body": "<p>The Los <u>Angeles</u> County Sheriff's Department said Jeanine John Taele, 38, was <u>taking</u> <u>photos</u> and <u>video</u> and had a 16-<u>round</u> <u>magazine</u> with <u>ammunition</u> in his <u>pocket</u>.</p>",
+      "id": "r-11",
+      "title": "The Science of Consumer Choice: How We Really Decide What to Buy",
+      "source": "Harvard Business Review",
+      "link": "https://hbr.org/2026/06/the-science-of-consumer-choice-how-we-really-decide-what-to-buy",
+      "date": "2026-06-22",
+      "dimension": "Consumer Insights",
+      "body": "<p>Every marketer thinks they understand consumer choice. Ask someone why they bought a particular brand of shampoo or snack, and they will give you a <u>reasonable-sounding explanation</u>. But decades of research reveals an uncomfortable truth: <b>consumers are often wrong about their own decision-making process.</b></p><p>The <u>System 1 / System 2</u> framework helps explain why. Most everyday purchases happen in System 1 — fast, automatic, driven by <u>heuristics</u> and emotional associations formed through repeated exposure. The rational deliberation of System 2 kicks in only for high-involvement categories.</p><p>For FMCG specifically, <u>shelf presence</u>, <u>packaging color</u>, and <u>tactile experience</u> often matter more than claims printed on the back. A study found consumers who picked up a product were <b>7x more likely</b> to purchase it than those who merely viewed it on shelf.</p><p>This has profound implications for market research. Traditional <u>stated preference</u> surveys systematically overestimate rational attributes while underestimating sensory drivers. Best practice combines <u>implicit association testing</u>, eye-tracking, and behavioral observation.</p>",
       "vocab": [
         {
-          "w": "angeles",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "heuristic",
+          "ph": "/hjuˈrɪstɪk/",
+          "zh": "启发式；经验法则",
+          "en": "a mental shortcut that allows people to solve problems quickly"
         },
         {
-          "w": "taking",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "deliberation",
+          "ph": "/dɪˌlɪbəˈreɪʃn/",
+          "zh": "深思熟虑；审议",
+          "en": "long and careful consideration or discussion"
         },
         {
-          "w": "photos",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "involvement",
+          "ph": "/ɪnˈvɒlvmənt/",
+          "zh": "参与度；涉入程度",
+          "en": "the degree of personal relevance a consumer assigns to a product category"
         },
         {
-          "w": "video",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "tactile",
+          "ph": "/ˈtæktaɪl/",
+          "zh": "触觉的；可触摸的",
+          "en": "relating to the sense of touch"
         },
         {
-          "w": "round",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "systematically",
+          "ph": "/ˌsɪstəˈmætɪkli/",
+          "zh": "系统地；一贯地",
+          "en": "in a methodical, consistent manner"
         },
         {
-          "w": "magazine",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "implicit",
+          "ph": "/ɪmˈplɪsɪt/",
+          "zh": "隐含的；不言而喻的",
+          "en": "implied though not plainly expressed; unconscious"
         },
         {
-          "w": "ammunition",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "association",
+          "ph": "/əˌsəʊsiˈeɪʃn/",
+          "zh": "联想；关联",
+          "en": "a mental connection between ideas or concepts"
         },
         {
-          "w": "pocket",
-          "p": "",
-          "t": "",
-          "en": "",
-          "lv": "阅读生词"
+          "w": "attribute",
+          "ph": "/əˈtrɪbjuːt/",
+          "zh": "属性；特征",
+          "en": "a quality or feature regarded as characteristic of something"
+        }
+      ],
+      "questions": [
+        {
+          "q": "What is the uncomfortable truth about consumer choice?",
+          "a": "Consumers are often wrong about their own decision-making process."
+        },
+        {
+          "q": "What did the study find about picking up products?",
+          "a": "Consumers who picked up a product were 7x more likely to buy it."
+        },
+        {
+          "q": "Why do traditional surveys fail?",
+          "a": "They overestimate rational attributes and underestimate sensory/emotional drivers."
         }
       ]
     }
