@@ -17,16 +17,42 @@
     const d = new Date(S.today());
     return Math.abs(Math.floor(d.getTime() / 864e5)) % Math.max(1, len);
   }
+  /* ===== 阅读/对话 状态管理：已读/未读/删除 ===== */
+  function statusOf(id) {
+    const m = S.s.english.status;
+    return (m && m[id] && m[id].s) || '';
+  }
+  function isUnread(id) { const s = statusOf(id); return s !== 'read' && s !== 'deleted'; }
+  function setStatus(id, s) {
+    S.s.english.status = S.s.english.status || {};
+    S.s.english.status[id] = { s: s, at: Date.now() };
+  }
+  function clearStatus(id) { if (S.s.english.status && S.s.english.status[id]) delete S.s.english.status[id]; }
+  function firstUnreadFrom(arr, from) {
+    const n = arr.length; if (!n) return 0;
+    for (let i = 0; i < n; i++) { const idx = (from + i) % n; if (isUnread(arr[idx].id)) return idx; }
+    return from;
+  }
+  function nextUnread(arr, from) { return firstUnreadFrom(arr, from + 1); }
+  function countByStatus(arr) {
+    let unread = 0, read = 0, del = 0;
+    arr.forEach(x => { const s = statusOf(x.id); if (s === 'read') read++; else if (s === 'deleted') del++; else unread++; });
+    return { unread: unread, read: read, del: del };
+  }
+
   function curReading() {
     const arr = window.SEED_READINGS || [];
     const e = S.s.english;
     if (e.stamp !== S.today()) { e.stamp = S.today(); e.readIdx = dayIndex(arr.length); e.dlgIdx = dayIndex(arr.length + 3) % Math.max(1, (window.SEED_DIALOGS || []).length); S.save(true); }
+    if (arr.length) e.readIdx = firstUnreadFrom(arr, e.readIdx);
     return arr[e.readIdx % Math.max(1, arr.length)] || null;
   }
   function curDialog() {
-    const arr = window.SEED_DIALOGS || [];
     curReading();
-    return arr[S.s.english.dlgIdx % Math.max(1, arr.length)] || null;
+    const arr = window.SEED_DIALOGS || [];
+    const e = S.s.english;
+    if (arr.length) e.dlgIdx = firstUnreadFrom(arr, e.dlgIdx);
+    return arr[e.dlgIdx % Math.max(1, arr.length)] || null;
   }
 
   window.Pages.english = function (view) {

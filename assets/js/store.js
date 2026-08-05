@@ -23,7 +23,7 @@
     words: [],
     muses: [],
     sparks: [],
-    english: { readIdx: 0, dlgIdx: 0, stamp: '', doneDays: [] },
+    english: { readIdx: 0, dlgIdx: 0, stamp: '', doneDays: [], status: {} },
     ui: { seeded: false }
   };
 

@@ -862,3 +862,16 @@ body[data-mod="spark"]   .page-title { color: #A7AEB6; }
 .kw-pop .kw-add:hover { background: #564f5c; }
 .kw-pop .kw-close { background: #eef1f4; color: #56616d; }
 .kw-pop .kw-close:hover { background: #e2e7ec; }
+
+/* ===== 英语阅读/对话 已读·未读·删除 状态栏 ===== */
+.eng-statusbar { display:flex; align-items:center; gap:10px; flex-wrap:wrap; padding:10px 14px; background:var(--surface-2); border-radius:12px; }
+.eng-count { font-size:12.5px; color:var(--ink-3); }
+.eng-count b { color:var(--ink); font-weight:600; }
+.eng-panel { background:var(--surface-2); border-radius:12px; padding:14px 16px; }
+.eng-panel .sec-title { margin-bottom:10px; }
+.eng-row { display:flex; align-items:center; gap:10px; padding:8px 10px; border-radius:9px; cursor:pointer; transition:background .15s; }
+.eng-row:hover { background:var(--surface-3); }
+.eng-row-t { font-size:13px; color:var(--ink-2); flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.eng-empty { font-size:12.5px; color:var(--ink-4); padding:8px 4px; }
+.eng-hint { font-size:12px; color:var(--ink-3); background:var(--surface-2); padding:9px 13px; border-radius:10px; }
+.btn.xs { padding:3px 9px; font-size:11px; border-radius:7px; }
