@@ -57,6 +57,11 @@ export function validate(feed) {
         if (seenLinks.has(it.link)) report.warnings.push(`${tag} 与 ${seenLinks.get(it.link)} 重复链接`);
         else seenLinks.set(it.link, tag);
       }
+      // 资讯陈旧拦截：超过 45 天的旧文一律不发（防止"陈年垃圾穿最新外衣"）
+      if (g === 'news' && it.date) {
+        const age = Math.round((Date.now() - new Date(it.date)) / 86400000);
+        if (age > 45) report.critical.push(`${tag} 内容已陈旧(${age}天)，超过45天上限，已拦截`);
+      }
     });
   }
   // 维度多样性检查：防止内容退化成单一视角（用户明确要求"多维度"）

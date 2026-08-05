@@ -103,6 +103,13 @@ function parseHTML(html, base, sel) {
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
             const summary = await deriveSummary(it.link, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
+            // 真实发布日期：拿不到就不伪造，直接跳过（绝不把旧文标成今天）
+            let pubDate = null;
+            if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
+            if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过(不伪造日期)`); continue; }
+            // 陈旧过滤：超过 45 天的一律不要
+            const ageDays = Math.round((Date.now() - pubDate) / 86400000);
+            if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
             add.push({
               title: it.title,
               link: it.link,
@@ -111,8 +118,9 @@ function parseHTML(html, base, sel) {
               dimension: s.dimension || '',
               region: s.region || '',
               summary,
-              date: it.pub ? new Date(it.pub).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10),
-              impact: '（每日自动抓取生成，影响解读待补充；点击原文链接查看完整报道）',
+              date: pubDate.toISOString().slice(0, 10),
+              impact: '',   // 留空，由 AI 解读步骤(enrich)填充后再过闸门
+              action: '',
               origin: s.name,
             });
             seen.add(it.link);
