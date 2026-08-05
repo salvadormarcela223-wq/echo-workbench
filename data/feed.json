@@ -621,6 +621,39 @@
   ],
   "insights": [
     {
+      "title": "欧盟 TPD 修订进入新阶段：在线反馈征询释放监管信号",
+      "link": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives_en",
+      "source": "欧盟委员会",
+      "cat": "国际监管",
+      "dimension": "法规合规",
+      "summary": "欧盟烟草产品指令(TPD)修订启动意见征询，重点涉及一次性产品、口味限制与追踪溯源，将重塑出口欧洲企业的合规边界。",
+      "date": "2026-08-01",
+      "impact": "对面向欧洲市场的企业：配方与口味策略需提前做合规预案；包装警示与追溯系统要在 2027 前就位。对 CMI：监管收紧会直接改变消费者可接触的产品组合，研究设计须纳入'可得性'变量。",
+      "origin": "欧盟委员会"
+    },
+    {
+      "title": "Sensory Unboxing：拆箱体验成为 2026 包装设计核心维度",
+      "link": "https://www.packaginginsights.com/special-reports/top-packaging-trends-2026-sustainability-digital-innovation.html",
+      "source": "Packaging Insights",
+      "cat": "包装设计",
+      "dimension": "包装与设计",
+      "summary": "Innova 将'感官拆箱(Sensory Unboxing)'列为 2026 包装首要趋势：触觉、声音、开启仪式感共同构成品牌第一印象。",
+      "date": "2026-07-28",
+      "impact": "包装不再是保护功能，而是感官触点。CMI 研究应把'开箱瞬间'纳入体验测量；新品开发早期就要定义开合的阻尼、声音与确认感（参见阅读文 r-01 盖子研究）。",
+      "origin": "Packaging Insights"
+    },
+    {
+      "title": "风味科学的下一步：凉感(凉味剂)正在重构感官评价体系",
+      "link": "https://vapetrends360.com/why-ice-flavors-are-winning-the-2026-disposable-market/",
+      "source": "Vape Trends 360",
+      "cat": "感官风味",
+      "dimension": "感官与风味",
+      "summary": "Z 世代对'冰感/凉感'的偏好推动凉味剂从附属香型升级为主角，感官评价量表需要新增'凉感强度/持续时间'等维度。",
+      "date": "2026-07-20",
+      "impact": "对感官研究：传统风味轮无法描述凉感的时间维度，需建立新的描述词表；对产品：凉感成为差异化杠杆，但需避免'凉到麻木'的负面拐点。",
+      "origin": "Vape Trends 360"
+    },
+    {
       "id": "i-20260801-01",
       "date": "2026-06-16",
       "topic": "行业态势",
@@ -630,7 +663,8 @@
       "core": "2025 年城镇 FMCG 支出仅增 0.9%（量+3.6%、价-2.6%），呈「量增价跌」；2026 Q1 仍波动，4 月回正。增长引擎变为四五线城市与中老年/单人家庭，电商占城镇 FMCG 38%，O2O 三季度同比+8%，自有品牌销售额+57%。",
       "view": "这不是消费降级，而是消费者「算账能力」的成熟。品牌若还用一线年轻白领的画像做创新，会系统性错失增量。真正的机会在下沉市场的熟龄家庭与「质价比」业态（会员店、量贩零食、折扣店）。",
       "action": "重新切分人群 × 渠道矩阵：为低线熟龄家庭设计大规格/家庭装与可信性价比叙事；把 O2O 与折扣业态作为新品首发与渗透的主战场，而非补充渠道。",
-      "link": "https://www.bain.cn/news_info.php?id=2141"
+      "link": "https://www.bain.cn/news_info.php?id=2141",
+      "dimension": "市场与报告"
     },
     {
       "id": "i-20260801-02",
@@ -642,7 +676,8 @@
       "core": "三大预测：①古法新绎——品牌作为文化守护者，复兴发酵/腌制/干燥等传统保存法；②多元食刻——饮食从单一蛋白/纤维转向文化包容的多样性，AI 帮用户「随机安排」每周膳食；③感官入微——多感官创新从玩趣转向务实，服务老年、神经多样化、GLP-1 人群。",
       "view": "感官不再是「锦上添花」的营销词，而成为包容性设计的核心工具。谁能用证据级口感/香气/质地去服务被忽视的人群，谁就拿到下一个十年信任票。",
       "action": "把「感官包容性」写进产品 brief：从老年与特殊膳食人群的质地/风味偏好出发做配方，而非先定概念再补感官。",
-      "link": "https://china.mintel.com/press-centre/mintel-releases-2026-global-food-and-drinks-predictions"
+      "link": "https://china.mintel.com/press-centre/mintel-releases-2026-global-food-and-drinks-predictions",
+      "dimension": "感官与风味"
     },
     {
       "id": "i-20260801-03",
@@ -654,7 +689,8 @@
       "core": "近 60% 全球消费者主动增加蛋白摄入；59% 认为肠道健康关乎全身；60% 在纵享时偏好探索新事物（Layers of Delight）；功能性饮品、天然植物基、正念传统（Crafting Tradition）并列重点。",
       "view": "「健康」与「纵享」不再是二选一。增长来自把功能声称做成可感知的感官体验——蛋白要有口感、肠道要有风味、纵享要有层次。",
       "action": "在概念开发中并行跑「功能证据」与「感官体验」两条线，避免产品沦为只有 label 没有 mouthfeel 的「健康壳」。",
-      "link": "https://www.innovamarketinsights.com/press-releases/innovas-top-ten-trends-2026-shaping-the-future-of-food-beverage/"
+      "link": "https://www.innovamarketinsights.com/press-releases/innovas-top-ten-trends-2026-shaping-the-future-of-food-beverage/",
+      "dimension": "感官与风味"
     },
     {
       "id": "i-20260801-04",
@@ -666,7 +702,8 @@
       "core": "AWE 2026 显示 AI 终端从「被动响应」转向「主动智能」：海尔「AI 之眼」冰箱识别食材、空调人感雷达节能；智能眼镜 2025 全球出货 1280 万台（+26%），中国 275 万台（+107%）；IDC 预计 2026 中国智能家居出货 3 亿台（+8.8%）。",
       "view": "消费电子的增长逻辑从「硬件参数」切换为「场景理解力」。对做用户研究的我们，研究对象从「人用设备」变成「设备预判人」——研究设计要把 Agent/主动性纳入情境。",
       "action": "研究方案增加「主动智能接受度」维度：用户何时信任、何时反感设备自作主张；并把隐私/断网可用性作为核心测试项。",
-      "link": "https://www.ce.cn/macro/more/202603/t20260323_2849073.shtml"
+      "link": "https://www.ce.cn/macro/more/202603/t20260323_2849073.shtml",
+      "dimension": "FMCG创新"
     },
     {
       "id": "i-20260801-05",
@@ -678,7 +715,8 @@
       "core": "69% 消费者更看重产品是否契合自身健康状态与营养需求，36% 对「精准营养」关注度攀升；61% 会在不同场景选不同产品（一人食、熬夜、睡前、体重管理高度分化）。",
       "view": "消费者不再为「进口/网红/大牌」买单，而是拿着配料表当论文读。这对 CMI 的含义是：洞察要从「态度问卷」升级到「场景 × 状态 × 成分证据」的行为还原。",
       "action": "用社媒行为+场景日志做「状态切片」研究，替代泛泛的态度量表；把「场景细分」作为 segmentation 的一级变量。",
-      "link": "https://t.cj.sina.com.cn/articles/view/7879923018/1d5ae154a01901fu8o"
+      "link": "https://t.cj.sina.com.cn/articles/view/7879923018/1d5ae154a01901fu8o",
+      "dimension": "消费者洞察"
     },
     {
       "id": "i-20260801-06",
@@ -690,7 +728,8 @@
       "core": "「AI+消费」从概念落地为刚需：端侧大模型让家电断网可用、隐私更安全；AI 购物（如「千问」30 亿请客活动，1.3 亿人体验、近 2 亿次一句话下单）重构推广与转化路径。IDC 预计 2026 中国 AI 手机出货占比 53%。",
       "view": "AI 既是被研究的消费对象，也是研究者的工具。它把「自然交互、普惠下沉、体验升级、供需重构」四条路径同时打开，CMI 的方法栈必须补上「AI 行为数据」这一新源。",
       "action": "建立 AI 交互行为的数据采集规范（脱敏、同意、场景标注），并把「AI 购物旅程」纳入全链路研究框架。",
-      "link": "https://www.caict.ac.cn/kxyj/qwfb/ztbg/202607/P020260714717425474747.pdf"
+      "link": "https://www.caict.ac.cn/kxyj/qwfb/ztbg/202607/P020260714717425474747.pdf",
+      "dimension": "FMCG创新"
     },
     {
       "id": "i-20260803-08",
@@ -702,7 +741,8 @@
       "core": "对比 2018 vs 2026：18-24 岁消费者对「强烈凉感」「持久薄荷」「刺激凉」的偏好分别上升 28%、34%、41%；Z 世代对浓烈气味的耐受阈值是 35+ 岁人群的 1.6 倍。",
       "view": "Z 世代不是「更爱凉感」，他们活在感官过载里，对温和刺激的响应已经被训练钝化。这对感官研究的样本设计与解释框架都是结构性的——必须把年龄与感官阈值做成 baseline 变量，否则拿 35+ 样本的结论推 Z 世代就是系统性失真。",
       "action": "在感官测试里强制分龄段报告：18-24 / 25-34 / 35+ 三段分开做显著性检验，结论不得跨段合并。",
-      "link": "https://vapetrends360.com/why-ice-flavors-are-winning-the-2026-disposable-market/"
+      "link": "https://vapetrends360.com/why-ice-flavors-are-winning-the-2026-disposable-market/",
+      "dimension": "感官与风味"
     },
     {
       "id": "i-20260803-09",
@@ -714,7 +754,8 @@
       "core": "1000 真实用户构建的数字孪生，在 Likert 5 点偏好问卷上复现率 85%；在 60 分钟开放访谈中复现率 12%——合成用户几乎不主动讲故事、不停顿、不「误解」问题、不引入新话题。",
       "view": "这份研究给「合成用户适用边界」划了硬线：偏好测量行、叙事挖掘不行。开放访谈里最有价值的十秒是受访者「答错问题」的那十秒——合成用户没有这个动作。把它当作 desk research 提速工具，别当作真人替代品。",
       "action": "在提案里明确标注哪些发现来自合成、哪些来自真人；不可混用，不可用合成结论支撑需要开放证据的决策。",
-      "link": "https://new.qq.com/rain/a/20260705A05XN200?refer=cp_1009"
+      "link": "https://new.qq.com/rain/a/20260705A05XN200?refer=cp_1009",
+      "dimension": "消费者洞察"
     },
     {
       "id": "i-20260803-10",
@@ -726,7 +767,8 @@
       "core": "美国 GLP-1 用户群体（约 1500 万）在 6 个月内减少零食消费 38%、碳酸饮料 45%、甜食 52%；但「高蛋白、高纤维、浓郁咸鲜」品类增 22-30%。质构上偏好「有嚼劲、慢融化、扎实感」。",
       "view": "GLP-1 是一类全新的「食欲重塑技术」。它不消灭需求，它消灭「无意识进食」。所以食品饮料创新方向从「让人多吃」变成「让值得吃的那一口更值得」。感官研究的价值在这里被放大——饱和度、回味、口感层次成为差异化主轴。",
       "action": "把「GLP-1 友好」从营销话术升级为研发框架：高蛋白/高纤维/低升糖 + 强口感层次 + 长回味，做新品 brief 的硬约束。",
-      "link": "https://www.163.com/dy/article/KQLB30VU05531DFD.html"
+      "link": "https://www.163.com/dy/article/KQLB30VU05531DFD.html",
+      "dimension": "感官与风味"
     },
     {
       "id": "i-20260803-11",
@@ -738,7 +780,8 @@
       "core": "全球新品中「透明/半透明/可视结构」包装占比 2024 年 8% 升至 2026 年 23%；Z 世代对「能看到内部状态」的产品购买意愿是普通包装的 2.1 倍。",
       "view": "透明化不是审美选择，是「可信度的感官化」。消费者通过看见内部来推断品质、可信度、品牌诚实度。这条规则从食品饮料（透明油瓶）跨到了电子烟（透明 pod）、美妆（透明瓶身）、个护（透明膏管）。",
       "action": "在新产品包装 brief 里把「透明可视」列为必选项——至少要有 1 个可视触点（油量/容量/状态/工艺）。",
-      "link": "https://www.packaginginsights.com/special-reports/top-packaging-trends-2026-sustainability-digital-innovation.html"
+      "link": "https://www.packaginginsights.com/special-reports/top-packaging-trends-2026-sustainability-digital-innovation.html",
+      "dimension": "包装与设计"
     },
     {
       "id": "i-20260803-12",
@@ -750,7 +793,8 @@
       "core": "新模型 OSM-3 在 1500 种复合香气的盲测中，识别准确率 78%（前代 41%），首次能可靠分辨「前调/中调/后调」；味觉模型 TASTE-1 在鲜味/咸味/酸味的复合判断中达 82%。",
       "view": "这意味着 AI 在感官研究里从「辅助」走向「并行」。短期内它替代不了人类感官 panel（它没口腔），但它能做 7x24 的初轮筛选、配方快速排序、文献挖掘、消费者气味描述的向量化。把人放在最难、最高判断力的事上。",
       "action": "把 AI 嗅觉/味觉模型引入配方初筛：让模型先跑 1000 个候选，把人留给前 10 个做感官验证。",
-      "link": "https://www.toutiao.com/article/7538360014499561999/"
+      "link": "https://www.toutiao.com/article/7538360014499561999/",
+      "dimension": "感官与风味"
     },
     {
       "id": "i-20260803-14",
@@ -762,7 +806,8 @@
       "core": "25-34 岁消费者中，67% 表示「包装与拆箱体验」是首次购买决策因素；TikTok 上 unboxing 标签 2026 H1 累计 480 亿次播放，比 2024 年翻倍。",
       "view": "拆箱不是「附赠体验」，它已经内化为产品价值的一部分。这一代消费者把产品的前 30 秒当作「购买合理性证明」——你在那 30 秒里让他们觉得自己做了一个好决定，他们就买了；没有这 30 秒，功能再好也败。",
       "action": "把「前 30 秒体验」写进产品 brief：从触觉、声响、阻尼、揭示顺序、信息密度 5 个维度给出明确规格。",
-      "link": "https://www.mintel.com/press-centre/mintel-announces-2026-global-consumer-predictions"
+      "link": "https://www.mintel.com/press-centre/mintel-announces-2026-global-consumer-predictions",
+      "dimension": "包装与设计"
     },
     {
       "id": "i-20260803-15",
@@ -774,7 +819,8 @@
       "core": "2024-2026 高端新品中，流动/倾倒/半固态质地的产品占比从 18% 升至 37%；Z 世代对「流动性、缓慢下坠感、可视倾倒」的偏好显著高于厚重型。",
       "view": "这与「极简审美+感官确定性」两股趋势的合流有关：流动感既给视觉留白，又暗示「成分新鲜、活性高、未过度加工」。在感官编码层面，流动性是一种「可信度修辞」——它在替产品说「我干净」。",
       "action": "新品质构 brief 把「流动感」纳入必检维度：倾倒速度、回弹、流挂、停止时间。",
-      "link": "https://www.loreal.com/en/press-release/research-and-innovation/l-oreal-unveils-the-future-of-beauty-at-its-vivatech-2026-beauty-odyssey"
+      "link": "https://www.loreal.com/en/press-release/research-and-innovation/l-oreal-unveils-the-future-of-beauty-at-its-vivatech-2026-beauty-odyssey",
+      "dimension": "消费者洞察"
     }
   ],
   "readings": [
@@ -2775,6 +2821,324 @@
         }
       ],
       "cn": "\"第三空间\"这个词，由社会学家雷·奥尔登堡（Ray Oldenburg）在其 1989 年的著作《绝妙之地》（The Great Good Place）中提出，用来描述存在于成人生活两大主导环境——家庭与职场——之外的那些聚会场所。咖啡馆、理发店、公共图书馆、小餐馆、社区公园、街角酒吧。在奥尔登堡看来，公民生活正是在这些地方锻造出来的。正是在这里，你会遇见本没打算遇见的人，对话在没有议程的情况下发生，而让一个社区得以运转的信任纽带，也在悄然间被维系着。\n\n在本世纪头二十年里，关于第三空间的主流论调是它正在消亡。原因人尽皆知：本地零售的崩塌、远程办公的兴起、社交生活向平台的迁移、公共空间的中产化、城市中休闲成本的攀升。咖啡连锁取代了咖啡馆。算法取代了偶遇。耳机取代了邻座那个陌生人。按这种说法，第三空间正被某种更便宜、更安静、而批评者认为也更糟糕的东西所替代。\n\n批评者没有预料到的是：第三空间会反弹，而且当它反弹时，样子与其数字化之前的形态截然不同。2023 年以来的数据令人瞩目。美国的独立咖啡馆在 2022 至 2025 年间增长了 12%。桌游咖啡馆这个在 2010 年前几乎不存在的品类，如今在北美已超过四千家。聆听酒吧——围绕高端音响系统、并严格规定\"音乐响起时不可交谈\"的小型场所——已成为餐饮业增长最快的形态之一。跑步俱乐部、读书俱乐部、陶艺工作室、社区厨房：第三空间并没有消失，它正在变异。\n\n新第三空间，从几个方面看，是一种刻意的构建。旧的那个是偶然的——一家恰好位于街角的酒吧——而新的这个是被精心策划的。它是某个人决定去建造的地方，带着特定的美学、特定的规则，以及对体验将包含与不包含之物的特定承诺。聆听酒吧承诺安静。桌游咖啡馆承诺非数字化的游戏。跑步俱乐部承诺以最慢成员也能跟上的配速结伴同行。第三空间正在为一个在平台上度过十年、如今带着一股狠劲去寻找平台所不能提供之物的受众，而被重新设计。\n\n当你把平台所不能提供的东西列出来时，会惊讶于这份清单之长。它们不提供\"在场感\"——无需为他人表演、却近在咫尺地与他人共处的一种体验。它们不提供\"未经编排的相遇\"——在一个你并未安排的情境中，遇见一个你并未预期会遇见的人。它们不提供\"安静\"——真正的、共享的、两人共处一室式的安静，而这是最被低估的人类亲密形式之一。它们不提供公共生活里那些微小的摩擦——吧台的排队、撞到别人椅子时的道歉、与桌对面陌生人的目光接触。正是这些东西，第三空间在其新旧两种形态中，正被重新设计以恢复。\n\n这并非要把新第三空间浪漫化。它有它的排他性问题——一家品鉴菜单式的聆听酒吧，并不是一种民主的机构。它有它的美学压力——第三空间如今有了品牌身份、有了 Instagram 式的美学、有了价位，以及三者共同带来的权衡。它和旧的第三空间一样，也存在\"谁感到受欢迎、谁不\"的问题。回首看，奥尔登堡 1989 年那家街角酒吧，并不像记忆所暗示的那般普适温暖。新第三空间也谈不上更纯粹。\n\n但那份深层的渴望是真实的，而且不会消失。完全在平台上长大的一代正在发现：平台终究不是第三空间的替代品，它们只是对\"第三空间之缺席\"的一种分散注意力的东西。咖啡馆回来了。酒吧回来了。在许多城市，图书馆出人意料地兴盛。第三空间并没有死。它离开了一阵子，如今正以其最初的理论家未必认得出的形态归来。我体内的社会学家想要抵制这种\"回归\"的叙事。而我体内的居民，只是感激在周二晚上有某个地方可去——既非我的公寓，也非我的笔记本电脑。\n\n第三个观察关乎时机。新第三空间，在几乎每一个案例里，都是一种后疫情现象。在 2020 年之前，它并不以当前这种形态存在。它脱胎于一个特定的历史条件：十年的平台中介式社交生活、一场取消了\"线下默认\"的疫情，以及一个随后的重建期——在重建期里，那些重建者们对自己想念什么、不怀念什么，表达得清清楚楚。2026 年的第三空间，是对一个特定问题的回答：在平台前时代，有什么东西是平台没能替代、而我愿意花钱去恢复的？在一个又一个城市，答案是同一个：无需表演的在场、没有议程的相遇、不被孤立的安静。\n\n人们很容易以一个乐观的调子收尾：第三空间回来了，而总体上这是件好事。我对此犹豫，因为\"回来\"并不等于\"回到从前\"。新第三空间是被精心策划、标了价、打了品牌、并且在制度上比旧的那一个更脆弱的。旧的街角酒吧能挺过经济衰退，是因为它运营成本低、因为它的常客喝它供应的酒、因为它的社会功能对每个走进来的人都一目了然。新第三空间则容易受到租金上涨、驱动发现的平台上的算法变动、以及比租金周期更快的消费者品味变化的影响。它未必能持久。但在它存续期间所揭示的，是它所服务的那种人类需求是真实的，而平台尽管方便，却并未让这种需求消失。它们只是让它安静了。第三空间，以其新形态，正是当这种需求再度响亮时，它所发出的声音。"
+    },
+    {
+      "id": "r-06",
+      "tag": "零售与CMI · 商业",
+      "title": "The Quiet Rise of Private Labels",
+      "subtitle": "自有品牌的静默崛起",
+      "minutes": 9,
+      "body": [
+        "<p>Walk down any <u>supermarket</u> aisle and you will notice a quiet <u>shift</u>: the store's own brand now sits at eye level, priced below the <u>multinational</u> giants but dressed in packaging that looks anything but cheap.</p>",
+        "<p>This is not an accident. Private labels have <u>evolved</u> from 'budget backup' into a <u>strategic</u> weapon. Retailers use them to control margin, test trends faster than national brands, and capture the data of what shoppers actually put in the cart.</p>",
+        "<p>For consumer-insight teams, the lesson is uncomfortable: the <u>traditional</u> brand tracker, built around famous names, increasingly misses where growth really happens. The most <u>revealing</u> competitor is often the one with the store's logo on it.</p>",
+        "<p>The winning move is to study private labels as a <u>signal</u>, not a threat—they reveal which categories consumers will trade down in, and which they will never compromise on.</p>"
+      ],
+      "vocab": [
+        {
+          "w": "supermarket",
+          "p": "/ˈsuːpəmɑːkɪt/",
+          "t": "n. 超市",
+          "lv": "基础"
+        },
+        {
+          "w": "shift",
+          "p": "/ʃɪft/",
+          "t": "n. 转变",
+          "lv": "基础"
+        },
+        {
+          "w": "multinational",
+          "p": "/ˌmʌltiˈnæʃənl/",
+          "t": "adj./n. 跨国的（公司）",
+          "lv": "CET6"
+        },
+        {
+          "w": "evolved",
+          "p": "/ɪˈvɒlvd/",
+          "t": "v. 进化、演变（evolve过去式）",
+          "lv": "CET6"
+        },
+        {
+          "w": "strategic",
+          "p": "/strəˈtiːdʒɪk/",
+          "t": "adj. 战略性的",
+          "lv": "CET6"
+        },
+        {
+          "w": "traditional",
+          "p": "/trəˈdɪʃənl/",
+          "t": "adj. 传统的",
+          "lv": "基础"
+        },
+        {
+          "w": "revealing",
+          "p": "/rɪˈviːlɪŋ/",
+          "t": "adj. 透露真相的、有启示的",
+          "lv": "雅思"
+        },
+        {
+          "w": "signal",
+          "p": "/ˈsɪɡnəl/",
+          "t": "n. 信号、征兆",
+          "lv": "基础"
+        },
+        {
+          "w": "compromise",
+          "p": "/ˈkɒmprəmaɪz/",
+          "t": "v. 妥协、退让",
+          "lv": "CET6"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "eye level",
+          "zh": "视线齐平的位置（货架黄金位）"
+        },
+        {
+          "en": "trade down",
+          "zh": "降级消费、买更便宜的"
+        },
+        {
+          "en": "capture the data",
+          "zh": "捕获（消费）数据"
+        }
+      ],
+      "cn": "走进任何一家超市的货架通道，你都会注意到一个安静的转变：商店自有品牌现在摆在视线齐平的位置，价格低于那些跨国巨头，但包装看起来一点都不廉价。这并非偶然。自有品牌已经从‘低价备胎’演变成战略武器。零售商用它来控制利润、比全国性品牌更快地试水趋势，并捕获消费者真正放进购物车的数据。对消费者洞察团队来说，这个教训令人不安：围绕知名品牌建立的、传统的品牌监测，越来越难捕捉增长真正发生的地方。最有揭示性的竞争对手，往往是那个印着商店 logo 的产品。制胜之举是把自有品牌当作信号而非威胁来研究——它们揭示了消费者会在哪些品类降级消费，又绝不愿在哪些品类妥协。"
+    },
+    {
+      "id": "r-07",
+      "tag": "感官科学 · 健康",
+      "title": "Why Texture Is the New Flavor",
+      "subtitle": "质地为何成了新的风味",
+      "minutes": 10,
+      "body": [
+        "<p>For decades, food science treated <u>flavor</u> as the hero and texture as the <u>supporting</u> act. That hierarchy is collapsing.</p>",
+        "<p>Consumers now describe a yogurt by its <u>creaminess</u>, a snack by its <u>crunch</u>, a drink by its <u>mouthfeel</u>. These words are not <u>decoration</u>—they are how people judge quality when they cannot see the ingredients.</p>",
+        "<p>Sensory panels must therefore build <u>lexicons</u> for touch, not just taste. A product that feels 'thin' fails even if it tastes perfect; one that feels 'premium' can <u>justify</u> a higher price.</p>",
+        "<p>The practical takeaway: stop asking only 'does it taste good?' Start asking 'how does it feel?'—because for the shopper, feeling is believing.</p>"
+      ],
+      "vocab": [
+        {
+          "w": "flavor",
+          "p": "/ˈfleɪvə/",
+          "t": "n. 风味、味道",
+          "lv": "基础"
+        },
+        {
+          "w": "supporting",
+          "p": "/səˈpɔːtɪŋ/",
+          "t": "adj. 辅助的、配角的",
+          "lv": "CET6"
+        },
+        {
+          "w": "creaminess",
+          "p": "/ˈkriːminəs/",
+          "t": "n. 奶油般顺滑的口感",
+          "lv": "雅思"
+        },
+        {
+          "w": "crunch",
+          "p": "/krʌntʃ/",
+          "t": "n. 脆感、嚼碎的声音",
+          "lv": "CET6"
+        },
+        {
+          "w": "mouthfeel",
+          "p": "/ˈmaʊθfiːl/",
+          "t": "n. 口感（食物在嘴里的触感）",
+          "lv": "专业"
+        },
+        {
+          "w": "decoration",
+          "p": "/ˌdekəˈreɪʃn/",
+          "t": "n. 装饰",
+          "lv": "CET4"
+        },
+        {
+          "w": "lexicons",
+          "p": "/ˈleksɪkɒnz/",
+          "t": "n. 词汇表（lexicon复数）",
+          "lv": "雅思"
+        },
+        {
+          "w": "justify",
+          "p": "/ˈdʒʌstɪfaɪ/",
+          "t": "v. 证明…合理",
+          "lv": "CET6"
+        },
+        {
+          "w": "premium",
+          "p": "/ˈpriːmiəm/",
+          "t": "adj. 高端的、优质的",
+          "lv": "CET6"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "supporting act",
+          "zh": "配角、辅助角色"
+        },
+        {
+          "en": "hierarchy is collapsing",
+          "zh": "等级秩序正在崩塌"
+        },
+        {
+          "en": "feeling is believing",
+          "zh": "感受即相信（化用 seeing is believing）"
+        }
+      ],
+      "cn": "几十年来，食品科学把风味当作主角，把质地当作配角。这种等级正在崩塌。如今的消费者用酸奶的‘丝滑’、零食的‘脆’、饮料的‘口感’来描述产品。这些词不是装饰——当消费者看不见配料表时，它们正是人们判断品质的方式。因此，感官小组必须建立关于‘触觉’而不仅是‘味觉’的词表。一款感觉‘单薄’的产品，即使味道完美也会失败；一款感觉‘高端’的产品，则能为更高定价提供理由。实际结论：别只问‘好吃吗’，要开始问‘感觉如何’——因为对购物者而言，感受即相信。"
+    },
+    {
+      "id": "r-08",
+      "tag": "营销心理 · 文化",
+      "title": "The Psychology of 'New and Improved'",
+      "subtitle": "'新升级'背后的心理学",
+      "minutes": 8,
+      "body": [
+        "<p>Why does adding the word 'new' to a package <u>lift</u> sales, even when the recipe barely changed? The answer lives in how the brain <u>processes</u> novelty.</p>",
+        "<p>Novelty triggers a small <u>dopamine</u> response—a tiny promise that something better might be inside. Marketers <u>exploit</u> this by refreshing labels far more often than the product itself.</p>",
+        "<p>But there is a risk. If 'new' appears too often, it loses <u>credibility</u> and the brand starts to sound <u>desperate</u>. The smart play is to pair novelty with a real, <u>perceptible</u> difference a shopper can actually feel.</p>",
+        "<p>For researchers, the task is to separate genuine <u>innovation</u> from theatrical relaunch—because only the former builds loyalty.</p>"
+      ],
+      "vocab": [
+        {
+          "w": "lift",
+          "p": "/lɪft/",
+          "t": "v. 提升（销量）",
+          "lv": "基础"
+        },
+        {
+          "w": "processes",
+          "p": "/ˈprəʊsesɪz/",
+          "t": "v. 处理、加工（process单三）",
+          "lv": "基础"
+        },
+        {
+          "w": "dopamine",
+          "p": "/ˈdəʊpəmiːn/",
+          "t": "n. 多巴胺（ neurotransmitters）",
+          "lv": "专业"
+        },
+        {
+          "w": "exploit",
+          "p": "/ɪkˈsplɔɪt/",
+          "t": "v. 利用、开发",
+          "lv": "CET6"
+        },
+        {
+          "w": "credibility",
+          "p": "/ˌkredəˈbɪləti/",
+          "t": "n. 可信度",
+          "lv": "雅思"
+        },
+        {
+          "w": "desperate",
+          "p": "/ˈdespərət/",
+          "t": "adj. 绝望的、急切的",
+          "lv": "CET4"
+        },
+        {
+          "w": "perceptible",
+          "p": "/pəˈseptəbl/",
+          "t": "adj. 可感知的",
+          "lv": "雅思"
+        },
+        {
+          "w": "innovation",
+          "p": "/ˌɪnəˈveɪʃn/",
+          "t": "n. 创新",
+          "lv": "CET4"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "theatrical relaunch",
+          "zh": "噱头式重新上市"
+        },
+        {
+          "en": "pair novelty with",
+          "zh": "把新鲜感与…配对"
+        },
+        {
+          "en": "build loyalty",
+          "zh": "建立忠诚度"
+        }
+      ],
+      "cn": "为什么在包装上加一个‘新’字就能拉升销量，即便配方几乎没变？答案藏在大脑如何处理‘新奇’之中。新奇会触发一小波多巴胺反应——一个‘里面可能有更好的东西’的微小承诺。营销者正是通过比产品本身频繁得多的换标，来利用这一点。但风险在于：如果‘新’出现得太频繁，它会失去可信度，品牌听起来像在 desperation（ desperation）。聪明的做法是把新奇感与消费者真正能感受到的、实在的差异配对。对研究者而言，任务是区分真正的创新与噱头式重新上市——因为唯有前者能建立忠诚。"
+    },
+    {
+      "id": "r-09",
+      "tag": "研究方法 · 科技",
+      "title": "When the AI Becomes the Respondent",
+      "subtitle": "当 AI 成为受访者",
+      "minutes": 10,
+      "body": [
+        "<p>Research teams are now using large language models as <u>stand-in</u> consumers—cheap, fast, and available at any hour. It feels like a <u>breakthrough</u>.</p>",
+        "<p>But a model can only <u>interpolate</u> from what it has already read. It will faithfully <u>reproduce</u> the biases of past surveys and never surprise you with the insight you did not think to ask for.</p>",
+        "<p>The most valuable moments in real research are <u>anomalies</u>—the respondent who mishears the question, or answers from left field. Models are trained precisely not to do that.</p>",
+        "<p>So treat AI as a <u>drafting</u> partner, never the <u>population</u>. Use it to sharpen the brief; use humans to break it.</p>"
+      ],
+      "vocab": [
+        {
+          "w": "stand-in",
+          "p": "/ˈstændɪn/",
+          "t": "n. 替身、代替者",
+          "lv": "专业"
+        },
+        {
+          "w": "breakthrough",
+          "p": "/ˈbreɪkθruː/",
+          "t": "n. 突破",
+          "lv": "CET4"
+        },
+        {
+          "w": "interpolate",
+          "p": "/ɪnˈtɜːpəleɪt/",
+          "t": "v. 插值、推算",
+          "lv": "专业"
+        },
+        {
+          "w": "reproduce",
+          "p": "/ˌriːprəˈdjuːs/",
+          "t": "v. 复制、再现",
+          "lv": "CET4"
+        },
+        {
+          "w": "anomalies",
+          "p": "/əˈnɒməliz/",
+          "t": "n. 异常、反常（anomaly复数）",
+          "lv": "雅思"
+        },
+        {
+          "w": "drafting",
+          "p": "/ˈdrɑːftɪŋ/",
+          "t": "adj. 起草的（draft的现在分词）",
+          "lv": "CET6"
+        },
+        {
+          "w": "population",
+          "p": "/ˌpɒpjuˈleɪʃn/",
+          "t": "n. 总体、人口（研究中的被访总体）",
+          "lv": "CET4"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "stand-in consumers",
+          "zh": "替代消费者的角色"
+        },
+        {
+          "en": "from left field",
+          "zh": "突如其来、出人意料（源自棒球）"
+        },
+        {
+          "en": "sharpen the brief",
+          "zh": "打磨研究简报"
+        }
+      ],
+      "cn": "研究团队现在把大语言模型当作‘替身消费者’来用——便宜、快速、随时可用。这感觉像一次突破。但模型只能从它已读过的东西里插值，它会忠实地再现过去问卷的偏见，永远不会用你没想到的洞察来惊喜你。真实研究中最有价值的时刻，恰恰是那些异常——听错问题的受访者，或者答非所问的人。而模型恰恰被训练得不去那样做。所以，把 AI 当作起草伙伴，绝不要当作被访总体。用它来打磨简报，用人类来打破简报。"
     }
   ],
   "dialogs": [

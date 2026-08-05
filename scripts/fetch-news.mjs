@@ -1,5 +1,8 @@
+// 每日自动抓取：从可信源抓新闻/洞察 → 过滤假深链与空字段 → 写入 feed.json。
+// 关键：写入前先过「质量闸门」(validate-feed.mjs)。任何空字段/假链接/死链都不会进线上。
 import fs from 'fs';
 import path from 'path';
+import { validate } from './validate-feed.mjs';
 
 const ROOT = path.resolve('.');
 const sources = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/sources.json'), 'utf-8'));
@@ -14,13 +17,9 @@ function clean(s) {
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
     .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&#39;/g, "'")
-    .replace(/&quot;/g, '"')
-    .replace(/\s+/g, ' ')
-    .trim();
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+    .replace(/\s+/g, ' ').trim();
 }
 
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Categories|Topics|RSS)$/i;
@@ -29,6 +28,20 @@ async function getText(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
   return await r.text();
+}
+
+// 从文章页抽取第一段作为要点摘要（保证不为空）
+async function deriveSummary(link, fallback) {
+  if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
+  try {
+    const html = await getText(link);
+    const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
+    for (const p of ps) {
+      const t = clean(p);
+      if (t.length >= 40) return t.slice(0, 160);
+    }
+  } catch (e) { }
+  return fallback ? clean(fallback).slice(0, 160) : '';
 }
 
 function parseRSS(xml) {
@@ -51,9 +64,8 @@ function parseHTML(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp('<a[^>]+href="([^"]*' + esc + '[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
-  let m;
-  let basePath = '';
-  try { basePath = new URL(base).pathname.replace(/\/$/, ''); } catch (e) {}
+  let m; let basePath = '';
+  try { basePath = new URL(base).pathname.replace(/\/$/, ''); } catch (e) { }
   while ((m = re.exec(html))) {
     try {
       const href = new URL(m[1], base).href;
@@ -61,20 +73,18 @@ function parseHTML(html, base, sel) {
       const title = clean(m[2]);
       if (!title || title.length < 4) continue;
       if (GENERIC.test(title)) continue;
-      if (u.pathname.replace(/\/$/, '') === basePath) continue; // 跳过自身/导航首页
-      if (!/^(首页|更多|登录|注册)/i.test(title)) {
-        out.push({ title, link: href, pub: '', desc: '' });
-      }
-    } catch (e) {}
+      if (u.pathname.replace(/\/$/, '') === basePath) continue;
+      if (!/^(首页|更多|登录|注册)/i.test(title)) out.push({ title, link: href, pub: '', desc: '' });
+    } catch (e) { }
   }
-  const seen = new Set();
-  const uniq = [];
+  const seen = new Set(); const uniq = [];
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
   return uniq.slice(0, 15);
 }
 
 (async () => {
   let newCount = 0;
+  const rejected = [];
   for (const grp of ['news', 'insights']) {
     for (const s of sources[grp]) {
       try {
@@ -85,16 +95,28 @@ function parseHTML(html, base, sel) {
         if (writeBack && feed) {
           const arr = feed[grp] || [];
           const seen = new Set(arr.map((x) => x.link));
-          const add = items.filter((it) => !seen.has(it.link)).map((it) => ({
-            title: it.title,
-            link: it.link,
-            source: s.name,
-            cat: s.cat || '',
-            summary: it.desc || '',
-            date: it.pub ? new Date(it.pub).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10),
-            impact: '（每日自动抓取生成，影响解读待补充；点击原文链接查看完整报道）',
-            origin: s.name,
-          }));
+          const add = [];
+          for (const it of items) {
+            if (seen.has(it.link)) continue;
+            // 质量闸门：链接必须是真实深链
+            const lq = (await import('./validate-feed.mjs')).linkQuality(it.link);
+            if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
+            const summary = await deriveSummary(it.link, it.desc);
+            if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
+            add.push({
+              title: it.title,
+              link: it.link,
+              source: s.name,
+              cat: s.cat || '',
+              dimension: s.dimension || '',
+              region: s.region || '',
+              summary,
+              date: it.pub ? new Date(it.pub).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10),
+              impact: '（每日自动抓取生成，影响解读待补充；点击原文链接查看完整报道）',
+              origin: s.name,
+            });
+            seen.add(it.link);
+          }
           feed[grp] = add.concat(arr).slice(0, 60);
           newCount += add.length;
           if (add.length) console.log(`  >> 新增 ${add.length} 条`);
@@ -105,9 +127,17 @@ function parseHTML(html, base, sel) {
     }
   }
   if (writeBack && feed) {
+    // 写入前再过一次闸门：任何致命问题都阻止发布
+    const report = validate(feed);
+    if (!report.ok) {
+      console.log('\n❌ 质量闸门未通过，已拒绝写入线上文件。致命问题：');
+      report.critical.slice(0, 30).forEach((c) => console.log('  ✗ ' + c));
+      if (rejected.length) { console.log('本次抓取被拦截：'); rejected.forEach((r) => console.log('  – ' + r)); }
+      fs.writeFileSync(path.join(ROOT, 'data/feed-quarantine.json'), JSON.stringify({ rejected, critical: report.critical }, null, 2));
+      process.exit(1);
+    }
     fs.writeFileSync(path.join(ROOT, 'data/feed.json'), JSON.stringify(feed, null, 2));
     if (newCount > 0) {
-      // 仅在有新增时刷新防缓存版本号（每次唯一，确保浏览器加载新内容）
       const fj = path.join(ROOT, 'assets/js/feed.js');
       let js = fs.readFileSync(fj, 'utf-8').replace(/^\uFEFF/, '');
       const stamp = new Date().toISOString().slice(0, 10).replace(/-/g, '') + 'r' + Date.now().toString(36).slice(-4);
@@ -118,6 +148,7 @@ function parseHTML(html, base, sel) {
       console.log('\n✅ feed.json 已重写（本次无新增条目）');
     }
   } else {
-    console.log('\n（仅预览，未写回 feed.json；加 --write 才会合并）');
+    console.log('\n（仅预览，未写回 feed.json；加 --write 才会合并并过闸门）');
   }
+  if (rejected.length) { console.log(`\n⚠️ 本次抓取拦截 ${rejected.length} 条不合格内容（未进线上）`); }
 })();

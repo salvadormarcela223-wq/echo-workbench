@@ -6,6 +6,9 @@
   window.Pages = window.Pages || {};
   const S = window.Store, U = window.UI;
   const esc = U.esc, ico = U.ico;
+  /* 本地烘焙词库：点击单词永远有音标+释义，不再依赖会失败的联网查询 */
+  let WORDS_BANK = {};
+  try { fetch('data/words.json?v=' + (window.FEED_VER || Date.now())).then(r => r.ok ? r.json() : null).then(j => { if (j && typeof j === 'object') WORDS_BANK = j; }).catch(() => {}); } catch (e) {}
 
   let tab = 'read';
 
@@ -57,7 +60,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     const pop = document.createElement('div');
     pop.className = 'kw-pop';
     pop.innerHTML = '<div class="kw-pop-w">'+esc(v.w)+' <span class="kw-pop-p" id="kwph">'+esc(v.p||'')+'</span></div>'+
-      '<div class="kw-pop-t" id="kwt">'+(v.t?esc(v.t):'<i>正在查询释义…</i>')+'</div>'+
+      '<div class="kw-pop-t" id="kwt">'+(v.t?esc(v.t):(v.en?'<span class="kw-en">'+esc(v.en)+'</span>':'<i>正在查询释义…</i>'))+'</div>'+
       '<div class="kw-pop-actions"><button class="kw-add">加入单词本</button><button class="kw-close">关闭</button></div>';
     document.body.appendChild(pop);
     const pw = pop.offsetWidth, ph = pop.offsetHeight;
@@ -79,11 +82,11 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     if (!phEl || !tEl) return;
     const url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(v.w.toLowerCase());
     fetch(url).then(r => r.ok ? r.json() : null).then(d => {
-      if (!Array.isArray(d) || !d[0]) return;
+      if (!Array.isArray(d) || !d[0]) { if (!v.t && !v.en) tEl.innerHTML = '<i class="kw-online">本地暂无释义，已自动联网查询</i>'; return; }
       let ph = d[0].phonetic || '';
       if (!ph && d[0].phonetics) { const p = d[0].phonetics.find(x => x.text); if (p) ph = p.text; }
       if (ph && phEl && !phEl.textContent) phEl.textContent = ph;
-      if (!v.t) {
+      if (!v.t && !v.en) {
         const m = d[0].meanings && d[0].meanings[0];
         const def = m && m.definitions && m.definitions[0] && m.definitions[0].definition;
         if (def) tEl.innerHTML = '<span class="kw-en">' + esc(def) + '</span><div class="kw-online">在线英文释义</div>';
@@ -98,6 +101,11 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     const allMap = {};
     for (const k in GEN_EN_ZH) allMap[k] = { w: k, p: '', t: GEN_EN_ZH[k], lv: '通用' };
     (a.vocab || []).forEach(v => allMap[v.w.toLowerCase()] = v);
+    for (const k in WORDS_BANK) {
+      const wb = WORDS_BANK[k]; if (!wb) continue;
+      const ex = allMap[k];
+      allMap[k] = { w: k, p: (ex && ex.p) || wb.ph || '', t: (ex && ex.t) || wb.zh || '', en: wb.en || (ex && ex.en) || '', lv: (ex && ex.lv) || '阅读生词' };
+    }
     function resolveWord(key){
       if (allMap[key]) return allMap[key];
       for (const sfx of ['es','s','ed','ing','ly']) {

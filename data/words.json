@@ -1,0 +1,5467 @@
+{
+  "when": {
+    "ph": "/ʍɛn/",
+    "en": "The time at which something happens.",
+    "zh": ""
+  },
+  "researchers": {
+    "ph": "",
+    "en": "One who researches.",
+    "zh": ""
+  },
+  "in": {
+    "ph": "/ɪn/",
+    "en": "A position of power or influence, or a way to get it.",
+    "zh": ""
+  },
+  "asked": {
+    "ph": "/ˈɑːskt/",
+    "en": "To request (information, or an answer to a question).",
+    "zh": ""
+  },
+  "consumers": {
+    "ph": "",
+    "en": "One who, or that which, consumes.",
+    "zh": ""
+  },
+  "to": {
+    "ph": "/tʉː/",
+    "en": "Toward a closed, touching or engaging position.",
+    "zh": ""
+  },
+  "describe": {
+    "ph": "/dəˈskɹaɪb/",
+    "en": "To represent in words.",
+    "zh": "v. 描述"
+  },
+  "toothpaste": {
+    "ph": "/ˈtuːθpeɪst/",
+    "en": "A paste, normally used with a toothbrush, for cleaning the teeth.",
+    "zh": ""
+  },
+  "they": {
+    "ph": "/ðeɪ/",
+    "en": "(the third-person plural) A group of people, animals, plants or objects previously mentioned.",
+    "zh": ""
+  },
+  "expected": {
+    "ph": "/ɪksˈpɛktɪd/",
+    "en": "To predict or believe that something will happen",
+    "zh": ""
+  },
+  "the": {
+    "ph": "/ði/",
+    "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+    "zh": ""
+  },
+  "usual": {
+    "ph": "/ˈjuːʒʊəl/",
+    "en": "The typical state of something, or something that is typical.",
+    "zh": ""
+  },
+  "vocabulary": {
+    "ph": "/vəʊˈkabjʊləɹɪ/",
+    "en": "A usually alphabetized and explained collection of words e.g. of a particular field, or prepared for a specific purpose, often for learning.",
+    "zh": ""
+  },
+  "mint": {
+    "ph": "/mɪnt/",
+    "en": "A building or institution where money (originally, only coins) is produced under government licence.",
+    "zh": ""
+  },
+  "intensity": {
+    "ph": "/ɪnˈtɛnsɪti/",
+    "en": "The quality of being intense.",
+    "zh": ""
+  },
+  "foam": {
+    "ph": "/fəʊm/",
+    "en": "A substance composed of a large collection of bubbles or their solidified remains.",
+    "zh": ""
+  },
+  "volume": {
+    "ph": "/ˈvɒl.juːm/",
+    "en": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+    "zh": ""
+  },
+  "whitening": {
+    "ph": "/ˈhwaɪtnɪŋ/",
+    "en": "(To cause) to become white or whiter; to bleach or blanch.",
+    "zh": ""
+  },
+  "power": {
+    "ph": "/ˈpaʊ.ə(ɹ)/",
+    "en": "Ability to do or undergo something.",
+    "zh": ""
+  },
+  "that": {
+    "ph": "/ˈðæt/",
+    "en": "Something being indicated that is there; one of those.",
+    "zh": ""
+  },
+  "lasts": {
+    "ph": "/lasts/",
+    "en": "To perform, carry out.",
+    "zh": ""
+  },
+  "had": {
+    "ph": "",
+    "en": "To possess, own.",
+    "zh": ""
+  },
+  "precisely": {
+    "ph": "/pɹɪˈsaɪsli/",
+    "en": "(manner) In a precise manner; exactly.",
+    "zh": ""
+  },
+  "problem": {
+    "ph": "/ˈpɹɒbləm/",
+    "en": "A difficulty that has to be resolved or dealt with.",
+    "zh": "n. 问题"
+  },
+  "with": {
+    "ph": "",
+    "en": "Along, together with others, in a group, etc.",
+    "zh": ""
+  },
+  "how": {
+    "ph": "/hæŏ/",
+    "en": "The means by which something is accomplished.",
+    "zh": ""
+  },
+  "industry": {
+    "ph": "/ˈɪndəstɹi/",
+    "en": "The tendency to work persistently. Diligence.",
+    "zh": ""
+  },
+  "has": {
+    "ph": "",
+    "en": "To possess, own.",
+    "zh": ""
+  },
+  "measured": {
+    "ph": "/ˈmɛʒəd/",
+    "en": "To ascertain the quantity of a unit of material via calculated comparison with respect to a standard.",
+    "zh": ""
+  },
+  "experience": {
+    "ph": "/ɪkˈspɪə.ɹɪəns/",
+    "en": "The effect upon the judgment or feelings produced by any event, whether witnessed or participated in; personal and direct impressions as contrasted with description or fancies; personal acquaintance; actual enjoyment or suffering.",
+    "zh": ""
+  },
+  "past": {
+    "ph": "/pɑːst/",
+    "en": "To change place.",
+    "zh": ""
+  },
+  "forty": {
+    "ph": "/ˈfɔɹti/",
+    "en": "A bottle of beer containing forty fluid ounces.",
+    "zh": ""
+  },
+  "years": {
+    "ph": "/ji.ə(ɹ)z/",
+    "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+    "zh": ""
+  },
+  "conventional": {
+    "ph": "/kənˈvɛnʃənl/",
+    "en": "A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal.",
+    "zh": ""
+  },
+  "testing": {
+    "ph": "/ˈtɛstɪŋ/",
+    "en": "To challenge.",
+    "zh": ""
+  },
+  "built": {
+    "ph": "/ˈbɪlt/",
+    "en": "To form (something) by combining materials or parts.",
+    "zh": ""
+  },
+  "decomposition": {
+    "ph": "/diːˌkɒmpəˈzɪʃən/",
+    "en": "A biological process through which organic material is reduced to e.g. compost.",
+    "zh": ""
+  },
+  "takes": {
+    "ph": "/teɪks/",
+    "en": "The or an act of taking.",
+    "zh": ""
+  },
+  "apart": {
+    "ph": "/əˈpɑː(ɹ)t/",
+    "en": "(Used after a noun or in the predicate) Exceptional, distinct.",
+    "zh": ""
+  },
+  "into": {
+    "ph": "/ˈɪn.tuː/",
+    "en": "To or towards the inside of.",
+    "zh": ""
+  },
+  "attributes": {
+    "ph": "",
+    "en": "A characteristic or quality of a thing.",
+    "zh": ""
+  },
+  "scores": {
+    "ph": "/skɔɹz/",
+    "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+    "zh": ""
+  },
+  "each": {
+    "ph": "/iːt͡ʃ/",
+    "en": "(operations) An individual item: the least quantitative unit in a grouping.",
+    "zh": ""
+  },
+  "scale": {
+    "ph": "/skeɪl/",
+    "en": "A ladder; a series of steps; a means of ascending.",
+    "zh": ""
+  },
+  "hands": {
+    "ph": "/hæn(d)z/",
+    "en": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
+    "zh": ""
+  },
+  "marketing": {
+    "ph": "",
+    "en": "To make (products or services) available for sale and promote them.",
+    "zh": ""
+  },
+  "spreadsheet": {
+    "ph": "",
+    "en": "A sheet of paper, marked with a grid, in which financial data is recorded and totals calculated manually.",
+    "zh": ""
+  },
+  "rigorous": {
+    "ph": "/ˈɹɪɡəɹəs/",
+    "en": "Showing, causing, or favoring rigour; scrupulously accurate or strict; thorough.",
+    "zh": ""
+  },
+  "replicable": {
+    "ph": "",
+    "en": "That can be replicated.",
+    "zh": ""
+  },
+  "narrow": {
+    "ph": "/ˈnæɹəʊ/",
+    "en": "(chiefly in the plural) A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water.",
+    "zh": ""
+  },
+  "sense": {
+    "ph": "/sɛn(t)s/",
+    "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+    "zh": ""
+  },
+  "say": {
+    "ph": "/seɪ/",
+    "en": "A chance to speak; the right or power to influence or make a decision.",
+    "zh": ""
+  },
+  "texture": {
+    "ph": "/ˈtɛkstʃə(ɹ)/",
+    "en": "The feel or shape of a surface or substance; the smoothness, roughness, softness, etc. of something.",
+    "zh": ""
+  },
+  "shapes": {
+    "ph": "/ʃeɪps/",
+    "en": "The status or condition of something",
+    "zh": ""
+  },
+  "believe": {
+    "ph": "/bɪˈliːv/",
+    "en": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
+    "zh": ""
+  },
+  "related": {
+    "ph": "/ɹɪˈleɪtɪd/",
+    "en": "To tell in a descriptive way.",
+    "zh": ""
+  },
+  "well": {
+    "ph": "/wɛl/",
+    "en": "In good health.",
+    "zh": ""
+  },
+  "works": {
+    "ph": "/wɜːks/",
+    "en": "(heading) Employment.",
+    "zh": ""
+  },
+  "read": {
+    "ph": "/ɹiːd/",
+    "en": "A reading or an act of reading, especially an actor's part of a play.",
+    "zh": ""
+  },
+  "second": {
+    "ph": "/ˈsɛkɪnd/",
+    "en": "Something that is number two in a series.",
+    "zh": ""
+  },
+  "figure": {
+    "ph": "/ˈfɪɡjɚ/",
+    "en": "A drawing or diagram conveying information.",
+    "zh": ""
+  },
+  "again": {
+    "ph": "/əˈɡeɪn/",
+    "en": "Another time; once more.",
+    "zh": ""
+  },
+  "are": {
+    "ph": "/ɛə/",
+    "en": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+    "zh": ""
+  },
+  "not": {
+    "ph": "/nɒt/",
+    "en": "A unary operation on logical values that changes true to false, and false to true.",
+    "zh": ""
+  },
+  "merely": {
+    "ph": "/ˈmɪəli/",
+    "en": "Wholly, entirely.",
+    "zh": ""
+  },
+  "enjoying": {
+    "ph": "/ɪnˈd͡ʒɔɪ.ɪŋ/",
+    "en": "To receive pleasure or satisfaction from something",
+    "zh": ""
+  },
+  "using": {
+    "ph": "/ˈjuːzɪŋ/",
+    "en": "To utilize or employ.",
+    "zh": ""
+  },
+  "as": {
+    "ph": "",
+    "en": "To such an extent or degree; to the same extent or degree.",
+    "zh": ""
+  },
+  "evidence": {
+    "ph": "[ˈɛvəɾəns]",
+    "en": "Facts or observations presented in support of an assertion.",
+    "zh": "n. 证据"
+  },
+  "because": {
+    "ph": "/bɪˈkɒz/",
+    "en": "For the reason (that).",
+    "zh": ""
+  },
+  "efficacy": {
+    "ph": "/ˈɛf.ɪ.kə.si/",
+    "en": "Ability to produce a desired effect under ideal testing conditions.",
+    "zh": ""
+  },
+  "invisible": {
+    "ph": "/ɪnˈvɪzəb(ə)l/",
+    "en": "An invisible person or thing; specifically, God, the Supreme Being.",
+    "zh": ""
+  },
+  "cream": {
+    "ph": "/kɹiːm/",
+    "en": "The butterfat/milkfat part of milk which rises to the top; this part when separated from the remainder.",
+    "zh": ""
+  },
+  "most": {
+    "ph": "/ˈməʊst/",
+    "en": "The greatest amount.",
+    "zh": ""
+  },
+  "brands": {
+    "ph": "",
+    "en": "A conflagration; a flame.",
+    "zh": ""
+  },
+  "still": {
+    "ph": "/stɪl/",
+    "en": "A period of calm or silence.",
+    "zh": ""
+  },
+  "design": {
+    "ph": "/dɪˈzaɪn/",
+    "en": "A specification of an object or process, referring to requirements to be satisfied and thus conditions to be met for them to solve a problem.",
+    "zh": ""
+  },
+  "them": {
+    "ph": "/ðʌm/",
+    "en": "(plural) Those ones.",
+    "zh": ""
+  },
+  "by": {
+    "ph": "/baɪ/",
+    "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+    "zh": ""
+  },
+  "instinct": {
+    "ph": "/ˈɪn.stɪŋkt/",
+    "en": "A natural or inherent impulse or behaviour.",
+    "zh": ""
+  },
+  "which": {
+    "ph": "/wɪt͡ʃ/",
+    "en": "(interrogative) What one or ones (of those mentioned or implied).",
+    "zh": ""
+  },
+  "we": {
+    "ph": "/wiː/",
+    "en": "(personal) The speakers/writers, or the speaker/writer and at least one other person (not the person being addressed). (This is the exclusive we.)",
+    "zh": ""
+  },
+  "mean": {
+    "ph": "/miːn/",
+    "en": "To lament.",
+    "zh": ""
+  },
+  "instincts": {
+    "ph": "/ˈɪn.stɪŋkts/",
+    "en": "A natural or inherent impulse or behaviour.",
+    "zh": ""
+  },
+  "founder": {
+    "ph": "/ˈfaʊndə/",
+    "en": "One who founds or establishes (especially said of a company, project, organisation, state)",
+    "zh": ""
+  },
+  "neither": {
+    "ph": "/ˈnaɪð.ə(ɹ)/",
+    "en": "Similarly not.",
+    "zh": ""
+  },
+  "whom": {
+    "ph": "/huːm/",
+    "en": "(interrogative) What person or people; which person or people.",
+    "zh": ""
+  },
+  "representative": {
+    "ph": "/ˌɹɛpɹɪˈzɛnt(ət)ɪv/",
+    "en": "A delegate.",
+    "zh": ""
+  },
+  "consumer": {
+    "ph": "/kənˈsjuːmə/",
+    "en": "One who, or that which, consumes.",
+    "zh": ""
+  },
+  "team": {
+    "ph": "/tiːm/",
+    "en": "A set of draught animals, such as two horses in front of a carriage.",
+    "zh": ""
+  },
+  "used": {
+    "ph": "/juːzd/",
+    "en": "To utilize or employ.",
+    "zh": ""
+  },
+  "ai": {
+    "ph": "/ˈɑ.i/",
+    "en": "A type of three-toed sloth, Bradypus tridactylus, endemic to forests of southern Venezuela, the Guianas, and northern Brazil.",
+    "zh": ""
+  },
+  "speak": {
+    "ph": "/spiːk/",
+    "en": "A low class bar, a speakeasy.",
+    "zh": ""
+  },
+  "language": {
+    "ph": "[ˈleɪŋɡwɪd͡ʒ]",
+    "en": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.",
+    "zh": ""
+  },
+  "prompting": {
+    "ph": "",
+    "en": "To lead (someone) toward what they should say or do.",
+    "zh": ""
+  },
+  "narrate": {
+    "ph": "/nəˈɹeɪt/",
+    "en": "To relate (a story or series of events) in speech or writing.",
+    "zh": ""
+  },
+  "rather": {
+    "ph": "/ˈɹɑːðə/",
+    "en": "To prefer; to prefer to.",
+    "zh": ""
+  },
+  "than": {
+    "ph": "/ðæn/",
+    "en": "At that time; then.",
+    "zh": ""
+  },
+  "rate": {
+    "ph": "/ɹeɪt/",
+    "en": "The worth of something; value.",
+    "zh": ""
+  },
+  "change": {
+    "ph": "/tʃeɪndʒ/",
+    "en": "The process of becoming different.",
+    "zh": ""
+  },
+  "sounds": {
+    "ph": "/saʊndz/",
+    "en": "A sensation perceived by the ear caused by the vibration of air or some other medium.",
+    "zh": ""
+  },
+  "practice": {
+    "ph": "/ˈpɹæktɪs/",
+    "en": "Repetition of an activity to improve a skill.",
+    "zh": ""
+  },
+  "enthusiasm": {
+    "ph": "/-θuː-/",
+    "en": "Possession by a god; divine inspiration or frenzy.",
+    "zh": "n. 热情"
+  },
+  "artificial": {
+    "ph": "/ɑː(ɹ)təˈfɪʃəl/",
+    "en": "Man-made; of artifice.",
+    "zh": ""
+  },
+  "participants": {
+    "ph": "",
+    "en": "One who participates.",
+    "zh": ""
+  },
+  "if": {
+    "ph": "/ɪf/",
+    "en": "An uncertainty, possibility, condition, doubt etc.",
+    "zh": ""
+  },
+  "model": {
+    "ph": "/ˈmɒdl̩/",
+    "en": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+    "zh": ""
+  },
+  "absorbed": {
+    "ph": "/æbˈsɔɹbd/",
+    "en": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+    "zh": ""
+  },
+  "will": {
+    "ph": "/wɪl/",
+    "en": "(now uncommon or literary) To wish, desire (something).",
+    "zh": ""
+  },
+  "reliably": {
+    "ph": "",
+    "en": "In a reliable manner.",
+    "zh": ""
+  },
+  "reproduce": {
+    "ph": "/ˌɹi.pɹoʊˈdjus/",
+    "en": "To produce an image or copy of.",
+    "zh": ""
+  },
+  "have": {
+    "ph": "",
+    "en": "A wealthy or privileged person.",
+    "zh": "v. 有"
+  },
+  "historically": {
+    "ph": "",
+    "en": "In a historic manner; with reference to history or the historical record.",
+    "zh": ""
+  },
+  "never": {
+    "ph": "/ˈnɛv.ə(ɹ)/",
+    "en": "At no time; on no occasion; in no circumstance.",
+    "zh": ""
+  },
+  "surprise": {
+    "ph": "/səˈpɹaɪz/",
+    "en": "Something unexpected.",
+    "zh": ""
+  },
+  "us": {
+    "ph": "/əs/",
+    "en": "(personal) Me and at least one other person; the objective case of we.",
+    "zh": ""
+  },
+  "valuable": {
+    "ph": "/ˈvæljuəbl̩/",
+    "en": "A personal possession such as jewellery, of relatively great monetary value; — usually used in plural form.",
+    "zh": ""
+  },
+  "ten": {
+    "ph": "/tɛn/",
+    "en": "A set or group with ten elements.",
+    "zh": ""
+  },
+  "seconds": {
+    "ph": "/ˈsɛkəndz/",
+    "en": "Something that is number two in a series.",
+    "zh": ""
+  },
+  "any": {
+    "ph": "/ˈæni/",
+    "en": "To even the slightest extent, at all.",
+    "zh": ""
+  },
+  "interview": {
+    "ph": "/ˈɪntəvjuː/",
+    "en": "An official face-to-face meeting of monarchs or other important figures.",
+    "zh": ""
+  },
+  "usually": {
+    "ph": "/ˈjuːʒju(ə)li/",
+    "en": "Most of the time; less than always, but more than occasionally.",
+    "zh": ""
+  },
+  "moment": {
+    "ph": "/ˈməʊmənt/",
+    "en": "A brief, unspecified amount of time.",
+    "zh": ""
+  },
+  "respondent": {
+    "ph": "",
+    "en": "One who responds; one who replies.",
+    "zh": ""
+  },
+  "question": {
+    "ph": "/ˈkwɛstjən/",
+    "en": "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+    "zh": ""
+  },
+  "misunderstanding": {
+    "ph": "",
+    "en": "A mistake as to the meaning of something or a specific point of view; erroneous interpretation or comprehension; misconception.",
+    "zh": ""
+  },
+  "gap": {
+    "ph": "/ɡæp/",
+    "en": "An opening in anything made by breaking or parting.",
+    "zh": ""
+  },
+  "between": {
+    "ph": "/bɪˈtwiːn/",
+    "en": "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+    "zh": ""
+  },
+  "brief": {
+    "ph": "/bɹiːf/",
+    "en": "A writ summoning one to answer to any action.",
+    "zh": ""
+  },
+  "none": {
+    "ph": "/nɒn/",
+    "en": "A person without religious affiliation.",
+    "zh": ""
+  },
+  "means": {
+    "ph": "/miːnz/",
+    "en": "To lament.",
+    "zh": ""
+  },
+  "abandoning": {
+    "ph": "",
+    "en": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+    "zh": ""
+  },
+  "measurement": {
+    "ph": "/ˈmeʒ.ə.mənt/",
+    "en": "The act of measuring.",
+    "zh": ""
+  },
+  "method": {
+    "ph": "/ˈmɛθəd/",
+    "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+    "zh": ""
+  },
+  "leave": {
+    "ph": "/liːv/",
+    "en": "To have a consequence or remnant.",
+    "zh": ""
+  },
+  "unstructured": {
+    "ph": "",
+    "en": "Lacking structure.",
+    "zh": ""
+  },
+  "minutes": {
+    "ph": "/ˈmɪnɪts/",
+    "en": "A unit of time equal to sixty seconds (one-sixtieth of an hour).",
+    "zh": ""
+  },
+  "end": {
+    "ph": "/ɛnd/",
+    "en": "The terminal point of something in space or time.",
+    "zh": ""
+  },
+  "test": {
+    "ph": "/test/",
+    "en": "A challenge, trial.",
+    "zh": ""
+  },
+  "ask": {
+    "ph": "/ˈask/",
+    "en": "An act or instance of asking.",
+    "zh": ""
+  },
+  "tell": {
+    "ph": "/tɛl/",
+    "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+    "zh": ""
+  },
+  "you": {
+    "ph": "/jʉː/",
+    "en": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+    "zh": ""
+  },
+  "story": {
+    "ph": "/ˈstɔː.ɹi/",
+    "en": "A sequence of real or fictional events; or, an account of such a sequence.",
+    "zh": ""
+  },
+  "giving": {
+    "ph": "/ˈɡɪvɪŋ/",
+    "en": "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+    "zh": ""
+  },
+  "score": {
+    "ph": "/skɔː/",
+    "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+    "zh": "n./v. 评分"
+  },
+  "collect": {
+    "ph": "/kəˈlɛkt/",
+    "en": "To gather together; amass.",
+    "zh": ""
+  },
+  "things": {
+    "ph": "/θɪŋz/",
+    "en": "That which is considered to exist as a separate entity, object, quality or concept.",
+    "zh": ""
+  },
+  "no": {
+    "ph": "/nəʊ/",
+    "en": "A negating expression; an answer that shows disagreement or disapproval",
+    "zh": ""
+  },
+  "could": {
+    "ph": "/kʊd/",
+    "en": "(auxiliary verb, defective) To know how to; to be able to.",
+    "zh": ""
+  },
+  "caught": {
+    "ph": "[k̠ʰoːt]",
+    "en": "(heading) To capture, overtake.",
+    "zh": ""
+  },
+  "occasionally": {
+    "ph": "/əˈkeɪʒnəli/",
+    "en": "On the occasion of something else happening; incidentally, by the way.",
+    "zh": ""
+  },
+  "worth": {
+    "ph": "/wɜːθ/",
+    "en": "Value.",
+    "zh": ""
+  },
+  "scope": {
+    "ph": "/ˈskoʊp/",
+    "en": "The breadth, depth or reach of a subject; a domain.",
+    "zh": ""
+  },
+  "practical": {
+    "ph": "/ˈpɹæktɪkəl/",
+    "en": "A part of an exam or series of exams in which the candidate has to demonstrate their practical ability",
+    "zh": ""
+  },
+  "raises": {
+    "ph": "",
+    "en": "An increase in wages or salary; a rise (UK).",
+    "zh": ""
+  },
+  "do": {
+    "ph": "/dʉː/",
+    "en": "A party, celebration, social function.",
+    "zh": ""
+  },
+  "fit": {
+    "ph": "/fɪt/",
+    "en": "The degree to which something fits.",
+    "zh": ""
+  },
+  "existing": {
+    "ph": "/ɪɡˈzɪstɪŋ/",
+    "en": "(stative) to be; have existence; have being or reality",
+    "zh": ""
+  },
+  "framework": {
+    "ph": "/ˈfɹeɪm.wɜːk/",
+    "en": "A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size.",
+    "zh": ""
+  },
+  "faced": {
+    "ph": "/feɪst/",
+    "en": "(of a person or animal) To position oneself or itself so as to have one's face closest to (something).",
+    "zh": ""
+  },
+  "directly": {
+    "ph": "/daɪˈɹɛk(t)li/",
+    "en": "In a direct manner; in a straight line or course.",
+    "zh": ""
+  },
+  "client": {
+    "ph": "/ˈklʌɪənt/",
+    "en": "A customer, a buyer or receiver of goods or services.",
+    "zh": ""
+  },
+  "global": {
+    "ph": "/ˈɡləʊbəl/",
+    "en": "A globally scoped identifier.",
+    "zh": ""
+  },
+  "maker": {
+    "ph": "/ˈmeɪk.ə/",
+    "en": "Someone who makes; a person or thing that makes or produces something.",
+    "zh": ""
+  },
+  "roadmap": {
+    "ph": "",
+    "en": "A map with a visual representation of roads used for automobile travel and navigation. A road map may contain other relevant data, such as terrain or rail roads.",
+    "zh": ""
+  },
+  "having": {
+    "ph": "/ˈhævɪŋ/",
+    "en": "To possess, own.",
+    "zh": ""
+  },
+  "appeared": {
+    "ph": "/əˈpiːɹd/",
+    "en": "To come or be in sight; to be in view; to become visible.",
+    "zh": ""
+  },
+  "internal": {
+    "ph": "/ɪnˈtɝnəl/",
+    "en": "Inside of something",
+    "zh": "adj. 内部的"
+  },
+  "first": {
+    "ph": "/fɪrst/",
+    "en": "The person or thing in the first position.",
+    "zh": ""
+  },
+  "convince": {
+    "ph": "/kənˈvɪns/",
+    "en": "To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",
+    "zh": ""
+  },
+  "outlier": {
+    "ph": "/ˈaʊtˌlaɪə(ɹ)/",
+    "en": "A person or thing situated away from the main body or outside its proper place.",
+    "zh": ""
+  },
+  "simultaneously": {
+    "ph": "/ˌsɪməlˈteɪnɪəsli/",
+    "en": "Occurring at the same time.",
+    "zh": ""
+  },
+  "third": {
+    "ph": "/θɜːd/",
+    "en": "The person or thing in the third position.",
+    "zh": ""
+  },
+  "specify": {
+    "ph": "/ˈspɛsɪfaɪ/",
+    "en": "To state explicitly, or in detail, or as a condition.",
+    "zh": ""
+  },
+  "would": {
+    "ph": "/wʊd/",
+    "en": "Something that would happen, or would be the case, under different circumstances; a potentiality.",
+    "zh": ""
+  },
+  "need": {
+    "ph": "/niːd/",
+    "en": "A requirement for something; something needed.",
+    "zh": ""
+  },
+  "tactile": {
+    "ph": "/ˈtæktaɪl/",
+    "en": "Tangible; perceptible to the sense of touch.",
+    "zh": ""
+  },
+  "acoustic": {
+    "ph": "/əˈkuːstɪk/",
+    "en": "A medicine or other agent to assist hearing.",
+    "zh": ""
+  },
+  "terms": {
+    "ph": "/tɜːmz/",
+    "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+    "zh": ""
+  },
+  "deliver": {
+    "ph": "/dɪˈlɪvə(ɹ)/",
+    "en": "To set free from restraint or danger.",
+    "zh": ""
+  },
+  "describing": {
+    "ph": "",
+    "en": "To represent in words.",
+    "zh": ""
+  },
+  "resistance": {
+    "ph": "/ɹɪˈzɪstəns/",
+    "en": "The act of resisting, or the capacity to resist.",
+    "zh": ""
+  },
+  "engagement": {
+    "ph": "/ɪnˈɡeɪd͡ʒ.mənt/",
+    "en": "An appointment, especially to speak or perform.",
+    "zh": ""
+  },
+  "confirmation": {
+    "ph": "/ˌkɒn.fəˈmeɪ.ʃən/",
+    "en": "An official indicator that things will happen as planned.",
+    "zh": ""
+  },
+  "release": {
+    "ph": "/ɹɪˈliːs/",
+    "en": "The event of setting (someone or something) free (e.g. hostages, slaves, prisoners, caged animals, hooked or stuck mechanisms).",
+    "zh": ""
+  },
+  "mature": {
+    "ph": "/məˈtjʊə/",
+    "en": "Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe.",
+    "zh": ""
+  },
+  "organisation": {
+    "ph": "/ˈɔː(ɹ).ɡən.aɪˌzeɪ.ʃən/",
+    "en": "The quality of being organized.",
+    "zh": ""
+  },
+  "done": {
+    "ph": "/dʌn/",
+    "en": "(auxiliary) A syntactic marker.",
+    "zh": ""
+  },
+  "earlier": {
+    "ph": "/ˈɜː.lɪə/",
+    "en": "At a time in advance of the usual or expected event.",
+    "zh": ""
+  },
+  "qualitative": {
+    "ph": "/ˈkwɒl.ɪ.tə.tɪv/",
+    "en": "Something qualitative.",
+    "zh": ""
+  },
+  "depth": {
+    "ph": "/dɛpθ/",
+    "en": "The vertical distance below a surface; the degree to which something is deep",
+    "zh": ""
+  },
+  "all": {
+    "ph": "/ɔːl/",
+    "en": "(with a possessive pronoun) Everything that one is capable of.",
+    "zh": ""
+  },
+  "reasons": {
+    "ph": "/ˈɹiːzənz/",
+    "en": "A cause:",
+    "zh": ""
+  },
+  "structural": {
+    "ph": "",
+    "en": "Structural steel, used in construction.",
+    "zh": ""
+  },
+  "lexical": {
+    "ph": "/ˈlɛksɪkəl/",
+    "en": "Concerning the vocabulary, words, sentences or morphemes of a language",
+    "zh": ""
+  },
+  "home": {
+    "ph": "/(h)əʊm/",
+    "en": "A dwelling.",
+    "zh": ""
+  },
+  "contribution": {
+    "ph": "/ˌkɒntɹɪˈbjuːʃən/",
+    "en": "Something given or offered that adds to a larger whole.",
+    "zh": ""
+  },
+  "methodology": {
+    "ph": "/meθəˈdɒlədʒi/",
+    "en": "(originally science) The study of methods used in a field.",
+    "zh": ""
+  },
+  "once": {
+    "ph": "/wɒn(t)s/",
+    "en": "(frequency) One and only one time.",
+    "zh": ""
+  },
+  "adopted": {
+    "ph": "/əˈdɒptɪd/",
+    "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+    "zh": ""
+  },
+  "changes": {
+    "ph": "/ˈtʃeɪndʒɪz/",
+    "en": "The process of becoming different.",
+    "zh": ""
+  },
+  "questions": {
+    "ph": "/ˈkwɛstʃənz/",
+    "en": "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+    "zh": ""
+  },
+  "company": {
+    "ph": "/ˈkʌmp(ə)ni/",
+    "en": "A team; a group of people who work together professionally.",
+    "zh": "n. 陪伴"
+  },
+  "able": {
+    "ph": "/ˈeɪ.bl̩/",
+    "en": "Easy to use.",
+    "zh": ""
+  },
+  "community": {
+    "ph": "/k(ə)ˈmjunəti/",
+    "en": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+    "zh": ""
+  },
+  "implication": {
+    "ph": "/ˌɪmpləˈkeɪʃən/",
+    "en": "The act of implicating.",
+    "zh": "n. 含义、影响"
+  },
+  "tools": {
+    "ph": "/tuːlz/",
+    "en": "A mechanical device intended to make a task easier.",
+    "zh": ""
+  },
+  "use": {
+    "ph": "",
+    "en": "The act of using.",
+    "zh": ""
+  },
+  "point": {
+    "ph": "/pɔɪnt/",
+    "en": "A discrete division of something.",
+    "zh": ""
+  },
+  "consensus": {
+    "ph": "",
+    "en": "A process of decision-making that seeks widespread agreement among group members.",
+    "zh": ""
+  },
+  "designed": {
+    "ph": "/dɪˈzaɪnd/",
+    "en": "To plan and carry out (a picture, work of art, construction etc.).",
+    "zh": ""
+  },
+  "era": {
+    "ph": "/ˈɪə̯ɹ.ə/",
+    "en": "A time period of indeterminate length, generally more than one year.",
+    "zh": ""
+  },
+  "products": {
+    "ph": "/ˈpɹɒd.əkts/",
+    "en": "A commodity offered for sale.",
+    "zh": ""
+  },
+  "competed": {
+    "ph": "/kəmˈpiːtɪd/",
+    "en": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+    "zh": ""
+  },
+  "easily": {
+    "ph": "/ˈiː.zə.liː/",
+    "en": "Comfortably, without discomfort or anxiety.",
+    "zh": ""
+  },
+  "scales": {
+    "ph": "/skeɪlz/",
+    "en": "A ladder; a series of steps; a means of ascending.",
+    "zh": ""
+  },
+  "sweetness": {
+    "ph": "/ˈswiːtnəs/",
+    "en": "The condition of being sweet or sugary.",
+    "zh": ""
+  },
+  "crunch": {
+    "ph": "/kɹʌntʃ/",
+    "en": "A noisy crackling sound; the sound usually associated with crunching.",
+    "zh": ""
+  },
+  "compete": {
+    "ph": "/kəm.ˈpiːt/",
+    "en": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+    "zh": ""
+  },
+  "brand": {
+    "ph": "/bɹand/",
+    "en": "A conflagration; a flame.",
+    "zh": ""
+  },
+  "honest": {
+    "ph": "/ˈɒnɪst/",
+    "en": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+    "zh": ""
+  },
+  "physical": {
+    "ph": "/ˈfɪzɪkəl/",
+    "en": "Physical examination.",
+    "zh": ""
+  },
+  "promises": {
+    "ph": "/ˈpɹɒmɪsɪz/",
+    "en": "An oath or affirmation; a vow",
+    "zh": ""
+  },
+  "workers": {
+    "ph": "/ˈwɜː.kəz/",
+    "en": "A person who performs labor for a living, especially manual labor.",
+    "zh": ""
+  },
+  "quit": {
+    "ph": "/kwɪt/",
+    "en": "To pay (a debt, fine etc.).",
+    "zh": ""
+  },
+  "recruiters": {
+    "ph": "",
+    "en": "Agent noun of recruit; one who recruits, particularly one employed to recruit others.",
+    "zh": ""
+  },
+  "scrambled": {
+    "ph": "",
+    "en": "To move hurriedly to a location, especially by using all limbs against a surface.",
+    "zh": ""
+  },
+  "salaries": {
+    "ph": "",
+    "en": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+    "zh": ""
+  },
+  "narrative": {
+    "ph": "/ˈnæɹətɪv/",
+    "en": "The systematic recitation of an event or series of events.",
+    "zh": "n. 叙事"
+  },
+  "motion": {
+    "ph": "/ˈməʊʃən/",
+    "en": "A state of progression from one place to another.",
+    "zh": ""
+  },
+  "leaving": {
+    "ph": "/ˈliːvɪŋ/",
+    "en": "To have a consequence or remnant.",
+    "zh": ""
+  },
+  "jobs": {
+    "ph": "/d͡ʒɒbz/",
+    "en": "A task.",
+    "zh": ""
+  },
+  "switching": {
+    "ph": "/swɪtʃɪŋ/",
+    "en": "To exchange.",
+    "zh": ""
+  },
+  "industries": {
+    "ph": "/ˈɪndəstɹiz/",
+    "en": "The tendency to work persistently. Diligence.",
+    "zh": ""
+  },
+  "flexibility": {
+    "ph": "",
+    "en": "The quality of being flexible; suppleness; pliability.",
+    "zh": ""
+  },
+  "purpose": {
+    "ph": "/ˈpɜːpəs/",
+    "en": "An objective to be reached; a target; an aim; a goal.",
+    "zh": ""
+  },
+  "higher": {
+    "ph": "/ˈhaɪə/",
+    "en": "Very elevated; extending or being far above a base; tall; lofty.",
+    "zh": ""
+  },
+  "pay": {
+    "ph": "/peɪ/",
+    "en": "Money given in return for work; salary or wages.",
+    "zh": ""
+  },
+  "sometimes": {
+    "ph": "/ˈsʌmtaɪmz/",
+    "en": "Former; sometime.",
+    "zh": ""
+  },
+  "same": {
+    "ph": "/seɪm/",
+    "en": "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+    "zh": ""
+  },
+  "sentence": {
+    "ph": "[ˈsɛntn̩t͡s]",
+    "en": "The decision or judgement of a jury or court; a verdict.",
+    "zh": ""
+  },
+  "pandemic": {
+    "ph": "/pænˈdɛmɪk/",
+    "en": "A pandemic disease; a disease that affects a wide geographical area and a large proportion of the population.",
+    "zh": "n. 大流行病"
+  },
+  "went": {
+    "ph": "/went/",
+    "en": "To move:",
+    "zh": ""
+  },
+  "broken": {
+    "ph": "/ˈbɹəʊkən/",
+    "en": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+    "zh": ""
+  },
+  "old": {
+    "ph": "/ˈɒʊld/",
+    "en": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
+    "zh": ""
+  },
+  "contract": {
+    "ph": "/ˈkɒntɹækt/",
+    "en": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+    "zh": ""
+  },
+  "fading": {
+    "ph": "/ˈfeɪdɪŋ/",
+    "en": "To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.",
+    "zh": ""
+  },
+  "replacing": {
+    "ph": "",
+    "en": "To restore to a former place, position, condition, etc.; to put back",
+    "zh": ""
+  },
+  "quieter": {
+    "ph": "/ˈkwaɪ.ə.tɚ/",
+    "en": "With little or no sound; free of disturbing noise.",
+    "zh": "adj. 更安静"
+  },
+  "many": {
+    "ph": "/ˈmæni/",
+    "en": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
+    "zh": ""
+  },
+  "ways": {
+    "ph": "/weɪz/",
+    "en": "(heading) To do with a place or places.",
+    "zh": ""
+  },
+  "globally": {
+    "ph": "/ˈɡləʊbəli/",
+    "en": "In all places or situations.",
+    "zh": ""
+  },
+  "mechanism": {
+    "ph": "/ˈmɛkənɪzm/",
+    "en": "(within a machine or machinery) Any mechanical means for the conversion or control of motion, or the transmission or control of power.",
+    "zh": "n. 机制"
+  },
+  "simple": {
+    "ph": "/ˈsɪmpəl/",
+    "en": "A herbal preparation made from one plant, as opposed to something made from more than one plant.",
+    "zh": ""
+  },
+  "needs": {
+    "ph": "/niːdz/",
+    "en": "Of necessity; necessarily; indispensably; used with an auxiliary verb (often must), and equivalent to \"of need\".",
+    "zh": ""
+  },
+  "post": {
+    "ph": "/pəʊst/",
+    "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+    "zh": ""
+  },
+  "role": {
+    "ph": "/ɹəʊl/",
+    "en": "A character or part played by a performer or actor.",
+    "zh": ""
+  },
+  "identifies": {
+    "ph": "",
+    "en": "To establish the identity of someone or something.",
+    "zh": ""
+  },
+  "employee": {
+    "ph": "/(ˌ)ɪm-/",
+    "en": "An individual who provides labor to a company or another person.",
+    "zh": "n. 员工"
+  },
+  "adjacent": {
+    "ph": "/əˈdʒeɪ.sənt/",
+    "en": "Something that lies next to something else, especially the side of a right triangle that is neither the hypotenuse nor the opposite.",
+    "zh": ""
+  },
+  "skills": {
+    "ph": "/skɪlz/",
+    "en": "To set apart; separate.",
+    "zh": ""
+  },
+  "pays": {
+    "ph": "/peɪz/",
+    "en": "Money given in return for work; salary or wages.",
+    "zh": ""
+  },
+  "course": {
+    "ph": "/kɔːs/",
+    "en": "A sequence of events.",
+    "zh": ""
+  },
+  "assigns": {
+    "ph": "",
+    "en": "An assignee.",
+    "zh": ""
+  },
+  "project": {
+    "ph": "",
+    "en": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "zh": ""
+  },
+  "promoted": {
+    "ph": "",
+    "en": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+    "zh": ""
+  },
+  "given": {
+    "ph": "/ˈɡɪ.vən/",
+    "en": "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+    "zh": ""
+  },
+  "title": {
+    "ph": "/ˈtaɪtl̩/",
+    "en": "A prefix (honorific) or suffix (post-nominal) added to a person's name to signify either veneration, official position or a professional or academic qualification. See also",
+    "zh": ""
+  },
+  "often": {
+    "ph": "/ˈɑf(t)ən/",
+    "en": "Frequent.",
+    "zh": ""
+  },
+  "paid": {
+    "ph": "/ˈpeɪd/",
+    "en": "To give money or other compensation to in exchange for goods or services.",
+    "zh": ""
+  },
+  "permanent": {
+    "ph": "/ˈpɜːmənənt/",
+    "en": "A chemical hair treatment imparting or removing curliness, whose effects typically last for a period of weeks; a perm.",
+    "zh": ""
+  },
+  "raise": {
+    "ph": "/ɹeɪz/",
+    "en": "An increase in wages or salary; a rise (UK).",
+    "zh": ""
+  },
+  "doing": {
+    "ph": "/ˈduːɪŋ/",
+    "en": "(auxiliary) A syntactic marker.",
+    "zh": ""
+  },
+  "avoided": {
+    "ph": "/əˈvɔɪdɪd/",
+    "en": "To try not to meet or communicate with (a person); to shun",
+    "zh": ""
+  },
+  "friction": {
+    "ph": "/ˈfɹɪkʃən̩/",
+    "en": "The rubbing of one object or surface against another.",
+    "zh": "n. 摩擦"
+  },
+  "full": {
+    "ph": "/fʊl/",
+    "en": "Containing the maximum possible amount that can fit in the space available.",
+    "zh": ""
+  },
+  "external": {
+    "ph": "/əksˈtɜːnəl/",
+    "en": "(chiefly in the plural) The exterior; outward features or appearances.",
+    "zh": "adj. 外部的"
+  },
+  "hire": {
+    "ph": "/haɪə/",
+    "en": "Payment for the temporary use of something.",
+    "zh": ""
+  },
+  "outside": {
+    "ph": "",
+    "en": "The part of something that faces out; the outer surface.",
+    "zh": ""
+  },
+  "nothing": {
+    "ph": "/ˈnʌθɪŋ/",
+    "en": "Something trifling, or of no consequence or importance.",
+    "zh": ""
+  },
+  "changed": {
+    "ph": "/t͡ʃeɪnd͡ʒd/",
+    "en": "To become something different.",
+    "zh": ""
+  },
+  "inside": {
+    "ph": "/ɪnˈsaɪd/",
+    "en": "The interior or inner part.",
+    "zh": ""
+  },
+  "psychological": {
+    "ph": "/ˌsaɪkəˈlɒdʒɪkl/",
+    "en": "Of or pertaining to psychology.",
+    "zh": ""
+  },
+  "shifted": {
+    "ph": "",
+    "en": "(sometimes figurative) To move from one place to another; to redistribute.",
+    "zh": ""
+  },
+  "hr": {
+    "ph": "",
+    "en": "A time period of sixty minutes; one twenty-fourth of a day.",
+    "zh": ""
+  },
+  "training": {
+    "ph": "/ˈtɹeɪnɪŋ/",
+    "en": "To practice an ability.",
+    "zh": ""
+  },
+  "exposure": {
+    "ph": "/ɪkˈspoʊʒɚ/",
+    "en": "The condition of being exposed, uncovered, or unprotected.",
+    "zh": ""
+  },
+  "eventual": {
+    "ph": "/ə-/",
+    "en": "Finally resulting or occuring (after a period of time).",
+    "zh": ""
+  },
+  "promotion": {
+    "ph": "/pɹəˈməʊʃən/",
+    "en": "An advancement in rank or position.",
+    "zh": ""
+  },
+  "vague": {
+    "ph": "/veɪɡ/",
+    "en": "A wandering; a vagary.",
+    "zh": "adj. 模糊的"
+  },
+  "environments": {
+    "ph": "",
+    "en": "The surroundings of, and influences on, a particular item of interest.",
+    "zh": ""
+  },
+  "becomes": {
+    "ph": "/bəˈkʌmz/",
+    "en": "To arrive, come (to a place).",
+    "zh": ""
+  },
+  "exploitation": {
+    "ph": "/ˌɛksplɔɪˈteɪʃn̩/",
+    "en": "The act of utilizing something; industry.",
+    "zh": ""
+  },
+  "extract": {
+    "ph": "",
+    "en": "Something that is extracted or drawn out.",
+    "zh": ""
+  },
+  "labour": {
+    "ph": "/ˈleɪ.bə/",
+    "en": "Effort expended on a particular task; toil, work.",
+    "zh": ""
+  },
+  "staff": {
+    "ph": "/ˈstæf/",
+    "en": "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+    "zh": ""
+  },
+  "formal": {
+    "ph": "/ˈfɔːməl/",
+    "en": "Formalin.",
+    "zh": ""
+  },
+  "workplace": {
+    "ph": "",
+    "en": "The place where someone works.",
+    "zh": "n. 工作场所"
+  },
+  "institute": {
+    "ph": "/ˈɪnstɪt(j)uːt/",
+    "en": "An organization founded to promote a cause",
+    "zh": ""
+  },
+  "who": {
+    "ph": "/huː/",
+    "en": "A person under discussion; a question of which person.",
+    "zh": "pron. 谁"
+  },
+  "tracking": {
+    "ph": "/ˈtɹækɪŋ/",
+    "en": "To continue over time.",
+    "zh": ""
+  },
+  "trend": {
+    "ph": "/tɹɛnd/",
+    "en": "An inclination in a particular direction.",
+    "zh": ""
+  },
+  "two": {
+    "ph": "/tuː/",
+    "en": "The digit/figure 2.",
+    "zh": ""
+  },
+  "diagnostic": {
+    "ph": "/daɪəˈɡnɒstɪk/",
+    "en": "Any technique used in medical diagnosis.",
+    "zh": ""
+  },
+  "decision": {
+    "ph": "/dɪˈsɪʒən/",
+    "en": "The act of deciding.",
+    "zh": ""
+  },
+  "plain": {
+    "ph": "/pleɪn/",
+    "en": "Flat, level.",
+    "zh": ""
+  },
+  "changing": {
+    "ph": "/ˈtʃeɪndʒɪŋ/",
+    "en": "To become something different.",
+    "zh": ""
+  },
+  "committed": {
+    "ph": "/kəˈmɪtɪd/",
+    "en": "To give in trust; to put into charge or keeping; to entrust; to consign; used with to or formerly unto.",
+    "zh": ""
+  },
+  "writing": {
+    "ph": "/ˈɹaɪtɪŋ/",
+    "en": "Graphism of symbols such as letters that express some meaning.",
+    "zh": ""
+  },
+  "review": {
+    "ph": "/ɹɪˈvjuː/",
+    "en": "A second or subsequent reading of a text or artifact in an attempt to gain new insights.",
+    "zh": ""
+  },
+  "minimum": {
+    "ph": "/ˈmɪn.ɪ.məm/",
+    "en": "The lowest limit.",
+    "zh": ""
+  },
+  "clear": {
+    "ph": "/klɪə(ɹ)/",
+    "en": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+    "zh": ""
+  },
+  "timeline": {
+    "ph": "/ˈtaɪmˌlaɪn/",
+    "en": "A graphical representation of a chronological sequence of events (past or future); a chronology.",
+    "zh": ""
+  },
+  "manager": {
+    "ph": "/ˈmæn.ɪ.dʒə/",
+    "en": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+    "zh": ""
+  },
+  "held": {
+    "ph": "/ˈhɛld/",
+    "en": "To grasp or grip.",
+    "zh": ""
+  },
+  "accountable": {
+    "ph": "/ə.ˈkaʊn.tə.bəl/",
+    "en": "Obliged, when called upon, to answer (for one’s deeds); answerable.",
+    "zh": "adj. 负责的"
+  },
+  "during": {
+    "ph": "/ˈdjɔː.ɹɪŋ/",
+    "en": "To last, continue, endure.",
+    "zh": ""
+  },
+  "transition": {
+    "ph": "/tɹænˈzɪʃən/",
+    "en": "The process of change from one form, state, style or place to another.",
+    "zh": ""
+  },
+  "success": {
+    "ph": "/səkˈsɛs/",
+    "en": "The achievement of one's aim or goal.",
+    "zh": ""
+  },
+  "metric": {
+    "ph": "/ˈmɛt.ɹɪk/",
+    "en": "A measure for something; a means of deriving a quantitative measurement or approximation for otherwise qualitative phenomena (especially used in engineering).",
+    "zh": ""
+  },
+  "delivery": {
+    "ph": "/dɪˈlɪv(ə)ɹi/",
+    "en": "The act of conveying something.",
+    "zh": ""
+  },
+  "silent": {
+    "ph": "/ˈsaɪlənt/",
+    "en": "That which is silent; a time of silence.",
+    "zh": "adj. 沉默的"
+  },
+  "overwork": {
+    "ph": "/ˌəʊvəˈwɜːk/",
+    "en": "To make (someone) work too hard.",
+    "zh": ""
+  },
+  "dressed": {
+    "ph": "/ˈdɹɛst/",
+    "en": "To fit out with the necessary clothing; to clothe, put clothes on (something or someone).",
+    "zh": ""
+  },
+  "opportunity": {
+    "ph": "/ˌɒp.əˈtjuː.nɪ.tɪ/",
+    "en": "A chance for advancement, progress or profit.",
+    "zh": ""
+  },
+  "implications": {
+    "ph": "",
+    "en": "The act of implicating.",
+    "zh": ""
+  },
+  "sharp": {
+    "ph": "/ʃɑːp/",
+    "en": "The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.",
+    "zh": ""
+  },
+  "actively": {
+    "ph": "",
+    "en": "In an active manner.",
+    "zh": ""
+  },
+  "curate": {
+    "ph": "/-ɹɪt/",
+    "en": "An assistant rector or vicar.",
+    "zh": "v. 策划、管理"
+  },
+  "keep": {
+    "ph": "/kiːp/",
+    "en": "The main tower of a castle or fortress, located within the castle walls.",
+    "zh": ""
+  },
+  "volunteer": {
+    "ph": "/vɒl.ənˈtɪə/",
+    "en": "One who enters into, or offers for, any service of his/her own free will, especially when done without pay.",
+    "zh": ""
+  },
+  "projects": {
+    "ph": "",
+    "en": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "zh": ""
+  },
+  "description": {
+    "ph": "/dɪˈskɹɪpʃən/",
+    "en": "A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.",
+    "zh": ""
+  },
+  "treat": {
+    "ph": "/tɹiːt/",
+    "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
+    "zh": "v. 对待"
+  },
+  "learning": {
+    "ph": "/ˈlɜːnɪŋ/",
+    "en": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+    "zh": ""
+  },
+  "part": {
+    "ph": "/pɐːt/",
+    "en": "A portion; a component.",
+    "zh": ""
+  },
+  "break": {
+    "ph": "/bɹeɪk/",
+    "en": "An instance of breaking something into two or more pieces.",
+    "zh": ""
+  },
+  "wait": {
+    "ph": "/weɪt/",
+    "en": "A delay.",
+    "zh": ""
+  },
+  "hired": {
+    "ph": "/ˈhaɪəd/",
+    "en": "To obtain the services of in return for fixed payment.",
+    "zh": ""
+  },
+  "biggest": {
+    "ph": "/ˈbɪɡəst/",
+    "en": "Of great size, large.",
+    "zh": ""
+  },
+  "failed": {
+    "ph": "/feɪld/",
+    "en": "To be unsuccessful.",
+    "zh": ""
+  },
+  "shows": {
+    "ph": "/ʃəʊz/",
+    "en": "A play, dance, or other entertainment.",
+    "zh": ""
+  },
+  "saying": {
+    "ph": "/ˈseɪɪŋ/",
+    "en": "To pronounce.",
+    "zh": ""
+  },
+  "exit": {
+    "ph": "/ˈɛksɪt/",
+    "en": "An act of going out or going away, or leaving; a departure.",
+    "zh": "n. 离开、退出"
+  },
+  "know": {
+    "ph": "/nəʊ/",
+    "en": "Knowledge; the state of knowing.",
+    "zh": ""
+  },
+  "until": {
+    "ph": "/ənˈtɪl/",
+    "en": "Up to the time of (something happening).",
+    "zh": ""
+  },
+  "budget": {
+    "ph": "/ˈbʌdʒ.ɪt/",
+    "en": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+    "zh": ""
+  },
+  "attached": {
+    "ph": "/əˈtætʃt/",
+    "en": "To fasten, to join to (literally and figuratively).",
+    "zh": ""
+  },
+  "badly": {
+    "ph": "/ˈbæd.li/",
+    "en": "Ill, unwell.",
+    "zh": ""
+  },
+  "workplaces": {
+    "ph": "",
+    "en": "The place where someone works.",
+    "zh": ""
+  },
+  "form": {
+    "ph": "/fɔːm/",
+    "en": "(heading, physical) To do with shape.",
+    "zh": "n. 形式"
+  },
+  "communication": {
+    "ph": "/kəˌmjuːnɪˈkeɪʃən/",
+    "en": "The act or fact of communicating anything; transmission.",
+    "zh": ""
+  },
+  "picture": {
+    "ph": "/ˈpɪktʃə/",
+    "en": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.",
+    "zh": ""
+  },
+  "sober": {
+    "ph": "/ˈsəʊ.bə(ɹ)/",
+    "en": "(often with up) To make or become sober.",
+    "zh": ""
+  },
+  "internally": {
+    "ph": "",
+    "en": "In an internal manner; within or inside of external limits; in an inner part or situation.",
+    "zh": ""
+  },
+  "known": {
+    "ph": "/nəʊn/",
+    "en": "To perceive the truth or factuality of; to be certain of or that.",
+    "zh": ""
+  },
+  "reorganising": {
+    "ph": "",
+    "en": "To organize something again, or in a different manner",
+    "zh": ""
+  },
+  "next": {
+    "ph": "/nɛkst/",
+    "en": "The one that follows after this one.",
+    "zh": ""
+  },
+  "recession": {
+    "ph": "/ɹɪˈsɛʃn̩/",
+    "en": "The act or an instance of receding or withdrawing.",
+    "zh": ""
+  },
+  "comes": {
+    "ph": "/kʌmz/",
+    "en": "To move from further away to nearer to.",
+    "zh": ""
+  },
+  "mass": {
+    "ph": "/mæs/",
+    "en": "(physical) Matter, material.",
+    "zh": ""
+  },
+  "layoffs": {
+    "ph": "",
+    "en": "(chiefly US) A dismissal of employees from their jobs because of tightened budgetary constraints or work shortage (not due to poor performance or misconduct).",
+    "zh": ""
+  },
+  "commercial": {
+    "ph": "/kəˈmɜːʃəl/",
+    "en": "An advertisement in a common media format, usually radio or television.",
+    "zh": ""
+  },
+  "incentive": {
+    "ph": "/ɪnˈsɛntɪv/",
+    "en": "Something that motivates, rouses, or encourages.",
+    "zh": ""
+  },
+  "position": {
+    "ph": "/pəˈzɪʃ(ə)n/",
+    "en": "A place or location.",
+    "zh": ""
+  },
+  "itself": {
+    "ph": "/ɪtˈsɛlf/",
+    "en": "(reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject",
+    "zh": ""
+  },
+  "operating": {
+    "ph": "/ˈɒpəɹeɪtɪŋ/",
+    "en": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+    "zh": ""
+  },
+  "system": {
+    "ph": "/ˈsɪstəm/",
+    "en": "A collection of organized things; a whole composed of relationships among its members.",
+    "zh": ""
+  },
+  "future": {
+    "ph": "/ˈfjuːt͡ʃə/",
+    "en": "The time ahead; those moments yet to be experienced.",
+    "zh": ""
+  },
+  "consistent": {
+    "ph": "/kənˈsɪstənt/",
+    "en": "(in the plural) Objects or facts that are coexistent, or in agreement with one another.",
+    "zh": ""
+  },
+  "definition": {
+    "ph": "/ˌdɛfɪˈnɪʃ(ə)n/",
+    "en": "A statement of the meaning of a word or word group or a sign or symbol (dictionary definitions).",
+    "zh": "n. 定义"
+  },
+  "broad": {
+    "ph": "/bɹɑd/",
+    "en": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
+    "zh": ""
+  },
+  "almost": {
+    "ph": "/ɔːl.ˈməʊst/",
+    "en": "Something or someone that doesn't quite make it.",
+    "zh": ""
+  },
+  "mobility": {
+    "ph": "/mə(ʊ)ˈbɪlɪti/",
+    "en": "The ability to move; capacity for movement.",
+    "zh": ""
+  },
+  "argued": {
+    "ph": "",
+    "en": "To show grounds for concluding (that); to indicate, imply.",
+    "zh": ""
+  },
+  "tighter": {
+    "ph": "",
+    "en": "A ribbon or string used to draw clothes closer; a tightener.",
+    "zh": ""
+  },
+  "strategic": {
+    "ph": "/stɹəˈtiː.dʒɪk/",
+    "en": "Of or pertaining to strategy",
+    "zh": ""
+  },
+  "documented": {
+    "ph": "",
+    "en": "To record in documents.",
+    "zh": ""
+  },
+  "tied": {
+    "ph": "/taɪd/",
+    "en": "To twist (a string, rope, or the like) around itself securely.",
+    "zh": ""
+  },
+  "plan": {
+    "ph": "/plæn/",
+    "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+    "zh": ""
+  },
+  "opportunistic": {
+    "ph": "/ˌɑpəɹˌtuːˈnɪstɪk/",
+    "en": "Taking advantage of situations that arise.",
+    "zh": ""
+  },
+  "undocumented": {
+    "ph": "",
+    "en": "Lacking instructions or reference material.",
+    "zh": ""
+  },
+  "taken": {
+    "ph": "/ˈteɪkən/",
+    "en": "To get into one's hands, possession or control, with or without force.",
+    "zh": ""
+  },
+  "drift": {
+    "ph": "/dɹɪft/",
+    "en": "(physical) Movement; that which moves or is moved.",
+    "zh": ""
+  },
+  "expansion": {
+    "ph": "/ɪkˈspænʃən/",
+    "en": "The act or process of expanding.",
+    "zh": ""
+  },
+  "compensation": {
+    "ph": "/ˌkɒmpɛnˈseɪʃən/",
+    "en": "The act or principle of compensating.",
+    "zh": ""
+  },
+  "status": {
+    "ph": "/ˈstæt.əs/",
+    "en": "A person’s condition, position or standing relative to that of others.",
+    "zh": ""
+  },
+  "suggests": {
+    "ph": "/səˈdʒɛsts/",
+    "en": "To imply but stop short of saying explicitly.",
+    "zh": ""
+  },
+  "significantly": {
+    "ph": "",
+    "en": "In a significant manner or to a significant extent.",
+    "zh": ""
+  },
+  "elevated": {
+    "ph": "/ˈɛləveɪtɪd/",
+    "en": "To raise (something) to a higher position.",
+    "zh": ""
+  },
+  "twelve": {
+    "ph": "/twɛlv/",
+    "en": "A group of twelve items.",
+    "zh": ""
+  },
+  "months": {
+    "ph": "/mʌnθs/",
+    "en": "A period into which a year is divided, historically based on the phases of the moon.",
+    "zh": ""
+  },
+  "meanwhile": {
+    "ph": "/ˈmiːnhwaɪl/",
+    "en": "The time between two events.",
+    "zh": ""
+  },
+  "enjoys": {
+    "ph": "/ɪnˈd͡ʒɔɪz/",
+    "en": "To receive pleasure or satisfaction from something",
+    "zh": ""
+  },
+  "economic": {
+    "ph": "/ˌiːkəˈnɒmɪk/",
+    "en": "Pertaining to an economy.",
+    "zh": ""
+  },
+  "transfer": {
+    "ph": "/ˈtɹænzfɜː/",
+    "en": "The act of conveying or removing something from one place, person or thing to another.",
+    "zh": ""
+  },
+  "risk": {
+    "ph": "/ɹɪsk/",
+    "en": "A possible adverse event or outcome",
+    "zh": ""
+  },
+  "firm": {
+    "ph": "/fɜːm/",
+    "en": "A business partnership; the name under which it trades.",
+    "zh": ""
+  },
+  "worker": {
+    "ph": "/ˈwɜː.kə/",
+    "en": "A person who performs labor for a living, especially manual labor.",
+    "zh": ""
+  },
+  "employment": {
+    "ph": "/ɛmˈplɔɪmənt/",
+    "en": "The work or occupation for which one is used, and often paid",
+    "zh": ""
+  },
+  "statistics": {
+    "ph": "/stəˈtɪstɪks/",
+    "en": "A mathematical science concerned with data collection, presentation, analysis, and interpretation.",
+    "zh": ""
+  },
+  "reason": {
+    "ph": "/ˈɹiːzən/",
+    "en": "A cause:",
+    "zh": ""
+  },
+  "happened": {
+    "ph": "/ˈhæpənd/",
+    "en": "To occur or take place.",
+    "zh": ""
+  },
+  "assumes": {
+    "ph": "",
+    "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+    "zh": ""
+  },
+  "equals": {
+    "ph": "/ˈiːkwəlz/",
+    "en": "A person or thing of equal status to others.",
+    "zh": ""
+  },
+  "progress": {
+    "ph": "/ˈpɹɒɡɹɛs/",
+    "en": "Movement or advancement through a series of events, or points in time; development through time.",
+    "zh": ""
+  },
+  "moved": {
+    "ph": "/muːvd/",
+    "en": "To change place or posture; to go, in any manner, from one place or position to another.",
+    "zh": ""
+  },
+  "necessarily": {
+    "ph": "/ˌnɛsəˈsɛɹəli/",
+    "en": "Inevitably; of necessity.",
+    "zh": ""
+  },
+  "growing": {
+    "ph": "/ˈɡɹəʊɪŋ/",
+    "en": "To become larger, to increase in magnitude.",
+    "zh": ""
+  },
+  "may": {
+    "ph": "/meɪ/",
+    "en": "To be strong; to have power (over).",
+    "zh": ""
+  },
+  "simply": {
+    "ph": "/ˈsɪmpli/",
+    "en": "(manner) In a simple way or state; considered in or by itself; without addition; alone.",
+    "zh": ""
+  },
+  "carrying": {
+    "ph": "/ˈkæɹiɪŋ/",
+    "en": "To lift (something) and take it to another place; to transport (something) by lifting.",
+    "zh": ""
+  },
+  "uncertainty": {
+    "ph": "/ʌnˈsɜːtənti/",
+    "en": "Doubt; the condition of being uncertain or without conviction.",
+    "zh": ""
+  },
+  "desk": {
+    "ph": "/dɛsk/",
+    "en": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
+    "zh": ""
+  },
+  "studied": {
+    "ph": "/ˈstʌdid/",
+    "en": "Practiced; self-conscious; careful.",
+    "zh": ""
+  },
+  "quietly": {
+    "ph": "/ˈkwaɪ.ɪt.li/",
+    "en": "In a quiet manner.",
+    "zh": "adv. 安静地"
+  },
+  "cold": {
+    "ph": "/kɔʊld/",
+    "en": "(of a thing) Having a low temperature.",
+    "zh": ""
+  },
+  "year": {
+    "ph": "/jɪə/",
+    "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+    "zh": ""
+  },
+  "architecture": {
+    "ph": "/ˈɑː.kɪ.ˌtɛk.tʃə/",
+    "en": "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",
+    "zh": ""
+  },
+  "understated": {
+    "ph": "",
+    "en": "To state (something) with less completeness than needed; to minimise or downplay.",
+    "zh": "adj. 低调的、克制的"
+  },
+  "modernism": {
+    "ph": "",
+    "en": "Modern or contemporary ideas, thought, practices, etc.",
+    "zh": ""
+  },
+  "visitors": {
+    "ph": "/ˈvɪzɪtəz/",
+    "en": "Someone who visits someone else; someone staying as a guest.",
+    "zh": ""
+  },
+  "mistake": {
+    "ph": "/mɪˈsteɪk/",
+    "en": "An error; a blunder.",
+    "zh": ""
+  },
+  "capital": {
+    "ph": "/ˈkæp.ɪ.təl/",
+    "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+    "zh": ""
+  },
+  "residents": {
+    "ph": "",
+    "en": "A person, animal or plant living at a certain location or in a certain area.",
+    "zh": ""
+  },
+  "help": {
+    "ph": "/hɛlp/",
+    "en": "Action given to provide assistance; aid.",
+    "zh": ""
+  },
+  "process": {
+    "ph": "/ˈpɹoʊsɛs/",
+    "en": "A series of events which produce a result (the product).",
+    "zh": ""
+  },
+  "begun": {
+    "ph": "/bɪˈɡʌn/",
+    "en": "To start, to initiate or take the first step into something.",
+    "zh": ""
+  },
+  "ripple": {
+    "ph": "/ˈɹɪp(ə)l/",
+    "en": "A moving disturbance, or undulation, in the surface of a fluid.",
+    "zh": "v. 扩散、起涟漪"
+  },
+  "outward": {
+    "ph": "/ˈaʊt.wəd/",
+    "en": "Outer; located towards the outside",
+    "zh": ""
+  },
+  "halls": {
+    "ph": "",
+    "en": "A corridor; a hallway.",
+    "zh": ""
+  },
+  "municipalities": {
+    "ph": "",
+    "en": "A district with a government that typically encloses no other governed districts; a borough, city, or incorporated town or village.",
+    "zh": ""
+  },
+  "stopped": {
+    "ph": "/stɑpt/",
+    "en": "To cease moving.",
+    "zh": ""
+  },
+  "asking": {
+    "ph": "/ˈaskɪŋ/",
+    "en": "To request (information, or an answer to a question).",
+    "zh": ""
+  },
+  "guessing": {
+    "ph": "/ˈɡɛsɪŋ/",
+    "en": "The act of making a guess; estimate or prediction; foresight.",
+    "zh": ""
+  },
+  "exercise": {
+    "ph": "/ˈɛk.sə.saɪz/",
+    "en": "Any activity designed to develop or hone a skill or ability.",
+    "zh": ""
+  },
+  "large": {
+    "ph": "/ˈlɑːd͡ʒ/",
+    "en": "An old musical note, equal to two longas, four breves, or eight semibreves.",
+    "zh": ""
+  },
+  "demands": {
+    "ph": "/dɪˈmɑːndz/",
+    "en": "The desire to purchase goods and services.",
+    "zh": ""
+  },
+  "corrections": {
+    "ph": "/kəˈɹɛkʃənz/",
+    "en": "The act of correcting.",
+    "zh": ""
+  },
+  "pointed": {
+    "ph": "/ˈpɔɪntɪd/",
+    "en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+    "zh": ""
+  },
+  "out": {
+    "ph": "/æɔt/",
+    "en": "A means of exit, escape, reprieve, etc.",
+    "zh": ""
+  },
+  "places": {
+    "ph": "/ˈpleɪsɪz/",
+    "en": "(physical) An area; somewhere within an area.",
+    "zh": ""
+  },
+  "outdated": {
+    "ph": "/aʊtˈdeɪtɪd/",
+    "en": "Out of date, old-fashioned, antiquated.",
+    "zh": "adj. 过时的"
+  },
+  "silence": {
+    "ph": "/ˈsaɪ.ləns/",
+    "en": "The absence of any sound.",
+    "zh": ""
+  },
+  "issue": {
+    "ph": "/ˈɪsjuː/",
+    "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+    "zh": ""
+  },
+  "unimportant": {
+    "ph": "",
+    "en": "Petty; not important or noteworthy",
+    "zh": ""
+  },
+  "turned": {
+    "ph": "/tɜːnd/",
+    "en": "(heading) to make a non-linear physical movement.",
+    "zh": ""
+  },
+  "drafted": {
+    "ph": "",
+    "en": "To write a first version, make a preliminary sketch.",
+    "zh": ""
+  },
+  "demographic": {
+    "ph": "/dɛməˈɡɹæfɪk/",
+    "en": "(chiefly in plural) A demographic criterion: a characteristic used to classify people for statistical purposes, such as age, race, or gender.",
+    "zh": "adj. 人口的"
+  },
+  "projections": {
+    "ph": "",
+    "en": "Something which projects, protrudes, juts out, sticks out, or stands out.",
+    "zh": ""
+  },
+  "cycling": {
+    "ph": "/ˈsaɪk(ə)lɪŋ/",
+    "en": "To ride a bicycle or other cycle.",
+    "zh": "n. 骑行"
+  },
+  "infrastructure": {
+    "ph": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/",
+    "en": "(systems theory) An underlying base or foundation especially for an organization or system.",
+    "zh": ""
+  },
+  "drawn": {
+    "ph": "[dɹɔːn]",
+    "en": "To move or develop something.",
+    "zh": ""
+  },
+  "map": {
+    "ph": "/mæp/",
+    "en": "A visual representation of an area, whether real or imaginary.",
+    "zh": ""
+  },
+  "commute": {
+    "ph": "/kəˈmjuːt/",
+    "en": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in; to lessen",
+    "zh": "v. 通勤"
+  },
+  "patterns": {
+    "ph": "",
+    "en": "Model, example.",
+    "zh": ""
+  },
+  "updated": {
+    "ph": "",
+    "en": "To bring (a thing) up to date.",
+    "zh": ""
+  },
+  "since": {
+    "ph": "/sɪns/",
+    "en": "From a specified time in the past.",
+    "zh": ""
+  },
+  "library": {
+    "ph": "/ˈlaɪbɹi/",
+    "en": "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well as providing various other services for its users.",
+    "zh": ""
+  },
+  "service": {
+    "ph": "/ˈsɜːvɪs/",
+    "en": "An act of being of assistance to someone.",
+    "zh": ""
+  },
+  "own": {
+    "ph": "/ˈəʊn/",
+    "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+    "zh": ""
+  },
+  "neighbourhood": {
+    "ph": "",
+    "en": "The quality of being a neighbor, of living nearby, next to each-other; proximity.",
+    "zh": "n. 社区"
+  },
+  "reliable": {
+    "ph": "/ɹɪˈlaɪəbəl/",
+    "en": "Something or someone reliable or dependable",
+    "zh": ""
+  },
+  "ours": {
+    "ph": "/ɑːz/",
+    "en": "That which belongs to us; the possessive case of we, used without a following noun.",
+    "zh": ""
+  },
+  "see": {
+    "ph": "/siː/",
+    "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+    "zh": ""
+  },
+  "shift": {
+    "ph": "/ʃɪft/",
+    "en": "A modifier key whose main function is shifting between two or more functions of any of certain other keys (usually by pressing Shift and the other button simultaneously).",
+    "zh": ""
+  },
+  "psychology": {
+    "ph": "/saɪˈkɒlədʒɪ/",
+    "en": "The study of the human mind.",
+    "zh": "n. 心理"
+  },
+  "participation": {
+    "ph": "",
+    "en": "The act of participating, of taking part in something.",
+    "zh": ""
+  },
+  "asks": {
+    "ph": "/ɑːsks/",
+    "en": "To request (information, or an answer to a question).",
+    "zh": ""
+  },
+  "older": {
+    "ph": "/ˈəʊldə/",
+    "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+    "zh": ""
+  },
+  "better": {
+    "ph": "[ˈbeɾə]",
+    "en": "An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior.",
+    "zh": ""
+  },
+  "educated": {
+    "ph": "/ˈɛdjuːkeɪtɪd/",
+    "en": "To instruct or train",
+    "zh": ""
+  },
+  "engaged": {
+    "ph": "/ɛnˈɡeɪdʒd/",
+    "en": "(heading) To interact socially.",
+    "zh": ""
+  },
+  "retired": {
+    "ph": "/ɹɪˈtʌɪəd/",
+    "en": "To stop working on a permanent basis, usually because of old age or illness.",
+    "zh": "adj. 退休的"
+  },
+  "whole": {
+    "ph": "/həʊl/",
+    "en": "Something complete, without any parts missing.",
+    "zh": ""
+  },
+  "correct": {
+    "ph": "/kəˈɹɛkt/",
+    "en": "Free from error; true; accurate.",
+    "zh": "v. 纠正"
+  },
+  "includes": {
+    "ph": "/ɪnˈkluːdz/",
+    "en": "A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+    "zh": ""
+  },
+  "night": {
+    "ph": "/naɪt/",
+    "en": "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.",
+    "zh": ""
+  },
+  "route": {
+    "ph": "/ɹʉːt/",
+    "en": "A course or way which is traveled or passed.",
+    "zh": ""
+  },
+  "disabled": {
+    "ph": "[dɪsˈeɪbəɫd]",
+    "en": "To render unable; to take away an ability of, as by crippling.",
+    "zh": "adj. 残障的"
+  },
+  "child": {
+    "ph": "/t͡ʃaɪld/",
+    "en": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+    "zh": ""
+  },
+  "whose": {
+    "ph": "/huːz/",
+    "en": "(interrogative) That or those of whom or belonging to whom.",
+    "zh": ""
+  },
+  "appear": {
+    "ph": "/əˈpiːɹ/",
+    "en": "To come or be in sight; to be in view; to become visible.",
+    "zh": ""
+  },
+  "standard": {
+    "ph": "/ˈstændəd/",
+    "en": "A principle or example or measure used for comparison.",
+    "zh": "adj. 标准的"
+  },
+  "kinds": {
+    "ph": "/kaɪndz/",
+    "en": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+    "zh": ""
+  },
+  "easier": {
+    "ph": "/ˈiː.zi.ə/",
+    "en": "Comfortable; at ease.",
+    "zh": "adj. 更容易"
+  },
+  "preach": {
+    "ph": "/pɹiːt͡ʃ/",
+    "en": "A religious discourse.",
+    "zh": "v. 宣扬"
+  },
+  "practise": {
+    "ph": "/ˈpɹæktɪs/",
+    "en": "To repeat (an activity) as a way of improving one's skill in that activity.",
+    "zh": "v. 实践"
+  },
+  "prove": {
+    "ph": "/pɹuːv/",
+    "en": "To proofread.",
+    "zh": ""
+  },
+  "however": {
+    "ph": "/hɑʊˈɛvə/",
+    "en": "Nevertheless; yet, still; in spite of (that).",
+    "zh": ""
+  },
+  "binary": {
+    "ph": "/ˈbaɪ.nə.ɹɪ/",
+    "en": "A thing which can have only (one or the other of) two values.",
+    "zh": "adj. 二元的"
+  },
+  "false": {
+    "ph": "/fɒls/",
+    "en": "One of two options on a true-or-false test.",
+    "zh": "adj. 虚假的"
+  },
+  "interesting": {
+    "ph": "/ˈɪnt(ə)ɹɛstɪŋ/",
+    "en": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of a person or thing.",
+    "zh": ""
+  },
+  "gets": {
+    "ph": "/ɡɛts/",
+    "en": "Offspring.",
+    "zh": ""
+  },
+  "decide": {
+    "ph": "/dɪˈsaɪd/",
+    "en": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+    "zh": "v. 决定"
+  },
+  "define": {
+    "ph": "/dɪˈfaɪn/",
+    "en": "A kind of macro in source code that replaces one text string with another wherever it occurs.",
+    "zh": ""
+  },
+  "boundary": {
+    "ph": "/ˈbaʊndɹi/",
+    "en": "The dividing line or location between two areas.",
+    "zh": "n. 边界"
+  },
+  "claims": {
+    "ph": "/kleɪmz/",
+    "en": "A demand of ownership made for something.",
+    "zh": ""
+  },
+  "admits": {
+    "ph": "/ədˈmɪts/",
+    "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+    "zh": ""
+  },
+  "discovers": {
+    "ph": "",
+    "en": "To find or learn something for the first time.",
+    "zh": ""
+  },
+  "managed": {
+    "ph": "/ˈmænɪdʒd/",
+    "en": "To direct or be in charge of.",
+    "zh": ""
+  },
+  "resource": {
+    "ph": "/ɹɪˈsɔɹs/",
+    "en": "Something that one uses to achieve an objective, e.g. raw materials or personnel.",
+    "zh": ""
+  },
+  "deployed": {
+    "ph": "",
+    "en": "To prepare and arrange (usually military unit or units) for use.",
+    "zh": ""
+  },
+  "invent": {
+    "ph": "/ɪnˈvɛnt/",
+    "en": "To design a new process or mechanism.",
+    "zh": ""
+  },
+  "insight": {
+    "ph": "/ˈɪnsaɪt/",
+    "en": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+    "zh": ""
+  },
+  "comparable": {
+    "ph": "/kəmˈpæɹəbl̩/",
+    "en": "Something suitable for comparison.",
+    "zh": ""
+  },
+  "detail": {
+    "ph": "/ˈdiːteɪl/",
+    "en": "Something small enough to escape casual notice.",
+    "zh": ""
+  },
+  "reach": {
+    "ph": "/ɹiːt͡ʃ/",
+    "en": "The act of stretching or extending; extension.",
+    "zh": ""
+  },
+  "habit": {
+    "ph": "/ˈhæbət/",
+    "en": "An action performed on a regular basis.",
+    "zh": ""
+  },
+  "admitting": {
+    "ph": "/ədˈmɪtɪŋ/",
+    "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+    "zh": ""
+  },
+  "advance": {
+    "ph": "/ədˈvaːns/",
+    "en": "A forward move; improvement or progression.",
+    "zh": ""
+  },
+  "arrive": {
+    "ph": "/əˈɹaɪv/",
+    "en": "To reach; to get to a certain place.",
+    "zh": ""
+  },
+  "before": {
+    "ph": "/bɪˈfɔː/",
+    "en": "At an earlier time.",
+    "zh": ""
+  },
+  "after": {
+    "ph": "/ˈæf.tə(ɹ)/",
+    "en": "Later; second (of two); next, following, subsequent",
+    "zh": ""
+  },
+  "reading": {
+    "ph": "/ˈɹidiŋ/",
+    "en": "To look at and interpret letters or other information that is written.",
+    "zh": ""
+  },
+  "technique": {
+    "ph": "/tɛkˈniːk/",
+    "en": "The practical aspects of a given art, occupation etc.; formal requirements.",
+    "zh": ""
+  },
+  "governance": {
+    "ph": "/ˈɡʌvənəns/",
+    "en": "The process, or the power, of governing; government or administration.",
+    "zh": ""
+  },
+  "innovation": {
+    "ph": "/ˌɪnəˈveɪʃən/",
+    "en": "The act of innovating; the introduction of something new, in customs, rites, etc.",
+    "zh": ""
+  },
+  "applied": {
+    "ph": "/əˈplaɪd/",
+    "en": "Put into practical use.",
+    "zh": ""
+  },
+  "invites": {
+    "ph": "",
+    "en": "To ask for the presence or participation of someone or something.",
+    "zh": ""
+  },
+  "survive": {
+    "ph": "/səˈvʌɪv/",
+    "en": "Of a person, to continue to live; to remain alive.",
+    "zh": ""
+  },
+  "contact": {
+    "ph": "",
+    "en": "The act of touching physically; being in close association.",
+    "zh": ""
+  },
+  "live": {
+    "ph": "/lɪv/",
+    "en": "To be alive; to have life.",
+    "zh": ""
+  },
+  "matters": {
+    "ph": "/ˈmætəz/",
+    "en": "Substance, material.",
+    "zh": ""
+  },
+  "municipality": {
+    "ph": "/mjʊˌnɪsɪˈpælɪti/",
+    "en": "A district with a government that typically encloses no other governed districts; a borough, city, or incorporated town or village.",
+    "zh": "n. 市政当局"
+  },
+  "lift": {
+    "ph": "/lɪft/",
+    "en": "An act of lifting or raising.",
+    "zh": "v. 揭开、抬起"
+  },
+  "immigrant": {
+    "ph": "/ˈɪmɪɡɹənt/",
+    "en": "A non-native person who comes to a country from another country in order to permanently settle there.",
+    "zh": "n. 移民"
+  },
+  "show up": {
+    "ph": "",
+    "en": "To appear, arrive, or attend, especially suddenly or erratically.",
+    "zh": "出现、显现"
+  },
+  "discover": {
+    "ph": "/dɪsˈkʊvə/",
+    "en": "To find or learn something for the first time.",
+    "zh": "v. 发现"
+  },
+  "manage": {
+    "ph": "/ˈmænɪdʒ/",
+    "en": "The act of managing or controlling something.",
+    "zh": "v. 管理"
+  },
+  "decades": {
+    "ph": "",
+    "en": "A group, set, or series of ten , particularly:",
+    "zh": ""
+  },
+  "understand": {
+    "ph": "/ˌɞndəɹˈstand/",
+    "en": "To grasp a concept fully and thoroughly, especially (of words, statements, art, etc.) to be aware of the meaning of and (of people) to be aware of the intent of.",
+    "zh": ""
+  },
+  "deliberately": {
+    "ph": "/dəˈlɪb(ə)ɹətli/",
+    "en": "Intentionally, or after deliberation; not accidentally.",
+    "zh": "adv. 故意地"
+  },
+  "chooses": {
+    "ph": "/ˈtʃuːzɪz/",
+    "en": "To pick; to make the choice of; to select.",
+    "zh": ""
+  },
+  "scroll": {
+    "ph": "/skɹoʊl/",
+    "en": "A roll of paper or parchment; a writing formed into a roll.",
+    "zh": "n. 滚动"
+  },
+  "phone": {
+    "ph": "/fəʊ̯n/",
+    "en": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+    "zh": ""
+  },
+  "due": {
+    "ph": "/dʒʉː/",
+    "en": "Deserved acknowledgment.",
+    "zh": ""
+  },
+  "hours": {
+    "ph": "/ˈaʊɚz/",
+    "en": "A time period of sixty minutes; one twenty-fourth of a day.",
+    "zh": ""
+  },
+  "converged": {
+    "ph": "",
+    "en": "Of two or more entities, to approach each other; to get closer and closer.",
+    "zh": ""
+  },
+  "emotion": {
+    "ph": "/iˈmoʊʃən/",
+    "en": "A person's internal state of being and involuntary physiological response to an object or a situation, based on or tied to physical state and sensory data.",
+    "zh": "n. 情绪"
+  },
+  "regulation": {
+    "ph": "/ˌɹɛɡjʊˈleɪʃən/",
+    "en": "The act of regulating or the condition of being regulated.",
+    "zh": "n. 调节"
+  },
+  "procrastinate": {
+    "ph": "/pɹəʊˈkɹæstɪneɪt/",
+    "en": "To delay taking action; to wait until later.",
+    "zh": "v. 拖延"
+  },
+  "difficult": {
+    "ph": "/ˈdɪfɪkəlt/",
+    "en": "To make difficult; to impede; to perplex.",
+    "zh": ""
+  },
+  "anxiety": {
+    "ph": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
+    "en": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+    "zh": "n. 焦虑"
+  },
+  "perfectionism": {
+    "ph": "",
+    "en": "An unwillingness to settle for anything less than perfection.",
+    "zh": "n. 完美主义"
+  },
+  "dread": {
+    "ph": "/dɹɛd/",
+    "en": "Great fear in view of impending evil; fearful apprehension of danger; anticipatory terror.",
+    "zh": ""
+  },
+  "temporary": {
+    "ph": "/ˈtɛmpəɹi/",
+    "en": "One serving for a limited time; short-term employee.",
+    "zh": "adj. 暂时的"
+  },
+  "relief": {
+    "ph": "/ɹɪˈliːf/",
+    "en": "The removal of stress or discomfort.",
+    "zh": ""
+  },
+  "avoidance": {
+    "ph": "",
+    "en": "The act of annulling; annulment.",
+    "zh": "n. 回避"
+  },
+  "feels": {
+    "ph": "/fiːlz/",
+    "en": "Of or relating to the emotions.",
+    "zh": ""
+  },
+  "certain": {
+    "ph": "/ˈsɝtn̩/",
+    "en": "(with \"the\") Something certain.",
+    "zh": "adj. 确定的"
+  },
+  "discomfort": {
+    "ph": "/dɪsˈkʌmfət/",
+    "en": "Mental or bodily distress.",
+    "zh": ""
+  },
+  "task": {
+    "ph": "/tɑːsk/",
+    "en": "A piece of work done as part of one’s duties.",
+    "zh": ""
+  },
+  "symptom": {
+    "ph": "/ˈsɪm(p)təm/",
+    "en": "A perceived change in some function, sensation or appearance of a person that indicates a disease or disorder, such as fever, headache or rash.",
+    "zh": "n. 症状"
+  },
+  "effective": {
+    "ph": "/əˈfɛktɪv/",
+    "en": "A soldier fit for duty",
+    "zh": ""
+  },
+  "interventions": {
+    "ph": "",
+    "en": "The action of intervening; interfering in some course of events.",
+    "zh": ""
+  },
+  "involve": {
+    "ph": "/ɪnˈvɒlv/",
+    "en": "To roll or fold up; to wind round; to entwine.",
+    "zh": ""
+  },
+  "relationship": {
+    "ph": "/ɹɪˈleɪʃ(ə)nʃɪp/",
+    "en": "Connection or association; the condition of being related.",
+    "zh": ""
+  },
+  "environment": {
+    "ph": "/-mɪnt/",
+    "en": "The surroundings of, and influences on, a particular item of interest.",
+    "zh": "n. 环境"
+  },
+  "feel": {
+    "ph": "/fiːl/",
+    "en": "A quality of an object experienced by touch.",
+    "zh": ""
+  },
+  "quoted": {
+    "ph": "/ˈkwəʊtɪd/",
+    "en": "To repeat the exact words of (a person).",
+    "zh": "adj. 被引用的"
+  },
+  "line": {
+    "ph": "/laɪn/",
+    "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+    "zh": ""
+  },
+  "his": {
+    "ph": "/ˈhɪz/",
+    "en": "Honorific alternative letter-case form of his, sometimes used when referring to God or another important figure who is understood from context.",
+    "zh": ""
+  },
+  "lectures": {
+    "ph": "/ˈlɛkt͡ʃəz/",
+    "en": "A spoken lesson or exposition, usually delivered to a group.",
+    "zh": ""
+  },
+  "sin": {
+    "ph": "/sɪn/",
+    "en": "A violation of God's will or religious law.",
+    "zh": "n. 罪过"
+  },
+  "beings": {
+    "ph": "/ˈbiːɪŋz/",
+    "en": "A living creature.",
+    "zh": ""
+  },
+  "avoid": {
+    "ph": "/əˈvɔɪd/",
+    "en": "To try not to meet or communicate with (a person); to shun",
+    "zh": "v. 回避"
+  },
+  "pain": {
+    "ph": "/peɪn/",
+    "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
+    "zh": ""
+  },
+  "treatment": {
+    "ph": "/ˈtɹiːtmənt/",
+    "en": "The process or manner of treating someone or something.",
+    "zh": ""
+  },
+  "suppress": {
+    "ph": "/səˈpɹɛs/",
+    "en": "To put an end to, especially with force, to crush, do away with; to prohibit, subdue.",
+    "zh": "v. 压抑"
+  },
+  "stronger": {
+    "ph": "/ˈstɹɑŋɡɚ/",
+    "en": "Capable of producing great physical force.",
+    "zh": "adj. 更强的"
+  },
+  "choose": {
+    "ph": "/t͡ʃuːz/",
+    "en": "To pick; to make the choice of; to select.",
+    "zh": "v. 选择"
+  },
+  "action": {
+    "ph": "/ˈæk.ʃən/",
+    "en": "Something done so as to accomplish a purpose.",
+    "zh": ""
+  },
+  "anyway": {
+    "ph": "/ˈɛniweɪ/",
+    "en": "Regardless; anyhow.",
+    "zh": ""
+  },
+  "understanding": {
+    "ph": "/ʌndəˈstandɪŋ/",
+    "en": "To grasp a concept fully and thoroughly, especially (of words, statements, art, etc.) to be aware of the meaning of and (of people) to be aware of the intent of.",
+    "zh": ""
+  },
+  "pass": {
+    "ph": "[pʰäːs]",
+    "en": "To change place.",
+    "zh": ""
+  },
+  "treating": {
+    "ph": "/ˈtɹiːtɪŋ/",
+    "en": "To negotiate, discuss terms, bargain (for or with).",
+    "zh": ""
+  },
+  "normal": {
+    "ph": "/ˈnɔːməl/",
+    "en": "A line or vector that is perpendicular to another line, surface, or plane.",
+    "zh": "adj. 正常的"
+  },
+  "understandable": {
+    "ph": "",
+    "en": "Capable of being understood; comprehensible.",
+    "zh": "adj. 可理解的"
+  },
+  "moral": {
+    "ph": "/ˈmɒɹəl/",
+    "en": "(of a narrative) The ethical significance or practical lesson.",
+    "zh": "adj. 道德的"
+  },
+  "additional": {
+    "ph": "/əˈdɪʃənəl/",
+    "en": "Something added.",
+    "zh": ""
+  },
+  "burden": {
+    "ph": "/ˈbɜːdn/",
+    "en": "A heavy load.",
+    "zh": ""
+  },
+  "summary": {
+    "ph": "/ˈsʌməɹi/",
+    "en": "An abstract or a condensed presentation of the substance of a body of material.",
+    "zh": "n. 总结"
+  },
+  "willpower": {
+    "ph": "/ˈwɪlˌpaʊɚ/",
+    "en": "The unwavering strength of will to carry out one's wishes.",
+    "zh": "n. 意志力"
+  },
+  "feelings": {
+    "ph": "/ˈfiːlɪŋz/",
+    "en": "Sensation, particularly through the skin.",
+    "zh": ""
+  },
+  "recognise": {
+    "ph": "/ˈɹɛkənaɪz/",
+    "en": "To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.",
+    "zh": "v. 认出"
+  },
+  "around": {
+    "ph": "/əˈɹaʊnd/",
+    "en": "(with the verb \"to be\") Present in the vicinity.",
+    "zh": ""
+  },
+  "moments": {
+    "ph": "/ˈməʊmənts/",
+    "en": "A brief, unspecified amount of time.",
+    "zh": ""
+  },
+  "slip": {
+    "ph": "/slɪp/",
+    "en": "A thin, slippery mix of clay and water.",
+    "zh": ""
+  },
+  "patience": {
+    "ph": "/ˈpeɪʃəns/",
+    "en": "The quality of being patient.",
+    "zh": "n. 耐心"
+  },
+  "friend": {
+    "ph": "/fɹɛnd/",
+    "en": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+    "zh": ""
+  },
+  "deadline": {
+    "ph": "/ˈdɛdˌlaɪn/",
+    "en": "A time limit in the form of a date on or before which something must be completed.",
+    "zh": ""
+  },
+  "loom": {
+    "ph": "/luːm/",
+    "en": "A utensil; tool; a weapon; (usually in compound) an article in general.",
+    "zh": "v. 逼近"
+  },
+  "finish": {
+    "ph": "/ˈfɪnɪʃ/",
+    "en": "An end; the end of anything.",
+    "zh": "v. 完成"
+  },
+  "finds": {
+    "ph": "/faɪndz/",
+    "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+    "zh": ""
+  },
+  "choosing": {
+    "ph": "/ˈtʃuːzɪŋ/",
+    "en": "To pick; to make the choice of; to select.",
+    "zh": ""
+  },
+  "choice": {
+    "ph": "/tʃɔɪs/",
+    "en": "An option; a decision; an opportunity to choose or select something.",
+    "zh": ""
+  },
+  "seeing": {
+    "ph": "/ˈsiːɪŋ/",
+    "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+    "zh": ""
+  },
+  "refused": {
+    "ph": "/ɹɪˈfjuːzd/",
+    "en": "To decline (a request or demand).",
+    "zh": ""
+  },
+  "confront": {
+    "ph": "/kɒnˈfɹɒnt/",
+    "en": "To stand or meet facing, especially in competition, hostility or defiance; to come face to face with",
+    "zh": "v. 面对"
+  },
+  "trigger": {
+    "ph": "/ˈtɹɪɡə/",
+    "en": "A finger-operated lever used to fire a gun.",
+    "zh": "v. 触发"
+  },
+  "intervention": {
+    "ph": "/ɪntəˈvɛnʃən/",
+    "en": "The action of intervening; interfering in some course of events.",
+    "zh": "n. 干预"
+  },
+  "lecture": {
+    "ph": "/ˈlɛk.t͡ʃə/",
+    "en": "A spoken lesson or exposition, usually delivered to a group.",
+    "zh": "n. 演讲、讲座"
+  },
+  "term": {
+    "ph": "/tɜːm/",
+    "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
+    "zh": ""
+  },
+  "coined": {
+    "ph": "/kɔɪnd/",
+    "en": "To make of a definite fineness, and convert into coins, as a mass of metal.",
+    "zh": ""
+  },
+  "sociologist": {
+    "ph": "",
+    "en": "A scientist studying the field of sociology; a social scientist.",
+    "zh": "n. 社会学家"
+  },
+  "ray": {
+    "ph": "/ɹeɪ/",
+    "en": "A beam of light or radiation.",
+    "zh": ""
+  },
+  "book": {
+    "ph": "/buːk/",
+    "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+    "zh": ""
+  },
+  "exist": {
+    "ph": "/ɪɡˈzɪst/",
+    "en": "(stative) to be; have existence; have being or reality",
+    "zh": "v. 存在"
+  },
+  "dominant": {
+    "ph": "/ˈdɒmɪnənt/",
+    "en": "The fifth major tone of a musical scale (five major steps above the note in question); thus G is the dominant of C, A of D, and so on.",
+    "zh": "adj. 占主导的"
+  },
+  "adult": {
+    "ph": "/əˈdʌlt/",
+    "en": "A fully grown human or animal.",
+    "zh": ""
+  },
+  "life": {
+    "ph": "/laɪf/",
+    "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+    "zh": ""
+  },
+  "barber": {
+    "ph": "/ˈbɑː.bə/",
+    "en": "A person whose profession is cutting (usually male) customers' hair and beards.",
+    "zh": "n. 理发师"
+  },
+  "shop": {
+    "ph": "/ʃɒp/",
+    "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+    "zh": ""
+  },
+  "diner": {
+    "ph": "/ˈdaɪnə(ɹ)/",
+    "en": "One who dines.",
+    "zh": ""
+  },
+  "local": {
+    "ph": "/ˈləʊkl̩/",
+    "en": "A person who lives near a given place.",
+    "zh": ""
+  },
+  "park": {
+    "ph": "[paːk]",
+    "en": "An area of land set aside for environment preservation or recreation.",
+    "zh": ""
+  },
+  "corner": {
+    "ph": "/ˈkɔːnə(ɹ)/",
+    "en": "The point where two converging lines meet; an angle, either external or internal.",
+    "zh": ""
+  },
+  "pub": {
+    "ph": "/pʊb/",
+    "en": "A public house where beverages, primarily alcoholic, may be bought and consumed, also providing food and sometimes entertainment such as live music or television.",
+    "zh": ""
+  },
+  "argument": {
+    "ph": "/ˈɑːɡjʊmənt/",
+    "en": "A fact or statement used to support a proposition; a reason.",
+    "zh": "n. 论点"
+  },
+  "civic": {
+    "ph": "/ˈsɪvɪk/",
+    "en": "Of, relating to, or belonging to a city, a citizen, or citizenship; municipal or civil.",
+    "zh": "adj. 公民的"
+  },
+  "gentrification": {
+    "ph": "/dʒɛntɹɪfɪˈkeɪʃən/",
+    "en": "(urban studies) The renewal and rebuilding that accompanies the influx of middle class or affluent people into deteriorating areas and often displaces earlier, usually poorer, residents; any example of such a process.",
+    "zh": "n. 高端化"
+  },
+  "space": {
+    "ph": "/speɪs/",
+    "en": "(heading) Of time.",
+    "zh": ""
+  },
+  "escalating": {
+    "ph": "",
+    "en": "To increase (something) in extent or intensity; to intensify or step up.",
+    "zh": ""
+  },
+  "leisure": {
+    "ph": "/ˈliːʒə(ɹ)/",
+    "en": "Freedom provided by the cessation of activities.",
+    "zh": "n. 休闲"
+  },
+  "coffee": {
+    "ph": "/ˈkɑ.fi/",
+    "en": "A beverage made by infusing the beans of the coffee plant in hot water.",
+    "zh": "n. 咖啡"
+  },
+  "chain": {
+    "ph": "/ˈt͡ʃeɪn/",
+    "en": "A series of interconnected rings or links usually made of metal.",
+    "zh": ""
+  },
+  "replaced": {
+    "ph": "/ɹɪˈpleɪst/",
+    "en": "To restore to a former place, position, condition, etc.; to put back",
+    "zh": ""
+  },
+  "algorithm": {
+    "ph": "/ˈælɡəɹɪðm̩/",
+    "en": "A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps.",
+    "zh": "n. 算法"
+  },
+  "serendipity": {
+    "ph": "/ˌsɛ.ɹən.ˈdɪ.pɪ.ti/",
+    "en": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+    "zh": "n. 意外的好运"
+  },
+  "headphones": {
+    "ph": "",
+    "en": "A pair of speakers worn over or in the ears so only the wearer can hear the sound.",
+    "zh": "n. 耳机"
+  },
+  "stranger": {
+    "ph": "/ˈstɹeɪndʒə/",
+    "en": "Not normal; odd, unusual, surprising, out of the ordinary.",
+    "zh": "n. 陌生人"
+  },
+  "stool": {
+    "ph": "/stuːl/",
+    "en": "A seat, especially for one person and without armrests.",
+    "zh": "n. 凳子"
+  },
+  "cheaper": {
+    "ph": "",
+    "en": "Low and/or reduced in price.",
+    "zh": "adj. 更便宜"
+  },
+  "critics": {
+    "ph": "",
+    "en": "A person who appraises the works of others.",
+    "zh": ""
+  },
+  "much": {
+    "ph": "/mʌt͡ʃ/",
+    "en": "Large, great.",
+    "zh": ""
+  },
+  "predict": {
+    "ph": "/pɹɪˈdɪkt/",
+    "en": "A prediction.",
+    "zh": "v. 预测"
+  },
+  "rebound": {
+    "ph": "/ɹiˈbaʊnd/",
+    "en": "The recoil of an object bouncing off another.",
+    "zh": "v. 反弹"
+  },
+  "decidedly": {
+    "ph": "/dɪˈsaɪdɪdli/",
+    "en": "In a manner which leaves little question; definitely, clearly.",
+    "zh": "adv. 明显地"
+  },
+  "incarnation": {
+    "ph": "/ˌɪŋkɑː(ɹ)ˈneɪʃən/",
+    "en": "An incarnate being or form.",
+    "zh": "n. 化身、形态"
+  },
+  "onwards": {
+    "ph": "",
+    "en": "To keep going; to progress or persevere.",
+    "zh": ""
+  },
+  "striking": {
+    "ph": "/ˈstɹaɪkɪŋ/",
+    "en": "(sometimes with out or through) To delete or cross out; to scratch or eliminate.",
+    "zh": "adj. 显著的"
+  },
+  "independent": {
+    "ph": "/ɪndɪˈpɛndənt/",
+    "en": "A candidate or voter not affiliated with any political party, a freethinker, free of a party platform.",
+    "zh": "adj. 独立的"
+  },
+  "shops": {
+    "ph": "/ʃɒps/",
+    "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+    "zh": ""
+  },
+  "construction": {
+    "ph": "/kənˈstɹʌkʃən/",
+    "en": "The process of constructing.",
+    "zh": "n. 建设"
+  },
+  "incidental": {
+    "ph": "[ɪnsɪˈdɛ.ɾ̃əl]",
+    "en": "Minor items, not further defined. Incidental expense.",
+    "zh": "adj. 偶然的"
+  },
+  "curated": {
+    "ph": "",
+    "en": "To act as a curator for.",
+    "zh": "adj. 策划过的"
+  },
+  "someone": {
+    "ph": "/ˈsʌmwʌn/",
+    "en": "A partially specified but unnamed person.",
+    "zh": ""
+  },
+  "decided": {
+    "ph": "/dɪˈsaɪdəd/",
+    "en": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+    "zh": ""
+  },
+  "aesthetic": {
+    "ph": "/iːs.ˈθe.tɪk/",
+    "en": "The study of art or beauty.",
+    "zh": "adj. 美学的"
+  },
+  "rules": {
+    "ph": "/ˈɹuːlz/",
+    "en": "A regulation, law, guideline.",
+    "zh": ""
+  },
+  "include": {
+    "ph": "/ɪnˈkluːd/",
+    "en": "A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+    "zh": ""
+  },
+  "bar": {
+    "ph": "/bɑː/",
+    "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+    "zh": ""
+  },
+  "analogue": {
+    "ph": "",
+    "en": "Something that bears an analogy to something else",
+    "zh": "adj. 模拟的"
+  },
+  "play": {
+    "ph": "/pleɪ/",
+    "en": "Activity for amusement only, especially among the young.",
+    "zh": ""
+  },
+  "club": {
+    "ph": "/klʌb/",
+    "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+    "zh": ""
+  },
+  "pace": {
+    "ph": "/peɪs/",
+    "en": "Step.",
+    "zh": "n. 步速"
+  },
+  "member": {
+    "ph": "/ˈmɛmbə/",
+    "en": "One who officially belongs to a group.",
+    "zh": ""
+  },
+  "maintain": {
+    "ph": "/meɪnˈteɪn/",
+    "en": "To support (someone), to back up or assist (someone) in an action.",
+    "zh": "v. 保持"
+  },
+  "audience": {
+    "ph": "/ˈɔːdi.əns/",
+    "en": "A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, etc.",
+    "zh": "n. 受众"
+  },
+  "vengeance": {
+    "ph": "/ˈvɛnˌdʒəns/",
+    "en": "Revenge taken for an insult, injury, or other wrong.",
+    "zh": "n. 报复、猛烈"
+  },
+  "looking": {
+    "ph": "/ˈlʊkɪŋ/",
+    "en": "The act of one who looks; a glance.",
+    "zh": ""
+  },
+  "provide": {
+    "ph": "/pɹəˈvaɪd/",
+    "en": "To make a living; earn money for necessities.",
+    "zh": ""
+  },
+  "down": {
+    "ph": "/daʊn/",
+    "en": "A negative aspect; a downer.",
+    "zh": ""
+  },
+  "ambient": {
+    "ph": "/ˈæm.biː.ənt/",
+    "en": "Something that surrounds; encompassing material, substance or shape.",
+    "zh": "adj. 环境的"
+  },
+  "presence": {
+    "ph": "/ˈpɹɛzəns/",
+    "en": "The fact or condition of being present, or of being within sight or call, or at hand.",
+    "zh": "n. 在场"
+  },
+  "near": {
+    "ph": "/nɪə(ɹ)/",
+    "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+    "zh": ""
+  },
+  "come": {
+    "ph": "/kʌm/",
+    "en": "Coming, arrival; approach.",
+    "zh": ""
+  },
+  "welcome": {
+    "ph": "/ˈwɛlkəm/",
+    "en": "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+    "zh": ""
+  },
+  "retrospect": {
+    "ph": "/ˈɹɛtɹoˌspɛkt/",
+    "en": "Consideration of past times.",
+    "zh": "n. 回顾"
+  },
+  "universally": {
+    "ph": "/ˌjuːnɪˈvɜːsəli/",
+    "en": "In a universal manner.",
+    "zh": "adv. 普遍地"
+  },
+  "warm": {
+    "ph": "/wɔːm/",
+    "en": "Having a temperature slightly higher than usual, but still pleasant; mildly hot.",
+    "zh": ""
+  },
+  "memories": {
+    "ph": "/ˈmɛm(ə)ɹiz/",
+    "en": "The ability of the brain to record information or impressions with the facility of recalling them later at will.",
+    "zh": ""
+  },
+  "suggest": {
+    "ph": "/səˈdʒɛst/",
+    "en": "To imply but stop short of saying explicitly.",
+    "zh": "v. 暗示"
+  },
+  "innocent": {
+    "ph": "/ˈɪnəsn̩t/",
+    "en": "One who is innocent, especially a young child.",
+    "zh": "adj. 清白的、天真的"
+  },
+  "underlying": {
+    "ph": "",
+    "en": "To lie in a position directly beneath.",
+    "zh": "adj. 潜在的"
+  },
+  "hunger": {
+    "ph": "/ˈhʌŋɡə/",
+    "en": "A need or compelling desire for food.",
+    "zh": "n. 渴望"
+  },
+  "going": {
+    "ph": "/ˈɡəʊɪŋ/",
+    "en": "To move:",
+    "zh": ""
+  },
+  "away": {
+    "ph": "/əˈweɪ/",
+    "en": "To depart; to go to another place.",
+    "zh": ""
+  },
+  "generations": {
+    "ph": "/ˌdʒɛnəˈɹeɪʃənz/",
+    "en": "The fact of creating something, or bringing something into being; production, creation.",
+    "zh": ""
+  },
+  "came": {
+    "ph": "/keɪm/",
+    "en": "Used to indicate that the following event, period, or change in state occurred in the past, after a time of waiting, enduring, or anticipation",
+    "zh": ""
+  },
+  "age": {
+    "ph": "/eɪd͡ʒ/",
+    "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+    "zh": ""
+  },
+  "discovering": {
+    "ph": "/dɪsˈkʌvəɹɪŋ/",
+    "en": "To find or learn something for the first time.",
+    "zh": ""
+  },
+  "substitute": {
+    "ph": "/ˈsʌbstɪtjut/",
+    "en": "A replacement or stand-in for something that achieves a similar result or purpose.",
+    "zh": "n. 替代品"
+  },
+  "distraction": {
+    "ph": "/dɪsˈtɹækʃən/",
+    "en": "Something that distracts.",
+    "zh": "n. 分散注意力"
+  },
+  "absence": {
+    "ph": "/ˈæb.s(ə)n̩s/",
+    "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+    "zh": "n. 缺席"
+  },
+  "back": {
+    "ph": "/bæk/",
+    "en": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+    "zh": ""
+  },
+  "unexpectedly": {
+    "ph": "/ʌnɪkˈspɛktɪdli/",
+    "en": "In an unexpected manner.",
+    "zh": "adv. 出乎意料地"
+  },
+  "thriving": {
+    "ph": "/θɹaɪvɪŋ/",
+    "en": "To grow or increase stature; to grow vigorously or luxuriantly, to flourish.",
+    "zh": ""
+  },
+  "die": {
+    "ph": "/daɪ/",
+    "en": "To stop living; to become dead; to undergo death.",
+    "zh": ""
+  },
+  "while": {
+    "ph": "/waɪl/",
+    "en": "An uncertain duration of time, a period of time.",
+    "zh": ""
+  },
+  "quite": {
+    "ph": "/kwaɪt/",
+    "en": "(heading) To the greatest extent or degree; completely, entirely.",
+    "zh": ""
+  },
+  "coming": {
+    "ph": "/ˈkʌmɪŋ/",
+    "en": "To move from further away to nearer to.",
+    "zh": ""
+  },
+  "me": {
+    "ph": "/miː/",
+    "en": "As the direct object of a verb.",
+    "zh": ""
+  },
+  "wants": {
+    "ph": "/wɒnts/",
+    "en": "A desire, wish, longing.",
+    "zh": ""
+  },
+  "resident": {
+    "ph": "/ˈɹɛzɪd(ə)nt/",
+    "en": "A person, animal or plant living at a certain location or in a certain area.",
+    "zh": "n. 居民"
+  },
+  "survived": {
+    "ph": "",
+    "en": "Of a person, to continue to live; to remain alive.",
+    "zh": ""
+  },
+  "recessions": {
+    "ph": "",
+    "en": "The act or an instance of receding or withdrawing.",
+    "zh": ""
+  },
+  "cheap": {
+    "ph": "/t͡ʃiːp/",
+    "en": "Trade; traffic; chaffer; chaffering.",
+    "zh": ""
+  },
+  "patrons": {
+    "ph": "",
+    "en": "One who protects or supports; a defender or advocate.",
+    "zh": ""
+  },
+  "served": {
+    "ph": "/sɜːvd/",
+    "en": "(personal) To provide a service (or, by extension, a product, especially food or drink).",
+    "zh": ""
+  },
+  "function": {
+    "ph": "/ˈfʌŋ(k)ʃən/",
+    "en": "What something does or is used for.",
+    "zh": ""
+  },
+  "obvious": {
+    "ph": "/ˈɒ.vɪəs/",
+    "en": "Easily discovered, seen, or understood; self-explanatory.",
+    "zh": ""
+  },
+  "everyone": {
+    "ph": "/ˈɛv.ɹi.wʌn/",
+    "en": "Every person.",
+    "zh": ""
+  },
+  "walked": {
+    "ph": "/wɔːkt/",
+    "en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+    "zh": ""
+  },
+  "vulnerable": {
+    "ph": "/ˈvʌln(ə)ɹəbl̩/",
+    "en": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+    "zh": ""
+  },
+  "rent": {
+    "ph": "/ɹɛnt/",
+    "en": "A payment made by a tenant at intervals in order to occupy a property.",
+    "zh": ""
+  },
+  "increases": {
+    "ph": "",
+    "en": "An amount by which a quantity is increased.",
+    "zh": ""
+  },
+  "shifts": {
+    "ph": "",
+    "en": "A modifier key whose main function is shifting between two or more functions of any of certain other keys (usually by pressing Shift and the other button simultaneously).",
+    "zh": ""
+  },
+  "drive": {
+    "ph": "/dɹaɪv/",
+    "en": "Motivation to do or achieve something; ability coupled with ambition.",
+    "zh": ""
+  },
+  "discovery": {
+    "ph": "/dɪsˈkʌvəɹi/",
+    "en": "Something discovered.",
+    "zh": ""
+  },
+  "taste": {
+    "ph": "/teɪst/",
+    "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+    "zh": ""
+  },
+  "faster": {
+    "ph": "/ˈfɑːstə/",
+    "en": "Firmly or securely fixed in place; stable.",
+    "zh": ""
+  },
+  "reveals": {
+    "ph": "",
+    "en": "The outer side of a window or door frame; the jamb.",
+    "zh": ""
+  },
+  "serves": {
+    "ph": "/sɜːvz/",
+    "en": "An act of putting the ball or shuttlecock in play in various games.",
+    "zh": ""
+  },
+  "convenience": {
+    "ph": "/kənˈviːnɪəns/",
+    "en": "The quality of being convenient.",
+    "zh": ""
+  },
+  "hangout": {
+    "ph": "",
+    "en": "A place for hanging out; an informal meeting-place.",
+    "zh": "n. 聚会处"
+  },
+  "café": {
+    "ph": "/ˈkæfeɪ/",
+    "en": "A coffee shop; an establishment selling coffee and sometimes other non-alcoholic beverages, simple meals or snacks, with a facility to consume them on the premises.",
+    "zh": "n. 咖啡馆"
+  },
+  "forge": {
+    "ph": "/fɔːd͡ʒ/",
+    "en": "Furnace or hearth where metals are heated prior to hammering them into shape.",
+    "zh": "v. 锻造、形成"
+  },
+  "cause": {
+    "ph": "/kɔːz/",
+    "en": "(often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+    "zh": "n. 原因"
+  },
+  "escalate": {
+    "ph": "/ˈɛs.kə.leɪt/",
+    "en": "To increase (something) in extent or intensity; to intensify or step up.",
+    "zh": "v. 升级"
+  },
+  "board game": {
+    "ph": "",
+    "en": "Any of many games of strategy or chance played on a specially designed board; often involves one or more players moving pieces and using dice or cards.",
+    "zh": "n. 桌游"
+  },
+  "venue": {
+    "ph": "/ˈvɛnjuː/",
+    "en": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+    "zh": "n. 场所"
+  },
+  "studio": {
+    "ph": "/ˈstjuːdiəʊ/",
+    "en": "An artist’s or photographer’s workshop or the room in which an artist works.",
+    "zh": "n. 工作室"
+  },
+  "kitchen": {
+    "ph": "/ˈkɪt͡ʃən/",
+    "en": "A room or area for preparing food.",
+    "zh": "n. 厨房"
+  },
+  "vanish": {
+    "ph": "/ˈvænɪʃ/",
+    "en": "The brief terminal part of a vowel or vocal element, differing more or less in quality from the main part.",
+    "zh": "v. 消失"
+  },
+  "spent": {
+    "ph": "/ˈspɛnt/",
+    "en": "To pay out (money).",
+    "zh": ""
+  },
+  "weeks": {
+    "ph": "/wiːks/",
+    "en": "Any period of seven consecutive days.",
+    "zh": ""
+  },
+  "preparing": {
+    "ph": "/pɹɪˈpɛəɹɪŋ/",
+    "en": "To make ready for a specific future purpose; to set up; to assemble or equip.",
+    "zh": ""
+  },
+  "a": {
+    "ph": "/æɪ/",
+    "en": "The name of the Latin script letter A/a.",
+    "zh": ""
+  },
+  "structured": {
+    "ph": "",
+    "en": "To give structure to; to arrange.",
+    "zh": ""
+  },
+  "questionnaire": {
+    "ph": "/ˌk(w)estjəˈnɛə/",
+    "en": "A form containing a list of questions; a means of gathering information for a survey",
+    "zh": ""
+  },
+  "trained": {
+    "ph": "/tɹeɪnd/",
+    "en": "To practice an ability.",
+    "zh": ""
+  },
+  "panel": {
+    "ph": "/ˈpænəl/",
+    "en": "A (usually) rectangular section of a surface, or of a covering or of a wall, fence etc.",
+    "zh": ""
+  },
+  "of": {
+    "ph": "/ɔv/",
+    "en": "Expressing distance or motion.",
+    "zh": ""
+  },
+  "code": {
+    "ph": "/kəʊd/",
+    "en": "A short symbol, often with little relation to the item it represents.",
+    "zh": ""
+  },
+  "responses": {
+    "ph": "",
+    "en": "An answer or reply, or something in the nature of an answer or reply.",
+    "zh": ""
+  },
+  "against": {
+    "ph": "/əˈɡeɪnst/",
+    "en": "In a contrary direction to.",
+    "zh": ""
+  },
+  "sensory": {
+    "ph": "/ˈsɛnsəɹi/",
+    "en": "Sensorium",
+    "zh": "adj. 感官的"
+  },
+  "instead": {
+    "ph": "/ɪnˈstɛd/",
+    "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
+    "zh": ""
+  },
+  "people": {
+    "ph": "/ˈpiːpəl/",
+    "en": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
+    "zh": ""
+  },
+  "talked": {
+    "ph": "[tʰɔːkt]",
+    "en": "To communicate, usually by means of speech.",
+    "zh": ""
+  },
+  "can": {
+    "ph": "/ˈkæn/",
+    "en": "(auxiliary verb, defective) To know how to; to be able to.",
+    "zh": ""
+  },
+  "only": {
+    "ph": "/ˈəʊn.li/",
+    "en": "An only child.",
+    "zh": ""
+  },
+  "measure": {
+    "ph": "/ˈmɛʒə/",
+    "en": "A prescribed quantity or extent.",
+    "zh": ""
+  },
+  "what": {
+    "ph": "/wɔt/",
+    "en": "(Singlish) Used to contradict an underlying assumption held by the interlocutor.",
+    "zh": ""
+  },
+  "somebody": {
+    "ph": "/ˈsʌmbədɪ/",
+    "en": "A recognised or important person, a celebrity.",
+    "zh": ""
+  },
+  "thought": {
+    "ph": "/θɔːt/",
+    "en": "To ponder, to go over in one's head.",
+    "zh": ""
+  },
+  "result": {
+    "ph": "/ɹɪˈzʌlt/",
+    "en": "That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect.",
+    "zh": ""
+  },
+  "an": {
+    "ph": "/æn/",
+    "en": "One",
+    "zh": ""
+  },
+  "extremely": {
+    "ph": "/ɪksˈtɹiːmli/",
+    "en": "(degree) To an extreme degree.",
+    "zh": ""
+  },
+  "good": {
+    "ph": "/ɡʊ(d)/",
+    "en": "(of people)",
+    "zh": ""
+  },
+  "at": {
+    "ph": "",
+    "en": "To reply to or talk to someone, either online or face-to-face. (from the practice of targeting a message or reply to someone online by writing @name)",
+    "zh": ""
+  },
+  "dimensions": {
+    "ph": "/daɪˈmɛnʃənz/",
+    "en": "A single aspect of a given thing.",
+    "zh": ""
+  },
+  "already": {
+    "ph": "/ɑlˈɹɛdi/",
+    "en": "Prior to some specified time, either past, present, or future; by this time; previously.",
+    "zh": ""
+  },
+  "knows": {
+    "ph": "/nəʊz/",
+    "en": "Knowledge; the state of knowing.",
+    "zh": ""
+  },
+  "blind": {
+    "ph": "/blaɪnd/",
+    "en": "A covering for a window to keep out light. The covering may be made of cloth or of narrow slats that can block light or allow it to pass.",
+    "zh": ""
+  },
+  "everything": {
+    "ph": "/ˈɛvɹiθɪŋ/",
+    "en": "All the things under discussion.",
+    "zh": ""
+  },
+  "else": {
+    "ph": "/ɛls/",
+    "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+    "zh": ""
+  },
+  "this": {
+    "ph": "/ðəs/",
+    "en": "Something being indicated that is here; one of these.",
+    "zh": ""
+  },
+  "framing": {
+    "ph": "/ˈfɹeɪmɪŋ/",
+    "en": "To fit, as for a specific end or purpose; make suitable or comfortable; adapt; adjust.",
+    "zh": "n. 框架、措辞"
+  },
+  "unit": {
+    "ph": "/ˈjuː.nɪt/",
+    "en": "A particular, minute unit of mass, defined differently for different substances, but so that varying substances of the same general type have the property that one international unit of the one has the same effect on the human body as one international unit of the other.",
+    "zh": ""
+  },
+  "spot": {
+    "ph": "/spɒt/",
+    "en": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+    "zh": ""
+  },
+  "expensive": {
+    "ph": "/ɛkˈspɛnsɪv/",
+    "en": "Given to expending a lot of money; profligate, lavish.",
+    "zh": ""
+  },
+  "modernity": {
+    "ph": "/məˈdɜː(ɹ)n.ɪ.ti/",
+    "en": "The quality of being modern or contemporary.",
+    "zh": ""
+  },
+  "these": {
+    "ph": "/ðiːz/",
+    "en": "The thing, item, etc. being indicated.",
+    "zh": ""
+  },
+  "learned": {
+    "ph": "/ˈlɜːnɪd/",
+    "en": "Having much learning, knowledgeable, erudite; highly educated.",
+    "zh": ""
+  },
+  "cultural": {
+    "ph": "/ˈkʌlt͡ʃəɹəl/",
+    "en": "Pertaining to culture.",
+    "zh": ""
+  },
+  "entirely": {
+    "ph": "/ɪnˈtaɪəli/",
+    "en": "To the full or entire extent.",
+    "zh": "adv. 完全地"
+  },
+  "yet": {
+    "ph": "/jɛt/",
+    "en": "(usually with negative) Thus far; up to the present; up to some specified time; still",
+    "zh": ""
+  },
+  "copywriter": {
+    "ph": "/ˈkɒpiˌɹaɪtə/",
+    "en": "A person who writes advertising copy (the text used in advertisements).",
+    "zh": ""
+  },
+  "earthquake": {
+    "ph": "/ˈɜːθkweɪk/",
+    "en": "A shaking of the ground, caused by volcanic activity or movement around geologic faults.",
+    "zh": ""
+  },
+  "emerged": {
+    "ph": "/iˈmɜːd͡ʒd/",
+    "en": "To come into view.",
+    "zh": ""
+  },
+  "cleaner": {
+    "ph": "/ˈkliː.nə/",
+    "en": "A person whose occupation is to clean floors, windows and other things.",
+    "zh": ""
+  },
+  "dataset": {
+    "ph": "",
+    "en": "A file of related records on a computer-readable medium such as disk, especially one on a mainframe computer; a dataset.",
+    "zh": ""
+  },
+  "different": {
+    "ph": "/ˈdɪf.(ə)ɹ.ənt/",
+    "en": "The different ideal.",
+    "zh": ""
+  },
+  "genre": {
+    "ph": "/(d)ʒɒn.ɹə/",
+    "en": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+    "zh": "n. 类型、体裁"
+  },
+  "finding": {
+    "ph": "/ˈfaɪndɪŋ/",
+    "en": "To encounter or discover by accident; to happen upon.",
+    "zh": ""
+  },
+  "quality": {
+    "ph": "/ˈkwɒlɪti/",
+    "en": "Level of excellence.",
+    "zh": ""
+  },
+  "market": {
+    "ph": "/ˈmɑːkɪt/",
+    "en": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic.",
+    "zh": ""
+  },
+  "checklist": {
+    "ph": "/ˈtʃɛklɪst/",
+    "en": "A list of tasks to be completed, names to be consulted, conditions to be verified and similar.",
+    "zh": ""
+  },
+  "feeling": {
+    "ph": "/ˈfiːlɪŋ/",
+    "en": "(heading) To use or experience the sense of touch.",
+    "zh": ""
+  },
+  "being": {
+    "ph": "/ˈbiːɪŋ/",
+    "en": "A living creature.",
+    "zh": ""
+  },
+  "cared": {
+    "ph": "/kɛəd/",
+    "en": "To be concerned (about), to have an interest (in); to feel concern (about).",
+    "zh": ""
+  },
+  "smooth": {
+    "ph": "/smuːð/",
+    "en": "Something that is smooth, or that goes smoothly and easily.",
+    "zh": ""
+  },
+  "tube": {
+    "ph": "/tjuːb/",
+    "en": "Anything that is hollow and cylindrical in shape.",
+    "zh": ""
+  },
+  "likely": {
+    "ph": "/ˈlaɪkli/",
+    "en": "Something or somebody considered likely.",
+    "zh": ""
+  },
+  "answer": {
+    "ph": "/ˈan.sə/",
+    "en": "A response or reply; something said or done in reaction to a statement or question.",
+    "zh": ""
+  },
+  "wrong": {
+    "ph": "/ɹɒŋ/",
+    "en": "Something that is immoral or not good.",
+    "zh": ""
+  },
+  "bias": {
+    "ph": "/ˈbaɪəs/",
+    "en": "Inclination towards something; predisposition, partiality, prejudice, preference, predilection.",
+    "zh": ""
+  },
+  "work": {
+    "ph": "/wɜːk/",
+    "en": "(heading) Employment.",
+    "zh": ""
+  },
+  "where": {
+    "ph": "/wɛə(ɹ)/",
+    "en": "The place in which something happens.",
+    "zh": ""
+  },
+  "useful": {
+    "ph": "/ˈjuːsfəl/",
+    "en": "Having a practical or beneficial use.",
+    "zh": ""
+  },
+  "data": {
+    "ph": "/ˈdaetə/",
+    "en": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+    "zh": ""
+  },
+  "breaks": {
+    "ph": "/bɹeɪks/",
+    "en": "An instance of breaking something into two or more pieces.",
+    "zh": ""
+  },
+  "more": {
+    "ph": "/ˈmɔː/",
+    "en": "To a greater degree or extent.",
+    "zh": ""
+  },
+  "rest": {
+    "ph": "/ɹɛst/",
+    "en": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+    "zh": ""
+  },
+  "combined": {
+    "ph": "/kəmˈbaɪnd/",
+    "en": "An event in alpine skiing which combines runs on a downhill skiing course and a slalom course, for individual skiers.",
+    "zh": ""
+  },
+  "always": {
+    "ph": "/ˈɔː(l).weɪz/",
+    "en": "At all times; throughout all time; since the beginning.",
+    "zh": ""
+  },
+  "finally": {
+    "ph": "/ˈfaɪ.nəl.i/",
+    "en": "At the end or conclusion; ultimately.",
+    "zh": ""
+  },
+  "humility": {
+    "ph": "/hjuːˈmɪlɪti/",
+    "en": "The characteristic of being humble; humbleness in character and behavior.",
+    "zh": "n. 谦逊"
+  },
+  "notice": {
+    "ph": "/ˈnəʊtɪs/",
+    "en": "The act of observing; perception.",
+    "zh": ""
+  },
+  "matter": {
+    "ph": "/ˈmætə/",
+    "en": "Substance, material.",
+    "zh": ""
+  },
+  "job": {
+    "ph": "/d͡ʒɒb/",
+    "en": "A task.",
+    "zh": ""
+  },
+  "researcher": {
+    "ph": "",
+    "en": "One who researches.",
+    "zh": ""
+  },
+  "confirm": {
+    "ph": "/kənˈfɜːm/",
+    "en": "To strengthen; to make firm or resolute.",
+    "zh": ""
+  },
+  "make": {
+    "ph": "/meɪk/",
+    "en": "Brand or kind; model.",
+    "zh": ""
+  },
+  "way": {
+    "ph": "/weɪ/",
+    "en": "(heading) To do with a place or places.",
+    "zh": ""
+  },
+  "intention": {
+    "ph": "/ɪnˈtɛnʃən/",
+    "en": "The goal or purpose behind a specific action or set of actions.",
+    "zh": ""
+  },
+  "give": {
+    "ph": "/ɡɪv/",
+    "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
+    "zh": ""
+  },
+  "name": {
+    "ph": "/neɪm/",
+    "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+    "zh": ""
+  },
+  "teams": {
+    "ph": "",
+    "en": "A set of draught animals, such as two horses in front of a carriage.",
+    "zh": ""
+  },
+  "operationalise": {
+    "ph": "",
+    "en": "To make operational.",
+    "zh": ""
+  },
+  "chose": {
+    "ph": "/tʃəʊz/",
+    "en": "To pick; to make the choice of; to select.",
+    "zh": ""
+  },
+  "closure": {
+    "ph": "/ˈkləʊ.ʒə(ɹ)/",
+    "en": "An event or occurrence that signifies an ending.",
+    "zh": ""
+  },
+  "satisfaction": {
+    "ph": "/sætɪsˈfækʃən/",
+    "en": "A fulfilment of a need or desire.",
+    "zh": ""
+  },
+  "phrase": {
+    "ph": "/fɹeɪz/",
+    "en": "A short written or spoken expression.",
+    "zh": ""
+  },
+  "sat": {
+    "ph": "/sæt/",
+    "en": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
+    "zh": ""
+  },
+  "comfortably": {
+    "ph": "/ˈkʌmf(ə)təbli/",
+    "en": "In a comfortable manner.",
+    "zh": ""
+  },
+  "d": {
+    "ph": "",
+    "en": "Abbreviation of declare.",
+    "zh": ""
+  },
+  "ethnographic": {
+    "ph": "",
+    "en": "Relating to ethnography.",
+    "zh": ""
+  },
+  "departments": {
+    "ph": "",
+    "en": "A part, portion, or subdivision.",
+    "zh": ""
+  },
+  "incentivised": {
+    "ph": "",
+    "en": "To provide with an incentive.",
+    "zh": ""
+  },
+  "produce": {
+    "ph": "/pɹəˈdjuːs/",
+    "en": "To yield, make or manufacture; to generate.",
+    "zh": ""
+  },
+  "quantitative": {
+    "ph": "/ˈkwɒntətɪv/",
+    "en": "Of a measurement based on some quantity or number rather than on some quality",
+    "zh": ""
+  },
+  "insights": {
+    "ph": "",
+    "en": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+    "zh": ""
+  },
+  "budgets": {
+    "ph": "/ˈbʌdʒɪts/",
+    "en": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+    "zh": ""
+  },
+  "allocated": {
+    "ph": "/ˈæl.ə.keɪ.tɪd/",
+    "en": "To set aside for a purpose.",
+    "zh": ""
+  },
+  "spots": {
+    "ph": "/spɒts/",
+    "en": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+    "zh": ""
+  },
+  "written": {
+    "ph": "/ˈɹɪtn̩/",
+    "en": "To form letters, words or symbols on a surface in order to communicate.",
+    "zh": ""
+  },
+  "so": {
+    "ph": "/səʊ/",
+    "en": "True, accurate.",
+    "zh": ""
+  },
+  "even": {
+    "ph": "/ˈiːvən/",
+    "en": "(diminutive) An even number.",
+    "zh": ""
+  },
+  "discovered": {
+    "ph": "/dɪsˈkʌvəd/",
+    "en": "To find or learn something for the first time.",
+    "zh": ""
+  },
+  "droves": {
+    "ph": "/dɹəʊvz/",
+    "en": "A number of cattle driven to market or new pastures.",
+    "zh": "n. 群、人群（in droves 成群地）"
+  },
+  "disruptive": {
+    "ph": "/dɪsˈɹʌptɪv/",
+    "en": "Causing disruption or unrest.",
+    "zh": ""
+  },
+  "workforce": {
+    "ph": "",
+    "en": "All the workers employed by a specific organization or state, or on a specific project",
+    "zh": ""
+  },
+  "report": {
+    "ph": "/ɹəˈpoːt/",
+    "en": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject).",
+    "zh": ""
+  },
+  "calls": {
+    "ph": "/kɑlz/",
+    "en": "A telephone conversation.",
+    "zh": ""
+  },
+  "quiet": {
+    "ph": "/ˈkwaɪ.ət/",
+    "en": "The absence of sound; quietness.",
+    "zh": ""
+  },
+  "hiring": {
+    "ph": "",
+    "en": "To obtain the services of in return for fixed payment.",
+    "zh": ""
+  },
+  "filling": {
+    "ph": "[ˈfɪɫlɪŋ]",
+    "en": "To occupy fully, to take up all of.",
+    "zh": ""
+  },
+  "skill": {
+    "ph": "/skɪl/",
+    "en": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
+    "zh": ""
+  },
+  "gaps": {
+    "ph": "/ɡæps/",
+    "en": "An opening in anything made by breaking or parting.",
+    "zh": ""
+  },
+  "full-time": {
+    "ph": "",
+    "en": "Involving a full amount of time spent on some activity, especially a job.",
+    "zh": ""
+  },
+  "employees": {
+    "ph": "",
+    "en": "An individual who provides labor to a company or another person.",
+    "zh": ""
+  },
+  "or": {
+    "ph": "/ɔː(ɹ)/",
+    "en": "Connects at least two alternative words, phrases, clauses, sentences, etc. each of which could make a passage true. In English, this is the \"inclusive or.\" The \"exclusive or\" is formed by \"either [...] or\".",
+    "zh": ""
+  },
+  "show": {
+    "ph": "/ʃəʊ/",
+    "en": "A play, dance, or other entertainment.",
+    "zh": ""
+  },
+  "up": {
+    "ph": "/ap/",
+    "en": "The direction opposed to the pull of gravity.",
+    "zh": ""
+  },
+  "headline": {
+    "ph": "/ˈhɛd.laɪn/",
+    "en": "The heading or title of a magazine or newspaper article.",
+    "zh": "n. 头条、标题"
+  },
+  "numbers": {
+    "ph": "/ˈnʌmbəz/",
+    "en": "An abstract entity used to describe quantity.",
+    "zh": ""
+  },
+  "generate": {
+    "ph": "/ˈdʒɛn.əɹ.eɪt/",
+    "en": "To bring into being; give rise to.",
+    "zh": ""
+  },
+  "press": {
+    "ph": "/pɹɛs/",
+    "en": "A device used to apply pressure to an item.",
+    "zh": ""
+  },
+  "happens": {
+    "ph": "/ˈhæpənz/",
+    "en": "To occur or take place.",
+    "zh": ""
+  },
+  "explanation": {
+    "ph": "/ˌɛkspləˈneɪʃən/",
+    "en": "The act or process of explaining.",
+    "zh": ""
+  },
+  "absorb": {
+    "ph": "/əbˈsɔːb/",
+    "en": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+    "zh": ""
+  },
+  "told": {
+    "ph": "/tɔʊld/",
+    "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
+    "zh": ""
+  },
+  "why": {
+    "ph": "/waɪ/",
+    "en": "Reason",
+    "zh": ""
+  },
+  "rewards": {
+    "ph": "",
+    "en": "Something of value given in return for an act.",
+    "zh": ""
+  },
+  "get": {
+    "ph": "/ɡɛt/",
+    "en": "Offspring.",
+    "zh": ""
+  },
+  "return": {
+    "ph": "/ɹɪˈtɜːn/",
+    "en": "The act of returning.",
+    "zh": "n. 回归"
+  },
+  "assume": {
+    "ph": "/əˈsuːm/",
+    "en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+    "zh": ""
+  },
+  "something": {
+    "ph": "/ˈsamθɪŋ/",
+    "en": "An object whose nature is yet to be defined.",
+    "zh": ""
+  },
+  "offer": {
+    "ph": "/ˈɑfɚ/",
+    "en": "A proposal that has been made.",
+    "zh": ""
+  },
+  "street": {
+    "ph": "/stɹiːt/",
+    "en": "A paved part of road, usually in a village or a town.",
+    "zh": ""
+  },
+  "portfolio": {
+    "ph": "/-əʊl.jəʊ/",
+    "en": "A case for carrying papers, drawings, photographs, maps and other flat documents.",
+    "zh": ""
+  },
+  "am": {
+    "ph": "[e̞m]",
+    "en": "Before noon.",
+    "zh": ""
+  },
+  "countries": {
+    "ph": "/ˈkʌntɹiz/",
+    "en": "(chiefly British) An area of land; a district, region.",
+    "zh": ""
+  },
+  "reported": {
+    "ph": "/ɹəˈpoːtəd/",
+    "en": "To relate details of (an event or incident); to recount, describe (something).",
+    "zh": ""
+  },
+  "time": {
+    "ph": "/tɑem/",
+    "en": "The inevitable progression into the future with the passing of present and past events.",
+    "zh": ""
+  },
+  "received": {
+    "ph": "/ɹɪˈsiːvd/",
+    "en": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
+    "zh": ""
+  },
+  "remainder": {
+    "ph": "/ɹəˈmeɪndə/",
+    "en": "A part or parts remaining after some has/have been removed.",
+    "zh": ""
+  },
+  "taxonomy": {
+    "ph": "/tækˈsɒnəmi/",
+    "en": "The science or the technique used to make a classification.",
+    "zh": ""
+  },
+  "drifting": {
+    "ph": "/ˈdɹɪftɪŋ/",
+    "en": "To move slowly, especially pushed by currents of water, air, etc.",
+    "zh": ""
+  },
+  "consequences": {
+    "ph": "/ˈkɑnsɪkwɛnsɪz/",
+    "en": "That which follows something on which it depends; that which is produced by a cause.",
+    "zh": ""
+  },
+  "predictable": {
+    "ph": "/pɹɪˈdɪktəbl̩/",
+    "en": "Able to be predicted.",
+    "zh": ""
+  },
+  "drifters": {
+    "ph": "",
+    "en": "(sometimes derogatory) A person who moves from place to place or job to job.",
+    "zh": ""
+  },
+  "lower": {
+    "ph": "/ˈləʊə/",
+    "en": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+    "zh": ""
+  },
+  "burnout": {
+    "ph": "",
+    "en": "The experience of long-term exhaustion and diminished interest, especially in one's career.",
+    "zh": ""
+  },
+  "levels": {
+    "ph": "",
+    "en": "A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.",
+    "zh": ""
+  },
+  "confusion": {
+    "ph": "/kənˈfjuːʒən/",
+    "en": "A lack of clarity or order.",
+    "zh": ""
+  },
+  "career": {
+    "ph": "/kəˈɹɪə/",
+    "en": "One's calling in life; a person's occupation; one's profession.",
+    "zh": ""
+  },
+  "path": {
+    "ph": "[pʰäːθ]",
+    "en": "A trail for the use of, or worn by, pedestrians.",
+    "zh": ""
+  },
+  "stayed": {
+    "ph": "/steːd/",
+    "en": "To prop; support; sustain; hold up; steady.",
+    "zh": ""
+  },
+  "negotiated": {
+    "ph": "",
+    "en": "To confer with others in order to come to terms or reach an agreement.",
+    "zh": ""
+  },
+  "step": {
+    "ph": "/stɛp/",
+    "en": "An advance or movement made from one foot to the other; a pace.",
+    "zh": ""
+  },
+  "uncomfortable": {
+    "ph": "/ʌnˈkʌm.fə.tə.bəl/",
+    "en": "Not comfortable; causing discomfort.",
+    "zh": ""
+  },
+  "kind": {
+    "ph": "/kaɪnd/",
+    "en": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+    "zh": ""
+  },
+  "run": {
+    "ph": "/ɹʊn/",
+    "en": "To run.",
+    "zh": ""
+  },
+  "through": {
+    "ph": "/θɹuː/",
+    "en": "A large slab of stone laid in a dry-stone wall from one side to the other; a perpend.",
+    "zh": ""
+  },
+  "called": {
+    "ph": "[kɔld]",
+    "en": "(heading) To use one's voice.",
+    "zh": ""
+  },
+  "adapted": {
+    "ph": "/əˈdæptɪd/",
+    "en": "To make suitable; to make to correspond; to fit or suit",
+    "zh": ""
+  },
+  "consultation": {
+    "ph": "/ˌkɒnsl̩ˈteɪʃən/",
+    "en": "The act of consulting.",
+    "zh": "n. 咨询"
+  },
+  "orthodox": {
+    "ph": "/ˈɔːθədɒks/",
+    "en": "Conforming to the accepted, established, or traditional doctrines of a given faith, religion, or ideology.",
+    "zh": "adj. 传统的、正统的"
+  },
+  "publish": {
+    "ph": "/ˈpʌblɪʃ/",
+    "en": "To issue (something, such as printed work) for distribution and/or sale.",
+    "zh": ""
+  },
+  "draft": {
+    "ph": "/dɹæft/",
+    "en": "A current of air, usually coming into a room or vehicle.",
+    "zh": "v. 起草"
+  },
+  "comment": {
+    "ph": "/ˈkɒmɛnt/",
+    "en": "A spoken or written remark.",
+    "zh": ""
+  },
+  "six": {
+    "ph": "/sɪks/",
+    "en": "The digit or figure 6.",
+    "zh": ""
+  },
+  "adjust": {
+    "ph": "/əˈdʒʌst/",
+    "en": "To modify.",
+    "zh": ""
+  },
+  "margins": {
+    "ph": "",
+    "en": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+    "zh": ""
+  },
+  "published": {
+    "ph": "/ˈpʌblɪʃt/",
+    "en": "To issue (something, such as printed work) for distribution and/or sale.",
+    "zh": ""
+  },
+  "list": {
+    "ph": "/lɪst/",
+    "en": "A strip of fabric, especially from the edge of a piece of cloth.",
+    "zh": ""
+  },
+  "open": {
+    "ph": "/ˈəʊ.pən/",
+    "en": "Not closed",
+    "zh": ""
+  },
+  "said": {
+    "ph": "/sɛd/",
+    "en": "Mentioned earlier; aforesaid.",
+    "zh": ""
+  },
+  "effect": {
+    "ph": "/ɪˈfɛkt/",
+    "en": "The result or outcome of a cause.",
+    "zh": ""
+  },
+  "decisions": {
+    "ph": "",
+    "en": "The act of deciding.",
+    "zh": ""
+  },
+  "transportation": {
+    "ph": "/tɹænspɔːˈteɪʃən/",
+    "en": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc.",
+    "zh": "n. 交通"
+  },
+  "housing": {
+    "ph": "/ˈhaʊzɪŋ/",
+    "en": "To keep within a structure or container.",
+    "zh": ""
+  },
+  "political": {
+    "ph": "/pəˈlɪtɪkəl/",
+    "en": "A political agent or officer.",
+    "zh": "adj. 政治的"
+  },
+  "john": {
+    "ph": "/ˈdʒɒn/",
+    "en": "A prostitute's client.",
+    "zh": ""
+  },
+  "veil": {
+    "ph": "/veɪl/",
+    "en": "Something hung up or spread out to hide or protect the face, or hide an object from view; usually of gauze, crepe, or similar diaphanous material.",
+    "zh": "n. 面纱、遮掩"
+  },
+  "competence": {
+    "ph": "/ˈkɒmpətəns/",
+    "en": "The quality or state of being competent, i.e. able or suitable for a general role.",
+    "zh": "n. 能力、胜任"
+  },
+  "implicit": {
+    "ph": "/ɪmˈplɪsɪt/",
+    "en": "Implied indirectly, without being directly expressed",
+    "zh": ""
+  },
+  "assumption": {
+    "ph": "/əˈsʌmp.ʃən/",
+    "en": "The act of assuming, or taking to or upon oneself; the act of taking up or adopting.",
+    "zh": "n. 假设"
+  },
+  "charge": {
+    "ph": "/t͡ʃɑːd͡ʒ/",
+    "en": "The amount of money levied for a service.",
+    "zh": ""
+  },
+  "input": {
+    "ph": "/ˈɪnpʊt/",
+    "en": "The act or process of putting in; infusion.",
+    "zh": ""
+  },
+  "preference": {
+    "ph": "/ˈpɹɛf(ə)ɹ(ə)ns/",
+    "en": "The selection of one thing or person over others (with the main adposition being \"for\" in relation to the thing or person, but possibly also \"of\")",
+    "zh": "n. 偏好"
+  },
+  "lifted": {
+    "ph": "/ˈlɪftɪd/",
+    "en": "To raise or rise.",
+    "zh": ""
+  },
+  "immigrants": {
+    "ph": "",
+    "en": "A non-native person who comes to a country from another country in order to permanently settle there.",
+    "zh": ""
+  },
+  "outreach": {
+    "ph": "",
+    "en": "The act of reaching out.",
+    "zh": "n. 外展、 outreach"
+  },
+  "reached": {
+    "ph": "/ɹiːtʃt/",
+    "en": "To extend, stretch, or thrust out (for example a limb or object held in the hand).",
+    "zh": ""
+  },
+  "requires": {
+    "ph": "/ɹɪˈkwaɪəz/",
+    "en": "To ask (someone) for something; to request.",
+    "zh": ""
+  },
+  "willing": {
+    "ph": "/ˈwɪlɪŋ/",
+    "en": "To wish, desire.",
+    "zh": "adj. 愿意的"
+  },
+  "confident": {
+    "ph": "/ˈkɒn.fɪ.dənt/",
+    "en": "A person in whom one can confide or share one's secrets: a friend.",
+    "zh": "adj. 自信的"
+  },
+  "legitimacy": {
+    "ph": "/ləˈdʒɪtɪməsi/",
+    "en": "The quality of being legitimate or valid; validity.",
+    "zh": "n. 合法性、正当性"
+  },
+  "admit": {
+    "ph": "/ədˈmɪt/",
+    "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+    "zh": ""
+  },
+  "distinguish": {
+    "ph": "/dɪsˈtɪŋɡwɪʃ/",
+    "en": "To recognize someone or something as different from others based on its characteristics.",
+    "zh": "v. 区分"
+  },
+  "correction": {
+    "ph": "/kəˈɹɛkʃən/",
+    "en": "The act of correcting.",
+    "zh": "n. 纠正"
+  },
+  "take": {
+    "ph": "/teɪk/",
+    "en": "The or an act of taking.",
+    "zh": ""
+  },
+  "submit": {
+    "ph": "/səbˈmɪt/",
+    "en": "To yield or give way to another.",
+    "zh": ""
+  },
+  "trivial": {
+    "ph": "/ˈtɹɪ.vi.əl/",
+    "en": "Any of the three liberal arts forming the trivium.",
+    "zh": "adj. 琐碎的"
+  },
+  "requirements": {
+    "ph": "/ɹɪˈkwaɪɹmənts/",
+    "en": "A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+    "zh": ""
+  },
+  "execution": {
+    "ph": "/ˌek.sɪˈkjuː.ʃən/",
+    "en": "The act, manner or style of executing (actions, maneuvers, performances).",
+    "zh": ""
+  },
+  "private": {
+    "ph": "/ˈpɹaɪvət/",
+    "en": "A soldier of the lowest rank in the army.",
+    "zh": ""
+  },
+  "therefore": {
+    "ph": "/ˈðɛəfɔː/",
+    "en": "For that or this purpose, referring to something previously stated.",
+    "zh": ""
+  },
+  "certainly": {
+    "ph": "/ˈsɜːtn̩li/",
+    "en": "In a way which is certain; with certainty.",
+    "zh": ""
+  },
+  "deploy": {
+    "ph": "/dɪˈplɔɪ/",
+    "en": "Deployment",
+    "zh": "v. 部署、运用"
+  },
+  "procrastination": {
+    "ph": "/pɹəʊˌkɹæs.tɪˈneɪ.ʃən/",
+    "en": "The act of postponing, delaying or putting off, especially habitually or intentionally.",
+    "zh": ""
+  },
+  "says": {
+    "ph": "",
+    "en": "A chance to speak; the right or power to influence or make a decision.",
+    "zh": ""
+  },
+  "lazy": {
+    "ph": "/ˈleɪzi/",
+    "en": "A lazy person.",
+    "zh": "adj. 懒惰的"
+  },
+  "lack": {
+    "ph": "/lak/",
+    "en": "A defect or failing; moral or spiritual degeneracy.",
+    "zh": ""
+  },
+  "self-discipline": {
+    "ph": "",
+    "en": "Control of oneself, willpower.",
+    "zh": "n. 自律"
+  },
+  "management": {
+    "ph": "/ˈmænədʒmənt/",
+    "en": "Administration; the use of limited resources combined with forecasting, planning, leadership and execution skills to achieve predetermined specific goals.",
+    "zh": ""
+  },
+  "stricter": {
+    "ph": "",
+    "en": "Strained; drawn close; tight.",
+    "zh": ""
+  },
+  "morning": {
+    "ph": "/ˈmɔːnɪŋ/",
+    "en": "The part of the day from dawn to noon.",
+    "zh": ""
+  },
+  "routine": {
+    "ph": "/ɹuːˈtiːn/",
+    "en": "A course of action to be followed regularly; a standard procedure.",
+    "zh": ""
+  },
+  "alarm": {
+    "ph": "/əˈlɑːm/",
+    "en": "A summons to arms, as on the approach of an enemy.",
+    "zh": ""
+  },
+  "clock": {
+    "ph": "/klɒk/",
+    "en": "An instrument used to measure or keep track of time; a non-portable timepiece.",
+    "zh": ""
+  },
+  "appealing": {
+    "ph": "/əˈpiː.lɪŋ/",
+    "en": "To call upon another to decide a question controverted, to corroborate a statement, to vindicate one's rights, etc.",
+    "zh": "adj. 有吸引力的"
+  },
+  "character": {
+    "ph": "/ˈkæɹəktə/",
+    "en": "A being involved in the action of a story.",
+    "zh": "n. 性格、品质"
+  },
+  "flaw": {
+    "ph": "/ˈflɔː/",
+    "en": "A flake, fragment, or shiver.",
+    "zh": ""
+  },
+  "fix": {
+    "ph": "/ˈfɪks/",
+    "en": "A repair or corrective action.",
+    "zh": "n. 解决办法"
+  },
+  "trying": {
+    "ph": "/ˈtɹaɪ.ɪŋ/",
+    "en": "To attempt; to endeavour. Followed by infinitive.",
+    "zh": ""
+  },
+  "harder": {
+    "ph": "/hɑːdə/",
+    "en": "(of material or fluid) Having a severe property; presenting difficulty.",
+    "zh": ""
+  },
+  "address": {
+    "ph": "/æˈdɹɛs/",
+    "en": "Direction.",
+    "zh": "v. 处理、解决"
+  },
+  "opened": {
+    "ph": "/ˈəʊpənd/",
+    "en": "To make something accessible or allow for passage by moving from a shut position.",
+    "zh": ""
+  },
+  "adds": {
+    "ph": "/ædz/",
+    "en": "An act or instance of adding.",
+    "zh": ""
+  },
+  "guilt": {
+    "ph": "/ɡɪlt/",
+    "en": "Responsibility for wrongdoing.",
+    "zh": "n. 内疚"
+  },
+  "top": {
+    "ph": "/tɒp/",
+    "en": "The highest or uppermost part of something.",
+    "zh": ""
+  },
+  "find": {
+    "ph": "/faɪnd/",
+    "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+    "zh": ""
+  },
+  "yourself": {
+    "ph": "/jɔːˈsɛlf/",
+    "en": "(reflexive pronoun) Your own self (singular).",
+    "zh": ""
+  },
+  "procrastinating": {
+    "ph": "",
+    "en": "To delay taking action; to wait until later.",
+    "zh": ""
+  },
+  "should": {
+    "ph": "/ʃʊd/",
+    "en": "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+    "zh": ""
+  },
+  "avoiding": {
+    "ph": "/əˈvɔɪdɪŋ/",
+    "en": "To try not to meet or communicate with (a person); to shun",
+    "zh": ""
+  },
+  "scrolling": {
+    "ph": "",
+    "en": "To change one's view of data on a computer's display, typically using a scroll bar or a scroll wheel to move in gradual increments.",
+    "zh": "n. 滚动浏览"
+  },
+  "triggering": {
+    "ph": "",
+    "en": "To fire a weapon.",
+    "zh": ""
+  },
+  "fear": {
+    "ph": "/fɪə/",
+    "en": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+    "zh": ""
+  },
+  "judgement": {
+    "ph": "/dʒʌdʒmənt/",
+    "en": "The act of judging.",
+    "zh": ""
+  },
+  "failure": {
+    "ph": "/ˈfeɪl.jɚ/",
+    "en": "State or condition of not meeting a desirable or intended objective, opposite of success.",
+    "zh": "n. 失败"
+  },
+  "want": {
+    "ph": "/wɔnt/",
+    "en": "A desire, wish, longing.",
+    "zh": ""
+  },
+  "primordial": {
+    "ph": "/pɹaɪˈmɔː.di.əl/",
+    "en": "A first principle or element.",
+    "zh": "adj. 原初的"
+  },
+  "admittedly": {
+    "ph": "",
+    "en": "As is acknowledged to be true; by general admission; confessedly.",
+    "zh": ""
+  },
+  "meta-analysis": {
+    "ph": "",
+    "en": "Any systematic procedure for statistically combining the results of many different studies.",
+    "zh": "n. 元分析"
+  },
+  "journal": {
+    "ph": "/ˈd͡ʒɜːnəl/",
+    "en": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+    "zh": ""
+  },
+  "bulletin": {
+    "ph": "/ˈbʊlətɪn/",
+    "en": "A short report, especially one released through official channels to be broadcast or publicized.",
+    "zh": ""
+  },
+  "contrast": {
+    "ph": "/ˈkɒntɹɑːst/",
+    "en": "A difference in lightness, brightness and/or hue between two colours that makes them more or less distinguishable.",
+    "zh": "n. 对比"
+  },
+  "self-hatred": {
+    "ph": "",
+    "en": "Hatred of oneself.",
+    "zh": "n. 自我憎恨"
+  },
+  "hide": {
+    "ph": "/haɪd/",
+    "en": "To put (something) in a place where it will be harder to discover or out of sight.",
+    "zh": "v. 隐藏"
+  },
+  "lets": {
+    "ph": "/lɛts/",
+    "en": "The allowing of possession of a property etc. in exchange for rent.",
+    "zh": ""
+  },
+  "start": {
+    "ph": "/stɑːt/",
+    "en": "The beginning of an activity.",
+    "zh": "v. 开始"
+  },
+  "obstacle": {
+    "ph": "/ˈɒbstəkl̩/",
+    "en": "Something that impedes, stands in the way of, or holds up progress",
+    "zh": ""
+  },
+  "ethic": {
+    "ph": "/ˈɛθɪk/",
+    "en": "A set of principles of right and wrong behaviour guiding, or representative of, a specific culture, society, group, or individual.",
+    "zh": ""
+  },
+  "thing": {
+    "ph": "/θɪŋ/",
+    "en": "That which is considered to exist as a separate entity, object, quality or concept.",
+    "zh": ""
+  },
+  "build": {
+    "ph": "/bɪld/",
+    "en": "The physique of a human body; constitution or structure of a human body.",
+    "zh": ""
+  },
+  "suffering": {
+    "ph": "/ˈsʌfəɹɪŋ/",
+    "en": "To undergo hardship.",
+    "zh": ""
+  },
+  "wanting": {
+    "ph": "/ˈwɒntɪŋ/",
+    "en": "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+    "zh": ""
+  },
+  "weakness": {
+    "ph": "/ˈwiːk.nəs/",
+    "en": "The condition of being weak.",
+    "zh": ""
+  },
+  "overcome": {
+    "ph": "/ˌəʊvəˈkʌm/",
+    "en": "The burden or recurring theme in a song.",
+    "zh": ""
+  },
+  "opposite": {
+    "ph": "/ˈɒpəsɪt/",
+    "en": "Something opposite or contrary to something else.",
+    "zh": ""
+  },
+  "information": {
+    "ph": "/ˌɪnfəˈmeɪʃən/",
+    "en": "That which resolves uncertainty; anything that answers the question of \"what a given entity is\".",
+    "zh": ""
+  },
+  "threat": {
+    "ph": "/θɹɛt/",
+    "en": "An expression of intent to injure or punish another.",
+    "zh": ""
+  },
+  "traditional": {
+    "ph": "/tɹəˈdɪʃnəl/",
+    "en": "A person with traditional beliefs.",
+    "zh": "adj. 传统的"
+  },
+  "defect": {
+    "ph": "",
+    "en": "A fault or malfunction.",
+    "zh": ""
+  },
+  "satisfying": {
+    "ph": "",
+    "en": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+    "zh": ""
+  },
+  "stop": {
+    "ph": "/stɒp/",
+    "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+    "zh": ""
+  },
+  "chronic": {
+    "ph": "/ˈkɹɒnɪk/",
+    "en": "Marijuana, typically of high quality.",
+    "zh": ""
+  },
+  "platforms": {
+    "ph": "",
+    "en": "A raised stage from which speeches are made and on which musical and other performances are made.",
+    "zh": ""
+  },
+  "united": {
+    "ph": "/juːˈnaɪtɪd/",
+    "en": "To bring together as one.",
+    "zh": ""
+  },
+  "states": {
+    "ph": "/steɪts/",
+    "en": "A condition; a set of circumstances applying at any given time.",
+    "zh": ""
+  },
+  "grew": {
+    "ph": "/ɡɹuː/",
+    "en": "To become larger, to increase in magnitude.",
+    "zh": ""
+  },
+  "board": {
+    "ph": "/bɔːd/",
+    "en": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+    "zh": ""
+  },
+  "game": {
+    "ph": "/ɡeɪm/",
+    "en": "A playful or competitive activity.",
+    "zh": ""
+  },
+  "category": {
+    "ph": "/ˈkætəˌɡɔɹi/",
+    "en": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+    "zh": "n. 类别"
+  },
+  "really": {
+    "ph": "/ˈɹɪəli/",
+    "en": "In a way or manner that is real, not unreal.",
+    "zh": ""
+  },
+  "number": {
+    "ph": "/ˈnʌmbə/",
+    "en": "An abstract entity used to describe quantity.",
+    "zh": ""
+  },
+  "four": {
+    "ph": "/foː/",
+    "en": "The digit or figure 4; an occurrence thereof.",
+    "zh": ""
+  },
+  "north": {
+    "ph": "/noːθ/",
+    "en": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+    "zh": ""
+  },
+  "listening": {
+    "ph": "/ˈlɪs.nɪŋ/",
+    "en": "To pay attention to a sound or speech.",
+    "zh": ""
+  },
+  "bars": {
+    "ph": "/ˈbɑː(ɹ)z/",
+    "en": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+    "zh": ""
+  },
+  "venues": {
+    "ph": "",
+    "en": "A theater, auditorium, arena, or other area designated for sporting or entertainment events.",
+    "zh": ""
+  },
+  "strict": {
+    "ph": "/stɹɪkt/",
+    "en": "Strained; drawn close; tight.",
+    "zh": "adj. 严格的"
+  },
+  "rule": {
+    "ph": "/ɹuːl/",
+    "en": "A regulation, law, guideline.",
+    "zh": ""
+  },
+  "hospitality": {
+    "ph": "/hɒs.pɪˈtæl.ɪ.ti/",
+    "en": "The act or service of welcoming, receiving, hosting, or entertaining guests.",
+    "zh": "n. 餐饮业"
+  },
+  "running": {
+    "ph": "/ˈɹʌnɪŋ/",
+    "en": "To move swiftly.",
+    "zh": ""
+  },
+  "clubs": {
+    "ph": "/klʌbz/",
+    "en": "An association of members joining together for some common purpose, especially sports or recreation.",
+    "zh": ""
+  },
+  "pottery": {
+    "ph": "/ˈpɒtəɹi/",
+    "en": "Fired ceramic wares that contain clay when formed.",
+    "zh": "n. 陶艺"
+  },
+  "studios": {
+    "ph": "",
+    "en": "An artist’s or photographer’s workshop or the room in which an artist works.",
+    "zh": ""
+  },
+  "apology": {
+    "ph": "/əˈpɒl.ə.dʒi/",
+    "en": "An expression of remorse or regret for having said or done something that harmed another: an instance of apologizing (saying that one is sorry).",
+    "zh": "n. 道歉"
+  },
+  "bump": {
+    "ph": "/bʌmp/",
+    "en": "A light blow or jolting collision.",
+    "zh": "v. 撞到"
+  },
+  "chair": {
+    "ph": "/t͡ʃɛə(ɹ)/",
+    "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
+    "zh": ""
+  },
+  "eye": {
+    "ph": "/aɪ/",
+    "en": "An organ through which animals see (perceive surroundings via light).",
+    "zh": ""
+  },
+  "table": {
+    "ph": "/ˈteɪbəl/",
+    "en": "Furniture with a top surface to accommodate a variety of uses.",
+    "zh": "n. 桌子"
+  },
+  "restore": {
+    "ph": "/ɹɪˈstɔː/",
+    "en": "The act of recovering data or a system from a backup.",
+    "zh": "v. 恢复"
+  },
+  "romanticise": {
+    "ph": "",
+    "en": "To interpret or view something in a romantic (unrealistic, idealized) manner.",
+    "zh": "v. 浪漫化"
+  },
+  "exclusivity": {
+    "ph": "",
+    "en": "The quality of being exclusive.",
+    "zh": "n. 排他性"
+  },
+  "problems": {
+    "ph": "/ˈpɹɒbləmz/",
+    "en": "A difficulty that has to be resolved or dealt with.",
+    "zh": ""
+  },
+  "democratic": {
+    "ph": "/dɛməˈkɹætɪk/",
+    "en": "Pertaining to democracy; favoring democracy, or constructed upon the principle of government by the people.",
+    "zh": "adj. 民主的"
+  },
+  "pressures": {
+    "ph": "",
+    "en": "A pressing; a force applied to a surface.",
+    "zh": ""
+  },
+  "identity": {
+    "ph": "/aɪˈdɛntəti/",
+    "en": "Sameness, identicalness; the quality or fact of (several specified things) being the same.",
+    "zh": ""
+  },
+  "price": {
+    "ph": "/pɹaɪs/",
+    "en": "The cost required to gain possession of something.",
+    "zh": ""
+  },
+  "trade-offs": {
+    "ph": "",
+    "en": "Any situation in which the quality or quantity of one thing must be decreased for another to be increased.",
+    "zh": ""
+  },
+  "grateful": {
+    "ph": "/ˈɡɹeɪtfəl/",
+    "en": "Appreciative; thankful.",
+    "zh": "adj. 感激的"
+  },
+  "somewhere": {
+    "ph": "/ˈsʌm.hweːɹ/",
+    "en": "Unspecified or unknown (unlocated) place or location.",
+    "zh": ""
+  },
+  "go": {
+    "ph": "/ɡəʉ/",
+    "en": "The act of going.",
+    "zh": ""
+  },
+  "my": {
+    "ph": "/mi/",
+    "en": "Used to express surprise, shock or amazement.",
+    "zh": ""
+  },
+  "apartment": {
+    "ph": "/əˈpɑːt.mənt/",
+    "en": "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+    "zh": "n. 公寓"
+  },
+  "laptop": {
+    "ph": "/ˈlæp.tɒp/",
+    "en": "A laptop computer.",
+    "zh": "n. 笔记本电脑"
+  },
+  "observation": {
+    "ph": "/ˌɒbzəˈveɪʃ(ə)n/",
+    "en": "The act of observing, and the fact of being observed (see observance)",
+    "zh": ""
+  },
+  "timing": {
+    "ph": "/ˈtaɪmɪŋ/",
+    "en": "To measure or record the time, duration, or rate of.",
+    "zh": ""
+  },
+  "case": {
+    "ph": "/keɪs/",
+    "en": "An actual event, situation, or fact.",
+    "zh": ""
+  },
+  "historical": {
+    "ph": "/hɪˈstɒɹɪkəl/",
+    "en": "A historical romance.",
+    "zh": ""
+  },
+  "condition": {
+    "ph": "/kənˈdɪʃən/",
+    "en": "A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.",
+    "zh": ""
+  },
+  "mutate": {
+    "ph": "/mjuːˈteɪt/",
+    "en": "To undergo mutation.",
+    "zh": "v. 变异"
+  },
+  "respect": {
+    "ph": "/ɹɪˈspɛkt/",
+    "en": "An attitude of consideration or high regard",
+    "zh": "n. 方面"
+  },
+  "happen": {
+    "ph": "/ˈhæpən/",
+    "en": "To occur or take place.",
+    "zh": "v. 碰巧"
+  },
+  "re-engineer": {
+    "ph": "",
+    "en": "To modify the design of an existing system, organization, process or product in order to make it more effective, efficient or responsive.",
+    "zh": "v. 重新设计"
+  },
+  "pressure": {
+    "ph": "[ˈpɹɛʃ.ə(ɹ)]",
+    "en": "A pressing; a force applied to a surface.",
+    "zh": "n. 压力"
+  },
+  "trade-off": {
+    "ph": "",
+    "en": "Any situation in which the quality or quantity of one thing must be decreased for another to be increased.",
+    "zh": "n. 取舍"
+  },
+  "memory": {
+    "ph": "/ˈmɛm(ə)ɹi/",
+    "en": "The ability of the brain to record information or impressions with the facility of recalling them later at will.",
+    "zh": "n. 记忆"
+  },
+  "generation": {
+    "ph": "/ˌd͡ʒɛnəˈɹeɪʃən/",
+    "en": "The fact of creating something, or bringing something into being; production, creation.",
+    "zh": "n. 一代人"
+  },
+  "thrive": {
+    "ph": "/θɹaɪv/",
+    "en": "To grow or increase stature; to grow vigorously or luxuriantly, to flourish.",
+    "zh": "v. 茁壮成长"
+  },
+  "walk": {
+    "ph": "/wɔːk/",
+    "en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+    "zh": ""
+  },
+  "supermarket": {
+    "ph": "/ˌsuːpəˈmɑːkɪt/",
+    "en": "A large self-service store that sells groceries and, usually, medications, household goods and/or clothing.",
+    "zh": "n. 超市"
+  },
+  "aisle": {
+    "ph": "/aɪ̯l/",
+    "en": "A wing of a building, notably in a church separated from the nave proper by piers.",
+    "zh": ""
+  },
+  "sits": {
+    "ph": "/sɪts/",
+    "en": "Subsidence of the roof of a coal mine.",
+    "zh": ""
+  },
+  "level": {
+    "ph": "/ˈlɛv.əl/",
+    "en": "A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.",
+    "zh": ""
+  },
+  "below": {
+    "ph": "/bɪˈləʊ/",
+    "en": "In a lower place.",
+    "zh": ""
+  },
+  "multinational": {
+    "ph": "",
+    "en": "A multinational company.",
+    "zh": "adj./n. 跨国的（公司）"
+  },
+  "flavor": {
+    "ph": "/ˈfleɪvə/",
+    "en": "The quality produced by the sensation of taste or, especially, of taste and smell in combined effect.",
+    "zh": "n. 风味、味道"
+  },
+  "hero": {
+    "ph": "/ˈhɛɹ.oʊ/",
+    "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+    "zh": ""
+  },
+  "supporting": {
+    "ph": "/səˈpɔːtɪŋ/",
+    "en": "To keep from falling.",
+    "zh": "adj. 辅助的、配角的"
+  },
+  "hierarchy": {
+    "ph": "/ˈhaɪ.ə.ɹɑː(ɹ).ki/",
+    "en": "A body of authoritative officials organized in nested ranks.",
+    "zh": ""
+  },
+  "yogurt": {
+    "ph": "/ˈjəʉɡət/",
+    "en": "A milk-based product stiffened by a bacterium-aided curdling process, and sometimes mixed with fruit or other flavoring.",
+    "zh": ""
+  },
+  "snack": {
+    "ph": "/snæk/",
+    "en": "A light meal.",
+    "zh": ""
+  },
+  "drink": {
+    "ph": "/dɹɪŋk/",
+    "en": "To consume (a liquid) through the mouth.",
+    "zh": ""
+  },
+  "mouthfeel": {
+    "ph": "",
+    "en": "The texture of food, drink, etc. as perceived by the mouth.",
+    "zh": "n. 口感（食物在嘴里的触感）"
+  },
+  "decoration": {
+    "ph": "/ˌdɛkəˈɹeɪʃən/",
+    "en": "The act of adorning, embellishing, or honoring; ornamentation.",
+    "zh": "n. 装饰"
+  },
+  "judge": {
+    "ph": "/d͡ʒʌd͡ʒ/",
+    "en": "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.",
+    "zh": ""
+  },
+  "panels": {
+    "ph": "/ˈpænəlz/",
+    "en": "A (usually) rectangular section of a surface, or of a covering or of a wall, fence etc.",
+    "zh": ""
+  },
+  "lexicons": {
+    "ph": "",
+    "en": "The vocabulary of a language.",
+    "zh": "n. 词汇表（lexicon复数）"
+  },
+  "tastes": {
+    "ph": "/teɪsts/",
+    "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+    "zh": ""
+  },
+  "perfect": {
+    "ph": "/ˈpɜː.fɛkt/",
+    "en": "(grammar) The perfect tense, or a form in that tense.",
+    "zh": ""
+  },
+  "justify": {
+    "ph": "/ˈdʒʌstɪfaɪ/",
+    "en": "To provide an acceptable explanation for.",
+    "zh": "v. 证明…合理"
+  },
+  "takeaway": {
+    "ph": "/ˈteɪkəweɪ/",
+    "en": "A restaurant that sells food to be eaten elsewhere.",
+    "zh": ""
+  },
+  "shopper": {
+    "ph": "/ˈʃɔp.ə/",
+    "en": "A person who shops.",
+    "zh": ""
+  },
+  "believing": {
+    "ph": "",
+    "en": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
+    "zh": ""
+  },
+  "premium": {
+    "ph": "/ˈpɹimiəm/",
+    "en": "A prize or award.",
+    "zh": "adj. 高端的、优质的"
+  },
+  "adding": {
+    "ph": "/ˈæ.dɪŋ/",
+    "en": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+    "zh": ""
+  },
+  "word": {
+    "ph": "/wɜːd/",
+    "en": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+    "zh": ""
+  },
+  "package": {
+    "ph": "/ˈpækɪdʒ/",
+    "en": "Something which is packed, a parcel, a box, an envelope.",
+    "zh": ""
+  },
+  "builds": {
+    "ph": "/bɪldz/",
+    "en": "The physique of a human body; constitution or structure of a human body.",
+    "zh": ""
+  },
+  "stand-in": {
+    "ph": "",
+    "en": "A person of similar size and shape to an actor who \"stands in\" for that actor during the lengthy process of setting up a shot, but who, unlike a double, does not appear in the film.",
+    "zh": "n. 替身、代替者"
+  },
+  "available": {
+    "ph": "/əˈveɪləb(ə)l/",
+    "en": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "zh": ""
+  },
+  "hour": {
+    "ph": "/ˈaʊɚ/",
+    "en": "A time period of sixty minutes; one twenty-fourth of a day.",
+    "zh": ""
+  },
+  "breakthrough": {
+    "ph": "/ˈbɹeɪkθɹuː/",
+    "en": "An advance through and past enemy lines.",
+    "zh": "n. 突破"
+  },
+  "biases": {
+    "ph": "/ˈbaɪəsɪz/",
+    "en": "Inclination towards something; predisposition, partiality, prejudice, preference, predilection.",
+    "zh": ""
+  },
+  "surveys": {
+    "ph": "",
+    "en": "The act of surveying; a general view.",
+    "zh": ""
+  },
+  "think": {
+    "ph": "/θɪŋk/",
+    "en": "An act of thinking; consideration (of something).",
+    "zh": ""
+  },
+  "answers": {
+    "ph": "/ˈɑːn.səz/",
+    "en": "A response or reply; something said or done in reaction to a statement or question.",
+    "zh": ""
+  },
+  "left": {
+    "ph": "/lɛft/",
+    "en": "The left side or direction.",
+    "zh": ""
+  },
+  "field": {
+    "ph": "/fiːld/",
+    "en": "A land area free of woodland, cities, and towns; open country.",
+    "zh": ""
+  },
+  "partner": {
+    "ph": "/ˈpɐːtnə/",
+    "en": "Someone who is associated with another in a common activity or interest.",
+    "zh": ""
+  },
+  "sharpen": {
+    "ph": "/ˈʃɑɹpɨn/",
+    "en": "(sometimes figurative) To make sharp.",
+    "zh": ""
+  },
+  "humans": {
+    "ph": "",
+    "en": "A human being, whether man, woman or child.",
+    "zh": ""
+  }
+}
