@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "name": "BBC Future",
+      "cat": "科技与未来",
+      "tag": "BBC Future · 科技与未来",
+      "url": "https://www.bbc.com/future/rss.xml"
+    },
+    {
+      "name": "BBC Worklife",
+      "cat": "职场与商业",
+      "tag": "BBC Worklife · 职场与商业",
+      "url": "https://www.bbc.com/worklife/rss.xml"
+    },
+    {
+      "name": "BBC Culture",
+      "cat": "文化与人文",
+      "tag": "BBC Culture · 文化与人文",
+      "url": "https://www.bbc.com/culture/rss.xml"
+    },
+    {
+      "name": "Psyche",
+      "cat": "心理与思维",
+      "tag": "Psyche · 心理与思维",
+      "url": "https://psyche.co/feed"
+    },
+    {
+      "name": "Scientific American",
+      "cat": "科学与自然",
+      "tag": "Scientific American · 科学与自然",
+      "url": "https://www.scientificamerican.com/rss/news/"
+    },
+    {
+      "name": "The Guardian Science",
+      "cat": "科学与社会",
+      "tag": "Guardian · 科学与社会",
+      "url": "https://www.theguardian.com/science/rss"
+    },
+    {
+      "name": "Vox",
+      "cat": "深度解读",
+      "tag": "Vox · 深度解读",
+      "url": "https://www.vox.com/rss/index.xml"
+    },
+    {
+      "name": "NPR",
+      "cat": "社会与文化",
+      "tag": "NPR · 社会与文化",
+      "url": "https://feeds.npr.org/1001/rss.xml"
+    }
+  ]
+}
