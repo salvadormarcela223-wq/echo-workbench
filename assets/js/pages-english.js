@@ -11,6 +11,8 @@
   try { fetch('data/words.json?v=' + (window.FEED_VER || Date.now())).then(r => r.ok ? r.json() : null).then(j => { if (j && typeof j === 'object') WORDS_BANK = j; }).catch(() => {}); } catch (e) {}
 
   let tab = 'read';
+  let viewType = null;   /* 'read' | 'dlg'：是否正在从面板查看某条 */
+  let viewItemId = null; /* 正在查看的具体条目 id */
 
   /* 每日轮换：按日期取模，保证同一天固定，跨天自动换 */
   function dayIndex(len) {
@@ -40,10 +42,64 @@
     return { unread: unread, read: read, del: del };
   }
 
+
+  /* ============ 已读/未读/删除 状态栏与面板 UI ============ */
+  function markBtnsHTML(st, prefix) {
+    if (st === 'deleted') return '<button class="btn sm" id="' + prefix + 'Restore">↩ 恢复</button>';
+    if (st === 'read') return '<button class="btn sm" id="' + prefix + 'Unread">↩ 标回未读</button><button class="btn sm" id="' + prefix + 'Del2">🗑 删除</button>';
+    return '<button class="btn sm" id="' + prefix + 'Read">✓ 标记已读</button><button class="btn sm" id="' + prefix + 'Del">🗑 删除</button>';
+  }
+  function engStatusHTML(type, arr) {
+    const ct = countByStatus(arr);
+    return '<div class="eng-statusbar">' +
+      '<span class="eng-count">未读 <b>' + ct.unread + '</b> · 已读 <b>' + ct.read + '</b> · 已删 <b>' + ct.del + '</b></span>' +
+      '<div style="margin-left:auto;display:flex;gap:6px">' +
+      '<button class="btn xs" data-pmode="read" data-ptype="' + type + '">已读清单 (' + ct.read + ')</button>' +
+      '<button class="btn xs" data-pmode="del" data-ptype="' + type + '">回收站 (' + ct.del + ')</button>' +
+      '</div></div><div id="engPanel"></div>';
+  }
+  function engPanelHTML(type, mode, arr) {
+    const list = arr.filter(x => mode === 'read' ? statusOf(x.id) === 'read' : statusOf(x.id) === 'deleted');
+    const title = mode === 'read' ? '已读清单' : '回收站';
+    if (!list.length) return '<div class="eng-panel"><div class="sec-title">' + title + '</div><div class="eng-empty">这里还没有内容</div></div>';
+    return '<div class="eng-panel"><div class="sec-title">' + title + '</div>' +
+      list.map(x => '<div class="eng-row" data-open="' + x.id + '"><div class="eng-row-t">' + esc(x.title) + '</div>' +
+        (mode === 'read' ? '<button class="btn xs" data-unread="' + x.id + '">标回未读</button>' : '<button class="btn xs" data-restore="' + x.id + '">恢复</button>') +
+        '</div>').join('') + '</div>';
+  }
+  function wireEngPanel(c, type, arr) {
+    const el = document.getElementById('engPanel'); if (!el) return;
+    el.querySelectorAll('[data-open]').forEach(r => r.onclick = () => { viewType = type; viewItemId = r.dataset.open; if (type === 'read') paintRead(c); else paintDlg(c); });
+    el.querySelectorAll('[data-unread]').forEach(b => b.onclick = e => { e.stopPropagation(); clearStatus(b.dataset.unread); if (type === 'read') paintRead(c); else paintDlg(c); });
+    el.querySelectorAll('[data-restore]').forEach(b => b.onclick = e => { e.stopPropagation(); clearStatus(b.dataset.restore); if (type === 'read') paintRead(c); else paintDlg(c); });
+  }
+  function wireStatusButtons(c, prefix, arr, curId, repaint, curObj) {
+    const mk = id => document.getElementById(id);
+    const rRead = mk(prefix + 'Read');
+    if (rRead) rRead.onclick = () => { setStatus(curId, 'read'); S.save(); viewType = null; viewItemId = null; repaint(); };
+    const rDel = mk(prefix + 'Del');
+    if (rDel) rDel.onclick = () => { setStatus(curId, 'deleted'); S.save(); viewType = null; viewItemId = null; repaint(); };
+    const rUnread = mk(prefix + 'Unread');
+    if (rUnread) rUnread.onclick = () => { clearStatus(curId); S.save(); viewType = null; viewItemId = null; repaint(); };
+    const rDel2 = mk(prefix + 'Del2');
+    if (rDel2) rDel2.onclick = () => { setStatus(curId, 'deleted'); S.save(); viewType = null; viewItemId = null; repaint(); };
+    const rRestore = mk(prefix + 'Restore');
+    if (rRestore) rRestore.onclick = () => { clearStatus(curId); S.save(); viewType = null; viewItemId = null; repaint(); };
+    c.querySelectorAll('[data-pmode]').forEach(b => b.onclick = () => {
+      const mode = b.dataset.pmode, type = b.dataset.ptype;
+      const panelEl = document.getElementById('engPanel');
+      const key = mode + '-' + type;
+      if (panelEl.dataset.shown === key) { panelEl.innerHTML = ''; panelEl.dataset.shown = ''; return; }
+      panelEl.innerHTML = engPanelHTML(type, mode, arr); panelEl.dataset.shown = key;
+      wireEngPanel(c, type, arr);
+    });
+  }
+
   function curReading() {
     const arr = window.SEED_READINGS || [];
     const e = S.s.english;
     if (e.stamp !== S.today()) { e.stamp = S.today(); e.readIdx = dayIndex(arr.length); e.dlgIdx = dayIndex(arr.length + 3) % Math.max(1, (window.SEED_DIALOGS || []).length); S.save(true); }
+    if (viewType === 'read' && viewItemId) { const i = arr.findIndex(x => x.id === viewItemId); if (i >= 0) return arr[i]; }
     if (arr.length) e.readIdx = firstUnreadFrom(arr, e.readIdx);
     return arr[e.readIdx % Math.max(1, arr.length)] || null;
   }
@@ -51,6 +107,7 @@
     curReading();
     const arr = window.SEED_DIALOGS || [];
     const e = S.s.english;
+    if (viewType === 'dlg' && viewItemId) { const i = arr.findIndex(x => x.id === viewItemId); if (i >= 0) return arr[i]; }
     if (arr.length) e.dlgIdx = firstUnreadFrom(arr, e.dlgIdx);
     return arr[e.dlgIdx % Math.max(1, arr.length)] || null;
   }
@@ -159,14 +216,17 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
         '<div class="vocab-t">' + esc(p.zh) + '</div></div></div>').join('') +
       '</div>';
 
+    const readsArr = window.SEED_READINGS || [];
     c.innerHTML =
       '<div class="page" style="display:grid;grid-template-columns:1fr;gap:16px">' +
+      engStatusHTML('read', readsArr) +
       '<div class="card card-pad" style="padding:28px 32px">' +
       '<div style="display:flex;align-items:center;gap:9px;margin-bottom:12px;flex-wrap:wrap">' +
       '<span class="tag c1">' + esc(a.tag) + '</span>' +
       '<span class="td-date">约 ' + a.minutes + ' 分钟</span>' +
       '<span class="td-date">' + S.today() + '</span>' +
       '<div style="margin-left:auto;display:flex;gap:6px">' +
+      markBtnsHTML(statusOf(a.id), 'r') +
       '<button class="btn sm" id="rNext">' + ico('refresh') + '换一篇</button>' +
       '<button class="btn sm" id="rAll">重点词入本</button></div></div>' +
       '<h2 style="font-family:var(--font-serif);font-size:26px;line-height:1.35;margin-bottom:4px">' + esc(a.title) + '</h2>' +
@@ -195,11 +255,14 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       S.save(); paintRead(c); window.rerender();
       U.toast(n ? '已加入 ' + n + ' 个新词' : '这些词都已在单词本里', 'ok');
     };
+    viewType = null; viewItemId = null;
     document.getElementById('rNext').onclick = () => {
       const arr = window.SEED_READINGS || [];
-      S.s.english.readIdx = (S.s.english.readIdx + 1) % arr.length;
+      if (countByStatus(arr).unread === 0) { U.toast('都已读完，去「已读清单」重读', 'ok'); return; }
+      S.s.english.readIdx = nextUnread(arr, S.s.english.readIdx);
       S.save(); paintRead(c);
     };
+    wireStatusButtons(c, 'r', readsArr, a.id, () => paintRead(c));
 
     /* 划词加入 */
     setupSelection(document.getElementById('engBody'), a.title);
@@ -259,7 +322,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       '<div style="display:flex;align-items:center;gap:9px;margin-bottom:12px;flex-wrap:wrap">' +
       '<span class="tag c2">' + esc(d.scene) + '</span>' +
       '<span class="td-date">约 ' + d.minutes + ' 分钟</span>' +
-      '<div style="margin-left:auto"><button class="btn sm" id="dNext">' + ico('refresh') + '换一个场景</button></div></div>' +
+      '<div style="margin-left:auto;display:flex;gap:6px">' + markBtnsHTML(statusOf(d.id), 'd') + '<button class="btn sm" id="dNext">' + ico('refresh') + '换一个场景</button></div></div>' +
       '<h2 style="font-family:var(--font-serif);font-size:23px;line-height:1.35;margin-bottom:3px">' + esc(d.title) + '</h2>' +
       '<div style="color:var(--ink-3);font-size:13px;margin-bottom:6px">' + esc(d.zhTitle) + '</div>' +
       '<div style="font-size:12px;color:var(--sage);background:var(--sage-wash);padding:8px 13px;border-radius:10px;margin:14px 0 20px">' +
@@ -278,11 +341,14 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
         '<span style="font-size:12px;color:var(--ink-3);margin-left:auto;text-align:right">' + esc(k.zh) + '</span></div>').join('') +
       '</div></div></div>';
 
+    viewType = null; viewItemId = null;
+    const dlgArr = window.SEED_DIALOGS || [];
     document.getElementById('dNext').onclick = () => {
-      const arr = window.SEED_DIALOGS || [];
-      S.s.english.dlgIdx = (S.s.english.dlgIdx + 1) % arr.length;
+      if (countByStatus(dlgArr).unread === 0) { U.toast('都已读完，去「已读清单」重读', 'ok'); return; }
+      S.s.english.dlgIdx = nextUnread(dlgArr, S.s.english.dlgIdx);
       S.save(); paintDlg(c);
     };
+    wireStatusButtons(c, 'd', dlgArr, d.id, () => paintDlg(c));
     setupSelection(document.getElementById('dlgBody'), d.title);
   }
 
