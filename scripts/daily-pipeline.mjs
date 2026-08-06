@@ -36,8 +36,33 @@ function run(cmd) {
   run('node scripts/fetch-insights.mjs --write');
   run('node scripts/fetch-readings.mjs --draft');
 
-  // 2. AI 填充解读（DeepSeek）
-  await enrich(DRAFT);
+  // 2. AI 填充解读（DeepSeek）——循环补填直到全满或连续失败
+  //    单轮可能因速率限制/超时漏掉部分条目（如首次跑64/86条），必须自动追补
+  const MAX_ENRICH_ROUNDS = 3;
+  for (let round = 1; round <= MAX_ENRICH_ROUNDS; round++) {
+    console.log(`\n--- AI 填充 第 ${round}/${MAX_ENRICH_ROUNDS} 轮 ---`);
+    const res = await enrich(DRAFT);
+    if (res.fail > 0) console.log(`⚠️ 本轮 ${res.fail} 条失败`);
+
+    // 每轮结束后检查还有多少空字段
+    const check = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
+    const emptyImpacts = (check.news || []).filter(n => !n.impact || !n.impact.trim()).length;
+    const emptyCores = (check.insights || []).filter(n =>
+      !n.core || !n.core.trim() || !n.view || !n.view.trim() || !n.action || !n.action.trim()
+    ).length;
+    console.log(`本轮结束 → 剩余空 impact: ${emptyImpacts}, 空核心字段: ${emptyCores}`);
+
+    if (emptyImpacts === 0 && emptyCores === 0) {
+      console.log('✅ 所有字段已填满，无需继续');
+      break;
+    }
+    if (round < MAX_ENRICH_ROUNDS) {
+      console.log(`🔄 还有空字段，3s 后开始第 ${round + 1} 轮补填...`);
+      await new Promise(r => setTimeout(r, 3000));
+    } else {
+      console.log(`⚠️ 已达最大轮次(${MAX_ENRICH_ROUNDS})，仍有 ${emptyImpacts} 条空 impact / ${emptyCores} 条空核心字段`);
+    }
+  }
 
   // 3. 严格质检（impact 必须已填）
   const draft = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
