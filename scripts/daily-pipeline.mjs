@@ -74,7 +74,7 @@ function run(cmd) {
   console.log('✅ 已发布到 feed.json（缓存版本 ' + stamp + '）');
 
   // 5. 提交 + 推送（读取桌面令牌，不删）
-  run('git add data/feed.json assets/js/feed.js data/words.json');
+  run('git add data/feed.json assets/js/feed.js data/words.json data/glossary.json');
   try {
     execSync('git commit -m "每日自动更新：抓取真实近期行业资讯 + DeepSeek 生成顾问视角"', { cwd: ROOT, stdio: 'inherit' });
   } catch (e) {

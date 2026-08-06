@@ -182,6 +182,7 @@ async function main() {
       body: buildBody(pick.desc, vocab),
       cn: cn,
       phrases: phrases,
+      minutes: Math.max(3, Math.min(10, Math.round(String(pick.desc || '').replace(/<[^>]+>/g, '').split(/\s+/).filter(Boolean).length / 120))),
       vocab: vocab,
     };
     candidates.push({ src: src.name, entry: entry });

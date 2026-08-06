@@ -8,7 +8,9 @@
   const esc = U.esc, ico = U.ico;
   /* 本地烘焙词库：点击单词永远有音标+释义，不再依赖会失败的联网查询 */
   let WORDS_BANK = {};
+  let GLOSSARY = {};
   try { fetch('data/words.json?v=' + (window.FEED_VER || Date.now())).then(r => r.ok ? r.json() : null).then(j => { if (j && typeof j === 'object') WORDS_BANK = j; }).catch(() => {}); } catch (e) {}
+  try { fetch('data/glossary.json?v=' + (window.FEED_VER || Date.now())).then(r => r.ok ? r.json() : null).then(j => { if (j && typeof j === 'object') GLOSSARY = j; }).catch(() => {}); } catch (e) {}
 
   let tab = 'read';
   let viewType = null;   /* 'read' | 'dlg'：是否正在从面板查看某条 */
@@ -149,7 +151,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     const pop = document.createElement('div');
     pop.className = 'kw-pop';
     pop.innerHTML = '<div class="kw-pop-w">'+esc(v.w)+' <span class="kw-pop-p" id="kwph">'+esc(v.p||'')+'</span></div>'+
-      '<div class="kw-pop-t" id="kwt">'+(v.t?esc(v.t):(v.en?'<span class="kw-en">'+esc(v.en)+'</span>':'<i>正在查询释义…</i>'))+'</div>'+
+      '<div class="kw-pop-t" id="kwt">'+(v.t?esc(v.t):(v.en?'<span class="kw-en">'+esc(v.en)+'</span><div class="kw-online">暂无中文，英文释义仅供参考</div>':'<i>正在查询释义…</i>'))+'</div>'+
       '<div class="kw-pop-actions"><button class="kw-add">加入单词本</button><button class="kw-close">关闭</button></div>';
     document.body.appendChild(pop);
     const pw = pop.offsetWidth, ph = pop.offsetHeight;
@@ -171,7 +173,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     if (!phEl || !tEl) return;
     const url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(v.w.toLowerCase());
     fetch(url).then(r => r.ok ? r.json() : null).then(d => {
-      if (!Array.isArray(d) || !d[0]) { if (!v.t && !v.en) tEl.innerHTML = '<i class="kw-online">本地暂无释义，已自动联网查询</i>'; return; }
+      if (!Array.isArray(d) || !d[0]) { if (!v.t && !v.en) tEl.innerHTML = '<i class="kw-online">该词暂未收录，可加入单词本后补充</i>'; return; }
       let ph = d[0].phonetic || '';
       if (!ph && d[0].phonetics) { const p = d[0].phonetics.find(x => x.text); if (p) ph = p.text; }
       if (ph && phEl && !phEl.textContent) phEl.textContent = ph;
@@ -197,9 +199,12 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     }
     function resolveWord(key){
       if (allMap[key]) return allMap[key];
+      const gk = GLOSSARY[key];
+      if (gk) return { w: key, p: gk.p || '', t: gk.t || '', en: gk.en || '', lv: '阅读生词' };
       for (const sfx of ['es','s','ed','ing','ly']) {
         const c = key.replace(new RegExp(sfx + '$'), '');
         if (c !== key && allMap[c]) return allMap[c];
+        if (c !== key && GLOSSARY[c]) return { w: key, p: GLOSSARY[c].p || '', t: GLOSSARY[c].t || '', en: GLOSSARY[c].en || '', lv: '阅读生词' };
       }
       return null;
     }
