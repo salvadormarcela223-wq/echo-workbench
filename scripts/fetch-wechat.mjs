@@ -14,9 +14,9 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const WRITE = process.argv.includes('--write');
 
 // 覆盖你常看的电烟行业公众号 + 通用行业词
-const QUERIES = ['电子烟', '雾化', '蓝洞新消费', '格物消费', '2firsts', '思摩尔', '悦刻', '电子烟 出海', 'PMTA', '雾化器'];
+const QUERIES = ['电子烟', '雾化', '蓝洞新消费', '格物消费', '2firsts', '思摩尔', '悦刻', '电子烟 出海', 'PMTA', '雾化器', '电子雾圈', '维思雾化出海', '雾谷圈', '雾化派', '一色观察', '反常识研究所'];
 const INDUSTRY = /电子烟|雾化|烟油|PMTA|烟草|合规|门店|渠道|出海|代工|悦刻|思摩尔|FEELM|蓝洞|格物|2firsts|vape|vaping|新型烟草|加热不燃烧|HNB|烟弹|雾化器|国标|监管|RELX|思摩尔国际|新消费/i;
-const ACCOUNT_OK = /蓝洞|格物|2firsts|雾次方|合普|FEELM|思摩尔|悦刻|电子烟|雾化|vape|vaping|新势力|新消费/i;
+const ACCOUNT_OK = /蓝洞|格物|2firsts|雾次方|合普|FEELM|思摩尔|悦刻|电子烟|雾化|vape|vaping|新势力|新消费|电子雾圈|维思雾化出海|雾谷圈|雾化派|一色观察|反常识研究所/i;
 const ACCOUNT_BLOCK = /禁毒|绿剑|公安|警方|健康科普|生活|情感|酸菜|四十七度|翠花|育儿|美食|时尚|八卦|娱乐|养生|人民日报|央视|新华/i; // 非行业媒体直接排除
 const HARD = /PMTA|门店|渠道|代工|出海|合规|国标|思摩尔|悦刻|RELX|FEELM|蓝洞|格物|2firsts|雾次方|合普|烟油|雾化器|烟弹|新型烟草|加热不燃烧|市场份额|经销商|融资|招股|财报|产能|供应链|零售|监管|政策/i; // 硬行业词，非行业媒体号命中也可保留
 const SOCIAL = /死缓|血案|杀害|身亡|致死|吸毒|毒品犯罪|家庭纠纷/i; // 社会/法制新闻排除
