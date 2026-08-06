@@ -798,7 +798,8 @@
           "en": "worth more than the rest of the study combined",
           "zh": "比整个研究加起来还有价值"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-02",
@@ -986,7 +987,8 @@
           "en": "exit interview",
           "zh": "离职面谈"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-03",
@@ -1354,7 +1356,8 @@
           "en": "lift the veil",
           "zh": "揭开面纱"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-04",
@@ -1861,7 +1864,8 @@
           "en": "vicious cycle",
           "zh": "恶性循环"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-05",
@@ -2667,7 +2671,8 @@
           "en": "come of age",
           "zh": "成年、长大成人"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-06",
@@ -2750,7 +2755,8 @@
           "en": "capture the data",
           "zh": "捕获（消费）数据"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-07",
@@ -2833,7 +2839,8 @@
           "en": "feeling is believing",
           "zh": "感受即相信（化用 seeing is believing）"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-08",
@@ -2910,7 +2917,8 @@
           "en": "build loyalty",
           "zh": "建立忠诚度"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-09",
@@ -2981,7 +2989,8 @@
           "en": "sharpen the brief",
           "zh": "打磨研究简报"
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-10",
@@ -3062,7 +3071,8 @@
           "q": "Why should CMI rethink sensory evaluation?",
           "a": "Beverages have body, astringency, thickness dimensions beyond basic taste."
         }
-      ]
+      ],
+      "curated": true
     },
     {
       "id": "r-11",
@@ -3142,6 +3152,290 @@
         {
           "q": "Why do traditional surveys fail?",
           "a": "They overestimate rational attributes and underestimate sensory/emotional drivers."
+        }
+      ],
+      "curated": true
+    },
+    {
+      "title": "SpaceX rocket thought to have crashed into the moon in unintentional collision",
+      "source": "The Guardian Science",
+      "tag": "Guardian · 科学与社会",
+      "cat": "科学与社会",
+      "curated": false,
+      "link": "https://www.theguardian.com/science/2026/aug/05/spacex-rocket-moon-crash-impact-falcon-9",
+      "date": "Wed, 05 Aug 2026 07:26:55 GMT",
+      "body": "<p>Four-tonne <u>piece</u> of SpaceX Falcon 9 <u>rocket</u> <u>believed</u> to have hit <u>lunar</u> <u>surface</u> on Wednesday at 5,400mph A four-tonne piece of a <u>discarded</u> SpaceX rocket that has been <u>floating</u> in space <u>since</u> last year is believed to have <u>unintentionally</u> <u>crashed</u> into the moon at high speed, in a <u>collision</u> that <u>posed</u> no <u>danger</u> to Earth but was <u>expected</u> to <u>blast</u> out a new lunar <u>crater</u>. The <u>object</u>, the height of a five-storey <u>building</u>, was part of the SpaceX Falcon 9 rocket that <u>launched</u> two <u>commercial</u> lunar <u>landers</u>, one from the US and one from Japan, <u>towards</u> the moon in January 2025. Continue <u>reading</u>...</p>",
+      "vocab": [
+        {
+          "w": "fourtonne",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "piece",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "rocket",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "believed",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "lunar",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "surface",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "discarded",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "floating",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "since",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "unintentionally",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "crashed",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "collision",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "posed",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "danger",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "expected",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "blast",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "crater",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "object",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "fivestorey",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "building",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "launched",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "commercial",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "landers",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "towards",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "reading",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        }
+      ]
+    },
+    {
+      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "source": "NPR",
+      "tag": "NPR · 社会与文化",
+      "cat": "社会与文化",
+      "curated": false,
+      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+      "date": "Wed, 05 Aug 2026 16:43:29 -0400",
+      "body": "<p>Hasina's <u>speech</u> <u>marked</u> the <u>second</u> <u>anniversary</u> of her <u>ouster</u>. She fled Bangladesh by <u>helicopter</u> <u>following</u> <u>nearly</u> two <u>months</u> of <u>protests</u> in 2024 that left nearly 1,400 people dead, <u>according</u> to the United Nations.</p>",
+      "vocab": [
+        {
+          "w": "hasinas",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "speech",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "marked",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "second",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "anniversary",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "ouster",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "helicopter",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "following",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "nearly",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "months",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "protests",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
+        },
+        {
+          "w": "according",
+          "p": "",
+          "t": "",
+          "en": "",
+          "lv": "阅读生词"
         }
       ]
     }

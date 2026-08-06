@@ -6,7 +6,7 @@
 // 退出码：0 = 全部通过；1 = 有致命问题（阻止发布）
 import fs from 'fs';
 import path from 'path';
-import { URL } from 'url';
+import { URL, fileURLToPath } from 'url';
 
 const ROOT = path.resolve('.');
 
@@ -126,7 +126,8 @@ export async function validateNet(feed, report) {
 }
 
 // CLI
-if (import.meta.url === `file://${process.argv[1]}`) {
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] && path.resolve(process.argv[1]) === __filename) {
   (async () => {
     const feed = loadFeed();
     const report = validate(feed);
