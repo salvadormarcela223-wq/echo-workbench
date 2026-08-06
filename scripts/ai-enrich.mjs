@@ -20,10 +20,14 @@ function resolveFeedPath() {
 }
 
 function loadKey() {
+  // 服务器/CI 环境：优先读环境变量（GitHub 仓库密钥），不依赖桌面文件
+  if (process.env.DEEPSEEK_API_KEY && /^sk-/.test(process.env.DEEPSEEK_API_KEY.trim())) {
+    return process.env.DEEPSEEK_API_KEY.trim();
+  }
   let raw = '';
-  try { raw = fs.readFileSync(KEY_FILE, 'utf-8'); } catch (e) { throw new Error('找不到 DeepSeek key 文件: ' + KEY_FILE); }
+  try { raw = fs.readFileSync(KEY_FILE, 'utf-8'); } catch (e) { throw new Error('找不到 DeepSeek key（环境变量 DEEPSEEK_API_KEY 未设置，且桌面文件也不存在: ' + KEY_FILE + '）'); }
   const m = raw.match(/sk-[A-Za-z0-9]{20,}/);
-  if (!m) throw new Error('未能从文件提取 sk- 开头的 DeepSeek key（请确认文件里有一行以 sk- 开头的 key）');
+  if (!m) throw new Error('未能从文件提取 sk- 开头的 DeepSeek key（请确认文件里有一行以 sk- 开头的 key，或在服务器设置环境变量 DEEPSEEK_API_KEY）');
   return m[0];
 }
 

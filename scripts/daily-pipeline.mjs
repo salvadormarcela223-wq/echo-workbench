@@ -74,23 +74,34 @@ function run(cmd) {
   fs.writeFileSync(FEEDJS, js);
   console.log('✅ 已发布到 feed.json（缓存版本 ' + stamp + '）');
 
-  // 5. 提交 + 推送（读取桌面令牌，不删）
+  // 5. 提交 + 推送
   run('git add data/feed.json assets/js/feed.js data/words.json data/glossary.json');
   try {
     execSync('git commit -m "每日自动更新：抓取真实近期行业资讯 + DeepSeek 生成顾问视角"', { cwd: ROOT, stdio: 'inherit' });
   } catch (e) {
     console.log('（无内容变更，跳过提交）');
   }
-  let token = '';
-  try {
-    const raw = fs.readFileSync(TOKEN_FILE, 'utf-8').replace(/\r/g, '');
-    token = (raw.match(/github_pat_[A-Za-z0-9_]+/) || [])[0] || '';
-  } catch (e) { }
-  if (!token) {
-    console.log('⚠️ 未找到桌面令牌（' + TOKEN_FILE + '），跳过推送。改动已提交，稍后手动推即可。');
-    process.exit(0);
+
+  const isCI = !!process.env.GITHUB_ACTIONS;
+  if (isCI) {
+    // 服务器环境：用 GitHub 自带的 GITHUB_TOKEN 推送（无需桌面令牌，网站自行更新）
+    try { execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
+    try { execSync('git config user.name "github-actions[bot]"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
+    run('git push origin HEAD:master');
+    console.log('✅ 已推送到线上（GitHub Actions 自动运行，无需你的电脑）');
+  } else {
+    // 本地/手动：读取桌面令牌，不删
+    let token = '';
+    try {
+      const raw = fs.readFileSync(TOKEN_FILE, 'utf-8').replace(/\r/g, '');
+      token = (raw.match(/github_pat_[A-Za-z0-9_]+/) || [])[0] || '';
+    } catch (e) { }
+    if (!token) {
+      console.log('⚠️ 未找到桌面令牌（' + TOKEN_FILE + '），跳过推送。改动已提交，稍后手动推即可。');
+      process.exit(0);
+    }
+    const url = 'https://' + token + '@github.com/salvadormarcela223-wq/echo-workbench.git';
+    run('git push ' + url + ' master');
+    console.log('✅ 已推送到线上');
   }
-  const url = 'https://' + token + '@github.com/salvadormarcela223-wq/echo-workbench.git';
-  run('git push ' + url + ' master');
-  console.log('✅ 已推送到线上');
 })();
