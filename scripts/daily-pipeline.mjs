@@ -32,6 +32,7 @@ function run(cmd) {
 
   // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
   run('node scripts/fetch-news.mjs --write');
+  run('node scripts/fetch-wechat.mjs --write');   // 微信行业资讯（搜狗微信搜索，全自动、零登录）
   run('node scripts/fetch-insights.mjs --write');
   run('node scripts/fetch-readings.mjs --draft');
 
