@@ -6133,5 +6133,1835 @@
     "p": "/ɪnˈvɒlvmənt/",
     "t": "参与，介入；卷入",
     "en": "the act of taking part in something or being connected with it"
+  },
+  "when": {
+    "p": "/wen/",
+    "t": "当...时",
+    "en": "at what time"
+  },
+  "researchers": {
+    "p": "/rɪˈsɜːrtʃərz/",
+    "t": "研究人员",
+    "en": "people who study"
+  },
+  "in": {
+    "p": "/ɪn/",
+    "t": "在...里",
+    "en": "inside or within"
+  },
+  "asked": {
+    "p": "/æskt/",
+    "t": "询问",
+    "en": "requested information"
+  },
+  "consumers": {
+    "p": "/kənˈsuːmərz/",
+    "t": "消费者",
+    "en": "people who buy goods"
+  },
+  "to": {
+    "p": "/tuː/",
+    "t": "到；向",
+    "en": "toward or for"
+  },
+  "toothpaste": {
+    "p": "/ˈtuːθpeɪst/",
+    "t": "牙膏",
+    "en": "paste for cleaning teeth"
+  },
+  "they": {
+    "p": "/ðeɪ/",
+    "t": "他们",
+    "en": "those people"
+  },
+  "the": {
+    "p": "/ðə/",
+    "t": "这；那",
+    "en": "specific one"
+  },
+  "vocabulary": {
+    "p": "/vəˈkæbjəleri/",
+    "t": "词汇",
+    "en": "words of a language"
+  },
+  "mint": {
+    "p": "/mɪnt/",
+    "t": "薄荷",
+    "en": "plant with fresh taste"
+  },
+  "intensity": {
+    "p": "/ɪnˈtensəti/",
+    "t": "强度",
+    "en": "strength or degree"
+  },
+  "that": {
+    "p": "/ðæt/",
+    "t": "那个",
+    "en": "the one mentioned"
+  },
+  "lasts": {
+    "p": "/læsts/",
+    "t": "持续",
+    "en": "continues for time"
+  },
+  "had": {
+    "p": "/hæd/",
+    "t": "有",
+    "en": "possessed"
+  },
+  "precisely": {
+    "p": "/prɪˈsaɪsli/",
+    "t": "精确地",
+    "en": "exactly, accurately"
+  },
+  "with": {
+    "p": "/wɪð/",
+    "t": "和；用",
+    "en": "accompanied by"
+  },
+  "how": {
+    "p": "/haʊ/",
+    "t": "如何",
+    "en": "in what way"
+  },
+  "industry": {
+    "p": "/ˈɪndəstri/",
+    "t": "行业",
+    "en": "business sector"
+  },
+  "has": {
+    "p": "/hæz/",
+    "t": "有",
+    "en": "possesses"
+  },
+  "measured": {
+    "p": "/ˈmeʒərd/",
+    "t": "测量",
+    "en": "determined size"
+  },
+  "experience": {
+    "p": "/ɪkˈspɪriəns/",
+    "t": "体验",
+    "en": "knowledge from doing"
+  },
+  "years": {
+    "p": "/jɪrz/",
+    "t": "年",
+    "en": "periods of 12 months"
+  },
+  "built": {
+    "p": "/bɪlt/",
+    "t": "建立",
+    "en": "constructed"
+  },
+  "takes": {
+    "p": "/teɪks/",
+    "t": "需要",
+    "en": "requires"
+  },
+  "into": {
+    "p": "/ˈɪntuː/",
+    "t": "进入",
+    "en": "to the inside"
+  },
+  "attributes": {
+    "p": "/əˈtrɪbjuːts/",
+    "t": "属性",
+    "en": "qualities or features"
+  },
+  "scale": {
+    "p": "/skeɪl/",
+    "t": "等级",
+    "en": "range of values"
+  },
+  "marketing": {
+    "p": "/ˈmɑːrkɪtɪŋ/",
+    "t": "营销",
+    "en": "promoting products"
+  },
+  "rigorous": {
+    "p": "/ˈrɪɡərəs/",
+    "t": "严格的",
+    "en": "thorough and careful"
+  },
+  "sense": {
+    "p": "/sens/",
+    "t": "感觉；意义",
+    "en": "a feeling or meaning"
+  },
+  "say": {
+    "p": "/seɪ/",
+    "t": "说；表明",
+    "en": "to speak or express"
+  },
+  "texture": {
+    "p": "/ˈtekstʃər/",
+    "t": "质地；纹理",
+    "en": "the feel or appearance of a surface"
+  },
+  "well": {
+    "p": "/wel/",
+    "t": "好；井",
+    "en": "in a good way; a water source"
+  },
+  "works": {
+    "p": "/wɜːrks/",
+    "t": "作品；运作",
+    "en": "things produced; functions"
+  },
+  "read": {
+    "p": "/riːd/",
+    "t": "阅读；理解",
+    "en": "to look at and understand text"
+  },
+  "again": {
+    "p": "/əˈɡen/",
+    "t": "再次；又",
+    "en": "one more time"
+  },
+  "are": {
+    "p": "/ɑːr/",
+    "t": "是（复数）",
+    "en": "form of be for plural"
+  },
+  "not": {
+    "p": "/nɒt/",
+    "t": "不；没有",
+    "en": "used to negate"
+  },
+  "using": {
+    "p": "/ˈjuːzɪŋ/",
+    "t": "使用",
+    "en": "the act of employing"
+  },
+  "as": {
+    "p": "/æz/",
+    "t": "作为；像",
+    "en": "in the role of; like"
+  },
+  "because": {
+    "p": "/bɪˈkɒz/",
+    "t": "因为",
+    "en": "for the reason that"
+  },
+  "invisible": {
+    "p": "/ɪnˈvɪzəbl/",
+    "t": "看不见的",
+    "en": "not able to be seen"
+  },
+  "most": {
+    "p": "/moʊst/",
+    "t": "最多的；大多数",
+    "en": "greatest in amount; the majority"
+  },
+  "brands": {
+    "p": "/brændz/",
+    "t": "品牌",
+    "en": "names of products or companies"
+  },
+  "still": {
+    "p": "/stɪl/",
+    "t": "仍然；静止",
+    "en": "up to now; not moving"
+  },
+  "design": {
+    "p": "/dɪˈzaɪn/",
+    "t": "设计",
+    "en": "to plan or create"
+  },
+  "them": {
+    "p": "/ðem/",
+    "t": "他们（宾格）",
+    "en": "object form of they"
+  },
+  "by": {
+    "p": "/baɪ/",
+    "t": "通过；在旁",
+    "en": "near; using"
+  },
+  "which": {
+    "p": "/wɪtʃ/",
+    "t": "哪个；哪些",
+    "en": "what one or ones"
+  },
+  "we": {
+    "p": "/wiː/",
+    "t": "我们",
+    "en": "the speaker and others"
+  },
+  "consumer": {
+    "p": "/kənˈsuːmər/",
+    "t": "消费者",
+    "en": "a person who buys goods"
+  },
+  "team": {
+    "p": "/tiːm/",
+    "t": "团队",
+    "en": "a group working together"
+  },
+  "used": {
+    "p": "/juːzd/",
+    "t": "使用过的；习惯",
+    "en": "previously owned; accustomed"
+  },
+  "ai": {
+    "p": "/ˌeɪˈaɪ/",
+    "t": "人工智能",
+    "en": "artificial intelligence"
+  },
+  "language": {
+    "p": "/ˈlæŋɡwɪdʒ/",
+    "t": "语言",
+    "en": "system of communication"
+  },
+  "rather": {
+    "p": "/ˈræðər/",
+    "t": "宁愿；相当",
+    "en": "more willingly; somewhat"
+  },
+  "than": {
+    "p": "/ðæn/",
+    "t": "比",
+    "en": "used for comparison"
+  },
+  "change": {
+    "p": "/tʃeɪndʒ/",
+    "t": "改变；变化",
+    "en": "to make or become different"
+  },
+  "sounds": {
+    "p": "/saʊndz/",
+    "t": "声音；听起来",
+    "en": "noises; seems"
+  },
+  "practice": {
+    "p": "/ˈpræktɪs/",
+    "t": "练习",
+    "en": "repeated exercise to improve skill"
+  },
+  "if": {
+    "p": "/ɪf/",
+    "t": "如果",
+    "en": "in case that; on condition"
+  },
+  "model": {
+    "p": "/ˈmɒdl/",
+    "t": "模型",
+    "en": "a representation or example"
+  },
+  "will": {
+    "p": "/wɪl/",
+    "t": "将",
+    "en": "expressing future tense"
+  },
+  "reproduce": {
+    "p": "/ˌriːprəˈdjuːs/",
+    "t": "复制",
+    "en": "make a copy of"
+  },
+  "never": {
+    "p": "/ˈnevər/",
+    "t": "从不",
+    "en": "not ever; at no time"
+  },
+  "surprise": {
+    "p": "/sərˈpraɪz/",
+    "t": "惊讶",
+    "en": "an unexpected event"
+  },
+  "us": {
+    "p": "/ʌs/",
+    "t": "我们",
+    "en": "objective case of we"
+  },
+  "ten": {
+    "p": "/ten/",
+    "t": "十",
+    "en": "the number 10"
+  },
+  "seconds": {
+    "p": "/ˈsekəndz/",
+    "t": "秒",
+    "en": "units of time"
+  },
+  "any": {
+    "p": "/ˈeni/",
+    "t": "任何",
+    "en": "one or some indiscriminately"
+  },
+  "interview": {
+    "p": "/ˈɪntərvjuː/",
+    "t": "面试",
+    "en": "a formal meeting for assessment"
+  },
+  "usually": {
+    "p": "/ˈjuːʒuəli/",
+    "t": "通常",
+    "en": "under normal conditions"
+  },
+  "moment": {
+    "p": "/ˈmoʊmənt/",
+    "t": "时刻",
+    "en": "a brief period of time"
+  },
+  "question": {
+    "p": "/ˈkwestʃən/",
+    "t": "问题",
+    "en": "a sentence asking for information"
+  },
+  "between": {
+    "p": "/bɪˈtwiːn/",
+    "t": "之间",
+    "en": "in the interval separating"
+  },
+  "brief": {
+    "p": "/briːf/",
+    "t": "简短的",
+    "en": "short in duration or length"
+  },
+  "none": {
+    "p": "/nʌn/",
+    "t": "没有",
+    "en": "not any; no one"
+  },
+  "means": {
+    "p": "/miːnz/",
+    "t": "方法",
+    "en": "a way of doing something"
+  },
+  "method": {
+    "p": "/ˈmeθəd/",
+    "t": "方法",
+    "en": "a systematic procedure"
+  },
+  "leave": {
+    "p": "/liːv/",
+    "t": "离开",
+    "en": "go away from"
+  },
+  "minutes": {
+    "p": "/ˈmɪnɪts/",
+    "t": "分钟",
+    "en": "units of time equal to 60 seconds"
+  },
+  "end": {
+    "p": "/end/",
+    "t": "结束",
+    "en": "the final part"
+  },
+  "test": {
+    "p": "/test/",
+    "t": "测试",
+    "en": "an examination or trial"
+  },
+  "ask": {
+    "p": "/æsk/",
+    "t": "问",
+    "en": "request information"
+  },
+  "tell": {
+    "p": "/tel/",
+    "t": "告诉",
+    "en": "communicate information"
+  },
+  "you": {
+    "p": "/juː/",
+    "t": "你",
+    "en": "the person addressed"
+  },
+  "story": {
+    "p": "/ˈstɔːri/",
+    "t": "故事",
+    "en": "a narrative of events"
+  },
+  "things": {
+    "p": "/θɪŋz/",
+    "t": "事物",
+    "en": "objects or items"
+  },
+  "no": {
+    "p": "/noʊ/",
+    "t": "不",
+    "en": "negative response"
+  },
+  "could": {
+    "p": "/kʊd/",
+    "t": "能够",
+    "en": "used to express possibility or ability"
+  },
+  "worth": {
+    "p": "/wɜːrθ/",
+    "t": "值得",
+    "en": "having value or merit"
+  },
+  "practical": {
+    "p": "/ˈpræktɪkl/",
+    "t": "实用的",
+    "en": "relating to actual use or practice"
+  },
+  "do": {
+    "p": "/duː/",
+    "t": "做",
+    "en": "perform an action or task"
+  },
+  "fit": {
+    "p": "/fɪt/",
+    "t": "适合",
+    "en": "be suitable or appropriate"
+  },
+  "existing": {
+    "p": "/ɪɡˈzɪstɪŋ/",
+    "t": "现有的",
+    "en": "currently in existence"
+  },
+  "framework": {
+    "p": "/ˈfreɪmwɜːrk/",
+    "t": "框架",
+    "en": "a basic structure or system"
+  },
+  "directly": {
+    "p": "/dəˈrektli/",
+    "t": "直接地",
+    "en": "in a direct manner"
+  },
+  "client": {
+    "p": "/ˈklaɪənt/",
+    "t": "客户",
+    "en": "a person or organization using services"
+  },
+  "global": {
+    "p": "/ˈɡloʊbl/",
+    "t": "全球的",
+    "en": "relating to the whole world"
+  },
+  "roadmap": {
+    "p": "/ˈroʊdmæp/",
+    "t": "路线图",
+    "en": "a plan or strategy for future"
+  },
+  "having": {
+    "p": "/ˈhævɪŋ/",
+    "t": "拥有",
+    "en": "possessing or holding"
+  },
+  "appeared": {
+    "p": "/əˈpɪrd/",
+    "t": "出现",
+    "en": "came into view or existence"
+  },
+  "first": {
+    "p": "/fɜːrst/",
+    "t": "第一",
+    "en": "coming before all others"
+  },
+  "third": {
+    "p": "/θɜːrd/",
+    "t": "第三",
+    "en": "position after the second"
+  },
+  "would": {
+    "p": "/wʊd/",
+    "t": "将会",
+    "en": "used to express conditional or future"
+  },
+  "need": {
+    "p": "/niːd/",
+    "t": "需要",
+    "en": "require something necessary"
+  },
+  "tactile": {
+    "p": "/ˈtæktaɪl/",
+    "t": "触觉的",
+    "en": "relating to the sense of touch"
+  },
+  "terms": {
+    "p": "/tɜːrmz/",
+    "t": "术语",
+    "en": "words or expressions used in a field"
+  },
+  "resistance": {
+    "p": "/rɪˈzɪstəns/",
+    "t": "抵抗",
+    "en": "the act of opposing or withstanding"
+  },
+  "engagement": {
+    "p": "/ɪnˈɡeɪdʒmənt/",
+    "t": "参与",
+    "en": "involvement or participation"
+  },
+  "release": {
+    "p": "/rɪˈliːs/",
+    "t": "发布",
+    "en": "make available to the public"
+  },
+  "organisation": {
+    "p": "/ˌɔːrɡənəˈzeɪʃn/",
+    "t": "组织",
+    "en": "a structured group of people"
+  },
+  "done": {
+    "p": "/dʌn/",
+    "t": "完成",
+    "en": "completed or finished"
+  },
+  "qualitative": {
+    "p": "/ˈkwɑːlɪteɪtɪv/",
+    "t": "定性的",
+    "en": "relating to quality or nature"
+  },
+  "depth": {
+    "p": "/depθ/",
+    "t": "深度",
+    "en": "the distance from top to bottom"
+  },
+  "all": {
+    "p": "/ɔːl/",
+    "t": "全部",
+    "en": "the whole quantity or extent"
+  },
+  "home": {
+    "p": "/hoʊm/",
+    "t": "家",
+    "en": "a place where one lives"
+  },
+  "contribution": {
+    "p": "/ˌkɑːntrɪˈbjuːʃn/",
+    "t": "贡献",
+    "en": "something given or added"
+  },
+  "once": {
+    "p": "/wʌns/",
+    "t": "一次",
+    "en": "one time only"
+  },
+  "changes": {
+    "p": "/ˈtʃeɪndʒɪz/",
+    "t": "变化",
+    "en": "acts of making different"
+  },
+  "questions": {
+    "p": "/ˈkwestʃənz/",
+    "t": "问题",
+    "en": "sentences asking for information"
+  },
+  "community": {
+    "p": "/kəˈmjuːnəti/",
+    "t": "社区",
+    "en": "group of people living together"
+  },
+  "tools": {
+    "p": "/tuːlz/",
+    "t": "工具",
+    "en": "devices used for tasks"
+  },
+  "use": {
+    "p": "/juːz/",
+    "t": "使用",
+    "en": "employ for a purpose"
+  },
+  "point": {
+    "p": "/pɔɪnt/",
+    "t": "要点",
+    "en": "main idea or purpose"
+  },
+  "era": {
+    "p": "/ˈɪərə/",
+    "t": "时代",
+    "en": "long period of time"
+  },
+  "products": {
+    "p": "/ˈprɒdʌkts/",
+    "t": "产品",
+    "en": "items made for sale"
+  },
+  "crunch": {
+    "p": "/krʌntʃ/",
+    "t": " crunch",
+    "en": "crunchy sound or critical moment"
+  },
+  "brand": {
+    "p": "/brænd/",
+    "t": "品牌",
+    "en": "distinctive name or identity"
+  },
+  "honest": {
+    "p": "/ˈɒnɪst/",
+    "t": "诚实的",
+    "en": "truthful and sincere"
+  },
+  "promises": {
+    "p": "/ˈprɒmɪsɪz/",
+    "t": "承诺",
+    "en": "assurances that something will happen"
+  },
+  "workers": {
+    "p": "/ˈwɜːkəz/",
+    "t": "工人",
+    "en": "people who work"
+  },
+  "motion": {
+    "p": "/ˈməʊʃn/",
+    "t": "运动",
+    "en": "act of moving"
+  },
+  "jobs": {
+    "p": "/dʒɒbz/",
+    "t": "工作",
+    "en": "paid positions of employment"
+  },
+  "higher": {
+    "p": "/ˈhaɪə/",
+    "t": "更高的",
+    "en": "greater in height or level"
+  },
+  "pay": {
+    "p": "/peɪ/",
+    "t": "支付",
+    "en": "give money for goods or services"
+  },
+  "sometimes": {
+    "p": "/ˈsʌmtaɪmz/",
+    "t": "有时",
+    "en": "on some occasions"
+  },
+  "same": {
+    "p": "/seɪm/",
+    "t": "相同的",
+    "en": "identical or similar"
+  },
+  "went": {
+    "p": "/went/",
+    "t": "去",
+    "en": "past tense of go"
+  },
+  "old": {
+    "p": "/əʊld/",
+    "t": "旧的",
+    "en": "having lived for many years"
+  },
+  "contract": {
+    "p": "/ˈkɒntrækt/",
+    "t": "合同",
+    "en": "formal agreement between parties"
+  },
+  "many": {
+    "p": "/ˈmeni/",
+    "t": "许多",
+    "en": "a large number of"
+  },
+  "ways": {
+    "p": "/weɪz/",
+    "t": "方式",
+    "en": "methods or manners"
+  },
+  "role": {
+    "p": "/rəʊl/",
+    "t": "角色",
+    "en": "function or part played"
+  },
+  "skills": {
+    "p": "/skɪlz/",
+    "t": "技能",
+    "en": "abilities or expertise"
+  },
+  "project": {
+    "p": "/ˈprɒdʒekt/",
+    "t": "项目",
+    "en": "planned piece of work"
+  },
+  "doing": {
+    "p": "/ˈduːɪŋ/",
+    "t": "做",
+    "en": "performing an action"
+  },
+  "outside": {
+    "p": "/ˌaʊtˈsaɪd/",
+    "t": "外部",
+    "en": "not inside; external"
+  },
+  "nothing": {
+    "p": "/ˈnʌθɪŋ/",
+    "t": "没有",
+    "en": "not anything"
+  },
+  "changed": {
+    "p": "/tʃeɪndʒd/",
+    "t": "改变了的",
+    "en": "made different"
+  },
+  "labour": {
+    "p": "/ˈleɪbər/",
+    "t": "劳动",
+    "en": "work, especially physical"
+  },
+  "two": {
+    "p": "/tuː/",
+    "t": "二",
+    "en": "the number 2"
+  },
+  "decision": {
+    "p": "/dɪˈsɪʒən/",
+    "t": "决定",
+    "en": "a choice made"
+  },
+  "changing": {
+    "p": "/ˈtʃeɪndʒɪŋ/",
+    "t": "变化中的",
+    "en": "becoming different"
+  },
+  "writing": {
+    "p": "/ˈraɪtɪŋ/",
+    "t": "写作",
+    "en": "the act of composing text"
+  },
+  "opportunity": {
+    "p": "/ˌɒpərˈtjuːnəti/",
+    "t": "机会",
+    "en": "a favorable chance"
+  },
+  "part": {
+    "p": "/pɑːrt/",
+    "t": "部分",
+    "en": "a piece of a whole"
+  },
+  "break": {
+    "p": "/breɪk/",
+    "t": "打破",
+    "en": "to separate into pieces"
+  },
+  "hired": {
+    "p": "/ˈhaɪərd/",
+    "t": "雇佣的",
+    "en": "given a job"
+  },
+  "shows": {
+    "p": "/ʃoʊz/",
+    "t": "显示",
+    "en": "to display or reveal"
+  },
+  "know": {
+    "p": "/noʊ/",
+    "t": "知道",
+    "en": "to have knowledge"
+  },
+  "next": {
+    "p": "/nekst/",
+    "t": "下一个",
+    "en": "coming immediately after"
+  },
+  "layoffs": {
+    "p": "/ˈleɪɒfs/",
+    "t": "裁员",
+    "en": "dismissals from employment"
+  },
+  "almost": {
+    "p": "/ˈɔːlmoʊst/",
+    "t": "几乎",
+    "en": "nearly, not quite"
+  },
+  "argued": {
+    "p": "/ˈɑːrɡjuːd/",
+    "t": "争论",
+    "en": "gave reasons for or against"
+  },
+  "strategic": {
+    "p": "/strəˈtiːdʒɪk/",
+    "t": "战略的",
+    "en": "relating to long-term goals"
+  },
+  "plan": {
+    "p": "/plæn/",
+    "t": "计划",
+    "en": "a proposed course of action"
+  },
+  "firm": {
+    "p": "/fɜːrm/",
+    "t": "公司",
+    "en": "a business organization"
+  },
+  "reason": {
+    "p": "/ˈriːzən/",
+    "t": "原因",
+    "en": "a cause or explanation"
+  },
+  "may": {
+    "p": "/meɪ/",
+    "t": "可能",
+    "en": "to be possible"
+  },
+  "year": {
+    "p": "/jɪər/",
+    "t": "年",
+    "en": "a period of 365 days"
+  },
+  "residents": {
+    "p": "/ˈrezɪdənts/",
+    "t": "居民",
+    "en": "people living in a place"
+  },
+  "exercise": {
+    "p": "/ˈeksərsaɪz/",
+    "t": "锻炼",
+    "en": "physical activity for fitness"
+  },
+  "corrections": {
+    "p": "/kəˈrekʃənz/",
+    "t": "修正",
+    "en": "changes to make right"
+  },
+  "out": {
+    "p": "/aʊt/",
+    "t": "出去",
+    "en": "away from inside"
+  },
+  "places": {
+    "p": "/ˈpleɪsɪz/",
+    "t": "地方",
+    "en": "locations or positions"
+  },
+  "silence": {
+    "p": "/ˈsaɪləns/",
+    "t": "沉默",
+    "en": "absence of sound"
+  },
+  "library": {
+    "p": "/ˈlaɪbreri/",
+    "t": "图书馆",
+    "en": "a place with books"
+  },
+  "own": {
+    "p": "/oʊn/",
+    "t": "自己的",
+    "en": "belonging to oneself"
+  },
+  "see": {
+    "p": "/siː/",
+    "t": "看见",
+    "en": "perceive with the eyes"
+  },
+  "shift": {
+    "p": "/ʃɪft/",
+    "t": "转变",
+    "en": "change position or direction"
+  },
+  "better": {
+    "p": "/ˈbetər/",
+    "t": "更好的",
+    "en": "of superior quality"
+  },
+  "advance": {
+    "p": "/ədˈvæns/",
+    "t": "前进",
+    "en": "move forward or progress"
+  },
+  "before": {
+    "p": "/bɪˈfɔːr/",
+    "t": "在...之前",
+    "en": "earlier than"
+  },
+  "after": {
+    "p": "/ˈæftər/",
+    "t": "在...之后",
+    "en": "later than"
+  },
+  "technique": {
+    "p": "/tekˈniːk/",
+    "t": "技术",
+    "en": "method of doing something"
+  },
+  "innovation": {
+    "p": "/ˌɪnəˈveɪʃn/",
+    "t": "创新",
+    "en": "introduction of new ideas"
+  },
+  "understand": {
+    "p": "/ˌʌndərˈstænd/",
+    "t": "理解",
+    "en": "comprehend the meaning"
+  },
+  "difficult": {
+    "p": "/ˈdɪfɪkəlt/",
+    "t": "困难的",
+    "en": "hard to do"
+  },
+  "discomfort": {
+    "p": "/dɪsˈkʌmfərt/",
+    "t": "不适",
+    "en": "state of unease"
+  },
+  "his": {
+    "p": "/hɪz/",
+    "t": "他的",
+    "en": "belonging to him"
+  },
+  "action": {
+    "p": "/ˈækʃn/",
+    "t": "行动",
+    "en": "process of doing"
+  },
+  "life": {
+    "p": "/laɪf/",
+    "t": "生活",
+    "en": "existence or living"
+  },
+  "corner": {
+    "p": "/ˈkɔːrnər/",
+    "t": "角落",
+    "en": "place where sides meet"
+  },
+  "pub": {
+    "p": "/pʌb/",
+    "t": "酒吧",
+    "en": "establishment serving drinks"
+  },
+  "replaced": {
+    "p": "/rɪˈpleɪst/",
+    "t": "取代",
+    "en": "took the place of"
+  },
+  "bar": {
+    "p": "/bɑːr/",
+    "t": "酒吧",
+    "en": "counter for drinks"
+  },
+  "provide": {
+    "p": "/prəˈvaɪd/",
+    "t": "提供",
+    "en": "supply or make available"
+  },
+  "come": {
+    "p": "/kʌm/",
+    "t": "来",
+    "en": "move towards speaker"
+  },
+  "away": {
+    "p": "/əˈweɪ/",
+    "t": "离开",
+    "en": "at a distance"
+  },
+  "back": {
+    "p": "/bæk/",
+    "t": "回来",
+    "en": "return to previous place"
+  },
+  "coming": {
+    "p": "/ˈkʌmɪŋ/",
+    "t": "即将到来",
+    "en": "approaching or arriving"
+  },
+  "me": {
+    "p": "/miː/",
+    "t": "我",
+    "en": "objective form of I"
+  },
+  "obvious": {
+    "p": "/ˈɑːbviəs/",
+    "t": "明显的",
+    "en": "easily seen or understood"
+  },
+  "discovery": {
+    "p": "/dɪˈskʌvəri/",
+    "t": "发现",
+    "en": "act of finding something"
+  },
+  "reveals": {
+    "p": "/rɪˈviːlz/",
+    "t": "揭示",
+    "en": "makes known or shows"
+  },
+  "spent": {
+    "p": "/spent/",
+    "t": "花费",
+    "en": "used time or money"
+  },
+  "weeks": {
+    "p": "/wiːks/",
+    "t": "周",
+    "en": "periods of seven days"
+  },
+  "preparing": {
+    "p": "/prɪˈperɪŋ/",
+    "t": "准备",
+    "en": "making ready"
+  },
+  "a": {
+    "p": "/ə/",
+    "t": "一个",
+    "en": "used before nouns"
+  },
+  "questionnaire": {
+    "p": "/ˌkwestʃəˈneər/",
+    "t": "问卷",
+    "en": "set of questions"
+  },
+  "trained": {
+    "p": "/treɪnd/",
+    "t": "训练过的",
+    "en": "having received training"
+  },
+  "panel": {
+    "p": "/ˈpænl/",
+    "t": "小组",
+    "en": "group of people"
+  },
+  "of": {
+    "p": "/əv/",
+    "t": "的",
+    "en": "belonging to"
+  },
+  "against": {
+    "p": "/əˈɡenst/",
+    "t": "反对",
+    "en": "in opposition to"
+  },
+  "instead": {
+    "p": "/ɪnˈsted/",
+    "t": "代替",
+    "en": "in place of"
+  },
+  "people": {
+    "p": "/ˈpiːpl/",
+    "t": "人们",
+    "en": "human beings"
+  },
+  "can": {
+    "p": "/kæn/",
+    "t": "能",
+    "en": "be able to"
+  },
+  "only": {
+    "p": "/ˈoʊnli/",
+    "t": "仅仅",
+    "en": "and nothing more"
+  },
+  "measure": {
+    "p": "/ˈmeʒər/",
+    "t": "测量",
+    "en": "determine size"
+  },
+  "what": {
+    "p": "/wʌt/",
+    "t": "什么",
+    "en": "asking for info"
+  },
+  "thought": {
+    "p": "/θɔːt/",
+    "t": "想法",
+    "en": "idea or opinion"
+  },
+  "an": {
+    "p": "/ən/",
+    "t": "一个",
+    "en": "used before vowels"
+  },
+  "good": {
+    "p": "/ɡʊd/",
+    "t": "好的",
+    "en": "of high quality"
+  },
+  "at": {
+    "p": "/æt/",
+    "t": "在",
+    "en": "indicating location"
+  },
+  "already": {
+    "p": "/ɔːlˈredi/",
+    "t": "已经",
+    "en": "by now"
+  },
+  "knows": {
+    "p": "/noʊz/",
+    "t": "知道",
+    "en": "has knowledge"
+  },
+  "blind": {
+    "p": "/blaɪnd/",
+    "t": "盲的",
+    "en": "unable to see"
+  },
+  "everything": {
+    "p": "/ˈevriθɪŋ/",
+    "t": "一切",
+    "en": "all things"
+  },
+  "else": {
+    "p": "/els/",
+    "t": "其他",
+    "en": "in addition"
+  },
+  "this": {
+    "p": "/ðɪs/",
+    "t": "这个",
+    "en": "the one here"
+  },
+  "expensive": {
+    "p": "/ɪkˈspensɪv/",
+    "t": "昂贵的",
+    "en": "costing much"
+  },
+  "these": {
+    "p": "/ðiːz/",
+    "t": "这些",
+    "en": "plural of this"
+  },
+  "learned": {
+    "p": "/ˈlɜːrnɪd/",
+    "t": "学到的",
+    "en": "acquired knowledge"
+  },
+  "cultural": {
+    "p": "/ˈkʌltʃərəl/",
+    "t": "文化的",
+    "en": "relating to culture"
+  },
+  "yet": {
+    "p": "/jet/",
+    "t": "然而",
+    "en": "up to now"
+  },
+  "emerged": {
+    "p": "/ɪˈmɜːrdʒd/",
+    "t": "出现",
+    "en": "came into view"
+  },
+  "different": {
+    "p": "/ˈdɪfrənt/",
+    "t": "不同的",
+    "en": "not the same"
+  },
+  "finding": {
+    "p": "/ˈfaɪndɪŋ/",
+    "t": "发现",
+    "en": "result of research"
+  },
+  "market": {
+    "p": "/ˈmɑːrkɪt/",
+    "t": "市场",
+    "en": "a place where goods are sold"
+  },
+  "checklist": {
+    "p": "/ˈtʃeklɪst/",
+    "t": "清单",
+    "en": "a list of items to check"
+  },
+  "feeling": {
+    "p": "/ˈfiːlɪŋ/",
+    "t": "感觉",
+    "en": "an emotional state or sensation"
+  },
+  "being": {
+    "p": "/ˈbiːɪŋ/",
+    "t": "存在",
+    "en": "existence or a living thing"
+  },
+  "cared": {
+    "p": "/kerd/",
+    "t": "关心",
+    "en": "past tense of care; concerned"
+  },
+  "likely": {
+    "p": "/ˈlaɪkli/",
+    "t": "可能",
+    "en": "probable or expected"
+  },
+  "answer": {
+    "p": "/ˈænsər/",
+    "t": "回答",
+    "en": "a response to a question"
+  },
+  "wrong": {
+    "p": "/rɔːŋ/",
+    "t": "错误",
+    "en": "incorrect or not right"
+  },
+  "work": {
+    "p": "/wɜːrk/",
+    "t": "工作",
+    "en": "activity involving effort"
+  },
+  "where": {
+    "p": "/wer/",
+    "t": "哪里",
+    "en": "in or at what place"
+  },
+  "useful": {
+    "p": "/ˈjuːsfl/",
+    "t": "有用",
+    "en": "helpful or beneficial"
+  },
+  "data": {
+    "p": "/ˈdeɪtə/",
+    "t": "数据",
+    "en": "facts or information"
+  },
+  "breaks": {
+    "p": "/breɪks/",
+    "t": "休息",
+    "en": "pauses or fractures"
+  },
+  "more": {
+    "p": "/mɔːr/",
+    "t": "更多",
+    "en": "greater in amount"
+  },
+  "combined": {
+    "p": "/kəmˈbaɪnd/",
+    "t": "结合",
+    "en": "joined together"
+  },
+  "always": {
+    "p": "/ˈɔːlweɪz/",
+    "t": "总是",
+    "en": "at all times"
+  },
+  "matter": {
+    "p": "/ˈmætər/",
+    "t": "事情",
+    "en": "a subject or concern"
+  },
+  "job": {
+    "p": "/dʒɑːb/",
+    "t": "工作",
+    "en": "a task or occupation"
+  },
+  "make": {
+    "p": "/meɪk/",
+    "t": "制作",
+    "en": "to create or produce"
+  },
+  "way": {
+    "p": "/weɪ/",
+    "t": "方式",
+    "en": "a method or path"
+  },
+  "intention": {
+    "p": "/ɪnˈtenʃn/",
+    "t": "意图",
+    "en": "a plan or purpose"
+  },
+  "give": {
+    "p": "/ɡɪv/",
+    "t": "给予",
+    "en": "to hand over or provide"
+  },
+  "name": {
+    "p": "/neɪm/",
+    "t": "名字",
+    "en": "a word for a person or thing"
+  },
+  "closure": {
+    "p": "/ˈkloʊʒər/",
+    "t": "结束",
+    "en": "a sense of finality"
+  },
+  "d": {
+    "p": "/diː/",
+    "t": "字母D",
+    "en": "the fourth letter"
+  },
+  "departments": {
+    "p": "/dɪˈpɑːrtmənts/",
+    "t": "部门",
+    "en": "divisions of an organization"
+  },
+  "produce": {
+    "p": "/prəˈduːs/",
+    "t": "生产",
+    "en": "to make or create"
+  },
+  "so": {
+    "p": "/soʊ/",
+    "t": "所以",
+    "en": "therefore or thus"
+  },
+  "even": {
+    "p": "/ˈiːvn/",
+    "t": "甚至",
+    "en": "used to emphasize something"
+  },
+  "discovered": {
+    "p": "/dɪˈskʌvərd/",
+    "t": "发现",
+    "en": "found or learned about"
+  },
+  "report": {
+    "p": "/rɪˈpɔːrt/",
+    "t": "报告",
+    "en": "give a spoken or written account"
+  },
+  "quiet": {
+    "p": "/ˈkwaɪət/",
+    "t": "安静的",
+    "en": "making little or no noise"
+  },
+  "hiring": {
+    "p": "/ˈhaɪərɪŋ/",
+    "t": "雇用",
+    "en": "the act of employing someone"
+  },
+  "filling": {
+    "p": "/ˈfɪlɪŋ/",
+    "t": "填补",
+    "en": "the act of making full"
+  },
+  "gaps": {
+    "p": "/ɡæps/",
+    "t": "缺口",
+    "en": "spaces or intervals"
+  },
+  "full-time": {
+    "p": "/ˌfʊl ˈtaɪm/",
+    "t": "全职的",
+    "en": "working the full number of hours"
+  },
+  "employees": {
+    "p": "/ɪmˈplɔɪiːz/",
+    "t": "雇员",
+    "en": "people who work for others"
+  },
+  "or": {
+    "p": "/ɔːr/",
+    "t": "或者",
+    "en": "used to link alternatives"
+  },
+  "show": {
+    "p": "/ʃoʊ/",
+    "t": "显示",
+    "en": "make visible or apparent"
+  },
+  "up": {
+    "p": "/ʌp/",
+    "t": "向上",
+    "en": "toward a higher position"
+  },
+  "why": {
+    "p": "/waɪ/",
+    "t": "为什么",
+    "en": "for what reason"
+  },
+  "get": {
+    "p": "/ɡet/",
+    "t": "得到",
+    "en": "come to have or hold"
+  },
+  "something": {
+    "p": "/ˈsʌmθɪŋ/",
+    "t": "某事",
+    "en": "an unspecified thing"
+  },
+  "am": {
+    "p": "/æm/",
+    "t": "是",
+    "en": "first person singular of be"
+  },
+  "time": {
+    "p": "/taɪm/",
+    "t": "时间",
+    "en": "the indefinite continued progress"
+  },
+  "uncomfortable": {
+    "p": "/ʌnˈkʌmftəbl/",
+    "t": "不舒服的",
+    "en": "causing discomfort or unease"
+  },
+  "run": {
+    "p": "/rʌn/",
+    "t": "跑",
+    "en": "move swiftly on foot"
+  },
+  "through": {
+    "p": "/θruː/",
+    "t": "通过",
+    "en": "from one side to the other"
+  },
+  "called": {
+    "p": "/kɔːld/",
+    "t": "称为",
+    "en": "past tense of call"
+  },
+  "open": {
+    "p": "/ˈoʊpən/",
+    "t": "开放的",
+    "en": "not closed or locked"
+  },
+  "implicit": {
+    "p": "/ɪmˈplɪsɪt/",
+    "t": "含蓄的",
+    "en": "implied but not stated"
+  },
+  "requires": {
+    "p": "/rɪˈkwaɪərz/",
+    "t": "需要",
+    "en": "needs or demands"
+  },
+  "take": {
+    "p": "/teɪk/",
+    "t": "拿",
+    "en": "lay hold of with hands"
+  },
+  "execution": {
+    "p": "/ˌeksɪˈkjuːʃn/",
+    "t": "执行",
+    "en": "the carrying out of a plan"
+  },
+  "procrastination": {
+    "p": "/prəˌkræstɪˈneɪʃn/",
+    "t": "拖延",
+    "en": "the action of delaying"
+  },
+  "trying": {
+    "p": "/ˈtraɪɪŋ/",
+    "t": "尝试",
+    "en": "making an attempt"
+  },
+  "avoiding": {
+    "p": "/əˈvɔɪdɪŋ/",
+    "t": "避免",
+    "en": "keeping away from"
+  },
+  "fear": {
+    "p": "/fɪr/",
+    "t": "恐惧",
+    "en": "an unpleasant emotion"
+  },
+  "want": {
+    "p": "/wɑːnt/",
+    "t": "想要",
+    "en": "have a desire for"
+  },
+  "thing": {
+    "p": "/θɪŋ/",
+    "t": "事物",
+    "en": "an object or entity"
+  },
+  "platforms": {
+    "p": "/ˈplætfɔːrmz/",
+    "t": "平台",
+    "en": "raised surfaces or digital bases"
+  },
+  "listening": {
+    "p": "/ˈlɪsənɪŋ/",
+    "t": "倾听",
+    "en": "act of paying attention to sound"
+  },
+  "trade-offs": {
+    "p": "/ˈtreɪd ɔːfs/",
+    "t": "权衡",
+    "en": "exchanges of one thing for another"
+  },
+  "go": {
+    "p": "/ɡoʊ/",
+    "t": "去；进行",
+    "en": "move or travel somewhere"
+  },
+  "my": {
+    "p": "/maɪ/",
+    "t": "我的",
+    "en": "belonging to me"
+  },
+  "think": {
+    "p": "/θɪŋk/",
+    "t": "思考",
+    "en": "have opinion or belief"
+  },
+  "freshness": {
+    "p": "/ˈfreʃnəs/",
+    "t": "新鲜",
+    "en": "quality of being new or recent"
+  },
+  "lexicon": {
+    "p": "/ˈleksɪkən/",
+    "t": "词汇",
+    "en": "vocabulary of a language"
+  },
+  "about": {
+    "p": "/əˈbaʊt/",
+    "t": "关于",
+    "en": "on the subject of"
+  },
+  "it": {
+    "p": "/ɪt/",
+    "t": "它",
+    "en": "referring to a thing"
+  },
+  "made": {
+    "p": "/meɪd/",
+    "t": "制造",
+    "en": "past of make; created"
+  },
+  "one": {
+    "p": "/wʌn/",
+    "t": "一",
+    "en": "the number 1"
+  },
+  "sound": {
+    "p": "/saʊnd/",
+    "t": "声音",
+    "en": "vibration that can be heard"
+  },
+  "product": {
+    "p": "/ˈprɑːdʌkt/",
+    "t": "产品",
+    "en": "something made for sale"
+  },
+  "been": {
+    "p": "/bɪn/",
+    "t": "是（过去分词）",
+    "en": "past participle of be"
+  },
+  "her": {
+    "p": "/hɜːr/",
+    "t": "她的",
+    "en": "belonging to a female"
+  },
+  "moderator": {
+    "p": "/ˈmɑːdəreɪtər/",
+    "t": "主持人",
+    "en": "person who leads discussion"
+  },
+  "just": {
+    "p": "/dʒʌst/",
+    "t": "仅仅",
+    "en": "only; exactly"
+  },
+  "enough": {
+    "p": "/ɪˈnʌf/",
+    "t": "足够",
+    "en": "as much as needed"
+  },
+  "there": {
+    "p": "/ðer/",
+    "t": "那里",
+    "en": "in that place"
+  },
+  "lesson": {
+    "p": "/ˈlesən/",
+    "t": "课程",
+    "en": "period of learning"
+  },
+  "here": {
+    "p": "/hɪr/",
+    "t": "这里",
+    "en": "in this place"
+  },
+  "current": {
+    "p": "/ˈkɜːrənt/",
+    "t": "当前的",
+    "en": "belonging to present time"
+  },
+  "loyalty": {
+    "p": "/ˈlɔɪəlti/",
+    "t": "忠诚",
+    "en": "faithfulness to a person or cause"
+  },
+  "briefs": {
+    "p": "/briːfs/",
+    "t": "简报",
+    "en": "short written summaries"
+  },
+  "roughly": {
+    "p": "/ˈrʌfli/",
+    "t": "大约",
+    "en": "approximately; not exactly"
+  },
+  "half": {
+    "p": "/hæf/",
+    "t": "一半",
+    "en": "one of two equal parts"
+  },
+  "development": {
+    "p": "/dɪˈveləpmənt/",
+    "t": "发展",
+    "en": "process of growing or improving"
+  },
+  "person": {
+    "p": "/ˈpɜːrsən/",
+    "t": "人",
+    "en": "individual human being"
+  },
+  "growth": {
+    "p": "/ɡroʊθ/",
+    "t": "增长",
+    "en": "process of increasing in size"
+  },
+  "human": {
+    "p": "/ˈhjuːmən/",
+    "t": "人类",
+    "en": "relating to or characteristic of people"
+  },
+  "city": {
+    "p": "/ˈsɪti/",
+    "t": "城市",
+    "en": "a large town"
+  },
+  "planning": {
+    "p": "/ˈplænɪŋ/",
+    "t": "规划",
+    "en": "the process of making plans"
+  },
+  "follow-through": {
+    "p": "/ˈfɒloʊ θruː/",
+    "t": "坚持到底",
+    "en": "the act of completing a task"
+  },
+  "discipline": {
+    "p": "/ˈdɪsəplɪn/",
+    "t": "纪律",
+    "en": "training to obey rules"
+  },
+  "telling": {
+    "p": "/ˈtelɪŋ/",
+    "t": "有效的",
+    "en": "having a strong effect"
+  },
+  "other": {
+    "p": "/ˈʌðər/",
+    "t": "其他的",
+    "en": "different from the one mentioned"
+  },
+  "perform": {
+    "p": "/pərˈfɔːrm/",
+    "t": "执行",
+    "en": "to carry out an action"
+  },
+  "forms": {
+    "p": "/fɔːrmz/",
+    "t": "形式",
+    "en": "types or varieties"
+  },
+  "checking": {
+    "p": "/ˈtʃekɪŋ/",
+    "t": "检查",
+    "en": "examining to verify"
+  },
+  "updates": {
+    "p": "/ʌpˈdeɪts/",
+    "t": "更新",
+    "en": "new information or versions"
+  },
+  "major": {
+    "p": "/ˈmeɪdʒər/",
+    "t": "主要的",
+    "en": "important or serious"
+  },
+  "students": {
+    "p": "/ˈstuːdənts/",
+    "t": "学生",
+    "en": "people studying at school"
+  },
+  "account": {
+    "p": "/əˈkaʊnt/",
+    "t": "账户",
+    "en": "a record of financial transactions"
+  },
+  "scored": {
+    "p": "/skɔːrd/",
+    "t": "得分",
+    "en": "gained points in a game"
+  },
+  "mathematics": {
+    "p": "/ˌmæθəˈmætɪks/",
+    "t": "数学",
+    "en": "the study of numbers and shapes"
+  },
+  "waited": {
+    "p": "/weɪtɪd/",
+    "t": "等待",
+    "en": "stayed until something happened"
+  },
+  "differing": {
+    "p": "/ˈdɪfərɪŋ/",
+    "t": "不同的",
+    "en": "being unlike each other"
+  },
+  "groups": {
+    "p": "/ɡruːps/",
+    "t": "群体",
+    "en": "sets of people or things"
+  },
+  "equivalent": {
+    "p": "/ɪˈkwɪvələnt/",
+    "t": "等价的",
+    "en": "equal in value or meaning"
+  },
+  "county": {
+    "p": "/ˈkaʊnti/",
+    "t": "县",
+    "en": "a regional administrative division"
+  },
+  "department": {
+    "p": "/dɪˈpɑːrtmənt/",
+    "t": "部门",
+    "en": "a division of an organization"
+  },
+  "taking": {
+    "p": "/ˈteɪkɪŋ/",
+    "t": "拍摄",
+    "en": "capturing images or time"
+  },
+  "photos": {
+    "p": "/ˈfoʊtoʊz/",
+    "t": "照片",
+    "en": "images taken with a camera"
+  },
+  "video": {
+    "p": "/ˈvɪdioʊ/",
+    "t": "视频",
+    "en": "moving images recorded"
+  },
+  "round": {
+    "p": "/raʊnd/",
+    "t": "圆的",
+    "en": "shaped like a circle"
+  },
+  "magazine": {
+    "p": "/ˈmæɡəziːn/",
+    "t": "杂志",
+    "en": "a periodical publication"
+  },
+  "ammunition": {
+    "p": "/ˌæmjuˈnɪʃən/",
+    "t": "弹药",
+    "en": "bullets and shells for weapons"
+  },
+  "pre-existing": {
+    "p": "/ˌpriː ɪɡˈzɪstɪŋ/",
+    "t": "先前存在的",
+    "en": "existing before something else"
+  },
+  "nobody": {
+    "p": "/ˈnoʊbɑːdi/",
+    "t": "没有人",
+    "en": "no person"
+  },
+  "lids": {
+    "p": "/lɪdz/",
+    "t": "眼睑",
+    "en": "the upper or lower coverings of the eye"
+  },
+  "put": {
+    "p": "/pʊt/",
+    "t": "放置",
+    "en": "to place in a specified position"
+  },
+  "on": {
+    "p": "/ɒn/",
+    "t": "在...上",
+    "en": "in contact with a surface"
+  },
+  "and": {
+    "p": "/ænd/",
+    "t": "和",
+    "en": "used to connect words or clauses"
+  },
+  "study": {
+    "p": "/ˈstʌdi/",
+    "t": "学习",
+    "en": "the act of learning or examining"
+  },
+  "she": {
+    "p": "/ʃiː/",
+    "t": "她",
+    "en": "female person or animal previously mentioned"
   }
 }

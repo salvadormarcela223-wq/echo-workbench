@@ -198,12 +198,13 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       allMap[k] = { w: k, p: (ex && ex.p) || wb.ph || '', t: (ex && ex.t) || wb.zh || '', en: wb.en || (ex && ex.en) || '', lv: (ex && ex.lv) || '阅读生词' };
     }
     function resolveWord(key){
-      if (allMap[key]) return allMap[key];
+      let r = allMap[key];
+      if (r) { if (!r.t || !r.t.trim()) { const gk = GLOSSARY[key]; if (gk && gk.t) { r = { w: key, p: gk.p||r.p, t: gk.t, en: gk.en||r.en, lv: r.lv }; } } return r; }
       const gk = GLOSSARY[key];
       if (gk) return { w: key, p: gk.p || '', t: gk.t || '', en: gk.en || '', lv: '阅读生词' };
       for (const sfx of ['es','s','ed','ing','ly']) {
         const c = key.replace(new RegExp(sfx + '$'), '');
-        if (c !== key && allMap[c]) return allMap[c];
+        if (c !== key && allMap[c]) { const am=allMap[c]; if (am.t && am.t.trim()) return am; const gk=GLOSSARY[c]; if (gk && gk.t) return { w:key, p:gk.p||am.p, t:gk.t, en:gk.en||am.en, lv:am.lv }; return am; }
         if (c !== key && GLOSSARY[c]) return { w: key, p: GLOSSARY[c].p || '', t: GLOSSARY[c].t || '', en: GLOSSARY[c].en || '', lv: '阅读生词' };
       }
       return null;
