@@ -1,5 +1,6 @@
-// 每日自动抓取：从可信源抓新闻/洞察 → 过滤假深链与空字段 → 写入 feed.json。
-// 关键：写入前先过「质量闸门」(validate-feed.mjs)。任何空字段/假链接/死链都不会进线上。
+// 每日自动抓取：从可信源抓真实近期行业资讯 → 过滤假深链/空字段/陈旧内容 → 写入暂存草稿 feed-draft.json。
+// 关键：写入草稿前先过「质量闸门」(validate-feed.mjs, 暂放行空 impact)。impact 由 AI 解读步骤(enrich)填充、
+// 再过严格闸门后，才由 daily-pipeline.mjs 发布到线上 feed.json。任何空字段/假链接/死链都不会进线上。
 import fs from 'fs';
 import path from 'path';
 import { validate } from './validate-feed.mjs';
@@ -11,6 +12,17 @@ let feed = null;
 try { feed = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/feed.json'), 'utf-8').replace(/^\uFEFF/, '')); } catch (e) {}
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
+
+// 剥离追踪参数（utm_/fbclid/gclid/mc_/spm），保留真实查询参数（如 ?id=）
+function stripTracking(link) {
+  try {
+    const u = new URL(link);
+    const del = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'fbclid', 'gclid', 'mc_cid', 'mc_eid', 'spm'];
+    let changed = false;
+    del.forEach((k) => { if (u.searchParams.has(k)) { u.searchParams.delete(k); changed = true; } });
+    return changed ? u.toString() : link;
+  } catch { return link; }
+}
 
 function clean(s) {
   return (s || '')
@@ -51,6 +63,7 @@ function parseRSS(xml) {
     const title = clean((it.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1]);
     let link = (it.match(/<link[^>]*href="([^"]+)"/i) || [])[1] ||
       clean((it.match(/<link[^>]*>([\s\S]*?)<\/link>/i) || [])[1]);
+    link = stripTracking(link);
     const pub = clean((it.match(/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i) ||
       it.match(/<updated[^>]*>([\s\S]*?)<\/updated>/i) || [])[1]);
     const desc = clean((it.match(/<description[^>]*>([\s\S]*?)<\/description>/i) ||
@@ -68,7 +81,7 @@ function parseHTML(html, base, sel) {
   try { basePath = new URL(base).pathname.replace(/\/$/, ''); } catch (e) { }
   while ((m = re.exec(html))) {
     try {
-      const href = new URL(m[1], base).href;
+      const href = stripTracking(new URL(m[1], base).href);
       const u = new URL(href);
       const title = clean(m[2]);
       if (!title || title.length < 4) continue;
@@ -85,7 +98,9 @@ function parseHTML(html, base, sel) {
 (async () => {
   let newCount = 0;
   const rejected = [];
-  for (const grp of ['news', 'insights']) {
+  // 每日自动抓取只针对「行业资讯」：真实近期新闻 + AI 写顾问视角。
+  // 专业提升(insights)是精选常青分析（已有完整 core/view/action），不放进每日抓取的半成品池。
+  for (const grp of ['news']) {
     for (const s of sources[grp]) {
       try {
         const txt = await getText(s.url);
@@ -135,26 +150,19 @@ function parseHTML(html, base, sel) {
     }
   }
   if (writeBack && feed) {
-    // 写入前再过一次闸门：任何致命问题都阻止发布
-    const report = validate(feed);
+    // 写入前再过一次闸门：任何致命问题都阻止发布（impact 暂空由 AI 后续填充，故放行）
+    const report = validate(feed, { skipImpactEmpty: true });
     if (!report.ok) {
-      console.log('\n❌ 质量闸门未通过，已拒绝写入线上文件。致命问题：');
+      console.log('\n❌ 质量闸门未通过，已拒绝写入暂存草稿。致命问题：');
       report.critical.slice(0, 30).forEach((c) => console.log('  ✗ ' + c));
       if (rejected.length) { console.log('本次抓取被拦截：'); rejected.forEach((r) => console.log('  – ' + r)); }
       fs.writeFileSync(path.join(ROOT, 'data/feed-quarantine.json'), JSON.stringify({ rejected, critical: report.critical }, null, 2));
       process.exit(1);
     }
-    fs.writeFileSync(path.join(ROOT, 'data/feed.json'), JSON.stringify(feed, null, 2));
-    if (newCount > 0) {
-      const fj = path.join(ROOT, 'assets/js/feed.js');
-      let js = fs.readFileSync(fj, 'utf-8').replace(/^\uFEFF/, '');
-      const stamp = new Date().toISOString().slice(0, 10).replace(/-/g, '') + 'r' + Date.now().toString(36).slice(-4);
-      js = js.replace(/feed\.json\?v=[0-9a-z]+/, 'feed.json?v=' + stamp);
-      fs.writeFileSync(fj, js);
-      console.log(`\n✅ 已写回 feed.json（新增 ${newCount} 条），缓存版本号刷新为 ${stamp}`);
-    } else {
-      console.log('\n✅ feed.json 已重写（本次无新增条目）');
-    }
+    // 只写暂存草稿，绝不直接动线上 feed.json；impact 待 AI 填充、严格质检通过后才由流水线发布
+    fs.writeFileSync(path.join(ROOT, 'data/feed-draft.json'), JSON.stringify(feed, null, 2));
+    if (newCount > 0) console.log(`\n✅ 已写入暂存草稿 feed-draft.json（新增 ${newCount} 条，impact 待 AI 填充），未动线上 feed.json`);
+    else console.log('\n✅ 暂存草稿已更新（本次无新增条目）');
   } else {
     console.log('\n（仅预览，未写回 feed.json；加 --write 才会合并并过闸门）');
   }

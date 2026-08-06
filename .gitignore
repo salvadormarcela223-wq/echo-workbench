@@ -1,0 +1,29 @@
+# 自动化流水线临时文件（不进仓库）
+data/feed-draft.json
+data/feed-quarantine.json
+data/feed-news-quarantine.json
+
+# 临时修复脚本
+_fix-*.mjs
+_fix-*.cjs
+_fix-*.js
+_verify_*.cjs
+_test_feed.json
+
+# 历史遗留的临时/草稿文件（不进仓库）
+_verify_test.txt
+*.bak
+*.bak-*
+fix_links.py
+insert_dialogs.py
+list_dialogs.py
+mod_en.py
+stat_words.py
+wire_words.py
+验收清单_*.html
+
+# 项目记忆目录（本地，不进仓库）
+.workbuddy/
+
+# GitHub 官方工作流（无 workflow 权限令牌，暂不提交；用本地令牌+每日流水线发布）
+.github/

@@ -21,7 +21,8 @@ export function linkQuality(link) {
   try { u = new URL(link); } catch { return { ok: false, reason: '不是合法网址' }; }
   if (u.protocol !== 'http:' && u.protocol !== 'https:') return { ok: false, reason: '非 http(s) 链接' };
   const parts = u.pathname.split('/').filter(Boolean);
-  if (parts.length < 2) return { ok: false, reason: '疑似首页/根域名（路径过浅）' };
+  // 只有「根域名本身」（pathname 为空或仅 "/"）才算首页；单段 slug 文章页(如 /article-slug/)是真实深链，放行
+  if (parts.length < 1) return { ok: false, reason: '疑似首页/根域名（路径过浅）' };
   const tail = u.pathname.replace(/\/$/, '').toLowerCase();
   const placeholder = /(\/insights|\/news|\/press-centre|\/vape-news|\/press|\/media|\/categories|\/topics|\/category|\/article)$/;
   if (placeholder.test(tail)) return { ok: false, reason: '疑似栏目/首页占位链接' };
@@ -40,7 +41,8 @@ async function linkReachable(link) {
   }
 }
 
-export function validate(feed) {
+export function validate(feed, opts = {}) {
+  const skipImpactEmpty = !!opts.skipImpactEmpty; // 抓取暂存阶段：允许 impact 暂时为空（留给 AI 步骤填充）
   const report = { critical: [], warnings: [], readings: null };
   const groups = ['news', 'insights'];
   const seenLinks = new Map();
@@ -49,7 +51,14 @@ export function validate(feed) {
     arr.forEach((it, idx) => {
       const tag = `${g}[${idx}]`;
       for (const f of ['title', 'link', 'summary', 'impact']) {
+        if (f === 'impact' && skipImpactEmpty) continue; // 抓取阶段 impact 由 AI 后续填充，暂不强拦
         if (!it[f] || !String(it[f]).trim()) report.critical.push(`${tag} 字段「${f}」为空（会显示空白）`);
+      }
+      // 专业提升(insights)渲染读 core/view/action，闸门必须真实验证这三项（不能只看 legacy 的 impact）
+      if (g === 'insights') {
+        for (const f of ['core', 'view', 'action']) {
+          if (!it[f] || !String(it[f]).trim()) report.critical.push(`${tag} 字段「${f}」为空（会显示空白）`);
+        }
       }
       if (it.link) {
         const lq = linkQuality(it.link);
