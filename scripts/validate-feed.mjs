@@ -24,8 +24,10 @@ export function linkQuality(link) {
   // 只有「根域名本身」（pathname 为空或仅 "/"）才算首页；单段 slug 文章页(如 /article-slug/)是真实深链，放行
   if (parts.length < 1) return { ok: false, reason: '疑似首页/根域名（路径过浅）' };
   const tail = u.pathname.replace(/\/$/, '').toLowerCase();
-  const placeholder = /(\/insights|\/news|\/press-centre|\/vape-news|\/press|\/media|\/categories|\/topics|\/category|\/article)$/;
-  if (placeholder.test(tail)) return { ok: false, reason: '疑似栏目/首页占位链接' };
+  const tailSeg = tail.split('/').pop() || '';
+  if (/^(news|newsroom|news-events|press|press-release|press-releases|press-office|press-centre|press-announcements|media|solutions|hubs|categories|topics|category|insights|about|contact|home|index)$/.test(tailSeg)) {
+    return { ok: false, reason: '疑似栏目/首页占位链接(尾段为通用词)' };
+  }
   if (/[?&](utm_|fbclid|gclid|mc_|spm)/i.test(u.search)) return { ok: false, reason: '含追踪参数，应先清理' };
   return { ok: true };
 }
@@ -50,13 +52,20 @@ export function validate(feed, opts = {}) {
     const arr = feed[g] || [];
     arr.forEach((it, idx) => {
       const tag = `${g}[${idx}]`;
-      for (const f of ['title', 'link', 'summary', 'impact']) {
+      // 专业提升(insights)渲染不读 impact，只查它真正渲染的字段；news 查 impact
+      const fields = g === 'news' ? ['title', 'link', 'summary', 'impact'] : ['title', 'link', 'summary'];
+      for (const f of fields) {
         if (f === 'impact' && skipImpactEmpty) continue; // 抓取阶段 impact 由 AI 后续填充，暂不强拦
         if (!it[f] || !String(it[f]).trim()) report.critical.push(`${tag} 字段「${f}」为空（会显示空白）`);
       }
+      // 栏目页标题黑名单：网站目录/订阅/通用占位标题不允许当文章发布
+      const genT = /^(subscribe|newsletter|read more|press announcements|press releases|industry news|sign up for email updates|news and events|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
+      if (genT.test(String(it.title || '').trim())) report.critical.push(`${tag} 疑似栏目页标题「${it.title}」`);
       // 专业提升(insights)渲染读 core/view/action，闸门必须真实验证这三项（不能只看 legacy 的 impact）
       if (g === 'insights') {
         for (const f of ['core', 'view', 'action']) {
+          // 抓取草稿阶段：三栏待 DeepSeek 填充，放行；严格发布阶段(skipImpactEmpty=false)会拦截
+          if (skipImpactEmpty) continue;
           if (!it[f] || !String(it[f]).trim()) report.critical.push(`${tag} 字段「${f}」为空（会显示空白）`);
         }
       }

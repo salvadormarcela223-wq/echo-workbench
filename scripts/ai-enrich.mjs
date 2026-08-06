@@ -40,14 +40,14 @@ function extractJSON(s) {
   try { return JSON.parse(m[0]); } catch (e) { throw new Error('JSON 解析失败: ' + s.slice(0, 160)); }
 }
 
-async function askDeepSeek(userPrompt) {
+async function askDeepSeek(userPrompt, sys = SYS) {
   const r = await fetch('https://api.deepseek.com/chat/completions', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + KEY },
     body: JSON.stringify({
       model: 'deepseek-chat',
       messages: [
-        { role: 'system', content: SYS },
+        { role: 'system', content: sys },
         { role: 'user', content: userPrompt },
       ],
       temperature: 0.7,
@@ -62,13 +62,47 @@ async function askDeepSeek(userPrompt) {
   return content;
 }
 
-async function askWithRetry(prompt, n = 3) {
+async function askWithRetry(prompt, sys = SYS, n = 3) {
   let last;
   for (let i = 0; i < n; i++) {
-    try { return await askDeepSeek(prompt); }
+    try { return await askDeepSeek(prompt, sys); }
     catch (e) { last = e; await new Promise((r) => setTimeout(r, 1500 * (i + 1))); }
   }
   throw last;
+}
+
+// 英语阅读生词批量翻译：给一组单词补 音标(p) + 中文释义(t) + 英文释义(en)。
+// 复用同一 DeepSeek key（桌面文件）。失败返回 {}，由调用方降级（本地词库/前端在线兜底）。
+const DICT_SYS = `你是一位英语词典专家。为给定的英文单词提供：音标(英式 IPA，带斜杠如 /wɜːd/)、中文释义(简洁准确)、英文释义(简洁)。
+只输出一个 JSON 数组，每个元素格式 {"w":"原词","p":"/音标/","t":"中文释义","en":"English gloss"}。不要 markdown 代码块，不要任何多余文字。`;
+
+export async function translateWords(words) {
+  if (!KEY) KEY = loadKey();
+  const list = (words || []).map((w) => w.w || w).filter(Boolean);
+  if (!list.length) return {};
+  const prompt = `请为以下英文单词逐一给出音标、中文释义、英文释义。\n只输出一个 JSON 数组，元素 {"w":"原词","p":"/音标/","t":"中文释义","en":"English gloss"}，不要 markdown，不要多余文字。\n单词：` + list.join(', ');
+  try {
+    const content = await askWithRetry(prompt, DICT_SYS);
+    // DeepSeek 返回的是 JSON 数组；先整体解析，失败再抓取数组片段，最后兜底对象形式
+    let arr = null;
+    try { arr = JSON.parse(content.trim()); } catch (e) {
+      const m = content.match(/\[[\s\S]*\]/);
+      if (m) { try { arr = JSON.parse(m[0]); } catch (e2) {} }
+    }
+    if (!Array.isArray(arr)) {
+      const obj = extractJSON(content);
+      if (obj && typeof obj === 'object' && !Array.isArray(obj)) {
+        arr = Object.keys(obj).map(k => ({ w: k, p: (obj[k] && obj[k].p) || '', t: (obj[k] && obj[k].t) || '', en: (obj[k] && obj[k].en) || '' }));
+      }
+    }
+    if (!Array.isArray(arr)) return {};
+    const map = {};
+    arr.forEach((o) => { if (o && o.w) map[String(o.w).toLowerCase()] = { p: o.p || '', t: o.t || '', en: o.en || '' }; });
+    return map;
+  } catch (e) {
+    console.log('  ✗ 词典翻译失败: ' + e.message);
+    return {};
+  }
 }
 
 function buildPrompt(it, group, missing) {

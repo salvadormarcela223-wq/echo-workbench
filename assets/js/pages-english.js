@@ -20,6 +20,12 @@
     return Math.abs(Math.floor(d.getTime() / 864e5)) % Math.max(1, len);
   }
   /* ===== 阅读/对话 状态管理：已读/未读/删除 ===== */
+  /* 稳定 id：优先数据自带 id；缺 id 时用链接/标题派生，保证手机与电脑对同一条识别一致 */
+  function artId(x) {
+    if (x && x.id) return x.id;
+    const key = String((x && (x.link || x.title)) || '');
+    return 'r:' + key.replace(/[^a-z0-9]/gi, '').slice(0, 40);
+  }
   function statusOf(id) {
     const m = S.s.english.status;
     return (m && m[id] && m[id].s) || '';
@@ -32,13 +38,13 @@
   function clearStatus(id) { if (S.s.english.status && S.s.english.status[id]) delete S.s.english.status[id]; }
   function firstUnreadFrom(arr, from) {
     const n = arr.length; if (!n) return 0;
-    for (let i = 0; i < n; i++) { const idx = (from + i) % n; if (isUnread(arr[idx].id)) return idx; }
+    for (let i = 0; i < n; i++) { const idx = (from + i) % n; if (isUnread(artId(arr[idx]))) return idx; }
     return from;
   }
   function nextUnread(arr, from) { return firstUnreadFrom(arr, from + 1); }
   function countByStatus(arr) {
     let unread = 0, read = 0, del = 0;
-    arr.forEach(x => { const s = statusOf(x.id); if (s === 'read') read++; else if (s === 'deleted') del++; else unread++; });
+    arr.forEach(x => { const s = statusOf(artId(x)); if (s === 'read') read++; else if (s === 'deleted') del++; else unread++; });
     return { unread: unread, read: read, del: del };
   }
 
@@ -59,12 +65,12 @@
       '</div></div><div id="engPanel"></div>';
   }
   function engPanelHTML(type, mode, arr) {
-    const list = arr.filter(x => mode === 'read' ? statusOf(x.id) === 'read' : statusOf(x.id) === 'deleted');
+    const list = arr.filter(x => mode === 'read' ? statusOf(artId(x)) === 'read' : statusOf(artId(x)) === 'deleted');
     const title = mode === 'read' ? '已读清单' : '回收站';
     if (!list.length) return '<div class="eng-panel"><div class="sec-title">' + title + '</div><div class="eng-empty">这里还没有内容</div></div>';
     return '<div class="eng-panel"><div class="sec-title">' + title + '</div>' +
-      list.map(x => '<div class="eng-row" data-open="' + x.id + '"><div class="eng-row-t">' + esc(x.title) + '</div>' +
-        (mode === 'read' ? '<button class="btn xs" data-unread="' + x.id + '">标回未读</button>' : '<button class="btn xs" data-restore="' + x.id + '">恢复</button>') +
+      list.map(x => '<div class="eng-row" data-open="' + artId(x) + '"><div class="eng-row-t">' + esc(x.title) + '</div>' +
+        (mode === 'read' ? '<button class="btn xs" data-unread="' + artId(x) + '">标回未读</button>' : '<button class="btn xs" data-restore="' + artId(x) + '">恢复</button>') +
         '</div>').join('') + '</div>';
   }
   function wireEngPanel(c, type, arr) {
@@ -99,7 +105,7 @@
     const arr = window.SEED_READINGS || [];
     const e = S.s.english;
     if (e.stamp !== S.today()) { e.stamp = S.today(); e.readIdx = dayIndex(arr.length); e.dlgIdx = dayIndex(arr.length + 3) % Math.max(1, (window.SEED_DIALOGS || []).length); S.save(true); }
-    if (viewType === 'read' && viewItemId) { const i = arr.findIndex(x => x.id === viewItemId); if (i >= 0) return arr[i]; }
+    if (viewType === 'read' && viewItemId) { const i = arr.findIndex(x => artId(x) === viewItemId); if (i >= 0) return arr[i]; }
     if (arr.length) e.readIdx = firstUnreadFrom(arr, e.readIdx);
     return arr[e.readIdx % Math.max(1, arr.length)] || null;
   }
@@ -107,7 +113,7 @@
     curReading();
     const arr = window.SEED_DIALOGS || [];
     const e = S.s.english;
-    if (viewType === 'dlg' && viewItemId) { const i = arr.findIndex(x => x.id === viewItemId); if (i >= 0) return arr[i]; }
+    if (viewType === 'dlg' && viewItemId) { const i = arr.findIndex(x => artId(x) === viewItemId); if (i >= 0) return arr[i]; }
     if (arr.length) e.dlgIdx = firstUnreadFrom(arr, e.dlgIdx);
     return arr[e.dlgIdx % Math.max(1, arr.length)] || null;
   }
@@ -226,7 +232,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       '<span class="td-date">约 ' + a.minutes + ' 分钟</span>' +
       '<span class="td-date">' + S.today() + '</span>' +
       '<div style="margin-left:auto;display:flex;gap:6px">' +
-      markBtnsHTML(statusOf(a.id), 'r') +
+      markBtnsHTML(statusOf(artId(a)), 'r') +
       '<button class="btn sm" id="rNext">' + ico('refresh') + '换一篇</button>' +
       '<button class="btn sm" id="rAll">重点词入本</button></div></div>' +
       '<h2 style="font-family:var(--font-serif);font-size:26px;line-height:1.35;margin-bottom:4px">' + esc(a.title) + '</h2>' +
@@ -262,7 +268,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       S.s.english.readIdx = nextUnread(arr, S.s.english.readIdx);
       S.save(); paintRead(c);
     };
-    wireStatusButtons(c, 'r', readsArr, a.id, () => paintRead(c));
+    wireStatusButtons(c, 'r', readsArr, artId(a), () => paintRead(c));
 
     /* 划词加入 */
     setupSelection(document.getElementById('engBody'), a.title);
@@ -322,7 +328,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       '<div style="display:flex;align-items:center;gap:9px;margin-bottom:12px;flex-wrap:wrap">' +
       '<span class="tag c2">' + esc(d.scene) + '</span>' +
       '<span class="td-date">约 ' + d.minutes + ' 分钟</span>' +
-      '<div style="margin-left:auto;display:flex;gap:6px">' + markBtnsHTML(statusOf(d.id), 'd') + '<button class="btn sm" id="dNext">' + ico('refresh') + '换一个场景</button></div></div>' +
+      '<div style="margin-left:auto;display:flex;gap:6px">' + markBtnsHTML(statusOf(artId(d)), 'd') + '<button class="btn sm" id="dNext">' + ico('refresh') + '换一个场景</button></div></div>' +
       '<h2 style="font-family:var(--font-serif);font-size:23px;line-height:1.35;margin-bottom:3px">' + esc(d.title) + '</h2>' +
       '<div style="color:var(--ink-3);font-size:13px;margin-bottom:6px">' + esc(d.zhTitle) + '</div>' +
       '<div style="font-size:12px;color:var(--sage);background:var(--sage-wash);padding:8px 13px;border-radius:10px;margin:14px 0 20px">' +
@@ -348,7 +354,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
       S.s.english.dlgIdx = nextUnread(dlgArr, S.s.english.dlgIdx);
       S.save(); paintDlg(c);
     };
-    wireStatusButtons(c, 'd', dlgArr, d.id, () => paintDlg(c));
+    wireStatusButtons(c, 'd', dlgArr, artId(d), () => paintDlg(c));
     setupSelection(document.getElementById('dlgBody'), d.title);
   }
 

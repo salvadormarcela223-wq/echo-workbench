@@ -80,18 +80,76 @@
   }
   function saveCfg(c) { localStorage.setItem(CFG, JSON.stringify(c)); }
 
+  /* 合并式同步：两端各自的新增/修改都不丢（数组按唯一键合并、冲突取 updatedAt 更新者） */
+  function mergeState(local, remote) {
+    const l = local || {}, r = remote || {};
+    const out = JSON.parse(JSON.stringify(l));
+    const arrKeys = ['words', 'todos', 'logs', 'muses', 'sparks', 'news', 'insights'];
+    arrKeys.forEach(k => {
+      const la = Array.isArray(l[k]) ? l[k] : [];
+      const ra = Array.isArray(r[k]) ? r[k] : [];
+      const keyOf = k === 'words' ? (x => String(x.w || '').toLowerCase()) : (x => x.id);
+      const map = new Map();
+      la.forEach(x => { if (keyOf(x)) map.set(keyOf(x), x); });
+      ra.forEach(x => {
+        if (!keyOf(x)) return;
+        const ex = map.get(keyOf(x));
+        if (!ex || ((x.updatedAt || 0) > (ex.updatedAt || 0))) map.set(keyOf(x), x);
+      });
+      out[k] = Array.from(map.values());
+    });
+    const le = l.english || {}, re = r.english || {};
+    const st = Object.assign({}, re.status || {});
+    Object.keys(le.status || {}).forEach(id => { const a = le.status[id], b = st[id]; if (!b || (a.at || 0) > (b.at || 0)) st[id] = a; });
+    out.english = {
+      readIdx: le.readIdx || 0,
+      dlgIdx: le.dlgIdx || 0,
+      stamp: le.stamp || re.stamp || '',
+      doneDays: Array.from(new Set([].concat(le.doneDays || [], re.doneDays || []))),
+      status: st
+    };
+    return out;
+  }
+
   const Sync = {
     get cfg() { return loadCfg(); },
     set cfg(c) { saveCfg(c); },
 
     status(s, msg) { window.dispatchEvent(new CustomEvent('sync:status', { detail: { s, msg } })); },
 
+    async fetchRemote(c) {
+      let text = '';
+      if (c.mode === 'gist') {
+        if (!c.gistId) throw new Error('缺少 Gist ID');
+        const h = { 'Accept': 'application/vnd.github+json' };
+        if (c.token) h['Authorization'] = 'Bearer ' + c.token;
+        const r = await fetch('https://api.github.com/gists/' + c.gistId + '?t=' + Date.now(), { headers: h });
+        if (!r.ok) throw new Error('Gist 返回 ' + r.status);
+        const j = await r.json();
+        const f = j.files && j.files['echo-workbench.json'];
+        if (!f) throw new Error('Gist 中没有 echo-workbench.json');
+        text = f.truncated ? await (await fetch(f.raw_url)).text() : f.content;
+      } else {
+        if (!c.url) throw new Error('缺少接口地址');
+        const h = {};
+        if (c.header) { const i = c.header.indexOf(':'); if (i > 0) h[c.header.slice(0, i).trim()] = c.header.slice(i + 1).trim(); }
+        const r = await fetch(c.url + (c.url.includes('?') ? '&' : '?') + 't=' + Date.now(), { headers: h });
+        if (!r.ok) throw new Error('接口返回 ' + r.status);
+        text = await r.text();
+      }
+      const remote = JSON.parse(text);
+      if (!remote || typeof remote !== 'object') throw new Error('云端数据格式不正确');
+      return remote;
+    },
+
     async push() {
       const c = loadCfg();
       if (c.mode === 'off') { this.status('off', '未开启云同步'); return false; }
       this.status('busy', '正在上传…');
       try {
-        const payload = JSON.stringify(state);
+        let remote = null;
+        try { remote = await this.fetchRemote(c); } catch (e) { /* 云端不存在或读取失败：直接上传本地 */ }
+        const payload = JSON.stringify(remote ? mergeState(state, remote) : state);
         if (c.mode === 'gist') {
           if (!c.gistId || !c.token) throw new Error('缺少 Gist ID 或 Token');
           const r = await fetch('https://api.github.com/gists/' + c.gistId, {
@@ -125,33 +183,13 @@
       if (c.mode === 'off') { this.status('off', '未开启云同步'); return false; }
       this.status('busy', '正在拉取…');
       try {
-        let text = '';
-        if (c.mode === 'gist') {
-          if (!c.gistId) throw new Error('缺少 Gist ID');
-          const h = { 'Accept': 'application/vnd.github+json' };
-          if (c.token) h['Authorization'] = 'Bearer ' + c.token;
-          const r = await fetch('https://api.github.com/gists/' + c.gistId + '?t=' + Date.now(), { headers: h });
-          if (!r.ok) throw new Error('Gist 返回 ' + r.status);
-          const j = await r.json();
-          const f = j.files && j.files['echo-workbench.json'];
-          if (!f) throw new Error('Gist 中没有 echo-workbench.json');
-          text = f.truncated ? await (await fetch(f.raw_url)).text() : f.content;
-        } else {
-          if (!c.url) throw new Error('缺少接口地址');
-          const h = {};
-          if (c.header) { const i = c.header.indexOf(':'); if (i > 0) h[c.header.slice(0, i).trim()] = c.header.slice(i + 1).trim(); }
-          const r = await fetch(c.url + (c.url.includes('?') ? '&' : '?') + 't=' + Date.now(), { headers: h });
-          if (!r.ok) throw new Error('接口返回 ' + r.status);
-          text = await r.text();
-        }
-        const remote = JSON.parse(text);
-        if (!remote || typeof remote !== 'object') throw new Error('云端数据格式不正确');
+        const remote = await this.fetchRemote(c);
         if (!force && (remote.updatedAt || 0) < (state.updatedAt || 0)) {
           // 本地比云端新：无需拉取。这是正常状态，不应当作故障报警（避免每次刷新弹“同步异常”）。
           this.status('ok', '本地已是最新（云端较旧，已跳过拉取）');
           return false;
         }
-        state = deepMerge(JSON.parse(JSON.stringify(DEFAULT)), remote);
+        state = mergeState(state, remote);
         localStorage.setItem(KEY, JSON.stringify(state));
         window.dispatchEvent(new CustomEvent('store:change'));
         const n = loadCfg(); n.last = Date.now(); saveCfg(n);

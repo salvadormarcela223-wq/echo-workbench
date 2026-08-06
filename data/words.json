@@ -45,9 +45,9 @@
     "zh": ""
   },
   "expected": {
-    "ph": "/ɪksˈpɛktɪd/",
-    "en": "To predict or believe that something will happen",
-    "zh": ""
+    "ph": "/ɪkˈspektɪd/",
+    "zh": "预期的",
+    "en": "believed that something will happen"
   },
   "the": {
     "ph": "/ði/",
@@ -295,9 +295,9 @@
     "zh": ""
   },
   "second": {
-    "ph": "/ˈsɛkɪnd/",
-    "en": "Something that is number two in a series.",
-    "zh": ""
+    "ph": "/ˈsekənd/",
+    "zh": "第二；秒",
+    "en": "next after first; a unit of time"
   },
   "figure": {
     "ph": "/ˈfɪɡjɚ/",
@@ -1811,8 +1811,8 @@
   },
   "commercial": {
     "ph": "/kəˈmɜːʃəl/",
-    "en": "An advertisement in a common media format, usually radio or television.",
-    "zh": ""
+    "zh": "商业的",
+    "en": "related to buying and selling"
   },
   "incentive": {
     "ph": "/ɪnˈsɛntɪv/",
@@ -1956,8 +1956,8 @@
   },
   "months": {
     "ph": "/mʌnθs/",
-    "en": "A period into which a year is divided, historically based on the phases of the moon.",
-    "zh": ""
+    "zh": "月份（复数）",
+    "en": "plural of month; periods of about 30 days"
   },
   "meanwhile": {
     "ph": "/ˈmiːnhwaɪl/",
@@ -2286,8 +2286,8 @@
   },
   "since": {
     "ph": "/sɪns/",
-    "en": "From a specified time in the past.",
-    "zh": ""
+    "zh": "自从；因为",
+    "en": "from a time in the past until now; because"
   },
   "library": {
     "ph": "/ˈlaɪbɹi/",
@@ -2570,9 +2570,9 @@
     "zh": ""
   },
   "reading": {
-    "ph": "/ˈɹidiŋ/",
-    "en": "To look at and interpret letters or other information that is written.",
-    "zh": ""
+    "ph": "/ˈriːdɪŋ/",
+    "zh": "读数；阅读",
+    "en": "the act of interpreting written or measured information"
   },
   "technique": {
     "ph": "/tɛkˈniːk/",
@@ -5866,8 +5866,8 @@
   },
   "surface": {
     "ph": "/ˈsɜːfɪs/",
-    "en": "The overside or up-side of a flat object such as a table, or of a liquid.",
-    "zh": ""
+    "zh": "表面",
+    "en": "the outer part of something"
   },
   "seem": {
     "ph": "/siːm/",
@@ -6031,8 +6031,8 @@
   },
   "according": {
     "ph": "/əˈkɔːdɪŋ/",
-    "en": "To make to agree or correspond; to suit one thing to another; to adjust.",
-    "zh": ""
+    "zh": "根据；依照",
+    "en": "as stated by or in agreement with"
   },
   "topic": {
     "ph": "/ˈtɒpɪk/",
@@ -6486,18 +6486,18 @@
   },
   "collision": {
     "ph": "/kəˈlɪʒən/",
-    "en": "An instance of colliding.",
-    "zh": ""
+    "zh": "碰撞",
+    "en": "an accident when two objects hit each other"
   },
   "posed": {
     "ph": "/pəʊzd/",
-    "en": "To place in an attitude or fixed position, for the sake of effect.",
-    "zh": ""
+    "zh": "造成（威胁等）",
+    "en": "created or presented (a danger, question, etc.)"
   },
   "danger": {
-    "ph": "/ˈdeɪn.dʒə(ɹ)/",
-    "en": "Exposure to likely harm; peril.",
-    "zh": ""
+    "ph": "/ˈdeɪndʒə/",
+    "zh": "危险",
+    "en": "the possibility of harm or injury"
   },
   "earth": {
     "ph": "/ɜːθ/",
@@ -6506,18 +6506,18 @@
   },
   "blast": {
     "ph": "/blɑːst/",
-    "en": "A violent gust of wind.",
-    "zh": ""
+    "zh": "爆炸",
+    "en": "a violent explosion or burst"
   },
   "crater": {
-    "ph": "/ˈkɹeɪ.tə(ɹ)/",
-    "en": "A hemispherical pit created by the impact of a meteorite or other object.",
-    "zh": ""
+    "ph": "/ˈkreɪtə/",
+    "zh": "陨石坑",
+    "en": "a large hole in the ground made by an explosion or impact"
   },
   "object": {
-    "ph": "/ˈɒb.d͡ʒɛkt/",
-    "en": "A thing that has physical existence.",
-    "zh": ""
+    "ph": "/ˈɒbdʒɪkt/",
+    "zh": "物体",
+    "en": "a thing that can be seen and touched"
   },
   "height": {
     "ph": "/haɪt/",
@@ -6525,9 +6525,9 @@
     "zh": ""
   },
   "launched": {
-    "ph": "/lɑnt͡ʃt/",
-    "en": "To throw (a projectile such as a lance, dart or ball); to hurl; to propel with force.",
-    "zh": ""
+    "ph": "/lɔːntʃt/",
+    "zh": "发射的",
+    "en": "sent into the air or space"
   },
   "japan": {
     "ph": "/dʒəˈpæn/",
@@ -6535,29 +6535,29 @@
     "zh": ""
   },
   "towards": {
-    "ph": "/tɘˈwoːdz/",
-    "en": "In the direction of.",
-    "zh": ""
+    "ph": "/təˈwɔːdz/",
+    "zh": "朝向",
+    "en": "in the direction of"
   },
   "speech": {
-    "ph": "/ˈspiːtʃ/",
-    "en": "The faculty of uttering articulate sounds or words; the ability to speak or to use vocalizations to communicate.",
-    "zh": ""
+    "ph": "/spiːtʃ/",
+    "zh": "演讲；言语",
+    "en": "formal talk given to an audience; the expression of thoughts in spoken words"
   },
   "marked": {
-    "ph": "/ˈmɑːkɪd/",
-    "en": "Having a visible or identifying mark.",
-    "zh": ""
+    "ph": "/mɑːkt/",
+    "zh": "显著的；有标记的",
+    "en": "clearly noticeable; having a mark or marks"
   },
   "anniversary": {
-    "ph": "/ˌænɪˈvɜːs(ə)ɹi/",
-    "en": "A day that is an exact number of years (to the day) since a given significant event occurred. Often preceded by an ordinal number indicating the number of years.",
-    "zh": ""
+    "ph": "/ˌænɪˈvɜːsəri/",
+    "zh": "周年纪念日",
+    "en": "the date on which an event happened in a previous year"
   },
   "ouster": {
-    "ph": "/aʊstə/",
-    "en": "A putting out of possession; dispossession; ejection.",
-    "zh": ""
+    "ph": "/ˈaʊstə/",
+    "zh": "罢免；驱逐",
+    "en": "the act of removing someone from a position or place"
   },
   "she": {
     "ph": "/ʃiː/",
@@ -6570,18 +6570,658 @@
     "zh": ""
   },
   "helicopter": {
-    "ph": "/ˈheliˌkɔptə(ɹ)/",
-    "en": "An aircraft that is borne along by one or more sets of long rotating blades which allow it to hover, move in any direction including reverse, or land; and typically having a smaller set of blades on its tail that stabilize the aircraft.",
-    "zh": ""
+    "ph": "/ˈhelɪkɒptə/",
+    "zh": "直升机",
+    "en": "an aircraft with rotating blades that can fly vertically"
   },
   "following": {
     "ph": "/ˈfɒləʊɪŋ/",
-    "en": "To go after; to pursue; to move behind in the same path or direction.",
-    "zh": ""
+    "zh": "下列的；跟随",
+    "en": "coming after; a group of supporters"
   },
   "nearly": {
-    "ph": "/ˈniːɹli/",
-    "en": "With great scrutiny; carefully.",
-    "zh": ""
+    "ph": "/ˈnɪəli/",
+    "zh": "几乎；将近",
+    "en": "almost; not completely"
+  },
+  "scientists": {
+    "ph": "/ˈsaɪəntɪsts/",
+    "zh": "科学家",
+    "en": "people who study science"
+  },
+  "ruminants": {
+    "ph": "/ˈruːmɪnənts/",
+    "zh": "反刍动物",
+    "en": "animals that chew cud"
+  },
+  "greenhouse": {
+    "ph": "/ˈɡriːnhaʊs/",
+    "zh": "温室",
+    "en": "a glass building for growing plants"
+  },
+  "individually": {
+    "ph": "/ˌɪndɪˈvɪdʒuəli/",
+    "zh": "个别地",
+    "en": "one by one; separately"
+  },
+  "although": {
+    "ph": "/ɔːlˈðəʊ/",
+    "zh": "虽然",
+    "en": "in spite of the fact that"
+  },
+  "total": {
+    "ph": "/ˈtəʊtl/",
+    "zh": "总计的",
+    "en": "whole; complete amount"
+  },
+  "compared": {
+    "ph": "/kəmˈpeəd/",
+    "zh": "比较（过去式）",
+    "en": "examined similarities or differences"
+  },
+  "domesticated": {
+    "ph": "/dəˈmestɪkeɪtɪd/",
+    "zh": "驯养的",
+    "en": "tamed for human use"
+  },
+  "livestock": {
+    "ph": "/ˈlaɪvstɒk/",
+    "zh": "家畜",
+    "en": "farm animals kept for use or profit"
+  },
+  "belch": {
+    "ph": "/beltʃ/",
+    "zh": "打嗝；喷出",
+    "en": "to release gas from the stomach through the mouth"
+  },
+  "methane": {
+    "ph": "/ˈmiːθeɪn/",
+    "zh": "甲烷",
+    "en": "a colorless, odorless flammable gas"
+  },
+  "warming": {
+    "ph": "/ˈwɔːmɪŋ/",
+    "zh": "变暖",
+    "en": "increase in temperature"
+  },
+  "planet": {
+    "ph": "/ˈplænɪt/",
+    "zh": "行星",
+    "en": "a large body orbiting a star"
+  },
+  "compare": {
+    "ph": "/kəmˈpeə/",
+    "zh": "比较",
+    "en": "to examine similarities or differences"
+  },
+  "digestive": {
+    "ph": "/daɪˈdʒestɪv/",
+    "zh": "消化的",
+    "en": "relating to digestion"
+  },
+  "gases": {
+    "ph": "/ˈɡæsɪz/",
+    "zh": "气体（复数）",
+    "en": "plural of gas"
+  },
+  "emitted": {
+    "ph": "/ɪˈmɪtɪd/",
+    "zh": "排放（过去式）",
+    "en": "released or discharged"
+  },
+  "animals": {
+    "ph": "/ˈænɪmlz/",
+    "zh": "动物（复数）",
+    "en": "plural of animal"
+  },
+  "greatest": {
+    "ph": "/ˈɡreɪtɪst/",
+    "zh": "最大的",
+    "en": "largest in amount or degree"
+  },
+  "amount": {
+    "ph": "/əˈmaʊnt/",
+    "zh": "数量",
+    "en": "quantity of something"
+  },
+  "atmosphere": {
+    "ph": "/ˈætməsfɪə/",
+    "zh": "大气层",
+    "en": "the layer of gases around Earth"
+  },
+  "minuscule": {
+    "ph": "/ˈmɪnəskjuːl/",
+    "zh": "极小的",
+    "en": "very small"
+  },
+  "potent": {
+    "ph": "/ˈpəʊtnt/",
+    "zh": "效力强的",
+    "en": "having great power or effect"
+  },
+  "rising": {
+    "ph": "/ˈraɪzɪŋ/",
+    "zh": "上升的",
+    "en": "increasing; going up"
+  },
+  "rapidly": {
+    "ph": "/ˈræpɪdli/",
+    "zh": "迅速地",
+    "en": "quickly"
+  },
+  "recent": {
+    "ph": "/ˈriːsnt/",
+    "zh": "最近的",
+    "en": "happening a short time ago"
+  },
+  "exactly": {
+    "ph": "/ɪɡˈzæktli/",
+    "zh": "确切地",
+    "en": "precisely"
+  },
+  "moose": {
+    "ph": "/muːs/",
+    "zh": "驼鹿",
+    "en": "a large deer found in northern regions"
+  },
+  "llamas": {
+    "ph": "/ˈlɑːməz/",
+    "zh": "羊驼（复数）",
+    "en": "plural of llama, South American camelids"
+  },
+  "bacteria": {
+    "ph": "/bækˈtɪəriə/",
+    "zh": "细菌（复数）",
+    "en": "microscopic organisms"
+  },
+  "fibrous": {
+    "ph": "/ˈfaɪbrəs/",
+    "zh": "纤维的",
+    "en": "containing fibers"
+  },
+  "plants": {
+    "ph": "/plɑːnts/",
+    "zh": "植物（复数）",
+    "en": "plural of plant"
+  },
+  "releasing": {
+    "ph": "/rɪˈliːsɪŋ/",
+    "zh": "释放（现在分词）",
+    "en": "emitting; setting free"
+  },
+  "colleagues": {
+    "ph": "/ˈkɒliːɡz/",
+    "zh": "同事（复数）",
+    "en": "people who work together"
+  },
+  "estimates": {
+    "ph": "/ˈestɪməts/",
+    "zh": "估计（复数）",
+    "en": "rough calculations"
+  },
+  "populations": {
+    "ph": "/ˌpɒpjuˈleɪʃnz/",
+    "zh": "种群；人口（复数）",
+    "en": "groups of individuals of a species"
+  },
+  "emission": {
+    "ph": "/ɪˈmɪʃn/",
+    "zh": "排放",
+    "en": "the act of releasing something"
+  },
+  "based": {
+    "ph": "/beɪst/",
+    "zh": "基于",
+    "en": "having a basis in"
+  },
+  "schwartz": {
+    "ph": "/ʃwɔːts/",
+    "zh": "施瓦茨（姓氏）",
+    "en": "a surname"
+  },
+  "command": {
+    "ph": "/kəˈmɑːnd/",
+    "zh": "命令；指挥；掌握",
+    "en": "an order; the authority to control"
+  },
+  "health": {
+    "ph": "/helθ/",
+    "zh": "健康；卫生",
+    "en": "the state of being free from illness or injury"
+  },
+  "agency": {
+    "ph": "/ˈeɪdʒənsi/",
+    "zh": "机构；代理；中介",
+    "en": "a business or organization providing a service"
+  },
+  "thousands": {
+    "ph": "/ˈθaʊzəndz/",
+    "zh": "数千；成千上万",
+    "en": "plural of thousand; a large number"
+  },
+  "resignations": {
+    "ph": "/ˌrezɪɡˈneɪʃənz/",
+    "zh": "辞职；辞呈",
+    "en": "acts of resigning; formal notices of leaving a job"
+  },
+  "leadership": {
+    "ph": "/ˈliːdəʃɪp/",
+    "zh": "领导；领导力；领导层",
+    "en": "the ability to lead; the group of leaders"
+  },
+  "turmoil": {
+    "ph": "/ˈtɜːmɔɪl/",
+    "zh": "混乱；骚动",
+    "en": "a state of great disturbance or confusion"
+  },
+  "historic": {
+    "ph": "/hɪˈstɒrɪk/",
+    "zh": "历史性的",
+    "en": "famous or important in history"
+  },
+  "wildfires": {
+    "ph": "/ˈwaɪldfaɪəz/",
+    "zh": "野火",
+    "en": "uncontrolled fires in the countryside"
+  },
+  "scorched": {
+    "ph": "/skɔːtʃt/",
+    "zh": "烧焦的",
+    "en": "burnt and damaged by fire or heat"
+  },
+  "areas": {
+    "ph": "/ˈeəriəz/",
+    "zh": "地区",
+    "en": "regions or parts of a place"
+  },
+  "blaze": {
+    "ph": "/bleɪz/",
+    "zh": "大火",
+    "en": "a large and dangerous fire"
+  },
+  "burning": {
+    "ph": "/ˈbɜːnɪŋ/",
+    "zh": "燃烧的",
+    "en": "on fire; being destroyed by fire"
+  },
+  "generating": {
+    "ph": "/ˈdʒenəreɪtɪŋ/",
+    "zh": "产生",
+    "en": "producing or creating something"
+  },
+  "towering": {
+    "ph": "/ˈtaʊərɪŋ/",
+    "zh": "高耸的",
+    "en": "extremely tall or high"
+  },
+  "cloud": {
+    "ph": "/klaʊd/",
+    "zh": "云",
+    "en": "a visible mass of condensed water vapor"
+  },
+  "dangerous": {
+    "ph": "/ˈdeɪndʒərəs/",
+    "zh": "危险的",
+    "en": "likely to cause harm or injury"
+  },
+  "combination": {
+    "ph": "/ˌkɒmbɪˈneɪʃən/",
+    "zh": "组合",
+    "en": "a mixture of two or more things"
+  },
+  "winter": {
+    "ph": "/ˈwɪntə/",
+    "zh": "冬季",
+    "en": "the coldest season of the year"
+  },
+  "severe": {
+    "ph": "/sɪˈvɪə/",
+    "zh": "严重的",
+    "en": "very bad or intense"
+  },
+  "drought": {
+    "ph": "/draʊt/",
+    "zh": "干旱",
+    "en": "a long period without rain"
+  },
+  "winds": {
+    "ph": "/wɪndz/",
+    "zh": "风",
+    "en": "moving air currents"
+  },
+  "helped": {
+    "ph": "/helpt/",
+    "zh": "帮助了",
+    "en": "made something easier or possible"
+  },
+  "landscape": {
+    "ph": "/ˈlændskeɪp/",
+    "zh": "地形；风景",
+    "en": "the visible features of an area of land"
+  },
+  "explosive": {
+    "ph": "/ɪkˈspləʊsɪv/",
+    "zh": "爆炸性的；猛烈的",
+    "en": "able or likely to explode; sudden and violent"
+  },
+  "security": {
+    "ph": "/sɪˈkjʊərəti/",
+    "zh": "安全；保障",
+    "en": "the state of being free from danger or threat"
+  },
+  "conference": {
+    "ph": "/ˈkɒnfərəns/",
+    "zh": "会议；讨论会",
+    "en": "a formal meeting for discussion or exchange of views"
+  },
+  "giant": {
+    "ph": "/ˈdʒaɪənt/",
+    "zh": "巨人；巨头",
+    "en": "a very large person or thing; a large powerful company"
+  },
+  "revealed": {
+    "ph": "/rɪˈviːld/",
+    "zh": "揭示；透露",
+    "en": "made known; disclosed"
+  },
+  "details": {
+    "ph": "/ˈdiːteɪlz/",
+    "zh": "细节；详情",
+    "en": "individual facts or pieces of information"
+  },
+  "agents": {
+    "ph": "/ˈeɪdʒənts/",
+    "zh": "代理人；特工",
+    "en": "people who act on behalf of others; spies or operatives"
+  },
+  "rogue": {
+    "ph": "/rəʊɡ/",
+    "zh": "流氓；无赖；异常的",
+    "en": "a dishonest or unprincipled person; behaving in an unpredictable or harmful way"
+  },
+  "hacked": {
+    "ph": "/hækt/",
+    "zh": "被黑客攻击；非法侵入",
+    "en": "gained unauthorized access to a computer system"
+  },
+  "companies": {
+    "ph": "/ˈkʌmpəniz/",
+    "zh": "公司",
+    "en": "business organizations"
+  },
+  "online": {
+    "ph": "/ˌɒnˈlaɪn/",
+    "zh": "在线的，联网的",
+    "en": "connected to the internet"
+  },
+  "smash": {
+    "ph": "/smæʃ/",
+    "zh": "打碎，猛撞；大成功",
+    "en": "break violently; hit hard; great success"
+  },
+  "patrol": {
+    "ph": "/pəˈtrəʊl/",
+    "zh": "巡逻，巡查",
+    "en": "act of moving around an area to guard or inspect"
+  },
+  "massive": {
+    "ph": "/ˈmæsɪv/",
+    "zh": "巨大的；大规模的",
+    "en": "very large in size, amount, or degree"
+  },
+  "magma": {
+    "ph": "/ˈmæɡmə/",
+    "zh": "岩浆",
+    "en": "molten rock beneath the Earth's surface"
+  },
+  "reservoir": {
+    "ph": "/ˈrezəvwɑːr/",
+    "zh": "水库；蓄水池；储藏",
+    "en": "a large natural or artificial lake used for water storage; a supply of something"
+  },
+  "detected": {
+    "ph": "/dɪˈtektɪd/",
+    "zh": "检测到；发现",
+    "en": "discovered or noticed something"
+  },
+  "beneath": {
+    "ph": "/bɪˈniːθ/",
+    "zh": "在……之下",
+    "en": "under or below something"
+  },
+  "despite": {
+    "ph": "/dɪˈspaɪt/",
+    "zh": "尽管",
+    "en": "without being affected by; in spite of"
+  },
+  "showing": {
+    "ph": "/ˈʃəʊɪŋ/",
+    "zh": "显示；表明",
+    "en": "presenting evidence or a sign of something"
+  },
+  "signs": {
+    "ph": "/saɪnz/",
+    "zh": "迹象；标志",
+    "en": "indications or signals of something"
+  },
+  "mapped": {
+    "ph": "/mæpt/",
+    "zh": "绘制地图；测绘",
+    "en": "represented or recorded on a map"
+  },
+  "cubickilometer": {
+    "ph": "/ˈkjuːbɪk kɪˈlɒmɪtə/",
+    "zh": "立方千米",
+    "en": "a unit of volume equal to a cube with sides of one kilometer"
+  },
+  "natural": {
+    "ph": "/ˈnætʃrəl/",
+    "zh": "自然的；天然的",
+    "en": "existing in nature; not made by humans"
+  },
+  "ground": {
+    "ph": "/ɡraʊnd/",
+    "zh": "地面；土地",
+    "en": "the solid surface of the Earth"
+  },
+  "vibrations": {
+    "ph": "/vaɪˈbreɪʃənz/",
+    "zh": "振动；震动",
+    "en": "rapid movements back and forth"
+  },
+  "recorded": {
+    "ph": "/rɪˈkɔːdɪd/",
+    "zh": "记录；录制",
+    "en": "captured or stored information or sound"
+  },
+  "dozens": {
+    "ph": "/ˈdʌzənz/",
+    "zh": "许多；几十",
+    "en": "a large number, approximately 12 times a few"
+  },
+  "seismic": {
+    "ph": "/ˈsaɪzmɪk/",
+    "zh": "地震的",
+    "en": "relating to earthquakes or other vibrations of the Earth"
+  },
+  "sensors": {
+    "ph": "/ˈsensəz/",
+    "zh": "传感器；探测器",
+    "en": "devices that detect or measure physical properties"
+  },
+  "poses": {
+    "ph": "/ˈpəʊzɪz/",
+    "zh": "造成；提出",
+    "en": "presents or creates (a problem, danger, etc.)"
+  },
+  "immediate": {
+    "ph": "/ɪˈmiːdiət/",
+    "zh": "立即的；迫切的",
+    "en": "happening or done without delay; urgent"
+  },
+  "enormous": {
+    "ph": "/ɪˈnɔːməs/",
+    "zh": "巨大的；庞大的",
+    "en": "very large in size or amount"
+  },
+  "volcanic": {
+    "ph": "/vɒlˈkænɪk/",
+    "zh": "火山的",
+    "en": "relating to or produced by a volcano"
+  },
+  "systems": {
+    "ph": "/ˈsɪstəmz/",
+    "zh": "系统；体系",
+    "en": "sets of connected things or parts that work together"
+  },
+  "remain": {
+    "ph": "/rɪˈmeɪn/",
+    "zh": "保持；仍然",
+    "en": "continue to be; stay in the same state"
+  },
+  "hidden": {
+    "ph": "/ˈhɪdn/",
+    "zh": "隐藏的；隐秘的",
+    "en": "kept out of sight; concealed"
+  },
+  "transform": {
+    "ph": "/trænsˈfɔːm/",
+    "zh": "改变；转变",
+    "en": "change completely in form, appearance, or nature"
+  },
+  "search": {
+    "ph": "/sɜːtʃ/",
+    "zh": "搜索；寻找",
+    "en": "an attempt to find something"
+  },
+  "geothermal": {
+    "ph": "/ˌdʒiːəʊˈθɜːməl/",
+    "zh": "地热的",
+    "en": "relating to heat from the Earth's interior"
+  },
+  "energy": {
+    "ph": "/ˈenədʒi/",
+    "zh": "能源；能量",
+    "en": "power derived from physical or chemical resources"
+  },
+  "critical": {
+    "ph": "/ˈkrɪtɪkl/",
+    "zh": "关键的；危急的",
+    "en": "extremely important; crucial"
+  },
+  "minerals": {
+    "ph": "/ˈmɪnərəlz/",
+    "zh": "矿物；矿产",
+    "en": "natural substances with a definite chemical composition"
+  },
+  "houstonbased": {
+    "ph": "/ˈhjuːstənbeɪst/",
+    "zh": "总部位于休斯顿的",
+    "en": "based in Houston"
+  },
+  "attorneys": {
+    "ph": "/əˈtɜːniz/",
+    "zh": "律师（复数）",
+    "en": "lawyers"
+  },
+  "specialize": {
+    "ph": "/ˈspeʃəlaɪz/",
+    "zh": "专门从事",
+    "en": "to focus on a particular area"
+  },
+  "immigration": {
+    "ph": "/ˌɪmɪˈɡreɪʃn/",
+    "zh": "移民",
+    "en": "the act of entering a country to live"
+  },
+  "asylum": {
+    "ph": "/əˈsaɪləm/",
+    "zh": "庇护",
+    "en": "protection granted to refugees"
+  },
+  "cases": {
+    "ph": "/ˈkeɪsɪz/",
+    "zh": "案件（复数）",
+    "en": "legal disputes or matters"
+  },
+  "founders": {
+    "ph": "/ˈfaʊndərz/",
+    "zh": "创始人（复数）",
+    "en": "people who establish an organization"
+  },
+  "administration": {
+    "ph": "/ədˌmɪnɪˈstreɪʃn/",
+    "zh": "政府；管理",
+    "en": "the government or the act of managing"
+  },
+  "fourtonne": {
+    "ph": "/ˈfɔːˈtʌn/",
+    "zh": "四吨的",
+    "en": "weighing four tonnes"
+  },
+  "piece": {
+    "ph": "/piːs/",
+    "zh": "碎片；块",
+    "en": "a part of something"
+  },
+  "rocket": {
+    "ph": "/ˈrɒkɪt/",
+    "zh": "火箭",
+    "en": "a vehicle that travels into space"
+  },
+  "believed": {
+    "ph": "/bɪˈliːvd/",
+    "zh": "相信；认为",
+    "en": "accepted as true or real"
+  },
+  "lunar": {
+    "ph": "/ˈluːnə/",
+    "zh": "月球的",
+    "en": "relating to the moon"
+  },
+  "discarded": {
+    "ph": "/dɪˈskɑːdɪd/",
+    "zh": "丢弃的",
+    "en": "thrown away as useless"
+  },
+  "floating": {
+    "ph": "/ˈfləʊtɪŋ/",
+    "zh": "漂浮的",
+    "en": "staying on the surface of a liquid or in air"
+  },
+  "unintentionally": {
+    "ph": "/ˌʌnɪnˈtenʃənəli/",
+    "zh": "无意地",
+    "en": "not done on purpose"
+  },
+  "crashed": {
+    "ph": "/kræʃt/",
+    "zh": "坠毁的",
+    "en": "hit something hard and got damaged"
+  },
+  "fivestorey": {
+    "ph": "/ˈfaɪvˈstɔːri/",
+    "zh": "五层楼的",
+    "en": "having five floors or levels"
+  },
+  "building": {
+    "ph": "/ˈbɪldɪŋ/",
+    "zh": "建筑物",
+    "en": "a structure with walls and a roof"
+  },
+  "landers": {
+    "ph": "/ˈlændəz/",
+    "zh": "着陆器",
+    "en": "spacecraft designed to land on a surface"
+  },
+  "hasinas": {
+    "ph": "/həˈsiːnəs/",
+    "zh": "哈西纳斯（人名）",
+    "en": "a surname or given name"
+  },
+  "protests": {
+    "ph": "/ˈprəʊtests/",
+    "zh": "抗议（复数）",
+    "en": "plural of protest; public demonstrations of objection"
   }
 }

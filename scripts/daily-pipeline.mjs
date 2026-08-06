@@ -30,8 +30,10 @@ function run(cmd) {
 (async () => {
   console.log('===== Echo 每日流水线 ' + (TEST ? '(TEST 模式)' : '(发布模式)') + ' =====');
 
-  // 1. 抓取 → 暂存草稿
+  // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
   run('node scripts/fetch-news.mjs --write');
+  run('node scripts/fetch-insights.mjs --write');
+  run('node scripts/fetch-readings.mjs --draft');
 
   // 2. AI 填充解读（DeepSeek）
   await enrich(DRAFT);
@@ -72,7 +74,7 @@ function run(cmd) {
   console.log('✅ 已发布到 feed.json（缓存版本 ' + stamp + '）');
 
   // 5. 提交 + 推送（读取桌面令牌，不删）
-  run('git add data/feed.json assets/js/feed.js');
+  run('git add data/feed.json assets/js/feed.js data/words.json');
   try {
     execSync('git commit -m "每日自动更新：抓取真实近期行业资讯 + DeepSeek 生成顾问视角"', { cwd: ROOT, stdio: 'inherit' });
   } catch (e) {

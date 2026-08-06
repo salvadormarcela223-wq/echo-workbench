@@ -34,7 +34,7 @@ function clean(s) {
     .replace(/\s+/g, ' ').trim();
 }
 
-const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Categories|Topics|RSS)$/i;
+const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
 
 async function getText(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
@@ -54,6 +54,46 @@ async function deriveSummary(link, fallback) {
     }
   } catch (e) { }
   return fallback ? clean(fallback).slice(0, 160) : '';
+}
+
+// 回源文章页抓取真实发布日期：优先 <meta article:published_time/og:published_time/datePublished>，
+// 其次 <time datetime>，最后退回正文文本里的日期模式（January 5, 2026 / 5 January 2026 / 2026-01-05）。
+// 尽力而为，拿不到返回 null（由上层决定跳过，绝不伪造）。
+async function deriveDate(link) {
+  try {
+    const html = await getText(link);
+    const metaRe = /<meta[^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["'][^>]+content=["']([^"']+)["']|content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["']/i;
+    const m = html.match(metaRe);
+    if (m) { const d = new Date(m[1] || m[2]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
+    const timeTags = html.match(/<time[^>]+datetime=["']([^"']+)["']/gi) || [];
+    for (const tt of timeTags) {
+      const dm = tt.match(/datetime=["']([^"']+)["']/i);
+      if (dm) { const d = new Date(dm[1]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
+    }
+    const text = html.replace(/<[^>]+>/g, ' ');
+    const months = { january:0,february:1,march:2,april:3,may:4,june:5,july:6,august:7,september:8,october:9,november:10,december:11,jan:0,feb:1,mar:2,apr:3,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11 };
+    const pats = [
+      /\b([A-Z][a-z]{2,8})\s+(\d{1,2}),?\s+(\d{4})\b/,
+      /\b(\d{1,2})\s+([A-Z][a-z]{2,8}),?\s+(\d{4})\b/,
+      /\b(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})\b/,
+    ];
+    for (const p of pats) {
+      const mm = text.match(p);
+      if (!mm) continue;
+      let d;
+      if (p === pats[2]) d = new Date(+mm[1], +mm[2] - 1, +mm[3]);
+      else {
+        const isFirstMonth = months[mm[1].toLowerCase()] !== undefined;
+        const mon = isFirstMonth ? mm[1].toLowerCase() : mm[2].toLowerCase();
+        const day = isFirstMonth ? +mm[2] : +mm[1];
+        const yr = +mm[3];
+        if (months[mon] === undefined) continue;
+        d = new Date(yr, months[mon], day);
+      }
+      if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d;
+    }
+  } catch (e) { }
+  return null;
 }
 
 function parseRSS(xml) {
@@ -118,10 +158,11 @@ function parseHTML(html, base, sel) {
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
             const summary = await deriveSummary(it.link, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
-            // 真实发布日期：拿不到就不伪造，直接跳过（绝不把旧文标成今天）
+            // 真实发布日期：RSS/HTML 没给就回源文章页抓，再不行才放弃（绝不伪造日期）
             let pubDate = null;
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
-            if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过(不伪造日期)`); continue; }
+            if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) {} }
+            if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期(已回源文章页仍找不到)，已跳过`); continue; }
             // 陈旧过滤：超过 45 天的一律不要
             const ageDays = Math.round((Date.now() - pubDate) / 86400000);
             if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
