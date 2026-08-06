@@ -205,7 +205,9 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     }
 
     // 正文每个英文单词都变成可点击词（保留 <p>/<u>/<b> 等标签）
-    const body = (a.body || []).join('').replace(/(<[^>]+>)|([A-Za-z][A-Za-z'-]*)/g, (m, tag, word) => {
+    // 容错：body 可能是数组（推荐）或字符串（旧数据），统一转数组再拼接
+    const bodyArr = Array.isArray(a.body) ? a.body : String(a.body || '').split(/\n+/);
+    const body = bodyArr.join('').replace(/(<[^>]+>)|([A-Za-z][A-Za-z'-]*)/g, (m, tag, word) => {
       if (tag) return tag;
       const key = word.toLowerCase();
       return '<span class="kw' + (saved.has(key) ? ' saved' : '') + '" data-w="' + esc(key) + '">' + esc(word) + '</span>';

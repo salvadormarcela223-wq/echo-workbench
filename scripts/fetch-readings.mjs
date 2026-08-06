@@ -5,7 +5,7 @@
 //   ④ 生词必须有音标/中文释义/英文释义之一（本地词库优先，词库没有的用 DeepSeek 补，并回写词库）。
 import fs from 'fs';
 import path from 'path';
-import { translateWords } from './ai-enrich.mjs';
+import { translateWords, translateFullText, extractPhrases } from './ai-enrich.mjs';
 
 const ROOT = process.cwd();
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8').replace(/^﻿/, '');
@@ -115,7 +115,7 @@ function buildBody(text, vocab) {
     const re = new RegExp('\\b(' + v.w + ')\\b', 'i');
     if (re.test(body)) body = body.replace(re, '<u>' + '$1' + '</u>');
   }
-  return body;
+  return body.split('\n').filter(Boolean); // 数组：前端直接 join，避免字符串 .join() 崩溃
 }
 
 const DRY = process.argv.includes('--dry');
@@ -159,6 +159,17 @@ async function main() {
     if (!pick) { console.log('  - ' + src.name + '：暂无新文章'); continue; }
     const vocab = buildVocab(pick.desc, bank);
     await enrichVocab(vocab, bank);
+    const plain = String(pick.desc || '').replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n').trim();
+    let cn = '', phrases = [];
+    try {
+      if (plain && plain.length >= 20) {
+        cn = await translateFullText(plain);
+        phrases = await extractPhrases(plain);
+        console.log('  ✓ 已生成中文翻译(' + cn.length + '字)与地道表达(' + phrases.length + '个)');
+      }
+    } catch (e) {
+      console.log('  ! 翻译失败: ' + e.message);
+    }
     const entry = {
       id: stableId(pick.link),
       title: pick.title,
@@ -169,6 +180,8 @@ async function main() {
       link: pick.link,
       date: pick.pub || new Date().toISOString().slice(0, 10),
       body: buildBody(pick.desc, vocab),
+      cn: cn,
+      phrases: phrases,
       vocab: vocab,
     };
     candidates.push({ src: src.name, entry: entry });

@@ -10,6 +10,15 @@
 
   const NEWS_CATS = ['政策法规', '监管执法', '出口贸易', '市场数据', '巨头动向', '海外监管', '趋势洞察', '产品技术'];
   const CAT_COLOR = { '政策法规': 'c1', '监管执法': 'c4', '出口贸易': 'c3', '市场数据': 'c2', '巨头动向': 'c5', '海外监管': 'c4', '趋势洞察': 'c1', '产品技术': 'c3' };
+function tagColor(map, key) {
+  if (map[key]) return map[key];
+  // 未定义颜色：按哈希稳定分配 c1-c5
+  const pool = ['c1','c2','c3','c4','c5'];
+  let h = 0;
+  const k = String(key || '');
+  for (let i = 0; i < k.length; i++) h = (h * 31 + k.charCodeAt(i)) >>> 0;
+  return pool[h % pool.length];
+}
 
   const TOPICS = ['方法论 · AI', '感官分析', '消费者洞察', '体验设计', '食品科学 · 趋势', '技术 · 工具', '行业态势', '学术 · 争议'];
   const T_COLOR = { '方法论 · AI': 'c3', '感官分析': 'c1', '消费者洞察': 'c2', '体验设计': 'c5', '食品科学 · 趋势': 'c2', '技术 · 工具': 'c3', '行业态势': 'c1', '学术 · 争议': 'c4' };
@@ -37,7 +46,8 @@
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    const cats = ['全部'].concat(NEWS_CATS.filter(c => all.some(n => n.cat === c)));
+    const allCats = [...new Set(all.map(n => n.cat).filter(Boolean))];
+    const cats = ['全部'].concat(allCats.sort());
     const hot = all.filter(n => (n.heat || 0) >= 5).length;
     const mo = new Date().toISOString().slice(0, 7);
     const thisMonth = all.filter(n => String(n.date).startsWith(mo)).length;
@@ -71,7 +81,7 @@
           '<td class="td-date">' + esc(n.date) + '</td>' +
           '<td><div class="td-title">' + (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.source) + '</div></td>' +
-          '<td><span class="tag ' + (CAT_COLOR[n.cat] || '') + '">' + esc(n.cat || '未分类') + '</span></td>' +
+          '<td><span class="tag ' + tagColor(CAT_COLOR, n.cat) + '">' + esc(n.cat || '未分类') + '</span></td>' +
           '<td>' + esc(n.summary) + '</td>' +
           '<td><div class="quote">' + esc(n.impact || '—') + '</div></td>' +
           '<td>' + heatBar(n.heat) + '</td>' +
@@ -140,7 +150,8 @@
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    const topics = ['全部'].concat(TOPICS.filter(t => all.some(n => n.topic === t)));
+    const allTopics = [...new Set(all.map(n => n.topic).filter(Boolean))];
+    const topics = ['全部'].concat(allTopics.sort());
 
     box.innerHTML =
       '<div class="stats stagger">' +
@@ -169,7 +180,7 @@
         list.map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
-          '<td><span class="tag ' + (T_COLOR[n.topic] || '') + '">' + esc(n.topic || '') + '</span></td>' +
+          '<td><span class="tag ' + tagColor(T_COLOR, n.topic) + '">' + esc(n.topic || '') + '</span></td>' +
           '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +

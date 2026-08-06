@@ -111,6 +111,9 @@ function buildPrompt(it, group, missing) {
   const base = `标题：${it.title || ''}\n来源：${it.source || it.origin || ''}\n${label}：${dim}\n` +
     (it.summary ? `摘要：${it.summary}\n` : '') +
     (it.region ? `地区：${it.region}\n` : '');
+  if (group === 'news' && missing.includes('summary')) {
+    return base + `\n请基于以上资讯标题与内容，用中文写出「要点摘要」：80-140字，概括核心事实与影响，专业准确，不要出现网页导航文字，不要输出任何多余内容。\n只输出 JSON：{"summary":"中文要点摘要"}`;
+  }
   if (group === 'news' && missing.includes('impact')) {
     return base + `\n请基于以上资讯，用中文产出「顾问视角解读」。\n只输出 JSON：{"impact":"80-120字，说明这条资讯对FMCG感官研究/CMI工作的影响与含义，务实专业，不编造数据"}`;
   }
@@ -121,17 +124,75 @@ function buildPrompt(it, group, missing) {
   return base + `\n请基于以上洞察，用中文产出专业分析。\n只输出 JSON：{${parts.join(', ')}}`;
 }
 
+// 全文中文翻译（长文分段，返回纯中文文本）
+export async function translateFullText(plainText) {
+  if (!KEY) KEY = loadKey();
+  const text = String(plainText || '').replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n').trim();
+  if (!text || text.length < 20) return text;
+  const chunks = [];
+  for (let i = 0; i < text.length; i += 2800) chunks.push(text.slice(i, i + 2800));
+  const parts = [];
+  for (const c of chunks) {
+    try {
+      const out = await askWithRetry(`你是专业翻译。把下面这段英文翻译成通顺地道的中文，保持段落结构，用"##段落"分隔原段落，只输出译文，不要任何解释。\n\n${c}`);
+      parts.push(out.trim());
+    } catch (e) {
+      parts.push('（本段翻译失败）');
+    }
+    await new Promise((r) => setTimeout(r, 800));
+  }
+  return parts.join('\n\n');
+}
+
+// 提取地道表达（返回 [{en, zh}]）
+export async function extractPhrases(plainText) {
+  if (!KEY) KEY = loadKey();
+  const text = String(plainText || '').replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n').trim().slice(0, 6000);
+  if (!text || text.length < 30) return [];
+  try {
+    const out = await askWithRetry(`阅读下面英文文章，提取 6-8 个值得学习的地道表达/搭配/短语（不要简单词如 go/make，要真正有价值的口语或书面表达）。\n严格JSON数组返回：[{"en":"英文表达","zh":"中文释义"}]\n\n文章：\n${text}`);
+    const m = out.match(/\[[\s\S]*\]/);
+    if (!m) return [];
+    const arr = JSON.parse(m[0]);
+    if (!Array.isArray(arr)) return [];
+    return arr.filter((x) => x && x.en && x.zh).slice(0, 8).map((x) => ({ en: String(x.en).trim(), zh: String(x.zh).trim() }));
+  } catch (e) {
+    console.log('  ✗ 地道表达提取失败: ' + e.message);
+    return [];
+  }
+}
+
 // 判断是否为「待富集」的空/占位符内容
 function isEmpty(v) {
   const s = (v || '').trim();
   return !s || s.includes('待补充') || s.includes('每日自动') || s === '—';
 }
 
+// 判断 news summary 是否为「截取式」劣质摘要（网页导航残留 / HTML 残留 / 纯英文截取）
+function isBadSummary(v) {
+  const s = (v || '').trim();
+  if (!s) return true;
+  if (s.includes('»') || s.includes('Home »') || s.includes('&raquo;')) return true;
+  if (/<[a-z][^>]*>/i.test(s)) return true;                     // HTML 标签残留
+  if (s.includes('Read more') || s.includes('Read More') || s.includes('Press Release') || s.includes('Press release')) return true;
+  const chinese = (s.match(/[一-龥]/g) || []).length;
+  const english = (s.match(/[a-zA-Z]/g) || []).length;
+  // 中文字符很少、而英文很多 → 大概率是英文截取
+  if (chinese < 5 && english > 60) return true;
+  if (s.length > 250) return true;                               // 过长大概率是网页正文残留
+  return false;
+}
+
 export async function enrich(feedPath) {
   if (!KEY) KEY = loadKey();
   const feed = JSON.parse(fs.readFileSync(feedPath, 'utf-8').replace(/^\uFEFF/, ''));
   const tasks = [];
-  (feed.news || []).forEach((it, idx) => { if (isEmpty(it.impact)) tasks.push({ group: 'news', idx, missing: ['impact'] }); });
+  (feed.news || []).forEach((it, idx) => {
+    const miss = [];
+    if (isEmpty(it.impact)) miss.push('impact');
+    if (isBadSummary(it.summary)) miss.push('summary');
+    if (miss.length) tasks.push({ group: 'news', idx, missing: miss });
+  });
   (feed.insights || []).forEach((it, idx) => {
     const miss = [];
     if (isEmpty(it.core)) miss.push('core');

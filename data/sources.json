@@ -1,28 +1,281 @@
 {
   "news": [
-    { "name": "FDA CTP 新闻室", "type": "html", "url": "https://www.fda.gov/tobacco-products/ctp-newsroom", "sel": "news", "cat": "海外监管", "dimension": "监管政策", "region": "国际" },
-    { "name": "WHO 烟草管制", "type": "html", "url": "https://www.who.int/teams/health-promotion/tobacco-control", "sel": "tobacco", "cat": "国际监管", "dimension": "监管政策", "region": "国际" },
-    { "name": "国家烟草专卖局", "type": "html", "url": "https://www.tobacco.gov.cn/", "sel": "news", "cat": "国内监管", "dimension": "监管政策", "region": "国内" },
-    { "name": "欧盟烟草期刊", "type": "html", "url": "https://www.tobaccojournal.com/", "sel": "news", "cat": "欧洲监管", "dimension": "监管政策", "region": "国际" },
-    { "name": "中国经济网·电子烟", "type": "html", "url": "https://www.ce.cn/cysc/newmain/yc/", "sel": "news", "cat": "国内市场", "dimension": "市场数据", "region": "国内" },
-    { "name": "东方财富·消费研报", "type": "html", "url": "https://finance.eastmoney.com/", "sel": "news", "cat": "市场数据", "dimension": "市场数据", "region": "国内" },
-    { "name": "2firsts 中文", "type": "html", "url": "https://cn.2firsts.com/", "sel": "news", "cat": "产品技术", "dimension": "产品技术", "region": "国内" },
-    { "name": "2firsts 英文", "type": "html", "url": "https://en.2firsts.com/", "sel": "news", "cat": "产品技术", "dimension": "产品技术", "region": "国际" },
-    { "name": "Vaping360", "type": "rss", "url": "https://www.vaping360.com/feed/", "cat": "产品技术", "dimension": "产品技术", "region": "国际" },
-    { "name": "Tobacco Reporter", "type": "rss", "url": "https://tobaccoreporter.com/feed/", "cat": "企业动态", "dimension": "企业动态", "region": "国际" },
-    { "name": "Vaping Post", "type": "rss", "url": "https://www.vapingpost.com/feed/", "cat": "市场动态", "dimension": "企业动态", "region": "国际" },
-    { "name": "Mintel 新闻室", "type": "html", "url": "https://www.mintel.com/press-centre", "sel": "press", "cat": "消费者趋势", "dimension": "消费者趋势", "region": "国际" },
-    { "name": "Ipsos 新闻室", "type": "html", "url": "https://www.ipsos.com/en/news", "sel": "news", "cat": "消费者洞察", "dimension": "消费者趋势", "region": "国际" },
-    { "name": "Innova 新闻室", "type": "html", "url": "https://www.innovamarketinsights.com/press-releases/", "sel": "press", "cat": "消费趋势", "dimension": "消费者趋势", "region": "国际" }
+    {
+      "name": "FDA CTP 新闻室",
+      "type": "html",
+      "url": "https://www.fda.gov/tobacco-products/ctp-newsroom",
+      "sel": "news",
+      "cat": "海外监管",
+      "dimension": "监管政策",
+      "region": "国际"
+    },
+    {
+      "name": "WHO 烟草管制",
+      "type": "html",
+      "url": "https://www.who.int/teams/health-promotion/tobacco-control",
+      "sel": "tobacco",
+      "cat": "国际监管",
+      "dimension": "监管政策",
+      "region": "国际"
+    },
+    {
+      "name": "国家烟草专卖局",
+      "type": "html",
+      "url": "https://www.tobacco.gov.cn/",
+      "sel": "news",
+      "cat": "国内监管",
+      "dimension": "监管政策",
+      "region": "国内"
+    },
+    {
+      "name": "欧盟烟草期刊",
+      "type": "html",
+      "url": "https://www.tobaccojournal.com/",
+      "sel": "news",
+      "cat": "欧洲监管",
+      "dimension": "监管政策",
+      "region": "国际"
+    },
+    {
+      "name": "中国经济网·电子烟",
+      "type": "html",
+      "url": "https://www.ce.cn/cysc/newmain/yc/",
+      "sel": "news",
+      "cat": "国内市场",
+      "dimension": "市场数据",
+      "region": "国内"
+    },
+    {
+      "name": "东方财富·消费研报",
+      "type": "html",
+      "url": "https://finance.eastmoney.com/",
+      "sel": "news",
+      "cat": "市场数据",
+      "dimension": "市场数据",
+      "region": "国内"
+    },
+    {
+      "name": "2firsts 中文",
+      "type": "html",
+      "url": "https://cn.2firsts.com/",
+      "sel": "news",
+      "cat": "产品技术",
+      "dimension": "产品技术",
+      "region": "国内"
+    },
+    {
+      "name": "2firsts 英文",
+      "type": "html",
+      "url": "https://en.2firsts.com/",
+      "sel": "news",
+      "cat": "产品技术",
+      "dimension": "产品技术",
+      "region": "国际"
+    },
+    {
+      "name": "Vaping360",
+      "type": "rss",
+      "url": "https://www.vaping360.com/feed/",
+      "cat": "产品技术",
+      "dimension": "产品技术",
+      "region": "国际"
+    },
+    {
+      "name": "Tobacco Reporter",
+      "type": "rss",
+      "url": "https://tobaccoreporter.com/feed/",
+      "cat": "企业动态",
+      "dimension": "企业动态",
+      "region": "国际"
+    },
+    {
+      "name": "Vaping Post",
+      "type": "rss",
+      "url": "https://www.vapingpost.com/feed/",
+      "cat": "市场动态",
+      "dimension": "企业动态",
+      "region": "国际"
+    },
+    {
+      "name": "Mintel 新闻室",
+      "type": "html",
+      "url": "https://www.mintel.com/press-centre",
+      "sel": "press",
+      "cat": "消费者趋势",
+      "dimension": "消费者趋势",
+      "region": "国际"
+    },
+    {
+      "name": "Ipsos 新闻室",
+      "type": "html",
+      "url": "https://www.ipsos.com/en/news",
+      "sel": "news",
+      "cat": "消费者洞察",
+      "dimension": "消费者趋势",
+      "region": "国际"
+    },
+    {
+      "name": "Innova 新闻室",
+      "type": "html",
+      "url": "https://www.innovamarketinsights.com/press-releases/",
+      "sel": "press",
+      "cat": "消费趋势",
+      "dimension": "消费者趋势",
+      "region": "国际"
+    },
+    {
+      "name": "Tobacco Insider",
+      "type": "rss",
+      "url": "https://www.tobaccoinsider.com/feed/",
+      "cat": "巨头动向",
+      "dimension": "企业动态",
+      "region": "国际"
+    },
+    {
+      "name": "Inside FMCG",
+      "type": "rss",
+      "url": "https://insidefmcg.com.au/feed/",
+      "cat": "市场数据",
+      "dimension": "市场数据",
+      "region": "国际"
+    },
+    {
+      "name": "Food Dive",
+      "type": "rss",
+      "url": "https://www.fooddive.com/feeds/news/",
+      "cat": "市场数据",
+      "dimension": "市场数据",
+      "region": "国际"
+    },
+    {
+      "name": "Packaging Dive",
+      "type": "rss",
+      "url": "https://www.packagingdive.com/feeds/news/",
+      "cat": "产品技术",
+      "dimension": "产品技术",
+      "region": "国际"
+    },
+    {
+      "name": "Just Food",
+      "type": "rss",
+      "url": "https://www.just-food.com/feed/",
+      "cat": "巨头动向",
+      "dimension": "企业动态",
+      "region": "国际"
+    }
   ],
   "insights": [
-    { "name": "Mintel 趋势", "type": "html", "url": "https://www.mintel.com/press-centre", "sel": "press", "cat": "消费者洞察", "dimension": "消费者洞察", "region": "国际" },
-    { "name": "Ipsos 观点", "type": "html", "url": "https://www.ipsos.com/en/news", "sel": "news", "cat": "消费者洞察", "dimension": "消费者洞察", "region": "国际" },
-    { "name": "Innova 趋势", "type": "html", "url": "https://www.innovamarketinsights.com/press-releases/", "sel": "press", "cat": "消费趋势", "dimension": "消费者趋势", "region": "国际" },
-    { "name": "Packaging Insights", "type": "html", "url": "https://www.packaginginsights.com/", "sel": "news", "cat": "包装设计", "dimension": "包装与设计", "region": "国际" },
-    { "name": "贝恩咨询·观点", "type": "html", "url": "https://www.bain.cn/", "sel": "news", "cat": "市场报告", "dimension": "市场与报告", "region": "国内" },
-    { "name": "中国信通院", "type": "html", "url": "https://www.caict.ac.cn/", "sel": "news", "cat": "科技消费", "dimension": "FMCG创新", "region": "国内" },
-    { "name": "英敏特中国", "type": "html", "url": "https://china.mintel.com/press-centre", "sel": "press", "cat": "消费者洞察", "dimension": "消费者洞察", "region": "国内" },
-    { "name": "尼尔森IQ", "type": "html", "url": "https://nielseniq.com/global/en/insights/", "sel": "insights", "cat": "市场报告", "dimension": "市场与报告", "region": "国际" }
+    {
+      "name": "Mintel 趋势",
+      "type": "html",
+      "url": "https://www.mintel.com/press-centre",
+      "sel": "press",
+      "cat": "消费者洞察",
+      "dimension": "消费者洞察",
+      "region": "国际"
+    },
+    {
+      "name": "Ipsos 观点",
+      "type": "html",
+      "url": "https://www.ipsos.com/en/news",
+      "sel": "news",
+      "cat": "消费者洞察",
+      "dimension": "消费者洞察",
+      "region": "国际"
+    },
+    {
+      "name": "Innova 趋势",
+      "type": "html",
+      "url": "https://www.innovamarketinsights.com/press-releases/",
+      "sel": "press",
+      "cat": "消费趋势",
+      "dimension": "消费者趋势",
+      "region": "国际"
+    },
+    {
+      "name": "Packaging Insights",
+      "type": "html",
+      "url": "https://www.packaginginsights.com/",
+      "sel": "news",
+      "cat": "包装设计",
+      "dimension": "包装与设计",
+      "region": "国际"
+    },
+    {
+      "name": "贝恩咨询·观点",
+      "type": "html",
+      "url": "https://www.bain.cn/",
+      "sel": "news",
+      "cat": "市场报告",
+      "dimension": "市场与报告",
+      "region": "国内"
+    },
+    {
+      "name": "中国信通院",
+      "type": "html",
+      "url": "https://www.caict.ac.cn/",
+      "sel": "news",
+      "cat": "科技消费",
+      "dimension": "FMCG创新",
+      "region": "国内"
+    },
+    {
+      "name": "英敏特中国",
+      "type": "html",
+      "url": "https://china.mintel.com/press-centre",
+      "sel": "press",
+      "cat": "消费者洞察",
+      "dimension": "消费者洞察",
+      "region": "国内"
+    },
+    {
+      "name": "尼尔森IQ",
+      "type": "html",
+      "url": "https://nielseniq.com/global/en/insights/",
+      "sel": "insights",
+      "cat": "市场报告",
+      "dimension": "市场与报告",
+      "region": "国际"
+    },
+    {
+      "name": "Tobacco Reporter 深度",
+      "type": "rss",
+      "url": "https://tobaccoreporter.com/feed/",
+      "cat": "行业态势",
+      "dimension": "行业态势",
+      "region": "国际"
+    },
+    {
+      "name": "Inside FMCG 洞察",
+      "type": "rss",
+      "url": "https://insidefmcg.com.au/feed/",
+      "cat": "FMCG创新",
+      "dimension": "FMCG创新",
+      "region": "国际"
+    },
+    {
+      "name": "Food Dive 洞察",
+      "type": "rss",
+      "url": "https://www.fooddive.com/feeds/news/",
+      "cat": "行业态势",
+      "dimension": "行业态势",
+      "region": "国际"
+    },
+    {
+      "name": "Packaging Dive 洞察",
+      "type": "rss",
+      "url": "https://www.packagingdive.com/feeds/news/",
+      "cat": "包装与设计",
+      "dimension": "包装与设计",
+      "region": "国际"
+    },
+    {
+      "name": "Just Food 洞察",
+      "type": "rss",
+      "url": "https://www.just-food.com/feed/",
+      "cat": "FMCG创新",
+      "dimension": "FMCG创新",
+      "region": "国际"
+    }
   ]
 }

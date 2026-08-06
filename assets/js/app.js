@@ -86,9 +86,12 @@
   /* -------------------- 导航 -------------------- */
   function counts() {
     const s = S.s;
+    /* 昨日新增：只算日期=昨天的条目 */
+    const yd = (d => d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'))(new Date(Date.now()-864e5));
+    const isYd = x => String(x.date||x.createdAt||'').slice(0,10) === yd;
     return {
-      news: s.news.length,
-      insight: s.insights.length,
+      news: (s.news||[]).filter(isYd).length,
+      insight: (s.insights||[]).filter(isYd).length,
       plan: s.todos.filter(t => !t.done).length,
       english: s.words.filter(w => !w.mastered).length,
       muse: s.muses.length,
