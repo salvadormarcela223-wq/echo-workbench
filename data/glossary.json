@@ -7963,5 +7963,190 @@
     "p": "/ʃiː/",
     "t": "她",
     "en": "female person or animal previously mentioned"
+  },
+  "regional": {
+    "p": "/ˈriːdʒənl/",
+    "t": "地区的；区域的",
+    "en": "relating to a region"
+  },
+  "police": {
+    "p": "/pəˈliːs/",
+    "t": "警察；警方",
+    "en": "the civil force responsible for maintaining law and order"
+  },
+  "prosecutors": {
+    "p": "/ˈprɒsɪkjuːtəz/",
+    "t": "检察官；公诉人",
+    "en": "lawyers who conduct legal prosecutions"
+  },
+  "airport": {
+    "p": "/ˈeəpɔːt/",
+    "t": "机场",
+    "en": "a place where aircraft take off and land"
+  },
+  "drone": {
+    "p": "/drəʊn/",
+    "t": "无人机",
+    "en": "an unmanned aircraft or ship guided by remote control"
+  },
+  "airports": {
+    "p": "/ˈeəpɔːts/",
+    "t": "机场（复数）",
+    "en": "multiple places where aircraft operate"
+  },
+  "south": {
+    "p": "/saʊθ/",
+    "t": "南方；向南",
+    "en": "the direction opposite north"
+  },
+  "runway": {
+    "p": "/ˈrʌnweɪ/",
+    "t": "跑道",
+    "en": "a strip of hard ground for aircraft takeoff and landing"
+  },
+  "unknown": {
+    "p": "/ˌʌnˈnəʊn/",
+    "t": "未知的；不知名的",
+    "en": "not known or identified"
+  },
+  "device": {
+    "p": "/dɪˈvaɪs/",
+    "t": "装置；设备",
+    "en": "a piece of equipment made for a specific purpose"
+  },
+  "examined": {
+    "p": "/ɪɡˈzæmɪnd/",
+    "t": "检查；审查（过去式）",
+    "en": "inspected or studied carefully"
+  },
+  "pollution": {
+    "p": "/pəˈluːʃn/",
+    "t": "污染",
+    "en": "the presence of harmful substances in the environment"
+  },
+  "particles": {
+    "p": "/ˈpɑːtɪklz/",
+    "t": "颗粒",
+    "en": "small pieces of matter"
+  },
+  "smoke": {
+    "p": "/sməʊk/",
+    "t": "烟",
+    "en": "visible vapor and gases from burning"
+  },
+  "worsen": {
+    "p": "/ˈwɜːsn/",
+    "t": "恶化",
+    "en": "to make or become worse"
+  },
+  "rheumatoid": {
+    "p": "/ˈruːmətɔɪd/",
+    "t": "类风湿的",
+    "en": "relating to a chronic autoimmune disease affecting joints"
+  },
+  "arthritis": {
+    "p": "/ɑːˈθraɪtɪs/",
+    "t": "关节炎",
+    "en": "inflammation of one or more joints"
+  },
+  "painful": {
+    "p": "/ˈpeɪnfl/",
+    "t": "疼痛的",
+    "en": "causing pain"
+  },
+  "flares": {
+    "p": "/fleəz/",
+    "t": "发作",
+    "en": "sudden worsening of symptoms"
+  },
+  "particularly": {
+    "p": "/pəˈtɪkjələli/",
+    "t": "尤其",
+    "en": "especially"
+  },
+  "prolonged": {
+    "p": "/prəˈlɒŋd/",
+    "t": "长期的",
+    "en": "continuing for a long time"
+  },
+  "findings": {
+    "p": "/ˈfaɪndɪŋz/",
+    "t": "发现",
+    "en": "results or conclusions from research"
+  },
+  "important": {
+    "p": "/ɪmˈpɔːtnt/",
+    "t": "重要的",
+    "en": "of great significance or value"
+  },
+  "managing": {
+    "p": "/ˈmænɪdʒɪŋ/",
+    "t": "管理",
+    "en": "the process of dealing with or controlling"
+  },
+  "disease": {
+    "p": "/dɪˈziːz/",
+    "t": "疾病",
+    "en": "an illness affecting the body or mind"
+  },
+  "order": {
+    "p": "/ˈɔːdə/",
+    "t": "订单；命令；顺序",
+    "en": "a request for something to be made or supplied; a command; a sequence"
+  },
+  "gifts": {
+    "p": "/ɡɪfts/",
+    "t": "礼物；赠品",
+    "en": "things given voluntarily without payment; presents"
+  },
+  "promo": {
+    "p": "/ˈprəʊməʊ/",
+    "t": "促销；宣传",
+    "en": "a promotion; advertising or publicity for a product or event"
+  },
+  "today": {
+    "p": "/təˈdeɪ/",
+    "t": "今天；现今",
+    "en": "on this day; at the present time"
+  },
+  "coupons": {
+    "p": "/ˈkuːpɒnz/",
+    "t": "优惠券；票券",
+    "en": "vouchers entitling the holder to a discount or free item"
+  },
+  "discounts": {
+    "p": "/ˈdɪskaʊnts/",
+    "t": "折扣；优惠",
+    "en": "reductions in price"
+  },
+  "healthy": {
+    "p": "/ˈhelθi/",
+    "t": "健康的；有益健康的",
+    "en": "in good health; conducive to health"
+  },
+  "groceries": {
+    "p": "/ˈɡrəʊsəriz/",
+    "t": "食品杂货",
+    "en": "food and other goods sold by a grocer or supermarket"
+  },
+  "returning": {
+    "p": "/rɪˈtɜːnɪŋ/",
+    "t": "返回的；回程的",
+    "en": "coming back; going back to a place or condition"
+  },
+  "customer": {
+    "p": "/ˈkʌstəmə/",
+    "t": "顾客；客户",
+    "en": "a person who buys goods or services from a shop or business"
+  },
+  "backup": {
+    "p": "/ˈbækʌp/",
+    "t": "备份；备用",
+    "en": "a reserve or substitute"
+  },
+  "thin": {
+    "p": "/θɪn/",
+    "t": "薄的；稀薄的",
+    "en": "having little thickness or density"
   }
 }

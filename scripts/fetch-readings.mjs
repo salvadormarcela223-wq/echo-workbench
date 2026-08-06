@@ -12,9 +12,22 @@ const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8').replace(/^﻿/, 
 function readJson(p) { try { return JSON.parse(read(p)); } catch (e) { return null; } }
 function writeJson(p, obj) { fs.writeFileSync(path.join(ROOT, p), JSON.stringify(obj, null, 2)); }
 
-// 本地烘焙词库（words.json: { word:{ ph, zh, en } }）
-function loadBank() {
+// 双字典合并：words.json（本地烘焙）+ glossary.json（DeepSeek 批量补全的中文词典）
+// glossary 中文优先，专门填补 words.json 中 zh 为空的词（从源头避免生词带空中文）
+function loadWords() {
   try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/words.json'), 'utf8').replace(/^﻿/, '')); } catch (e) { return {}; }
+}
+function loadGlossary() {
+  try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/glossary.json'), 'utf8').replace(/^﻿/, '')); } catch (e) { return {}; }
+}
+function loadBank() {
+  const w = loadWords();
+  const g = loadGlossary();
+  const merged = {};
+  const merge = (k, wb, gb) => { merged[k] = { ph: (wb && wb.ph) || (gb && gb.p) || '', zh: (wb && wb.zh && wb.zh.trim()) ? wb.zh : ((gb && gb.t) || ''), en: (wb && wb.en) || (gb && gb.en) || '' }; };
+  for (const k in w) merge(k, w[k], g[k]);
+  for (const k in g) if (!merged[k]) merge(k, null, g[k]);
+  return merged;
 }
 
 // 稳定 id：由链接/标题派生，保证手机与电脑两端对同一条文章识别一致（已读状态才能同步）
@@ -89,21 +102,24 @@ function buildVocab(text, bank) {
     seen.add(ww);
     const wb = bank[ww];
     out.push({ w: ww, p: (wb && wb.ph) || '', t: (wb && wb.zh) || '', en: (wb && wb.en) || '', lv: '阅读生词' });
-    if (out.length >= 14) return;
+    if (out.length >= 30) return;
   });
   return out;
 }
 
-// 本地词库无中文/英文释义的生词，调 DeepSeek 批量补，并回写词库（下次快查、省 token）
-async function enrichVocab(vocab, bank) {
-  const need = vocab.filter((v) => !v.t && !v.en);
+// 生词只要缺中文就调 DeepSeek 补（含「有英文没中文」的词，从源头消除空中文）
+// 补完同时沉淀进 glossary.json（全局复用，下次不再重复调用 DeepSeek）
+async function enrichVocab(vocab, bank, glossary) {
+  const need = vocab.filter((v) => !v.t || !v.t.trim());
   if (!need.length) return;
   const map = await translateWords(need.map((v) => v.w));
   need.forEach((v) => {
     const r = map[v.w];
     if (r) {
-      v.p = r.p || v.p; v.t = r.t || v.t; v.en = r.en || v.en;
-      bank[v.w] = { ph: v.p, zh: v.t, en: v.en };
+      v.p = v.p || r.p || '';
+      v.t = r.t || v.t;
+      v.en = v.en || r.en || '';
+      if (glossary) glossary[v.w] = { p: v.p, t: v.t, en: v.en };
     }
   });
 }
@@ -135,6 +151,7 @@ async function main() {
   const cfg = readJson('data/reading-sources.json');
   if (!cfg || !cfg.sources) { console.error('X 未找到 data/reading-sources.json'); process.exit(1); }
   const bank = loadBank();
+  const glossary = loadGlossary();
   const feed = readFeed();
   let readings = feed.readings || [];
   // 迁移：首次运行时把现有（手写）阅读标记为 curated，避免被滚动窗口清掉；无 id 的补稳定 id（跨设备状态可对应）
@@ -158,7 +175,7 @@ async function main() {
     }
     if (!pick) { console.log('  - ' + src.name + '：暂无新文章'); continue; }
     const vocab = buildVocab(pick.desc, bank);
-    await enrichVocab(vocab, bank);
+    await enrichVocab(vocab, bank, glossary);
     const plain = String(pick.desc || '').replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n').trim();
     let cn = '', phrases = [];
     try {
@@ -200,8 +217,8 @@ async function main() {
   while (auto.length > MAX_AUTO) auto.pop();
 
   feed.readings = curated.concat(auto);
-  // 回写词库（累积新词，下次不重复调用 DeepSeek）
-  writeJson('data/words.json', bank);
+  // 回写全局中文词典（累积每日新词，下次复用、省 token；words.json 保持原样由 glossary 兜底）
+  writeJson('data/glossary.json', glossary);
 
   if (DRY) {
     console.log('\n[DRY] 将写入 ' + add.length + ' 篇新阅读；curated=' + curated.length + ', auto=' + auto.length);
