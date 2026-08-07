@@ -44,19 +44,20 @@ function extractJSON(s) {
   try { return JSON.parse(m[0]); } catch (e) { throw new Error('JSON 解析失败: ' + s.slice(0, 160)); }
 }
 
-async function askDeepSeek(userPrompt, sys = SYS) {
+async function askDeepSeek(userPrompt, sys = SYS, useJson = true) {
+  const body = {
+    model: 'deepseek-chat',
+    messages: [
+      { role: 'system', content: sys },
+      { role: 'user', content: userPrompt },
+    ],
+    temperature: 0.7,
+  };
+  if (useJson) body.response_format = { type: 'json_object' };
   const r = await fetch('https://api.deepseek.com/chat/completions', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + KEY },
-    body: JSON.stringify({
-      model: 'deepseek-chat',
-      messages: [
-        { role: 'system', content: sys },
-        { role: 'user', content: userPrompt },
-      ],
-      temperature: 0.7,
-      response_format: { type: 'json_object' },
-    }),
+    body: JSON.stringify(body),
     signal: AbortSignal.timeout(60000),
   });
   if (!r.ok) { const t = await r.text(); throw new Error('DeepSeek HTTP ' + r.status + ' ' + t.slice(0, 300)); }
@@ -66,10 +67,10 @@ async function askDeepSeek(userPrompt, sys = SYS) {
   return content;
 }
 
-async function askWithRetry(prompt, sys = SYS, n = 3) {
+async function askWithRetry(prompt, sys = SYS, n = 3, useJson = true) {
   let last;
   for (let i = 0; i < n; i++) {
-    try { return await askDeepSeek(prompt, sys); }
+    try { return await askDeepSeek(prompt, sys, useJson); }
     catch (e) { last = e; await new Promise((r) => setTimeout(r, 1500 * (i + 1))); }
   }
   throw last;
@@ -138,7 +139,7 @@ export async function translateFullText(plainText) {
   const parts = [];
   for (const c of chunks) {
     try {
-      const out = await askWithRetry(`你是专业翻译。把下面这段英文翻译成通顺地道的中文，保持段落结构，用"##段落"分隔原段落，只输出译文，不要任何解释。\n\n${c}`);
+      const out = await askWithRetry(`你是专业翻译。把下面这段英文翻译成通顺地道的中文，保持段落结构，用"##段落"分隔原段落，只输出译文，不要任何解释。\n\n${c}`, undefined, 3, false);
       parts.push(out.trim());
     } catch (e) {
       parts.push('（本段翻译失败）');
