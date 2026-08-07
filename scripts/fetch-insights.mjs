@@ -31,6 +31,13 @@ function clean(s) {
 }
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
 
+// 内容兜底路由：涉及「电子烟 / 烟草 / 尼古丁替代」的只归行业资讯(news)，若误入专业提升则丢弃，由 news 源补充。
+const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟/i;
+function isTobacco(it) {
+  const s = [it.title, it.summary, it.desc, it.source, it.origin].filter(Boolean).join(' ');
+  return TOBACCO_RE.test(s);
+}
+
 async function getText(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -130,6 +137,8 @@ function readFeed() {
           const add = [];
           for (const it of items) {
             if (seen.has(it.link)) continue;
+            // 内容兜底：涉及烟草/电子烟的内容不归入专业提升（应属行业资讯），直接丢弃由 news 源补充
+            if (isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 含烟草/电子烟内容，不归入专业提升（应属行业资讯）`); continue; }
             const lq = linkQuality(it.link);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
             const summary = await deriveSummary(it.link, it.desc);
