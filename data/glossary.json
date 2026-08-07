@@ -8148,5 +8148,365 @@
     "p": "/θɪn/",
     "t": "薄的；稀薄的",
     "en": "having little thickness or density"
+  },
+  "sodium": {
+    "p": "/ˈsəʊdiəm/",
+    "t": "钠",
+    "en": "A soft, silver-white metallic element"
+  },
+  "lithium": {
+    "p": "/ˈlɪθiəm/",
+    "t": "锂",
+    "en": "A soft, silver-white metallic element"
+  },
+  "plume": {
+    "p": "/pluːm/",
+    "t": "羽状物；烟柱",
+    "en": "A column of smoke, gas, or vapor"
+  },
+  "kilometres": {
+    "p": "/ˈkɪləmiːtəz/",
+    "t": "千米（复数）",
+    "en": "Units of length equal to 1,000 meters"
+  },
+  "created": {
+    "p": "/kriˈeɪtɪd/",
+    "t": "创造；引起",
+    "en": "Brought into existence; made"
+  },
+  "telescope": {
+    "p": "/ˈtelɪskəʊp/",
+    "t": "望远镜",
+    "en": "An optical instrument for viewing distant objects"
+  },
+  "captured": {
+    "p": "/ˈkæptʃəd/",
+    "t": "捕获；拍摄到",
+    "en": "Recorded or caught on camera"
+  },
+  "impact": {
+    "p": "/ˈɪmpækt/",
+    "t": "冲击；影响",
+    "en": "The force of a collision; effect"
+  },
+  "caused": {
+    "p": "/kɔːzd/",
+    "t": "导致",
+    "en": "Made something happen"
+  },
+  "slamming": {
+    "p": "/ˈslæmɪŋ/",
+    "t": "猛撞",
+    "en": "Hitting with force"
+  },
+  "travelling": {
+    "p": "/ˈtrævəlɪŋ/",
+    "t": "旅行；行进",
+    "en": "Moving from one place to another"
+  },
+  "observed": {
+    "p": "/əbˈzɜːvd/",
+    "t": "观察到",
+    "en": "Noticed or watched carefully"
+  },
+  "spectral": {
+    "p": "/ˈspektrəl/",
+    "t": "光谱的",
+    "en": "Relating to a spectrum"
+  },
+  "lines": {
+    "p": "/laɪnz/",
+    "t": "线条；谱线",
+    "en": "Narrow marks; in spectroscopy, discrete wavelengths"
+  },
+  "colourful": {
+    "p": "/ˈkʌləfl/",
+    "t": "色彩丰富的",
+    "en": "Having many colors"
+  },
+  "illustration": {
+    "p": "/ˌɪləˈstreɪʃn/",
+    "t": "插图；例证",
+    "en": "A picture or diagram; an example"
+  },
+  "stirred": {
+    "p": "/stɜːd/",
+    "t": "激起；搅动",
+    "en": "Moved or agitated; aroused"
+  },
+  "trading": {
+    "p": "/ˈtreɪdɪŋ/",
+    "t": "交易；贸易",
+    "en": "the activity of buying and selling goods or services"
+  },
+  "gossip": {
+    "p": "/ˈɡɒsɪp/",
+    "t": "流言蜚语；八卦",
+    "en": "casual or unconstrained conversation about other people, typically involving details that are not confirmed as true"
+  },
+  "scoops": {
+    "p": "/skuːps/",
+    "t": "独家新闻；抢先报道",
+    "en": "news reported by a newspaper or broadcaster before its rivals"
+  },
+  "bureau": {
+    "p": "/ˈbjʊərəʊ/",
+    "t": "局；办事处；新闻社",
+    "en": "an office or department for transacting particular business; a news agency's office"
+  },
+  "tabloids": {
+    "p": "/ˈtæblɔɪdz/",
+    "t": "小报；通俗小报",
+    "en": "newspapers with small pages, typically featuring sensational stories and photographs"
+  },
+  "twoman": {
+    "p": "/ˈtuːmən/",
+    "t": "两人团队；双人组合",
+    "en": "a team of two people working together"
+  },
+  "brought": {
+    "p": "/brɔːt/",
+    "t": "带来；引起（bring的过去式）",
+    "en": "past tense of bring; to cause to come with oneself"
+  },
+  "unconventional": {
+    "p": "/ˌʌnkənˈvenʃənl/",
+    "t": "非常规的；不依惯例的",
+    "en": "not following what is done or considered normal or usual"
+  },
+  "reporting": {
+    "p": "/rɪˈpɔːtɪŋ/",
+    "t": "报道；报告",
+    "en": "the act of giving an account or news about something"
+  },
+  "style": {
+    "p": "/staɪl/",
+    "t": "风格；方式",
+    "en": "a manner of doing something, especially in writing or art"
+  },
+  "handheld": {
+    "p": "/ˈhændheld/",
+    "t": "手持的；便携的",
+    "en": "small enough to be held in the hand"
+  },
+  "wearable": {
+    "p": "/ˈweərəbl/",
+    "t": "可穿戴的；穿戴物",
+    "en": "designed to be worn on the body"
+  },
+  "misting": {
+    "p": "/ˈmɪstɪŋ/",
+    "t": "喷雾；喷水",
+    "en": "spraying fine droplets of liquid"
+  },
+  "sweltering": {
+    "p": "/ˈsweltərɪŋ/",
+    "t": "闷热的；酷热的",
+    "en": "extremely hot and uncomfortable"
+  },
+  "summer": {
+    "p": "/ˈsʌmə/",
+    "t": "夏天；夏季",
+    "en": "the warmest season of the year"
+  },
+  "coolest": {
+    "p": "/ˈkuːlɪst/",
+    "t": "最酷的；最凉爽的",
+    "en": "most trendy or most cold in temperature"
+  },
+  "werent": {
+    "p": "/wɜːnt/",
+    "t": "（were not 的缩写）不是",
+    "en": "contraction of were not"
+  },
+  "provided": {
+    "p": "/prəˈvaɪdɪd/",
+    "t": "提供；假如",
+    "en": "supplied or made available; if, on condition that"
+  },
+  "latest": {
+    "p": "/ˈleɪtɪst/",
+    "t": "最新的，最近的",
+    "en": "most recent or up-to-date"
+  },
+  "actions": {
+    "p": "/ˈækʃənz/",
+    "t": "行动，行为",
+    "en": "things done; deeds"
+  },
+  "constitutional": {
+    "p": "/ˌkɒnstɪˈtjuːʃənl/",
+    "t": "宪法的；体质的",
+    "en": "relating to a constitution; relating to one's physical constitution"
+  },
+  "genetic": {
+    "p": "/dʒəˈnetɪk/",
+    "t": "遗传的；基因的",
+    "en": "relating to genes or heredity"
+  },
+  "reaction": {
+    "p": "/riˈækʃn/",
+    "t": "反应；回应",
+    "en": "a response to something"
+  },
+  "spine": {
+    "p": "/spaɪn/",
+    "t": "脊柱；脊椎",
+    "en": "the series of vertebrae forming the backbone"
+  },
+  "shock": {
+    "p": "/ʃɒk/",
+    "t": "冲击；震惊",
+    "en": "a sudden violent blow or surprise"
+  },
+  "absorbers": {
+    "p": "/əbˈzɔːbəz/",
+    "t": "吸收器；减震器",
+    "en": "devices that absorb energy or impact"
+  },
+  "harden": {
+    "p": "/ˈhɑːdn/",
+    "t": "变硬；硬化",
+    "en": "to become or make hard"
+  },
+  "deteriorate": {
+    "p": "/dɪˈtɪəriəreɪt/",
+    "t": "恶化；退化",
+    "en": "to become progressively worse"
+  },
+  "faulty": {
+    "p": "/ˈfɔːlti/",
+    "t": "有缺陷的；错误的",
+    "en": "having faults or errors; defective"
+  },
+  "collagenrelated": {
+    "p": "/ˈkɒlədʒən rɪˈleɪtɪd/",
+    "t": "与胶原蛋白相关的",
+    "en": "connected to collagen, a protein in connective tissue"
+  },
+  "developed": {
+    "p": "/dɪˈveləpt/",
+    "t": "发展；开发；发达",
+    "en": "past of develop; advanced or grown"
+  },
+  "mineral": {
+    "p": "/ˈmɪnərəl/",
+    "t": "矿物质；矿物",
+    "en": "a naturally occurring inorganic substance"
+  },
+  "buildup": {
+    "p": "/ˈbɪldʌp/",
+    "t": "积累；增加",
+    "en": "an accumulation or increase over time"
+  },
+  "spinal": {
+    "p": "/ˈspaɪnl/",
+    "t": "脊柱的；脊髓的",
+    "en": "relating to the spine"
+  },
+  "fusion": {
+    "p": "/ˈfjuːʒn/",
+    "t": "融合；熔合",
+    "en": "the process of joining together"
+  },
+  "similar": {
+    "p": "/ˈsɪmələ(r)/",
+    "t": "相似的；类似的",
+    "en": "resembling but not identical"
+  },
+  "reduce": {
+    "p": "/rɪˈdjuːs/",
+    "t": "减少；降低",
+    "en": "to make smaller or less"
+  },
+  "damage": {
+    "p": "/ˈdæmɪdʒ/",
+    "t": "损害；损伤",
+    "en": "harm or injury"
+  },
+  "osteoporosis": {
+    "p": "/ˌɒstiəʊpəˈrəʊsɪs/",
+    "t": "骨质疏松症",
+    "en": "a condition of fragile bones due to loss of tissue"
+  },
+  "targeting": {
+    "p": "/ˈtɑːɡɪtɪŋ/",
+    "t": "瞄准；针对",
+    "en": "aiming at a specific target"
+  },
+  "metabolism": {
+    "p": "/məˈtæbəlɪzəm/",
+    "t": "新陈代谢",
+    "en": "chemical processes in living organisms for life"
+  },
+  "points": {
+    "p": "/pɔɪnts/",
+    "t": "点；要点；指向",
+    "en": "plural of point; specific locations or ideas"
+  },
+  "exciting": {
+    "p": "/ɪkˈsaɪtɪŋ/",
+    "t": "令人兴奋的",
+    "en": "causing great enthusiasm or eagerness"
+  },
+  "possibilities": {
+    "p": "/ˌpɒsəˈbɪlətiz/",
+    "t": "可能性",
+    "en": "plural of possibility; things that may happen"
+  },
+  "treatments": {
+    "p": "/ˈtriːtmənts/",
+    "t": "治疗；处理方法",
+    "en": "medical care or ways of dealing with something"
+  },
+  "tracked": {
+    "p": "/trækt/",
+    "t": "追踪的；被跟踪的",
+    "en": "followed or monitored"
+  },
+  "eavesdropped": {
+    "p": "/ˈiːvzdrɒpt/",
+    "t": "偷听；窃听",
+    "en": "secretly listened to"
+  },
+  "reporter": {
+    "p": "/rɪˈpɔːtə(r)/",
+    "t": "记者；通讯员",
+    "en": "person who reports news"
+  },
+  "vulnerabilities": {
+    "p": "/ˌvʌlnərəˈbɪlətiz/",
+    "t": "脆弱性；漏洞",
+    "en": "weaknesses or flaws"
+  },
+  "plastic": {
+    "p": "/ˈplæstɪk/",
+    "t": "塑料的；塑料",
+    "en": "synthetic material; made of plastic"
+  },
+  "smartwatch": {
+    "p": "/ˈsmɑːtwɒtʃ/",
+    "t": "智能手表",
+    "en": "a watch with digital features"
+  },
+  "deeply": {
+    "p": "/ˈdiːpli/",
+    "t": "深深地；深刻地",
+    "en": "to a great depth or extent"
+  },
+  "insecure": {
+    "p": "/ˌɪnsɪˈkjʊə(r)/",
+    "t": "不安全的；缺乏安全感的",
+    "en": "not safe; lacking confidence"
+  },
+  "supply": {
+    "p": "/səˈplaɪ/",
+    "t": "供应；供给",
+    "en": "provide or make available"
+  },
+  "gadgets": {
+    "p": "/ˈɡædʒɪts/",
+    "t": "小工具；小装置",
+    "en": "small devices or tools"
   }
 }
