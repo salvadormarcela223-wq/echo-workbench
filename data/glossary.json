@@ -8508,5 +8508,335 @@
     "p": "/ˈɡædʒɪts/",
     "t": "小工具；小装置",
     "en": "small devices or tools"
+  },
+  "aviators": {
+    "p": "/ˈeɪvieɪtəz/",
+    "t": "飞行员；飞行器",
+    "en": "pilots; aircraft"
+  },
+  "photograph": {
+    "p": "/ˈfoʊtəɡræf/",
+    "t": "照片；拍照",
+    "en": "a picture made with a camera; to take a picture"
+  },
+  "flying": {
+    "p": "/ˈflaɪɪŋ/",
+    "t": "飞行；飞行的",
+    "en": "the act of moving through the air; relating to flight"
+  },
+  "altitude": {
+    "p": "/ˈæltɪtjuːd/",
+    "t": "海拔；高度",
+    "en": "height above sea level or ground"
+  },
+  "along": {
+    "p": "/əˈlɒŋ/",
+    "t": "沿着；顺着",
+    "en": "moving in a line beside or on something"
+  },
+  "solar": {
+    "p": "/ˈsoʊlə/",
+    "t": "太阳的；太阳能的",
+    "en": "relating to the sun or using its energy"
+  },
+  "eclipse": {
+    "p": "/ɪˈklɪps/",
+    "t": "日食；月食；遮蔽",
+    "en": "the blocking of light from one celestial body by another"
+  },
+  "lunch": {
+    "p": "/lʌntʃ/",
+    "t": "午餐",
+    "en": "a meal eaten in the middle of the day"
+  },
+  "climb": {
+    "p": "/klaɪm/",
+    "t": "攀登；爬升",
+    "en": "to go up or ascend"
+  },
+  "research": {
+    "p": "/rɪˈsɜːrtʃ/",
+    "t": "研究；调查",
+    "en": "systematic investigation to discover facts"
+  },
+  "plane": {
+    "p": "/pleɪn/",
+    "t": "飞机；平面",
+    "en": "an aircraft; a flat surface"
+  },
+  "western": {
+    "p": "/ˈwestən/",
+    "t": "西方的；西部的",
+    "en": "situated in or relating to the west"
+  },
+  "gently": {
+    "p": "/ˈdʒentli/",
+    "t": "温柔地；轻轻地",
+    "en": "in a mild, soft, or careful manner"
+  },
+  "curving": {
+    "p": "/ˈkɜːrvɪŋ/",
+    "t": "弯曲的；曲线",
+    "en": "bending or forming a curve"
+  },
+  "miles": {
+    "p": "/maɪlz/",
+    "t": "英里（复数）",
+    "en": "units of distance equal to 1.609 kilometers"
+  },
+  "coast": {
+    "p": "/koʊst/",
+    "t": "海岸；沿海地区",
+    "en": "the land next to the sea"
+  },
+  "mission": {
+    "p": "/ˈmɪʃən/",
+    "t": "任务；使命",
+    "en": "an important task or assignment"
+  },
+  "described": {
+    "p": "/dɪˈskraɪbd/",
+    "t": "描述；形容",
+    "en": "gave an account of in words"
+  },
+  "chasing": {
+    "p": "/ˈtʃeɪsɪŋ/",
+    "t": "追逐；追赶",
+    "en": "pursuing in order to catch"
+  },
+  "reality": {
+    "p": "/riˈæləti/",
+    "t": "现实；实际",
+    "en": "the state of things as they actually exist"
+  },
+  "cruises": {
+    "p": "/kruːzɪz/",
+    "t": "巡航；乘船游览",
+    "en": "sails or travels at a steady speed for pleasure"
+  },
+  "metres": {
+    "p": "/ˈmiːtəz/",
+    "t": "米（复数）",
+    "en": "units of length equal to 100 centimeters"
+  },
+  "shadow": {
+    "p": "/ˈʃædoʊ/",
+    "t": "阴影；影子",
+    "en": "a dark area made by blocking light"
+  },
+  "behind": {
+    "p": "/bɪˈhaɪnd/",
+    "t": "在……后面",
+    "en": "at the back of"
+  },
+  "crossing": {
+    "p": "/ˈkrɒsɪŋ/",
+    "t": "横穿；交叉口",
+    "en": "going across; a place where paths intersect"
+  },
+  "ocean": {
+    "p": "/ˈoʊʃən/",
+    "t": "海洋",
+    "en": "a large body of salt water"
+  },
+  "pilot": {
+    "p": "/ˈpaɪlət/",
+    "t": "飞行员；领航员",
+    "en": "a person who operates an aircraft"
+  },
+  "largest": {
+    "p": "/ˈlɑːrdʒɪst/",
+    "t": "最大的",
+    "en": "biggest in size or extent"
+  },
+  "fraction": {
+    "p": "/ˈfrækʃən/",
+    "t": "一小部分；分数",
+    "en": "a small part or proportion"
+  },
+  "obscured": {
+    "p": "/əbˈskjʊrd/",
+    "t": "遮蔽；使模糊",
+    "en": "hidden or made difficult to see"
+  },
+  "catches": {
+    "p": "/ˈkætʃɪz/",
+    "t": "抓住；捕捉",
+    "en": "seizes or captures; intercepts"
+  },
+  "including": {
+    "p": "/ɪnˈkluːdɪŋ/",
+    "t": "包括，包含",
+    "en": "having something as part of a group or total"
+  },
+  "eight": {
+    "p": "/eɪt/",
+    "t": "八",
+    "en": "the number 8"
+  },
+  "southern": {
+    "p": "/ˈsʌðən/",
+    "t": "南方的",
+    "en": "of or relating to the south"
+  },
+  "engraving": {
+    "p": "/ɪnˈɡreɪvɪŋ/",
+    "t": "雕刻；版画",
+    "en": "the art or process of cutting designs onto a hard surface"
+  },
+  "ostrich": {
+    "p": "/ˈɒstrɪtʃ/",
+    "t": "鸵鸟",
+    "en": "a large flightless bird with long legs"
+  },
+  "eggshells": {
+    "p": "/ˈeɡʃelz/",
+    "t": "蛋壳",
+    "en": "the outer covering of an egg"
+  },
+  "intricate": {
+    "p": "/ˈɪntrɪkət/",
+    "t": "错综复杂的",
+    "en": "very complicated or detailed"
+  },
+  "geometric": {
+    "p": "/ˌdʒiːəˈmetrɪk/",
+    "t": "几何的",
+    "en": "relating to geometry or its principles"
+  },
+  "organized": {
+    "p": "/ˈɔːɡənaɪzd/",
+    "t": "有组织的；有条理的",
+    "en": "arranged in a systematic way"
+  },
+  "previously": {
+    "p": "/ˈpriːviəsli/",
+    "t": "先前",
+    "en": "before the present time"
+  },
+  "realized": {
+    "p": "/ˈrɪəlaɪzd/",
+    "t": "意识到；实现",
+    "en": "became aware of; achieved"
+  },
+  "found": {
+    "p": "/faʊnd/",
+    "t": "发现；找到",
+    "en": "discovered or located"
+  },
+  "grids": {
+    "p": "/ɡrɪdz/",
+    "t": "网格",
+    "en": "patterns of parallel lines crossing at right angles"
+  },
+  "parallel": {
+    "p": "/ˈpærəlel/",
+    "t": "平行的",
+    "en": "extending in the same direction and equidistant at all points"
+  },
+  "angles": {
+    "p": "/ˈæŋɡlz/",
+    "t": "角度；角",
+    "en": "the space between two intersecting lines or surfaces"
+  },
+  "suggesting": {
+    "p": "/səˈdʒestɪŋ/",
+    "t": "暗示；表明",
+    "en": "implying or indicating something"
+  },
+  "designs": {
+    "p": "/dɪˈzaɪnz/",
+    "t": "设计；图案",
+    "en": "plans or drawings showing the form of something"
+  },
+  "followed": {
+    "p": "/ˈfɒləʊd/",
+    "t": "跟随；遵循",
+    "en": "came after or obeyed"
+  },
+  "improvised": {
+    "p": "/ˈɪmprəvaɪzd/",
+    "t": "即兴的",
+    "en": "done without prior planning"
+  },
+  "engravers": {
+    "p": "/ɪnˈɡreɪvəz/",
+    "t": "雕刻师",
+    "en": "people who cut designs onto surfaces"
+  },
+  "planned": {
+    "p": "/plænd/",
+    "t": "计划的",
+    "en": "arranged in advance"
+  },
+  "minds": {
+    "p": "/maɪndz/",
+    "t": "头脑；思想",
+    "en": "the faculty of thinking and reasoning"
+  },
+  "carving": {
+    "p": "/ˈkɑːvɪŋ/",
+    "t": "雕刻；雕刻品",
+    "en": "the act of cutting into a material to create a shape or design"
+  },
+  "possession": {
+    "p": "/pəˈzeʃn/",
+    "t": "占有；财产",
+    "en": "the state of owning or having something"
+  },
+  "digital": {
+    "p": "/ˈdɪdʒɪtl/",
+    "t": "数字的；数码的",
+    "en": "relating to or using signals or data represented by discrete values"
+  },
+  "assets": {
+    "p": "/ˈæsets/",
+    "t": "资产；财产",
+    "en": "items of value owned by a person or company"
+  },
+  "loved": {
+    "p": "/lʌvd/",
+    "t": "被爱的；心爱的",
+    "en": "held dear; cherished"
+  },
+  "discuss": {
+    "p": "/dɪˈskʌs/",
+    "t": "讨论",
+    "en": "talk about"
+  },
+  "starting": {
+    "p": "/ˈstɑːtɪŋ/",
+    "t": "开始",
+    "en": "beginning"
+  },
+  "uncover": {
+    "p": "/ʌnˈkʌvə/",
+    "t": "揭露",
+    "en": "reveal"
+  },
+  "repair": {
+    "p": "/rɪˈpeə/",
+    "t": "修理",
+    "en": "fix"
+  },
+  "prolong": {
+    "p": "/prəˈlɒŋ/",
+    "t": "延长",
+    "en": "extend"
+  },
+  "reawaken": {
+    "p": "/ˌriːəˈweɪkən/",
+    "t": "重新唤醒",
+    "en": "awaken again"
+  },
+  "dormant": {
+    "p": "/ˈdɔːmənt/",
+    "t": "休眠的",
+    "en": "inactive"
+  },
+  "viruses": {
+    "p": "/ˈvaɪrəsɪz/",
+    "t": "病毒",
+    "en": "infectious agents"
   }
 }
