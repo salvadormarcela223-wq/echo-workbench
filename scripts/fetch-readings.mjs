@@ -58,6 +58,23 @@ function stripHtml(s) {
     .trim();
 }
 
+// Google News 代理源的 <link> 是 news.google.com 跳转地址，必须解成真实文章网址才能抓正文
+async function resolveRealUrl(url) {
+  if (!url || !/news\.google\.com/.test(url)) return url;
+  try {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 12000);
+    const r = await fetch(url, {
+      redirect: 'follow',
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36', 'Accept': 'text/html,*/*' },
+      signal: ctrl.signal,
+    });
+    clearTimeout(t);
+    if (r.url && r.url !== url && !/news\.google\.com/.test(r.url)) return r.url;
+    return url;
+  } catch (e) { return url; }
+}
+
 async function fetchText(url, timeoutMs) {
   timeoutMs = timeoutMs || 15000;
   const ctrl = new AbortController();
@@ -231,8 +248,8 @@ function buildBody(text, vocab) {
   const maxParas = Math.min(paras.length, paras.length > 10 ? 30 : 8);
   const body = paras.slice(0, maxParas).map((p) => '<p>' + p.trim() + '</p>').join('\n');
   for (const v of vocab) {
-    const re = new RegExp('\\b(' + v.w + ')\\b', 'i');
-    if (re.test(body)) body.replace(re, '<u>' + '$1' + '</u>');
+    const re = new RegExp('\\b(' + v.w + ')\\b', 'gi');
+    body = body.replace(re, '<u>' + '$1' + '</u>');
   }
   return body.split('\n').filter(Boolean); // 数组：前端直接 join，避免字符串 .join() 崩溃
 }
@@ -283,6 +300,7 @@ async function main() {
 
     // ★ 核心改动：去原文网页抓完整正文，不再只用 RSS 摘要
     let fullText = null;
+    pick.link = await resolveRealUrl(pick.link);   // 解 Google News 跳转 -> 真实文章网址
     if (pick.link && !pick.link.startsWith('data:')) {
       fullText = await fetchFullArticle(pick.link);
     }

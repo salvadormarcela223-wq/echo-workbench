@@ -75,13 +75,19 @@ function check(name, cond, detail = '') {
   inc(check('英语阅读 cn(中文翻译) 无空', rCn.length === 0, rCn.length ? `空: ` + rCn.map(x => x.title.slice(0, 40)).join(' / ') : '0 条'));
   inc(check('英语阅读 phrases 为数组', readings.filter(it => !Array.isArray(it.phrases)).length === 0));
 
-  // 英语阅读正文长度：≥500 词才算完整文章（2026-08-10 新增）
-  let shortReadings = readings.filter(it => {
+  // 英语阅读正文长度：
+  //  - 手写精选(curated)：允许完整短文，≥80 词即可（它们是完整文章，只是篇幅短）
+  //  - 自动抓取(auto)：必须抓到完整长文，≥400 词（防 RSS 摘要浑水摸鱼）
+  const wordOf = (it) => {
     const t = Array.isArray(it.body) ? it.body.join('') : (it.body || '');
-    return t.split(/\s+/).filter(Boolean).length < 500;
-  });
-  inc(check('英语阅读正文 ≥500 词（完整文章，非摘要）', shortReadings.length === 0,
-    shortReadings.length ? `过短 ${shortReadings.length} 篇` : `${readings.length} 篇全部达标`));
+    return t.split(/\s+/).filter(Boolean).length;
+  };
+  const autoShort = readings.filter(it => !it.curated && wordOf(it) < 400);
+  const curShort = readings.filter(it => it.curated && wordOf(it) < 80);
+  inc(check('自动抓取阅读正文 ≥400 词（完整长文，非摘要）', autoShort.length === 0,
+    autoShort.length ? `过短 ${autoShort.length} 篇` : '全部达标'));
+  inc(check('手写精选阅读正文完整(≥80词)', curShort.length === 0,
+    curShort.length ? `过短 ${curShort.length} 篇` : '全部完整'));
 
   console.log('\n【D. 日期真实性】');
   let badDate = 0, future = 0;

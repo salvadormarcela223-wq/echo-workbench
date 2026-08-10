@@ -1,12 +1,10 @@
 {
+  "_spec": "Mix 1（用户已确认）：5 篇 = 1 篇专业(感官科学) + 4 篇通识( TED 人文 / BBC 职场趋势 / Atlantic 城市 / Vox 心理 )。占比 专业:通识 = 1:4。偏职场商务、含出国旅行场景。",
   "sources": [
-    { "name": "Psyche", "cat": "心理与思维", "tag": "Psyche · 心理与思维", "url": "https://psyche.co/feed" },
-    { "name": "The Guardian Science", "cat": "科学与社会", "tag": "Guardian · 科学与社会", "url": "https://www.theguardian.com/science/rss" },
-    { "name": "Vox", "cat": "深度解读", "tag": "Vox · 深度解读", "url": "https://www.vox.com/rss/index.xml" },
-    { "name": "NPR", "cat": "社会与文化", "tag": "NPR · 社会与文化", "url": "https://feeds.npr.org/1001/rss.xml" },
-    { "name": "Aeon", "cat": "文化与人文", "tag": "Aeon · 文化与人文", "url": "https://aeon.co/feed" },
-    { "name": "Science Daily", "cat": "科学与自然", "tag": "Science Daily · 科学与自然", "url": "https://www.sciencedaily.com/rss/all.xml" },
-    { "name": "Wired", "cat": "科技与未来", "tag": "Wired · 科技与未来", "url": "https://www.wired.com/feed/rss" },
-    { "name": "Nature", "cat": "科学前沿", "tag": "Nature · 科学前沿", "url": "https://www.nature.com/nature.rss" }
+    { "name": "BBC Future", "cat": "专业 · 感官科学", "tag": "BBC Future · 感官科学", "professional": true, "url": "https://news.google.com/rss/search?q=site:bbc.com/future&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "TED", "cat": "TED · 人文", "tag": "TED · 人文", "professional": false, "url": "https://www.ted.com/feeds/talks.rss" },
+    { "name": "BBC Worklife", "cat": "BBC · 职场趋势", "tag": "BBC Worklife · 职场趋势", "professional": false, "url": "https://news.google.com/rss/search?q=site:bbc.com/worklife&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "The Atlantic", "cat": "Atlantic · 城市", "tag": "Atlantic · 城市", "professional": false, "url": "https://www.theatlantic.com/feed/all/" },
+    { "name": "Vox", "cat": "Vox · 心理", "tag": "Vox · 心理", "professional": false, "url": "https://www.vox.com/rss/index.xml" }
   ]
 }
