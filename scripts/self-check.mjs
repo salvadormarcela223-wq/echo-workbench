@@ -75,6 +75,14 @@ function check(name, cond, detail = '') {
   inc(check('英语阅读 cn(中文翻译) 无空', rCn.length === 0, rCn.length ? `空: ` + rCn.map(x => x.title.slice(0, 40)).join(' / ') : '0 条'));
   inc(check('英语阅读 phrases 为数组', readings.filter(it => !Array.isArray(it.phrases)).length === 0));
 
+  // 英语阅读正文长度：≥500 词才算完整文章（2026-08-10 新增）
+  let shortReadings = readings.filter(it => {
+    const t = Array.isArray(it.body) ? it.body.join('') : (it.body || '');
+    return t.split(/\s+/).filter(Boolean).length < 500;
+  });
+  inc(check('英语阅读正文 ≥500 词（完整文章，非摘要）', shortReadings.length === 0,
+    shortReadings.length ? `过短 ${shortReadings.length} 篇` : `${readings.length} 篇全部达标`));
+
   console.log('\n【D. 日期真实性】');
   let badDate = 0, future = 0;
   [...news, ...ins].forEach(it => {
