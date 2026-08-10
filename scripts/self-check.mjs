@@ -13,7 +13,7 @@ import path from 'path';
 import https from 'https';
 
 const LOCAL = process.argv.includes('--local');
-const API_URL = 'https://api.github.com/repos/salvadormarcela223-wq/echo-workbench/contents/data/feed.json?ref=master';
+const API_URL = 'https://raw.githubusercontent.com/salvadormarcela223-wq/echo-workbench/master/data/feed.json';
 const LOCAL_PATH = path.join(process.cwd(), 'data/feed.json');
 
 // 烟草类关键词（行业资讯专属）：覆盖烟草公司、凉味剂等边界概念
