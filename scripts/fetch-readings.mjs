@@ -1,8 +1,9 @@
 // 英语阅读「每日自动更新」流水线
-// 从多维度英文信源抓最新真实文章 -> 自动标生词(本地词库优先 + DeepSeek 补中文释义) -> 写回 feed。
+// 从多维度英文信源抓最新**完整文章**(非摘要) -> 自动标生词(本地词库优先 + DeepSeek 补中文释义) -> 写回 feed。
 // 设计原则：
 //   ① 内容多维(心理/科学/文化/科技/社会…)；② 每天至少新增 1 篇；③ 不覆盖手写精选(标记 curated)；
-//   ④ 生词必须有音标/中文释义/英文释义之一（本地词库优先，词库没有的用 DeepSeek 补，并回写词库）。
+//   ④ 生词必须有音标/中文释义/英文释义之一（本地词库优先，词库没有的用 DeepSeek 补，并回写词库）；
+//   ⑤ **必须抓完整文章正文（≥500 词），不能只拿 RSS 摘要。**
 import fs from 'fs';
 import path from 'path';
 import { translateWords, translateFullText, extractPhrases } from './ai-enrich.mjs';
@@ -58,18 +59,118 @@ function stripHtml(s) {
 }
 
 async function fetchText(url, timeoutMs) {
-  timeoutMs = timeoutMs || 12000;
+  timeoutMs = timeoutMs || 15000;
   const ctrl = new AbortController();
   const t = setTimeout(function () { ctrl.abort(); }, timeoutMs);
   try {
     const r = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; EchoWorkbench/1.0; +rss-reader)' },
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
       signal: ctrl.signal,
     });
     if (!r.ok) return null;
     return await r.text();
   } catch (e) { return null; }
   finally { clearTimeout(t); }
+}
+
+// ═══════════════════════════════════════════════════
+//  从文章原文网页抓取完整正文（非 RSS 摘要）
+//  多策略提取：article 标签 → 常见内容 class → schema.org → 启发式最长块
+// ═══════════════════════════════════════════════════
+const CONTENT_SELECTORS = [
+  'article',                           // HTML5 <article>
+  '[role="article"]',                  // ARIA role
+  '.article-body', '.post-content',   // 常见 CMS
+  '.entry-content', '.content-body',
+  '.article__body', '.post-body',
+  '.story-body', '.article-content',
+  '#article-body',
+  // 特定网站
+  '.article-text',                    // Aeon/Psyche
+  '.wysiwyg--article',                // Wired
+  '.body__inner-container',           // Nature
+  '.c-article-body',                  // Vox
+  '.content__article-body',           // Guardian
+];
+
+function extractArticleHtml(html) {
+  // 策略1: <article> 标签
+  let m = html.match(/<article[\s\S]*?<\/article>/i);
+  if (m && m[0].length > 500) return cleanArticleHtml(m[0]);
+
+  // 策略2: 常见内容选择器（用正则模拟 DOM 查询）
+  for (const sel of CONTENT_SELECTORS) {
+    if (sel.startsWith('.')) {
+      const cls = sel.slice(1);
+      // 匹配 class 包含该名称的 div/section/main
+      const re = new RegExp('<(?:div|section|main|aside)[^>]*class="[^"]*\\b' + cls + '\\b[^"]*"[^>]*>([\\s\\S]{200,})<\\/\\1>', 'i');
+      m = html.match(re);
+      if (m && m[0].length > 500) return cleanArticleHtml(m[0]);
+    }
+  }
+
+  // 策略3: schema.org Article 或 NewsArticle 的 articleBody
+  m = html.match(/"articleBody"\s*:\s*"((?:[^"\\]|\\.)*)"/);
+  if (m && m[1].length > 300) return m[1].replace(/\\n/g, '\n');
+
+  // 策略4: 启发式——找包含最多 <p> 标签的容器
+  const blocks = html.match(/<(?:div|section|main)[^>]*>([\s\S]{300,}?)<\/\1>/gi) || [];
+  let best = '', bestScore = 0;
+  for (const block of blocks) {
+    const pCount = (block.match(/<p[\s>]/g) || []).length;
+    const textLen = stripHtml(block).length;
+    const score = pCount * 10 + textLen;
+    if (score > bestScore) { bestScore = score; best = block; }
+  }
+  if (best.length > 500) return cleanArticleHtml(best);
+
+  return null;
+}
+
+function cleanArticleHtml(html) {
+  // 去掉 script/style/nav/header/footer/sidebar/广告等噪音
+  let out = html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<aside[\s\S]*?<\/aside>/gi, '')
+    .replace(/<figure[\s\S]*?<\/figure>/gi, '')       // 图片说明等
+    .replace(/<iframe[\s\S]*?<\/iframe>/gi, '')
+    .replace(/class="[^"]*(?:share|social|related|comment|newsletter|ad|promo|subscription|signup)[^"]*"[^>]*>[\s\S]*?<\/(div|span|ul|li)>/gi, '');
+  return out;
+}
+
+async function fetchFullArticle(articleUrl, timeoutMs) {
+  timeoutMs = timeoutMs || 15000;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    if (attempt > 0) { console.log('    ↻ 重试(', attempt + 1, '/2)...'); await new Promise(r => setTimeout(r, 3000)); }
+    console.log('    ↳ 抓取原文:', articleUrl.slice(0, 80));
+    const html = await fetchText(articleUrl, timeoutMs);
+    if (!html) continue;
+
+    const extracted = extractArticleHtml(html);
+    if (!extracted) {
+      console.log('    ⚠️ 无法从页面提取正文');
+      continue;
+    }
+
+    const plain = stripHtml(extracted);
+    const wordCount = plain.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 400) {
+      console.log('    ⚠️ 正文过短(', wordCount, '词)，丢弃');
+      continue;
+    }
+
+    console.log('    ✓ 提取到完整正文:', wordCount, '词');
+    return plain;
+  }
+  return null;
 }
 
 // 同时支持 RSS(<item>) 与 Atom(<entry>)；Atom 的 <link href="..."> 也要解析
@@ -125,11 +226,13 @@ async function enrichVocab(vocab, bank, glossary) {
 }
 
 function buildBody(text, vocab) {
-  const paras = String(text || '').split(/\n+/).filter((p) => p.trim().length > 40).slice(0, 4);
-  let body = paras.map((p) => '<p>' + p.trim() + '</p>').join('\n');
+  // 完整文章：最多 30 段（约 1500–2500 词的量）；短文保持原逻辑
+  const paras = String(text || '').split(/\n+/).filter((p) => p.trim().length > 40);
+  const maxParas = Math.min(paras.length, paras.length > 10 ? 30 : 8);
+  const body = paras.slice(0, maxParas).map((p) => '<p>' + p.trim() + '</p>').join('\n');
   for (const v of vocab) {
     const re = new RegExp('\\b(' + v.w + ')\\b', 'i');
-    if (re.test(body)) body = body.replace(re, '<u>' + '$1' + '</u>');
+    if (re.test(body)) body.replace(re, '<u>' + '$1' + '</u>');
   }
   return body.split('\n').filter(Boolean); // 数组：前端直接 join，避免字符串 .join() 崩溃
 }
@@ -162,7 +265,10 @@ async function main() {
   const seen = new Set(auto.map((r) => r.link).filter(Boolean));
 
   const candidates = [];
-  for (const src of cfg.sources) {
+  for (let si = 0; si < cfg.sources.length; si++) {
+    const src = cfg.sources[si];
+    // 防限流：每个信源之间等 2 秒
+    if (si > 0) { await new Promise(r => setTimeout(r, 2000)); }
     const xml = await fetchText(src.url);
     if (!xml) { console.log('  - 跳过 ' + src.name + '：抓取失败'); continue; }
     const items = parseItems(xml);
@@ -170,18 +276,33 @@ async function main() {
     for (const it of items) {
       if (seen.has(it.link)) continue;
       if (curated.some((c) => c.link === it.link)) continue;
-      if (it.desc.length < 60) continue;
+      if (it.desc.length < 60) continue;   // RSS 摘要太短说明可能不是正经文章
       pick = it; break;
     }
     if (!pick) { console.log('  - ' + src.name + '：暂无新文章'); continue; }
-    const vocab = buildVocab(pick.desc, bank);
+
+    // ★ 核心改动：去原文网页抓完整正文，不再只用 RSS 摘要
+    let fullText = null;
+    if (pick.link && !pick.link.startsWith('data:')) {
+      fullText = await fetchFullArticle(pick.link);
+    }
+    // 如果全文抓取失败，回退到 RSS 摘要（但标记为短文）
+    const articleText = fullText || stripHtml(pick.desc).replace(/\n{2,}/g, '\n').trim();
+    const wordCount = articleText.split(/\s+/).filter(Boolean).length;
+
+    // 质量门槛：正文少于 400 词的不要（除非是 curated 手写精选）
+    if (!fullText && wordCount < 400) {
+      console.log('  - ' + src.name + '：「' + pick.title.slice(0, 30) + '」仅', wordCount, '词，跳过');
+      continue;
+    }
+
+    const vocab = buildVocab(articleText, bank);
     await enrichVocab(vocab, bank, glossary);
-    const plain = String(pick.desc || '').replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n').trim();
     let cn = '', phrases = [];
     try {
-      if (plain && plain.length >= 20) {
-        cn = await translateFullText(plain);
-        phrases = await extractPhrases(plain);
+      if (articleText.length >= 20) {
+        cn = await translateFullText(articleText);
+        phrases = await extractPhrases(articleText);
         console.log('  ✓ 已生成中文翻译(' + cn.length + '字)与地道表达(' + phrases.length + '个)');
       }
     } catch (e) {
@@ -196,10 +317,10 @@ async function main() {
       curated: false,
       link: pick.link,
       date: pick.pub || new Date().toISOString().slice(0, 10),
-      body: buildBody(pick.desc, vocab),
+      body: buildBody(articleText, vocab),
       cn: cn,
       phrases: phrases,
-      minutes: Math.max(3, Math.min(10, Math.round(String(pick.desc || '').replace(/<[^>]+>/g, '').split(/\s+/).filter(Boolean).length / 120))),
+      minutes: Math.max(5, Math.min(15, Math.round(wordCount / 180))),  // 按实际词数估算阅读时间
       vocab: vocab,
     };
     candidates.push({ src: src.name, entry: entry });
