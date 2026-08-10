@@ -89,6 +89,24 @@ function check(name, cond, detail = '') {
   inc(check('手写精选阅读正文完整(≥80词)', curShort.length === 0,
     curShort.length ? `过短 ${curShort.length} 篇` : '全部完整'));
 
+  // ═══ 阅读信源覆盖（Mix1 占比铁律）：必须凑齐全部信源，且含专业源 ═══
+  let srcCfg = { sources: [] };
+  try { srcCfg = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/reading-sources.json'), 'utf8')); } catch (e) {}
+  const srcNames = (srcCfg.sources || []).map(s => s.name);
+  const profSrc = (srcCfg.sources || []).filter(s => s.professional).map(s => s.name);
+  const readingSrcs = [...new Set(readings.map(r => r.source || r.tag))];
+  const missingSrc = srcNames.filter(n => !readingSrcs.includes(n));
+  inc(check(`英语阅读覆盖全部信源(${srcNames.length}源 Mix1)`, missingSrc.length === 0,
+    missingSrc.length ? (`缺: ` + missingSrc.join(' / ')) : '全部覆盖'));
+  const profCount = readings.filter(r => profSrc.includes(r.source || r.tag)).length;
+  inc(check('英语阅读含专业源(1专业:4通识)', profCount >= 1,
+    profCount ? (`专业源 ${profCount} 篇`) : (`缺少专业源(${profSrc.join('/')})`)));
+  // 生词中文释义覆盖（防"生词全英文"浑水摸鱼）
+  const vocTotal = readings.reduce((n, r) => n + (r.vocab || []).length, 0);
+  const vocNoZh = readings.reduce((n, r) => n + (r.vocab || []).filter(v => !v.t || !String(v.t).trim()).length, 0);
+  inc(check('英语阅读生词均有中文释义', vocNoZh === 0,
+    vocNoZh ? (`缺中文 ${vocNoZh} 个`) : `全部有中文(${vocTotal}个)`));
+
   console.log('\n【D. 日期真实性】');
   let badDate = 0, future = 0;
   [...news, ...ins].forEach(it => {

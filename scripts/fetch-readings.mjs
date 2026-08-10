@@ -52,11 +52,14 @@ function dec(s) {
     .replace(/&amp;/g, '&');
 }
 function stripHtml(s) {
-  return dec(String(s || ''))
-    .replace(/<[^>]+>/g, ' ')
+  let t = String(s || '');
+  t = t.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1'); // Atom/CDATA 包裹
+  t = dec(t);
+  t = t.replace(/<[^>]+>/g, ' ')
     .replace(/[ \t]+/g, ' ')
     .replace(/\n\s*\n+/g, '\n')
     .trim();
+  return t;
 }
 
 // Google News 代理源的 <link> 是 news.google.com 跳转地址，必须解成真实文章网址才能抓正文
@@ -198,8 +201,12 @@ function parseItems(xml) {
   for (const block of blocks) {
     const g = (tag) => { const rr = new RegExp('<' + tag + '[^>]*>([\\s\\S]*?)</' + tag + '>', 'i'); const mm = block.match(rr); return mm ? mm[1] : ''; };
     let title = stripHtml(g('title'));
-    let link = dec(stripHtml(g('link') || g('guid'))).trim();
-    if (!link) { const lm = block.match(/<link[^>]+href="([^"]+)"/i); if (lm) link = lm[1].trim(); }
+    // Atom 自闭合链接 <link rel="alternate" type="text/html" href="URL"/>：
+    // 优先抓 rel="alternate" 的文章真实网址；退而求其次抓任意带 href 的 <link>；最后回退 link/guid 文本
+    let link = '';
+    const lh = block.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/i) || block.match(/<link[^>]*href="([^"]+)"/i);
+    if (lh) link = lh[1].trim();
+    if (!link) link = dec(stripHtml(g('link') || g('guid'))).trim();
     const desc = stripHtml(g('description') || g('content:encoded') || g('content') || g('summary'));
     const pub = (g('pubDate') || g('dc:date') || g('updated') || g('published') || '').trim();
     if (title && link) items.push({ title, link, desc, pub });

@@ -17,6 +17,7 @@
 | 3 | 行业资讯每日自动抓取 | ✅ | 流水线运行中（GitHub Actions） |
 | 4 | 专业提升每日自动抓取 | ✅ | 同上 |
 | 5 | 英语阅读每日自动抓取 | ✅ | 流水线运行中；源=Mix1 五源（BBC Future·专业感官 / TED·人文 / BBC Worklife·职场 / Atlantic·城市 / Vox·心理），每源每日 1 篇，天然维持「1 专业 : 4 通识」占比 |
+| 5b | **英语阅读须覆盖全部 5 信源（且含专业源 BBC Future）** | ❌ | 当前线上仅 TED+Vox（本地沙箱连不上 bbc.com/theatlantic.com 全文，被墙/403）；**解析 bug 已修**（自闭合 `<link>` 提取失败曾导致 Vox/Atlantic/BBC 整篇被丢弃），服务器（真实网络）今晚 8:30 任务会用修好的脚本补齐；用户也可在 Actions 点 Run workflow 立即触发 |
 | 6 | 所有内容挂 DeepSeek 解读，不得偷懒 | ✅ | news 的 summary/impact、insights 的 core/view/action、readings 的 cn/phrases 均由 AI 生成 |
 | 7 | 日期必须真实，绝不伪造 | ✅ | 无未来日期、无无效日期 |
 
@@ -69,4 +70,4 @@
 
 ---
 
-最后更新：2026-08-10（阅读改为 100% 自动抓取、删手写；自检 14/14 全过，线上已验证）
+最后更新：2026-08-10（修阅读解析 bug：自闭合 Atom `<link>` 提取失败，曾致 Vox/Atlantic/BBC 整篇被丢弃；补 Vox 全文+生词中文；自检增至 17 项，新增「覆盖全部5源+含专业源+生词有中文」硬检查，当前线上因本地连不上 BBC/Atlantic 而 15/17 过）

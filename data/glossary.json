@@ -10208,5 +10208,6760 @@
     "p": "/ˈtiːmwɜːk/",
     "t": "团队合作",
     "en": "cooperative effort of a group"
+  },
+  "courtesy": {
+    "p": "/ˈkɜːrtəsi/",
+    "t": "礼貌，谦恭",
+    "en": "politeness and respectful behavior"
+  },
+  "soccer": {
+    "p": "/ˈsɒkər/",
+    "t": "足球",
+    "en": "a game played with a round ball between two teams of eleven players"
+  },
+  "separates": {
+    "p": "/ˈsepəreɪts/",
+    "t": "分开，隔离",
+    "en": "to divide or keep apart"
+  },
+  "remaining": {
+    "p": "/rɪˈmeɪnɪŋ/",
+    "t": "剩余的",
+    "en": "left over or still present"
+  },
+  "billion": {
+    "p": "/ˈbɪljən/",
+    "t": "十亿",
+    "en": "the number 1,000,000,000"
+  },
+  "revolutionary": {
+    "p": "/ˌrevəˈluːʃəneri/",
+    "t": "革命性的，创新的",
+    "en": "involving or causing a complete or dramatic change"
+  },
+  "talents": {
+    "p": "/ˈtælənts/",
+    "t": "才能，天赋",
+    "en": "natural abilities or skills"
+  },
+  "foundation": {
+    "p": "/faʊnˈdeɪʃn/",
+    "t": "基础，地基",
+    "en": "the base on which something stands; an underlying principle"
+  },
+  "evolutionary": {
+    "p": "/ˌiːvəˈluːʃəneri/",
+    "t": "进化的，演变的",
+    "en": "relating to gradual development or change"
+  },
+  "tweaks": {
+    "p": "/twiːks/",
+    "t": "微调，调整",
+    "en": "small adjustments or modifications"
+  },
+  "develop": {
+    "p": "/dɪˈveləp/",
+    "t": "发展，开发",
+    "en": "to grow or cause to grow and become more advanced"
+  },
+  "compensating": {
+    "p": "/ˈkɒmpenseɪtɪŋ/",
+    "t": "补偿，弥补",
+    "en": "to make up for something lacking or to offset a loss"
+  },
+  "weaknesses": {
+    "p": "/ˈwiːknəsɪz/",
+    "t": "弱点，缺点",
+    "en": "the state of being weak; a flaw or limitation"
+  },
+  "anxieties": {
+    "p": "/æŋˈzaɪətiz/",
+    "t": "焦虑，担忧",
+    "en": "feelings of worry, nervousness, or unease"
+  },
+  "derail": {
+    "p": "/dɪˈreɪl/",
+    "t": "使出轨，使偏离轨道",
+    "en": "to cause to leave the tracks or to obstruct the progress of"
+  },
+  "lesser": {
+    "p": "/ˈlesər/",
+    "t": "较小的，较少的",
+    "en": "not as great in size, amount, or importance"
+  },
+  "brilliance": {
+    "p": "/ˈbrɪliəns/",
+    "t": "光辉，才华",
+    "en": "exceptional clarity or intelligence"
+  },
+  "though": {
+    "p": "/ðəʊ/",
+    "t": "虽然；不过",
+    "en": "despite the fact that; however"
+  },
+  "famously": {
+    "p": "/ˈfeɪməsli/",
+    "t": "著名地，众所周知地",
+    "en": "in a way that is well known or famous"
+  },
+  "habitually": {
+    "p": "/həˈbɪtʃuəli/",
+    "t": "习惯性地",
+    "en": "by habit; regularly"
+  },
+  "vomited": {
+    "p": "/ˈvɒmɪtɪd/",
+    "t": "呕吐",
+    "en": "to eject contents of the stomach through the mouth"
+  },
+  "matches": {
+    "p": "/ˈmætʃɪz/",
+    "t": "比赛，火柴",
+    "en": "games or contests; also small sticks for lighting fires"
+  },
+  "trophies": {
+    "p": "/ˈtroʊfiz/",
+    "t": "奖杯，奖品",
+    "en": "awards given for victory or achievement"
+  },
+  "awarded": {
+    "p": "/əˈwɔːrdɪd/",
+    "t": "授予，奖励",
+    "en": "to give or grant officially"
+  },
+  "goals": {
+    "p": "/ɡoʊlz/",
+    "t": "目标，进球",
+    "en": "aims or objectives; also points scored in sports"
+  },
+  "calendar": {
+    "p": "/ˈkælɪndər/",
+    "t": "日历，日程表",
+    "en": "a system for organizing days, months, and years"
+  },
+  "living": {
+    "p": "/ˈlɪvɪŋ/",
+    "t": "生活；生计",
+    "en": "the way in which one earns money or the state of being alive"
+  },
+  "alltime": {
+    "p": "/ˈɔːltaɪm/",
+    "t": "空前的，全部时间的",
+    "en": "of all time; ever"
+  },
+  "scorer": {
+    "p": "/ˈskɔːrər/",
+    "t": "得分者，射手",
+    "en": "a person who scores points or goals"
+  },
+  "highest": {
+    "p": "/ˈhaɪɪst/",
+    "t": "最高的",
+    "en": "greatest in height, degree, or amount"
+  },
+  "ratio": {
+    "p": "/ˈreɪʃioʊ/",
+    "t": "比率，比例",
+    "en": "the relationship between two amounts expressed as a fraction"
+  },
+  "scoring": {
+    "p": "/ˈskɔːrɪŋ/",
+    "t": "得分，评分",
+    "en": "the act of gaining points in a game or test"
+  },
+  "match": {
+    "p": "/mætʃ/",
+    "t": "比赛，匹配",
+    "en": "a contest or game; also to correspond"
+  },
+  "string": {
+    "p": "/strɪŋ/",
+    "t": "一串，线",
+    "en": "a series of things; a thin cord"
+  },
+  "disappointing": {
+    "p": "/ˌdɪsəˈpɔɪntɪŋ/",
+    "t": "令人失望的",
+    "en": "causing disappointment or sadness"
+  },
+  "nationalteam": {
+    "p": "/ˈnæʃnəl tiːm/",
+    "t": "国家队",
+    "en": "a team representing a country in international competitions"
+  },
+  "losses": {
+    "p": "/ˈlɒsɪz/",
+    "t": "损失，失败",
+    "en": "the act of losing; defeats"
+  },
+  "uncharitably": {
+    "p": "/ʌnˈtʃærɪtəbli/",
+    "t": "刻薄地，不宽容地",
+    "en": "in an unkind or ungenerous manner"
+  },
+  "criticized": {
+    "p": "/ˈkrɪtɪsaɪzd/",
+    "t": "批评，指责",
+    "en": "to express disapproval of someone or something"
+  },
+  "useless": {
+    "p": "/ˈjuːsləs/",
+    "t": "无用的",
+    "en": "having no use or value"
+  },
+  "toilet": {
+    "p": "/ˈtɔɪlət/",
+    "t": "厕所，马桶",
+    "en": "a fixture for defecation and urination"
+  },
+  "twenty": {
+    "p": "/ˈtwenti/",
+    "t": "二十",
+    "en": "the number 20"
+  },
+  "times": {
+    "p": "/taɪmz/",
+    "t": "次数，时代",
+    "en": "instances; also multiplied by"
+  },
+  "incredibly": {
+    "p": "/ɪnˈkredəbli/",
+    "t": "极其；难以置信地",
+    "en": "extremely; in an incredible way"
+  },
+  "talented": {
+    "p": "/ˈtæləntɪd/",
+    "t": "有才能的",
+    "en": "having natural aptitude or skill"
+  },
+  "doesn": {
+    "p": "/ˈdʌznt/",
+    "t": "不（does not的缩写）",
+    "en": "does not"
+  },
+  "immunize": {
+    "p": "/ˈɪmjunaɪz/",
+    "t": "使免疫",
+    "en": "to make immune to a disease"
+  },
+  "grapple": {
+    "p": "/ˈɡræpl/",
+    "t": "努力克服；搏斗",
+    "en": "to struggle with or handle"
+  },
+  "allowed": {
+    "p": "/əˈlaʊd/",
+    "t": "允许，准许",
+    "en": "to give permission or permit"
+  },
+  "diminish": {
+    "p": "/dɪˈmɪnɪʃ/",
+    "t": "减少，削弱",
+    "en": "to make or become less"
+  },
+  "mastered": {
+    "p": "/ˈmæstərd/",
+    "t": "掌握，精通",
+    "en": "to become skilled at something"
+  },
+  "coping": {
+    "p": "/ˈkoʊpɪŋ/",
+    "t": "应对，处理",
+    "en": "the process of dealing with difficulties"
+  },
+  "doubles": {
+    "p": "/ˈdʌbəlz/",
+    "t": "两倍，双打",
+    "en": "twice as much; also a form of tennis with two players per side"
+  },
+  "secret": {
+    "p": "/ˈsiːkrət/",
+    "t": "秘密，秘诀",
+    "en": "something kept hidden; a method known by few"
+  },
+  "tactical": {
+    "p": "/ˈtæktɪkəl/",
+    "t": "战术的，策略的",
+    "en": "relating to careful planning or maneuvers"
+  },
+  "calms": {
+    "p": "/kɑːmz/",
+    "t": "使平静",
+    "en": "to make quiet or tranquil"
+  },
+  "himself": {
+    "p": "/hɪmˈself/",
+    "t": "他自己",
+    "en": "reflexive form of him"
+  },
+  "scopes": {
+    "p": "/skoʊps/",
+    "t": "范围，视野",
+    "en": "the extent of ability or activity; also to look at"
+  },
+  "opposition": {
+    "p": "/ˌɒpəˈzɪʃn/",
+    "t": "反对，对手",
+    "en": "the act of opposing; the team or group against one"
+  },
+  "injury": {
+    "p": "/ˈɪndʒəri/",
+    "t": "伤害，损伤",
+    "en": "physical harm or damage"
+  },
+  "players": {
+    "p": "/ˈpleɪərz/",
+    "t": "运动员，玩家",
+    "en": "people who participate in a game or sport"
+  },
+  "minute": {
+    "p": "/ˈmɪnɪt/",
+    "t": "分钟，片刻",
+    "en": "a unit of time equal to 60 seconds; a brief moment"
+  },
+  "whistle": {
+    "p": "/ˈwɪsl/",
+    "t": "哨子，哨声",
+    "en": "a device that makes a shrill sound; the sound itself"
+  },
+  "blows": {
+    "p": "/bloʊz/",
+    "t": "吹，打击",
+    "en": "to move air; also strikes or hits"
+  },
+  "implore": {
+    "p": "/ɪmˈplɔːr/",
+    "t": "恳求，哀求",
+    "en": "to beg earnestly"
+  },
+  "teammates": {
+    "p": "/ˈtiːmmeɪts/",
+    "t": "队友",
+    "en": "fellow members of a team"
+  },
+  "pursue": {
+    "p": "/pərˈsuː/",
+    "t": "追求，追赶",
+    "en": "to follow or seek to attain"
+  },
+  "tactics": {
+    "p": "/ˈtæktɪks/",
+    "t": "战术，策略",
+    "en": "the art of using available means to achieve an end"
+  },
+  "coaches": {
+    "p": "/ˈkoʊtʃɪz/",
+    "t": "教练",
+    "en": "people who train or instruct athletes"
+  },
+  "playing": {
+    "p": "/ˈpleɪɪŋ/",
+    "t": "玩耍，参加比赛",
+    "en": "engaging in a game or activity"
+  },
+  "tweak": {
+    "p": "/twiːk/",
+    "t": "微调",
+    "en": "a small adjustment"
+  },
+  "played": {
+    "p": "/pleɪd/",
+    "t": "玩，比赛",
+    "en": "past tense of play"
+  },
+  "progressively": {
+    "p": "/prəˈɡresɪvli/",
+    "t": "逐渐地",
+    "en": "in a gradual manner"
+  },
+  "ambles": {
+    "p": "/ˈæmbəlz/",
+    "t": "漫步，缓行",
+    "en": "to walk at a slow, relaxed pace"
+  },
+  "forth": {
+    "p": "/fɔːrθ/",
+    "t": "向前，外出",
+    "en": "forward; onward in time or place"
+  },
+  "middle": {
+    "p": "/ˈmɪdl/",
+    "t": "中间，中部",
+    "en": "the central point or area"
+  },
+  "engages": {
+    "p": "/ɪnˈɡeɪdʒɪz/",
+    "t": "参与，吸引",
+    "en": "to occupy or involve oneself"
+  },
+  "sprint": {
+    "p": "/sprɪnt/",
+    "t": "冲刺，短跑",
+    "en": "to run at full speed over a short distance"
+  },
+  "spends": {
+    "p": "/spendz/",
+    "t": "花费，度过",
+    "en": "to use time or money"
+  },
+  "walking": {
+    "p": "/ˈwɔːkɪŋ/",
+    "t": "步行",
+    "en": "moving on foot at a moderate pace"
+  },
+  "breaking": {
+    "p": "/ˈbreɪkɪŋ/",
+    "t": "打破，中断",
+    "en": "the act of separating or causing to separate"
+  },
+  "ensuring": {
+    "p": "/ɪnˈʃʊə.rɪŋ/",
+    "t": "确保；保证",
+    "en": "present participle of ensure; to make certain"
+  },
+  "fully": {
+    "p": "/ˈfʊli/",
+    "t": "完全地；充分地",
+    "en": "completely; entirely"
+  },
+  "onfield": {
+    "p": "/ˈɒnfiːld/",
+    "t": "场上的",
+    "en": "occurring on the playing field"
+  },
+  "vomiting": {
+    "p": "/ˈvɒmɪtɪŋ/",
+    "t": "呕吐",
+    "en": "the act of ejecting stomach contents"
+  },
+  "resolved": {
+    "p": "/rɪˈzɒlvd/",
+    "t": "解决，决心",
+    "en": "to have settled or determined"
+  },
+  "nerves": {
+    "p": "/nɜːrvz/",
+    "t": "神经，紧张",
+    "en": "fibers that transmit impulses; also feelings of anxiety"
+  },
+  "scoping": {
+    "p": "/ˈskoʊpɪŋ/",
+    "t": "考察，评估",
+    "en": "the act of examining or analyzing"
+  },
+  "slowly": {
+    "p": "/ˈsloʊli/",
+    "t": "缓慢地",
+    "en": "at a slow speed"
+  },
+  "assessing": {
+    "p": "/əˈsesɪŋ/",
+    "t": "评估，评价",
+    "en": "the act of evaluating or estimating"
+  },
+  "opponents": {
+    "p": "/əˈpoʊnənts/",
+    "t": "对手",
+    "en": "people who compete against another"
+  },
+  "strengths": {
+    "p": "/streŋθs/",
+    "t": "优势，力量",
+    "en": "the quality of being strong; positive attributes"
+  },
+  "monitoring": {
+    "p": "/ˈmɒnɪtərɪŋ/",
+    "t": "监控，监测",
+    "en": "the act of observing and checking progress"
+  },
+  "movement": {
+    "p": "/ˈmuːvmənt/",
+    "t": "运动，移动",
+    "en": "the act of moving or changing position"
+  },
+  "early": {
+    "p": "/ˈɜːrli/",
+    "t": "早的，早期的",
+    "en": "before the usual or expected time"
+  },
+  "pause": {
+    "p": "/pɔːz/",
+    "t": "暂停，停顿",
+    "en": "a temporary stop or break"
+  },
+  "elevates": {
+    "p": "/ˈelɪveɪts/",
+    "t": "提升，抬高",
+    "en": "to raise or lift up"
+  },
+  "percent": {
+    "p": "/pərˈsent/",
+    "t": "百分之",
+    "en": "one part in every hundred"
+  },
+  "split": {
+    "p": "/splɪt/",
+    "t": "分裂，分开",
+    "en": "to divide or separate"
+  },
+  "preparatory": {
+    "p": "/prɪˈpærətɔːri/",
+    "t": "准备的，预备的",
+    "en": "serving to prepare"
+  },
+  "components": {
+    "p": "/kəmˈpoʊnənts/",
+    "t": "组成部分",
+    "en": "parts or elements of a whole"
+  },
+  "leans": {
+    "p": "/liːnz/",
+    "t": "倾斜，依靠",
+    "en": "to incline or rely on"
+  },
+  "heavily": {
+    "p": "/ˈhevɪli/",
+    "t": "沉重地，大量地",
+    "en": "with great weight or intensity"
+  },
+  "preparation": {
+    "p": "/ˌprepəˈreɪʃn/",
+    "t": "准备",
+    "en": "the action of making ready"
+  },
+  "archrivals": {
+    "p": "/ˈɑːrtʃraɪvəlz/",
+    "t": "主要对手",
+    "en": "chief competitors or enemies"
+  },
+  "eighty": {
+    "p": "/ˈeɪti/",
+    "t": "八十",
+    "en": "the number 80"
+  },
+  "ninety": {
+    "p": "/ˈnaɪnti/",
+    "t": "九十",
+    "en": "the number 90"
+  },
+  "dynamic": {
+    "p": "/daɪˈnæmɪk/",
+    "t": "动态的，有活力的",
+    "en": "characterized by constant change or energy"
+  },
+  "chances": {
+    "p": "/tʃænsɪz/",
+    "t": "机会，可能性",
+    "en": "opportunities or probabilities"
+  },
+  "feeding": {
+    "p": "/ˈfiːdɪŋ/",
+    "t": "喂养，供给",
+    "en": "the act of giving food or supplying"
+  },
+  "imagine": {
+    "p": "/ɪˈmædʒɪn/",
+    "t": "想象",
+    "en": "to form a mental image or concept"
+  },
+  "pausing": {
+    "p": "/ˈpɔːzɪŋ/",
+    "t": "暂停",
+    "en": "the act of stopping briefly"
+  },
+  "pattern": {
+    "p": "/ˈpætərn/",
+    "t": "模式，图案",
+    "en": "a repeated or regular arrangement"
+  },
+  "unusual": {
+    "p": "/ʌnˈjuːʒuəl/",
+    "t": "不寻常的",
+    "en": "not common or typical"
+  },
+  "games": {
+    "p": "/ɡeɪmz/",
+    "t": "游戏，比赛",
+    "en": "activities engaged in for fun or sport"
+  },
+  "accentuates": {
+    "p": "/əkˈsentʃueɪts/",
+    "t": "强调，突出",
+    "en": "to make more noticeable or prominent"
+  },
+  "ingame": {
+    "p": "/ˈɪnɡeɪm/",
+    "t": "比赛中的",
+    "en": "occurring during a game"
+  },
+  "ability": {
+    "p": "/əˈbɪləti/",
+    "t": "能力",
+    "en": "the power or skill to do something"
+  },
+  "positional": {
+    "p": "/pəˈzɪʃənl/",
+    "t": "位置的，职位的",
+    "en": "relating to position"
+  },
+  "otherworldly": {
+    "p": "/ˌʌðərˈwɜːrldli/",
+    "t": "超凡脱俗的",
+    "en": "belonging to another world; supernatural"
+  },
+  "miracle": {
+    "p": "/ˈmɪrəkl/",
+    "t": "奇迹",
+    "en": "an extraordinary event or achievement"
+  },
+  "defender": {
+    "p": "/dɪˈfendər/",
+    "t": "防守者，后卫",
+    "en": "a person who protects or defends"
+  },
+  "leaves": {
+    "p": "/liːvz/",
+    "t": "离开（第三人称单数）；树叶",
+    "en": "third person singular of leave; plural of leaf"
+  },
+  "square": {
+    "p": "/skwer/",
+    "t": "正方形，广场",
+    "en": "a shape with four equal sides; an open area in a town"
+  },
+  "uncovered": {
+    "p": "/ʌnˈkʌvərd/",
+    "t": "未覆盖的，暴露的",
+    "en": "not covered; exposed"
+  },
+  "midfielders": {
+    "p": "/ˈmɪdfiːldərz/",
+    "t": "中场球员",
+    "en": "players in the middle part of the field"
+  },
+  "gravitate": {
+    "p": "/ˈɡrævɪteɪt/",
+    "t": "被吸引",
+    "en": "to move toward something due to attraction"
+  },
+  "athletics": {
+    "p": "/æθˈletɪks/",
+    "t": "体育运动",
+    "en": "sports and games, especially track and field"
+  },
+  "broadly": {
+    "p": "/ˈbrɔːdli/",
+    "t": "广泛地",
+    "en": "in a wide or general manner"
+  },
+  "psychiatrist": {
+    "p": "/saɪˈkaɪətrɪst/",
+    "t": "精神病学家",
+    "en": "a medical doctor specializing in mental health"
+  },
+  "neuroscientist": {
+    "p": "/ˈnjʊəroʊsaɪəntɪst/",
+    "t": "神经科学家",
+    "en": "a scientist who studies the nervous system"
+  },
+  "thinking": {
+    "p": "/ˈθɪŋ.kɪŋ/",
+    "t": "思考；想法",
+    "en": "the process of considering or reasoning"
+  },
+  "fifteen": {
+    "p": "/ˌfɪfˈtiːn/",
+    "t": "十五",
+    "en": "the number 15"
+  },
+  "mindfulnessbased": {
+    "p": "/ˈmaɪndfəlnəs beɪst/",
+    "t": "基于正念的",
+    "en": "based on mindfulness practices"
+  },
+  "addiction": {
+    "p": "/əˈdɪkʃn/",
+    "t": "成瘾，瘾",
+    "en": "the condition of being addicted to a substance or activity"
+  },
+  "instructs": {
+    "p": "/ɪnˈstrʌkts/",
+    "t": "指导，指示",
+    "en": "to teach or give orders"
+  },
+  "addicts": {
+    "p": "/ˈædɪkts/",
+    "t": "成瘾者",
+    "en": "people who are addicted"
+  },
+  "waves": {
+    "p": "/weɪvz/",
+    "t": "波浪，挥手",
+    "en": "moving ridges on water; also gestures"
+  },
+  "craving": {
+    "p": "/ˈkreɪvɪŋ/",
+    "t": "渴望，强烈欲望",
+    "en": "a strong desire or longing"
+  },
+  "steps": {
+    "p": "/steps/",
+    "t": "步骤，台阶",
+    "en": "stages in a process; also stairs"
+  },
+  "acronym": {
+    "p": "/ˈækrənɪm/",
+    "t": "首字母缩略词",
+    "en": "a word formed from initial letters"
+  },
+  "ecognize": {
+    "p": "/ɪˈkɒɡnaɪz/",
+    "t": "认识，识别（拼写错误，应为recognize）",
+    "en": "to identify or know"
+  },
+  "arising": {
+    "p": "/əˈraɪzɪŋ/",
+    "t": "出现，产生",
+    "en": "to come into existence"
+  },
+  "nvestigate": {
+    "p": "/ɪnˈvestɪɡeɪt/",
+    "t": "调查（拼写错误，应为investigate）",
+    "en": "to examine thoroughly"
+  },
+  "emotions": {
+    "p": "/ɪˈmoʊʃənz/",
+    "t": "情感，情绪",
+    "en": "strong feelings"
+  },
+  "thoughts": {
+    "p": "/θɔːts/",
+    "t": "想法，思想",
+    "en": "ideas or opinions"
+  },
+  "inspired": {
+    "p": "/ɪnˈspaɪərd/",
+    "t": "受启发的，鼓舞的",
+    "en": "filled with inspiration or enthusiasm"
+  },
+  "clinical": {
+    "p": "/ˈklɪnɪkl/",
+    "t": "临床的，冷静的",
+    "en": "relating to the observation and treatment of patients; also detached"
+  },
+  "worked": {
+    "p": "/wɜːrkt/",
+    "t": "工作，起作用",
+    "en": "past tense of work; functioned"
+  },
+  "smokers": {
+    "p": "/ˈsmoʊkərz/",
+    "t": "吸烟者",
+    "en": "people who smoke"
+  },
+  "struggling": {
+    "p": "/ˈstrʌɡlɪŋ/",
+    "t": "挣扎，努力",
+    "en": "making forceful efforts to deal with difficulty"
+  },
+  "notoriously": {
+    "p": "/noʊˈtɔːriəsli/",
+    "t": "众所周知地，臭名昭著地",
+    "en": "in a way that is widely known, often for something bad"
+  },
+  "stubborn": {
+    "p": "/ˈstʌbərn/",
+    "t": "顽固的，固执的",
+    "en": "unreasonably determined to have one's own way"
+  },
+  "drugs": {
+    "p": "/drʌɡz/",
+    "t": "药物，毒品",
+    "en": "substances used for medical treatment or recreational purposes"
+  },
+  "unleashing": {
+    "p": "/ʌnˈliːʃɪŋ/",
+    "t": "释放，发动",
+    "en": "to release or set free"
+  },
+  "nonsmoker": {
+    "p": "/nɒnˈsmoʊkər/",
+    "t": "不吸烟者",
+    "en": "a person who does not smoke"
+  },
+  "wrote": {
+    "p": "/roʊt/",
+    "t": "写",
+    "en": "past tense of write"
+  },
+  "needed": {
+    "p": "/ˈniːdɪd/",
+    "t": "需要",
+    "en": "past tense of need; required"
+  },
+  "relate": {
+    "p": "/rɪˈleɪt/",
+    "t": "联系，叙述",
+    "en": "to make a connection; to tell"
+  },
+  "patients": {
+    "p": "/ˈpeɪʃənts/",
+    "t": "病人",
+    "en": "people receiving medical treatment"
+  },
+  "heads": {
+    "p": "/hedz/",
+    "t": "头，头脑",
+    "en": "the upper part of the body; also leaders"
+  },
+  "explode": {
+    "p": "/ɪkˈsploʊd/",
+    "t": "爆炸，爆发",
+    "en": "to burst violently"
+  },
+  "unless": {
+    "p": "/ənˈles/",
+    "t": "除非",
+    "en": "except if"
+  },
+  "smoked": {
+    "p": "/smoʊkt/",
+    "t": "吸烟，熏制",
+    "en": "past tense of smoke; to inhale smoke or preserve food"
+  },
+  "halflife": {
+    "p": "/ˈhæf laɪf/",
+    "t": "半衰期",
+    "en": "the time required for half a substance to decay"
+  },
+  "reasoned": {
+    "p": "/ˈriːzənd/",
+    "t": "推理的，理性的",
+    "en": "based on logic or reason"
+  },
+  "cigarette": {
+    "p": "/ˌsɪɡəˈret/",
+    "t": "香烟",
+    "en": "a thin cylinder of finely cut tobacco rolled in paper for smoking"
+  },
+  "cultivate": {
+    "p": "/ˈkʌltɪveɪt/",
+    "t": "培养，耕作",
+    "en": "to foster growth or development"
+  },
+  "nonsmoking": {
+    "p": "/nɒnˈsmoʊkɪŋ/",
+    "t": "不吸烟的",
+    "en": "relating to not smoking"
+  },
+  "habits": {
+    "p": "/ˈhæbɪts/",
+    "t": "习惯",
+    "en": "regular practices or behaviors"
+  },
+  "extending": {
+    "p": "/ɪkˈstendɪŋ/",
+    "t": "延伸，扩展",
+    "en": "to make longer or wider"
+  },
+  "stretches": {
+    "p": "/ˈstretʃɪz/",
+    "t": "伸展，延伸",
+    "en": "to extend or lengthen"
+  },
+  "simulated": {
+    "p": "/ˈsɪmjuleɪtɪd/",
+    "t": "模拟的",
+    "en": "imitated or reproduced"
+  },
+  "meditate": {
+    "p": "/ˈmedɪteɪt/",
+    "t": "冥想，沉思",
+    "en": "to think deeply or focus the mind"
+  },
+  "twohour": {
+    "p": "/ˈtuːaʊər/",
+    "t": "两小时的",
+    "en": "lasting for two hours"
+  },
+  "moving": {
+    "p": "/ˈmuː.vɪŋ/",
+    "t": "感人的；移动的",
+    "en": "causing strong emotion; in motion"
+  },
+  "restlessness": {
+    "p": "/ˈrestləsnəs/",
+    "t": "不安，烦躁",
+    "en": "the state of being unable to rest or relax"
+  },
+  "recognize": {
+    "p": "/ˈrekəɡnaɪz/",
+    "t": "认出，承认",
+    "en": "to identify as known or acknowledge"
+  },
+  "allow": {
+    "p": "/əˈlaʊ/",
+    "t": "允许",
+    "en": "to permit or give permission"
+  },
+  "investigate": {
+    "p": "/ɪnˈvestɪɡeɪt/",
+    "t": "调查",
+    "en": "to examine systematically"
+  },
+  "reset": {
+    "p": "/ˌriːˈset/",
+    "t": "重置，重新设定",
+    "en": "to set again or restore"
+  },
+  "entertainment": {
+    "p": "/ˌentərˈteɪnmənt/",
+    "t": "娱乐",
+    "en": "activities that provide amusement or enjoyment"
+  },
+  "shifting": {
+    "p": "/ˈʃɪftɪŋ/",
+    "t": "转移，改变",
+    "en": "to move or change position"
+  },
+  "cravings": {
+    "p": "/ˈkreɪvɪŋz/",
+    "t": "渴望，强烈欲望",
+    "en": "strong desires or longings"
+  },
+  "shouted": {
+    "p": "/ˈʃaʊtɪd/",
+    "t": "喊叫",
+    "en": "past tense of shout; spoke loudly"
+  },
+  "later": {
+    "p": "/ˈleɪtər/",
+    "t": "后来，以后",
+    "en": "at a time in the future or after the present time"
+  },
+  "relapsed": {
+    "p": "/rɪˈlæpst/",
+    "t": "复发",
+    "en": "to fall back into a previous state, especially of illness"
+  },
+  "mindfulness": {
+    "p": "/ˈmaɪndfəlnəs/",
+    "t": "正念，专注",
+    "en": "the quality of being present and aware"
+  },
+  "defeat": {
+    "p": "/dɪˈfiːt/",
+    "t": "击败，失败",
+    "en": "to win against; also the act of losing"
+  },
+  "confidence": {
+    "p": "/ˈkɒnfɪdəns/",
+    "t": "信心",
+    "en": "a feeling of trust or certainty"
+  },
+  "smoking": {
+    "p": "/ˈsmoʊkɪŋ/",
+    "t": "吸烟",
+    "en": "the act of inhaling smoke from tobacco"
+  },
+  "proper": {
+    "p": "/ˈprɒpər/",
+    "t": "适当的，正确的",
+    "en": "suitable or correct"
+  },
+  "stuck": {
+    "p": "/stʌk/",
+    "t": "卡住，困住",
+    "en": "unable to move or progress"
+  },
+  "incapable": {
+    "p": "/ɪnˈkeɪpəbl/",
+    "t": "无能力的",
+    "en": "lacking the ability or skill"
+  },
+  "quitting": {
+    "p": "/ˈkwɪtɪŋ/",
+    "t": "退出，放弃",
+    "en": "the act of stopping or leaving"
+  },
+  "addictive": {
+    "p": "/əˈdɪktɪv/",
+    "t": "上瘾的",
+    "en": "causing addiction"
+  },
+  "substances": {
+    "p": "/ˈsʌbstənsɪz/",
+    "t": "物质",
+    "en": "materials or matter"
+  },
+  "pitting": {
+    "p": "/ˈpɪtɪŋ/",
+    "t": "使竞争，使对立",
+    "en": "to set in opposition"
+  },
+  "twice": {
+    "p": "/twaɪs/",
+    "t": "两次",
+    "en": "two times"
+  },
+  "shaken": {
+    "p": "/ˈʃeɪkən/",
+    "t": "动摇的，震惊的",
+    "en": "past participle of shake; disturbed"
+  },
+  "addictions": {
+    "p": "/əˈdɪkʃənz/",
+    "t": "成瘾",
+    "en": "plural of addiction"
+  },
+  "essentially": {
+    "p": "/ɪˈsenʃəli/",
+    "t": "本质上，基本上",
+    "en": "fundamentally; in essence"
+  },
+  "bodies": {
+    "p": "/ˈbɒdiz/",
+    "t": "身体，团体",
+    "en": "plural of body; physical structures or organizations"
+  },
+  "urgently": {
+    "p": "/ˈɜːrdʒəntli/",
+    "t": "紧急地",
+    "en": "in a pressing or urgent manner"
+  },
+  "driving": {
+    "p": "/ˈdraɪvɪŋ/",
+    "t": "驾驶，驱动",
+    "en": "operating a vehicle; also motivating"
+  },
+  "allowing": {
+    "p": "/əˈlaʊɪŋ/",
+    "t": "允许",
+    "en": "the act of permitting"
+  },
+  "disarmingly": {
+    "p": "/dɪsˈɑːrmɪŋli/",
+    "t": "使人消除敌意地",
+    "en": "in a manner that removes suspicion or hostility"
+  },
+  "require": {
+    "p": "/rɪˈkwaɪər/",
+    "t": "需要，要求",
+    "en": "to need or demand"
+  },
+  "forced": {
+    "p": "/fɔːrst/",
+    "t": "强迫的，被迫的",
+    "en": "compelled or made to do"
+  },
+  "benefits": {
+    "p": "/ˈbenɪfɪts/",
+    "t": "好处，利益",
+    "en": "advantages or positive effects"
+  },
+  "event": {
+    "p": "/ɪˈvent/",
+    "t": "事件，活动",
+    "en": "a happening or occurrence"
+  },
+  "nicotine": {
+    "p": "/ˈnɪkətiːn/",
+    "t": "尼古丁",
+    "en": "a stimulant found in tobacco"
+  },
+  "experiments": {
+    "p": "/ɪkˈsperɪmənts/",
+    "t": "实验",
+    "en": "tests or procedures to discover something"
+  },
+  "ended": {
+    "p": "/ˈendɪd/",
+    "t": "结束",
+    "en": "past tense of end; finished"
+  },
+  "follow": {
+    "p": "/ˈfɒloʊ/",
+    "t": "跟随，遵循",
+    "en": "to go after or obey"
+  },
+  "failures": {
+    "p": "/ˈfeɪljərz/",
+    "t": "失败",
+    "en": "instances of not succeeding"
+  },
+  "differences": {
+    "p": "/ˈdɪfrənsɪz/",
+    "t": "差异；不同",
+    "en": "ways in which things are not the same"
+  },
+  "breakthroughs": {
+    "p": "/ˈbreɪkθruːz/",
+    "t": "突破",
+    "en": "significant advances or discoveries"
+  },
+  "mired": {
+    "p": "/ˈmaɪərd/",
+    "t": "陷入泥沼的，陷入困境的",
+    "en": "stuck or entangled"
+  },
+  "indefinitely": {
+    "p": "/ɪnˈdefɪnətli/",
+    "t": "无限期地",
+    "en": "for an unlimited or unspecified time"
+  },
+  "professor": {
+    "p": "/prəˈfesər/",
+    "t": "教授",
+    "en": "a university teacher of high rank"
+  },
+  "holds": {
+    "p": "/hoʊldz/",
+    "t": "持有，拥有",
+    "en": "to have or maintain"
+  },
+  "affiliated": {
+    "p": "/əˈfɪlieɪtɪd/",
+    "t": "附属的，有联系的",
+    "en": "connected or associated with"
+  },
+  "professorship": {
+    "p": "/prəˈfesərʃɪp/",
+    "t": "教授职位",
+    "en": "the position or office of a professor"
+  },
+  "voted": {
+    "p": "/ˈvoʊtɪd/",
+    "t": "投票",
+    "en": "past tense of vote; expressed a choice"
+  },
+  "faculty": {
+    "p": "/ˈfæklti/",
+    "t": "全体教员，才能",
+    "en": "the teaching staff of a university; also an ability"
+  },
+  "bestselling": {
+    "p": "/ˌbestˈselɪŋ/",
+    "t": "畅销的",
+    "en": "very popular and selling well"
+  },
+  "books": {
+    "p": "/bʊks/",
+    "t": "书籍",
+    "en": "written or printed works for reading"
+  },
+  "alter": {
+    "p": "/ˈɔːltər/",
+    "t": "改变",
+    "en": "to change or modify"
+  },
+  "highlight": {
+    "p": "/ˈhaɪ.laɪt/",
+    "t": "突出；强调",
+    "en": "to emphasize or make prominent"
+  },
+  "correspondent": {
+    "p": "/ˌkɒr.ɪˈspɒn.dənt/",
+    "t": "记者；通讯员",
+    "en": "a journalist who reports news from a particular place or on a particular subject"
+  },
+  "writes": {
+    "p": "/raɪts/",
+    "t": "写（第三人称单数）",
+    "en": "third person singular of write; to compose text"
+  },
+  "primarily": {
+    "p": "/praɪˈmer.əl.i/",
+    "t": "主要地；首先",
+    "en": "mainly; for the most part"
+  },
+  "consciousness": {
+    "p": "/ˈkɒn.ʃəs.nəs/",
+    "t": "意识；知觉",
+    "en": "the state of being awake and aware of one's surroundings"
+  },
+  "advances": {
+    "p": "/ədˈvɑːnsɪz/",
+    "t": "进步；进展",
+    "en": "plural of advance; forward movement or progress"
+  },
+  "intelligence": {
+    "p": "/ɪnˈtel.ɪ.dʒəns/",
+    "t": "智力；智能",
+    "en": "the ability to acquire and apply knowledge and skills"
+  },
+  "neuroscience": {
+    "p": "/ˌnjʊə.rəʊˈsaɪ.əns/",
+    "t": "神经科学",
+    "en": "the scientific study of the nervous system"
+  },
+  "staggering": {
+    "p": "/ˈstæɡ.ər.ɪŋ/",
+    "t": "惊人的；令人震惊的",
+    "en": "astonishing; overwhelming"
+  },
+  "ethical": {
+    "p": "/ˈeθ.ɪ.kəl/",
+    "t": "伦理的；道德的",
+    "en": "relating to moral principles"
+  },
+  "joining": {
+    "p": "/ˈdʒɔɪ.nɪŋ/",
+    "t": "加入；连接",
+    "en": "present participle of join; to connect or become a member"
+  },
+  "religion": {
+    "p": "/rɪˈlɪdʒ.ən/",
+    "t": "宗教",
+    "en": "a system of faith and worship"
+  },
+  "editor": {
+    "p": "/ˈed.ɪ.tər/",
+    "t": "编辑",
+    "en": "a person who prepares and supervises the publication of written material"
+  },
+  "bestloved": {
+    "p": "/ˌbestˈlʌvd/",
+    "t": "最受喜爱的",
+    "en": "most loved or cherished"
+  },
+  "columns": {
+    "p": "/ˈkɒl.əmz/",
+    "t": "专栏；列",
+    "en": "plural of column; vertical divisions or regular articles in a publication"
+  },
+  "parental": {
+    "p": "/pəˈren.təl/",
+    "t": "父母的；家长的",
+    "en": "relating to a parent"
+  },
+  "originally": {
+    "p": "/əˈrɪdʒ.ɪ.nəl.i/",
+    "t": "最初；本来",
+    "en": "in the beginning; at first"
+  },
+  "column": {
+    "p": "/ˈkɒl.əm/",
+    "t": "专栏；列",
+    "en": "a regular article or vertical section in a publication"
+  },
+  "offers": {
+    "p": "/ˈɒf.əz/",
+    "t": "提供（动词第三人称单数）",
+    "en": "third person singular of offer; to present for acceptance"
+  },
+  "unique": {
+    "p": "/juːˈniːk/",
+    "t": "独特的；唯一的",
+    "en": "being the only one of its kind; distinctive"
+  },
+  "dilemmas": {
+    "p": "/dɪˈlem.əz/",
+    "t": "困境；两难",
+    "en": "plural of dilemma; situations requiring a choice between equally undesirable alternatives"
+  },
+  "pluralism": {
+    "p": "/ˈplʊə.rə.lɪz.əm/",
+    "t": "多元主义",
+    "en": "a condition in which multiple groups or principles coexist"
+  },
+  "multiple": {
+    "p": "/ˈmʌl.tɪ.pəl/",
+    "t": "多个的；多样的",
+    "en": "many; several"
+  },
+  "values": {
+    "p": "/ˈvæl.juːz/",
+    "t": "价值观；价值（复数）",
+    "en": "plural of value; principles or standards of behavior"
+  },
+  "valid": {
+    "p": "/ˈvæl.ɪd/",
+    "t": "有效的；合理的",
+    "en": "legally or logically acceptable"
+  },
+  "conflict": {
+    "p": "/ˈkɒn.flɪkt/",
+    "t": "冲突；矛盾",
+    "en": "a serious disagreement or argument"
+  },
+  "elementary": {
+    "p": "/ˌel.ɪˈmen.tər.i/",
+    "t": "初级的；基础的",
+    "en": "relating to the first principles; basic"
+  },
+  "schoolage": {
+    "p": "/ˈskuːl.eɪdʒ/",
+    "t": "学龄的",
+    "en": "of the age when children attend school"
+  },
+  "neighborhood": {
+    "p": "/ˈneɪ.bə.hʊd/",
+    "t": "社区；街区",
+    "en": "a district or community within a town or city"
+  },
+  "exclusive": {
+    "p": "/ɪkˈskluː.sɪv/",
+    "t": "排他的；独有的",
+    "en": "excluding others; limited to a particular group"
+  },
+  "challenged": {
+    "p": "/ˈtʃæl.ɪndʒd/",
+    "t": "受到挑战的；被质疑的",
+    "en": "past participle of challenge; to have been questioned or tested"
+  },
+  "ultimately": {
+    "p": "/ˈʌl.tɪ.mət.li/",
+    "t": "最终；根本上",
+    "en": "in the end; finally"
+  },
+  "aware": {
+    "p": "/əˈweər/",
+    "t": "意识到的；知道的",
+    "en": "having knowledge or perception of a situation"
+  },
+  "increasing": {
+    "p": "/ɪnˈkriː.sɪŋ/",
+    "t": "增加的；越来越多的",
+    "en": "becoming greater in size or amount"
+  },
+  "schools": {
+    "p": "/skuːlz/",
+    "t": "学校（复数）",
+    "en": "plural of school; institutions for education"
+  },
+  "funding": {
+    "p": "/ˈfʌn.dɪŋ/",
+    "t": "资金；拨款",
+    "en": "money provided for a particular purpose"
+  },
+  "worry": {
+    "p": "/ˈwʌr.i/",
+    "t": "担忧；烦恼",
+    "en": "to feel anxious or concerned"
+  },
+  "contributing": {
+    "p": "/kənˈtrɪb.juː.tɪŋ/",
+    "t": "贡献的；起作用的",
+    "en": "present participle of contribute; to give or add to something"
+  },
+  "politics": {
+    "p": "/ˈpɒl.ə.tɪks/",
+    "t": "政治；政治活动",
+    "en": "activities associated with governance and power"
+  },
+  "framed": {
+    "p": "/freɪmd/",
+    "t": "构造；设计；使适合",
+    "en": "past participle of frame; to construct or formulate"
+  },
+  "keeping": {
+    "p": "/ˈkiː.pɪŋ/",
+    "t": "保持；保管",
+    "en": "present participle of keep; to retain or maintain"
+  },
+  "imposing": {
+    "p": "/ɪmˈpəʊ.zɪŋ/",
+    "t": "强加的；壮观的",
+    "en": "present participle of impose; to force upon; impressive"
+  },
+  "talking": {
+    "p": "/ˈtɔː.kɪŋ/",
+    "t": "谈话；说话",
+    "en": "present participle of talk; to speak or converse"
+  },
+  "wellbeing": {
+    "p": "/ˌwelˈbiː.ɪŋ/",
+    "t": "幸福；健康",
+    "en": "the state of being comfortable, healthy, or happy"
+  },
+  "bullied": {
+    "p": "/ˈbʊl.id/",
+    "t": "被欺负的",
+    "en": "past participle of bully; to have been intimidated or mistreated"
+  },
+  "utilitarian": {
+    "p": "/ˌjuː.tɪ.lɪˈteə.ri.ən/",
+    "t": "功利主义的；实用主义的",
+    "en": "relating to the doctrine that actions are right if they are useful for the majority"
+  },
+  "philosophers": {
+    "p": "/fɪˈlɒs.ə.fəz/",
+    "t": "哲学家（复数）",
+    "en": "plural of philosopher; scholars who study fundamental nature of knowledge and reality"
+  },
+  "special": {
+    "p": "/ˈspeʃ.əl/",
+    "t": "特别的；专门的",
+    "en": "better or greater than usual; specific"
+  },
+  "fancy": {
+    "p": "/ˈfæn.si/",
+    "t": "想象；喜爱；花哨的",
+    "en": "imagination; to like; elaborate or decorative"
+  },
+  "consigning": {
+    "p": "/kənˈsaɪ.nɪŋ/",
+    "t": "委托；打发",
+    "en": "present participle of consign; to deliver or assign"
+  },
+  "fewer": {
+    "p": "/ˈfjuː.ər/",
+    "t": "较少的（修饰可数名词）",
+    "en": "a smaller number of"
+  },
+  "thcentury": {
+    "p": "/θˈsen.tʃər.i/",
+    "t": "世纪（th缩略）",
+    "en": "abbreviation for 'the century'; a period of one hundred years"
+  },
+  "philosopher": {
+    "p": "/fɪˈlɒs.ə.fər/",
+    "t": "哲学家",
+    "en": "a person engaged in the study of philosophy"
+  },
+  "critic": {
+    "p": "/ˈkrɪt.ɪk/",
+    "t": "批评家；评论家",
+    "en": "a person who evaluates or analyzes"
+  },
+  "utilitarianism": {
+    "p": "/ˌjuː.tɪ.lɪˈteə.ri.ə.nɪ.zəm/",
+    "t": "功利主义",
+    "en": "an ethical theory that the best action is one that maximizes utility"
+  },
+  "argues": {
+    "p": "/ˈɑːɡ.juːz/",
+    "t": "主张；争论（第三人称单数）",
+    "en": "third person singular of argue; to present reasons for or against"
+  },
+  "impartiality": {
+    "p": "/ɪmˌpɑː.ʃiˈæl.ə.ti/",
+    "t": "公正；不偏不倚",
+    "en": "the quality of being unbiased and fair"
+  },
+  "absurd": {
+    "p": "/əbˈsɜːd/",
+    "t": "荒谬的；可笑的",
+    "en": "wildly unreasonable or illogical"
+  },
+  "demand": {
+    "p": "/dɪˈmɑːnd/",
+    "t": "要求；需求",
+    "en": "an insistent request or requirement"
+  },
+  "commitments": {
+    "p": "/kəˈmɪt.mənts/",
+    "t": "承诺；义务（复数）",
+    "en": "plural of commitment; pledges or obligations"
+  },
+  "continuity": {
+    "p": "/ˌkɒn.tɪˈnjuː.ə.ti/",
+    "t": "连续性；持续性",
+    "en": "the unbroken and consistent existence or operation"
+  },
+  "commitment": {
+    "p": "/kəˈmɪt.mənt/",
+    "t": "承诺；投入",
+    "en": "a pledge or dedication to a cause or person"
+  },
+  "above": {
+    "p": "/əˈbʌv/",
+    "t": "在…之上；上述的",
+    "en": "at a higher level or place; mentioned earlier"
+  },
+  "general": {
+    "p": "/ˈdʒen.ər.əl/",
+    "t": "普遍的；总的",
+    "en": "affecting all or most; not specific"
+  },
+  "everywhere": {
+    "p": "/ˈev.ri.weər/",
+    "t": "到处；处处",
+    "en": "in all places"
+  },
+  "theory": {
+    "p": "/ˈθɪə.ri/",
+    "t": "理论；学说",
+    "en": "a supposition or system of ideas intended to explain something"
+  },
+  "ignore": {
+    "p": "/ɪɡˈnɔː(r)/",
+    "t": "忽视；不理会",
+    "en": "to pay no attention to"
+  },
+  "severs": {
+    "p": "/ˈsevəz/",
+    "t": "切断；断绝",
+    "en": "cuts off or breaks"
+  },
+  "recognizably": {
+    "p": "/ˈrekəɡnaɪzəbli/",
+    "t": "可辨认地",
+    "en": "in a way that is easy to recognize"
+  },
+  "yours": {
+    "p": "/jɔːz/",
+    "t": "你的；你们的",
+    "en": "belonging to you"
+  },
+  "meant": {
+    "p": "/ment/",
+    "t": "意味着；打算",
+    "en": "intended; signified"
+  },
+  "hurting": {
+    "p": "/ˈhɜːtɪŋ/",
+    "t": "伤害；疼痛",
+    "en": "causing pain or distress"
+  },
+  "wouldn": {
+    "p": "/ˈwʊdnt/",
+    "t": "不会（would not的缩写）",
+    "en": "contraction of would not"
+  },
+  "unsafe": {
+    "p": "/ʌnˈseɪf/",
+    "t": "不安全的",
+    "en": "not safe; dangerous"
+  },
+  "accounting": {
+    "p": "/əˈkaʊntɪŋ/",
+    "t": "会计；解释",
+    "en": "the process of recording financial transactions; an explanation"
+  },
+  "anonymous": {
+    "p": "/əˈnɒnɪməs/",
+    "t": "匿名的",
+    "en": "with no name known or given"
+  },
+  "subscribers": {
+    "p": "/səbˈskraɪbəz/",
+    "t": "订阅者；用户",
+    "en": "people who pay to receive a service or publication"
+  },
+  "anyone": {
+    "p": "/ˈeniwʌn/",
+    "t": "任何人",
+    "en": "any person"
+  },
+  "prioritized": {
+    "p": "/praɪˈɒrətaɪzd/",
+    "t": "优先处理",
+    "en": "treated as more important"
+  },
+  "editions": {
+    "p": "/ɪˈdɪʃnz/",
+    "t": "版本",
+    "en": "particular versions of a publication"
+  },
+  "complicated": {
+    "p": "/ˈkɒmplɪkeɪtɪd/",
+    "t": "复杂的",
+    "en": "difficult to understand or deal with"
+  },
+  "vouchers": {
+    "p": "/ˈvaʊtʃəz/",
+    "t": "代金券；凭证",
+    "en": "pieces of paper that can be exchanged for goods or services"
+  },
+  "charter": {
+    "p": "/ˈtʃɑːtə(r)/",
+    "t": "宪章；特许状",
+    "en": "a written grant of rights or privileges"
+  },
+  "magnet": {
+    "p": "/ˈmæɡnət/",
+    "t": "磁铁；有吸引力的人或物",
+    "en": "a piece of iron that attracts; something that attracts"
+  },
+  "stick": {
+    "p": "/stɪk/",
+    "t": "棍子；粘贴；坚持",
+    "en": "a thin piece of wood; to attach; to remain"
+  },
+  "relevant": {
+    "p": "/ˈreləvənt/",
+    "t": "相关的；切题的",
+    "en": "closely connected to the subject"
+  },
+  "dilemma": {
+    "p": "/dɪˈlemə/",
+    "t": "困境；进退两难",
+    "en": "a situation requiring a choice between equally undesirable options"
+  },
+  "popular": {
+    "p": "/ˈpɒpjələ(r)/",
+    "t": "受欢迎的；流行的",
+    "en": "liked by many people"
+  },
+  "support": {
+    "p": "/səˈpɔːt/",
+    "t": "支持；帮助",
+    "en": "to help or encourage"
+  },
+  "especially": {
+    "p": "/ɪˈspeʃəli/",
+    "t": "尤其；特别",
+    "en": "particularly; more than usually"
+  },
+  "outperforming": {
+    "p": "/ˌaʊtpəˈfɔːmɪŋ/",
+    "t": "表现优于",
+    "en": "doing better than"
+  },
+  "counterparts": {
+    "p": "/ˈkaʊntəpɑːts/",
+    "t": "对应的人或物",
+    "en": "people or things with similar roles elsewhere"
+  },
+  "tests": {
+    "p": "/tests/",
+    "t": "测试；考验",
+    "en": "examinations; trials"
+  },
+  "advantages": {
+    "p": "/ədˈvɑːntɪdʒɪz/",
+    "t": "优势；有利条件",
+    "en": "conditions that help success"
+  },
+  "disappear": {
+    "p": "/ˌdɪsəˈpɪə(r)/",
+    "t": "消失",
+    "en": "to cease to be visible or exist"
+  },
+  "mostly": {
+    "p": "/ˈməʊstli/",
+    "t": "大部分；主要地",
+    "en": "mainly; for the most part"
+  },
+  "background": {
+    "p": "/ˈbækɡraʊnd/",
+    "t": "背景；出身",
+    "en": "the circumstances of a person's life; the part behind the main subject"
+  },
+  "birth": {
+    "p": "/bɜːθ/",
+    "t": "出生；起源",
+    "en": "the act of being born"
+  },
+  "locations": {
+    "p": "/ləʊˈkeɪʃnz/",
+    "t": "地点；位置",
+    "en": "places or positions"
+  },
+  "nationwide": {
+    "p": "/ˌneɪʃnˈwaɪd/",
+    "t": "全国范围的",
+    "en": "extending throughout the whole nation"
+  },
+  "controlling": {
+    "p": "/kənˈtrəʊlɪŋ/",
+    "t": "控制；管理",
+    "en": "having power over; managing"
+  },
+  "income": {
+    "p": "/ˈɪnkʌm/",
+    "t": "收入",
+    "en": "money received, especially regularly"
+  },
+  "socioeconomic": {
+    "p": "/ˌsəʊsiəʊˌiːkəˈnɒmɪk/",
+    "t": "社会经济的",
+    "en": "relating to social and economic factors"
+  },
+  "makeup": {
+    "p": "/ˈmeɪkʌp/",
+    "t": "组成；构成；化妆品",
+    "en": "composition; cosmetics"
+  },
+  "variables": {
+    "p": "/ˈveəriəblz/",
+    "t": "变量",
+    "en": "factors that can change"
+  },
+  "advantage": {
+    "p": "/ədˈvɑːntɪdʒ/",
+    "t": "优势；有利条件",
+    "en": "a condition that helps success"
+  },
+  "vanished": {
+    "p": "/ˈvænɪʃt/",
+    "t": "消失了",
+    "en": "disappeared suddenly"
+  },
+  "outcomes": {
+    "p": "/ˈaʊtkʌmz/",
+    "t": "结果；成果",
+    "en": "final results"
+  },
+  "achievement": {
+    "p": "/əˈtʃiːvmənt/",
+    "t": "成就；成绩",
+    "en": "something accomplished successfully"
+  },
+  "socially": {
+    "p": "/ˈsəʊʃəli/",
+    "t": "社交上；社会上",
+    "en": "in a social context"
+  },
+  "regardless": {
+    "p": "/rɪˈɡɑːdləs/",
+    "t": "不管怎样；不顾",
+    "en": "without paying attention to"
+  },
+  "modestsized": {
+    "p": "/ˈmɒdɪstˈsaɪzd/",
+    "t": "中等大小的",
+    "en": "of moderate size"
+  },
+  "limitations": {
+    "p": "/ˌlɪmɪˈteɪʃnz/",
+    "t": "限制；局限",
+    "en": "restrictions; weaknesses"
+  },
+  "nationally": {
+    "p": "/ˈnæʃnəli/",
+    "t": "全国性地",
+    "en": "throughout the nation"
+  },
+  "datasets": {
+    "p": "/ˈdeɪtəsets/",
+    "t": "数据集",
+    "en": "collections of data"
+  },
+  "outpaced": {
+    "p": "/ˌaʊtˈpeɪst/",
+    "t": "超过；胜过",
+    "en": "moved faster than; surpassed"
+  },
+  "considered": {
+    "p": "/kənˈsɪdəd/",
+    "t": "认为；考虑",
+    "en": "thought of as; took into account"
+  },
+  "robust": {
+    "p": "/rəʊˈbʌst/",
+    "t": "稳健的；强健的",
+    "en": "strong and healthy; not easily damaged"
+  },
+  "indicator": {
+    "p": "/ˈɪndɪkeɪtə(r)/",
+    "t": "指标；指示物",
+    "en": "a sign that shows a condition"
+  },
+  "unlike": {
+    "p": "/ʌnˈlaɪk/",
+    "t": "不像；与…不同",
+    "en": "different from"
+  },
+  "subject": {
+    "p": "/ˈsʌbdʒɪkt/",
+    "t": "主题；学科；受试者",
+    "en": "a topic; an area of study; a person in an experiment"
+  },
+  "suggested": {
+    "p": "/səˈdʒestɪd/",
+    "t": "建议；暗示",
+    "en": "proposed; indicated"
+  },
+  "teachers": {
+    "p": "/ˈtiːtʃəz/",
+    "t": "教师",
+    "en": "people who instruct"
+  },
+  "certification": {
+    "p": "/ˌsɜːtɪfɪˈkeɪʃn/",
+    "t": "认证；证书",
+    "en": "official qualification"
+  },
+  "required": {
+    "p": "/rɪˈkwaɪəd/",
+    "t": "必需的；要求的",
+    "en": "needed; demanded"
+  },
+  "frequent": {
+    "p": "/ˈfriːkwənt/",
+    "t": "频繁的；经常的",
+    "en": "happening often"
+  },
+  "professional": {
+    "p": "/prəˈfeʃənl/",
+    "t": "专业的；职业的",
+    "en": "relating to a profession; expert"
+  },
+  "uptodate": {
+    "p": "/ˌʌp tə ˈdeɪt/",
+    "t": "最新的；现代的",
+    "en": "current; including the latest information"
+  },
+  "pedagogical": {
+    "p": "/ˌpedəˈɡɒdʒɪkl/",
+    "t": "教学法的",
+    "en": "relating to teaching methods"
+  },
+  "fanciest": {
+    "p": "/ˈfænsiɪst/",
+    "t": "最花哨的；最别致的",
+    "en": "most elaborate or showy"
+  },
+  "rubbing": {
+    "p": "/ˈrʌbɪŋ/",
+    "t": "摩擦；擦",
+    "en": "moving with pressure against something"
+  },
+  "elbows": {
+    "p": "/ˈelbəʊz/",
+    "t": "肘部",
+    "en": "the joints between upper and lower arms"
+  },
+  "senator": {
+    "p": "/ˈsenətə(r)/",
+    "t": "参议员",
+    "en": "a member of a senate"
+  },
+  "ultraelite": {
+    "p": "/ˌʌltrəɪˈliːt/",
+    "t": "极精英的；最高层的",
+    "en": "of the highest social or professional class"
+  },
+  "applies": {
+    "p": "/əˈplaɪz/",
+    "t": "适用；申请",
+    "en": "to be relevant or to make a formal request"
+  },
+  "college": {
+    "p": "/ˈkɒlɪdʒ/",
+    "t": "学院；大学",
+    "en": "an institution of higher education"
+  },
+  "thrives": {
+    "p": "/θraɪvz/",
+    "t": "茁壮成长；兴旺",
+    "en": "to grow or develop well; to prosper"
+  },
+  "highachieving": {
+    "p": "/ˌhaɪ əˈtʃiːvɪŋ/",
+    "t": "高成就的；成绩优异的",
+    "en": "performing at a very high level"
+  },
+  "worrying": {
+    "p": "/ˈwʌriɪŋ/",
+    "t": "令人担忧的",
+    "en": "causing worry or concern"
+  },
+  "educational": {
+    "p": "/ˌedʒuˈkeɪʃənl/",
+    "t": "教育的",
+    "en": "relating to education"
+  },
+  "unrelenting": {
+    "p": "/ˌʌnrɪˈlentɪŋ/",
+    "t": "持续不断的；不屈不挠的",
+    "en": "not stopping or weakening; persistent"
+  },
+  "brutal": {
+    "p": "/ˈbruːtl/",
+    "t": "残酷的；无情的",
+    "en": "cruel, harsh, or severe"
+  },
+  "constantly": {
+    "p": "/ˈkɒnstəntli/",
+    "t": "不断地；经常地",
+    "en": "all the time; continuously"
+  },
+  "selfworth": {
+    "p": "/ˌself ˈwɜːθ/",
+    "t": "自我价值",
+    "en": "a sense of one's own value or worth"
+  },
+  "results": {
+    "p": "/rɪˈzʌlts/",
+    "t": "结果；成绩",
+    "en": "outcomes or consequences"
+  },
+  "alarming": {
+    "p": "/əˈlɑːmɪŋ/",
+    "t": "令人惊恐的",
+    "en": "causing worry or fear"
+  },
+  "conducted": {
+    "p": "/kənˈdʌktɪd/",
+    "t": "进行；实施",
+    "en": "carried out or organized"
+  },
+  "attending": {
+    "p": "/əˈtendɪŋ/",
+    "t": "参加；上学",
+    "en": "being present at or going to"
+  },
+  "depression": {
+    "p": "/dɪˈpreʃn/",
+    "t": "抑郁症；沮丧",
+    "en": "a serious medical condition causing persistent sadness"
+  },
+  "substance": {
+    "p": "/ˈsʌbstəns/",
+    "t": "物质；药物",
+    "en": "a material or drug"
+  },
+  "hypercompetitive": {
+    "p": "/ˌhaɪpə kəmˈpetətɪv/",
+    "t": "竞争极其激烈的",
+    "en": "extremely competitive"
+  },
+  "atrisk": {
+    "p": "/ˌæt ˈrɪsk/",
+    "t": "处于危险中的",
+    "en": "in danger of being harmed or failing"
+  },
+  "alongside": {
+    "p": "/əˌlɒŋˈsaɪd/",
+    "t": "在旁边；与……一起",
+    "en": "next to or together with"
+  },
+  "poverty": {
+    "p": "/ˈpɒvəti/",
+    "t": "贫困",
+    "en": "the state of being poor"
+  },
+  "incarcerated": {
+    "p": "/ɪnˈkɑːsəreɪtɪd/",
+    "t": "被监禁的",
+    "en": "imprisoned or confined"
+  },
+  "parents": {
+    "p": "/ˈpeərənts/",
+    "t": "父母",
+    "en": "father and mother"
+  },
+  "addition": {
+    "p": "/əˈdɪʃn/",
+    "t": "增加；补充",
+    "en": "the act of adding or something added"
+  },
+  "potentially": {
+    "p": "/pəˈtenʃəli/",
+    "t": "潜在地；可能地",
+    "en": "possibly; in a potential manner"
+  },
+  "providing": {
+    "p": "/prəˈvaɪdɪŋ/",
+    "t": "提供",
+    "en": "giving or supplying"
+  },
+  "stressful": {
+    "p": "/ˈstresfl/",
+    "t": "充满压力的",
+    "en": "causing stress or tension"
+  },
+  "confer": {
+    "p": "/kənˈfɜː/",
+    "t": "授予；商讨",
+    "en": "to grant or bestow; to consult"
+  },
+  "countering": {
+    "p": "/ˈkaʊntərɪŋ/",
+    "t": "反驳；对抗",
+    "en": "acting against or opposing"
+  },
+  "loneliness": {
+    "p": "/ˈləʊnlinəs/",
+    "t": "孤独",
+    "en": "the state of being alone and sad"
+  },
+  "diverse": {
+    "p": "/daɪˈvɜːs/",
+    "t": "多样的；不同的",
+    "en": "showing variety; different"
+  },
+  "ethnicity": {
+    "p": "/eθˈnɪsəti/",
+    "t": "种族；民族",
+    "en": "the fact of belonging to a particular ethnic group"
+  },
+  "class": {
+    "p": "/klɑːs/",
+    "t": "班级；社会阶层",
+    "en": "a group of students; a social rank"
+  },
+  "empathize": {
+    "p": "/ˈempəθaɪz/",
+    "t": "共情；感同身受",
+    "en": "to understand and share another's feelings"
+  },
+  "variety": {
+    "p": "/vəˈraɪəti/",
+    "t": "多样；种类",
+    "en": "the quality of being varied; a number of different things"
+  },
+  "capacities": {
+    "p": "/kəˈpæsətiz/",
+    "t": "能力；容量",
+    "en": "abilities or maximum amounts"
+  },
+  "flourishing": {
+    "p": "/ˈflʌrɪʃɪŋ/",
+    "t": "繁荣；茁壮成长",
+    "en": "growing well; thriving"
+  },
+  "democracy": {
+    "p": "/dɪˈmɒkrəsi/",
+    "t": "民主；民主制度",
+    "en": "a system of government by the people"
+  },
+  "cultivated": {
+    "p": "/ˈkʌltɪveɪtɪd/",
+    "t": "培养的；有教养的",
+    "en": "developed or refined; well-educated"
+  },
+  "grounds": {
+    "p": "/ɡraʊndz/",
+    "t": "理由；场地",
+    "en": "reasons or an area of land"
+  },
+  "navigate": {
+    "p": "/ˈnævɪɡeɪt/",
+    "t": "导航；应对",
+    "en": "to plan and direct a route; to manage"
+  },
+  "taxes": {
+    "p": "/ˈtæksɪz/",
+    "t": "税",
+    "en": "money paid to the government"
+  },
+  "enriching": {
+    "p": "/ɪnˈrɪtʃɪŋ/",
+    "t": "充实的；使丰富的",
+    "en": "improving quality; making richer"
+  },
+  "opportunities": {
+    "p": "/ˌɒpəˈtjuːnətiz/",
+    "t": "机会",
+    "en": "favorable times or chances"
+  },
+  "expand": {
+    "p": "/ɪkˈspænd/",
+    "t": "扩大；扩展",
+    "en": "to become larger or more extensive"
+  },
+  "horizons": {
+    "p": "/həˈraɪzənz/",
+    "t": "视野；眼界",
+    "en": "limits of experience or knowledge"
+  },
+  "gladiators": {
+    "p": "/ˈɡlædieɪtəz/",
+    "t": "角斗士",
+    "en": "fighters in ancient Roman arenas"
+  },
+  "flavors": {
+    "p": "/ˈfleɪvəz/",
+    "t": "味道；风味",
+    "en": "tastes or distinctive qualities"
+  },
+  "gelato": {
+    "p": "/dʒəˈlɑːtəʊ/",
+    "t": "意式冰淇淋",
+    "en": "Italian ice cream"
+  },
+  "collaborate": {
+    "p": "/kəˈlæbəreɪt/",
+    "t": "合作",
+    "en": "to work together"
+  },
+  "donate": {
+    "p": "/dəʊˈneɪt/",
+    "t": "捐赠",
+    "en": "to give to a cause or charity"
+  },
+  "elsewhere": {
+    "p": "/ˌelsˈweə/",
+    "t": "在别处",
+    "en": "in or to another place"
+  },
+  "balance": {
+    "p": "/ˈbæləns/",
+    "t": "平衡",
+    "en": "a state of equilibrium or even distribution"
+  },
+  "decent": {
+    "p": "/ˈdiːsnt/",
+    "t": "体面的；相当好的",
+    "en": "acceptable or good enough"
+  },
+  "risks": {
+    "p": "/rɪsks/",
+    "t": "风险",
+    "en": "possibilities of loss or harm"
+  },
+  "compelling": {
+    "p": "/kəmˈpelɪŋ/",
+    "t": "引人注目的；令人信服的",
+    "en": "evoking interest or conviction"
+  },
+  "academic": {
+    "p": "/ˌækəˈdemɪk/",
+    "t": "学术的；学业的",
+    "en": "relating to education and scholarship"
+  },
+  "trajectory": {
+    "p": "/trəˈdʒektəri/",
+    "t": "轨迹；发展道路",
+    "en": "the path or course of development"
+  },
+  "arguing": {
+    "p": "/ˈɑːɡjuːɪŋ/",
+    "t": "争论；主张",
+    "en": "presenting reasons for or against"
+  },
+  "extent": {
+    "p": "/ɪkˈstent/",
+    "t": "程度；范围",
+    "en": "the degree or scope"
+  },
+  "depends": {
+    "p": "/dɪˈpendz/",
+    "t": "取决于；依靠",
+    "en": "is determined by; relies on"
+  },
+  "absolutely": {
+    "p": "/ˈæbsəluːtli/",
+    "t": "绝对地；完全地",
+    "en": "completely; without doubt"
+  },
+  "nearby": {
+    "p": "/ˌnɪəˈbaɪ/",
+    "t": "附近的",
+    "en": "close in distance"
+  },
+  "amazing": {
+    "p": "/əˈmeɪzɪŋ/",
+    "t": "令人惊奇的",
+    "en": "causing great surprise or wonder"
+  },
+  "couple": {
+    "p": "/ˈkʌpl/",
+    "t": "一对；几个",
+    "en": "two people or things; a small number"
+  },
+  "attend": {
+    "p": "/əˈtend/",
+    "t": "参加；上学",
+    "en": "to be present at or go to"
+  },
+  "religious": {
+    "p": "/rɪˈlɪdʒəs/",
+    "t": "宗教的",
+    "en": "relating to religion"
+  },
+  "parochial": {
+    "p": "/pəˈrəʊkiəl/",
+    "t": "教区的；狭隘的",
+    "en": "relating to a parish; narrow-minded"
+  },
+  "hinted": {
+    "p": "/ˈhɪntɪd/",
+    "t": "暗示，示意",
+    "en": "suggested indirectly"
+  },
+  "departure": {
+    "p": "/dɪˈpɑːtʃə/",
+    "t": "离开，出发",
+    "en": "act of leaving"
+  },
+  "registers": {
+    "p": "/ˈredʒɪstəz/",
+    "t": "登记，注册；记录",
+    "en": "records or enrolls"
+  },
+  "options": {
+    "p": "/ˈɒpʃənz/",
+    "t": "选择，选项",
+    "en": "choices or alternatives"
+  },
+  "cumulative": {
+    "p": "/ˈkjuːmjələtɪv/",
+    "t": "累积的，渐增的",
+    "en": "increasing by successive additions"
+  },
+  "devastating": {
+    "p": "/ˈdevəsteɪtɪŋ/",
+    "t": "毁灭性的，破坏性极大的",
+    "en": "causing great destruction or distress"
+  },
+  "responsibility": {
+    "p": "/rɪˌspɒnsəˈbɪləti/",
+    "t": "责任，职责",
+    "en": "duty or obligation"
+  },
+  "liability": {
+    "p": "/ˌlaɪəˈbɪləti/",
+    "t": "责任；债务；不利因素",
+    "en": "legal responsibility or disadvantage"
+  },
+  "assign": {
+    "p": "/əˈsaɪn/",
+    "t": "分配，指派",
+    "en": "allocate or designate"
+  },
+  "blame": {
+    "p": "/bleɪm/",
+    "t": "责备，归咎",
+    "en": "hold responsible or criticize"
+  },
+  "inadequate": {
+    "p": "/ɪnˈædɪkwət/",
+    "t": "不充分的，不适当的",
+    "en": "not enough or not suitable"
+  },
+  "situations": {
+    "p": "/ˌsɪtʃuˈeɪʃənz/",
+    "t": "情况，处境",
+    "en": "circumstances or conditions"
+  },
+  "injustice": {
+    "p": "/ɪnˈdʒʌstɪs/",
+    "t": "不公正，非正义",
+    "en": "lack of fairness or justice"
+  },
+  "producing": {
+    "p": "/prəˈdjuːsɪŋ/",
+    "t": "生产，产生",
+    "en": "making or causing"
+  },
+  "disadvantage": {
+    "p": "/ˌdɪsədˈvɑːntɪdʒ/",
+    "t": "不利条件，劣势",
+    "en": "unfavorable condition"
+  },
+  "complex": {
+    "p": "/ˈkɒmpleks/",
+    "t": "复杂的；综合体",
+    "en": "complicated or a system of parts"
+  },
+  "breeds": {
+    "p": "/briːdz/",
+    "t": "滋生，繁殖",
+    "en": "causes or reproduces"
+  },
+  "inequality": {
+    "p": "/ˌɪnɪˈkwɒləti/",
+    "t": "不平等，不均等",
+    "en": "lack of equality"
+  },
+  "segregation": {
+    "p": "/ˌseɡrɪˈɡeɪʃən/",
+    "t": "隔离，分离",
+    "en": "separation of groups"
+  },
+  "concentrated": {
+    "p": "/ˈkɒnsəntreɪtɪd/",
+    "t": "集中的，浓缩的",
+    "en": "gathered closely or intensified"
+  },
+  "neighborhoods": {
+    "p": "/ˈneɪbəhʊdz/",
+    "t": "社区，街区",
+    "en": "areas within a town or city"
+  },
+  "property": {
+    "p": "/ˈprɒpəti/",
+    "t": "财产；房产；性质",
+    "en": "possessions or land/buildings"
+  },
+  "revenue": {
+    "p": "/ˈrevənjuː/",
+    "t": "收入，税收",
+    "en": "income, especially from taxes"
+  },
+  "offset": {
+    "p": "/ˈɒfset/",
+    "t": "抵消，弥补",
+    "en": "counterbalance or compensate"
+  },
+  "poorer": {
+    "p": "/ˈpʊərə/",
+    "t": "更穷的，更差的",
+    "en": "more poor or inferior"
+  },
+  "betterresourced": {
+    "p": "/ˈbetərɪˈsɔːst/",
+    "t": "资源更丰富的",
+    "en": "having more resources"
+  },
+  "enrollment": {
+    "p": "/ɪnˈrəʊlmənt/",
+    "t": "注册，入学人数",
+    "en": "act of enrolling or number enrolled"
+  },
+  "drops": {
+    "p": "/drɒps/",
+    "t": "下降；滴",
+    "en": "falls or decreases"
+  },
+  "materials": {
+    "p": "/məˈtɪəriəlz/",
+    "t": "材料，物资",
+    "en": "substances or supplies"
+  },
+  "textbooks": {
+    "p": "/ˈtekstbʊks/",
+    "t": "教科书，课本",
+    "en": "books used for study"
+  },
+  "counselors": {
+    "p": "/ˈkaʊnsələz/",
+    "t": "顾问，辅导员",
+    "en": "advisors or guides"
+  },
+  "downward": {
+    "p": "/ˈdaʊnwəd/",
+    "t": "向下的，下降的",
+    "en": "moving or leading downward"
+  },
+  "spiral": {
+    "p": "/ˈspaɪrəl/",
+    "t": "螺旋；螺旋形",
+    "en": "a curve or continuous decline"
+  },
+  "villain": {
+    "p": "/ˈvɪlən/",
+    "t": "恶棍，反派",
+    "en": "evil or wicked person"
+  },
+  "blaming": {
+    "p": "/ˈbleɪmɪŋ/",
+    "t": "责备，归咎于",
+    "en": "holding responsible"
+  },
+  "lifestyle": {
+    "p": "/ˈlaɪfstaɪl/",
+    "t": "生活方式",
+    "en": "way of living"
+  },
+  "choices": {
+    "p": "/ˈtʃɔɪsɪz/",
+    "t": "选择，抉择",
+    "en": "acts of choosing"
+  },
+  "adopt": {
+    "p": "/əˈdɒpt/",
+    "t": "采纳，收养",
+    "en": "take up or legally take as one's own"
+  },
+  "systemic": {
+    "p": "/sɪˈstemɪk/",
+    "t": "系统的，全面的",
+    "en": "relating to a whole system"
+  },
+  "shouldn": {
+    "p": "/ˈʃʊdnt/",
+    "t": "不应该（should not的缩写）",
+    "en": "should not"
+  },
+  "shoulders": {
+    "p": "/ˈʃəʊldəz/",
+    "t": "肩膀；承担",
+    "en": "body parts or accepts responsibility"
+  },
+  "discharge": {
+    "p": "/dɪsˈtʃɑːdʒ/",
+    "t": "履行；解雇；排放",
+    "en": "fulfill or release"
+  },
+  "obligations": {
+    "p": "/ˌɒblɪˈɡeɪʃənz/",
+    "t": "义务，责任",
+    "en": "duties or commitments"
+  },
+  "obligation": {
+    "p": "/ˌɒblɪˈɡeɪʃən/",
+    "t": "义务，责任",
+    "en": "duty or commitment"
+  },
+  "toward": {
+    "p": "/təˈwɔːd/",
+    "t": "朝向，对于",
+    "en": "in the direction of"
+  },
+  "structure": {
+    "p": "/ˈstrʌktʃə/",
+    "t": "结构，构造",
+    "en": "arrangement of parts"
+  },
+  "produces": {
+    "p": "/prəˈdjuːsɪz/",
+    "t": "生产，产生",
+    "en": "makes or creates"
+  },
+  "organize": {
+    "p": "/ˈɔːɡənaɪz/",
+    "t": "组织，安排",
+    "en": "arrange systematically"
+  },
+  "decisionmakers": {
+    "p": "/dɪˈsɪʒənˌmeɪkəz/",
+    "t": "决策者",
+    "en": "people who make decisions"
+  },
+  "reform": {
+    "p": "/rɪˈfɔːm/",
+    "t": "改革，改进",
+    "en": "make changes for improvement"
+  },
+  "movements": {
+    "p": "/ˈmuːvmənts/",
+    "t": "运动；活动",
+    "en": "organized efforts or actions"
+  },
+  "privileged": {
+    "p": "/ˈprɪvəlɪdʒd/",
+    "t": "享有特权的",
+    "en": "having special advantages"
+  },
+  "learn": {
+    "p": "/lɜːn/",
+    "t": "学习，得知",
+    "en": "gain knowledge or skill"
+  },
+  "enacting": {
+    "p": "/ɪˈnæktɪŋ/",
+    "t": "颁布，制定",
+    "en": "making into law or performing"
+  },
+  "highschool": {
+    "p": "/ˈhaɪskuːl/",
+    "t": "高中",
+    "en": "secondary school"
+  },
+  "fairs": {
+    "p": "/feəz/",
+    "t": "展览会，集市",
+    "en": "exhibitions or markets"
+  },
+  "ridiculously": {
+    "p": "/rɪˈdɪkjələsli/",
+    "t": "荒谬地，可笑地",
+    "en": "in a foolish or absurd way"
+  },
+  "prompted": {
+    "p": "/ˈprɒmptɪd/",
+    "t": "促使，激起",
+    "en": "caused or encouraged"
+  },
+  "listen": {
+    "p": "/ˈlɪsən/",
+    "t": "听，倾听",
+    "en": "pay attention to sound"
+  },
+  "podcast": {
+    "p": "/ˈpɒdkɑːst/",
+    "t": "播客",
+    "en": "digital audio program"
+  },
+  "fascinating": {
+    "p": "/ˈfæsɪneɪtɪŋ/",
+    "t": "迷人的，极有趣的",
+    "en": "extremely interesting"
+  },
+  "prospects": {
+    "p": "/ˈprɒspekts/",
+    "t": "前景，可能性",
+    "en": "chances of success"
+  },
+  "altar": {
+    "p": "/ˈɔːltə/",
+    "t": "祭坛，圣坛",
+    "en": "table used in religious ceremonies"
+  },
+  "ideals": {
+    "p": "/aɪˈdɪəlz/",
+    "t": "理想，典范",
+    "en": "principles or standards"
+  },
+  "sacrifice": {
+    "p": "/ˈsækrɪfaɪs/",
+    "t": "牺牲，献祭",
+    "en": "give up something valued"
+  },
+  "realize": {
+    "p": "/ˈrɪəlaɪz/",
+    "t": "意识到；实现",
+    "en": "become aware or achieve"
+  },
+  "constructed": {
+    "p": "/kənˈstrʌktɪd/",
+    "t": "建造的，构造的",
+    "en": "built or created"
+  },
+  "tradeoff": {
+    "p": "/ˈtreɪdɒf/",
+    "t": "权衡，取舍",
+    "en": "exchange or compromise"
+  },
+  "unavoidable": {
+    "p": "/ˌʌnəˈvɔɪdəbl/",
+    "t": "不可避免的",
+    "en": "cannot be avoided"
+  },
+  "regret": {
+    "p": "/rɪˈɡret/",
+    "t": "后悔；遗憾",
+    "en": "feel sad or disappointed about something that happened"
+  },
+  "paths": {
+    "p": "/pɑːðz/",
+    "t": "路径；道路",
+    "en": "routes or ways to go"
+  },
+  "traveled": {
+    "p": "/ˈtrævəld/",
+    "t": "旅行过的；走过的",
+    "en": "having gone on a journey"
+  },
+  "essay": {
+    "p": "/ˈeseɪ/",
+    "t": "散文；短文",
+    "en": "a short piece of writing on a particular subject"
+  },
+  "closer": {
+    "p": "/ˈkləʊzə/",
+    "t": "更近的；更亲密的",
+    "en": "nearer or more intimate"
+  },
+  "alignment": {
+    "p": "/əˈlaɪnmənt/",
+    "t": "对齐；协调",
+    "en": "arrangement in a straight line or agreement"
+  },
+  "authentic": {
+    "p": "/ɔːˈθentɪk/",
+    "t": "真实的；真正的",
+    "en": "genuine or real"
+  },
+  "preferences": {
+    "p": "/ˈprefrənsɪz/",
+    "t": "偏好；偏爱",
+    "en": "choices or likings"
+  },
+  "worst": {
+    "p": "/wɜːst/",
+    "t": "最坏的；最差的",
+    "en": "most bad or least good"
+  },
+  "memberexclusive": {
+    "p": "/ˈmembər ɪkˈskluːsɪv/",
+    "t": "会员专属的",
+    "en": "available only to members"
+  },
+  "stories": {
+    "p": "/ˈstɔːriz/",
+    "t": "故事；报道",
+    "en": "accounts of events or tales"
+  },
+  "newest": {
+    "p": "/ˈnjuːɪst/",
+    "t": "最新的",
+    "en": "most recent"
+  },
+  "crossword": {
+    "p": "/ˈkrɒswɜːd/",
+    "t": "填字游戏",
+    "en": "a word puzzle with intersecting words"
+  },
+  "strange": {
+    "p": "/streɪndʒ/",
+    "t": "奇怪的；陌生的",
+    "en": "unusual or unfamiliar"
+  },
+  "shots": {
+    "p": "/ʃɒts/",
+    "t": "照片；尝试；注射",
+    "en": "photographs, attempts, or injections"
+  },
+  "improve": {
+    "p": "/ɪmˈpruːv/",
+    "t": "改进；提高",
+    "en": "make or become better"
+  },
+  "submitting": {
+    "p": "/səbˈmɪtɪŋ/",
+    "t": "提交；呈递",
+    "en": "present or hand in for consideration"
+  },
+  "email": {
+    "p": "/ˈiːmeɪl/",
+    "t": "电子邮件",
+    "en": "a message sent electronically"
+  },
+  "protected": {
+    "p": "/prəˈtektɪd/",
+    "t": "受保护的",
+    "en": "kept safe from harm"
+  },
+  "recaptcha": {
+    "p": "/ˌriːˈkæptʃə/",
+    "t": "验证码（人机验证）",
+    "en": "a security check to verify human users"
+  },
+  "apply": {
+    "p": "/əˈplaɪ/",
+    "t": "申请；应用",
+    "en": "make a formal request or put into use"
+  },
+  "native": {
+    "p": "/ˈneɪtɪv/",
+    "t": "本地的；本族的",
+    "en": "belonging to a place by birth or origin"
+  },
+  "unseen": {
+    "p": "/ˌʌnˈsiːn/",
+    "t": "未被看见的，无形的",
+    "en": "not seen or noticed"
+  },
+  "successes": {
+    "p": "/səkˈsesɪz/",
+    "t": "成功，成就",
+    "en": "plural of success; achievements"
+  },
+  "unnoticed": {
+    "p": "/ˌʌnˈnoʊtɪst/",
+    "t": "未被注意的",
+    "en": "not noticed or observed"
+  },
+  "cohosts": {
+    "p": "/ˈkoʊhoʊsts/",
+    "t": "共同主持人",
+    "en": "plural of cohost; people who host together"
+  },
+  "caller": {
+    "p": "/ˈkɔːlər/",
+    "t": "打电话者",
+    "en": "person who makes a phone call"
+  },
+  "struggled": {
+    "p": "/ˈstrʌɡəld/",
+    "t": "挣扎，奋斗",
+    "en": "past tense of struggle; made great efforts"
+  },
+  "receiving": {
+    "p": "/rɪˈsiːvɪŋ/",
+    "t": "接收，收到",
+    "en": "present participle of receive; getting something"
+  },
+  "recognition": {
+    "p": "/ˌrekəɡˈnɪʃən/",
+    "t": "认可，承认",
+    "en": "acknowledgment or appreciation"
+  },
+  "reorganization": {
+    "p": "/ˌriːˌɔːrɡənəˈzeɪʃən/",
+    "t": "重组，整顿",
+    "en": "act of organizing again"
+  },
+  "paired": {
+    "p": "/perd/",
+    "t": "配对的，成对的",
+    "en": "past tense of pair; matched together"
+  },
+  "preoccupied": {
+    "p": "/priˈɑːkjupaɪd/",
+    "t": "全神贯注的，心事重重的",
+    "en": "absorbed in thought; distracted"
+  },
+  "acknowledgement": {
+    "p": "/əkˈnɑːlɪdʒmənt/",
+    "t": "承认，感谢",
+    "en": "act of recognizing or thanking"
+  },
+  "encouragement": {
+    "p": "/ɪnˈkɜːrɪdʒmənt/",
+    "t": "鼓励，支持",
+    "en": "act of giving hope or support"
+  },
+  "awareness": {
+    "p": "/əˈwernəs/",
+    "t": "意识，知晓",
+    "en": "knowledge or perception of something"
+  },
+  "causing": {
+    "p": "/ˈkɔːzɪŋ/",
+    "t": "引起，导致",
+    "en": "present participle of cause; making happen"
+  },
+  "motivation": {
+    "p": "/ˌmoʊtɪˈveɪʃən/",
+    "t": "动机，动力",
+    "en": "reason or drive to do something"
+  },
+  "humanness": {
+    "p": "/ˈhjuːmənnəs/",
+    "t": "人性，人的特质",
+    "en": "quality of being human"
+  },
+  "barrier": {
+    "p": "/ˈbæriər/",
+    "t": "障碍，屏障",
+    "en": "obstacle that prevents progress"
+  },
+  "frustration": {
+    "p": "/ˌfrʌˈstreɪʃən/",
+    "t": "沮丧，挫败",
+    "en": "feeling of being upset or annoyed"
+  },
+  "situation": {
+    "p": "/ˌsɪtʃuˈeɪʃən/",
+    "t": "情况，处境",
+    "en": "set of circumstances"
+  },
+  "encouraged": {
+    "p": "/ɪnˈkɜːrɪdʒd/",
+    "t": "受到鼓励的",
+    "en": "past tense of encourage; given support"
+  },
+  "humanity": {
+    "p": "/hjuːˈmænəti/",
+    "t": "人类，人性",
+    "en": "people collectively; human nature"
+  },
+  "forgive": {
+    "p": "/fərˈɡɪv/",
+    "t": "原谅，宽恕",
+    "en": "stop feeling angry at someone"
+  },
+  "mistakes": {
+    "p": "/mɪˈsteɪks/",
+    "t": "错误，过失",
+    "en": "plural of mistake; wrong actions"
+  },
+  "curiosity": {
+    "p": "/ˌkjʊriˈɑːsəti/",
+    "t": "好奇心",
+    "en": "desire to learn or know"
+  },
+  "judgment": {
+    "p": "/ˈdʒʌdʒmənt/",
+    "t": "判断，评价",
+    "en": "ability to make decisions; opinion"
+  },
+  "curious": {
+    "p": "/ˈkjʊriəs/",
+    "t": "好奇的",
+    "en": "eager to learn or know"
+  },
+  "expression": {
+    "p": "/ɪkˈspreʃən/",
+    "t": "表达，表情",
+    "en": "act of expressing; facial look"
+  },
+  "truly": {
+    "p": "/ˈtruːli/",
+    "t": "真正地，确实地",
+    "en": "in a true manner; really"
+  },
+  "magical": {
+    "p": "/ˈmædʒɪkəl/",
+    "t": "神奇的，魔法的",
+    "en": "relating to magic; enchanting"
+  },
+  "elixir": {
+    "p": "/ɪˈlɪksər/",
+    "t": "灵丹妙药",
+    "en": "magical or medicinal liquid"
+  },
+  "accomplishments": {
+    "p": "/əˈkɑːmplɪʃmənts/",
+    "t": "成就，完成",
+    "en": "plural of accomplishment; achievements"
+  },
+  "contributions": {
+    "p": "/ˌkɑːntrɪˈbjuːʃənz/",
+    "t": "贡献，捐赠",
+    "en": "plural of contribution; acts of giving or helping"
+  },
+  "meetings": {
+    "p": "/ˈmiːtɪŋz/",
+    "t": "会议，聚会",
+    "en": "plural of meeting; gatherings"
+  },
+  "productive": {
+    "p": "/prəˈdʌktɪv/",
+    "t": "富有成效的",
+    "en": "producing good results"
+  },
+  "oneonone": {
+    "p": "/ˌwʌn ɒn ˈwʌn/",
+    "t": "一对一的",
+    "en": "involving two people directly"
+  },
+  "option": {
+    "p": "/ˈɑːpʃən/",
+    "t": "选项，选择",
+    "en": "choice or alternative"
+  },
+  "concerns": {
+    "p": "/kənˈsɜːrnz/",
+    "t": "担忧，关切",
+    "en": "plural of concern; worries or interests"
+  },
+  "vision": {
+    "p": "/ˈvɪʒən/",
+    "t": "愿景，视力",
+    "en": "ability to see; future idea"
+  },
+  "helpful": {
+    "p": "/ˈhelpfəl/",
+    "t": "有帮助的",
+    "en": "providing assistance"
+  },
+  "getting": {
+    "p": "/ˈɡetɪŋ/",
+    "t": "得到；变得",
+    "en": "present participle of get; to obtain or become"
+  },
+  "reorganizations": {
+    "p": "/ˌriːˌɔːrɡənəˈzeɪʃənz/",
+    "t": "重组，整顿（复数）",
+    "en": "plural of reorganization; acts of restructuring"
+  },
+  "sweeping": {
+    "p": "/ˈswiːpɪŋ/",
+    "t": "广泛的，彻底的",
+    "en": "wide-ranging; comprehensive"
+  },
+  "stressed": {
+    "p": "/strest/",
+    "t": "焦虑的，紧张的",
+    "en": "feeling worried or tense"
+  },
+  "readjustment": {
+    "p": "/ˌriːəˈdʒʌstmənt/",
+    "t": "重新调整",
+    "en": "act of adjusting again"
+  },
+  "collaborating": {
+    "p": "/kəˈlæbəreɪtɪŋ/",
+    "t": "合作，协作",
+    "en": "present participle of collaborate; working together"
+  },
+  "autonomy": {
+    "p": "/ɔːˈtɑːnəmi/",
+    "t": "自主权，自治",
+    "en": "freedom to act independently"
+  },
+  "marvel": {
+    "p": "/ˈmɑːrvəl/",
+    "t": "奇迹，惊叹",
+    "en": "wonderful thing; to be amazed"
+  },
+  "opposed": {
+    "p": "/əˈpoʊzd/",
+    "t": "反对的，相对的",
+    "en": "against; in contrast"
+  },
+  "pleasantly": {
+    "p": "/ˈplezəntli/",
+    "t": "令人愉快地",
+    "en": "in a pleasing manner"
+  },
+  "surprised": {
+    "p": "/sərˈpraɪzd/",
+    "t": "惊讶的",
+    "en": "feeling astonishment"
+  },
+  "beautiful": {
+    "p": "/ˈbjuːtɪfəl/",
+    "t": "美丽的",
+    "en": "pleasing to the senses or mind"
+  },
+  "actionable": {
+    "p": "/ˈækʃənəbəl/",
+    "t": "可执行的，切实可行的",
+    "en": "able to be acted on"
+  },
+  "workdays": {
+    "p": "/ˈwɜːrkdeɪz/",
+    "t": "工作日",
+    "en": "plural of workday; days for work"
+  },
+  "episodes": {
+    "p": "/ˈepɪsoʊdz/",
+    "t": "情节，片段",
+    "en": "plural of episode; parts of a series"
+  },
+  "roadblocks": {
+    "p": "/ˈroʊdblɑːks/",
+    "t": "障碍，路障",
+    "en": "plural of roadblock; barriers"
+  },
+  "answered": {
+    "p": "/ˈænsərd/",
+    "t": "回答的，已答复",
+    "en": "past tense of answer; replied"
+  },
+  "wherever": {
+    "p": "/weəˈrevə/",
+    "t": "无论哪里",
+    "en": "in or to whatever place"
+  },
+  "podcasts": {
+    "p": "/ˈpɒdkɑːsts/",
+    "t": "播客（复数）",
+    "en": "digital audio programs available for download"
+  },
+  "morriss": {
+    "p": "/ˈmɔːrɪs/",
+    "t": "莫里斯（人名）",
+    "en": "a surname or given name"
+  },
+  "fixable": {
+    "p": "/ˈfɪksəbəl/",
+    "t": "可修复的",
+    "en": "able to be fixed"
+  },
+  "frances": {
+    "p": "/ˈfrænsɪs/",
+    "t": "弗朗西斯（人名）",
+    "en": "a given name"
+  },
+  "staycation": {
+    "p": "/steɪˈkeɪʃən/",
+    "t": "居家度假",
+    "en": "a vacation spent at home or nearby"
+  },
+  "hotline": {
+    "p": "/ˈhɒtlaɪn/",
+    "t": "热线电话",
+    "en": "a direct telephone line for special purposes"
+  },
+  "unanswered": {
+    "p": "/ʌnˈɑːnsəd/",
+    "t": "未回答的",
+    "en": "not replied to or responded"
+  },
+  "joined": {
+    "p": "/dʒɔɪnd/",
+    "t": "加入的；连接的",
+    "en": "past tense of join; to become a member or connect"
+  },
+  "senior": {
+    "p": "/ˈsiːniə/",
+    "t": "年长的；高级的",
+    "en": "older or higher in rank"
+  },
+  "producer": {
+    "p": "/prəˈdjuːsə/",
+    "t": "制作人；生产者",
+    "en": "a person or company that makes something"
+  },
+  "policy": {
+    "p": "/ˈpɒləsi/",
+    "t": "政策；方针",
+    "en": "a course of action adopted by a government or organization"
+  },
+  "source": {
+    "p": "/sɔːs/",
+    "t": "来源；源头",
+    "en": "a place, person, or thing from which something comes"
+  },
+  "unlimited": {
+    "p": "/ʌnˈlɪmɪtɪd/",
+    "t": "无限的",
+    "en": "without limits or restrictions"
+  },
+  "weeklong": {
+    "p": "/ˈwiːklɒŋ/",
+    "t": "为期一周的",
+    "en": "lasting for a week"
+  },
+  "vacation": {
+    "p": "/vəˈkeɪʃən/",
+    "t": "假期；休假",
+    "en": "a period of time spent away from work or school for rest or travel"
+  },
+  "cliche": {
+    "p": "/ˈkliːʃeɪ/",
+    "t": "陈词滥调",
+    "en": "a phrase or opinion that is overused and lacks original thought"
+  },
+  "holiday": {
+    "p": "/ˈhɒlədeɪ/",
+    "t": "假日；节日",
+    "en": "a day of festivity or recreation when no work is done"
+  },
+  "chokehold": {
+    "p": "/ˈtʃəʊkhəʊld/",
+    "t": "锁喉；扼制",
+    "en": "a strong grip around the neck; a controlling influence"
+  },
+  "simpler": {
+    "p": "/ˈsɪmplə/",
+    "t": "更简单的",
+    "en": "comparative of simple; easier to understand or do"
+  },
+  "allegedly": {
+    "p": "/əˈledʒɪdli/",
+    "t": "据称",
+    "en": "according to what is claimed or asserted"
+  },
+  "relaxing": {
+    "p": "/rɪˈlæksɪŋ/",
+    "t": "令人放松的",
+    "en": "making one feel calm and less stressed"
+  },
+  "vacations": {
+    "p": "/vəˈkeɪʃənz/",
+    "t": "假期（复数）",
+    "en": "plural of vacation; periods of rest or travel"
+  },
+  "flights": {
+    "p": "/flaɪts/",
+    "t": "航班；飞行",
+    "en": "journeys by air; airplane trips"
+  },
+  "hotel": {
+    "p": "/həʊˈtel/",
+    "t": "旅馆；酒店",
+    "en": "a building providing lodging and meals for travelers"
+  },
+  "rooms": {
+    "p": "/ruːmz/",
+    "t": "房间（复数）",
+    "en": "plural of room; separate spaces in a building"
+  },
+  "factor": {
+    "p": "/ˈfæktə/",
+    "t": "因素；要素",
+    "en": "a circumstance or condition that contributes to a result"
+  },
+  "meals": {
+    "p": "/miːlz/",
+    "t": "餐食（复数）",
+    "en": "plural of meal; occasions of eating food"
+  },
+  "corny": {
+    "p": "/ˈkɔːni/",
+    "t": "老套的；乏味的",
+    "en": "trite or mawkish; lacking originality"
+  },
+  "souvenir": {
+    "p": "/ˌsuːvəˈnɪə/",
+    "t": "纪念品",
+    "en": "an object kept as a reminder of a place or event"
+  },
+  "travel": {
+    "p": "/ˈtrævəl/",
+    "t": "旅行；旅游",
+    "en": "to go from one place to another, especially over a distance"
+  },
+  "normally": {
+    "p": "/ˈnɔːməli/",
+    "t": "通常；正常地",
+    "en": "in a usual or typical manner"
+  },
+  "regular": {
+    "p": "/ˈreɡjʊlə/",
+    "t": "定期的；常规的",
+    "en": "following a pattern or schedule; usual"
+  },
+  "burdensome": {
+    "p": "/ˈbɜːdənsəm/",
+    "t": "繁重的；累人的",
+    "en": "causing difficulty or hardship; heavy to bear"
+  },
+  "daily": {
+    "p": "/ˈdeɪli/",
+    "t": "每日的；日常的",
+    "en": "happening or done every day"
+  },
+  "enabling": {
+    "p": "/ɪˈneɪblɪŋ/",
+    "t": "使能够的；授权的",
+    "en": "making something possible or providing the means"
+  },
+  "granted": {
+    "p": "/ˈɡrɑːntɪd/",
+    "t": "授予的；承认的",
+    "en": "given or allowed; admitted as true"
+  },
+  "rewarding": {
+    "p": "/rɪˈwɔːdɪŋ/",
+    "t": "有回报的；值得的",
+    "en": "giving satisfaction or benefit"
+  },
+  "budgetfriendly": {
+    "p": "/ˈbʌdʒɪt ˈfrendli/",
+    "t": "经济实惠的",
+    "en": "inexpensive; not costly"
+  },
+  "hopefully": {
+    "p": "/ˈhəʊpfəli/",
+    "t": "有希望地；但愿",
+    "en": "in a hopeful manner; it is hoped that"
+  },
+  "aside": {
+    "p": "/əˈsaɪd/",
+    "t": "在旁边；撇开",
+    "en": "to one side; apart from"
+  },
+  "sometime": {
+    "p": "/ˈsʌmtaɪm/",
+    "t": "在某时；改天",
+    "en": "at an unspecified time"
+  },
+  "typical": {
+    "p": "/ˈtɪpɪkəl/",
+    "t": "典型的；有代表性的",
+    "en": "having the distinctive qualities of a particular type"
+  },
+  "daytoday": {
+    "p": "/ˈdeɪ təˈdeɪ/",
+    "t": "日常的；每天的",
+    "en": "ordinary and routine; happening every day"
+  },
+  "creeping": {
+    "p": "/ˈkriːpɪŋ/",
+    "t": "爬行的；缓慢蔓延的",
+    "en": "moving slowly and quietly; gradually increasing"
+  },
+  "weekly": {
+    "p": "/ˈwiːkli/",
+    "t": "每周的；一周一次的",
+    "en": "happening or done every week"
+  },
+  "callin": {
+    "p": "/ˈkɔːl ɪn/",
+    "t": "打电话进来；呼入",
+    "en": "a phone call made to a radio or TV show"
+  },
+  "edited": {
+    "p": "/ˈedɪtɪd/",
+    "t": "编辑过的",
+    "en": "past tense of edit; to prepare for publication or broadcast"
+  },
+  "length": {
+    "p": "/leŋθ/",
+    "t": "长度；时长",
+    "en": "the measurement of something from end to end; duration"
+  },
+  "clarity": {
+    "p": "/ˈklærəti/",
+    "t": "清晰；明了",
+    "en": "the quality of being clear and easy to understand"
+  },
+  "askvox": {
+    "p": "/ɑːsk vɒks/",
+    "t": "向Vox提问（专有名词）",
+    "en": "a segment or feature asking questions to Vox"
+  },
+  "hyped": {
+    "p": "/haɪpt/",
+    "t": "被大肆宣传的；兴奋的",
+    "en": "excited or promoted aggressively"
+  },
+  "staying": {
+    "p": "/ˈsteɪɪŋ/",
+    "t": "停留；保持",
+    "en": "present participle of stay; to remain in a place or condition"
+  },
+  "reviews": {
+    "p": "/rɪˈvjuːz/",
+    "t": "评论（复数）",
+    "en": "plural of review; assessments or critiques"
+  },
+  "restaurant": {
+    "p": "/ˈrestrɒnt/",
+    "t": "餐馆；饭店",
+    "en": "a place where meals are prepared and served to customers"
+  },
+  "drool": {
+    "p": "/druːl/",
+    "t": "流口水；垂涎",
+    "en": "to salivate; to show great desire"
+  },
+  "favorite": {
+    "p": "/ˈfeɪvərɪt/",
+    "t": "最喜欢的",
+    "en": "preferred above all others"
+  },
+  "bookstores": {
+    "p": "/ˈbʊkstɔːz/",
+    "t": "书店（复数）",
+    "en": "plural of bookstore; shops selling books"
+  },
+  "explore": {
+    "p": "/ɪkˈsplɔː/",
+    "t": "探索；探究",
+    "en": "to travel through or investigate in order to discover"
+  },
+  "anticipation": {
+    "p": "/ænˌtɪsɪˈpeɪʃən/",
+    "t": "期待；预期",
+    "en": "the act of looking forward to something"
+  },
+  "vibes": {
+    "p": "/vaɪbz/",
+    "t": "氛围；感觉",
+    "en": "emotional atmosphere or feelings"
+  },
+  "candle": {
+    "p": "/ˈkændəl/",
+    "t": "蜡烛",
+    "en": "a cylinder of wax with a wick for lighting"
+  },
+  "parkscented": {
+    "p": "/pɑːk ˈsentɪd/",
+    "t": "带有公园香气的",
+    "en": "having a fragrance reminiscent of a park"
+  },
+  "piney": {
+    "p": "/ˈpaɪni/",
+    "t": "松树般的；松香的",
+    "en": "resembling or smelling of pine"
+  },
+  "audio": {
+    "p": "/ˈɔːdiəʊ/",
+    "t": "音频的；声音的",
+    "en": "relating to sound or its reproduction"
+  },
+  "beach": {
+    "p": "/biːtʃ/",
+    "t": "海滩",
+    "en": "a sandy or pebbly shore by the sea"
+  },
+  "married": {
+    "p": "/ˈmærid/",
+    "t": "已婚的",
+    "en": "having a spouse; in a legal union"
+  },
+  "pregnant": {
+    "p": "/ˈpreɡnənt/",
+    "t": "怀孕的",
+    "en": "carrying a developing fetus"
+  },
+  "webcam": {
+    "p": "/ˈwebkæm/",
+    "t": "网络摄像头",
+    "en": "a camera that transmits images over the internet"
+  },
+  "showed": {
+    "p": "/ʃəʊd/",
+    "t": "展示；显示",
+    "en": "past tense of show; to display or demonstrate"
+  },
+  "sunset": {
+    "p": "/ˈsʌnset/",
+    "t": "日落",
+    "en": "the time when the sun disappears below the horizon"
+  },
+  "takeout": {
+    "p": "/ˈteɪkaʊt/",
+    "t": "外卖食物",
+    "en": "food prepared to be eaten away from the restaurant"
+  },
+  "watched": {
+    "p": "/wɒtʃt/",
+    "t": "观看；注视",
+    "en": "past tense of watch; to look at attentively"
+  },
+  "letting": {
+    "p": "/ˈletɪŋ/",
+    "t": "允许；出租",
+    "en": "present participle of let; to allow or permit"
+  },
+  "creep": {
+    "p": "/kriːp/",
+    "t": "爬行；缓慢移动",
+    "en": "to move slowly and quietly; to spread gradually"
+  },
+  "administrative": {
+    "p": "/ədˈmɪnɪstrətɪv/",
+    "t": "行政的；管理的",
+    "en": "relating to the running of an organization"
+  },
+  "tasks": {
+    "p": "/tɑːsks/",
+    "t": "任务（复数）",
+    "en": "plural of task; pieces of work to be done"
+  },
+  "alert": {
+    "p": "/əˈlɜːt/",
+    "t": "警觉的；警报",
+    "en": "watchful and ready; a warning signal"
+  },
+  "gander": {
+    "p": "/ˈɡændə/",
+    "t": "雄鹅；一瞥",
+    "en": "a male goose; a quick look"
+  },
+  "locks": {
+    "p": "/lɒks/",
+    "t": "锁（复数）；头发",
+    "en": "plural of lock; devices for securing; also strands of hair"
+  },
+  "force": {
+    "p": "/fɔːs/",
+    "t": "力量；强制",
+    "en": "strength or power; to compel"
+  },
+  "constant": {
+    "p": "/ˈkɒnstənt/",
+    "t": "持续的；不变的",
+    "en": "occurring continuously; unchanging"
+  },
+  "emergency": {
+    "p": "/ɪˈmɜːdʒənsi/",
+    "t": "紧急情况",
+    "en": "a serious situation requiring immediate action"
+  },
+  "super": {
+    "p": "/ˈsuːpə/",
+    "t": "极好的；超级的",
+    "en": "excellent; very good"
+  },
+  "whatever": {
+    "p": "/wɒtˈevə/",
+    "t": "无论什么；任何",
+    "en": "anything or everything; no matter what"
+  },
+  "haven": {
+    "p": "/ˈheɪvən/",
+    "t": "避难所；安全的地方",
+    "en": "a place of safety or refuge"
+  },
+  "spending": {
+    "p": "/ˈspendɪŋ/",
+    "t": "花费（现在分词）",
+    "en": "present participle of spend; to pay out money"
+  },
+  "doomsday": {
+    "p": "/ˈduːmzdeɪ/",
+    "t": "世界末日",
+    "en": "the last day of the world's existence"
+  },
+  "ignoring": {
+    "p": "/ɪɡˈnɔːrɪŋ/",
+    "t": "忽视；不理睬",
+    "en": "present participle of ignore; to pay no attention to"
+  },
+  "persist": {
+    "p": "/pəˈsɪst/",
+    "t": "坚持；持续",
+    "en": "to continue firmly in an opinion or course of action despite difficulty"
+  },
+  "bowling": {
+    "p": "/ˈbəʊlɪŋ/",
+    "t": "保龄球；滚木球戏",
+    "en": "a game in which players roll a heavy ball down a lane to knock down pins"
+  },
+  "squad": {
+    "p": "/skwɒd/",
+    "t": "小队；班",
+    "en": "a small group of people working together"
+  },
+  "organizations": {
+    "p": "/ˌɔːɡənaɪˈzeɪʃənz/",
+    "t": "组织；机构",
+    "en": "groups of people with a particular purpose, such as a business or club"
+  },
+  "stocks": {
+    "p": "/stɒks/",
+    "t": "股票；库存",
+    "en": "shares in a company; supplies of goods kept for sale"
+  },
+  "innovations": {
+    "p": "/ˌɪnəˈveɪʃənz/",
+    "t": "创新；革新",
+    "en": "new ideas, methods, or products"
+  },
+  "customers": {
+    "p": "/ˈkʌstəməz/",
+    "t": "顾客；客户",
+    "en": "people who buy goods or services"
+  },
+  "coders": {
+    "p": "/ˈkəʊdəz/",
+    "t": "程序员；编码员",
+    "en": "people who write computer code"
+  },
+  "salespeople": {
+    "p": "/ˈseɪlzˌpiːpl/",
+    "t": "销售人员",
+    "en": "people whose job is to sell products or services"
+  },
+  "architects": {
+    "p": "/ˈɑːkɪteks/",
+    "t": "建筑师；设计师",
+    "en": "people who design buildings; also, people who plan complex systems"
+  },
+  "waste": {
+    "p": "/weɪst/",
+    "t": "浪费；废物",
+    "en": "to use carelessly; rubbish or unwanted material"
+  },
+  "vocational": {
+    "p": "/vəʊˈkeɪʃənl/",
+    "t": "职业的；职业教育的",
+    "en": "relating to the skills and training for a particular job"
+  },
+  "backbone": {
+    "p": "/ˈbækbəʊn/",
+    "t": "脊柱；支柱；骨干",
+    "en": "the spine; the main support or most important part"
+  },
+  "recruitment": {
+    "p": "/rɪˈkruːtmənt/",
+    "t": "招聘；招募",
+    "en": "the process of finding and hiring new people"
+  },
+  "similarly": {
+    "p": "/ˈsɪmələli/",
+    "t": "类似地",
+    "en": "in a similar way"
+  },
+  "vocationally": {
+    "p": "/vəʊˈkeɪʃənəli/",
+    "t": "职业上地",
+    "en": "in a way related to a particular job or profession"
+  },
+  "skilled": {
+    "p": "/skɪld/",
+    "t": "熟练的；有技能的",
+    "en": "having the ability and experience to do something well"
+  },
+  "checkboxes": {
+    "p": "/ˈtʃekbɒksɪz/",
+    "t": "复选框",
+    "en": "small squares on a form or screen that you click to select or mark an option"
+  },
+  "checked": {
+    "p": "/tʃekt/",
+    "t": "检查过的；打勾的",
+    "en": "examined or marked with a tick"
+  },
+  "misdefining": {
+    "p": "/ˌmɪsdɪˈfaɪnɪŋ/",
+    "t": "错误定义",
+    "en": "the act of defining something incorrectly"
+  },
+  "diminished": {
+    "p": "/dɪˈmɪnɪʃt/",
+    "t": "减少的；贬低的",
+    "en": "made smaller or less; reduced in importance"
+  },
+  "imply": {
+    "p": "/ɪmˈplaɪ/",
+    "t": "暗示；意味着",
+    "en": "to suggest without saying directly"
+  },
+  "optional": {
+    "p": "/ˈɒpʃənl/",
+    "t": "可选的；非强制的",
+    "en": "not required; available to choose"
+  },
+  "difficulttomeasure": {
+    "p": "/ˈdɪfɪkəlt tə ˈmeʒə/",
+    "t": "难以衡量的",
+    "en": "hard to quantify or assess"
+  },
+  "attitudes": {
+    "p": "/ˈætɪtjuːdz/",
+    "t": "态度；看法",
+    "en": "ways of thinking or feeling about something"
+  },
+  "perceptions": {
+    "p": "/pəˈsepʃənz/",
+    "t": "感知；认知",
+    "en": "ways of understanding or interpreting something"
+  },
+  "knowing": {
+    "p": "/ˈnəʊɪŋ/",
+    "t": "知道的；有知识的",
+    "en": "having knowledge or awareness"
+  },
+  "engineering": {
+    "p": "/ˌendʒɪˈnɪərɪŋ/",
+    "t": "工程；工程学",
+    "en": "the application of science to design and build structures, machines, etc."
+  },
+  "copywriting": {
+    "p": "/ˈkɒpiraɪtɪŋ/",
+    "t": "文案写作",
+    "en": "the activity of writing advertising or promotional text"
+  },
+  "graphic": {
+    "p": "/ˈɡræfɪk/",
+    "t": "图形的；图解的",
+    "en": "relating to visual art or design; also, a picture or diagram"
+  },
+  "decisionmaking": {
+    "p": "/dɪˈsɪʒənˌmeɪkɪŋ/",
+    "t": "决策",
+    "en": "the process of making choices"
+  },
+  "eager": {
+    "p": "/ˈiːɡə/",
+    "t": "渴望的；热切的",
+    "en": "strongly wanting to do or have something"
+  },
+  "dancing": {
+    "p": "/ˈdɑːnsɪŋ/",
+    "t": "跳舞；舞蹈",
+    "en": "moving rhythmically to music"
+  },
+  "speaking": {
+    "p": "/ˈspiːkɪŋ/",
+    "t": "说话；演讲",
+    "en": "the act of communicating verbally"
+  },
+  "authority": {
+    "p": "/ɔːˈθɒrəti/",
+    "t": "权威；权力",
+    "en": "the power or right to give orders and make decisions"
+  },
+  "inspiring": {
+    "p": "/ɪnˈspaɪərɪŋ/",
+    "t": "鼓舞人心的",
+    "en": "making you feel motivated and enthusiastic"
+  },
+  "caring": {
+    "p": "/ˈkeərɪŋ/",
+    "t": "关心的；体贴的",
+    "en": "showing concern and kindness for others"
+  },
+  "underinvest": {
+    "p": "/ˌʌndərɪnˈvest/",
+    "t": "投资不足",
+    "en": "to invest too little money or effort"
+  },
+  "fearful": {
+    "p": "/ˈfɪəfl/",
+    "t": "害怕的；担心的",
+    "en": "afraid or anxious"
+  },
+  "innate": {
+    "p": "/ɪˈneɪt/",
+    "t": "天生的；固有的",
+    "en": "existing from birth; natural"
+  },
+  "downplay": {
+    "p": "/ˌdaʊnˈpleɪ/",
+    "t": "轻描淡写；贬低",
+    "en": "to make something seem less important than it is"
+  },
+  "seemingly": {
+    "p": "/ˈsiːmɪŋli/",
+    "t": "看似；表面上",
+    "en": "appearing to be true, but maybe not"
+  },
+  "urgent": {
+    "p": "/ˈɜːdʒənt/",
+    "t": "紧急的",
+    "en": "requiring immediate action"
+  },
+  "persuaded": {
+    "p": "/pəˈsweɪdɪd/",
+    "t": "被说服的",
+    "en": "convinced to do or believe something"
+  },
+  "impersonal": {
+    "p": "/ɪmˈpɜːsənl/",
+    "t": "非个人的；冷淡的",
+    "en": "not involving personal feelings; cold"
+  },
+  "seems": {
+    "p": "/siːmz/",
+    "t": "似乎；好像",
+    "en": "appears to be"
+  },
+  "selecting": {
+    "p": "/sɪˈlektɪŋ/",
+    "t": "选择；挑选",
+    "en": "choosing from a group"
+  },
+  "retrain": {
+    "p": "/ˌriːˈtreɪn/",
+    "t": "再培训；重新训练",
+    "en": "to learn new skills for a different job"
+  },
+  "missing": {
+    "p": "/ˈmɪsɪŋ/",
+    "t": "丢失的；缺少的",
+    "en": "not present or not found"
+  },
+  "worried": {
+    "p": "/ˈwʌrid/",
+    "t": "担心的；发愁的",
+    "en": "anxious about something"
+  },
+  "stepping": {
+    "p": "/ˈstepɪŋ/",
+    "t": "跨步；行走",
+    "en": "moving by lifting and setting down the foot"
+  },
+  "possibly": {
+    "p": "/ˈpɒsəbli/",
+    "t": "可能地",
+    "en": "perhaps; maybe"
+  },
+  "wasting": {
+    "p": "/ˈweɪstɪŋ/",
+    "t": "浪费；挥霍",
+    "en": "using something carelessly or without benefit"
+  },
+  "chess": {
+    "p": "/tʃes/",
+    "t": "国际象棋",
+    "en": "a board game for two players"
+  },
+  "typing": {
+    "p": "/ˈtaɪpɪŋ/",
+    "t": "打字",
+    "en": "the activity of writing using a keyboard"
+  },
+  "accidentally": {
+    "p": "/ˌæksɪˈdentəli/",
+    "t": "意外地",
+    "en": "by chance"
+  },
+  "osmosis": {
+    "p": "/ɒzˈməʊsɪs/",
+    "t": "渗透；潜移默化",
+    "en": "gradual absorption of ideas or knowledge without conscious effort"
+  },
+  "collisions": {
+    "p": "/kəˈlɪʒənz/",
+    "t": "碰撞；冲突",
+    "en": "violent hits or crashes between objects or people"
+  },
+  "bosses": {
+    "p": "/ˈbɒsɪz/",
+    "t": "老板；上司",
+    "en": "people who manage or supervise others"
+  },
+  "interpersonal": {
+    "p": "/ˌɪntəˈpɜːsənl/",
+    "t": "人际的；人与人之间的",
+    "en": "relating to relationships or communication between people"
+  },
+  "charisma": {
+    "p": "/kəˈrɪzmə/",
+    "t": "魅力；感召力",
+    "en": "attractive personal quality that inspires others"
+  },
+  "diligence": {
+    "p": "/ˈdɪlɪdʒəns/",
+    "t": "勤奋；勤勉",
+    "en": "careful and persistent effort"
+  },
+  "modifiers": {
+    "p": "/ˈmɒdɪfaɪəz/",
+    "t": "修饰语；修饰词",
+    "en": "words that add detail to other words"
+  },
+  "accurate": {
+    "p": "/ˈækjərət/",
+    "t": "准确的；精确的",
+    "en": "correct and exact"
+  },
+  "somehow": {
+    "p": "/ˈsʌmhaʊ/",
+    "t": "以某种方式；不知怎么地",
+    "en": "in a way that is not known or certain"
+  },
+  "graduate": {
+    "p": "/ˈɡrædʒuət/",
+    "t": "毕业生；毕业",
+    "en": "a person who has completed a degree; to complete a course of study"
+  },
+  "degree": {
+    "p": "/dɪˈɡriː/",
+    "t": "学位；程度",
+    "en": "a qualification from a university; also, a unit of measurement"
+  },
+  "uncomfortably": {
+    "p": "/ʌnˈkʌmftəbli/",
+    "t": "不舒服地；不安地",
+    "en": "in a way that causes physical or mental discomfort"
+  },
+  "computer": {
+    "p": "/kəmˈpjuːtə/",
+    "t": "计算机；电脑",
+    "en": "an electronic device for storing and processing data"
+  },
+  "amplify": {
+    "p": "/ˈæmplɪfaɪ/",
+    "t": "放大；增强",
+    "en": "to make something louder or stronger"
+  },
+  "measuring": {
+    "p": "/ˈmeʒərɪŋ/",
+    "t": "测量；衡量",
+    "en": "finding out the size or amount of something"
+  },
+  "experienced": {
+    "p": "/ɪkˈspɪəriənst/",
+    "t": "有经验的；熟练的",
+    "en": "having knowledge or skill from doing something"
+  },
+  "resume": {
+    "p": "/rɪˈzjuːm/",
+    "t": "简历；继续",
+    "en": "a document listing work experience; to begin again"
+  },
+  "baseline": {
+    "p": "/ˈbeɪslaɪn/",
+    "t": "基线；基准",
+    "en": "a starting point for comparison"
+  },
+  "charismatic": {
+    "p": "/ˌkærɪzˈmætɪk/",
+    "t": "有魅力的",
+    "en": "having charm and appeal that attracts people"
+  },
+  "focused": {
+    "p": "/ˈfəʊkəst/",
+    "t": "专注的；集中的",
+    "en": "concentrating on a particular thing"
+  },
+  "goalsetting": {
+    "p": "/ˈɡəʊlˌsetɪŋ/",
+    "t": "目标设定",
+    "en": "the process of deciding what you want to achieve"
+  },
+  "motivated": {
+    "p": "/ˈməʊtɪveɪtɪd/",
+    "t": "有动力的；积极的",
+    "en": "having a strong reason to do something"
+  },
+  "empathic": {
+    "p": "/emˈpæθɪk/",
+    "t": "有同理心的",
+    "en": "able to understand and share others' feelings"
+  },
+  "organization": {
+    "p": "/ˌɔːɡənaɪˈzeɪʃən/",
+    "t": "组织；机构",
+    "en": "a group of people with a shared purpose"
+  },
+  "joins": {
+    "p": "/dʒɔɪnz/",
+    "t": "加入；连接",
+    "en": "becomes a member of; connects"
+  },
+  "reports": {
+    "p": "/rɪˈpɔːts/",
+    "t": "报告；汇报",
+    "en": "official documents or spoken accounts; also, to give information"
+  },
+  "communicating": {
+    "p": "/kəˈmjuːnɪkeɪtɪŋ/",
+    "t": "交流；沟通",
+    "en": "sharing information with others"
+  },
+  "guess": {
+    "p": "/ɡes/",
+    "t": "猜测；猜想",
+    "en": "to estimate or suppose without certainty"
+  },
+  "lying": {
+    "p": "/ˈlaɪɪŋ/",
+    "t": "说谎；躺卧",
+    "en": "telling lies; being in a horizontal position"
+  },
+  "compliance": {
+    "p": "/kəmˈplaɪəns/",
+    "t": "服从；遵守",
+    "en": "the act of following rules or orders"
+  },
+  "behavior": {
+    "p": "/bɪˈheɪvjə/",
+    "t": "行为；举止",
+    "en": "the way someone acts"
+  },
+  "overlay": {
+    "p": "/ˌəʊvəˈleɪ/",
+    "t": "覆盖；叠加",
+    "en": "to cover something with a layer"
+  },
+  "greed": {
+    "p": "/ɡriːd/",
+    "t": "贪婪",
+    "en": "intense desire for more than one needs"
+  },
+  "shortterm": {
+    "p": "/ˌʃɔːtˈtɜːm/",
+    "t": "短期的",
+    "en": "relating to a short period of time"
+  },
+  "peoplecentric": {
+    "p": "/ˈpiːplˌsentrɪk/",
+    "t": "以人为本的",
+    "en": "focused on people's needs and values"
+  },
+  "accepting": {
+    "p": "/əkˈseptɪŋ/",
+    "t": "接受的；认可的",
+    "en": "willing to take something offered; approving"
+  },
+  "thirds": {
+    "p": "/θɜːdz/",
+    "t": "三分之一",
+    "en": "three equal parts of a whole; one of them"
+  },
+  "presumably": {
+    "p": "/prɪˈzjuːməbli/",
+    "t": "大概；推测起来",
+    "en": "probably; based on reasonable assumption"
+  },
+  "integral": {
+    "p": "/ˈɪntɪɡrəl/",
+    "t": "必需的；不可或缺的",
+    "en": "essential to completeness"
+  },
+  "admitted": {
+    "p": "/ədˈmɪtɪd/",
+    "t": "承认的；被录取的",
+    "en": "accepted as true; allowed to enter"
+  },
+  "analytical": {
+    "p": "/ˌænəˈlɪtɪkl/",
+    "t": "分析的；善于分析的",
+    "en": "using logic and reasoning to examine things"
+  },
+  "aptitude": {
+    "p": "/ˈæptɪtjuːd/",
+    "t": "天资；才能",
+    "en": "natural ability or talent"
+  },
+  "expertise": {
+    "p": "/ˌekspɜːˈtiːz/",
+    "t": "专业知识；专门技能",
+    "en": "high level of skill or knowledge"
+  },
+  "informationgathering": {
+    "p": "/ˌɪnfəˈmeɪʃən ˈɡæðərɪŋ/",
+    "t": "信息收集",
+    "en": "the activity of collecting data or facts"
+  },
+  "sorely": {
+    "p": "/ˈsɔːli/",
+    "t": "非常；严重地",
+    "en": "to a great degree; seriously"
+  },
+  "lacking": {
+    "p": "/ˈlækɪŋ/",
+    "t": "缺乏的；不足的",
+    "en": "missing or not having enough"
+  },
+  "employers": {
+    "p": "/ɪmˈplɔɪəz/",
+    "t": "雇主",
+    "en": "people or organizations that hire workers"
+  },
+  "attractive": {
+    "p": "/əˈtræktɪv/",
+    "t": "有吸引力的；迷人的",
+    "en": "pleasing to look at or appealing"
+  },
+  "adaptability": {
+    "p": "/əˌdæptəˈbɪləti/",
+    "t": "适应性；灵活性",
+    "en": "ability to change or adjust to new conditions"
+  },
+  "belittle": {
+    "p": "/bɪˈlɪtl/",
+    "t": "贬低；轻视",
+    "en": "to make someone or something seem less important"
+  },
+  "intimidate": {
+    "p": "/ɪnˈtɪmɪdeɪt/",
+    "t": "恐吓；威胁",
+    "en": "to frighten someone, especially to make them do something"
+  },
+  "understood": {
+    "p": "/ˌʌndəˈstʊd/",
+    "t": "被理解的；明白的",
+    "en": "past participle of understand; known meaning"
+  },
+  "imprint": {
+    "p": "/ɪmˈprɪnt/",
+    "t": "印记；留下印象",
+    "en": "a mark or effect left on something; to fix firmly in memory"
+  },
+  "division": {
+    "p": "/dɪˈvɪʒən/",
+    "t": "部门；分隔；除法",
+    "en": "a separate part of an organization; the act of dividing"
+  },
+  "international": {
+    "p": "/ˌɪntəˈnæʃnəl/",
+    "t": "国际的",
+    "en": "relating to multiple nations"
+  },
+  "bestsellers": {
+    "p": "/ˌbestˈseləz/",
+    "t": "畅销书",
+    "en": "books or products that sell very well"
+  },
+  "translated": {
+    "p": "/trænzˈleɪtɪd/",
+    "t": "翻译的",
+    "en": "changed from one language to another"
+  },
+  "languages": {
+    "p": "/ˈlæŋɡwɪdʒɪz/",
+    "t": "语言",
+    "en": "systems of communication used by people"
+  },
+  "blogs": {
+    "p": "/blɒɡz/",
+    "t": "博客",
+    "en": "websites or online journals"
+  },
+  "talks": {
+    "p": "/tɔːks/",
+    "t": "演讲；谈话",
+    "en": "speeches or discussions"
+  },
+  "altmba": {
+    "p": "/ˈɔːlt ˌem biː ˈeɪ/",
+    "t": "替代MBA",
+    "en": "an alternative to a traditional MBA program"
+  },
+  "media": {
+    "p": "/ˈmiːdiə/",
+    "t": "媒体",
+    "en": "communication channels"
+  },
+  "pioneer": {
+    "p": "/ˌpaɪəˈnɪə/",
+    "t": "先驱；开拓者",
+    "en": "a person who is first to do something"
+  },
+  "internet": {
+    "p": "/ˈɪntənet/",
+    "t": "互联网",
+    "en": "global network of computers"
+  },
+  "seths": {
+    "p": "/seθs/",
+    "t": "塞斯（人名）",
+    "en": "a person's name, likely Seth Godin"
+  },
+  "writer": {
+    "p": "/ˈraɪtə/",
+    "t": "作家",
+    "en": "a person who writes books, articles, etc."
+  },
+  "terrifying": {
+    "p": "/ˈterɪfaɪɪŋ/",
+    "t": "令人恐惧的",
+    "en": "causing extreme fear"
+  },
+  "realities": {
+    "p": "/riˈælətiz/",
+    "t": "现实",
+    "en": "things that actually exist or happen"
+  },
+  "biological": {
+    "p": "/ˌbaɪəˈlɒdʒɪkl/",
+    "t": "生物学的",
+    "en": "relating to biology or living organisms"
+  },
+  "extinctionlevel": {
+    "p": "/ɪkˈstɪŋkʃn ˈlevl/",
+    "t": "灭绝级别的",
+    "en": "on a scale that could cause extinction"
+  },
+  "threats": {
+    "p": "/θrets/",
+    "t": "威胁",
+    "en": "things that may cause danger"
+  },
+  "vying": {
+    "p": "/ˈvaɪɪŋ/",
+    "t": "竞争",
+    "en": "competing eagerly"
+  },
+  "nuclear": {
+    "p": "/ˈnjuːkliə/",
+    "t": "核的",
+    "en": "relating to nuclear energy or weapons"
+  },
+  "airplay": {
+    "p": "/ˈeəpleɪ/",
+    "t": "电台播放",
+    "en": "broadcasting of music on radio"
+  },
+  "scenarios": {
+    "p": "/sɪˈnɑːriəʊz/",
+    "t": "情景",
+    "en": "possible situations or sequences"
+  },
+  "carved": {
+    "p": "/kɑːvd/",
+    "t": "雕刻的",
+    "en": "cut into a shape"
+  },
+  "niche": {
+    "p": "/niːʃ/",
+    "t": "利基市场",
+    "en": "a specialized segment"
+  },
+  "foremost": {
+    "p": "/ˈfɔːməʊst/",
+    "t": "最重要的",
+    "en": "most prominent or leading"
+  },
+  "terrified": {
+    "p": "/ˈterɪfaɪd/",
+    "t": "恐惧的",
+    "en": "very frightened"
+  },
+  "readers": {
+    "p": "/ˈriːdəz/",
+    "t": "读者",
+    "en": "people who read"
+  },
+  "experts": {
+    "p": "/ˈekspɜːts/",
+    "t": "专家",
+    "en": "people with special knowledge"
+  },
+  "alike": {
+    "p": "/əˈlaɪk/",
+    "t": "同样地",
+    "en": "in the same way"
+  },
+  "optioned": {
+    "p": "/ˈɒpʃənd/",
+    "t": "获得选择权",
+    "en": "secured the rights to adapt"
+  },
+  "conducting": {
+    "p": "/kənˈdʌktɪŋ/",
+    "t": "进行",
+    "en": "carrying out"
+  },
+  "highlevel": {
+    "p": "/ˌhaɪ ˈlevl/",
+    "t": "高层的",
+    "en": "involving senior officials"
+  },
+  "sources": {
+    "p": "/sɔːsɪz/",
+    "t": "来源",
+    "en": "origins or informants"
+  },
+  "biowarfare": {
+    "p": "/ˌbaɪəʊˈwɔːfeə/",
+    "t": "生物战",
+    "en": "use of biological agents in war"
+  },
+  "gripping": {
+    "p": "/ˈɡrɪpɪŋ/",
+    "t": "扣人心弦的",
+    "en": "holding attention"
+  },
+  "follows": {
+    "p": "/ˈfɒləʊz/",
+    "t": "跟随",
+    "en": "comes after or tracks"
+  },
+  "tickingclock": {
+    "p": "/ˈtɪkɪŋ klɒk/",
+    "t": "倒计时",
+    "en": "a clock that counts down, implying urgency"
+  },
+  "humanitythreatening": {
+    "p": "/hjuːˈmænəti ˈθretnɪŋ/",
+    "t": "威胁人类的",
+    "en": "posing danger to all humans"
+  },
+  "manmade": {
+    "p": "/ˌmænˈmeɪd/",
+    "t": "人造的",
+    "en": "made by humans"
+  },
+  "catastrophe": {
+    "p": "/kəˈtæstrəfi/",
+    "t": "大灾难",
+    "en": "a sudden disaster"
+  },
+  "dystopian": {
+    "p": "/dɪsˈtəʊpiən/",
+    "t": "反乌托邦的",
+    "en": "relating to an imagined unhappy society"
+  },
+  "fiction": {
+    "p": "/ˈfɪkʃn/",
+    "t": "小说",
+    "en": "invented stories"
+  },
+  "albeit": {
+    "p": "/ˌɔːlˈbiːɪt/",
+    "t": "尽管",
+    "en": "although"
+  },
+  "footnoted": {
+    "p": "/ˈfʊtnəʊtɪd/",
+    "t": "加脚注的",
+    "en": "with footnotes"
+  },
+  "conclusions": {
+    "p": "/kənˈkluːʒnz/",
+    "t": "结论",
+    "en": "judgments reached"
+  },
+  "sounding": {
+    "p": "/ˈsaʊndɪŋ/",
+    "t": "听起来",
+    "en": "giving an impression"
+  },
+  "advanced": {
+    "p": "/ədˈvɑːnst/",
+    "t": "先进的",
+    "en": "highly developed"
+  },
+  "killer": {
+    "p": "/ˈkɪlə/",
+    "t": "杀手",
+    "en": "something that kills"
+  },
+  "germs": {
+    "p": "/dʒɜːmz/",
+    "t": "病菌",
+    "en": "microorganisms causing disease"
+  },
+  "nightmare": {
+    "p": "/ˈnaɪtmeə/",
+    "t": "噩梦",
+    "en": "a frightening dream or situation"
+  },
+  "scenario": {
+    "p": "/sɪˈnɑːriəʊ/",
+    "t": "情景",
+    "en": "a possible sequence"
+  },
+  "developing": {
+    "p": "/dɪˈveləpɪŋ/",
+    "t": "开发",
+    "en": "creating or improving"
+  },
+  "weapons": {
+    "p": "/ˈwepənz/",
+    "t": "武器",
+    "en": "instruments of combat"
+  },
+  "disaster": {
+    "p": "/dɪˈzɑːstə/",
+    "t": "灾难",
+    "en": "a sudden catastrophic event"
+  },
+  "inciting": {
+    "p": "/ɪnˈsaɪtɪŋ/",
+    "t": "煽动",
+    "en": "encouraging or provoking"
+  },
+  "incident": {
+    "p": "/ˈɪnsɪdənt/",
+    "t": "事件",
+    "en": "an event or occurrence"
+  },
+  "shorthand": {
+    "p": "/ˈʃɔːthænd/",
+    "t": "速记",
+    "en": "a quick way of writing or symbol"
+  },
+  "classification": {
+    "p": "/ˌklæsɪfɪˈkeɪʃn/",
+    "t": "分类",
+    "en": "systematic arrangement"
+  },
+  "explosion": {
+    "p": "/ɪkˈspləʊʒn/",
+    "t": "爆炸",
+    "en": "a violent burst"
+  },
+  "reallife": {
+    "p": "/ˌrɪəl ˈlaɪf/",
+    "t": "现实生活",
+    "en": "actual existence"
+  },
+  "deadly": {
+    "p": "/ˈdedli/",
+    "t": "致命的",
+    "en": "causing death"
+  },
+  "pathogen": {
+    "p": "/ˈpæθədʒən/",
+    "t": "病原体",
+    "en": "a disease-causing agent"
+  },
+  "released": {
+    "p": "/rɪˈliːst/",
+    "t": "释放",
+    "en": "set free or emitted"
+  },
+  "pneumonic": {
+    "p": "/njuːˈmɒnɪk/",
+    "t": "肺炎的",
+    "en": "relating to pneumonia"
+  },
+  "plague": {
+    "p": "/pleɪɡ/",
+    "t": "瘟疫",
+    "en": "a deadly epidemic disease"
+  },
+  "select": {
+    "p": "/sɪˈlekt/",
+    "t": "精选的",
+    "en": "chosen as best"
+  },
+  "agent": {
+    "p": "/ˈeɪdʒənt/",
+    "t": "药剂",
+    "en": "a substance causing effect"
+  },
+  "scrambling": {
+    "p": "/ˈskræmblɪŋ/",
+    "t": "仓促行动",
+    "en": "acting urgently"
+  },
+  "desperately": {
+    "p": "/ˈdespərətli/",
+    "t": "拼命地",
+    "en": "in a desperate manner"
+  },
+  "determine": {
+    "p": "/dɪˈtɜːmɪn/",
+    "t": "确定",
+    "en": "find out or decide"
+  },
+  "widens": {
+    "p": "/ˈwaɪdnz/",
+    "t": "扩大",
+    "en": "becomes broader"
+  },
+  "escape": {
+    "p": "/ɪˈskeɪp/",
+    "t": "逃脱",
+    "en": "get free from"
+  },
+  "mitigation": {
+    "p": "/ˌmɪtɪˈɡeɪʃn/",
+    "t": "缓解",
+    "en": "reducing severity"
+  },
+  "unstoppable": {
+    "p": "/ʌnˈstɒpəbl/",
+    "t": "不可阻挡的",
+    "en": "impossible to stop"
+  },
+  "conjures": {
+    "p": "/ˈkʌndʒəz/",
+    "t": "唤起",
+    "en": "brings to mind"
+  },
+  "images": {
+    "p": "/ˈɪmɪdʒɪz/",
+    "t": "形象",
+    "en": "mental pictures"
+  },
+  "bubonic": {
+    "p": "/bjuːˈbɒnɪk/",
+    "t": "腺鼠疫的",
+    "en": "relating to bubonic plague"
+  },
+  "killed": {
+    "p": "/kɪld/",
+    "t": "杀死",
+    "en": "caused death"
+  },
+  "pestis": {
+    "p": "/ˈpestɪs/",
+    "t": "鼠疫",
+    "en": "the plague bacterium (Yersinia pestis)"
+  },
+  "airborne": {
+    "p": "/ˈeəbɔːn/",
+    "t": "空气传播的",
+    "en": "transmitted through air"
+  },
+  "version": {
+    "p": "/ˈvɜːʃn/",
+    "t": "版本",
+    "en": "a form or variant"
+  },
+  "lungs": {
+    "p": "/lʌŋz/",
+    "t": "肺",
+    "en": "organs for breathing"
+  },
+  "scientist": {
+    "p": "/ˈsaɪəntɪst/",
+    "t": "科学家",
+    "en": "an expert in science"
+  },
+  "spread": {
+    "p": "/spred/",
+    "t": "传播",
+    "en": "extend over an area"
+  },
+  "janitor": {
+    "p": "/ˈdʒænɪtə/",
+    "t": "看门人",
+    "en": "a person who cleans and maintains buildings"
+  },
+  "cleaning": {
+    "p": "/ˈkliːnɪŋ/",
+    "t": "清洁",
+    "en": "making clean"
+  },
+  "suddenly": {
+    "p": "/ˈsʌdənli/",
+    "t": "突然",
+    "en": "quickly and unexpectedly"
+  },
+  "located": {
+    "p": "/ləʊˈkeɪtɪd/",
+    "t": "位于",
+    "en": "situated"
+  },
+  "thirdlargest": {
+    "p": "/ˌθɜːd ˈlɑːdʒɪst/",
+    "t": "第三大的",
+    "en": "third in size"
+  },
+  "hunters": {
+    "p": "/ˈhʌntəz/",
+    "t": "猎人",
+    "en": "people who hunt"
+  },
+  "hunting": {
+    "p": "/ˈhʌntɪŋ/",
+    "t": "狩猎",
+    "en": "pursuing for catch"
+  },
+  "gives": {
+    "p": "/ɡɪvz/",
+    "t": "给予",
+    "en": "provides or offers"
+  },
+  "behold": {
+    "p": "/bɪˈhəʊld/",
+    "t": "看见",
+    "en": "see or observe"
+  },
+  "travelers": {
+    "p": "/ˈtrævələz/",
+    "t": "旅行者",
+    "en": "people who travel"
+  },
+  "airplane": {
+    "p": "/ˈeəpleɪn/",
+    "t": "飞机",
+    "en": "a powered flying vehicle"
+  },
+  "reside": {
+    "p": "/rɪˈzaɪd/",
+    "t": "居住",
+    "en": "live in a place"
+  },
+  "continents": {
+    "p": "/ˈkɒntɪnənts/",
+    "t": "大陆",
+    "en": "large landmasses"
+  },
+  "novel": {
+    "p": "/ˈnɒvl/",
+    "t": "小说",
+    "en": "a long fictional story"
+  },
+  "facts": {
+    "p": "/fækts/",
+    "t": "事实",
+    "en": "things known to be true"
+  },
+  "defectors": {
+    "p": "/dɪˈfektəz/",
+    "t": "叛逃者",
+    "en": "people who leave a country or cause"
+  },
+  "editing": {
+    "p": "/ˈedɪtɪŋ/",
+    "t": "编辑",
+    "en": "modifying text or media"
+  },
+  "infancy": {
+    "p": "/ˈɪnfənsi/",
+    "t": "初期",
+    "en": "early stage of development"
+  },
+  "bioweapons": {
+    "p": "/ˌbaɪəʊˈwepənz/",
+    "t": "生物武器",
+    "en": "weapons using biological agents"
+  },
+  "engineers": {
+    "p": "/ˌendʒɪˈnɪəz/",
+    "t": "工程师",
+    "en": "people who design or build"
+  },
+  "insert": {
+    "p": "/ɪnˈsɜːt/",
+    "t": "插入",
+    "en": "put inside"
+  },
+  "euphoria": {
+    "p": "/juːˈfɔːriə/",
+    "t": "欣快感",
+    "en": "intense happiness"
+  },
+  "pneumonictype": {
+    "p": "/njuːˈmɒnɪk taɪp/",
+    "t": "肺炎型",
+    "en": "type affecting lungs"
+  },
+  "pneumonia": {
+    "p": "/njuːˈməʊniə/",
+    "t": "肺炎",
+    "en": "lung infection"
+  },
+  "tubercular": {
+    "p": "/tjuːˈbɜːkjʊlə/",
+    "t": "结核病的",
+    "en": "relating to tuberculosis"
+  },
+  "covers": {
+    "p": "/ˈkʌvəz/",
+    "t": "覆盖",
+    "en": "includes or spans"
+  },
+  "terrible": {
+    "p": "/ˈterəbl/",
+    "t": "可怕的",
+    "en": "extremely bad"
+  },
+  "infecting": {
+    "p": "/ɪnˈfektɪŋ/",
+    "t": "感染",
+    "en": "causing disease"
+  },
+  "inserted": {
+    "p": "/ɪnˈsɜːtɪd/",
+    "t": "插入的",
+    "en": "placed inside"
+  },
+  "terrific": {
+    "p": "/təˈrɪfɪk/",
+    "t": "极好的",
+    "en": "excellent"
+  },
+  "socialize": {
+    "p": "/ˈsəʊʃəlaɪz/",
+    "t": "社交",
+    "en": "interact with others"
+  },
+  "crowded": {
+    "p": "/ˈkraʊdɪd/",
+    "t": "拥挤的",
+    "en": "full of people"
+  },
+  "disco": {
+    "p": "/ˈdɪskəʊ/",
+    "t": "迪斯科",
+    "en": "a dance club or style"
+  },
+  "medical": {
+    "p": "/ˈmedɪkl/",
+    "t": "医学的",
+    "en": "relating to medicine"
+  },
+  "countermeasures": {
+    "p": "/ˈkaʊntəˌmeʒəz/",
+    "t": "对策",
+    "en": "actions to counteract"
+  },
+  "added": {
+    "p": "/ˈædɪd/",
+    "t": "增加的",
+    "en": "additional"
+  },
+  "component": {
+    "p": "/kəmˈpəʊnənt/",
+    "t": "组成部分",
+    "en": "a part of a whole"
+  },
+  "distress": {
+    "p": "/dɪˈstres/",
+    "t": "痛苦",
+    "en": "extreme anxiety or suffering"
+  },
+  "triggered": {
+    "p": "/ˈtrɪɡəd/",
+    "t": "触发",
+    "en": "caused to happen"
+  },
+  "antibiotics": {
+    "p": "/ˌæntɪbaɪˈɒtɪks/",
+    "t": "抗生素",
+    "en": "drugs that kill bacteria"
+  },
+  "encephalitis": {
+    "p": "/ˌenkefəˈlaɪtɪs/",
+    "t": "脑炎",
+    "en": "brain inflammation"
+  },
+  "swelling": {
+    "p": "/ˈswelɪŋ/",
+    "t": "肿胀",
+    "en": "enlargement of body part"
+  },
+  "encephalitist": {
+    "p": "/ˌenkefəˈlaɪtɪst/",
+    "t": "脑炎患者",
+    "en": "a person with encephalitis"
+  },
+  "medicine": {
+    "p": "/ˈmedsn/",
+    "t": "医学",
+    "en": "science of healing"
+  },
+  "optimistic": {
+    "p": "/ˌɒptɪˈmɪstɪk/",
+    "t": "乐观的",
+    "en": "hopeful about future"
+  },
+  "movies": {
+    "p": "/ˈmuːviz/",
+    "t": "电影",
+    "en": "films"
+  },
+  "outbreak": {
+    "p": "/ˈaʊtbreɪk/",
+    "t": "爆发",
+    "en": "sudden occurrence of disease"
+  },
+  "headed": {
+    "p": "/ˈhedɪd/",
+    "t": "前往",
+    "en": "moving toward"
+  },
+  "anarchy": {
+    "p": "/ˈænəki/",
+    "t": "无政府状态",
+    "en": "absence of order"
+  },
+  "gaming": {
+    "p": "/ˈɡeɪmɪŋ/",
+    "t": "游戏",
+    "en": "playing games"
+  },
+  "infection": {
+    "p": "/ɪnˈfekʃn/",
+    "t": "感染",
+    "en": "invasion by pathogens"
+  },
+  "behave": {
+    "p": "/bɪˈheɪv/",
+    "t": "表现",
+    "en": "act in a certain way"
+  },
+  "underpinning": {
+    "p": "/ˌʌndəˈpɪnɪŋ/",
+    "t": "基础",
+    "en": "supporting foundation"
+  },
+  "president": {
+    "p": "/ˈprezɪdənt/",
+    "t": "总统",
+    "en": "head of state"
+  },
+  "declare": {
+    "p": "/dɪˈkleə/",
+    "t": "宣布",
+    "en": "announce formally"
+  },
+  "allows": {
+    "p": "/əˈlaʊz/",
+    "t": "允许",
+    "en": "permits"
+  },
+  "military": {
+    "p": "/ˈmɪlətri/",
+    "t": "军事的",
+    "en": "relating to armed forces"
+  },
+  "enforcement": {
+    "p": "/ɪnˈfɔːsmənt/",
+    "t": "执行",
+    "en": "implementation of laws"
+  },
+  "football": {
+    "p": "/ˈfʊtbɔːl/",
+    "t": "足球",
+    "en": "a sport played with a ball"
+  },
+  "sitting": {
+    "p": "/ˈsɪtɪŋ/",
+    "t": "坐着的",
+    "en": "in a seated position"
+  },
+  "alone": {
+    "p": "/əˈləʊn/",
+    "t": "独自",
+    "en": "without others"
+  },
+  "wearing": {
+    "p": "/ˈweərɪŋ/",
+    "t": "穿着",
+    "en": "having on body"
+  },
+  "image": {
+    "p": "/ˈɪmɪdʒ/",
+    "t": "形象",
+    "en": "a representation"
+  },
+  "masks": {
+    "p": "/mɑːsks/",
+    "t": "口罩",
+    "en": "face coverings"
+  },
+  "issued": {
+    "p": "/ˈɪʃuːd/",
+    "t": "发放",
+    "en": "distributed"
+  },
+  "million": {
+    "p": "/ˈmɪljən/",
+    "t": "百万",
+    "en": "one thousand thousand"
+  },
+  "personnel": {
+    "p": "/ˌpɜːsəˈnel/",
+    "t": "人员",
+    "en": "staff"
+  },
+  "spooky": {
+    "p": "/ˈspuːki/",
+    "t": "阴森的",
+    "en": "creepy or eerie"
+  },
+  "coupled": {
+    "p": "/ˈkʌpld/",
+    "t": "结合",
+    "en": "linked together"
+  },
+  "predominantly": {
+    "p": "/prɪˈdɒmɪnəntli/",
+    "t": "主要地",
+    "en": "mainly"
+  },
+  "sciencebased": {
+    "p": "/ˈsaɪəns beɪst/",
+    "t": "基于科学的",
+    "en": "grounded in science"
+  },
+  "record": {
+    "p": "/ˈrekɔːd/",
+    "t": "记录",
+    "en": "a written or audio account"
+  },
+  "imaginative": {
+    "p": "/ɪˈmædʒɪnətɪv/",
+    "t": "富有想象力的",
+    "en": "creative"
+  },
+  "twilight": {
+    "p": "/ˈtwaɪlaɪt/",
+    "t": "黄昏",
+    "en": "evening twilight"
+  },
+  "outlaw": {
+    "p": "/ˈaʊtlɔː/",
+    "t": "宣布非法",
+    "en": "ban or illegalize"
+  },
+  "mysteriously": {
+    "p": "/mɪˈstɪəriəsli/",
+    "t": "神秘地",
+    "en": "in a mysterious way"
+  },
+  "unilaterally": {
+    "p": "/ˌjuːnɪˈlætrəli/",
+    "t": "单方面地",
+    "en": "by one side only"
+  },
+  "declared": {
+    "p": "/dɪˈkleəd/",
+    "t": "宣布的",
+    "en": "announced"
+  },
+  "arsenal": {
+    "p": "/ˈɑːsənl/",
+    "t": "军火库",
+    "en": "a store of weapons"
+  },
+  "destroyed": {
+    "p": "/dɪˈstrɔɪd/",
+    "t": "摧毁",
+    "en": "ruined completely"
+  },
+  "treaty": {
+    "p": "/ˈtriːti/",
+    "t": "条约",
+    "en": "a formal agreement"
+  },
+  "signed": {
+    "p": "/saɪnd/",
+    "t": "签署",
+    "en": "signed a document"
+  },
+  "immediately": {
+    "p": "/ɪˈmiːdiətli/",
+    "t": "立即",
+    "en": "at once"
+  },
+  "began": {
+    "p": "/bɪˈɡæn/",
+    "t": "开始",
+    "en": "started"
+  },
+  "illegal": {
+    "p": "/ɪˈliːɡl/",
+    "t": "非法的",
+    "en": "against the law"
+  },
+  "colossal": {
+    "p": "/kəˈlɒsl/",
+    "t": "巨大的",
+    "en": "extremely large"
+  },
+  "crisis": {
+    "p": "/ˈkraɪsɪs/",
+    "t": "危机",
+    "en": "a time of intense difficulty"
+  },
+  "conscience": {
+    "p": "/ˈkɒnʃəns/",
+    "t": "良心",
+    "en": "inner sense of right and wrong"
+  },
+  "defected": {
+    "p": "/dɪˈfektɪd/",
+    "t": "叛逃",
+    "en": "left a country or cause"
+  },
+  "attack": {
+    "p": "/əˈtæk/",
+    "t": "攻击",
+    "en": "an act of aggression"
+  },
+  "anthrax": {
+    "p": "/ˈænθræks/",
+    "t": "炭疽",
+    "en": "a deadly bacterial disease"
+  },
+  "attacks": {
+    "p": "/əˈtæks/",
+    "t": "袭击",
+    "en": "acts of aggression"
+  },
+  "occurred": {
+    "p": "/əˈkɜːd/",
+    "t": "发生",
+    "en": "happened"
+  },
+  "senators": {
+    "p": "/ˈsenətəz/",
+    "t": "参议员",
+    "en": "members of a senate"
+  },
+  "outlets": {
+    "p": "/ˈaʊtlets/",
+    "t": "媒体机构",
+    "en": "media organizations"
+  },
+  "kicked": {
+    "p": "/kɪkt/",
+    "t": "踢",
+    "en": "struck with foot"
+  },
+  "militaryindustrial": {
+    "p": "/ˌmɪlɪtri ɪnˈdʌstriəl/",
+    "t": "军工复合体的",
+    "en": "relating to military and industry"
+  },
+  "weirdly": {
+    "p": "/ˈwɪədli/",
+    "t": "奇怪地",
+    "en": "in a strange way"
+  },
+  "comforting": {
+    "p": "/ˈkʌmfətɪŋ/",
+    "t": "安慰的",
+    "en": "providing comfort"
+  },
+  "mainly": {
+    "p": "/ˈmeɪnli/",
+    "t": "主要地",
+    "en": "mostly"
+  },
+  "either": {
+    "p": "/ˈaɪðə/",
+    "t": "任一",
+    "en": "one or the other"
+  },
+  "nation": {
+    "p": "/ˈneɪʃn/",
+    "t": "国家",
+    "en": "a country"
+  },
+  "actors": {
+    "p": "/ˈæktəz/",
+    "t": "行为者",
+    "en": "people or entities that act"
+  },
+  "concern": {
+    "p": "/kənˈsɜːn/",
+    "t": "担忧",
+    "en": "a worry"
+  },
+  "postanthrax": {
+    "p": "/ˌpəʊst ˈænθræks/",
+    "t": "炭疽事件后",
+    "en": "after the anthrax attacks"
+  },
+  "emphasis": {
+    "p": "/ˈemfəsɪs/",
+    "t": "强调",
+    "en": "special importance"
+  },
+  "bioterrorism": {
+    "p": "/ˌbaɪəʊˈterərɪzəm/",
+    "t": "生物恐怖主义",
+    "en": "use of biological agents to terrorize"
+  },
+  "basement": {
+    "p": "/ˈbeɪsmənt/",
+    "t": "地下室",
+    "en": "a room below ground"
+  },
+  "disturbing": {
+    "p": "/dɪˈstɜːbɪŋ/",
+    "t": "令人不安的",
+    "en": "causing worry or upset"
+  },
+  "unclassified": {
+    "p": "/ʌnˈklæsɪfaɪd/",
+    "t": "非机密的",
+    "en": "not secret"
+  },
+  "destruction": {
+    "p": "/dɪˈstrʌkʃn/",
+    "t": "毁灭",
+    "en": "severe damage"
+  },
+  "destructiveness": {
+    "p": "/dɪˈstrʌktɪvnəs/",
+    "t": "破坏性",
+    "en": "ability to cause destruction"
+  },
+  "destructive": {
+    "p": "/dɪˈstrʌktɪv/",
+    "t": "破坏性的",
+    "en": "causing damage"
+  },
+  "startling": {
+    "p": "/ˈstɑːtlɪŋ/",
+    "t": "惊人的",
+    "en": "surprising"
+  },
+  "notion": {
+    "p": "/ˈnəʊʃn/",
+    "t": "概念",
+    "en": "an idea or belief"
+  },
+  "present": {
+    "p": "/ˈpreznt/",
+    "t": "当前的",
+    "en": "existing now"
+  },
+  "overall": {
+    "p": "/ˌəʊvərˈɔːl/",
+    "t": "总体的",
+    "en": "in total"
+  },
+  "entry": {
+    "p": "/ˈentri/",
+    "t": "入口",
+    "en": "a way in"
+  },
+  "fissile": {
+    "p": "/ˈfɪsaɪl/",
+    "t": "可裂变的",
+    "en": "capable of nuclear fission"
+  },
+  "material": {
+    "p": "/məˈtɪəriəl/",
+    "t": "材料",
+    "en": "substance"
+  },
+  "submarine": {
+    "p": "/ˌsʌbməˈriːn/",
+    "t": "潜艇",
+    "en": "an underwater vessel"
+  },
+  "creates": {
+    "p": "/kriˈeɪts/",
+    "t": "创造",
+    "en": "makes exist"
+  },
+  "commandandcontrol": {
+    "p": "/kəˈmɑːnd ənd kənˈtrəʊl/",
+    "t": "指挥控制",
+    "en": "authority and management"
+  },
+  "within": {
+    "p": "/wɪˈðɪn/",
+    "t": "在内部",
+    "en": "inside"
+  },
+  "barriers": {
+    "p": "/ˈbæriəz/",
+    "t": "障碍",
+    "en": "obstacles"
+  },
+  "literally": {
+    "p": "/ˈlɪtərəli/",
+    "t": "字面上地",
+    "en": "in a literal sense"
+  },
+  "limited": {
+    "p": "/ˈlɪmɪtɪd/",
+    "t": "有限的",
+    "en": "restricted"
+  },
+  "biology": {
+    "p": "/baɪˈɒlədʒi/",
+    "t": "生物学",
+    "en": "science of life"
+  },
+  "computational": {
+    "p": "/ˌkɒmpjuˈteɪʃənl/",
+    "t": "计算的",
+    "en": "relating to computing"
+  },
+  "reads": {
+    "p": "/riːdz/",
+    "t": "阅读",
+    "en": "interprets written text"
+  },
+  "thriller": {
+    "p": "/ˈθrɪlə/",
+    "t": "惊悚小说",
+    "en": "an exciting story"
+  },
+  "exaggerated": {
+    "p": "/ɪɡˈzædʒəreɪtɪd/",
+    "t": "夸张的",
+    "en": "overstated"
+  },
+  "novelized": {
+    "p": "/ˈnɒvəlaɪzd/",
+    "t": "小说化的",
+    "en": "converted into a novel"
+  },
+  "figures": {
+    "p": "/ˈfɪɡəz/",
+    "t": "数字",
+    "en": "numbers or statistics"
+  },
+  "pages": {
+    "p": "/ˈpeɪdʒɪz/",
+    "t": "页",
+    "en": "sheets of paper in a book"
+  },
+  "notes": {
+    "p": "/nəʊts/",
+    "t": "注释",
+    "en": "brief remarks"
+  },
+  "recommendations": {
+    "p": "/ˌrekəmenˈdeɪʃnz/",
+    "t": "建议",
+    "en": "suggestions"
+  },
+  "least": {
+    "p": "/liːst/",
+    "t": "最少",
+    "en": "smallest in amount"
+  },
+  "proliferating": {
+    "p": "/prəˈlɪfəreɪtɪŋ/",
+    "t": "扩散",
+    "en": "increasing rapidly"
+  },
+  "ticking": {
+    "p": "/ˈtɪkɪŋ/",
+    "t": "滴答作响",
+    "en": "making ticking sound"
+  },
+  "lawmakers": {
+    "p": "/ˈlɔːmeɪkəz/",
+    "t": "立法者",
+    "en": "people who make laws"
+  },
+  "publicly": {
+    "p": "/ˈpʌblɪkli/",
+    "t": "公开地",
+    "en": "in public"
+  },
+  "mixed": {
+    "p": "/mɪkst/",
+    "t": "混合的",
+    "en": "combining different elements"
+  },
+  "personally": {
+    "p": "/ˈpɜːsənəli/",
+    "t": "亲自",
+    "en": "in person"
+  },
+  "vouch": {
+    "p": "/vaʊtʃ/",
+    "t": "担保",
+    "en": "guarantee or affirm"
+  },
+  "optimist": {
+    "p": "/ˈɒptɪmɪst/",
+    "t": "乐观主义者",
+    "en": "a hopeful person"
+  },
+  "whistling": {
+    "p": "/ˈwɪslɪŋ/",
+    "t": "吹口哨",
+    "en": "making a whistling sound"
+  },
+  "graveyard": {
+    "p": "/ˈɡreɪvjɑːd/",
+    "t": "墓地",
+    "en": "a burial ground"
+  },
+  "biohazard": {
+    "p": "/ˌbaɪəʊˈhæzəd/",
+    "t": "生物危害",
+    "en": "a biological danger"
+  },
+  "knowitall": {
+    "p": "/ˈnəʊɪtɔːl/",
+    "t": "自以为无所不知的人",
+    "en": "a person who behaves as if they know everything"
+  },
+  "dreaded": {
+    "p": "/ˈdredɪd/",
+    "t": "令人恐惧的；可怕的",
+    "en": "causing great fear or apprehension"
+  },
+  "interacting": {
+    "p": "/ˌɪntərˈæktɪŋ/",
+    "t": "互动；相互作用",
+    "en": "acting together or with others"
+  },
+  "scheduled": {
+    "p": "/ˈʃedjuːld/",
+    "t": "预定的；安排好的",
+    "en": "planned for a certain time"
+  },
+  "started": {
+    "p": "/ˈstɑːtɪd/",
+    "t": "开始；启动",
+    "en": "began or set in motion"
+  },
+  "doubt": {
+    "p": "/daʊt/",
+    "t": "怀疑；疑问",
+    "en": "a feeling of uncertainty or lack of belief"
+  },
+  "delegated": {
+    "p": "/ˈdelɪɡeɪtɪd/",
+    "t": "委派；授权",
+    "en": "entrusted or assigned to another"
+  },
+  "dealt": {
+    "p": "/delt/",
+    "t": "处理；应对",
+    "en": "handled or managed a situation"
+  },
+  "convinced": {
+    "p": "/kənˈvɪnst/",
+    "t": "确信的；信服的",
+    "en": "completely certain or persuaded"
+  },
+  "smartest": {
+    "p": "/ˈsmɑːtɪst/",
+    "t": "最聪明的",
+    "en": "most intelligent or clever"
+  },
+  "airtime": {
+    "p": "/ˈeətaɪm/",
+    "t": "发言时间；播出时间",
+    "en": "time spent speaking or on air"
+  },
+  "qualms": {
+    "p": "/kwɑːmz/",
+    "t": "疑虑；不安",
+    "en": "feelings of doubt or unease"
+  },
+  "interrupting": {
+    "p": "/ˌɪntəˈrʌptɪŋ/",
+    "t": "打断；插嘴",
+    "en": "breaking in on someone's speech"
+  },
+  "gleefully": {
+    "p": "/ˈɡliːfəli/",
+    "t": "欣喜地；幸灾乐祸地",
+    "en": "with great delight or joy"
+  },
+  "inform": {
+    "p": "/ɪnˈfɔːm/",
+    "t": "告知；通知",
+    "en": "to give information to someone"
+  },
+  "clearly": {
+    "p": "/ˈklɪəli/",
+    "t": "清楚地；明确地",
+    "en": "in a clear and obvious manner"
+  },
+  "nuances": {
+    "p": "/ˈnjuːɑːnsɪz/",
+    "t": "细微差别",
+    "en": "subtle distinctions or variations"
+  },
+  "conversations": {
+    "p": "/ˌkɒnvəˈseɪʃənz/",
+    "t": "对话；交谈",
+    "en": "verbal exchanges between people"
+  },
+  "refusing": {
+    "p": "/rɪˈfjuːzɪŋ/",
+    "t": "拒绝",
+    "en": "declining to do or accept something"
+  },
+  "interrupted": {
+    "p": "/ˌɪntəˈrʌptɪd/",
+    "t": "被打断的",
+    "en": "having been broken in on"
+  },
+  "criticism": {
+    "p": "/ˈkrɪtɪsɪzəm/",
+    "t": "批评；指责",
+    "en": "the expression of disapproval"
+  },
+  "feedback": {
+    "p": "/ˈfiːdbæk/",
+    "t": "反馈；意见",
+    "en": "information about reactions to a product or performance"
+  },
+  "condescending": {
+    "p": "/ˌkɒndɪˈsendɪŋ/",
+    "t": "居高临下的；屈尊的",
+    "en": "showing a patronizing attitude"
+  },
+  "displays": {
+    "p": "/dɪˈspleɪz/",
+    "t": "展示；显示",
+    "en": "shows or exhibits something"
+  },
+  "credit": {
+    "p": "/ˈkredɪt/",
+    "t": "赞扬；功劳",
+    "en": "praise or acknowledgment for achievement"
+  },
+  "knowitalls": {
+    "p": "/ˈnəʊɪtɔːlz/",
+    "t": "自以为是的人（复数）",
+    "en": "people who think they know everything"
+  },
+  "reward": {
+    "p": "/rɪˈwɔːd/",
+    "t": "奖赏；回报",
+    "en": "something given in return for service or achievement"
+  },
+  "conviction": {
+    "p": "/kənˈvɪkʃən/",
+    "t": "坚信；信念",
+    "en": "a firmly held belief or opinion"
+  },
+  "uncertain": {
+    "p": "/ʌnˈsɜːtn/",
+    "t": "不确定的；犹豫的",
+    "en": "not sure or confident"
+  },
+  "cultures": {
+    "p": "/ˈkʌltʃəz/",
+    "t": "文化；文明",
+    "en": "customs and beliefs of a group"
+  },
+  "collaborative": {
+    "p": "/kəˈlæbərətɪv/",
+    "t": "合作的；协作的",
+    "en": "involving joint effort"
+  },
+  "acting": {
+    "p": "/ˈæktɪŋ/",
+    "t": "行为；表演",
+    "en": "the action of doing something or performing"
+  },
+  "shrewd": {
+    "p": "/ʃruːd/",
+    "t": "精明的；敏锐的",
+    "en": "clever and astute in practical matters"
+  },
+  "survival": {
+    "p": "/sərˈvaɪvl/",
+    "t": "生存；幸存",
+    "en": "the state of continuing to live"
+  },
+  "interactions": {
+    "p": "/ˌɪntərˈækʃənz/",
+    "t": "互动；相互影响",
+    "en": "mutual actions or influences"
+  },
+  "coworker": {
+    "p": "/ˈkəʊˌwɜːkə/",
+    "t": "同事",
+    "en": "a person with whom one works"
+  },
+  "annoying": {
+    "p": "/əˈnɔɪɪŋ/",
+    "t": "讨厌的；烦人的",
+    "en": "causing irritation or annoyance"
+  },
+  "damaging": {
+    "p": "/ˈdæmɪdʒɪŋ/",
+    "t": "有害的；造成损害的",
+    "en": "causing harm or damage"
+  },
+  "egotism": {
+    "p": "/ˈiːɡətɪzəm/",
+    "t": "自负；自我中心",
+    "en": "excessive focus on oneself"
+  },
+  "deficiency": {
+    "p": "/dɪˈfɪʃənsi/",
+    "t": "缺乏；不足",
+    "en": "a lack or shortage of something"
+  },
+  "insecurities": {
+    "p": "/ˌɪnsɪˈkjʊərətiz/",
+    "t": "不安全感；焦虑",
+    "en": "feelings of uncertainty or self-doubt"
+  },
+  "clues": {
+    "p": "/kluːz/",
+    "t": "线索；提示",
+    "en": "pieces of evidence or information"
+  },
+  "accomplished": {
+    "p": "/əˈkʌmplɪʃt/",
+    "t": "有造诣的；完成的",
+    "en": "highly skilled or successfully completed"
+  },
+  "demonstrate": {
+    "p": "/ˈdemənstreɪt/",
+    "t": "证明；展示",
+    "en": "to show clearly or prove"
+  },
+  "validating": {
+    "p": "/ˈvælɪdeɪtɪŋ/",
+    "t": "验证；确认",
+    "en": "confirming or making valid"
+  },
+  "freeing": {
+    "p": "/ˈfriːɪŋ/",
+    "t": "解放；使自由",
+    "en": "liberating or releasing from constraints"
+  },
+  "achievements": {
+    "p": "/əˈtʃiːvmənts/",
+    "t": "成就；成绩",
+    "en": "things accomplished successfully"
+  },
+  "warranted": {
+    "p": "/ˈwɒrəntɪd/",
+    "t": "有根据的；正当的",
+    "en": "justified or necessary"
+  },
+  "assertions": {
+    "p": "/əˈsɜːʃənz/",
+    "t": "断言；主张",
+    "en": "confident statements or claims"
+  },
+  "demeanor": {
+    "p": "/dɪˈmiːnə/",
+    "t": "举止；态度",
+    "en": "outward behavior or manner"
+  },
+  "desired": {
+    "p": "/dɪˈzaɪəd/",
+    "t": "渴望的；期望的",
+    "en": "wished for or wanted"
+  },
+  "abrasive": {
+    "p": "/əˈbreɪsɪv/",
+    "t": "粗鲁的；生硬的",
+    "en": "harsh or rough in manner"
+  },
+  "merit": {
+    "p": "/ˈmerɪt/",
+    "t": "优点；价值",
+    "en": "quality of being good or worthy"
+  },
+  "perceiving": {
+    "p": "/pəˈsiːvɪŋ/",
+    "t": "感知；理解",
+    "en": "becoming aware of something"
+  },
+  "positions": {
+    "p": "/pəˈzɪʃənz/",
+    "t": "立场；职位",
+    "en": "viewpoints or jobs"
+  },
+  "preconceptions": {
+    "p": "/ˌpriːkənˈsepʃənz/",
+    "t": "先入之见；偏见",
+    "en": "ideas formed beforehand"
+  },
+  "justified": {
+    "p": "/ˈdʒʌstɪfaɪd/",
+    "t": "有正当理由的",
+    "en": "having good reason or excuse"
+  },
+  "shown": {
+    "p": "/ʃəʊn/",
+    "t": "展示；显示",
+    "en": "past participle of show"
+  },
+  "labeling": {
+    "p": "/ˈleɪbəlɪŋ/",
+    "t": "贴标签；归类",
+    "en": "assigning a label or category"
+  },
+  "underestimated": {
+    "p": "/ˌʌndərˈestɪmeɪtɪd/",
+    "t": "低估的",
+    "en": "regarded as less capable than actual"
+  },
+  "belong": {
+    "p": "/bɪˈlɒŋ/",
+    "t": "属于",
+    "en": "to be a member of or appropriate for"
+  },
+  "unconscious": {
+    "p": "/ʌnˈkɒnʃəs/",
+    "t": "无意识的；不自觉的",
+    "en": "not aware or deliberate"
+  },
+  "negative": {
+    "p": "/ˈneɡətɪv/",
+    "t": "消极的；负面的",
+    "en": "harmful or pessimistic"
+  },
+  "pushing": {
+    "p": "/ˈpʊʃɪŋ/",
+    "t": "推动；逼迫",
+    "en": "exerting force or pressure"
+  },
+  "buttons": {
+    "p": "/ˈbʌtənz/",
+    "t": "按钮",
+    "en": "small controls that are pressed"
+  },
+  "resistant": {
+    "p": "/rɪˈzɪstənt/",
+    "t": "抵抗的；抵制的",
+    "en": "opposing or withstanding"
+  },
+  "threatens": {
+    "p": "/ˈθretənz/",
+    "t": "威胁；恐吓",
+    "en": "expresses intention to harm"
+  },
+  "minded": {
+    "p": "/ˈmaɪndɪd/",
+    "t": "有...倾向的；介意",
+    "en": "having a certain disposition"
+  },
+  "statements": {
+    "p": "/ˈsteɪtmənts/",
+    "t": "陈述；声明",
+    "en": "formal expressions or declarations"
+  },
+  "irritating": {
+    "p": "/ˈɪrɪteɪtɪŋ/",
+    "t": "令人恼火的",
+    "en": "causing annoyance or irritation"
+  },
+  "preventing": {
+    "p": "/prɪˈventɪŋ/",
+    "t": "阻止；防止",
+    "en": "stopping from happening"
+  },
+  "attitude": {
+    "p": "/ˈætɪtjuːd/",
+    "t": "态度；看法",
+    "en": "a settled way of thinking or feeling"
+  },
+  "capability": {
+    "p": "/ˌkeɪpəˈbɪləti/",
+    "t": "能力；才能",
+    "en": "the power or ability to do something"
+  },
+  "overconfidence": {
+    "p": "/ˌəʊvəˈkɒnfɪdəns/",
+    "t": "过度自信",
+    "en": "excessive belief in one's abilities"
+  },
+  "exaggerate": {
+    "p": "/ɪɡˈzædʒəreɪt/",
+    "t": "夸大；夸张",
+    "en": "to represent as larger or greater than reality"
+  },
+  "kernel": {
+    "p": "/ˈkɜːnəl/",
+    "t": "核心；要点",
+    "en": "the central or essential part"
+  },
+  "ultimate": {
+    "p": "/ˈʌltɪmət/",
+    "t": "最终的；根本的",
+    "en": "being the last or most extreme"
+  },
+  "pretentiousness": {
+    "p": "/prɪˈtenʃəsnəs/",
+    "t": "自命不凡；做作",
+    "en": "attempting to impress by affecting importance"
+  },
+  "approval": {
+    "p": "/əˈpruːvl/",
+    "t": "批准；认可",
+    "en": "official permission or agreement"
+  },
+  "acceptance": {
+    "p": "/əkˈseptəns/",
+    "t": "接受；认可",
+    "en": "the action of consenting to receive or undertake"
+  },
+  "empathy": {
+    "p": "/ˈempəθi/",
+    "t": "共情；同理心",
+    "en": "the ability to understand others' feelings"
+  },
+  "appreciation": {
+    "p": "/əˌpriːʃiˈeɪʃən/",
+    "t": "感激；欣赏",
+    "en": "recognition of value or worth"
+  },
+  "interruptions": {
+    "p": "/ˌɪntəˈrʌpʃənz/",
+    "t": "打断；中断",
+    "en": "acts of breaking in on something"
+  },
+  "preemptively": {
+    "p": "/priˈemptɪvli/",
+    "t": "先发制人地",
+    "en": "in a way that prevents something before it happens"
+  },
+  "request": {
+    "p": "/rɪˈkwest/",
+    "t": "请求；要求",
+    "en": "an act of asking politely or formally"
+  },
+  "refrain": {
+    "p": "/rɪˈfreɪn/",
+    "t": "克制；避免",
+    "en": "to hold oneself back from doing something"
+  },
+  "interjecting": {
+    "p": "/ˌɪntəˈdʒektɪŋ/",
+    "t": "插话；突然插入",
+    "en": "saying something abruptly in conversation"
+  },
+  "comments": {
+    "p": "/ˈkɒments/",
+    "t": "评论；意见",
+    "en": "remarks or observations"
+  },
+  "presentation": {
+    "p": "/ˌprezənˈteɪʃən/",
+    "t": "演示；陈述",
+    "en": "a speech or talk showing something"
+  },
+  "backandforth": {
+    "p": "/ˌbækəndˈfɔːθ/",
+    "t": "来回；反复",
+    "en": "movement or discussion alternating in direction"
+  },
+  "concentration": {
+    "p": "/ˌkɒnsənˈtreɪʃən/",
+    "t": "专注；集中",
+    "en": "the ability to focus attention"
+  },
+  "appreciate": {
+    "p": "/əˈpriːʃieɪt/",
+    "t": "感激；欣赏",
+    "en": "to be grateful for or value"
+  },
+  "jumping": {
+    "p": "/ˈdʒʌmpɪŋ/",
+    "t": "跳跃；突然行动",
+    "en": "moving quickly off the ground"
+  },
+  "occur": {
+    "p": "/əˈkɜː/",
+    "t": "发生；出现",
+    "en": "to happen or take place"
+  },
+  "tactfully": {
+    "p": "/ˈtæktfəli/",
+    "t": "圆滑地；得体地",
+    "en": "in a sensitive and diplomatic manner"
+  },
+  "efforts": {
+    "p": "/ˈefəts/",
+    "t": "努力；尝试",
+    "en": "strenuous attempts or work"
+  },
+  "preempt": {
+    "p": "/priˈempt/",
+    "t": "抢先；预先阻止",
+    "en": "to take action to prevent something"
+  },
+  "voice": {
+    "p": "/vɔɪs/",
+    "t": "声音；发言权",
+    "en": "the sound produced in speaking or the right to express opinion"
+  },
+  "struggle": {
+    "p": "/ˈstrʌɡəl/",
+    "t": "奋斗；挣扎",
+    "en": "to make forceful efforts to overcome difficulty"
+  },
+  "attempt": {
+    "p": "/əˈtempt/",
+    "t": "尝试；企图",
+    "en": "an act of trying to achieve something"
+  },
+  "drown": {
+    "p": "/draʊn/",
+    "t": "淹没；掩盖",
+    "en": "to submerge or overpower with sound"
+  },
+  "confidently": {
+    "p": "/ˈkɒnfɪdəntli/",
+    "t": "自信地",
+    "en": "in a self-assured manner"
+  },
+  "comfortable": {
+    "p": "/ˈkʌmftəbəl/",
+    "t": "舒适的；自在的",
+    "en": "feeling at ease and free from stress"
+  },
+  "enlist": {
+    "p": "/ɪnˈlɪst/",
+    "t": "争取；获得支持",
+    "en": "to secure the help or support of"
+  },
+  "allies": {
+    "p": "/ˈælaɪz/",
+    "t": "盟友；支持者",
+    "en": "people who cooperate or support"
+  },
+  "rudeness": {
+    "p": "/ˈruːdnəs/",
+    "t": "粗鲁；无礼",
+    "en": "lack of politeness or respect"
+  },
+  "interrupts": {
+    "p": "/ˌɪntəˈrʌpts/",
+    "t": "打断；插嘴",
+    "en": "breaks in on someone's speech"
+  },
+  "norms": {
+    "p": "/nɔːmz/",
+    "t": "规范；准则",
+    "en": "standard patterns of behavior"
+  },
+  "teaching": {
+    "p": "/ˈtiːtʃɪŋ/",
+    "t": "教学；教导",
+    "en": "the act of imparting knowledge"
+  },
+  "workshop": {
+    "p": "/ˈwɜːkʃɒp/",
+    "t": "研讨会；讲习班",
+    "en": "a meeting for discussion and training"
+  },
+  "stays": {
+    "p": "/steɪz/",
+    "t": "停留；保持",
+    "en": "remains in a particular state"
+  },
+  "opinions": {
+    "p": "/əˈpɪnjənz/",
+    "t": "意见；看法",
+    "en": "personal views or judgments"
+  },
+  "prone": {
+    "p": "/prəʊn/",
+    "t": "易于...的；倾向的",
+    "en": "likely to suffer from or do something"
+  },
+  "holding": {
+    "p": "/ˈhəʊldɪŋ/",
+    "t": "持有；保持",
+    "en": "grasping or maintaining"
+  },
+  "equitably": {
+    "p": "/ˈekwɪtəbli/",
+    "t": "公平地；公正地",
+    "en": "in a fair and impartial manner"
+  },
+  "distributed": {
+    "p": "/dɪˈstrɪbjuːtɪd/",
+    "t": "分配的；分布的",
+    "en": "spread or shared out"
+  },
+  "established": {
+    "p": "/ɪˈstæblɪʃt/",
+    "t": "已建立的；确定的",
+    "en": "set up or recognized as valid"
+  },
+  "guidelines": {
+    "p": "/ˈɡaɪdlaɪnz/",
+    "t": "指导方针；准则",
+    "en": "general rules or principles"
+  },
+  "discourage": {
+    "p": "/dɪsˈkʌrɪdʒ/",
+    "t": "劝阻；使气馁",
+    "en": "to try to prevent or deter"
+  },
+  "proclaim": {
+    "p": "/prəˈkleɪm/",
+    "t": "宣告；声明",
+    "en": "to announce publicly or officially"
+  },
+  "features": {
+    "p": "/ˈfiːtʃəz/",
+    "t": "特征；特点",
+    "en": "distinctive attributes or aspects"
+  },
+  "dropping": {
+    "p": "/ˈdrɒpɪŋ/",
+    "t": "放下；说出",
+    "en": "letting fall or mentioning casually"
+  },
+  "complaints": {
+    "p": "/kəmˈpleɪnts/",
+    "t": "抱怨；投诉",
+    "en": "expressions of dissatisfaction"
+  },
+  "election": {
+    "p": "/ɪˈlekʃən/",
+    "t": "选举；选择",
+    "en": "the process of choosing by vote"
+  },
+  "wondering": {
+    "p": "/ˈwʌndərɪŋ/",
+    "t": "想知道；感到疑惑",
+    "en": "feeling curiosity or doubt"
+  },
+  "declarations": {
+    "p": "/ˌdekləˈreɪʃənz/",
+    "t": "声明；宣言",
+    "en": "formal or explicit statements"
+  },
+  "respectful": {
+    "p": "/rɪˈspektfəl/",
+    "t": "恭敬的；有礼貌的",
+    "en": "showing respect or politeness"
+  },
+  "confrontational": {
+    "p": "/ˌkɒnfrənˈteɪʃənəl/",
+    "t": "对抗性的；挑衅的",
+    "en": "tending to cause conflict or argument"
+  },
+  "assumptions": {
+    "p": "/əˈsʌmpʃənz/",
+    "t": "假设；臆断",
+    "en": "things accepted as true without proof"
+  },
+  "proceed": {
+    "p": "/prəˈsiːd/",
+    "t": "继续进行；前进",
+    "en": "to continue or go forward"
+  },
+  "domineering": {
+    "p": "/ˌdɒmɪˈnɪərɪŋ/",
+    "t": "盛气凌人的；专横的",
+    "en": "asserting power in an overbearing way"
+  },
+  "inquiries": {
+    "p": "/ɪnˈkwaɪəriz/",
+    "t": "询问；调查",
+    "en": "requests for information"
+  },
+  "requests": {
+    "p": "/rɪˈkwest/",
+    "t": "请求；要求",
+    "en": "acts of asking for something"
+  },
+  "blurting": {
+    "p": "/blɜːtɪŋ/",
+    "t": "脱口而出",
+    "en": "saying suddenly without thinking"
+  },
+  "unsubstantiated": {
+    "p": "/ˌʌnsəbˈstænʃieɪtɪd/",
+    "t": "未经证实的",
+    "en": "not supported by evidence"
+  },
+  "encourage": {
+    "p": "/ɪnˈkʌrɪdʒ/",
+    "t": "鼓励；支持",
+    "en": "to give support or confidence"
+  },
+  "verified": {
+    "p": "/ˈverɪfaɪd/",
+    "t": "经核实的",
+    "en": "confirmed as accurate or true"
+  },
+  "defend": {
+    "p": "/dɪˈfend/",
+    "t": "辩护；保卫",
+    "en": "to protect or argue in favor of"
+  },
+  "perspective": {
+    "p": "/pəˈspektɪv/",
+    "t": "观点；视角",
+    "en": "a particular way of viewing things"
+  },
+  "counter": {
+    "p": "/ˈkaʊntə/",
+    "t": "反驳；反对",
+    "en": "to respond in opposition"
+  },
+  "misleading": {
+    "p": "/ˌmɪsˈliːdɪŋ/",
+    "t": "误导的",
+    "en": "giving a wrong impression"
+  },
+  "reinforcing": {
+    "p": "/ˌriːɪnˈfɔːsɪŋ/",
+    "t": "加强；强化",
+    "en": "strengthening or supporting"
+  },
+  "importance": {
+    "p": "/ɪmˈpɔːtəns/",
+    "t": "重要性",
+    "en": "the quality of being significant"
+  },
+  "factbased": {
+    "p": "/ˈfæktbeɪst/",
+    "t": "基于事实的",
+    "en": "grounded in facts rather than opinions"
+  },
+  "discussions": {
+    "p": "/dɪˈskʌʃənz/",
+    "t": "讨论；商议",
+    "en": "talks or debates about a topic"
+  },
+  "posturing": {
+    "p": "/ˈpɒstʃərɪŋ/",
+    "t": "装腔作势；故作姿态",
+    "en": "behaving in a pretentious manner"
+  },
+  "showoffs": {
+    "p": "/ˈʃəʊɒfs/",
+    "t": "爱炫耀的人",
+    "en": "people who display their abilities to impress"
+  },
+  "implicitly": {
+    "p": "/ɪmˈplɪsɪtli/",
+    "t": "含蓄地；暗中地",
+    "en": "in an implied manner"
+  },
+  "explicitly": {
+    "p": "/ɪkˈsplɪsɪtli/",
+    "t": "明确地；清楚地",
+    "en": "in a clear and direct manner"
+  },
+  "messages": {
+    "p": "/ˈmesɪdʒɪz/",
+    "t": "信息；消息",
+    "en": "pieces of communication"
+  },
+  "projecting": {
+    "p": "/prəˈdʒektɪŋ/",
+    "t": "投射；展现",
+    "en": "presenting or conveying an image"
+  },
+  "displaying": {
+    "p": "/dɪˈspleɪɪŋ/",
+    "t": "展示；显示",
+    "en": "showing or exhibiting"
+  },
+  "openmindedness": {
+    "p": "/ˌəʊpənˈmaɪndɪdnəs/",
+    "t": "思想开放；开明",
+    "en": "willingness to consider new ideas"
+  },
+  "suffer": {
+    "p": "/ˈsʌfə/",
+    "t": "遭受；忍受",
+    "en": "to experience pain or difficulty"
+  },
+  "expressing": {
+    "p": "/ɪkˈspresɪŋ/",
+    "t": "表达；表示",
+    "en": "conveying thoughts or feelings"
+  },
+  "prompt": {
+    "p": "/prɒmpt/",
+    "t": "促使；提示",
+    "en": "to cause or encourage action"
+  },
+  "humbler": {
+    "p": "/ˈhʌmblə/",
+    "t": "更谦逊的",
+    "en": "more modest or humble"
+  },
+  "encouraging": {
+    "p": "/ɪnˈkʌrɪdʒɪŋ/",
+    "t": "鼓励的；鼓舞人心的",
+    "en": "giving hope or support"
+  },
+  "solutions": {
+    "p": "/səˈluːʃənz/",
+    "t": "解决方案",
+    "en": "answers to problems"
+  },
+  "propose": {
+    "p": "/prəˈpəʊz/",
+    "t": "提议；建议",
+    "en": "to put forward for consideration"
+  },
+  "viewpoint": {
+    "p": "/ˈvjuːpɔɪnt/",
+    "t": "观点；看法",
+    "en": "a particular attitude or way of thinking"
+  },
+  "seeking": {
+    "p": "/ˈsiːkɪŋ/",
+    "t": "寻求；寻找",
+    "en": "attempting to find or obtain"
+  },
+  "validation": {
+    "p": "/ˌvælɪˈdeɪʃən/",
+    "t": "确认；认可",
+    "en": "the act of confirming or approving"
+  },
+  "acknowledging": {
+    "p": "/əkˈnɒlɪdʒɪŋ/",
+    "t": "承认；致谢",
+    "en": "recognizing or admitting"
+  },
+  "prevent": {
+    "p": "/prɪˈvent/",
+    "t": "阻止；预防",
+    "en": "to stop from happening"
+  },
+  "grandstanding": {
+    "p": "/ˈɡrændstændɪŋ/",
+    "t": "哗众取宠；作秀",
+    "en": "behaving ostentatiously to impress"
+  },
+  "diving": {
+    "p": "/ˈdaɪvɪŋ/",
+    "t": "跳水；潜水",
+    "en": "the sport or act of plunging into water"
+  },
+  "instance": {
+    "p": "/ˈɪnstəns/",
+    "t": "例子；情况",
+    "en": "a particular case or occurrence"
+  },
+  "slightly": {
+    "p": "/ˈslaɪtli/",
+    "t": "稍微；略微",
+    "en": "to a small degree"
+  },
+  "differently": {
+    "p": "/ˈdɪfərəntli/",
+    "t": "不同地",
+    "en": "in a different manner"
+  },
+  "careerlimiting": {
+    "p": "/kəˈrɪəˌlɪmɪtɪŋ/",
+    "t": "限制职业发展的",
+    "en": "having a negative effect on one's career"
+  },
+  "bluster": {
+    "p": "/ˈblʌstə/",
+    "t": "虚张声势；恫吓",
+    "en": "loud, aggressive talk without substance"
+  },
+  "lessen": {
+    "p": "/ˈlesən/",
+    "t": "减少；减轻",
+    "en": "to make or become smaller"
+  },
+  "facilitator": {
+    "p": "/fəˈsɪlɪteɪtə/",
+    "t": "主持人；促进者",
+    "en": "a person who helps a group work effectively"
+  },
+  "gallo": {
+    "p": "/ˈɡæləʊ/",
+    "t": "加洛（人名）",
+    "en": "a surname or given name"
+  },
+  "editorial": {
+    "p": "/ˌedɪˈtɔːriəl/",
+    "t": "社论；编辑的",
+    "en": "an article in a newspaper expressing the editor's opinion; relating to editing"
+  },
+  "director": {
+    "p": "/dəˈrektər/",
+    "t": "导演；主管；董事",
+    "en": "a person who manages or supervises an organization or a film"
+  },
+  "covering": {
+    "p": "/ˈkʌvərɪŋ/",
+    "t": "覆盖；报道；掩护",
+    "en": "the act of covering or reporting on something"
+  },
+  "subjects": {
+    "p": "/ˈsʌbdʒɪkts/",
+    "t": "主题；科目；受试者",
+    "en": "topics or areas of study; people involved in an experiment"
+  },
+  "section": {
+    "p": "/ˈsekʃn/",
+    "t": "部分；章节；部门",
+    "en": "a distinct part of something larger"
+  },
+  "newsletter": {
+    "p": "/ˈnuːzletər/",
+    "t": "时事通讯；简报",
+    "en": "a printed or digital report sent regularly to subscribers"
+  },
+  "foreign": {
+    "p": "/ˈfɔːrən/",
+    "t": "外国的；外来的",
+    "en": "relating to a country other than one's own"
+  },
+  "existential": {
+    "p": "/ˌeɡzɪˈstenʃl/",
+    "t": "存在的；存在主义的",
+    "en": "relating to existence or existentialism"
+  },
+  "canceled": {
+    "p": "/ˈkænsld/",
+    "t": "取消的",
+    "en": "past tense of cancel; called off"
+  },
+  "vaccine": {
+    "p": "/vækˈsiːn/",
+    "t": "疫苗",
+    "en": "a substance that stimulates immunity against a disease"
+  },
+  "investing": {
+    "p": "/ɪnˈvestɪŋ/",
+    "t": "投资",
+    "en": "the act of allocating money with expectation of return"
+  },
+  "technology": {
+    "p": "/tekˈnɑːlədʒi/",
+    "t": "技术；科技",
+    "en": "application of scientific knowledge for practical purposes"
+  },
+  "lifesaving": {
+    "p": "/ˈlaɪfseɪvɪŋ/",
+    "t": "救生的；救命的",
+    "en": "designed to save lives"
+  },
+  "vaccines": {
+    "p": "/vækˈsiːnz/",
+    "t": "疫苗（复数）",
+    "en": "plural of vaccine"
+  },
+  "longtime": {
+    "p": "/ˈlɔːŋtaɪm/",
+    "t": "长期的",
+    "en": "having existed for a long time"
+  },
+  "skeptic": {
+    "p": "/ˈskeptɪk/",
+    "t": "怀疑论者",
+    "en": "a person who questions or doubts claims"
+  },
+  "claimed": {
+    "p": "/kleɪmd/",
+    "t": "声称；主张",
+    "en": "past tense of claim; stated as true"
+  },
+  "protect": {
+    "p": "/prəˈtekt/",
+    "t": "保护",
+    "en": "to keep safe from harm"
+  },
+  "upper": {
+    "p": "/ˈʌpər/",
+    "t": "上部的；较高的",
+    "en": "situated above another part"
+  },
+  "respiratory": {
+    "p": "/ˈrespərətɔːri/",
+    "t": "呼吸的",
+    "en": "relating to breathing"
+  },
+  "infections": {
+    "p": "/ɪnˈfekʃnz/",
+    "t": "感染（复数）",
+    "en": "plural of infection; diseases caused by pathogens"
+  },
+  "weren": {
+    "p": "/wɜːrn/",
+    "t": "（非标准）were not 的缩写",
+    "en": "nonstandard contraction of 'were not'"
+  },
+  "trial": {
+    "p": "/ˈtraɪəl/",
+    "t": "试验；审判",
+    "en": "a test or legal proceeding"
+  },
+  "approved": {
+    "p": "/əˈpruːvd/",
+    "t": "批准的；认可的",
+    "en": "past tense of approve; officially agreed to"
+  },
+  "mflusiva": {
+    "p": "/məˈfluːsɪvə/",
+    "t": "（专有名词）一种流感疫苗品牌",
+    "en": "a brand name for an influenza vaccine"
+  },
+  "influenza": {
+    "p": "/ˌɪnfluˈenzə/",
+    "t": "流感",
+    "en": "a viral infection causing fever and respiratory symptoms"
+  },
+  "licensed": {
+    "p": "/ˈlaɪsnst/",
+    "t": "获得许可的",
+    "en": "having official permission"
+  },
+  "symmetry": {
+    "p": "/ˈsɪmətri/",
+    "t": "对称；匀称",
+    "en": "balanced proportions"
+  },
+  "highly": {
+    "p": "/ˈhaɪli/",
+    "t": "高度地；非常",
+    "en": "to a high degree"
+  },
+  "writers": {
+    "p": "/ˈraɪtərz/",
+    "t": "作家；作者（复数）",
+    "en": "plural of writer; people who write"
+  },
+  "myself": {
+    "p": "/maɪˈself/",
+    "t": "我自己",
+    "en": "reflexive pronoun for I"
+  },
+  "identify": {
+    "p": "/aɪˈdentɪfaɪ/",
+    "t": "识别；认同",
+    "en": "to recognize or associate with"
+  },
+  "rhymes": {
+    "p": "/raɪmz/",
+    "t": "押韵；韵脚（复数）",
+    "en": "plural of rhyme; words with similar sounds"
+  },
+  "history": {
+    "p": "/ˈhɪstəri/",
+    "t": "历史",
+    "en": "the study of past events"
+  },
+  "landed": {
+    "p": "/ˈlændɪd/",
+    "t": "着陆的；获得的",
+    "en": "past tense of land; arrived or achieved"
+  },
+  "oneyear": {
+    "p": "/ˈwʌn jɪr/",
+    "t": "一年的",
+    "en": "lasting one year"
+  },
+  "application": {
+    "p": "/ˌæplɪˈkeɪʃn/",
+    "t": "申请；应用",
+    "en": "a formal request or the act of applying"
+  },
+  "reversed": {
+    "p": "/rɪˈvɜːrst/",
+    "t": "反转的；撤销的",
+    "en": "past tense of reverse; changed to opposite"
+  },
+  "seasonal": {
+    "p": "/ˈsiːzənl/",
+    "t": "季节性的",
+    "en": "occurring at specific seasons"
+  },
+  "seriously": {
+    "p": "/ˈsɪriəsli/",
+    "t": "严重地；认真地",
+    "en": "in a serious manner"
+  },
+  "season": {
+    "p": "/ˈsiːzn/",
+    "t": "季节；赛季",
+    "en": "a period of the year or a sporting period"
+  },
+  "produced": {
+    "p": "/prəˈduːst/",
+    "t": "生产的；产生的",
+    "en": "past tense of produce; made or caused"
+  },
+  "illnesses": {
+    "p": "/ˈɪlnəsɪz/",
+    "t": "疾病（复数）",
+    "en": "plural of illness; diseases"
+  },
+  "hospitalizations": {
+    "p": "/ˌhɑːspɪtəlaɪˈzeɪʃnz/",
+    "t": "住院治疗（复数）",
+    "en": "plural of hospitalization; stays in hospital"
+  },
+  "deaths": {
+    "p": "/deθs/",
+    "t": "死亡（复数）",
+    "en": "plural of death; instances of dying"
+  },
+  "crashes": {
+    "p": "/ˈkræʃɪz/",
+    "t": "碰撞；崩溃（复数）",
+    "en": "plural of crash; collisions or failures"
+  },
+  "virus": {
+    "p": "/ˈvaɪrəs/",
+    "t": "病毒",
+    "en": "a microscopic infectious agent"
+  },
+  "fever": {
+    "p": "/ˈfiːvər/",
+    "t": "发烧；狂热",
+    "en": "high body temperature; excitement"
+  },
+  "confirmed": {
+    "p": "/kənˈfɜːrmd/",
+    "t": "确认的；证实的",
+    "en": "past tense of confirm; verified"
+  },
+  "unanimously": {
+    "p": "/juˈnænɪməsli/",
+    "t": "全体一致地",
+    "en": "with everyone in agreement"
+  },
+  "outweigh": {
+    "p": "/ˌaʊtˈweɪ/",
+    "t": "超过；重于",
+    "en": "to be greater in importance or weight"
+  },
+  "appointed": {
+    "p": "/əˈpɔɪntɪd/",
+    "t": "任命的；指定的",
+    "en": "past tense of appoint; assigned to a position"
+  },
+  "secretary": {
+    "p": "/ˈsekrəteri/",
+    "t": "秘书；部长；大臣",
+    "en": "a person who handles correspondence or heads a department"
+  },
+  "hopes": {
+    "p": "/hoʊps/",
+    "t": "希望（复数）",
+    "en": "plural of hope; expectations"
+  },
+  "thank": {
+    "p": "/θæŋk/",
+    "t": "感谢",
+    "en": "to express gratitude"
+  },
+  "chicken": {
+    "p": "/ˈtʃɪkɪn/",
+    "t": "鸡；鸡肉",
+    "en": "a domestic fowl or its meat"
+  },
+  "grown": {
+    "p": "/ɡroʊn/",
+    "t": "成长的；成年的",
+    "en": "past participle of grow; matured"
+  },
+  "fertilized": {
+    "p": "/ˈfɜːrtəlaɪzd/",
+    "t": "受精的；施肥的",
+    "en": "past tense of fertilize; made fertile"
+  },
+  "laborious": {
+    "p": "/ləˈbɔːriəs/",
+    "t": "费力的；艰苦的",
+    "en": "requiring much effort"
+  },
+  "agriculture": {
+    "p": "/ˈæɡrɪkʌltʃər/",
+    "t": "农业",
+    "en": "the practice of farming"
+  },
+  "batch": {
+    "p": "/bætʃ/",
+    "t": "一批；一炉",
+    "en": "a group or set produced at one time"
+  },
+  "incubates": {
+    "p": "/ˈɪŋkjubeɪts/",
+    "t": "孵化；潜伏",
+    "en": "third person of incubate; keeps eggs warm for hatching"
+  },
+  "reagents": {
+    "p": "/riˈeɪdʒənts/",
+    "t": "试剂（复数）",
+    "en": "plural of reagent; substances used in chemical reactions"
+  },
+  "manufacturers": {
+    "p": "/ˌmænjuˈfæktʃərərz/",
+    "t": "制造商（复数）",
+    "en": "plural of manufacturer; companies that make products"
+  },
+  "calibrate": {
+    "p": "/ˈkælɪbreɪt/",
+    "t": "校准；标定",
+    "en": "to adjust precisely for measurement"
+  },
+  "doses": {
+    "p": "/ˈdoʊsɪz/",
+    "t": "剂量（复数）",
+    "en": "plural of dose; measured amounts of medicine"
+  },
+  "sequence": {
+    "p": "/ˈsiːkwəns/",
+    "t": "序列；顺序",
+    "en": "a particular order of items"
+  },
+  "strains": {
+    "p": "/streɪnz/",
+    "t": "菌株；压力（复数）",
+    "en": "plural of strain; variants of organisms or stress"
+  },
+  "selected": {
+    "p": "/sɪˈlektɪd/",
+    "t": "选定的",
+    "en": "past tense of select; chosen"
+  },
+  "stand": {
+    "p": "/stænd/",
+    "t": "站立；忍受；立场",
+    "en": "to be upright; to tolerate; a position"
+  },
+  "drifts": {
+    "p": "/drɪfts/",
+    "t": "漂移；趋势（复数）",
+    "en": "plural of drift; gradual changes or movements"
+  },
+  "forces": {
+    "p": "/ˈfɔːrsɪz/",
+    "t": "力量；军队（复数）",
+    "en": "plural of force; strengths or military groups"
+  },
+  "adapt": {
+    "p": "/əˈdæpt/",
+    "t": "适应；改编",
+    "en": "to adjust to new conditions"
+  },
+  "cells": {
+    "p": "/selz/",
+    "t": "细胞；电池（复数）",
+    "en": "plural of cell; basic units of life or batteries"
+  },
+  "adaptations": {
+    "p": "/ˌædæpˈteɪʃnz/",
+    "t": "适应；改编（复数）",
+    "en": "plural of adaptation; changes for survival"
+  },
+  "protein": {
+    "p": "/ˈproʊtiːn/",
+    "t": "蛋白质",
+    "en": "a macromolecule essential for life"
+  },
+  "immune": {
+    "p": "/ɪˈmjuːn/",
+    "t": "免疫的",
+    "en": "resistant to infection"
+  },
+  "seasons": {
+    "p": "/ˈsiːzənz/",
+    "t": "季节（复数）",
+    "en": "plural of season"
+  },
+  "eggadaptive": {
+    "p": "/ˈeɡ əˈdæptɪv/",
+    "t": "蛋适应的（指流感疫苗在鸡蛋中培养产生的适应）",
+    "en": "relating to adaptation in eggs"
+  },
+  "mutations": {
+    "p": "/mjuˈteɪʃnz/",
+    "t": "突变（复数）",
+    "en": "plural of mutation; changes in DNA"
+  },
+  "mismatches": {
+    "p": "/ˈmɪsmætʃɪz/",
+    "t": "不匹配（复数）",
+    "en": "plural of mismatch; poor matches"
+  },
+  "prevented": {
+    "p": "/prɪˈventɪd/",
+    "t": "防止的；阻止的",
+    "en": "past tense of prevent; stopped from happening"
+  },
+  "estimated": {
+    "p": "/ˈestɪmeɪtɪd/",
+    "t": "估计的",
+    "en": "past tense of estimate; roughly calculated"
+  },
+  "weakest": {
+    "p": "/ˈwiːkɪst/",
+    "t": "最弱的",
+    "en": "superlative of weak; least strong"
+  },
+  "landing": {
+    "p": "/ˈlændɪŋ/",
+    "t": "着陆；楼梯平台",
+    "en": "the act of coming to ground; a flat area at top of stairs"
+  },
+  "depending": {
+    "p": "/dɪˈpendɪŋ/",
+    "t": "取决于",
+    "en": "present participle of depend; relying on"
+  },
+  "matched": {
+    "p": "/mætʃt/",
+    "t": "匹配的",
+    "en": "past tense of match; paired equally"
+  },
+  "skips": {
+    "p": "/skɪps/",
+    "t": "跳过；蹦跳（复数）",
+    "en": "plural of skip; omissions or leaps"
+  },
+  "carries": {
+    "p": "/ˈkæriz/",
+    "t": "携带；运送",
+    "en": "third person of carry; transports"
+  },
+  "instructions": {
+    "p": "/ɪnˈstrʌkʃnz/",
+    "t": "指令；说明（复数）",
+    "en": "plural of instruction; directions"
+  },
+  "strip": {
+    "p": "/strɪp/",
+    "t": "条；带；脱衣",
+    "en": "a long narrow piece; to remove covering"
+  },
+  "tells": {
+    "p": "/telz/",
+    "t": "告诉；讲述",
+    "en": "third person of tell; informs"
+  },
+  "learns": {
+    "p": "/lɜːrnz/",
+    "t": "学习；得知",
+    "en": "third person of learn; acquires knowledge"
+  },
+  "swapping": {
+    "p": "/ˈswɑːpɪŋ/",
+    "t": "交换",
+    "en": "present participle of swap; exchanging"
+  },
+  "strain": {
+    "p": "/streɪn/",
+    "t": "菌株；压力；拉紧",
+    "en": "a variant of organism; stress; tension"
+  },
+  "retyping": {
+    "p": "/riːˈtaɪpɪŋ/",
+    "t": "重新打字",
+    "en": "present participle of retype; typing again"
+  },
+  "advisory": {
+    "p": "/ədˈvaɪzəri/",
+    "t": "咨询的；顾问的",
+    "en": "relating to advice"
+  },
+  "selection": {
+    "p": "/sɪˈlekʃn/",
+    "t": "选择；选集",
+    "en": "the act of choosing; a chosen set"
+  },
+  "picks": {
+    "p": "/pɪks/",
+    "t": "挑选；采摘",
+    "en": "third person of pick; selects"
+  },
+  "cover": {
+    "p": "/ˈkʌvər/",
+    "t": "覆盖；封面；掩护",
+    "en": "to place over; a lid or front page"
+  },
+  "surfacing": {
+    "p": "/ˈsɜːrfɪsɪŋ/",
+    "t": "浮出水面；出现",
+    "en": "present participle of surface; coming to the top"
+  },
+  "blocked": {
+    "p": "/blɑːkt/",
+    "t": "阻塞的；封锁的",
+    "en": "past tense of block; obstructed"
+  },
+  "reformulated": {
+    "p": "/riːˈfɔːrmjuleɪtɪd/",
+    "t": "重新配制的",
+    "en": "past tense of reformulate; made again with changes"
+  },
+  "universal": {
+    "p": "/ˌjuːnɪˈvɜːrsl/",
+    "t": "普遍的；通用的",
+    "en": "applicable to all"
+  },
+  "underneath": {
+    "p": "/ˌʌndərˈniːθ/",
+    "t": "在下面",
+    "en": "directly below"
+  },
+  "flowing": {
+    "p": "/ˈfloʊɪŋ/",
+    "t": "流动的",
+    "en": "present participle of flow; moving smoothly"
+  },
+  "fiveyear": {
+    "p": "/ˈfaɪv jɪr/",
+    "t": "五年的",
+    "en": "lasting five years"
+  },
+  "melanoma": {
+    "p": "/ˌmeləˈnoʊmə/",
+    "t": "黑色素瘤",
+    "en": "a type of skin cancer"
+  },
+  "individualized": {
+    "p": "/ˌɪndɪˈvɪdʒuəlaɪzd/",
+    "t": "个性化的",
+    "en": "tailored to an individual"
+  },
+  "therapy": {
+    "p": "/ˈθerəpi/",
+    "t": "治疗；疗法",
+    "en": "treatment for illness"
+  },
+  "surgery": {
+    "p": "/ˈsɜːrdʒəri/",
+    "t": "外科手术",
+    "en": "medical treatment involving incision"
+  },
+  "pembrolizumab": {
+    "p": "/ˌpembroʊˈlɪzjuːmæb/",
+    "t": "帕博利珠单抗（一种免疫治疗药物）",
+    "en": "a cancer immunotherapy drug"
+  },
+  "recurrence": {
+    "p": "/rɪˈkɜːrəns/",
+    "t": "复发",
+    "en": "the return of a disease"
+  },
+  "death": {
+    "p": "/deθ/",
+    "t": "死亡",
+    "en": "the end of life"
+  },
+  "pancreatic": {
+    "p": "/ˌpæŋkriˈætɪk/",
+    "t": "胰腺的",
+    "en": "relating to the pancreas"
+  },
+  "cancer": {
+    "p": "/ˈkænsər/",
+    "t": "癌症",
+    "en": "a disease of uncontrolled cell growth"
+  },
+  "responded": {
+    "p": "/rɪˈspɑːndɪd/",
+    "t": "回应的；反应的",
+    "en": "past tense of respond; answered or reacted"
+  },
+  "personalized": {
+    "p": "/ˈpɜːrsənəlaɪzd/",
+    "t": "个性化的",
+    "en": "tailored to a person"
+  },
+  "alive": {
+    "p": "/əˈlaɪv/",
+    "t": "活着的",
+    "en": "living"
+  },
+  "geneediting": {
+    "p": "/dʒiːn ˈedɪtɪŋ/",
+    "t": "基因编辑",
+    "en": "modification of DNA"
+  },
+  "mutation": {
+    "p": "/mjuˈteɪʃn/",
+    "t": "突变",
+    "en": "a change in DNA sequence"
+  },
+  "infants": {
+    "p": "/ˈɪnfənts/",
+    "t": "婴儿（复数）",
+    "en": "plural of infant; very young children"
+  },
+  "disorder": {
+    "p": "/dɪsˈɔːrdər/",
+    "t": "紊乱；疾病；混乱",
+    "en": "an illness or disturbance"
+  },
+  "birthday": {
+    "p": "/ˈbɜːrθdeɪ/",
+    "t": "生日",
+    "en": "the anniversary of one's birth"
+  },
+  "rewrote": {
+    "p": "/ˌriːˈroʊt/",
+    "t": "重写（过去式）",
+    "en": "past tense of rewrite; wrote again"
+  },
+  "delivered": {
+    "p": "/dɪˈlɪvərd/",
+    "t": "递送的；发表的",
+    "en": "past tense of deliver; transported or gave"
+  },
+  "liver": {
+    "p": "/ˈlɪvər/",
+    "t": "肝脏",
+    "en": "an organ that processes toxins"
+  },
+  "messenger": {
+    "p": "/ˈmesɪndʒər/",
+    "t": "信使；使者",
+    "en": "a person who carries messages"
+  },
+  "truck": {
+    "p": "/trʌk/",
+    "t": "卡车",
+    "en": "a large motor vehicle for transporting goods"
+  },
+  "chemistry": {
+    "p": "/ˈkemɪstri/",
+    "t": "化学；化学反应",
+    "en": "the science of substances and their interactions"
+  },
+  "wrapped": {
+    "p": "/ræpt/",
+    "t": "包裹的",
+    "en": "past tense of wrap; enclosed in covering"
+  },
+  "lipid": {
+    "p": "/ˈlɪpɪd/",
+    "t": "脂质",
+    "en": "a fat or fat-like molecule"
+  },
+  "nanoparticle": {
+    "p": "/ˈnænoʊˌpɑːrtɪkl/",
+    "t": "纳米粒子",
+    "en": "a microscopic particle"
+  },
+  "defunded": {
+    "p": "/ˌdiːˈfʌndɪd/",
+    "t": "撤资的；停止资助的",
+    "en": "past tense of defund; withdrew funding"
+  },
+  "falling": {
+    "p": "/ˈfɔːlɪŋ/",
+    "t": "下降的；落下的",
+    "en": "present participle of fall; moving downward"
+  },
+  "resubmission": {
+    "p": "/ˌriːsəbˈmɪʃn/",
+    "t": "重新提交",
+    "en": "the act of submitting again"
+  },
+  "ready": {
+    "p": "/ˈredi/",
+    "t": "准备好的",
+    "en": "prepared for action"
+  },
+  "invented": {
+    "p": "/ɪnˈventɪd/",
+    "t": "发明的",
+    "en": "past tense of invent; created something new"
+  },
+  "biologist": {
+    "p": "/baɪˈɑːlədʒɪst/",
+    "t": "生物学家",
+    "en": "a scientist who studies biology"
+  },
+  "standarddose": {
+    "p": "/ˈstændərd doʊs/",
+    "t": "标准剂量",
+    "en": "a usual amount of medicine"
+  },
+  "doctor": {
+    "p": "/ˈdɑːktər/",
+    "t": "医生；博士",
+    "en": "a medical professional or a PhD holder"
+  },
+  "exploratory": {
+    "p": "/ɪkˈsplɔːrətɔːri/",
+    "t": "探索性的",
+    "en": "relating to investigation"
+  },
+  "direction": {
+    "p": "/dəˈrekʃn/",
+    "t": "方向；指导",
+    "en": "a course or guidance"
+  },
+  "solved": {
+    "p": "/sɑːlvd/",
+    "t": "解决的",
+    "en": "past tense of solve; found an answer"
+  },
+  "twothirds": {
+    "p": "/ˌtuː ˈθɜːrdz/",
+    "t": "三分之二",
+    "en": "two out of three equal parts"
+  },
+  "recipients": {
+    "p": "/rɪˈsɪpiənts/",
+    "t": "接受者（复数）",
+    "en": "plural of recipient; people who receive"
+  },
+  "injectionsite": {
+    "p": "/ɪnˈdʒekʃn saɪt/",
+    "t": "注射部位",
+    "en": "the place where an injection is given"
+  },
+  "comparison": {
+    "p": "/kəmˈpærɪsn/",
+    "t": "比较",
+    "en": "the act of comparing"
+  },
+  "cleared": {
+    "p": "/klɪrd/",
+    "t": "清除的；批准的",
+    "en": "past tense of clear; removed or approved"
+  },
+  "quarter": {
+    "p": "/ˈkwɔːrtər/",
+    "t": "四分之一；季度",
+    "en": "one fourth; a three-month period"
+  },
+  "minor": {
+    "p": "/ˈmaɪnər/",
+    "t": "较小的；未成年人",
+    "en": "less important; a person under legal age"
+  },
+  "unfortunately": {
+    "p": "/ʌnˈfɔːrtʃənətli/",
+    "t": "不幸地",
+    "en": "regrettably"
+  },
+  "committee": {
+    "p": "/kəˈmɪti/",
+    "t": "委员会",
+    "en": "a group of people appointed for a purpose"
+  },
+  "frozen": {
+    "p": "/ˈfroʊzn/",
+    "t": "冻结的",
+    "en": "past participle of freeze; made solid by cold"
+  },
+  "federal": {
+    "p": "/ˈfedərəl/",
+    "t": "联邦的",
+    "en": "relating to a central government"
+  },
+  "court": {
+    "p": "/kɔːrt/",
+    "t": "法院；法庭",
+    "en": "a place where legal cases are heard"
+  },
+  "insurers": {
+    "p": "/ɪnˈʃʊrərz/",
+    "t": "保险公司（复数）",
+    "en": "plural of insurer; companies providing insurance"
+  },
+  "contracts": {
+    "p": "/ˈkɑːntrækts/",
+    "t": "合同（复数）",
+    "en": "plural of contract; legal agreements"
+  },
+  "restored": {
+    "p": "/rɪˈstɔːrd/",
+    "t": "恢复的；修复的",
+    "en": "past tense of restore; brought back"
+  },
+  "center": {
+    "p": "/ˈsentər/",
+    "t": "中心；中央",
+    "en": "the middle point"
+  },
+  "looked": {
+    "p": "/lʊkt/",
+    "t": "看的；看起来",
+    "en": "past tense of look; directed eyes or seemed"
+  },
+  "pessimistic": {
+    "p": "/ˌpesɪˈmɪstɪk/",
+    "t": "悲观的",
+    "en": "expecting the worst"
+  },
+  "refusaltofile": {
+    "p": "/rɪˈfjuːzl tə faɪl/",
+    "t": "拒绝提交（指FDA拒绝受理申请）",
+    "en": "a decision not to accept an application"
+  },
+  "outcry": {
+    "p": "/ˈaʊtkraɪ/",
+    "t": "强烈抗议",
+    "en": "a loud protest"
+  },
+  "departures": {
+    "p": "/dɪˈpɑːrtʃərz/",
+    "t": "离开；离职（复数）",
+    "en": "plural of departure; acts of leaving"
+  },
+  "yearold": {
+    "p": "/jɪr oʊld/",
+    "t": "……岁的",
+    "en": "having a specified age"
+  },
+  "sleeve": {
+    "p": "/sliːv/",
+    "t": "袖子；套筒",
+    "en": "the part of a garment covering the arm"
   }
 }
