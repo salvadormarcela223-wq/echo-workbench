@@ -1,9 +1,10 @@
 // 英语阅读「每日自动更新」流水线
 // 从多维度英文信源抓最新**完整文章**(非摘要) -> 自动标生词(本地词库优先 + DeepSeek 补中文释义) -> 写回 feed。
 // 设计原则：
-//   ① 内容多维(心理/科学/文化/科技/社会…)；② 每天至少新增 1 篇；③ 不覆盖手写精选(标记 curated)；
+//   ① 内容多维(心理/科学/文化/科技/社会…)；② 每天从各源各抓 1 篇（5 源 = 5 篇，天然维持 Mix1 的 1专业:4通识 占比）；
+//   ③ 全部自动抓取，**绝不手写/保留任何手写文章**（用户硬性要求：readings 必须为自动抓取内容）；
 //   ④ 生词必须有音标/中文释义/英文释义之一（本地词库优先，词库没有的用 DeepSeek 补，并回写词库）；
-//   ⑤ **必须抓完整文章正文（≥500 词），不能只拿 RSS 摘要。**
+//   ⑤ **必须抓完整文章正文（≥400 词），不能只拿 RSS 摘要。**
 import fs from 'fs';
 import path from 'path';
 import { translateWords, translateFullText, extractPhrases } from './ai-enrich.mjs';
@@ -246,7 +247,7 @@ function buildBody(text, vocab) {
   // 完整文章：最多 30 段（约 1500–2500 词的量）；短文保持原逻辑
   const paras = String(text || '').split(/\n+/).filter((p) => p.trim().length > 40);
   const maxParas = Math.min(paras.length, paras.length > 10 ? 30 : 8);
-  const body = paras.slice(0, maxParas).map((p) => '<p>' + p.trim() + '</p>').join('\n');
+  let body = paras.slice(0, maxParas).map((p) => '<p>' + p.trim() + '</p>').join('\n');
   for (const v of vocab) {
     const re = new RegExp('\\b(' + v.w + ')\\b', 'gi');
     body = body.replace(re, '<u>' + '$1' + '</u>');
@@ -274,11 +275,9 @@ async function main() {
   const glossary = loadGlossary();
   const feed = readFeed();
   let readings = feed.readings || [];
-  // 迁移：首次运行时把现有（手写）阅读标记为 curated，避免被滚动窗口清掉；无 id 的补稳定 id（跨设备状态可对应）
-  if (!readings.some((r) => 'curated' in r)) readings.forEach((r) => { r.curated = true; });
+  // 全部自动抓取：不保留任何手写(curated)文章；无 id 的补稳定 id（跨设备状态可对应）
   readings.forEach((r) => { if (!r.id) r.id = stableId(r.link || r.title); });
-  const curated = readings.filter((r) => r.curated);
-  const auto = readings.filter((r) => !r.curated);
+  const auto = readings;
   const seen = new Set(auto.map((r) => r.link).filter(Boolean));
 
   const candidates = [];
@@ -292,8 +291,7 @@ async function main() {
     let pick = null;
     for (const it of items) {
       if (seen.has(it.link)) continue;
-      if (curated.some((c) => c.link === it.link)) continue;
-      if (it.desc.length < 60) continue;   // RSS 摘要太短说明可能不是正经文章
+      if (it.desc.length < 10) continue;   // 仅跳过空摘要；正文长度由后续全文抓取 + 400 词门槛把关（避免误杀 Vox 等短摘要长正文源）
       pick = it; break;
     }
     if (!pick) { console.log('  - ' + src.name + '：暂无新文章'); continue; }
@@ -344,9 +342,9 @@ async function main() {
     candidates.push({ src: src.name, entry: entry });
   }
 
-  // 每天最多新增 2 篇（保证「每天更新」且不过载）
+  // 每个信源各取 1 篇（5 源 = 5 篇，天然维持 Mix1 的 1专业:4通识 占比）
   candidates.sort((a, b) => (b.entry.date || '').localeCompare(a.entry.date || ''));
-  const add = candidates.slice(0, 2);
+  const add = candidates.slice(0, cfg.sources.length);
   for (const c of add) {
     auto.unshift(c.entry);
     seen.add(c.entry.link);
@@ -355,15 +353,15 @@ async function main() {
   }
   while (auto.length > MAX_AUTO) auto.pop();
 
-  feed.readings = curated.concat(auto);
+  feed.readings = auto;
   // 回写全局中文词典（累积每日新词，下次复用、省 token；words.json 保持原样由 glossary 兜底）
   writeJson('data/glossary.json', glossary);
 
   if (DRY) {
-    console.log('\n[DRY] 将写入 ' + add.length + ' 篇新阅读；curated=' + curated.length + ', auto=' + auto.length);
+    console.log('\n[DRY] 将写入 ' + add.length + ' 篇新阅读；auto=' + auto.length);
   } else {
     writeFeed(feed);
-    console.log('\nOK 已写回：curated=' + curated.length + ', auto=' + auto.length + ', 今日新增=' + add.length);
+    console.log('\nOK 已写回：auto=' + auto.length + ', 今日新增=' + add.length);
   }
 }
 main();
