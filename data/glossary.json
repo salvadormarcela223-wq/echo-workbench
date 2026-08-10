@@ -8838,5 +8838,1375 @@
     "p": "/ˈvaɪrəsɪz/",
     "t": "病毒",
     "en": "infectious agents"
+  },
+  "istock": {
+    "p": "/ˈaɪstɒk/",
+    "t": "iStock（图片库品牌）",
+    "en": "A stock photography website"
+  },
+  "generous": {
+    "p": "/ˈdʒenərəs/",
+    "t": "慷慨的，大方的",
+    "en": "Willing to give more than expected"
+  },
+  "without": {
+    "p": "/wɪˈðaʊt/",
+    "t": "没有，缺乏",
+    "en": "Not having or including"
+  },
+  "bunch": {
+    "p": "/bʌntʃ/",
+    "t": "束，串，群",
+    "en": "A number of things grouped together"
+  },
+  "checks": {
+    "p": "/tʃeks/",
+    "t": "检查，核对（复数）",
+    "en": "Examinations or verifications"
+  },
+  "aweinspiring": {
+    "p": "/ˈɔːɪnˌspaɪərɪŋ/",
+    "t": "令人敬畏的",
+    "en": "Causing awe or wonder"
+  },
+  "examples": {
+    "p": "/ɪɡˈzɑːmplz/",
+    "t": "例子，实例",
+    "en": "Instances illustrating a rule"
+  },
+  "generosity": {
+    "p": "/ˌdʒenəˈrɒsəti/",
+    "t": "慷慨，大方",
+    "en": "Quality of being generous"
+  },
+  "customfitted": {
+    "p": "/ˈkʌstəmˌfɪtɪd/",
+    "t": "定制的，合身的",
+    "en": "Made to fit a specific person or use"
+  },
+  "begin": {
+    "p": "/bɪˈɡɪn/",
+    "t": "开始",
+    "en": "To start or commence"
+  },
+  "attention": {
+    "p": "/əˈtenʃn/",
+    "t": "注意，关注",
+    "en": "Notice or consideration given"
+  },
+  "potential": {
+    "p": "/pəˈtenʃl/",
+    "t": "潜力，可能性",
+    "en": "Possibility of future development"
+  },
+  "spark": {
+    "p": "/spɑːk/",
+    "t": "火花，激发",
+    "en": "A small fiery particle; to ignite"
+  },
+  "effects": {
+    "p": "/ɪˈfekts/",
+    "t": "影响，效果",
+    "en": "Changes caused by an action"
+  },
+  "affect": {
+    "p": "/əˈfekt/",
+    "t": "影响",
+    "en": "To influence or produce a change"
+  },
+  "millions": {
+    "p": "/ˈmɪljənz/",
+    "t": "数百万",
+    "en": "Several million people or things"
+  },
+  "master": {
+    "p": "/ˈmɑːstə/",
+    "t": "大师，掌握",
+    "en": "An expert; to become proficient"
+  },
+  "taught": {
+    "p": "/tɔːt/",
+    "t": "教（teach的过去式）",
+    "en": "Past tense of teach"
+  },
+  "precious": {
+    "p": "/ˈpreʃəs/",
+    "t": "珍贵的",
+    "en": "Of great value or importance"
+  },
+  "willingness": {
+    "p": "/ˈwɪlɪŋnəs/",
+    "t": "愿意，乐意",
+    "en": "Readiness to do something"
+  },
+  "focusing": {
+    "p": "/ˈfəʊkəsɪŋ/",
+    "t": "集中，聚焦",
+    "en": "Concentrating on something"
+  },
+  "ourselves": {
+    "p": "/aʊəˈselvz/",
+    "t": "我们自己",
+    "en": "Reflexive form of we"
+  },
+  "connection": {
+    "p": "/kəˈnekʃn/",
+    "t": "联系，连接",
+    "en": "A relationship or link"
+  },
+  "spend": {
+    "p": "/spend/",
+    "t": "花费（时间或金钱）",
+    "en": "To use time or money"
+  },
+  "worlds": {
+    "p": "/wɜːldz/",
+    "t": "世界（复数）",
+    "en": "Plural of world"
+  },
+  "reluctant": {
+    "p": "/rɪˈlʌktənt/",
+    "t": "不情愿的",
+    "en": "Unwilling or hesitant"
+  },
+  "focus": {
+    "p": "/ˈfəʊkəs/",
+    "t": "焦点，集中",
+    "en": "Center of interest; to concentrate"
+  },
+  "issues": {
+    "p": "/ˈɪʃuːz/",
+    "t": "问题，议题",
+    "en": "Important topics or problems"
+  },
+  "others": {
+    "p": "/ˈʌðəz/",
+    "t": "其他人，其他事物",
+    "en": "Other people or things"
+  },
+  "dealing": {
+    "p": "/ˈdiːlɪŋ/",
+    "t": "处理，应对",
+    "en": "Managing or handling"
+  },
+  "shields": {
+    "p": "/ʃiːldz/",
+    "t": "盾牌，保护",
+    "en": "Protective barriers"
+  },
+  "little": {
+    "p": "/ˈlɪtl/",
+    "t": "小的，少量",
+    "en": "Small in size or amount"
+  },
+  "those": {
+    "p": "/ðəʊz/",
+    "t": "那些",
+    "en": "Plural of that"
+  },
+  "meaningful": {
+    "p": "/ˈmiːnɪŋfl/",
+    "t": "有意义的",
+    "en": "Having significance or purpose"
+  },
+  "researching": {
+    "p": "/rɪˈsɜːtʃɪŋ/",
+    "t": "研究，调查",
+    "en": "Investigating systematically"
+  },
+  "journey": {
+    "p": "/ˈdʒɜːni/",
+    "t": "旅程，旅行",
+    "en": "An act of traveling from one place to another"
+  },
+  "bridges": {
+    "p": "/ˈbrɪdʒɪz/",
+    "t": "桥梁，连接",
+    "en": "Structures spanning gaps; to connect"
+  },
+  "connected": {
+    "p": "/kəˈnektɪd/",
+    "t": "连接的，有联系的",
+    "en": "Joined or linked"
+  },
+  "disagree": {
+    "p": "/ˌdɪsəˈɡriː/",
+    "t": "不同意",
+    "en": "To have a different opinion"
+  },
+  "disputes": {
+    "p": "/dɪˈspjuːts/",
+    "t": "争端，纠纷",
+    "en": "Arguments or disagreements"
+  },
+  "audiences": {
+    "p": "/ˈɔːdiənsɪz/",
+    "t": "观众，听众",
+    "en": "Groups of spectators or listeners"
+  },
+  "glued": {
+    "p": "/ɡluːd/",
+    "t": "粘住的，全神贯注的",
+    "en": "Firmly attached; absorbed in"
+  },
+  "feuds": {
+    "p": "/fjuːdz/",
+    "t": "长期不和，世仇",
+    "en": "Long-standing conflicts"
+  },
+  "bring": {
+    "p": "/brɪŋ/",
+    "t": "带来，引起",
+    "en": "To carry or cause to come"
+  },
+  "resolution": {
+    "p": "/ˌrezəˈluːʃn/",
+    "t": "解决，决心",
+    "en": "A firm decision; act of solving"
+  },
+  "conflicts": {
+    "p": "/ˈkɒnflɪkts/",
+    "t": "冲突，矛盾",
+    "en": "Serious disagreements or fights"
+  },
+  "mindset": {
+    "p": "/ˈmaɪndset/",
+    "t": "心态，思维模式",
+    "en": "A fixed mental attitude"
+  },
+  "sacrificing": {
+    "p": "/ˈsækrɪfaɪsɪŋ/",
+    "t": "牺牲",
+    "en": "Giving up something valuable"
+  },
+  "comfort": {
+    "p": "/ˈkʌmfət/",
+    "t": "舒适，安慰",
+    "en": "State of ease; to console"
+  },
+  "greater": {
+    "p": "/ˈɡreɪtə/",
+    "t": "更大的",
+    "en": "Comparative form of great"
+  },
+  "bringing": {
+    "p": "/ˈbrɪŋɪŋ/",
+    "t": "带来（现在分词）",
+    "en": "Present participle of bring"
+  },
+  "together": {
+    "p": "/təˈɡeðə/",
+    "t": "一起，共同",
+    "en": "In or into one group"
+  },
+  "successful": {
+    "p": "/səkˈsesfl/",
+    "t": "成功的",
+    "en": "Achieving desired results"
+  },
+  "powerful": {
+    "p": "/ˈpaʊəfl/",
+    "t": "强大的，有力的",
+    "en": "Having great power or influence"
+  },
+  "knockon": {
+    "p": "/ˈnɒkˌɒn/",
+    "t": "连锁的（knock-on）",
+    "en": "Causing a series of effects"
+  },
+  "benefit": {
+    "p": "/ˈbenɪfɪt/",
+    "t": "好处，利益",
+    "en": "An advantage or profit"
+  },
+  "helping": {
+    "p": "/ˈhelpɪŋ/",
+    "t": "帮助，协助",
+    "en": "Act of assisting"
+  },
+  "discussion": {
+    "p": "/dɪˈskʌʃn/",
+    "t": "讨论",
+    "en": "Conversation about a topic"
+  },
+  "solves": {
+    "p": "/sɒlvz/",
+    "t": "解决（第三人称单数）",
+    "en": "Finds a solution to"
+  },
+  "fills": {
+    "p": "/fɪlz/",
+    "t": "填充，充满",
+    "en": "Makes full"
+  },
+  "opens": {
+    "p": "/ˈəʊpənz/",
+    "t": "打开，开启",
+    "en": "Makes accessible"
+  },
+  "pathway": {
+    "p": "/ˈpɑːθweɪ/",
+    "t": "路径，途径",
+    "en": "A route or course"
+  },
+  "forward": {
+    "p": "/ˈfɔːwəd/",
+    "t": "向前，前进",
+    "en": "Toward the front or future"
+  },
+  "countless": {
+    "p": "/ˈkaʊntləs/",
+    "t": "无数的",
+    "en": "Too many to count"
+  },
+  "circumstances": {
+    "p": "/ˈsɜːkəmstænsɪz/",
+    "t": "情况，环境",
+    "en": "Facts or conditions affecting a situation"
+  },
+  "stage": {
+    "p": "/steɪdʒ/",
+    "t": "舞台，阶段",
+    "en": "A platform; a period of development"
+  },
+  "pitch": {
+    "p": "/pɪtʃ/",
+    "t": "推销，投掷；音高",
+    "en": "To promote; to throw; highness of sound"
+  },
+  "chance": {
+    "p": "/tʃɑːns/",
+    "t": "机会，偶然",
+    "en": "A possibility or opportunity"
+  },
+  "freely": {
+    "p": "/ˈfriːli/",
+    "t": "自由地",
+    "en": "Without restriction or cost"
+  },
+  "share": {
+    "p": "/ʃeə/",
+    "t": "分享",
+    "en": "To give a portion to others"
+  },
+  "ideas": {
+    "p": "/aɪˈdɪəz/",
+    "t": "想法，主意",
+    "en": "Thoughts or suggestions"
+  },
+  "listener": {
+    "p": "/ˈlɪsənə/",
+    "t": "听众",
+    "en": "A person who listens"
+  },
+  "possess": {
+    "p": "/pəˈzes/",
+    "t": "拥有",
+    "en": "To have or own"
+  },
+  "consider": {
+    "p": "/kənˈsɪdə/",
+    "t": "考虑",
+    "en": "To think about carefully"
+  },
+  "create": {
+    "p": "/kriˈeɪt/",
+    "t": "创造",
+    "en": "To bring into existence"
+  },
+  "prepare": {
+    "p": "/prɪˈpeə/",
+    "t": "准备",
+    "en": "To make ready"
+  },
+  "beginning": {
+    "p": "/bɪˈɡɪnɪŋ/",
+    "t": "开始，开端",
+    "en": "The point at which something starts"
+  },
+  "connections": {
+    "p": "/kəˈnekʃnz/",
+    "t": "联系，人脉",
+    "en": "Relationships or links"
+  },
+  "networks": {
+    "p": "/ˈnetwɜːks/",
+    "t": "网络，关系网",
+    "en": "Interconnected systems"
+  },
+  "access": {
+    "p": "/ˈækses/",
+    "t": "进入，使用权",
+    "en": "The ability to enter or use"
+  },
+  "viral": {
+    "p": "/ˈvaɪrəl/",
+    "t": "病毒式的，快速传播的",
+    "en": "Spreading rapidly online"
+  },
+  "connect": {
+    "p": "/kəˈnekt/",
+    "t": "连接",
+    "en": "To join or link"
+  },
+  "simplest": {
+    "p": "/ˈsɪmplɪst/",
+    "t": "最简单的",
+    "en": "Superlative form of simple"
+  },
+  "introduction": {
+    "p": "/ˌɪntrəˈdʌkʃn/",
+    "t": "介绍，引入",
+    "en": "Act of presenting someone or something"
+  },
+  "psychologist": {
+    "p": "/saɪˈkɒlədʒɪst/",
+    "t": "心理学家",
+    "en": "Expert in psychology"
+  },
+  "speaker": {
+    "p": "/ˈspiːkə/",
+    "t": "演讲者，说话者",
+    "en": "One who speaks"
+  },
+  "fairly": {
+    "p": "/ˈfeəli/",
+    "t": "相当地，公平地",
+    "en": "To a moderate degree; justly"
+  },
+  "unbelievably": {
+    "p": "/ˌʌnbɪˈliːvəbli/",
+    "t": "难以置信地",
+    "en": "In an incredible way"
+  },
+  "receive": {
+    "p": "/rɪˈsiːv/",
+    "t": "收到",
+    "en": "To get or accept"
+  },
+  "collaborator": {
+    "p": "/kəˈlæbəreɪtə/",
+    "t": "合作者",
+    "en": "One who works jointly"
+  },
+  "creative": {
+    "p": "/kriˈeɪtɪv/",
+    "t": "有创造力的",
+    "en": "Producing original ideas"
+  },
+  "neighbor": {
+    "p": "/ˈneɪbə/",
+    "t": "邻居",
+    "en": "Person living nearby"
+  },
+  "colleague": {
+    "p": "/ˈkɒliːɡ/",
+    "t": "同事",
+    "en": "A work associate"
+  },
+  "introduced": {
+    "p": "/ˌɪntrəˈdjuːst/",
+    "t": "介绍（过去式）",
+    "en": "Presented someone to another"
+  },
+  "effectively": {
+    "p": "/ɪˈfektɪvli/",
+    "t": "有效地",
+    "en": "In a successful way"
+  },
+  "network": {
+    "p": "/ˈnetwɜːk/",
+    "t": "网络，交际",
+    "en": "To interact socially; a system"
+  },
+  "resources": {
+    "p": "/rɪˈzɔːsɪz/",
+    "t": "资源",
+    "en": "Available supplies or assets"
+  },
+  "introductions": {
+    "p": "/ˌɪntrəˈdʌkʃnz/",
+    "t": "介绍（复数）",
+    "en": "Multiple acts of introducing"
+  },
+  "exponential": {
+    "p": "/ˌekspəˈnenʃl/",
+    "t": "指数的，急剧的",
+    "en": "Growing rapidly"
+  },
+  "remarkable": {
+    "p": "/rɪˈmɑːkəbl/",
+    "t": "非凡的，显著的",
+    "en": "Worth noticing; unusual"
+  },
+  "anthropologist": {
+    "p": "/ˌænθrəˈpɒlədʒɪst/",
+    "t": "人类学家",
+    "en": "Expert in anthropology"
+  },
+  "hundreds": {
+    "p": "/ˈhʌndrədz/",
+    "t": "数百",
+    "en": "Several hundred"
+  },
+  "behaviors": {
+    "p": "/bɪˈheɪvjəz/",
+    "t": "行为",
+    "en": "Ways of acting"
+  },
+  "ubiquitous": {
+    "p": "/juːˈbɪkwɪtəs/",
+    "t": "无处不在的",
+    "en": "Present everywhere"
+  },
+  "pleasant": {
+    "p": "/ˈpleznt/",
+    "t": "令人愉快的",
+    "en": "Giving pleasure"
+  },
+  "costs": {
+    "p": "/kɒsts/",
+    "t": "成本，代价",
+    "en": "Expenses or sacrifices"
+  },
+  "effort": {
+    "p": "/ˈefət/",
+    "t": "努力",
+    "en": "Physical or mental exertion"
+  },
+  "invite": {
+    "p": "/ɪnˈvaɪt/",
+    "t": "邀请",
+    "en": "To ask someone to participate"
+  },
+  "friends": {
+    "p": "/frendz/",
+    "t": "朋友（复数）",
+    "en": "Plural of friend"
+  },
+  "possible": {
+    "p": "/ˈpɒsəbl/",
+    "t": "可能的",
+    "en": "Able to happen or exist"
+  },
+  "watch": {
+    "p": "/wɒtʃ/",
+    "t": "观看",
+    "en": "To look at attentively"
+  },
+  "episode": {
+    "p": "/ˈepɪsəʊd/",
+    "t": "一集，插曲",
+    "en": "One part of a series"
+  },
+  "series": {
+    "p": "/ˈsɪəriːz/",
+    "t": "系列",
+    "en": "A set of related things"
+  },
+  "contribute": {
+    "p": "/kənˈtrɪbjuːt/",
+    "t": "贡献，促成",
+    "en": "To give or add to"
+  },
+  "infectious": {
+    "p": "/ɪnˈfekʃəs/",
+    "t": "传染的，有感染力的",
+    "en": "Spreading easily; catchy"
+  },
+  "deepest": {
+    "p": "/ˈdiːpɪst/",
+    "t": "最深的",
+    "en": "Superlative form of deep"
+  },
+  "another": {
+    "p": "/əˈnʌðə/",
+    "t": "另一个",
+    "en": "One more; different one"
+  },
+  "evokes": {
+    "p": "/ɪˈvəʊks/",
+    "t": "唤起，引起",
+    "en": "Brings to mind"
+  },
+  "desire": {
+    "p": "/dɪˈzaɪə/",
+    "t": "渴望，欲望",
+    "en": "A strong wish"
+  },
+  "reciprocate": {
+    "p": "/rɪˈsɪprəkeɪt/",
+    "t": "回报，回应",
+    "en": "To respond in kind"
+  },
+  "shelter": {
+    "p": "/ˈʃeltə/",
+    "t": "庇护所，遮蔽",
+    "en": "Protection or refuge"
+  },
+  "healthcare": {
+    "p": "/ˈhelθkeə/",
+    "t": "医疗保健",
+    "en": "Medical services"
+  },
+  "yearn": {
+    "p": "/jɜːn/",
+    "t": "渴望",
+    "en": "To long for"
+  },
+  "wonder": {
+    "p": "/ˈwʌndə/",
+    "t": "惊奇，想知道",
+    "en": "Awe; to be curious"
+  },
+  "laughter": {
+    "p": "/ˈlɑːftə/",
+    "t": "笑声",
+    "en": "The act of laughing"
+  },
+  "transcendence": {
+    "p": "/trænˈsendəns/",
+    "t": "超越",
+    "en": "Exceeding limits"
+  },
+  "elements": {
+    "p": "/ˈelɪmənts/",
+    "t": "元素，要素",
+    "en": "Basic parts"
+  },
+  "enchantment": {
+    "p": "/ɪnˈtʃɑːntmənt/",
+    "t": "魅力，着迷",
+    "en": "A feeling of delight"
+  },
+  "artist": {
+    "p": "/ˈɑːtɪst/",
+    "t": "艺术家",
+    "en": "A person skilled in art"
+  },
+  "approached": {
+    "p": "/əˈprəʊtʃt/",
+    "t": "接近（过去式）",
+    "en": "Came near to"
+  },
+  "dancer": {
+    "p": "/ˈdɑːnsə/",
+    "t": "舞者",
+    "en": "One who dances"
+  },
+  "choreographer": {
+    "p": "/ˌkɒriˈɒɡrəfə/",
+    "t": "编舞者",
+    "en": "One who designs dance"
+  },
+  "undertake": {
+    "p": "/ˌʌndəˈteɪk/",
+    "t": "承担，着手",
+    "en": "To commit to a task"
+  },
+  "derelict": {
+    "p": "/ˈderəlɪkt/",
+    "t": "废弃的",
+    "en": "Abandoned or run-down"
+  },
+  "abandoned": {
+    "p": "/əˈbændənd/",
+    "t": "被遗弃的",
+    "en": "Left empty or uncared for"
+  },
+  "interested": {
+    "p": "/ˈɪntrəstɪd/",
+    "t": "感兴趣的",
+    "en": "Showing curiosity or concern"
+  },
+  "totally": {
+    "p": "/ˈtəʊtəli/",
+    "t": "完全地",
+    "en": "Completely"
+  },
+  "scared": {
+    "p": "/skeəd/",
+    "t": "害怕的",
+    "en": "Frightened"
+  },
+  "recalled": {
+    "p": "/rɪˈkɔːld/",
+    "t": "回忆起",
+    "en": "Remembered"
+  },
+  "working": {
+    "p": "/ˈwɜːkɪŋ/",
+    "t": "工作，运作",
+    "en": "Engaged in work"
+  },
+  "outdoors": {
+    "p": "/ˌaʊtˈdɔːz/",
+    "t": "户外",
+    "en": "In the open air"
+  },
+  "setting": {
+    "p": "/ˈsetɪŋ/",
+    "t": "环境，背景",
+    "en": "Surroundings or place"
+  },
+  "wanted": {
+    "p": "/ˈwɒntɪd/",
+    "t": "想要（过去式）",
+    "en": "Desired"
+  },
+  "coward": {
+    "p": "/ˈkaʊəd/",
+    "t": "懦夫",
+    "en": "A person lacking courage"
+  },
+  "mirror": {
+    "p": "/ˈmɪrə/",
+    "t": "镜子",
+    "en": "A reflective surface"
+  },
+  "stepped": {
+    "p": "/stept/",
+    "t": "迈步，踏入",
+    "en": "Moved by foot"
+  },
+  "became": {
+    "p": "/bɪˈkeɪm/",
+    "t": "变成",
+    "en": "Came to be"
+  },
+  "trees": {
+    "p": "/triːz/",
+    "t": "树木（复数）",
+    "en": "Plural of tree"
+  },
+  "sculptures": {
+    "p": "/ˈskʌlptʃəz/",
+    "t": "雕塑",
+    "en": "Artworks made by carving"
+  },
+  "mosaics": {
+    "p": "/məʊˈzeɪɪks/",
+    "t": "马赛克",
+    "en": "Pictures made of small pieces"
+  },
+  "adults": {
+    "p": "/ˈædʌlts/",
+    "t": "成年人",
+    "en": "Grown-up people"
+  },
+  "collaboration": {
+    "p": "/kəˌlæbəˈreɪʃn/",
+    "t": "合作",
+    "en": "Working together"
+  },
+  "realization": {
+    "p": "/ˌrɪəlaɪˈzeɪʃn/",
+    "t": "实现，认识",
+    "en": "Becoming aware; achievement"
+  },
+  "creating": {
+    "p": "/kriˈeɪtɪŋ/",
+    "t": "创造（现在分词）",
+    "en": "Present participle of create"
+  },
+  "spaces": {
+    "p": "/speɪsɪz/",
+    "t": "空间（复数）",
+    "en": "Plural of space"
+  },
+  "profoundly": {
+    "p": "/prəˈfaʊndli/",
+    "t": "深刻地",
+    "en": "Deeply; intensely"
+  },
+  "healing": {
+    "p": "/ˈhiːlɪŋ/",
+    "t": "治愈",
+    "en": "Restoring to health"
+  },
+  "transformative": {
+    "p": "/trænsˈfɔːmətɪv/",
+    "t": "变革性的",
+    "en": "Causing major change"
+  },
+  "communities": {
+    "p": "/kəˈmjuːnətiz/",
+    "t": "社区，群体",
+    "en": "Groups of people living together"
+  },
+  "enchant": {
+    "p": "/ɪnˈtʃɑːnt/",
+    "t": "使着迷",
+    "en": "To delight greatly"
+  },
+  "immense": {
+    "p": "/ɪˈmens/",
+    "t": "巨大的",
+    "en": "Extremely large"
+  },
+  "agreement": {
+    "p": "/əˈɡriːmənt/",
+    "t": "协议，同意",
+    "en": "A mutual arrangement"
+  },
+  "rights": {
+    "p": "/raɪts/",
+    "t": "权利",
+    "en": "Legal entitlements"
+  },
+  "reserved": {
+    "p": "/rɪˈzɜːvd/",
+    "t": "保留的",
+    "en": "Kept for a particular use"
+  },
+  "excerpt": {
+    "p": "/ˈeksɜːpt/",
+    "t": "摘录",
+    "en": "A short extract from a text"
+  },
+  "reproduced": {
+    "p": "/ˌriːprəˈdjuːst/",
+    "t": "复制，转载",
+    "en": "Copied or duplicated"
+  },
+  "reprinted": {
+    "p": "/ˌriːˈprɪntɪd/",
+    "t": "重印",
+    "en": "Printed again"
+  },
+  "permission": {
+    "p": "/pəˈmɪʃn/",
+    "t": "许可",
+    "en": "Authorization to do something"
+  },
+  "publisher": {
+    "p": "/ˈpʌblɪʃə/",
+    "t": "出版商",
+    "en": "A company that publishes"
+  },
+  "author": {
+    "p": "/ˈɔːθə/",
+    "t": "作者",
+    "en": "A writer of a work"
+  },
+  "curator": {
+    "p": "/kjʊəˈreɪtə/",
+    "t": "策展人",
+    "en": "A manager of a collection"
+  },
+  "astronaut": {
+    "p": "/ˈæstrənɔːt/",
+    "t": "宇航员",
+    "en": "a person trained to travel in space"
+  },
+  "datalargefile": {
+    "p": "/ˈdeɪtə lɑːdʒ faɪl/",
+    "t": "大型数据文件",
+    "en": "a large file of data"
+  },
+  "https": {
+    "p": "/ˌeɪtʃ tiː tiː piː ˈɛs/",
+    "t": "超文本传输安全协议",
+    "en": "Hypertext Transfer Protocol Secure"
+  },
+  "wpcontent": {
+    "p": "/ˌdʌbəljuː piː ˈkɒntɛnt/",
+    "t": "WordPress内容目录",
+    "en": "WordPress content directory"
+  },
+  "uploads": {
+    "p": "/ˈʌpləʊdz/",
+    "t": "上传的文件",
+    "en": "files that have been uploaded"
+  },
+  "sites": {
+    "p": "/saɪts/",
+    "t": "网站；地点",
+    "en": "websites or locations"
+  },
+  "various": {
+    "p": "/ˈveəriəs/",
+    "t": "各种各样的",
+    "en": "different from one another; several"
+  },
+  "approaches": {
+    "p": "/əˈprəʊtʃɪz/",
+    "t": "方法；接近",
+    "en": "methods or ways of doing something"
+  },
+  "leading": {
+    "p": "/ˈliːdɪŋ/",
+    "t": "领先的；主要的",
+    "en": "most important or in front"
+  },
+  "common": {
+    "p": "/ˈkɒmən/",
+    "t": "常见的；共同的",
+    "en": "occurring often; shared by all"
+  },
+  "crucial": {
+    "p": "/ˈkruːʃəl/",
+    "t": "至关重要的",
+    "en": "extremely important"
+  },
+  "trusts": {
+    "p": "/trʌsts/",
+    "t": "信任；信托",
+    "en": "believes in; legal arrangements"
+  },
+  "throughout": {
+    "p": "/θruːˈaʊt/",
+    "t": "遍及；贯穿",
+    "en": "in every part; during the whole time"
+  },
+  "chemist": {
+    "p": "/ˈkemɪst/",
+    "t": "化学家；药剂师",
+    "en": "a scientist in chemistry or pharmacist"
+  },
+  "engineer": {
+    "p": "/ˌendʒɪˈnɪə/",
+    "t": "工程师",
+    "en": "a person who designs or builds machines"
+  },
+  "colonel": {
+    "p": "/ˈkɜːnl/",
+    "t": "上校",
+    "en": "a military officer of high rank"
+  },
+  "establish": {
+    "p": "/ɪˈstæblɪʃ/",
+    "t": "建立；确立",
+    "en": "to set up or create"
+  },
+  "leader": {
+    "p": "/ˈliːdə/",
+    "t": "领导者",
+    "en": "a person who leads"
+  },
+  "challenge": {
+    "p": "/ˈtʃælɪndʒ/",
+    "t": "挑战",
+    "en": "a difficult task or problem"
+  },
+  "outer": {
+    "p": "/ˈaʊtə/",
+    "t": "外部的",
+    "en": "external; on the outside"
+  },
+  "brave": {
+    "p": "/breɪv/",
+    "t": "勇敢的",
+    "en": "courageous"
+  },
+  "members": {
+    "p": "/ˈmembəz/",
+    "t": "成员",
+    "en": "people belonging to a group"
+  },
+  "individuals": {
+    "p": "/ˌɪndɪˈvɪdʒuəlz/",
+    "t": "个人",
+    "en": "single persons"
+  },
+  "interdisciplinary": {
+    "p": "/ˌɪntəˈdɪsəplɪnəri/",
+    "t": "跨学科的",
+    "en": "involving multiple academic disciplines"
+  },
+  "individual": {
+    "p": "/ˌɪndɪˈvɪdʒuəl/",
+    "t": "个人的；个体",
+    "en": "single; separate person"
+  },
+  "beyond": {
+    "p": "/bɪˈjɒnd/",
+    "t": "超出；远于",
+    "en": "past; outside the limits of"
+  },
+  "essential": {
+    "p": "/ɪˈsenʃəl/",
+    "t": "必要的；本质的",
+    "en": "absolutely necessary"
+  },
+  "opening": {
+    "p": "/ˈəʊpənɪŋ/",
+    "t": "开口；开始",
+    "en": "an aperture; beginning"
+  },
+  "channel": {
+    "p": "/ˈtʃænl/",
+    "t": "频道；渠道",
+    "en": "a medium for communication or TV"
+  },
+  "teaches": {
+    "p": "/tiːtʃɪz/",
+    "t": "教授",
+    "en": "instructs"
+  },
+  "teammate": {
+    "p": "/ˈtiːmmeɪt/",
+    "t": "队友",
+    "en": "a fellow member of a team"
+  },
+  "qualities": {
+    "p": "/ˈkwɒlətiz/",
+    "t": "品质；特质",
+    "en": "characteristics or attributes"
+  },
+  "bravery": {
+    "p": "/ˈbreɪvəri/",
+    "t": "勇气",
+    "en": "courage"
+  },
+  "brings": {
+    "p": "/brɪŋz/",
+    "t": "带来",
+    "en": "carries or causes to come"
+  },
+  "foster": {
+    "p": "/ˈfɒstə/",
+    "t": "促进；培养",
+    "en": "to encourage or develop"
+  },
+  "collective": {
+    "p": "/kəˈlektɪv/",
+    "t": "集体的",
+    "en": "done by people acting as a group"
+  },
+  "example": {
+    "p": "/ɪɡˈzɑːmpl/",
+    "t": "例子",
+    "en": "a representative case"
+  },
+  "prepared": {
+    "p": "/prɪˈpeəd/",
+    "t": "准备好的",
+    "en": "made ready"
+  },
+  "station": {
+    "p": "/ˈsteɪʃən/",
+    "t": "站；所",
+    "en": "a place where trains stop or a post"
+  },
+  "advisors": {
+    "p": "/ədˈvaɪzəz/",
+    "t": "顾问",
+    "en": "people who give advice"
+  },
+  "warned": {
+    "p": "/wɔːnd/",
+    "t": "警告",
+    "en": "cautioned about danger"
+  },
+  "periods": {
+    "p": "/ˈpɪəriədz/",
+    "t": "时期；周期",
+    "en": "lengths of time"
+  },
+  "handle": {
+    "p": "/ˈhændl/",
+    "t": "处理；把手",
+    "en": "to manage; a grip"
+  },
+  "commuting": {
+    "p": "/kəˈmjuːtɪŋ/",
+    "t": "通勤",
+    "en": "traveling regularly to work"
+  },
+  "sharing": {
+    "p": "/ˈʃeərɪŋ/",
+    "t": "分享",
+    "en": "dividing or giving part of"
+  },
+  "adaptable": {
+    "p": "/əˈdæptəbl/",
+    "t": "适应性强的",
+    "en": "able to adjust to new conditions"
+  },
+  "leaders": {
+    "p": "/ˈliːdəz/",
+    "t": "领导者们",
+    "en": "people who lead"
+  },
+  "guide": {
+    "p": "/ɡaɪd/",
+    "t": "指导；向导",
+    "en": "to lead or direct; a person who shows the way"
+  },
+  "advocate": {
+    "p": "/ˈædvəkeɪt/",
+    "t": "提倡者；拥护",
+    "en": "to support publicly; a supporter"
+  },
+  "benefitted": {
+    "p": "/ˈbenɪfɪtɪd/",
+    "t": "受益",
+    "en": "received benefit"
+  },
+  "announced": {
+    "p": "/əˈnaʊnst/",
+    "t": "宣布",
+    "en": "made known publicly"
+  },
+  "eliminating": {
+    "p": "/ɪˈlɪmɪneɪtɪŋ/",
+    "t": "消除",
+    "en": "removing completely"
+  },
+  "smaller": {
+    "p": "/ˈsmɔːlə/",
+    "t": "较小的",
+    "en": "less big"
+  },
+  "suits": {
+    "p": "/suːts/",
+    "t": "适合；套装",
+    "en": "fits; sets of clothes"
+  },
+  "meaning": {
+    "p": "/ˈmiːnɪŋ/",
+    "t": "意义；含义",
+    "en": "what is meant"
+  },
+  "qualified": {
+    "p": "/ˈkwɒlɪfaɪd/",
+    "t": "合格的",
+    "en": "having the necessary skills or qualifications"
+  },
+  "larger": {
+    "p": "/ˈlɑːdʒə/",
+    "t": "较大的",
+    "en": "bigger"
+  },
+  "couldn": {
+    "p": "/ˈkʊdnt/",
+    "t": "不能（缩写）",
+    "en": "could not"
+  },
+  "presented": {
+    "p": "/prɪˈzentɪd/",
+    "t": "呈现；提出",
+    "en": "showed or gave"
+  },
+  "acquire": {
+    "p": "/əˈkwaɪə/",
+    "t": "获得",
+    "en": "to gain or obtain"
+  },
+  "train": {
+    "p": "/treɪn/",
+    "t": "训练；火车",
+    "en": "to teach skills; a railway vehicle"
+  },
+  "makers": {
+    "p": "/ˈmeɪkəz/",
+    "t": "制造者",
+    "en": "people or companies that make things"
+  },
+  "bigger": {
+    "p": "/ˈbɪɡə/",
+    "t": "更大的",
+    "en": "larger"
+  },
+  "freedom": {
+    "p": "/ˈfriːdəm/",
+    "t": "自由",
+    "en": "the state of being free"
+  },
+  "waiting": {
+    "p": "/ˈweɪtɪŋ/",
+    "t": "等待",
+    "en": "staying in place until something happens"
+  },
+  "trustbuilding": {
+    "p": "/ˈtrʌstˌbɪldɪŋ/",
+    "t": "建立信任",
+    "en": "the process of building trust"
+  },
+  "central": {
+    "p": "/ˈsentrəl/",
+    "t": "中心的；主要的",
+    "en": "in the middle; most important"
+  },
+  "falls": {
+    "p": "/fɔːlz/",
+    "t": "落下；瀑布",
+    "en": "drops; waterfalls"
+  },
+  "establishing": {
+    "p": "/ɪˈstæblɪʃɪŋ/",
+    "t": "建立",
+    "en": "setting up"
+  },
+  "dynamics": {
+    "p": "/daɪˈnæmɪks/",
+    "t": "动态；动力学",
+    "en": "forces that produce change; study of motion"
+  },
+  "priorities": {
+    "p": "/praɪˈɒrətiz/",
+    "t": "优先事项",
+    "en": "things that are most important"
+  },
+  "challenges": {
+    "p": "/ˈtʃælɪndʒɪz/",
+    "t": "挑战",
+    "en": "difficult tasks"
+  },
+  "fostering": {
+    "p": "/ˈfɒstərɪŋ/",
+    "t": "培养；促进",
+    "en": "encouraging development"
+  },
+  "tricky": {
+    "p": "/ˈtrɪki/",
+    "t": "棘手的",
+    "en": "difficult to deal with"
+  },
+  "arisen": {
+    "p": "/əˈrɪzən/",
+    "t": "出现（过去分词）",
+    "en": "come into existence"
+  },
+  "breached": {
+    "p": "/briːtʃt/",
+    "t": "违反；突破",
+    "en": "broken (a rule) or broken through"
+  },
+  "reminds": {
+    "p": "/rɪˈmaɪndz/",
+    "t": "提醒",
+    "en": "makes someone remember"
+  },
+  "compliment": {
+    "p": "/ˈkɒmplɪmənt/",
+    "t": "赞美",
+    "en": "a polite expression of praise"
+  },
+  "vulnerability": {
+    "p": "/ˌvʌlnərəˈbɪləti/",
+    "t": "脆弱性",
+    "en": "the state of being exposed to harm"
+  },
+  "intuitive": {
+    "p": "/ɪnˈtjuːɪtɪv/",
+    "t": "直觉的",
+    "en": "based on intuition rather than reasoning"
+  },
+  "earned": {
+    "p": "/ɜːnd/",
+    "t": "赢得；赚得",
+    "en": "gained through effort"
+  },
+  "gaining": {
+    "p": "/ˈɡeɪnɪŋ/",
+    "t": "获得",
+    "en": "acquiring"
+  },
+  "extra": {
+    "p": "/ˈekstrə/",
+    "t": "额外的",
+    "en": "more than usual"
+  },
+  "approach": {
+    "p": "/əˈprəʊtʃ/",
+    "t": "方法；接近",
+    "en": "a way of doing something; to come near"
+  },
+  "performed": {
+    "p": "/pəˈfɔːmd/",
+    "t": "执行；表演",
+    "en": "carried out or acted"
+  },
+  "persistence": {
+    "p": "/pəˈsɪstəns/",
+    "t": "坚持",
+    "en": "continued effort despite difficulty"
+  },
+  "openness": {
+    "p": "/ˈəʊpənnəs/",
+    "t": "开放；坦诚",
+    "en": "willingness to share or accept"
+  },
+  "forthcoming": {
+    "p": "/ˌfɔːθˈkʌmɪŋ/",
+    "t": "即将到来的；乐于提供的",
+    "en": "about to happen; willing to give information"
+  },
+  "message": {
+    "p": "/ˈmesɪdʒ/",
+    "t": "消息",
+    "en": "a piece of communication"
+  },
+  "fight": {
+    "p": "/faɪt/",
+    "t": "战斗；斗争",
+    "en": "a battle or struggle"
+  },
+  "airpower": {
+    "p": "/ˈeəpaʊə/",
+    "t": "空军力量",
+    "en": "military strength using aircraft"
+  },
+  "anytime": {
+    "p": "/ˈenitaɪm/",
+    "t": "任何时候",
+    "en": "at any time"
+  },
+  "anywhere": {
+    "p": "/ˈenɪweə/",
+    "t": "任何地方",
+    "en": "at any place"
+  },
+  "fulltime": {
+    "p": "/ˈfʊl taɪm/",
+    "t": "全职的",
+    "en": "working the full number of hours"
+  },
+  "parttime": {
+    "p": "/ˈpɑːt taɪm/",
+    "t": "兼职的",
+    "en": "working fewer hours than full-time"
+  },
+  "uniform": {
+    "p": "/ˈjuːnɪfɔːm/",
+    "t": "制服；统一的",
+    "en": "a special set of clothes; consistent"
+  },
+  "plays": {
+    "p": "/pleɪz/",
+    "t": "扮演；播放",
+    "en": "acts in a play; performs"
+  },
+  "achieve": {
+    "p": "/əˈtʃiːv/",
+    "t": "实现；达到",
+    "en": "to successfully accomplish"
+  },
+  "content": {
+    "p": "/ˈkɒntent/",
+    "t": "内容；满足的",
+    "en": "what is inside; satisfied"
+  },
+  "specialist": {
+    "p": "/ˈspeʃəlɪst/",
+    "t": "专家",
+    "en": "a person with special knowledge"
+  },
+  "curation": {
+    "p": "/kjʊəˈreɪʃən/",
+    "t": "策展；管理",
+    "en": "the act of selecting and organizing"
+  },
+  "coleman": {
+    "p": "/ˈkəʊlmən/",
+    "t": "科尔曼（姓氏）",
+    "en": "a surname"
+  },
+  "teamwork": {
+    "p": "/ˈtiːmwɜːk/",
+    "t": "团队合作",
+    "en": "cooperative effort of a group"
   }
 }
