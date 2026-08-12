@@ -44,6 +44,27 @@ function isTobacco(it) {
   return TOBACCO_RE.test(s);
 }
 
+// 自动分类：当源配置未指定 cat 时，根据标题关键词+来源推断分类
+function autoCat(it, srcName) {
+  const t = (it.title + ' ' + (it.summary || '')).toLowerCase();
+  const src = (srcName || '').toLowerCase();
+  // 企业/公司动向
+  if (/pmi|philip morris|kt&g|jti|british american|bat|altria|imperial|jt|韩国烟草|菲莫国际|英美烟草|日本烟草|公司.*推出|公司.*发布|公司.*宣布|launch|acquire|merger|deal|sues|lawsuit|收购|兼并/i.test(t)) return '巨头动向';
+  // 监管/政策/法规
+  if (/regulation|regulat|ban|law|legal|legislation|tax|fda|who|eu|european union|英国.*控|规划管控|crackdown|诉讼|sues|court|ruling|禁令|合规|监管|执法|policy|directive|bill|草案|立法/i.test(t)) return '欧洲监管';
+  // 市场数据/报告
+  if (/market|share|growth|revenue|sales|forecast|trend|data.*report|survey|industry.*sector|insight|outlook|统计|增长|下滑|份额|市场规模/i.test(t)) return '市场动态';
+  // 产品技术
+  if (/product|device|technology|tech|innovation|patent|flavor|ingredient|nicotine|vape|e-cig|heated|hnb|新品|技术|研发/i.test(t)) return '产品技术';
+  // 出口贸易
+  if (/export|import|trade|tariff|shipping|supply chain|出口|进口|贸易|海关/i.test(t)) return '出口贸易';
+  // 按来源兜底
+  if (/tobacco reporter/i.test(src)) return '欧洲监管';
+  if (/tobacco insider/i.test(src)) return '市场动态';
+  if (/inside fmcg/i.test(src)) return '市场动态';
+  return '企业动态';
+}
+
 async function getText(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -180,7 +201,7 @@ function parseHTML(html, base, sel) {
               title: it.title,
               link: it.link,
               source: s.name,
-              cat: s.cat || '',
+              cat: s.cat || autoCat(it, s.name),
               dimension: s.dimension || '',
               region: s.region || '',
               summary,
