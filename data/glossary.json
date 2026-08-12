@@ -18013,5 +18013,295 @@
     "p": "/ʃeɪp/",
     "t": "形状；塑造",
     "en": "the form of something; to form or influence"
+  },
+  "anymore": {
+    "p": "/ˌɛn.iˈmɔːr/",
+    "t": "不再",
+    "en": "any longer; now"
+  },
+  "doldrums": {
+    "p": "/ˈdɒl.drəmz/",
+    "t": "无精打采；停滞期",
+    "en": "a state of inactivity or depression"
+  },
+  "briefly": {
+    "p": "/ˈbrɪf.li/",
+    "t": "简短地",
+    "en": "for a short time"
+  },
+  "exits": {
+    "p": "/ˈɛɡ.zɪts/",
+    "t": "出口；离开",
+    "en": "plural of exit; ways out or acts of leaving"
+  },
+  "humid": {
+    "p": "/ˈhjuː.mɪd/",
+    "t": "潮湿的",
+    "en": "containing a high amount of moisture"
+  },
+  "session": {
+    "p": "/ˈsɛʃ.ən/",
+    "t": "会议；一段时间",
+    "en": "a meeting or period of activity"
+  },
+  "generally": {
+    "p": "/ˈdʒɛn.ər.əl.i/",
+    "t": "通常；普遍地",
+    "en": "usually; in most cases"
+  },
+  "wishes": {
+    "p": "/ˈwɪʃ.ɪz/",
+    "t": "愿望；祝愿",
+    "en": "plural of wish; desires or expressions of hope"
+  },
+  "exceptionally": {
+    "p": "/ɪkˈsɛp.ʃən.əl.i/",
+    "t": "异常地；特别地",
+    "en": "to a great degree; unusually"
+  },
+  "listless": {
+    "p": "/ˈlɪst.ləs/",
+    "t": "无精打采的",
+    "en": "lacking energy or enthusiasm"
+  },
+  "trapped": {
+    "p": "/træpt/",
+    "t": "被困住的",
+    "en": "caught or confined"
+  },
+  "almostadealanydaynow": {
+    "p": "/ˈɔːl.məʊst ə diːl ˈɛn.i deɪ naʊ/",
+    "t": "几乎成交，随时可能",
+    "en": "an informal phrase meaning a deal is imminent"
+  },
+  "hopeful": {
+    "p": "/ˈhəʊp.fəl/",
+    "t": "有希望的；抱有希望的",
+    "en": "feeling or inspiring hope"
+  },
+  "mathematically": {
+    "p": "/ˌmæθ.əˈmæt.ɪ.kəl.i/",
+    "t": "数学上",
+    "en": "in a mathematical manner"
+  },
+  "unfeasible": {
+    "p": "/ʌnˈfiː.zə.bəl/",
+    "t": "不可行的",
+    "en": "not possible to do easily or conveniently"
+  },
+  "weekend": {
+    "p": "/ˌwiːkˈend/",
+    "t": "周末",
+    "en": "Saturday and Sunday"
+  },
+  "zombie": {
+    "p": "/ˈzɒm.bi/",
+    "t": "僵尸；行尸走肉",
+    "en": "a corpse reanimated; a person acting mechanically"
+  },
+  "items": {
+    "p": "/ˈaɪ.təmz/",
+    "t": "物品；项目",
+    "en": "plural of item; individual things"
+  },
+  "haunt": {
+    "p": "/hɔːnt/",
+    "t": "常去；萦绕",
+    "en": "to visit frequently or to trouble persistently"
+  },
+  "dropped": {
+    "p": "/drɒpt/",
+    "t": "落下；下降",
+    "en": "past tense of drop; fell or decreased"
+  },
+  "felony": {
+    "p": "/ˈfɛl.ə.ni/",
+    "t": "重罪",
+    "en": "a serious crime, such as murder or arson"
+  },
+  "accused": {
+    "p": "/əˈkjuːzd/",
+    "t": "被指控的；被告",
+    "en": "charged with an offense"
+  },
+  "vandalizing": {
+    "p": "/ˈvæn.dəl.aɪ.zɪŋ/",
+    "t": "故意破坏",
+    "en": "deliberately destroying or damaging property"
+  },
+  "victim": {
+    "p": "/ˈvɪk.tɪm/",
+    "t": "受害者",
+    "en": "a person harmed by a crime or accident"
+  },
+  "shoddy": {
+    "p": "/ˈʃɒd.i/",
+    "t": "劣质的",
+    "en": "badly made or done"
+  },
+  "contractor": {
+    "p": "/kənˈtræk.tər/",
+    "t": "承包商",
+    "en": "a person or company that provides services under contract"
+  },
+  "pleased": {
+    "p": "/pliːzd/",
+    "t": "高兴的",
+    "en": "feeling happy or satisfied"
+  },
+  "pressing": {
+    "p": "/ˈprɛs.ɪŋ/",
+    "t": "紧迫的；按",
+    "en": "urgent; or the act of applying pressure"
+  },
+  "citizenship": {
+    "p": "/ˈsɪt.ɪ.zən.ʃɪp/",
+    "t": "公民身份",
+    "en": "the status of being a citizen"
+  },
+  "struck": {
+    "p": "/strʌk/",
+    "t": "打击；罢工的过去式",
+    "en": "past tense of strike; hit or affected"
+  },
+  "birthright": {
+    "p": "/ˈbɜːθ.raɪt/",
+    "t": "与生俱来的权利",
+    "en": "a right or privilege one is born with"
+  },
+  "unconstitutional": {
+    "p": "/ˌʌn.kɒn.stɪˈtjuː.ʃən.əl/",
+    "t": "违宪的",
+    "en": "not in accordance with a constitution"
+  },
+  "narrower": {
+    "p": "/ˈnær.əʊ.ər/",
+    "t": "更窄的",
+    "en": "comparative of narrow; less wide"
+  },
+  "restrict": {
+    "p": "/rɪˈstrɪkt/",
+    "t": "限制",
+    "en": "to limit or control"
+  },
+  "independence": {
+    "p": "/ˌɪn.dɪˈpen.dəns/",
+    "t": "独立",
+    "en": "freedom from control by others"
+  },
+  "ruling": {
+    "p": "/ˈruː.lɪŋ/",
+    "t": "裁决；统治的",
+    "en": "an official decision; governing"
+  },
+  "curbed": {
+    "p": "/kɜːbd/",
+    "t": "限制；抑制",
+    "en": "past tense of curb; restrained or controlled"
+  },
+  "governor": {
+    "p": "/ˈɡʌv.ən.ər/",
+    "t": "州长；总督",
+    "en": "the head of a state or region"
+  },
+  "mortgage": {
+    "p": "/ˈmɔː.ɡɪdʒ/",
+    "t": "抵押贷款",
+    "en": "a loan to buy property, with the property as security"
+  },
+  "fraud": {
+    "p": "/frɔːd/",
+    "t": "欺诈",
+    "en": "wrongful deception for financial gain"
+  },
+  "notifying": {
+    "p": "/ˈnəʊ.tɪ.faɪ.ɪŋ/",
+    "t": "通知",
+    "en": "informing formally"
+  },
+  "considering": {
+    "p": "/kənˈsɪd.ər.ɪŋ/",
+    "t": "考虑；鉴于",
+    "en": "thinking about; taking into account"
+  },
+  "removing": {
+    "p": "/rɪˈmuː.vɪŋ/",
+    "t": "移除",
+    "en": "taking away or eliminating"
+  },
+  "slush": {
+    "p": "/slʌʃ/",
+    "t": "雪泥；资金",
+    "en": "partially melted snow; or a fund for illicit payments"
+  },
+  "ending": {
+    "p": "/ˈɛn.dɪŋ/",
+    "t": "结束；结尾",
+    "en": "the final part of something"
+  },
+  "soughtafter": {
+    "p": "/ˈsɔːt ˌæf.tər/",
+    "t": "广受欢迎的",
+    "en": "desired by many"
+  },
+  "antiweaponization": {
+    "p": "/ˌæn.tiˌwɛp.ən.aɪˈzeɪ.ʃən/",
+    "t": "反武器化",
+    "en": "opposition to the development or use of weapons"
+  },
+  "troupe": {
+    "p": "/truːp/",
+    "t": "剧团；团体",
+    "en": "a group of performers"
+  },
+  "raccoons": {
+    "p": "/ræˈkuːnz/",
+    "t": "浣熊（复数）",
+    "en": "plural of raccoon; small nocturnal mammals"
+  },
+  "article": {
+    "p": "/ˈɑː.tɪ.kəl/",
+    "t": "文章；物品",
+    "en": "a piece of writing; a particular item"
+  },
+  "raccoon": {
+    "p": "/ræˈkuːn/",
+    "t": "浣熊",
+    "en": "a small North American mammal with a masked face"
+  },
+  "domestication": {
+    "p": "/dəˌmɛs.tɪˈkeɪ.ʃən/",
+    "t": "驯化",
+    "en": "the process of taming animals or plants for human use"
+  },
+  "interest": {
+    "p": "/ˈɪn.trəst/",
+    "t": "兴趣；利益",
+    "en": "curiosity or concern; a share or benefit"
+  },
+  "turns": {
+    "p": "/tɜːnz/",
+    "t": "转动；轮流",
+    "en": "plural of turn; rotations or opportunities"
+  },
+  "thanks": {
+    "p": "/θæŋks/",
+    "t": "感谢",
+    "en": "expression of gratitude"
+  },
+  "progressives": {
+    "p": "/prəˈɡrɛs.ɪvz/",
+    "t": "进步人士",
+    "en": "people favoring social reform"
+  },
+  "backing": {
+    "p": "/ˈbæk.ɪŋ/",
+    "t": "支持；背书",
+    "en": "support or endorsement"
+  },
+  "searching": {
+    "p": "/ˈsɜː.tʃɪŋ/",
+    "t": "搜寻；仔细的",
+    "en": "looking for; thorough in examination"
   }
 }
