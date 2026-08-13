@@ -18303,5 +18303,510 @@
     "p": "/ˈsɜː.tʃɪŋ/",
     "t": "搜寻；仔细的",
     "en": "looking for; thorough in examination"
+  },
+  "messy": {
+    "p": "/ˈmesi/",
+    "t": "凌乱的，肮脏的；棘手的",
+    "en": "untidy or dirty; complicated and difficult to deal with"
+  },
+  "postwoke": {
+    "p": "/ˌpəʊstˈwəʊk/",
+    "t": "后觉醒时代的（指对社会正义议题过度关注后的反思期）",
+    "en": "relating to a period after heightened social justice awareness, often implying backlash or fatigue"
+  },
+  "progressive": {
+    "p": "/prəˈɡresɪv/",
+    "t": "进步的；开明的；逐步的",
+    "en": "favoring social reform; gradual or increasing"
+  },
+  "candidates": {
+    "p": "/ˈkændɪdəts/",
+    "t": "候选人（复数）",
+    "en": "people running for political office"
+  },
+  "outrun": {
+    "p": "/ˌaʊtˈrʌn/",
+    "t": "跑得比……快；超过",
+    "en": "run faster than; exceed"
+  },
+  "party": {
+    "p": "/ˈpɑːti/",
+    "t": "政党；聚会；当事人",
+    "en": "a political group; a social gathering; a person involved in a legal matter"
+  },
+  "helms": {
+    "p": "/helmz/",
+    "t": "掌舵；领导（动词第三人称单数）",
+    "en": "steers or directs (a ship, organization, etc.)"
+  },
+  "socialist": {
+    "p": "/ˈsəʊʃəlɪst/",
+    "t": "社会主义者；社会主义的",
+    "en": "a person who advocates socialism; relating to socialism"
+  },
+  "gubernatorial": {
+    "p": "/ˌɡuːbənəˈtɔːriəl/",
+    "t": "州长的；州长选举的",
+    "en": "relating to a governor or the office of governor"
+  },
+  "narrowly": {
+    "p": "/ˈnærəʊli/",
+    "t": "狭窄地；勉强地；仔细地",
+    "en": "by a small margin; closely; barely"
+  },
+  "moderate": {
+    "p": "/ˈmɒdərət/",
+    "t": "温和的；适度的；持中间立场的",
+    "en": "not extreme; within reasonable limits; holding views between liberal and conservative"
+  },
+  "reformed": {
+    "p": "/rɪˈfɔːmd/",
+    "t": "改革的；改过自新的",
+    "en": "improved or changed for the better; (of a person) changed from bad behavior"
+  },
+  "contest": {
+    "p": "/ˈkɒntest/",
+    "t": "比赛；竞争；争夺",
+    "en": "a competition; a struggle or fight for something; to dispute"
+  },
+  "widely": {
+    "p": "/ˈwaɪdli/",
+    "t": "广泛地；普遍地",
+    "en": "over a large area; by many people"
+  },
+  "strength": {
+    "p": "/streŋθ/",
+    "t": "力量；强度；优势",
+    "en": "the quality of being strong; physical power; a positive attribute"
+  },
+  "deepblue": {
+    "p": "/ˌdiːpˈbluː/",
+    "t": "深蓝（指强烈支持民主党的地区）",
+    "en": "strongly Democratic (in US politics)"
+  },
+  "scandal": {
+    "p": "/ˈskændl/",
+    "t": "丑闻；流言蜚语",
+    "en": "an action or event causing public outrage or disgrace"
+  },
+  "suspended": {
+    "p": "/səˈspendɪd/",
+    "t": "暂停的；悬浮的；被停职的",
+    "en": "temporarily stopped or hung from above; removed from position temporarily"
+  },
+  "campaign": {
+    "p": "/kæmˈpeɪn/",
+    "t": "运动；竞选活动；战役",
+    "en": "a series of actions to achieve a goal, especially political or military"
+  },
+  "endorsed": {
+    "p": "/ɪnˈdɔːst/",
+    "t": "支持；背书；批准",
+    "en": "publicly approved or recommended"
+  },
+  "candidate": {
+    "p": "/ˈkændɪdət/",
+    "t": "候选人；应试者",
+    "en": "a person running for office or applying for a position"
+  },
+  "reenter": {
+    "p": "/ˌriːˈentə/",
+    "t": "重新进入；再次参加",
+    "en": "to enter again or return to"
+  },
+  "chaotic": {
+    "p": "/keɪˈɒtɪk/",
+    "t": "混乱的；无秩序的",
+    "en": "in a state of complete confusion and disorder"
+  },
+  "lastminute": {
+    "p": "/ˌlɑːstˈmɪnɪt/",
+    "t": "最后一刻的；紧急的",
+    "en": "done at the latest possible time"
+  },
+  "showdown": {
+    "p": "/ˈʃəʊdaʊn/",
+    "t": "摊牌；决战",
+    "en": "a final confrontation or decisive test"
+  },
+  "establishment": {
+    "p": "/ɪˈstæblɪʃmənt/",
+    "t": "建立；机构；当权派",
+    "en": "the act of establishing; an institution; the dominant group in society"
+  },
+  "upstart": {
+    "p": "/ˈʌpstɑːt/",
+    "t": "暴发户；新贵；自命不凡者",
+    "en": "a person who has risen suddenly in status, often arrogantly"
+  },
+  "leftwing": {
+    "p": "/ˌleftˈwɪŋ/",
+    "t": "左翼的；激进的",
+    "en": "politically liberal or socialist"
+  },
+  "contingent": {
+    "p": "/kənˈtɪndʒənt/",
+    "t": "分遣队；代表团；依情况而定的",
+    "en": "a group of people representing a larger group; dependent on conditions"
+  },
+  "campaigned": {
+    "p": "/kæmˈpeɪnd/",
+    "t": "参加竞选；从事运动（过去式）",
+    "en": "took part in a campaign"
+  },
+  "childcare": {
+    "p": "/ˈtʃaɪldkeə/",
+    "t": "儿童保育；托儿服务",
+    "en": "the care of children, especially while parents work"
+  },
+  "centers": {
+    "p": "/ˈsentəz/",
+    "t": "中心（复数）；集中",
+    "en": "places or points at the middle; to focus or concentrate"
+  },
+  "controversial": {
+    "p": "/ˌkɒntrəˈvɜːʃl/",
+    "t": "有争议的；引起争论的",
+    "en": "causing disagreement or argument"
+  },
+  "staked": {
+    "p": "/steɪkt/",
+    "t": "用桩支撑；下注；以……为赌注",
+    "en": "supported with stakes; bet or risked"
+  },
+  "procrowley": {
+    "p": "/prəʊˈkraʊli/",
+    "t": "支持克劳利的（指支持政治人物约瑟夫·克劳利）",
+    "en": "supportive of Joe Crowley (a US politician)"
+  },
+  "pilloried": {
+    "p": "/ˈpɪlərid/",
+    "t": "公开嘲笑；使受辱",
+    "en": "publicly ridiculed or criticized harshly"
+  },
+  "wellfunded": {
+    "p": "/ˌwelˈfʌndɪd/",
+    "t": "资金充足的",
+    "en": "having plenty of financial resources"
+  },
+  "furor": {
+    "p": "/ˈfjʊərɔː/",
+    "t": "狂怒；轰动；骚动",
+    "en": "an uproar or outburst of public anger or excitement"
+  },
+  "riled": {
+    "p": "/raɪld/",
+    "t": "激怒；惹恼",
+    "en": "annoyed or irritated"
+  },
+  "liberal": {
+    "p": "/ˈlɪbərəl/",
+    "t": "自由的；开明的；自由主义的",
+    "en": "open to new ideas; favoring political freedom and social reform"
+  },
+  "strongholds": {
+    "p": "/ˈstrɒŋhəʊldz/",
+    "t": "堡垒；据点（复数）",
+    "en": "places where a particular group or belief is dominant"
+  },
+  "voters": {
+    "p": "/ˈvəʊtəz/",
+    "t": "选民（复数）",
+    "en": "people who vote in elections"
+  },
+  "rural": {
+    "p": "/ˈrʊərəl/",
+    "t": "农村的；田园的",
+    "en": "relating to the countryside"
+  },
+  "counties": {
+    "p": "/ˈkaʊntiz/",
+    "t": "县；郡（复数）",
+    "en": "administrative divisions of a country or state"
+  },
+  "weird": {
+    "p": "/wɪəd/",
+    "t": "奇怪的；怪异的",
+    "en": "strange or unusual"
+  },
+  "generalize": {
+    "p": "/ˈdʒenrəlaɪz/",
+    "t": "概括；归纳；推广",
+    "en": "to make general statements based on limited examples; to apply broadly"
+  },
+  "suffered": {
+    "p": "/ˈsʌfəd/",
+    "t": "遭受；受苦（过去式）",
+    "en": "experienced pain, loss, or hardship"
+  },
+  "justice": {
+    "p": "/ˈdʒʌstɪs/",
+    "t": "正义；公正；司法",
+    "en": "fairness; the legal system; a judge"
+  },
+  "activism": {
+    "p": "/ˈæktɪvɪzəm/",
+    "t": "行动主义；激进主义",
+    "en": "the use of direct action to achieve social or political change"
+  },
+  "disavow": {
+    "p": "/ˌdɪsəˈvaʊ/",
+    "t": "否认；拒绝承认",
+    "en": "to deny any connection with or responsibility for"
+  },
+  "strident": {
+    "p": "/ˈstraɪdnt/",
+    "t": "刺耳的；尖锐的；激烈的",
+    "en": "loud and harsh; forceful and critical"
+  },
+  "peaked": {
+    "p": "/piːkt/",
+    "t": "达到高峰；消瘦的",
+    "en": "reached the highest point; having a peak"
+  },
+  "racial": {
+    "p": "/ˈreɪʃl/",
+    "t": "种族的；人种的",
+    "en": "relating to race"
+  },
+  "reckoning": {
+    "p": "/ˈrekənɪŋ/",
+    "t": "清算；计算；报应",
+    "en": "the act of calculating; a time when past actions are judged"
+  },
+  "alienated": {
+    "p": "/ˈeɪliəneɪtɪd/",
+    "t": "疏远的；被孤立的",
+    "en": "made to feel isolated or estranged"
+  },
+  "centrist": {
+    "p": "/ˈsentrɪst/",
+    "t": "中间派；温和派",
+    "en": "a person with moderate political views"
+  },
+  "workingclass": {
+    "p": "/ˌwɜːkɪŋˈklɑːs/",
+    "t": "工人阶级的",
+    "en": "relating to people who work for wages, especially manual or industrial workers"
+  },
+  "minority": {
+    "p": "/maɪˈnɒrəti/",
+    "t": "少数；少数民族；未成年",
+    "en": "a smaller group within a larger one; a group of people differing in race, religion, etc."
+  },
+  "abolish": {
+    "p": "/əˈbɒlɪʃ/",
+    "t": "废除；取消",
+    "en": "to formally end a system, practice, or institution"
+  },
+  "prisons": {
+    "p": "/ˈprɪzənz/",
+    "t": "监狱（复数）",
+    "en": "places where people are held as punishment for crimes"
+  },
+  "proposed": {
+    "p": "/prəˈpəʊzd/",
+    "t": "提议的；建议的",
+    "en": "suggested for consideration"
+  },
+  "infamous": {
+    "p": "/ˈɪnfəməs/",
+    "t": "臭名昭著的；声名狼藉的",
+    "en": "well known for being bad or evil"
+  },
+  "tweet": {
+    "p": "/twiːt/",
+    "t": "推特帖子；鸟鸣",
+    "en": "a message posted on Twitter; the chirp of a small bird"
+  },
+  "cancel": {
+    "p": "/ˈkænsl/",
+    "t": "取消；撤销；删除",
+    "en": "to decide that something planned will not happen; to stop support for someone"
+  },
+  "impulses": {
+    "p": "/ˈɪmpʌlsɪz/",
+    "t": "冲动；脉冲；推动力（复数）",
+    "en": "sudden desires or urges; electrical signals in nerves"
+  },
+  "slogans": {
+    "p": "/ˈsləʊɡənz/",
+    "t": "口号；标语（复数）",
+    "en": "short, memorable phrases used in advertising or politics"
+  },
+  "colonialism": {
+    "p": "/kəˈləʊniəlɪzəm/",
+    "t": "殖民主义；殖民政策",
+    "en": "the practice of one country controlling another, often for economic gain"
+  },
+  "rhetoric": {
+    "p": "/ˈretərɪk/",
+    "t": "修辞；花言巧语；雄辩",
+    "en": "the art of speaking or writing effectively; language designed to persuade"
+  },
+  "heyday": {
+    "p": "/ˈheɪdeɪ/",
+    "t": "全盛期；鼎盛时期",
+    "en": "the period of greatest success or popularity"
+  },
+  "mattered": {
+    "p": "/ˈmætəd/",
+    "t": "重要；有关系（过去式）",
+    "en": "was important or significant"
+  },
+  "inflation": {
+    "p": "/ɪnˈfleɪʃn/",
+    "t": "通货膨胀；膨胀",
+    "en": "a general increase in prices and fall in the purchasing value of money"
+  },
+  "coalitions": {
+    "p": "/ˌkəʊəˈlɪʃənz/",
+    "t": "联盟；联合体（复数）",
+    "en": "alliances of groups or parties"
+  },
+  "gotten": {
+    "p": "/ˈɡɒtn/",
+    "t": "得到（get 的过去分词，美式）",
+    "en": "past participle of get (American English)"
+  },
+  "defunding": {
+    "p": "/ˌdiːˈfʌndɪŋ/",
+    "t": "取消资金；停止拨款",
+    "en": "the act of withdrawing financial support"
+  },
+  "centered": {
+    "p": "/ˈsentəd/",
+    "t": "以……为中心的；集中",
+    "en": "having a central focus; placed in the middle"
+  },
+  "affordability": {
+    "p": "/əˌfɔːdəˈbɪləti/",
+    "t": "负担能力；可承受性",
+    "en": "the quality of being affordable or reasonably priced"
+  },
+  "openly": {
+    "p": "/ˈəʊpənli/",
+    "t": "公开地；坦率地",
+    "en": "without hiding feelings or opinions"
+  },
+  "discussing": {
+    "p": "/dɪˈskʌsɪŋ/",
+    "t": "讨论；谈论（现在分词）",
+    "en": "talking about something with others"
+  },
+  "intentionally": {
+    "p": "/ɪnˈtenʃənəli/",
+    "t": "故意地；有意地",
+    "en": "done on purpose"
+  },
+  "thriftfocused": {
+    "p": "/ˈθrɪftˌfəʊkəst/",
+    "t": "注重节俭的",
+    "en": "focused on saving money and being frugal"
+  },
+  "bloggers": {
+    "p": "/ˈblɒɡəz/",
+    "t": "博主（复数）",
+    "en": "people who write blogs regularly"
+  },
+  "frugality": {
+    "p": "/fruːˈɡæləti/",
+    "t": "节俭；朴素",
+    "en": "the quality of being economical with money or resources"
+  },
+  "longterm": {
+    "p": "/ˌlɒŋˈtɜːm/",
+    "t": "长期的",
+    "en": "lasting over a long period"
+  },
+  "mining": {
+    "p": "/ˈmaɪnɪŋ/",
+    "t": "采矿；挖掘；开采",
+    "en": "the process of extracting minerals from the earth; digging for resources"
+  },
+  "oldschool": {
+    "p": "/ˌəʊldˈskuːl/",
+    "t": "老派的；传统的",
+    "en": "traditional or old-fashioned in style"
+  },
+  "frugalsphere": {
+    "p": "/ˈfruːɡəlˌsfɪə/",
+    "t": "节俭圈（指关注节俭的社区）",
+    "en": "the community or world of frugal living enthusiasts"
+  },
+  "lessons": {
+    "p": "/ˈlesənz/",
+    "t": "课程；教训（复数）",
+    "en": "classes or instructions; experiences that teach"
+  },
+  "fires": {
+    "p": "/ˈfaɪəz/",
+    "t": "火灾；火焰（复数）；解雇",
+    "en": "instances of burning; to dismiss from a job"
+  },
+  "fallen": {
+    "p": "/ˈfɔːlən/",
+    "t": "落下的；倒下的；阵亡的",
+    "en": "having dropped or dropped down; killed in battle"
+  },
+  "alarms": {
+    "p": "/əˈlɑːmz/",
+    "t": "警报；闹钟（复数）；使惊恐",
+    "en": "warning devices or signals; to frighten"
+  },
+  "sprinklers": {
+    "p": "/ˈsprɪŋkləz/",
+    "t": "洒水器；喷水装置（复数）",
+    "en": "devices that spray water, especially for fire suppression or watering"
+  },
+  "fireresistant": {
+    "p": "/ˌfaɪə rɪˈzɪstənt/",
+    "t": "防火的；耐火的",
+    "en": "able to resist burning or damage by fire"
+  },
+  "furniture": {
+    "p": "/ˈfɜːnɪtʃə/",
+    "t": "家具",
+    "en": "movable objects such as chairs, tables, and beds used in a home or office"
+  },
+  "finishes": {
+    "p": "/ˈfɪnɪʃɪz/",
+    "t": "完成；结束；表面处理（复数/三单）",
+    "en": "completes; the final surface or coating of a material"
+  },
+  "trivia": {
+    "p": "/ˈtrɪviə/",
+    "t": "琐事；冷知识",
+    "en": "unimportant details or facts; a game of questions on obscure knowledge"
+  },
+  "puzzles": {
+    "p": "/ˈpʌzəlz/",
+    "t": "谜题；困惑（复数）",
+    "en": "games or problems that require thought; to confuse"
+  },
+  "edition": {
+    "p": "/ɪˈdɪʃn/",
+    "t": "版本；版次",
+    "en": "a particular version of a book, newspaper, or other publication"
+  },
+  "oneparty": {
+    "p": "/ˌwʌnˈpɑːti/",
+    "t": "一党制的；单一政党的",
+    "en": "relating to a system with only one political party"
+  },
+  "communist": {
+    "p": "/ˈkɒmjənɪst/",
+    "t": "共产主义者；共产党的",
+    "en": "a person who supports communism; relating to communism"
+  },
+  "governments": {
+    "p": "/ˈɡʌvənmənts/",
+    "t": "政府（复数）",
+    "en": "groups that rule a country or state"
+  },
+  "hamster": {
+    "p": "/ˈhæmstə/",
+    "t": "仓鼠",
+    "en": "a small, round rodent often kept as a pet"
   }
 }
