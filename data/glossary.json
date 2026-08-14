@@ -18808,5 +18808,810 @@
     "p": "/ˈhæmstə/",
     "t": "仓鼠",
     "en": "a small, round rodent often kept as a pet"
+  },
+  "endorsement": {
+    "p": "/ɪnˈdɔːsmənt/",
+    "t": "背书；支持",
+    "en": "public approval or support"
+  },
+  "primaries": {
+    "p": "/ˈpraɪməriz/",
+    "t": "初选",
+    "en": "elections to choose candidates"
+  },
+  "demonstrators": {
+    "p": "/ˈdemənstreɪtəz/",
+    "t": "示威者",
+    "en": "people taking part in a public protest"
+  },
+  "rally": {
+    "p": "/ˈræli/",
+    "t": "集会； rally",
+    "en": "a large public meeting or gathering"
+  },
+  "bills": {
+    "p": "/bɪlz/",
+    "t": "法案；账单",
+    "en": "proposed laws or statements of money owed"
+  },
+  "bipartisan": {
+    "p": "/ˌbaɪpɑːtɪˈzæn/",
+    "t": "两党的",
+    "en": "involving two political parties"
+  },
+  "policies": {
+    "p": "/ˈpɒləsiz/",
+    "t": "政策",
+    "en": "courses of action adopted by government"
+  },
+  "strengthen": {
+    "p": "/ˈstreŋθən/",
+    "t": "加强",
+    "en": "to make stronger"
+  },
+  "partnership": {
+    "p": "/ˈpɑːtnəʃɪp/",
+    "t": "伙伴关系",
+    "en": "cooperation between parties"
+  },
+  "losing": {
+    "p": "/ˈluːzɪŋ/",
+    "t": "正在输的",
+    "en": "failing to win"
+  },
+  "rallying": {
+    "p": "/ˈræliɪŋ/",
+    "t": "召集； rallying",
+    "en": "gathering for support"
+  },
+  "persuade": {
+    "p": "/pəˈsweɪd/",
+    "t": "说服",
+    "en": "to convince someone"
+  },
+  "recently": {
+    "p": "/ˈriːsntli/",
+    "t": "最近",
+    "en": "not long ago"
+  },
+  "boosting": {
+    "p": "/ˈbuːstɪŋ/",
+    "t": "提升；促进",
+    "en": "increasing or improving"
+  },
+  "nomination": {
+    "p": "/ˌnɒmɪˈneɪʃn/",
+    "t": "提名",
+    "en": "formal proposal of a candidate"
+  },
+  "opponent": {
+    "p": "/əˈpəʊnənt/",
+    "t": "对手",
+    "en": "person who competes against another"
+  },
+  "spenders": {
+    "p": "/ˈspendəz/",
+    "t": "花钱者",
+    "en": "people who spend money"
+  },
+  "elections": {
+    "p": "/ɪˈlekʃnz/",
+    "t": "选举",
+    "en": "formal votes to choose officials"
+  },
+  "origins": {
+    "p": "/ˈɒrɪdʒɪnz/",
+    "t": "起源",
+    "en": "beginnings or sources"
+  },
+  "lobbying": {
+    "p": "/ˈlɒbiɪŋ/",
+    "t": "游说",
+    "en": "attempting to influence politicians"
+  },
+  "dollars": {
+    "p": "/ˈdɒləz/",
+    "t": "美元",
+    "en": "US currency"
+  },
+  "advertisements": {
+    "p": "/ədˈvɜːtɪsmənts/",
+    "t": "广告",
+    "en": "public announcements promoting products"
+  },
+  "unrelated": {
+    "p": "/ˌʌnrɪˈleɪtɪd/",
+    "t": "无关的",
+    "en": "not connected"
+  },
+  "spoke": {
+    "p": "/spəʊk/",
+    "t": "说（过去式）",
+    "en": "past tense of speak"
+  },
+  "cohost": {
+    "p": "/ˈkəʊhəʊst/",
+    "t": "共同主持",
+    "en": "to host together with another"
+  },
+  "backlash": {
+    "p": "/ˈbæklæʃ/",
+    "t": "强烈反对",
+    "en": "strong negative reaction"
+  },
+  "surrounding": {
+    "p": "/səˈraʊndɪŋ/",
+    "t": "周围的",
+    "en": "around or encircling"
+  },
+  "shell": {
+    "p": "/ʃel/",
+    "t": "壳；外壳",
+    "en": "hard outer covering"
+  },
+  "evolving": {
+    "p": "/ɪˈvɒlvɪŋ/",
+    "t": "演变的",
+    "en": "developing gradually"
+  },
+  "stance": {
+    "p": "/stæns/",
+    "t": "立场",
+    "en": "attitude or position"
+  },
+  "inaugurated": {
+    "p": "/ɪˈnɔːɡjʊreɪtɪd/",
+    "t": "就职",
+    "en": "formally sworn into office"
+  },
+  "conventions": {
+    "p": "/kənˈvenʃnz/",
+    "t": "大会；惯例",
+    "en": "large political meetings or customs"
+  },
+  "pretty": {
+    "p": "/ˈprɪti/",
+    "t": "相当；漂亮的",
+    "en": "fairly; attractive"
+  },
+  "everybody": {
+    "p": "/ˈevribɒdi/",
+    "t": "每个人",
+    "en": "every person"
+  },
+  "attends": {
+    "p": "/əˈtendz/",
+    "t": "出席",
+    "en": "present at an event"
+  },
+  "speeches": {
+    "p": "/ˈspiːtʃɪz/",
+    "t": "演讲",
+    "en": "formal talks"
+  },
+  "lobby": {
+    "p": "/ˈlɒbi/",
+    "t": "游说团体；大厅",
+    "en": "group seeking influence; entrance hall"
+  },
+  "engage": {
+    "p": "/ɪnˈɡeɪdʒ/",
+    "t": "参与；从事",
+    "en": "to participate or occupy"
+  },
+  "advertising": {
+    "p": "/ˈædvətaɪzɪŋ/",
+    "t": "广告业",
+    "en": "activity of promoting products"
+  },
+  "campaigns": {
+    "p": "/kæmˈpeɪnz/",
+    "t": "运动；竞选活动",
+    "en": "organized efforts to achieve goals"
+  },
+  "included": {
+    "p": "/ɪnˈkluːdɪd/",
+    "t": "包括",
+    "en": "contained as part"
+  },
+  "views": {
+    "p": "/vjuːz/",
+    "t": "观点；观看",
+    "en": "opinions or sights"
+  },
+  "races": {
+    "p": "/ˈreɪsɪz/",
+    "t": "竞赛；种族",
+    "en": "competitions or ethnic groups"
+  },
+  "counterweight": {
+    "p": "/ˈkaʊntəweɪt/",
+    "t": "平衡物；制衡",
+    "en": "balancing force"
+  },
+  "prodigious": {
+    "p": "/prəˈdɪdʒəs/",
+    "t": "巨大的；惊人的",
+    "en": "remarkably large"
+  },
+  "limit": {
+    "p": "/ˈlɪmɪt/",
+    "t": "限制",
+    "en": "boundary or maximum"
+  },
+  "endorsees": {
+    "p": "/ɪnˈdɔːsiːz/",
+    "t": "被背书者",
+    "en": "persons endorsed"
+  },
+  "termed": {
+    "p": "/tɜːmd/",
+    "t": "称为",
+    "en": "called or named"
+  },
+  "genocide": {
+    "p": "/ˈdʒenəsaɪd/",
+    "t": "种族灭绝",
+    "en": "deliberate killing of a people"
+  },
+  "negatively": {
+    "p": "/ˈneɡətɪvli/",
+    "t": "否定地",
+    "en": "in a harmful way"
+  },
+  "midterm": {
+    "p": "/ˈmɪdtɜːm/",
+    "t": "中期选举",
+    "en": "elections halfway through term"
+  },
+  "disclosures": {
+    "p": "/dɪsˈkləʊʒəz/",
+    "t": "披露",
+    "en": "acts of revealing information"
+  },
+  "raised": {
+    "p": "/reɪzd/",
+    "t": "筹集；提高",
+    "en": "collected or lifted"
+  },
+  "expenditures": {
+    "p": "/ɪkˈspendɪtʃəz/",
+    "t": "支出",
+    "en": "amounts spent"
+  },
+  "mailers": {
+    "p": "/ˈmeɪləz/",
+    "t": "邮件广告",
+    "en": "advertising sent by mail"
+  },
+  "undercount": {
+    "p": "/ˌʌndəˈkaʊnt/",
+    "t": "少计",
+    "en": "to count insufficiently"
+  },
+  "proisrael": {
+    "p": "/ˌprəʊˈɪzreɪl/",
+    "t": "亲以色列的",
+    "en": "supportive of Israel"
+  },
+  "popup": {
+    "p": "/ˈpɒpʌp/",
+    "t": "弹出窗口",
+    "en": "window appearing suddenly"
+  },
+  "funded": {
+    "p": "/ˈfʌndɪd/",
+    "t": "资助的",
+    "en": "provided with money"
+  },
+  "laundering": {
+    "p": "/ˈlɔːndərɪŋ/",
+    "t": "洗钱",
+    "en": "concealing illegal money origins"
+  },
+  "seats": {
+    "p": "/siːts/",
+    "t": "席位",
+    "en": "positions in legislature"
+  },
+  "strongly": {
+    "p": "/ˈstrɒŋli/",
+    "t": "强烈地",
+    "en": "with force or conviction"
+  },
+  "contested": {
+    "p": "/kənˈtestɪd/",
+    "t": "有争议的",
+    "en": "disputed or challenged"
+  },
+  "watching": {
+    "p": "/ˈwɒtʃɪŋ/",
+    "t": "观看",
+    "en": "observing"
+  },
+  "television": {
+    "p": "/ˈtelɪvɪʒn/",
+    "t": "电视",
+    "en": "device for receiving broadcasts"
+  },
+  "elect": {
+    "p": "/ɪˈlekt/",
+    "t": "选举",
+    "en": "to choose by vote"
+  },
+  "gonna": {
+    "p": "/ˈɡɒnə/",
+    "t": "将要（口语）",
+    "en": "going to (informal)"
+  },
+  "supportive": {
+    "p": "/səˈpɔːtɪv/",
+    "t": "支持的",
+    "en": "giving help or approval"
+  },
+  "harmed": {
+    "p": "/hɑːmd/",
+    "t": "伤害",
+    "en": "damaged or injured"
+  },
+  "finishing": {
+    "p": "/ˈfɪnɪʃɪŋ/",
+    "t": "完成",
+    "en": "bringing to an end"
+  },
+  "shady": {
+    "p": "/ˈʃeɪdi/",
+    "t": "可疑的；阴暗的",
+    "en": "suspicious or shadowy"
+  },
+  "cycles": {
+    "p": "/ˈsaɪklz/",
+    "t": "周期",
+    "en": "recurring sequences"
+  },
+  "concerted": {
+    "p": "/kənˈsɜːtɪd/",
+    "t": "协同的",
+    "en": "jointly planned"
+  },
+  "wellknown": {
+    "p": "/ˌwelˈnəʊn/",
+    "t": "著名的",
+    "en": "widely known"
+  },
+  "supports": {
+    "p": "/səˈpɔːts/",
+    "t": "支持",
+    "en": "backs or holds up"
+  },
+  "prochoice": {
+    "p": "/ˌprəʊˈtʃɔɪs/",
+    "t": "支持堕胎权的",
+    "en": "advocating legal abortion"
+  },
+  "aligns": {
+    "p": "/əˈlaɪnz/",
+    "t": "使一致",
+    "en": "places in agreement"
+  },
+  "obscure": {
+    "p": "/əbˈskjʊə/",
+    "t": "晦涩的；不著名的",
+    "en": "not well-known or clear"
+  },
+  "crazy": {
+    "p": "/ˈkreɪzi/",
+    "t": "疯狂的",
+    "en": "mentally deranged or irrational"
+  },
+  "layers": {
+    "p": "/ˈleɪəz/",
+    "t": "层",
+    "en": "thicknesses of material"
+  },
+  "untangle": {
+    "p": "/ˌʌnˈtæŋɡl/",
+    "t": "解开",
+    "en": "to free from tangles"
+  },
+  "earmarked": {
+    "p": "/ˈɪəmɑːkt/",
+    "t": "指定用途",
+    "en": "set aside for a purpose"
+  },
+  "appearing": {
+    "p": "/əˈpɪərɪŋ/",
+    "t": "出现",
+    "en": "becoming visible"
+  },
+  "conflate": {
+    "p": "/kənˈfleɪt/",
+    "t": "合并；混淆",
+    "en": "combine into one"
+  },
+  "statement": {
+    "p": "/ˈsteɪtmənt/",
+    "t": "声明",
+    "en": "formal expression"
+  },
+  "denounces": {
+    "p": "/dɪˈnaʊnsɪz/",
+    "t": "谴责",
+    "en": "publicly condemns"
+  },
+  "extermination": {
+    "p": "/ɪkˌstɜːmɪˈneɪʃn/",
+    "t": "灭绝",
+    "en": "complete destruction"
+  },
+  "starving": {
+    "p": "/ˈstɑːvɪŋ/",
+    "t": "挨饿",
+    "en": "suffering from hunger"
+  },
+  "hatefilled": {
+    "p": "/ˈheɪtfɪld/",
+    "t": "充满仇恨的",
+    "en": "full of hatred"
+  },
+  "blood": {
+    "p": "/blʌd/",
+    "t": "血",
+    "en": "red fluid in body"
+  },
+  "libel": {
+    "p": "/ˈlaɪbl/",
+    "t": "诽谤",
+    "en": "false damaging statement"
+  },
+  "pointing": {
+    "p": "/ˈpɔɪntɪŋ/",
+    "t": "指向",
+    "en": "indicating direction"
+  },
+  "mention": {
+    "p": "/ˈmenʃn/",
+    "t": "提及",
+    "en": "refer to briefly"
+  },
+  "tying": {
+    "p": "/ˈtaɪɪŋ/",
+    "t": "捆绑；联系",
+    "en": "fastening or connecting"
+  },
+  "antisemitic": {
+    "p": "/ˌæntisɪˈmɪtɪk/",
+    "t": "反犹太的",
+    "en": "hostile to Jews"
+  },
+  "sentiment": {
+    "p": "/ˈsentɪmənt/",
+    "t": "情绪；观点",
+    "en": "feeling or opinion"
+  },
+  "transferred": {
+    "p": "/trænsˈfɜːd/",
+    "t": "转移",
+    "en": "moved from one place"
+  },
+  "concealed": {
+    "p": "/kənˈsiːld/",
+    "t": "隐藏的",
+    "en": "kept secret"
+  },
+  "critique": {
+    "p": "/krɪˈtiːk/",
+    "t": "批评；评论",
+    "en": "detailed analysis"
+  },
+  "decides": {
+    "p": "/dɪˈsaɪdz/",
+    "t": "决定",
+    "en": "makes a choice"
+  },
+  "rooted": {
+    "p": "/ˈruːtɪd/",
+    "t": "根深蒂固的",
+    "en": "firmly established"
+  },
+  "believes": {
+    "p": "/bɪˈliːvz/",
+    "t": "相信",
+    "en": "accepts as true"
+  },
+  "conditions": {
+    "p": "/kənˈdɪʃnz/",
+    "t": "条件；状况",
+    "en": "states or requirements"
+  },
+  "cetera": {
+    "p": "/ˈsetərə/",
+    "t": "等等（拉丁语）",
+    "en": "and other things"
+  },
+  "cynical": {
+    "p": "/ˈsɪnɪkl/",
+    "t": "愤世嫉俗的",
+    "en": "distrustful of motives"
+  },
+  "connects": {
+    "p": "/kəˈnekts/",
+    "t": "连接",
+    "en": "links together"
+  },
+  "objecting": {
+    "p": "/əbˈdʒektɪŋ/",
+    "t": "反对",
+    "en": "expressing disapproval"
+  },
+  "politicians": {
+    "p": "/ˌpɒlɪˈtɪʃnz/",
+    "t": "政客",
+    "en": "people in politics"
+  },
+  "additionally": {
+    "p": "/əˈdɪʃənəli/",
+    "t": "此外",
+    "en": "in addition"
+  },
+  "fraught": {
+    "p": "/frɔːt/",
+    "t": "充满的；焦虑的",
+    "en": "filled with or causing anxiety"
+  },
+  "tropes": {
+    "p": "/trəʊps/",
+    "t": "比喻；陈词滥调",
+    "en": "common themes or clichés"
+  },
+  "cabal": {
+    "p": "/kəˈbæl/",
+    "t": "阴谋集团",
+    "en": "secret political group"
+  },
+  "secretly": {
+    "p": "/ˈsiːkrətli/",
+    "t": "秘密地",
+    "en": "in secret"
+  },
+  "finance": {
+    "p": "/ˈfaɪnæns/",
+    "t": "资助",
+    "en": "provide money for"
+  },
+  "triply": {
+    "p": "/ˈtrɪpli/",
+    "t": "三倍地",
+    "en": "three times"
+  },
+  "twofold": {
+    "p": "/ˈtuːfəʊld/",
+    "t": "两倍的",
+    "en": "twice as much"
+  },
+  "billions": {
+    "p": "/ˈbɪljənz/",
+    "t": "数十亿",
+    "en": "thousands of millions"
+  },
+  "region": {
+    "p": "/ˈriːdʒən/",
+    "t": "地区",
+    "en": "area or district"
+  },
+  "sailors": {
+    "p": "/ˈseɪlərz/",
+    "t": "水手们",
+    "en": "people who work on a ship"
+  },
+  "cracks": {
+    "p": "/kræks/",
+    "t": "裂缝；裂纹",
+    "en": "lines of breakage; splits"
+  },
+  "warship": {
+    "p": "/ˈwɔːrʃɪp/",
+    "t": "军舰",
+    "en": "a ship used in naval warfare"
+  },
+  "reportedly": {
+    "p": "/rɪˈpɔːrtɪdli/",
+    "t": "据报道",
+    "en": "according to reports"
+  },
+  "overboard": {
+    "p": "/ˈoʊvərbɔːrd/",
+    "t": "落水；从船上掉下",
+    "en": "over the side of a ship into the water"
+  },
+  "rescued": {
+    "p": "/ˈreskjuːd/",
+    "t": "获救的",
+    "en": "saved from danger"
+  },
+  "safely": {
+    "p": "/ˈseɪfli/",
+    "t": "安全地",
+    "en": "in a safe manner"
+  },
+  "raising": {
+    "p": "/ˈreɪzɪŋ/",
+    "t": "提高；举起",
+    "en": "lifting or increasing"
+  },
+  "deteriorating": {
+    "p": "/dɪˈtɪəriəreɪtɪŋ/",
+    "t": "恶化的",
+    "en": "becoming worse"
+  },
+  "sanitation": {
+    "p": "/ˌsænɪˈteɪʃn/",
+    "t": "卫生设施",
+    "en": "systems for cleanliness and waste disposal"
+  },
+  "shortages": {
+    "p": "/ˈʃɔːrtɪdʒɪz/",
+    "t": "短缺",
+    "en": "lack of something needed"
+  },
+  "basic": {
+    "p": "/ˈbeɪsɪk/",
+    "t": "基本的",
+    "en": "fundamental; simple and essential"
+  },
+  "supplies": {
+    "p": "/səˈplaɪz/",
+    "t": "补给品；物资",
+    "en": "necessary items, especially food and equipment"
+  },
+  "aircraft": {
+    "p": "/ˈerkræft/",
+    "t": "飞机",
+    "en": "any flying machine"
+  },
+  "carrier": {
+    "p": "/ˈkæriər/",
+    "t": "航空母舰",
+    "en": "a warship that carries aircraft"
+  },
+  "stretch": {
+    "p": "/stretʃ/",
+    "t": "延伸；拉伸",
+    "en": "to extend or become longer"
+  },
+  "modern": {
+    "p": "/ˈmɑːdərn/",
+    "t": "现代的",
+    "en": "relating to the present or recent times"
+  },
+  "deployment": {
+    "p": "/dɪˈplɔɪmənt/",
+    "t": "部署",
+    "en": "the act of positioning troops or equipment"
+  },
+  "supposed": {
+    "p": "/səˈpoʊzd/",
+    "t": "假定的；应当的",
+    "en": "expected or believed to be"
+  },
+  "continued": {
+    "p": "/kənˈtɪnjuːd/",
+    "t": "持续的",
+    "en": "ongoing; not stopped"
+  },
+  "completely": {
+    "p": "/kəmˈpliːtli/",
+    "t": "完全地",
+    "en": "entirely; fully"
+  },
+  "misrepresented": {
+    "p": "/ˌmɪsˌreprɪˈzentɪd/",
+    "t": "歪曲的",
+    "en": "shown in an incorrect way"
+  },
+  "replacement": {
+    "p": "/rɪˈpleɪsmənt/",
+    "t": "替代品；替换",
+    "en": "a person or thing that takes the place of another"
+  },
+  "stumbling": {
+    "p": "/ˈstʌmbəlɪŋ/",
+    "t": "绊倒的；障碍",
+    "en": "causing difficulty or falling"
+  },
+  "block": {
+    "p": "/blɑːk/",
+    "t": "阻塞；障碍物",
+    "en": "an obstruction; to prevent movement"
+  },
+  "serious": {
+    "p": "/ˈsɪriəs/",
+    "t": "严重的；认真的",
+    "en": "important; not joking"
+  },
+  "offensive": {
+    "p": "/əˈfensɪv/",
+    "t": "进攻性的",
+    "en": "aggressive; relating to attack"
+  },
+  "defensive": {
+    "p": "/dɪˈfensɪv/",
+    "t": "防御性的",
+    "en": "used for protection; relating to defense"
+  },
+  "missiles": {
+    "p": "/ˈmɪsaɪlz/",
+    "t": "导弹",
+    "en": "rockets or weapons that are fired"
+  },
+  "interceptors": {
+    "p": "/ˌɪntərˈseptərz/",
+    "t": "拦截器",
+    "en": "weapons or aircraft used to stop others"
+  },
+  "troops": {
+    "p": "/truːps/",
+    "t": "军队",
+    "en": "soldiers collectively"
+  },
+  "drones": {
+    "p": "/droʊnz/",
+    "t": "无人机",
+    "en": "unmanned aircraft"
+  },
+  "apiece": {
+    "p": "/əˈpiːs/",
+    "t": "每个；各",
+    "en": "for each one"
+  },
+  "slant": {
+    "p": "/slænt/",
+    "t": "倾斜；观点",
+    "en": "a slope; a particular point of view"
+  },
+  "figured": {
+    "p": "/ˈfɪɡjərd/",
+    "t": "认为；计算",
+    "en": "thought; calculated"
+  },
+  "massproduce": {
+    "p": "/ˌmæs prəˈduːs/",
+    "t": "大规模生产",
+    "en": "to produce in large quantities"
+  },
+  "sight": {
+    "p": "/saɪt/",
+    "t": "视力；景象",
+    "en": "the ability to see; something seen"
+  },
+  "wrecked": {
+    "p": "/rekt/",
+    "t": "毁坏的",
+    "en": "destroyed or severely damaged"
+  },
+  "permanently": {
+    "p": "/ˈpɜːrmənəntli/",
+    "t": "永久地",
+    "en": "lasting forever"
+  },
+  "degraded": {
+    "p": "/dɪˈɡreɪdɪd/",
+    "t": "降级的；退化的",
+    "en": "reduced in quality or status"
+  },
+  "brains": {
+    "p": "/breɪnz/",
+    "t": "大脑；智力",
+    "en": "the organ in the head; intelligence"
+  },
+  "rebuild": {
+    "p": "/ˌriːˈbɪld/",
+    "t": "重建",
+    "en": "to build again"
+  },
+  "womanhood": {
+    "p": "/ˈwʊmənhʊd/",
+    "t": "女性成年期",
+    "en": "the state of being a woman"
   }
 }
