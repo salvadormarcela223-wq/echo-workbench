@@ -19613,5 +19613,815 @@
     "p": "/ˈwʊmənhʊd/",
     "t": "女性成年期",
     "en": "the state of being a woman"
+  },
+  "zerosum": {
+    "p": "/ˈzɪərəʊsʌm/",
+    "t": "零和的",
+    "en": "relating to a situation where one person's gain equals another's loss"
+  },
+  "descendants": {
+    "p": "/dɪˈsendənts/",
+    "t": "后代；后裔",
+    "en": "people descended from a particular ancestor"
+  },
+  "journalist": {
+    "p": "/ˈdʒɜːnəlɪst/",
+    "t": "记者；新闻工作者",
+    "en": "a person who writes for newspapers or magazines or broadcasts news"
+  },
+  "honored": {
+    "p": "/ˈɒnəd/",
+    "t": "荣幸的；受尊敬的",
+    "en": "regarded with great respect or given an award"
+  },
+  "subbing": {
+    "p": "/ˈsʌbɪŋ/",
+    "t": "替补；代替",
+    "en": "acting as a substitute"
+  },
+  "philosophical": {
+    "p": "/ˌfɪləˈsɒfɪkl/",
+    "t": "哲学的；达观的",
+    "en": "relating to philosophy; calm and accepting of difficulty"
+  },
+  "sociological": {
+    "p": "/ˌsəʊsiəˈlɒdʒɪkl/",
+    "t": "社会学的",
+    "en": "relating to the study of society"
+  },
+  "perceptual": {
+    "p": "/pəˈseptʃuəl/",
+    "t": "知觉的；感知的",
+    "en": "relating to the ability to perceive"
+  },
+  "quandaries": {
+    "p": "/ˈkwɒndəriz/",
+    "t": "窘境；困惑",
+    "en": "difficult situations or dilemmas"
+  },
+  "gracefully": {
+    "p": "/ˈɡreɪsfəli/",
+    "t": "优雅地；得体地",
+    "en": "in a smooth and elegant manner"
+  },
+  "aging": {
+    "p": "/ˈeɪdʒɪŋ/",
+    "t": "变老；老龄化",
+    "en": "the process of growing old"
+  },
+  "proud": {
+    "p": "/praʊd/",
+    "t": "自豪的；骄傲的",
+    "en": "feeling pleasure and satisfaction about one's achievements"
+  },
+  "grandmother": {
+    "p": "/ˈɡrænmʌðə(r)/",
+    "t": "祖母；外祖母",
+    "en": "the mother of one's parent"
+  },
+  "hearing": {
+    "p": "/ˈhɪərɪŋ/",
+    "t": "听力；听觉",
+    "en": "the ability to perceive sound"
+  },
+  "boomer": {
+    "p": "/ˈbuːmə(r)/",
+    "t": "婴儿潮一代",
+    "en": "a person born during the post-WWII baby boom"
+  },
+  "hoarding": {
+    "p": "/ˈhɔːdɪŋ/",
+    "t": "囤积",
+    "en": "the act of accumulating and storing things"
+  },
+  "wealth": {
+    "p": "/welθ/",
+    "t": "财富；富有",
+    "en": "abundance of valuable possessions or money"
+  },
+  "failing": {
+    "p": "/ˈfeɪlɪŋ/",
+    "t": "失败；缺点",
+    "en": "a weakness or failure; not succeeding"
+  },
+  "facing": {
+    "p": "/ˈfeɪsɪŋ/",
+    "t": "面对；面临",
+    "en": "confronting or dealing with"
+  },
+  "splurge": {
+    "p": "/splɜːdʒ/",
+    "t": "挥霍；放纵",
+    "en": "to spend money freely or extravagantly"
+  },
+  "lovely": {
+    "p": "/ˈlʌvli/",
+    "t": "可爱的；美好的",
+    "en": "very pleasant or attractive"
+  },
+  "middleclass": {
+    "p": "/ˌmɪdl ˈklɑːs/",
+    "t": "中产阶级的",
+    "en": "relating to the social group between upper and working class"
+  },
+  "funds": {
+    "p": "/fʌndz/",
+    "t": "资金；基金",
+    "en": "sums of money saved or available for a purpose"
+  },
+  "scrimp": {
+    "p": "/skrɪmp/",
+    "t": "节省；精打细算",
+    "en": "to spend very little money"
+  },
+  "savings": {
+    "p": "/ˈseɪvɪŋz/",
+    "t": "储蓄；存款",
+    "en": "money set aside for future use"
+  },
+  "bucketlist": {
+    "p": "/ˈbʌkɪt lɪst/",
+    "t": "遗愿清单",
+    "en": "a list of things to do before dying"
+  },
+  "financial": {
+    "p": "/faɪˈnænʃl/",
+    "t": "金融的；财务的",
+    "en": "relating to money or finance"
+  },
+  "constraints": {
+    "p": "/kənˈstreɪnts/",
+    "t": "限制；约束",
+    "en": "limitations or restrictions"
+  },
+  "luxurious": {
+    "p": "/lʌɡˈʒʊəriəs/",
+    "t": "奢侈的；豪华的",
+    "en": "very comfortable and expensive"
+  },
+  "saving": {
+    "p": "/ˈseɪvɪŋ/",
+    "t": "节省；储蓄",
+    "en": "the act of keeping money for future use"
+  },
+  "substantial": {
+    "p": "/səbˈstænʃl/",
+    "t": "大量的；实质的",
+    "en": "considerable in amount or importance"
+  },
+  "grandkids": {
+    "p": "/ˈɡrænkɪdz/",
+    "t": "孙辈；外孙辈",
+    "en": "informal for grandchildren"
+  },
+  "eitheror": {
+    "p": "/ˌaɪðər ˈɔː(r)/",
+    "t": "二选一的；非此即彼",
+    "en": "a situation with only two options"
+  },
+  "anguish": {
+    "p": "/ˈæŋɡwɪʃ/",
+    "t": "极度痛苦；苦恼",
+    "en": "severe mental or physical pain"
+  },
+  "instinctual": {
+    "p": "/ɪnˈstɪŋktʃuəl/",
+    "t": "本能的",
+    "en": "arising from natural instinct"
+  },
+  "hoard": {
+    "p": "/hɔːd/",
+    "t": "囤积；积聚",
+    "en": "to accumulate and store away"
+  },
+  "progeny": {
+    "p": "/ˈprɒdʒəni/",
+    "t": "后代；子孙",
+    "en": "offspring or descendants"
+  },
+  "zerosumming": {
+    "p": "/ˈzɪərəʊsʌmɪŋ/",
+    "t": "零和博弈的",
+    "en": "involving a zero-sum situation"
+  },
+  "golden": {
+    "p": "/ˈɡəʊldən/",
+    "t": "金色的；极好的",
+    "en": "made of gold; excellent or favorable"
+  },
+  "introduce": {
+    "p": "/ˌɪntrəˈdjuːs/",
+    "t": "介绍；引入",
+    "en": "to present someone or something new"
+  },
+  "thinker": {
+    "p": "/ˈθɪŋkə(r)/",
+    "t": "思想家；思考者",
+    "en": "a person who thinks deeply"
+  },
+  "economist": {
+    "p": "/ɪˈkɒnəmɪst/",
+    "t": "经济学家",
+    "en": "an expert in economics"
+  },
+  "tough": {
+    "p": "/tʌf/",
+    "t": "艰难的；强硬的",
+    "en": "difficult to deal with; strong and durable"
+  },
+  "react": {
+    "p": "/riˈækt/",
+    "t": "反应；回应",
+    "en": "to respond to something"
+  },
+  "paradox": {
+    "p": "/ˈpærədɒks/",
+    "t": "悖论；矛盾",
+    "en": "a seemingly contradictory statement that may be true"
+  },
+  "thrift": {
+    "p": "/θrɪft/",
+    "t": "节俭；节约",
+    "en": "careful use of money"
+  },
+  "expenses": {
+    "p": "/ɪkˈspensɪz/",
+    "t": "费用；开支",
+    "en": "costs incurred"
+  },
+  "saved": {
+    "p": "/seɪvd/",
+    "t": "节省的；获救的",
+    "en": "kept safe or rescued; set aside money"
+  },
+  "paradoxically": {
+    "p": "/ˌpærəˈdɒksɪkli/",
+    "t": "矛盾地；悖论地",
+    "en": "in a way that seems contradictory"
+  },
+  "scrimping": {
+    "p": "/ˈskrɪmpɪŋ/",
+    "t": "节省；节俭",
+    "en": "spending very little"
+  },
+  "minieconomy": {
+    "p": "/ˈmɪniɪˈkɒnəmi/",
+    "t": "小规模经济",
+    "en": "a small-scale economic system"
+  },
+  "traditionally": {
+    "p": "/trəˈdɪʃənəli/",
+    "t": "传统上",
+    "en": "in accordance with tradition"
+  },
+  "chunks": {
+    "p": "/tʃʌŋks/",
+    "t": "大块；大量",
+    "en": "large pieces or amounts"
+  },
+  "grandchildren": {
+    "p": "/ˈɡræntʃɪldrən/",
+    "t": "孙辈；外孙辈",
+    "en": "children of one's son or daughter"
+  },
+  "windfall": {
+    "p": "/ˈwɪndfɔːl/",
+    "t": "意外之财",
+    "en": "an unexpected financial gain"
+  },
+  "stymie": {
+    "p": "/ˈstaɪmi/",
+    "t": "阻碍；妨碍",
+    "en": "to prevent or hinder"
+  },
+  "inheritance": {
+    "p": "/ɪnˈherɪtəns/",
+    "t": "继承；遗产",
+    "en": "property received from someone who has died"
+  },
+  "comforted": {
+    "p": "/ˈkʌmfətɪd/",
+    "t": "安慰；使舒适",
+    "en": "soothed or consoled"
+  },
+  "average": {
+    "p": "/ˈævərɪdʒ/",
+    "t": "平均的；普通的",
+    "en": "typical or usual; mean"
+  },
+  "quantity": {
+    "p": "/ˈkwɒntəti/",
+    "t": "数量；大量",
+    "en": "an amount or number"
+  },
+  "retire": {
+    "p": "/rɪˈtaɪə(r)/",
+    "t": "退休；退役",
+    "en": "to leave one's job and stop working"
+  },
+  "enjoy": {
+    "p": "/ɪnˈdʒɔɪ/",
+    "t": "享受；喜爱",
+    "en": "to take pleasure in"
+  },
+  "ahead": {
+    "p": "/əˈhed/",
+    "t": "在前面；提前",
+    "en": "in front; in the future"
+  },
+  "financially": {
+    "p": "/faɪˈnænʃəli/",
+    "t": "财务上；经济上",
+    "en": "in terms of money or finance"
+  },
+  "homes": {
+    "p": "/həʊmz/",
+    "t": "家；住宅",
+    "en": "places where people live"
+  },
+  "busiest": {
+    "p": "/ˈbɪziɪst/",
+    "t": "最忙碌的",
+    "en": "most occupied with activity"
+  },
+  "careers": {
+    "p": "/kəˈrɪəz/",
+    "t": "职业；事业",
+    "en": "professions or life work"
+  },
+  "pleasures": {
+    "p": "/ˈpleʒəz/",
+    "t": "快乐；乐趣",
+    "en": "feelings of enjoyment"
+  },
+  "antisavings": {
+    "p": "/ˌæntiˈseɪvɪŋz/",
+    "t": "反储蓄的",
+    "en": "opposed to saving money"
+  },
+  "frivolously": {
+    "p": "/ˈfrɪvələsli/",
+    "t": "轻浮地；不严肃地",
+    "en": "in a silly or wasteful manner"
+  },
+  "economy": {
+    "p": "/ɪˈkɒnəmi/",
+    "t": "经济；节约",
+    "en": "the system of wealth creation in a country"
+  },
+  "boost": {
+    "p": "/buːst/",
+    "t": "促进；增强",
+    "en": "to improve or increase"
+  },
+  "stimulate": {
+    "p": "/ˈstɪmjuleɪt/",
+    "t": "刺激；激励",
+    "en": "to encourage activity or growth"
+  },
+  "invest": {
+    "p": "/ɪnˈvest/",
+    "t": "投资；投入",
+    "en": "to put money into something for profit"
+  },
+  "lakeside": {
+    "p": "/ˈleɪksaɪd/",
+    "t": "湖畔的；湖边",
+    "en": "the area beside a lake"
+  },
+  "asset": {
+    "p": "/ˈæset/",
+    "t": "资产；有用的人或物",
+    "en": "a valuable thing or quality"
+  },
+  "profit": {
+    "p": "/ˈprɒfɪt/",
+    "t": "利润；收益",
+    "en": "financial gain"
+  },
+  "passed": {
+    "p": "/pɑːst/",
+    "t": "经过；传递；去世",
+    "en": "went past; handed over; died"
+  },
+  "summers": {
+    "p": "/ˈsʌməz/",
+    "t": "夏天；夏季",
+    "en": "the warmest season of the year"
+  },
+  "assist": {
+    "p": "/əˈsɪst/",
+    "t": "帮助；协助",
+    "en": "to help"
+  },
+  "buying": {
+    "p": "/ˈbaɪɪŋ/",
+    "t": "购买",
+    "en": "the act of purchasing"
+  },
+  "guest": {
+    "p": "/ɡest/",
+    "t": "客人；宾客",
+    "en": "a person invited to stay or visit"
+  },
+  "suite": {
+    "p": "/swiːt/",
+    "t": "套房；一套",
+    "en": "a set of rooms; a group of related things"
+  },
+  "accrue": {
+    "p": "/əˈkruː/",
+    "t": "积累；增加",
+    "en": "to accumulate over time"
+  },
+  "splurging": {
+    "p": "/ˈsplɜːdʒɪŋ/",
+    "t": "挥霍；奢侈",
+    "en": "spending money extravagantly"
+  },
+  "ideally": {
+    "p": "/aɪˈdɪəli/",
+    "t": "理想地；最好",
+    "en": "in a perfect situation"
+  },
+  "hardearned": {
+    "p": "/ˌhɑːdˈɜːnd/",
+    "t": "辛苦挣得的",
+    "en": "earned through hard work"
+  },
+  "abundance": {
+    "p": "/əˈbʌndəns/",
+    "t": "丰富；充裕",
+    "en": "a large quantity"
+  },
+  "bonus": {
+    "p": "/ˈbəʊnəs/",
+    "t": "奖金；额外好处",
+    "en": "an extra payment or benefit"
+  },
+  "nontraditional": {
+    "p": "/ˌnɒntrəˈdɪʃənl/",
+    "t": "非传统的",
+    "en": "not following traditional customs"
+  },
+  "moves": {
+    "p": "/muːvz/",
+    "t": "行动；步骤",
+    "en": "actions or steps in a process"
+  },
+  "strengthening": {
+    "p": "/ˈstreŋθənɪŋ/",
+    "t": "加强；巩固",
+    "en": "making stronger"
+  },
+  "utility": {
+    "p": "/juːˈtɪləti/",
+    "t": "效用；实用",
+    "en": "usefulness; a public service"
+  },
+  "friendships": {
+    "p": "/ˈfrendʃɪps/",
+    "t": "友谊",
+    "en": "relationships between friends"
+  },
+  "pleasure": {
+    "p": "/ˈpleʒə(r)/",
+    "t": "快乐；愉快",
+    "en": "a feeling of enjoyment"
+  },
+  "virtue": {
+    "p": "/ˈvɜːtʃuː/",
+    "t": "美德；优点",
+    "en": "moral excellence"
+  },
+  "deepen": {
+    "p": "/ˈdiːpən/",
+    "t": "加深；深化",
+    "en": "to make or become deeper"
+  },
+  "pleasurable": {
+    "p": "/ˈpleʒərəbl/",
+    "t": "令人愉快的",
+    "en": "giving pleasure"
+  },
+  "virtuous": {
+    "p": "/ˈvɜːtʃuəs/",
+    "t": "有道德的；品行端正的",
+    "en": "having high moral standards"
+  },
+  "directions": {
+    "p": "/dəˈrekʃnz/",
+    "t": "方向；指示",
+    "en": "courses along which something moves; instructions"
+  },
+  "expense": {
+    "p": "/ɪkˈspens/",
+    "t": "花费；代价",
+    "en": "cost; the price paid"
+  },
+  "indulgences": {
+    "p": "/ɪnˈdʌldʒənsɪz/",
+    "t": "放纵；嗜好",
+    "en": "things enjoyed without restraint"
+  },
+  "avoids": {
+    "p": "/əˈvɔɪdz/",
+    "t": "避免；避开",
+    "en": "keeps away from"
+  },
+  "sticky": {
+    "p": "/ˈstɪki/",
+    "t": "黏的；棘手的",
+    "en": "adhesive; difficult to deal with"
+  },
+  "closely": {
+    "p": "/ˈkləʊsli/",
+    "t": "紧密地；仔细地",
+    "en": "in a close manner"
+  },
+  "thinkers": {
+    "p": "/ˈθɪŋkəz/",
+    "t": "思想家",
+    "en": "people who think deeply"
+  },
+  "fifthcentury": {
+    "p": "/ˌfɪfθ ˈsentʃəri/",
+    "t": "五世纪的",
+    "en": "belonging to the 5th century"
+  },
+  "relational": {
+    "p": "/rɪˈleɪʃənl/",
+    "t": "关系的；相关的",
+    "en": "concerning relationships"
+  },
+  "duties": {
+    "p": "/ˈdjuːtiz/",
+    "t": "职责；义务",
+    "en": "moral or legal obligations"
+  },
+  "foundations": {
+    "p": "/faʊnˈdeɪʃnz/",
+    "t": "基础；地基",
+    "en": "base or underlying principle"
+  },
+  "harmonious": {
+    "p": "/hɑːˈməʊniəs/",
+    "t": "和谐的；融洽的",
+    "en": "having agreement and peace"
+  },
+  "functional": {
+    "p": "/ˈfʌŋkʃənl/",
+    "t": "功能的；实用的",
+    "en": "designed for practical use"
+  },
+  "society": {
+    "p": "/səˈsaɪəti/",
+    "t": "社会；社团",
+    "en": "a community of people living together"
+  },
+  "relations": {
+    "p": "/rɪˈleɪʃnz/",
+    "t": "关系；联系",
+    "en": "connections between people or groups"
+  },
+  "uphold": {
+    "p": "/ʌpˈhəʊld/",
+    "t": "维护；支持",
+    "en": "to support or maintain"
+  },
+  "filial": {
+    "p": "/ˈfɪliəl/",
+    "t": "子女的；孝顺的",
+    "en": "relating to a son or daughter"
+  },
+  "piety": {
+    "p": "/ˈpaɪəti/",
+    "t": "虔诚；孝顺",
+    "en": "devotion to religious or family duties"
+  },
+  "honor": {
+    "p": "/ˈɒnə(r)/",
+    "t": "荣誉；尊重",
+    "en": "high respect; to respect greatly"
+  },
+  "elders": {
+    "p": "/ˈeldəz/",
+    "t": "长辈；长者",
+    "en": "older people"
+  },
+  "ancestors": {
+    "p": "/ˈænsestəz/",
+    "t": "祖先；祖宗",
+    "en": "people from whom one is descended"
+  },
+  "rigid": {
+    "p": "/ˈrɪdʒɪd/",
+    "t": "严格的；僵硬的",
+    "en": "inflexible; not easily changed"
+  },
+  "overly": {
+    "p": "/ˈəʊvəli/",
+    "t": "过度地；过分地",
+    "en": "too much"
+  },
+  "expectations": {
+    "p": "/ˌekspekˈteɪʃnz/",
+    "t": "期望；预期",
+    "en": "beliefs about what will happen"
+  },
+  "obedience": {
+    "p": "/əˈbiːdiəns/",
+    "t": "服从；顺从",
+    "en": "the act of obeying"
+  },
+  "conformity": {
+    "p": "/kənˈfɔːməti/",
+    "t": "遵从；一致",
+    "en": "compliance with rules or standards"
+  },
+  "reciprocal": {
+    "p": "/rɪˈsɪprəkl/",
+    "t": "相互的；互惠的",
+    "en": "given and received in return"
+  },
+  "emerge": {
+    "p": "/iˈmɜːdʒ/",
+    "t": "出现；浮现",
+    "en": "to come out or become visible"
+  },
+  "gratitude": {
+    "p": "/ˈɡrætɪtjuːd/",
+    "t": "感激；感谢",
+    "en": "the quality of being thankful"
+  },
+  "heartfelt": {
+    "p": "/ˈhɑːtfelt/",
+    "t": "衷心的；真诚的",
+    "en": "sincere and deeply felt"
+  },
+  "favor": {
+    "p": "/ˈfeɪvə(r)/",
+    "t": "恩惠；好意",
+    "en": "a kind act; approval"
+  },
+  "halfchinese": {
+    "p": "/ˌhɑːf tʃaɪˈniːz/",
+    "t": "半华裔的",
+    "en": "having one Chinese parent"
+  },
+  "noticed": {
+    "p": "/ˈnəʊtɪst/",
+    "t": "注意到；察觉",
+    "en": "observed or perceived"
+  },
+  "intends": {
+    "p": "/ɪnˈtendz/",
+    "t": "打算；意图",
+    "en": "has in mind as a plan"
+  },
+  "owing": {
+    "p": "/ˈəʊɪŋ/",
+    "t": "欠着；归因于",
+    "en": "due to; needing to pay"
+  },
+  "engaging": {
+    "p": "/ɪnˈɡeɪdʒɪŋ/",
+    "t": "迷人的；参与",
+    "en": "attractive; involving oneself"
+  },
+  "chosen": {
+    "p": "/ˈtʃəʊzn/",
+    "t": "选定的；精选的",
+    "en": "selected from a group"
+  },
+  "nuggets": {
+    "p": "/ˈnʌɡɪts/",
+    "t": "金块；小块；宝贵的东西",
+    "en": "small lumps; valuable pieces of information"
+  },
+  "wisdom": {
+    "p": "/ˈwɪzdəm/",
+    "t": "智慧；才智",
+    "en": "the quality of being wise"
+  },
+  "morsel": {
+    "p": "/ˈmɔːsl/",
+    "t": "一口；少量",
+    "en": "a small piece of food"
+  },
+  "gentleman": {
+    "p": "/ˈdʒentlmən/",
+    "t": "绅士；先生",
+    "en": "a polite and honorable man"
+  },
+  "harmonizes": {
+    "p": "/ˈhɑːmənaɪzɪz/",
+    "t": "协调；和谐",
+    "en": "makes consistent or agreeable"
+  },
+  "petty": {
+    "p": "/ˈpeti/",
+    "t": "琐碎的；小气的",
+    "en": "of little importance; small-minded"
+  },
+  "echoes": {
+    "p": "/ˈekəʊz/",
+    "t": "回声；重复",
+    "en": "repeated sounds; reflections"
+  },
+  "harmonize": {
+    "p": "/ˈhɑːmənaɪz/",
+    "t": "使和谐；协调",
+    "en": "to bring into agreement"
+  },
+  "blindly": {
+    "p": "/ˈblaɪndli/",
+    "t": "盲目地；无目的地",
+    "en": "without seeing or understanding"
+  },
+  "copying": {
+    "p": "/ˈkɒpiɪŋ/",
+    "t": "复制；模仿",
+    "en": "making a copy of"
+  },
+  "interlocking": {
+    "p": "/ˌɪntəˈlɒkɪŋ/",
+    "t": "连锁的；相互扣住的",
+    "en": "fitting together so as to be joined"
+  },
+  "complement": {
+    "p": "/ˈkɒmplɪment/",
+    "t": "补充；互补",
+    "en": "something that completes or enhances"
+  },
+  "pitches": {
+    "p": "/pɪtʃɪz/",
+    "t": "音高；投掷；推销",
+    "en": "levels of sound; throws; sales talks"
+  },
+  "choir": {
+    "p": "/ˈkwaɪə(r)/",
+    "t": "唱诗班；合唱团",
+    "en": "a group of singers"
+  },
+  "doulas": {
+    "p": "/ˈduːləz/",
+    "t": "导乐；陪产士",
+    "en": "trained assistants supporting women during childbirth"
+  },
+  "reminder": {
+    "p": "/rɪˈmaɪndə(r)/",
+    "t": "提醒物；暗示",
+    "en": "something that causes one to remember"
+  },
+  "hardest": {
+    "p": "/ˈhɑːdɪst/",
+    "t": "最困难的；最硬的",
+    "en": "most difficult or firm"
+  },
+  "transitions": {
+    "p": "/trænˈzɪʃnz/",
+    "t": "过渡；转变",
+    "en": "processes of changing from one state to another"
+  },
+  "enjoyed": {
+    "p": "/ɪnˈdʒɔɪd/",
+    "t": "享受；喜爱",
+    "en": "took pleasure in"
+  },
+  "investigation": {
+    "p": "/ɪnˌvestɪˈɡeɪʃn/",
+    "t": "调查；研究",
+    "en": "a systematic examination"
+  },
+  "lefthanded": {
+    "p": "/ˌleft ˈhændɪd/",
+    "t": "左撇子的",
+    "en": "preferring to use the left hand"
+  },
+  "explores": {
+    "p": "/ɪkˈsplɔːz/",
+    "t": "探索；探讨",
+    "en": "examines or investigates"
+  },
+  "stigma": {
+    "p": "/ˈstɪɡmə/",
+    "t": "耻辱；污名",
+    "en": "a mark of disgrace"
+  },
+  "fights": {
+    "p": "/faɪts/",
+    "t": "争斗；对抗",
+    "en": "battles or struggles"
+  },
+  "weightloss": {
+    "p": "/ˈweɪt lɒs/",
+    "t": "减肥；减重",
+    "en": "the process of losing body weight"
+  },
+  "retreating": {
+    "p": "/rɪˈtriːtɪŋ/",
+    "t": "撤退；隐退",
+    "en": "moving back or withdrawing"
   }
 }
