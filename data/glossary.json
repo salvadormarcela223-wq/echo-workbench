@@ -20423,5 +20423,365 @@
     "p": "/rɪˈtriːtɪŋ/",
     "t": "撤退；隐退",
     "en": "moving back or withdrawing"
+  },
+  "bromance": {
+    "p": "/ˈbrəʊmæns/",
+    "t": "兄弟情",
+    "en": "a close but non-sexual friendship between men"
+  },
+  "roaring": {
+    "p": "/ˈrɔːrɪŋ/",
+    "t": "咆哮的；轰鸣的",
+    "en": "making a loud, deep sound; very lively or successful"
+  },
+  "curtails": {
+    "p": "/kɜːˈteɪlz/",
+    "t": "削减；缩短",
+    "en": "reduces or limits something"
+  },
+  "joint": {
+    "p": "/dʒɔɪnt/",
+    "t": "联合的；共同的；关节",
+    "en": "shared by two or more; a connection between bones"
+  },
+  "exercises": {
+    "p": "/ˈeksəsaɪzɪz/",
+    "t": "练习；锻炼",
+    "en": "activities done for physical fitness or practice"
+  },
+  "thumbs": {
+    "p": "/θʌmz/",
+    "t": "拇指",
+    "en": "the short thick digit on the hand"
+  },
+  "boarding": {
+    "p": "/ˈbɔːdɪŋ/",
+    "t": "登机；上船；寄宿",
+    "en": "getting on a vehicle; providing or receiving lodging"
+  },
+  "alliances": {
+    "p": "/əˈlaɪənsɪz/",
+    "t": "联盟；结盟",
+    "en": "formal agreements between groups or countries for mutual benefit"
+  },
+  "firstterm": {
+    "p": "/ˈfɜːst tɜːm/",
+    "t": "第一任期",
+    "en": "the initial period of office"
+  },
+  "letters": {
+    "p": "/ˈletəz/",
+    "t": "信；字母",
+    "en": "written messages; symbols of an alphabet"
+  },
+  "dictator": {
+    "p": "/dɪkˈteɪtə/",
+    "t": "独裁者",
+    "en": "a ruler with absolute power"
+  },
+  "presidency": {
+    "p": "/ˈprezɪdənsi/",
+    "t": "总统任期；总统职位",
+    "en": "the office or term of a president"
+  },
+  "approve": {
+    "p": "/əˈpruːv/",
+    "t": "批准；赞成",
+    "en": "to officially agree to or accept something"
+  },
+  "somewhat": {
+    "p": "/ˈsʌmwɒt/",
+    "t": "有点；稍微",
+    "en": "to a certain extent"
+  },
+  "costly": {
+    "p": "/ˈkɒstli/",
+    "t": "昂贵的；代价高的",
+    "en": "expensive; causing loss or sacrifice"
+  },
+  "inappropriate": {
+    "p": "/ˌɪnəˈprəʊpriət/",
+    "t": "不恰当的",
+    "en": "not suitable or proper"
+  },
+  "hostile": {
+    "p": "/ˈhɒstaɪl/",
+    "t": "敌对的；有敌意的",
+    "en": "unfriendly; showing opposition"
+  },
+  "unthreatening": {
+    "p": "/ʌnˈθretnɪŋ/",
+    "t": "不具威胁的",
+    "en": "not appearing dangerous or harmful"
+  },
+  "mentally": {
+    "p": "/ˈmentəli/",
+    "t": "精神上；心理上",
+    "en": "in a way relating to the mind"
+  },
+  "deranged": {
+    "p": "/dɪˈreɪndʒd/",
+    "t": "精神错乱的",
+    "en": "mad; insane"
+  },
+  "dotard": {
+    "p": "/ˈdəʊtəd/",
+    "t": "年老昏聩的人",
+    "en": "an old person who is weak-minded or senile"
+  },
+  "announcement": {
+    "p": "/əˈnaʊnsmənt/",
+    "t": "公告；声明",
+    "en": "a public statement giving information"
+  },
+  "denounced": {
+    "p": "/dɪˈnaʊnst/",
+    "t": "谴责；公开指责",
+    "en": "publicly criticized or condemned"
+  },
+  "annually": {
+    "p": "/ˈænjuəli/",
+    "t": "每年地",
+    "en": "once every year"
+  },
+  "lashed": {
+    "p": "/læʃt/",
+    "t": "抨击；鞭打",
+    "en": "attacked with words or blows"
+  },
+  "tariffs": {
+    "p": "/ˈtærɪfs/",
+    "t": "关税",
+    "en": "taxes on imported or exported goods"
+  },
+  "accusing": {
+    "p": "/əˈkjuːzɪŋ/",
+    "t": "指责的；控告的",
+    "en": "saying someone has done wrong"
+  },
+  "referring": {
+    "p": "/rɪˈfɜːrɪŋ/",
+    "t": "提及；指代",
+    "en": "mentioning or alluding to"
+  },
+  "legislature": {
+    "p": "/ˈledʒɪslətʃə/",
+    "t": "立法机关",
+    "en": "the body of elected officials that makes laws"
+  },
+  "deployments": {
+    "p": "/dɪˈplɔɪmənts/",
+    "t": "部署；调动",
+    "en": "arrangements of military forces for action"
+  },
+  "oncedurable": {
+    "p": "/wʌnsˈdjʊərəbl/",
+    "t": "曾经持久的",
+    "en": "previously long-lasting or stable"
+  },
+  "shakier": {
+    "p": "/ˈʃeɪkiə/",
+    "t": "更不稳定的",
+    "en": "less stable or secure"
+  },
+  "borne": {
+    "p": "/bɔːn/",
+    "t": "承受；承担",
+    "en": "carried or endured"
+  },
+  "brunt": {
+    "p": "/brʌnt/",
+    "t": "主要冲击；首当其冲",
+    "en": "the main force or burden"
+  },
+  "secondterm": {
+    "p": "/ˈsekənd tɜːm/",
+    "t": "第二任期",
+    "en": "the second period of office"
+  },
+  "harassment": {
+    "p": "/ˈhærəsmənt/",
+    "t": "骚扰；烦扰",
+    "en": "aggressive pressure or intimidation"
+  },
+  "intent": {
+    "p": "/ɪnˈtent/",
+    "t": "意图；目的",
+    "en": "purpose; intention"
+  },
+  "remove": {
+    "p": "/rɪˈmuːv/",
+    "t": "移除；免职",
+    "en": "to take away or dismiss"
+  },
+  "threatened": {
+    "p": "/ˈθretənd/",
+    "t": "威胁；恐吓",
+    "en": "expressed intention to harm"
+  },
+  "withdrawal": {
+    "p": "/wɪðˈdrɔːəl/",
+    "t": "撤回；退出",
+    "en": "the act of taking back or leaving"
+  },
+  "currently": {
+    "p": "/ˈkʌrəntli/",
+    "t": "目前；现在",
+    "en": "at the present time"
+  },
+  "stationed": {
+    "p": "/ˈsteɪʃənd/",
+    "t": "驻扎；安置",
+    "en": "placed in a particular location for duty"
+  },
+  "unhappiness": {
+    "p": "/ʌnˈhæpinəs/",
+    "t": "不快乐；不满",
+    "en": "state of being sad or dissatisfied"
+  },
+  "defense": {
+    "p": "/dɪˈfens/",
+    "t": "防御；国防",
+    "en": "protection against attack"
+  },
+  "eternally": {
+    "p": "/ɪˈtɜːnəli/",
+    "t": "永恒地",
+    "en": "forever; without end"
+  },
+  "tightly": {
+    "p": "/ˈtaɪtli/",
+    "t": "紧紧地",
+    "en": "firmly; securely"
+  },
+  "ambitions": {
+    "p": "/æmˈbɪʃənz/",
+    "t": "雄心；抱负",
+    "en": "strong desires for success or achievement"
+  },
+  "grievances": {
+    "p": "/ˈɡriːvənsɪz/",
+    "t": "不满；委屈",
+    "en": "complaints or feelings of injustice"
+  },
+  "clash": {
+    "p": "/klæʃ/",
+    "t": "冲突；抵触",
+    "en": "a fight or disagreement"
+  },
+  "unsuccessfully": {
+    "p": "/ˌʌnsəkˈsesfəli/",
+    "t": "失败地；不成功地",
+    "en": "without achieving success"
+  },
+  "vocally": {
+    "p": "/ˈvəʊkəli/",
+    "t": "直言地；口头地",
+    "en": "in a way that expresses opinions strongly"
+  },
+  "opposing": {
+    "p": "/əˈpəʊzɪŋ/",
+    "t": "反对的；对立的",
+    "en": "in disagreement or resistance"
+  },
+  "troop": {
+    "p": "/truːp/",
+    "t": "军队；士兵",
+    "en": "soldiers collectively"
+  },
+  "insistence": {
+    "p": "/ɪnˈsɪstəns/",
+    "t": "坚持；坚决要求",
+    "en": "the act of demanding firmly"
+  },
+  "belongs": {
+    "p": "/bɪˈlɒŋz/",
+    "t": "属于",
+    "en": "is owned by or is part of"
+  },
+  "founding": {
+    "p": "/ˈfaʊndɪŋ/",
+    "t": "创建；成立",
+    "en": "establishment or creation"
+  },
+  "lowtech": {
+    "p": "/ləʊˈtek/",
+    "t": "低技术的",
+    "en": "not using advanced technology"
+  },
+  "coral": {
+    "p": "/ˈkɒrəl/",
+    "t": "珊瑚",
+    "en": "a hard stony substance formed by marine animals"
+  },
+  "reefs": {
+    "p": "/riːfs/",
+    "t": "礁石",
+    "en": "ridges of rock or sand at or near the water's surface"
+  },
+  "visited": {
+    "p": "/ˈvɪzɪtɪd/",
+    "t": "参观；访问",
+    "en": "went to see a place or person"
+  },
+  "island": {
+    "p": "/ˈaɪlənd/",
+    "t": "岛屿",
+    "en": "a piece of land surrounded by water"
+  },
+  "restoration": {
+    "p": "/ˌrestəˈreɪʃən/",
+    "t": "恢复；修复",
+    "en": "the act of bringing back to a former condition"
+  },
+  "species": {
+    "p": "/ˈspiːʃiːz/",
+    "t": "物种",
+    "en": "a group of living organisms that can interbreed"
+  },
+  "replanting": {
+    "p": "/riːˈplɑːntɪŋ/",
+    "t": "重新种植",
+    "en": "planting again"
+  },
+  "picnic": {
+    "p": "/ˈpɪknɪk/",
+    "t": "野餐",
+    "en": "an outdoor meal"
+  },
+  "coolers": {
+    "p": "/ˈkuːləz/",
+    "t": "冷藏箱",
+    "en": "insulated containers to keep food or drinks cold"
+  },
+  "camera": {
+    "p": "/ˈkæmərə/",
+    "t": "照相机；摄像机",
+    "en": "a device for taking photographs or videos"
+  },
+  "highdefinition": {
+    "p": "/ˌhaɪ ˌdefɪˈnɪʃən/",
+    "t": "高清晰度的",
+    "en": "having very clear, detailed images"
+  },
+  "ruler": {
+    "p": "/ˈruːlə/",
+    "t": "统治者；尺子",
+    "en": "a person who rules; a measuring instrument"
+  },
+  "ordering": {
+    "p": "/ˈɔːdərɪŋ/",
+    "t": "命令；订购",
+    "en": "giving instructions; requesting goods"
+  },
+  "freezes": {
+    "p": "/ˈfriːzɪz/",
+    "t": "冻结；结冰",
+    "en": "turns to ice; stops or makes inactive"
+  },
+  "divorced": {
+    "p": "/dɪˈvɔːst/",
+    "t": "离婚的",
+    "en": "no longer married"
   }
 }
