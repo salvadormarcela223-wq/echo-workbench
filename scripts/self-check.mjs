@@ -69,6 +69,7 @@ function check(name, cond, detail = '') {
   inc(check('专业提升 core 无空', ins.filter(it => isEmpty(it.core)).length === 0));
   inc(check('专业提升 view 无空', ins.filter(it => isEmpty(it.view)).length === 0));
   inc(check('专业提升 action 无空', ins.filter(it => isEmpty(it.action)).length === 0));
+  inc(check('专业提升 topic 标签非空', ins.filter(it => isEmpty(it.topic)).length === 0, ins.filter(it => isEmpty(it.topic)).length ? `空 ${ins.filter(it => isEmpty(it.topic)).length} 条` : '全部有标签'));
 
   console.log('\n【C. 英语阅读模块】');
   inc(check('英语阅读 body 均为数组(防手机崩溃)', readings.filter(it => !Array.isArray(it.body)).length === 0));

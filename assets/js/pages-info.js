@@ -180,7 +180,7 @@ function tagColor(map, key) {
         list.map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
-          '<td><span class="tag ' + tagColor(T_COLOR, n.topic) + '">' + esc(n.topic || '') + '</span></td>' +
+          '<td><span class="tag ' + tagColor(T_COLOR, n.topic) + '">' + esc(n.topic || '未分类') + '</span></td>' +
           '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +

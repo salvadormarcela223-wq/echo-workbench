@@ -40,6 +40,22 @@ function isTobacco(it) {
   return TOBACCO_RE.test(s);
 }
 
+// 专业提升的自动主题分类：源配置未给 cat/dimension 时，按标题+摘要关键词推断，兜底「行业洞察」
+function autoTopic(text) {
+  const t = ' ' + (text || '') + ' ';
+  if (/感官|嗅觉|味觉|香精|香料|风味|香气|sensory|olfactory|flavor|fragrance/i.test(t)) return '感官研究';
+  if (/包装|包材|可持续包装|循环经济|包装设计|packaging/i.test(t)) return '包装趋势';
+  if (/食品|饮料|乳品|零食|酒|咖啡|茶饮|food|beverage|snack|drink/i.test(t)) return '食品饮料';
+  if (/零售|电商|新零售|渠道|门店|retail|e-commerce|commerce/i.test(t)) return '零售渠道';
+  if (/消费电子|手机|智能硬件|可穿戴|3C|家电|electronics/i.test(t)) return '消费电子';
+  if (/市场研究|消费者洞察|消费趋势|调研|消费者调研|survey|consumer|insight|CMI|市场数据/i.test(t)) return '市场洞察';
+  if (/品牌|营销|广告|brand|marketing|advertis/i.test(t)) return '品牌营销';
+  if (/快消|日化|个护|美妆|清洁|家居|FMCG|beauty|cosmetic|personal care/i.test(t)) return '快消日化';
+  if (/餐饮|外卖|餐厅|餐企|foodservice/i.test(t)) return '餐饮消费';
+  if (/出海|全球化|海外市场|跨境|export/i.test(t)) return '出海趋势';
+  return '行业洞察';
+}
+
 async function getText(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -155,7 +171,7 @@ function readFeed() {
             if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
             add.push({
               title: it.title, source: s.name, link: it.link,
-              topic: s.cat || s.dimension || '', cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
+              topic: s.cat || s.dimension || autoTopic(it.title + ' ' + it.summary), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, date: pubDate.toISOString().slice(0, 10),
               core: '', view: '', action: '', origin: s.name,
             });
