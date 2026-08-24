@@ -39,9 +39,14 @@ const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|
 // 内容兜底路由：判断一条内容是否涉及「电子烟 / 烟草 / 尼古丁替代」——这类只归行业资讯(news)，
 // 其余（FMCG、餐饮、包装、市场研究、消费电子、官方平台、CMI/感官）归专业提升(insights)。
 const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟/i;
+// 强非烟草主题（烟草媒体偶尔也发跨界新闻，如新能源/出海/汽车）。内容命中这些且无任何烟草词时，视为非烟草，不归入行业资讯。
+const NONTOB_STRONG = /新能源|电动车|电动汽车|纯电动|混动|续航|动力电池|锂电池|出海|巴西|滴滴|汽车|车企|整车|乘用车|vehicle|electric vehicle|\bEV\b|automaker|tesla|比亚迪|蔚来|小鹏|理想|新能源汽车|智能驾驶|自动驾驶|光伏|储能/i;
 function isTobacco(it) {
-  const s = [it.title, it.summary, it.desc, it.source, it.origin].filter(Boolean).join(' ');
-  return TOBACCO_RE.test(s);
+  const content = [it.title, it.summary, it.desc].filter(Boolean).join(' ');
+  const meta = [it.source, it.origin].filter(Boolean).join(' ');
+  // 内容明显是非烟草主题且无任何烟草词 -> 非烟草（拦截烟草媒体发的跨界新闻，如「滴滴出海·新能源」）
+  if (NONTOB_STRONG.test(content) && !TOBACCO_RE.test(content)) return false;
+  return TOBACCO_RE.test(content) || TOBACCO_RE.test(meta);
 }
 
 // 自动分类：当源配置未指定 cat 时，根据标题关键词+来源推断分类

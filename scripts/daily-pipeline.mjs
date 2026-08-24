@@ -101,17 +101,18 @@ function run(cmd) {
 
   // 5. 提交 + 推送
   run('git add data/feed.json assets/js/feed.js data/words.json data/glossary.json');
+  // 先配置提交人身份（必须放在 commit 之前，否则 git 报 empty ident 导致 commit 失败、每天空转）
+  const isCI = !!process.env.GITHUB_ACTIONS;
+  try { execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
+  try { execSync('git config user.name "github-actions[bot]"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
   try {
     execSync('git commit -m "每日自动更新：抓取真实近期行业资讯 + DeepSeek 生成顾问视角"', { cwd: ROOT, stdio: 'inherit' });
   } catch (e) {
     console.log('（无内容变更，跳过提交）');
   }
 
-  const isCI = !!process.env.GITHUB_ACTIONS;
   if (isCI) {
     // 服务器环境：用 GitHub 自带的 GITHUB_TOKEN 推送（无需桌面令牌，网站自行更新）
-    try { execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
-    try { execSync('git config user.name "github-actions[bot]"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
     run('git push origin HEAD:master');
     console.log('✅ 已推送到线上（GitHub Actions 自动运行，无需你的电脑）');
   } else {
