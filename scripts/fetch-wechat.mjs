@@ -103,6 +103,7 @@ async function search(q) {
   for (const it of collected) {
     if (seenTitles.has(it.title)) continue;
     seenTitles.add(it.title);
+    if (/^(分享图片|分享视频|链接分享|链接)$/.test((it.title || '').trim())) continue; // 纯图片/视频分享不是文章
     if (!it.ts) continue;                       // 无日期丢弃
     const age = Math.round((now - it.ts) / 86400000);
     if (age > RECENT_DAYS || age < 0) continue;  // 太旧或未来时间
