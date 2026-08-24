@@ -70,10 +70,17 @@ function autoCat(it, srcName) {
   return '企业动态';
 }
 
-async function getText(url) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
-  if (!r.ok) throw new Error('HTTP ' + r.status);
-  return await r.text();
+async function getText(url, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return await r.text();
+    } catch (e) {
+      if (i === retries - 1) throw e;
+      await new Promise((r) => setTimeout(r, 2000 * (i + 1)));
+    }
+  }
 }
 
 // 从文章页抽取第一段作为要点摘要（保证不为空）
@@ -105,6 +112,11 @@ async function deriveDate(link) {
       if (dm) { const d = new Date(dm[1]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
     }
     const text = html.replace(/<[^>]+>/g, ' ');
+    // 中文日期格式（如「2026年8月24日」）：取正文中最大的日期（最新发布日通常 >= 正文提到的其他日期）
+    const cnDates = [...text.matchAll(/\b(\d{4})年(\d{1,2})月(\d{1,2})日\b/g)]
+      .map((m) => new Date(+m[1], +m[2] - 1, +m[3]))
+      .filter((d) => !isNaN(d) && d <= new Date() && d.getFullYear() >= 2015);
+    if (cnDates.length) { cnDates.sort((a, b) => b - a); return cnDates[0]; }
     const months = { january:0,february:1,march:2,april:3,may:4,june:5,july:6,august:7,september:8,october:9,november:10,december:11,jan:0,feb:1,mar:2,apr:3,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11 };
     const pats = [
       /\b([A-Z][a-z]{2,8})\s+(\d{1,2}),?\s+(\d{4})\b/,

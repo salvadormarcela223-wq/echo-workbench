@@ -14,7 +14,7 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const WRITE = process.argv.includes('--write');
 
 // 覆盖你常看的电烟行业公众号 + 通用行业词
-const QUERIES = ['电子烟', '雾化', '蓝洞新消费', '格物消费', '2firsts', '思摩尔', '悦刻', '电子烟 出海', 'PMTA', '雾化器', '电子雾圈', '维思雾化出海', '雾谷圈', '雾化派', '一色观察', '反常识研究所', '蒸汽新消费', '电子烟资讯', '电子烟在线', '雾化新势力', '雾化观察', '电子雾化资讯'];
+const QUERIES = ['电子烟', '雾化', '蓝洞新消费', '格物消费', '2firsts', '思摩尔', '悦刻', '电子烟 出海', 'PMTA', '雾化器', '电子雾圈', '维思雾化出海', '雾谷圈', '雾化派', '一色观察', '反常识研究所', '蒸汽新消费', '电子烟资讯', '电子烟在线', '雾化新势力', '雾化观察', '电子雾化资讯', '雾次方', 'Steve全球雾化观察局'];
 const INDUSTRY = /电子烟|雾化|烟油|PMTA|烟草|合规|门店|渠道|出海|代工|悦刻|思摩尔|FEELM|蓝洞|格物|2firsts|vape|vaping|新型烟草|加热不燃烧|HNB|烟弹|雾化器|国标|监管|RELX|思摩尔国际|新消费/i;
 const ACCOUNT_OK = /蓝洞|格物|2firsts|雾次方|合普|FEELM|思摩尔|悦刻|电子烟|雾化|vape|vaping|新势力|新消费|电子雾圈|维思雾化出海|雾谷圈|雾化派|一色观察|反常识研究所|电子烟资讯|电子烟在线|蒸汽新消费/i;
 const ACCOUNT_BLOCK = /禁毒|绿剑|公安|警方|健康科普|生活|情感|酸菜|四十七度|翠花|育儿|美食|时尚|八卦|娱乐|养生|人民日报|央视|新华/i; // 非行业媒体直接排除
@@ -43,32 +43,43 @@ function tsOf(html) {
 }
 
 async function search(q) {
-  const url = 'https://weixin.sogou.com/weixin?type=2&query=' + encodeURIComponent(q);
-  const html = await getText(url);
-  if (/验证码|访问过于频繁|antipat/.test(html)) {
-    console.log(`  ⚠️ 搜狗频限，跳过「${q}」（不影响其他版块，下次运行会补）`);
-    return [];
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const url = 'https://weixin.sogou.com/weixin?type=2&query=' + encodeURIComponent(q);
+    let html = '';
+    try { html = await getText(url); }
+    catch (e) {
+      if (attempt === 2) { console.log(`  · 搜「${q}」网络失败: ${e.message}`); return []; }
+      await new Promise((r) => setTimeout(r, 5000 * (attempt + 1)));
+      continue;
+    }
+    if (/验证码|访问过于频繁|antipat/.test(html)) {
+      if (attempt === 2) { console.log(`  ⚠️ 搜狗频限，跳过「${q}」（下次运行会补）`); return []; }
+      console.log(`  · 搜「${q}」频限，${5 * (attempt + 1)}s 后重试(${attempt + 1}/3)...`);
+      await new Promise((r) => setTimeout(r, 5000 * (attempt + 1)));
+      continue;
+    }
+    const out = [];
+    const blocks = html.split(/<li id="sogou_vr_11002601_box_/).slice(1);
+    for (const b of blocks) {
+      try {
+        const aTag = b.match(/<a[^>]*uigs="article_title_\d+"[^>]*>/);
+        if (!aTag) continue;
+        const hm = aTag[0].match(/href="([^"]+)"/);
+        const href = hm ? hm[1] : '';
+        const ttm = b.match(/uigs="article_title_\d+"[^>]*>([\s\S]*?)<\/a>/);
+        const title = ttm ? clean(ttm[1]) : '';
+        if (!title || !href) continue;
+        const sa = b.match(/class="txt-info"[^>]*>([\s\S]*?)<\/p>/);
+        const summary = sa ? clean(sa[1]) : '';
+        const na = b.match(/class="all-time-y2">([^<]+)<\/span>/);
+        const account = na ? clean(na[1]) : '微信公众号';
+        const ts = tsOf(b);
+        out.push({ title, href, summary, account, ts });
+      } catch (e) { /* 单条失败忽略 */ }
+    }
+    return out;
   }
-  const out = [];
-  const blocks = html.split(/<li id="sogou_vr_11002601_box_/).slice(1);
-  for (const b of blocks) {
-    try {
-      const aTag = b.match(/<a[^>]*uigs="article_title_\d+"[^>]*>/);
-      if (!aTag) continue;
-      const hm = aTag[0].match(/href="([^"]+)"/);
-      const href = hm ? hm[1] : '';
-      const ttm = b.match(/uigs="article_title_\d+"[^>]*>([\s\S]*?)<\/a>/);
-      const title = ttm ? clean(ttm[1]) : '';
-      if (!title || !href) continue;
-      const sa = b.match(/class="txt-info"[^>]*>([\s\S]*?)<\/p>/);
-      const summary = sa ? clean(sa[1]) : '';
-      const na = b.match(/class="all-time-y2">([^<]+)<\/span>/);
-      const account = na ? clean(na[1]) : '微信公众号';
-      const ts = tsOf(b);
-      out.push({ title, href, summary, account, ts });
-    } catch (e) { /* 单条失败忽略 */ }
-  }
-  return out;
+  return [];
 }
 
 (async () => {
@@ -82,7 +93,7 @@ async function search(q) {
     } catch (e) {
       console.log(`· 搜「${q}」失败: ${e.message}`);
     }
-    await new Promise((r) => setTimeout(r, 1500)); // 降低频限风险
+    await new Promise((r) => setTimeout(r, 4000)); // 加大间隔，降低搜狗频限风险
   }
 
   // 去重 + 过滤（近30天 + 行业相关 + 非社会新闻）
