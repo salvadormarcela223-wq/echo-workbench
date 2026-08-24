@@ -20918,5 +20918,735 @@
     "p": "/ˈdeɪtɪŋ/",
     "t": "约会；标注日期",
     "en": "going on dates; marking with a date"
+  },
+  "surrogacy": {
+    "p": "/ˈsʌrəɡəsi/",
+    "t": "代孕",
+    "en": "the practice of a woman carrying a child for another couple or person"
+  },
+  "medically": {
+    "p": "/ˈmedɪkli/",
+    "t": "医学上",
+    "en": "in a medical way; relating to medicine"
+  },
+  "necessary": {
+    "p": "/ˈnesəsəri/",
+    "t": "必要的",
+    "en": "needed; required"
+  },
+  "elective": {
+    "p": "/ɪˈlektɪv/",
+    "t": "选修的；非急需的",
+    "en": "chosen by choice; not urgent"
+  },
+  "impossible": {
+    "p": "/ɪmˈpɒsəbl/",
+    "t": "不可能的",
+    "en": "not possible"
+  },
+  "pregnancy": {
+    "p": "/ˈpreɡnənsi/",
+    "t": "怀孕",
+    "en": "the state of being pregnant"
+  },
+  "physically": {
+    "p": "/ˈfɪzɪkli/",
+    "t": "身体上",
+    "en": "in a physical way; concerning the body"
+  },
+  "disfiguring": {
+    "p": "/dɪsˈfɪɡərɪŋ/",
+    "t": "毁容的",
+    "en": "spoiling the appearance of"
+  },
+  "disabling": {
+    "p": "/dɪsˈeɪblɪŋ/",
+    "t": "使残疾的",
+    "en": "causing disability"
+  },
+  "fortunate": {
+    "p": "/ˈfɔːtʃənət/",
+    "t": "幸运的",
+    "en": "lucky; having good fortune"
+  },
+  "afford": {
+    "p": "/əˈfɔːd/",
+    "t": "负担得起",
+    "en": "to have enough money or resources for"
+  },
+  "surrogate": {
+    "p": "/ˈsʌrəɡət/",
+    "t": "代孕者",
+    "en": "a woman who carries a child for another"
+  },
+  "reputable": {
+    "p": "/ˈrepjətəbl/",
+    "t": "声誉好的",
+    "en": "having a good reputation"
+  },
+  "frowned": {
+    "p": "/fraʊnd/",
+    "t": "皱眉；不赞成",
+    "en": "expressed disapproval"
+  },
+  "unethical": {
+    "p": "/ʌnˈeθɪkl/",
+    "t": "不道德的",
+    "en": "not morally right"
+  },
+  "gestation": {
+    "p": "/dʒeˈsteɪʃn/",
+    "t": "妊娠期",
+    "en": "the period of carrying a baby in the womb"
+  },
+  "coerced": {
+    "p": "/kəʊˈɜːst/",
+    "t": "被强迫的",
+    "en": "forced to do something"
+  },
+  "ethically": {
+    "p": "/ˈeθɪkli/",
+    "t": "道德上",
+    "en": "in a moral way"
+  },
+  "judged": {
+    "p": "/dʒʌdʒd/",
+    "t": "被评判",
+    "en": "formed an opinion about"
+  },
+  "unnatural": {
+    "p": "/ʌnˈnætʃrəl/",
+    "t": "不自然的",
+    "en": "not natural; abnormal"
+  },
+  "selfish": {
+    "p": "/ˈselfɪʃ/",
+    "t": "自私的",
+    "en": "caring only about oneself"
+  },
+  "unwomanly": {
+    "p": "/ʌnˈwʊmənli/",
+    "t": "不像女人的",
+    "en": "not typical of a woman"
+  },
+  "vessel": {
+    "p": "/ˈvesl/",
+    "t": "容器",
+    "en": "a container; a person regarded as a holder"
+  },
+  "unpleasant": {
+    "p": "/ʌnˈpleznt/",
+    "t": "令人不快的",
+    "en": "not pleasant"
+  },
+  "uniquely": {
+    "p": "/juˈniːkli/",
+    "t": "独特地",
+    "en": "in a unique way"
+  },
+  "genuinely": {
+    "p": "/ˈdʒenjuɪnli/",
+    "t": "真正地",
+    "en": "truly; sincerely"
+  },
+  "devote": {
+    "p": "/dɪˈvəʊt/",
+    "t": "奉献",
+    "en": "to give time or effort to something"
+  },
+  "childbearing": {
+    "p": "/ˈtʃaɪldbeərɪŋ/",
+    "t": "生育",
+    "en": "the act of giving birth"
+  },
+  "deemed": {
+    "p": "/diːmd/",
+    "t": "被认为",
+    "en": "considered; judged"
+  },
+  "garbage": {
+    "p": "/ˈɡɑːbɪdʒ/",
+    "t": "垃圾",
+    "en": "waste material; nonsense"
+  },
+  "patriarchal": {
+    "p": "/ˌpeɪtriˈɑːkl/",
+    "t": "父权制的",
+    "en": "relating to a system where men hold power"
+  },
+  "construct": {
+    "p": "/ˈkɒnstrʌkt/",
+    "t": "概念；建构",
+    "en": "an idea or concept built from social influences"
+  },
+  "gestate": {
+    "p": "/dʒeˈsteɪt/",
+    "t": "孕育",
+    "en": "to carry a baby in the womb"
+  },
+  "reflecting": {
+    "p": "/rɪˈflektɪŋ/",
+    "t": "反映",
+    "en": "showing; mirroring"
+  },
+  "sexist": {
+    "p": "/ˈseksɪst/",
+    "t": "性别歧视的",
+    "en": "discriminating based on gender"
+  },
+  "reproductive": {
+    "p": "/ˌriːprəˈdʌktɪv/",
+    "t": "生殖的",
+    "en": "relating to reproduction"
+  },
+  "labor": {
+    "p": "/ˈleɪbə/",
+    "t": "劳动；分娩",
+    "en": "work; the process of giving birth"
+  },
+  "justifiable": {
+    "p": "/ˈdʒʌstɪfaɪəbl/",
+    "t": "可辩护的",
+    "en": "able to be justified; reasonable"
+  },
+  "monolithic": {
+    "p": "/ˌmɒnəˈlɪθɪk/",
+    "t": "单一的；铁板一块的",
+    "en": "large and uniform; lacking variety"
+  },
+  "distinction": {
+    "p": "/dɪˈstɪŋkʃn/",
+    "t": "区别",
+    "en": "a difference or contrast"
+  },
+  "carry": {
+    "p": "/ˈkæri/",
+    "t": "携带；怀孕",
+    "en": "to hold or support; to be pregnant with"
+  },
+  "altruistic": {
+    "p": "/ˌæltruˈɪstɪk/",
+    "t": "利他的",
+    "en": "unselfish; concerned for others"
+  },
+  "unpaid": {
+    "p": "/ˌʌnˈpeɪd/",
+    "t": "未支付的",
+    "en": "not paid"
+  },
+  "literal": {
+    "p": "/ˈlɪtərəl/",
+    "t": "字面的",
+    "en": "exact meaning; not figurative"
+  },
+  "intuition": {
+    "p": "/ˌɪntjuˈɪʃn/",
+    "t": "直觉",
+    "en": "the ability to understand without reasoning"
+  },
+  "lucky": {
+    "p": "/ˈlʌki/",
+    "t": "幸运的",
+    "en": "having good luck"
+  },
+  "opting": {
+    "p": "/ˈɒptɪŋ/",
+    "t": "选择",
+    "en": "choosing"
+  },
+  "commodification": {
+    "p": "/kəˌmɒdɪfɪˈkeɪʃn/",
+    "t": "商品化",
+    "en": "the act of treating something as a commodity"
+  },
+  "booming": {
+    "p": "/ˈbuːmɪŋ/",
+    "t": "繁荣的",
+    "en": "growing rapidly; thriving"
+  },
+  "versus": {
+    "p": "/ˈvɜːsəs/",
+    "t": "与...相对",
+    "en": "against; compared with"
+  },
+  "refers": {
+    "p": "/rɪˈfɜːz/",
+    "t": "提及",
+    "en": "mentions; relates to"
+  },
+  "knower": {
+    "p": "/ˈnəʊə/",
+    "t": "知晓者",
+    "en": "a person who knows"
+  },
+  "risky": {
+    "p": "/ˈrɪski/",
+    "t": "有风险的",
+    "en": "involving risk"
+  },
+  "agencies": {
+    "p": "/ˈeɪdʒənsiz/",
+    "t": "代理机构",
+    "en": "organizations providing services"
+  },
+  "recruit": {
+    "p": "/rɪˈkruːt/",
+    "t": "招募",
+    "en": "to enroll or enlist"
+  },
+  "domestic": {
+    "p": "/dəˈmestɪk/",
+    "t": "家庭的",
+    "en": "relating to home or family"
+  },
+  "violence": {
+    "p": "/ˈvaɪələns/",
+    "t": "暴力",
+    "en": "physical force intended to hurt"
+  },
+  "shelters": {
+    "p": "/ˈʃeltəz/",
+    "t": "庇护所",
+    "en": "places providing refuge"
+  },
+  "abusive": {
+    "p": "/əˈbjuːsɪv/",
+    "t": "虐待的",
+    "en": "using cruel or violent treatment"
+  },
+  "spouse": {
+    "p": "/spaʊs/",
+    "t": "配偶",
+    "en": "a husband or wife"
+  },
+  "problematic": {
+    "p": "/ˌprɒbləˈmætɪk/",
+    "t": "有问题的",
+    "en": "causing difficulty or doubt"
+  },
+  "surrogates": {
+    "p": "/ˈsʌrəɡəts/",
+    "t": "代孕者（复数）",
+    "en": "women who carry children for others"
+  },
+  "typically": {
+    "p": "/ˈtɪpɪkli/",
+    "t": "通常",
+    "en": "in a typical manner"
+  },
+  "lowincome": {
+    "p": "/ˌləʊˈɪnkʌm/",
+    "t": "低收入的",
+    "en": "having little income"
+  },
+  "husbands": {
+    "p": "/ˈhʌzbəndz/",
+    "t": "丈夫（复数）",
+    "en": "male spouses"
+  },
+  "screen": {
+    "p": "/skriːn/",
+    "t": "筛选",
+    "en": "to examine or check for suitability"
+  },
+  "coercion": {
+    "p": "/kəʊˈɜːʃn/",
+    "t": "强迫",
+    "en": "the act of forcing someone"
+  },
+  "biologically": {
+    "p": "/ˌbaɪəˈlɒdʒɪkli/",
+    "t": "生物学上",
+    "en": "in a biological sense"
+  },
+  "absolute": {
+    "p": "/ˈæbsəluːt/",
+    "t": "绝对的",
+    "en": "complete; total"
+  },
+  "obligated": {
+    "p": "/ˈɒblɪɡeɪtɪd/",
+    "t": "有义务的",
+    "en": "required to do something"
+  },
+  "ensure": {
+    "p": "/ɪnˈʃʊə/",
+    "t": "确保",
+    "en": "to make certain"
+  },
+  "donors": {
+    "p": "/ˈdəʊnəz/",
+    "t": "捐赠者",
+    "en": "people who give something"
+  },
+  "sperm": {
+    "p": "/spɜːm/",
+    "t": "精子",
+    "en": "the male reproductive cell"
+  },
+  "participate": {
+    "p": "/pɑːˈtɪsɪpeɪt/",
+    "t": "参与",
+    "en": "to take part"
+  },
+  "restricted": {
+    "p": "/rɪˈstrɪktɪd/",
+    "t": "受限制的",
+    "en": "limited"
+  },
+  "unable": {
+    "p": "/ʌnˈeɪbl/",
+    "t": "不能的",
+    "en": "not able"
+  },
+  "doctors": {
+    "p": "/ˈdɒktəz/",
+    "t": "医生（复数）",
+    "en": "medical professionals"
+  },
+  "indication": {
+    "p": "/ˌɪndɪˈkeɪʃn/",
+    "t": "指征",
+    "en": "a sign or reason for treatment"
+  },
+  "meets": {
+    "p": "/miːts/",
+    "t": "满足",
+    "en": "satisfies"
+  },
+  "criteria": {
+    "p": "/kraɪˈtɪəriə/",
+    "t": "标准",
+    "en": "standards for judging"
+  },
+  "consent": {
+    "p": "/kənˈsent/",
+    "t": "同意",
+    "en": "permission"
+  },
+  "trickier": {
+    "p": "/ˈtrɪkiə/",
+    "t": "更棘手的",
+    "en": "more difficult or complicated"
+  },
+  "refuse": {
+    "p": "/rɪˈfjuːz/",
+    "t": "拒绝",
+    "en": "to say no"
+  },
+  "indicated": {
+    "p": "/ˈɪndɪkeɪtɪd/",
+    "t": "表明；需要",
+    "en": "suggested; recommended"
+  },
+  "recognizing": {
+    "p": "/ˈrekəɡnaɪzɪŋ/",
+    "t": "认识到",
+    "en": "acknowledging"
+  },
+  "associated": {
+    "p": "/əˈsəʊsieɪtɪd/",
+    "t": "相关联的",
+    "en": "connected with"
+  },
+  "vanity": {
+    "p": "/ˈvænəti/",
+    "t": "虚荣",
+    "en": "excessive pride in appearance"
+  },
+  "celebrity": {
+    "p": "/səˈlebrəti/",
+    "t": "名人",
+    "en": "a famous person"
+  },
+  "cosmetic": {
+    "p": "/kɒzˈmetɪk/",
+    "t": "美容的",
+    "en": "relating to appearance"
+  },
+  "deathly": {
+    "p": "/ˈdeθli/",
+    "t": "致命的；极度的",
+    "en": "like death; extremely"
+  },
+  "traumatic": {
+    "p": "/trɔːˈmætɪk/",
+    "t": "创伤性的",
+    "en": "causing severe emotional shock"
+  },
+  "childbirth": {
+    "p": "/ˈtʃaɪldbɜːθ/",
+    "t": "分娩",
+    "en": "the act of giving birth"
+  },
+  "trans": {
+    "p": "/trænz/",
+    "t": "跨性别的",
+    "en": "relating to transgender"
+  },
+  "gender": {
+    "p": "/ˈdʒendə/",
+    "t": "性别",
+    "en": "the state of being male or female"
+  },
+  "dysphoria": {
+    "p": "/dɪsˈfɔːriə/",
+    "t": "烦躁不安",
+    "en": "a feeling of unease or dissatisfaction"
+  },
+  "hypothetical": {
+    "p": "/ˌhaɪpəˈθetɪkl/",
+    "t": "假设的",
+    "en": "based on a hypothesis"
+  },
+  "testified": {
+    "p": "/ˈtestɪfaɪd/",
+    "t": "作证",
+    "en": "gave evidence in court"
+  },
+  "suspect": {
+    "p": "/səˈspekt/",
+    "t": "怀疑",
+    "en": "to believe something is possible"
+  },
+  "endured": {
+    "p": "/ɪnˈdjʊəd/",
+    "t": "忍受",
+    "en": "suffered through"
+  },
+  "contemporary": {
+    "p": "/kənˈtemprəri/",
+    "t": "当代的",
+    "en": "modern; of the present time"
+  },
+  "assess": {
+    "p": "/əˈses/",
+    "t": "评估",
+    "en": "to evaluate"
+  },
+  "interpretive": {
+    "p": "/ɪnˈtɜːprɪtɪv/",
+    "t": "解释的",
+    "en": "relating to interpretation"
+  },
+  "wronged": {
+    "p": "/rɒŋd/",
+    "t": "被冤枉的",
+    "en": "treated unfairly"
+  },
+  "lasting": {
+    "p": "/ˈlɑːstɪŋ/",
+    "t": "持久的",
+    "en": "continuing for a long time"
+  },
+  "disfigurement": {
+    "p": "/dɪsˈfɪɡəmənt/",
+    "t": "毁容",
+    "en": "damage to appearance"
+  },
+  "wellresourced": {
+    "p": "/ˌwel rɪˈsɔːst/",
+    "t": "资源充足的",
+    "en": "having many resources"
+  },
+  "psychologically": {
+    "p": "/ˌsaɪkəˈlɒdʒɪkli/",
+    "t": "心理上",
+    "en": "in a psychological way"
+  },
+  "spiritually": {
+    "p": "/ˈspɪrɪtʃuəli/",
+    "t": "精神上",
+    "en": "in a spiritual way"
+  },
+  "enduring": {
+    "p": "/ɪnˈdjʊərɪŋ/",
+    "t": "持久的",
+    "en": "lasting"
+  },
+  "transferring": {
+    "p": "/trænsˈfɜːrɪŋ/",
+    "t": "转移",
+    "en": "moving from one place to another"
+  },
+  "irrelevant": {
+    "p": "/ɪˈreləvənt/",
+    "t": "无关的",
+    "en": "not related"
+  },
+  "desperation": {
+    "p": "/ˌdespəˈreɪʃn/",
+    "t": "绝望",
+    "en": "a state of despair"
+  },
+  "stake": {
+    "p": "/steɪk/",
+    "t": "利害关系",
+    "en": "something at risk"
+  },
+  "obviously": {
+    "p": "/ˈɒbviəsli/",
+    "t": "显然",
+    "en": "clearly"
+  },
+  "significant": {
+    "p": "/sɪɡˈnɪfɪkənt/",
+    "t": "重要的",
+    "en": "important; meaningful"
+  },
+  "bubbling": {
+    "p": "/ˈbʌblɪŋ/",
+    "t": "冒泡的",
+    "en": "rising in bubbles; lively"
+  },
+  "reasonable": {
+    "p": "/ˈriːznəbl/",
+    "t": "合理的",
+    "en": "fair; sensible"
+  },
+  "inquire": {
+    "p": "/ɪnˈkwaɪə/",
+    "t": "询问",
+    "en": "to ask"
+  },
+  "considerable": {
+    "p": "/kənˈsɪdərəbl/",
+    "t": "相当大的",
+    "en": "large in amount"
+  },
+  "interrogate": {
+    "p": "/ɪnˈterəɡeɪt/",
+    "t": "审问；质问",
+    "en": "to question formally"
+  },
+  "equal": {
+    "p": "/ˈiːkwəl/",
+    "t": "平等的",
+    "en": "same in value or status"
+  },
+  "honesty": {
+    "p": "/ˈɒnəsti/",
+    "t": "诚实",
+    "en": "the quality of being truthful"
+  },
+  "selfcompassion": {
+    "p": "/ˌself kəmˈpæʃn/",
+    "t": "自我同情",
+    "en": "kindness towards oneself"
+  },
+  "compels": {
+    "p": "/kəmˈpelz/",
+    "t": "迫使",
+    "en": "forces"
+  },
+  "putting": {
+    "p": "/ˈpʊtɪŋ/",
+    "t": "放置",
+    "en": "placing"
+  },
+  "discounting": {
+    "p": "/ˈdɪskaʊntɪŋ/",
+    "t": "忽视",
+    "en": "ignoring or underestimating"
+  },
+  "legitimate": {
+    "p": "/lɪˈdʒɪtɪmət/",
+    "t": "合法的；合理的",
+    "en": "lawful; reasonable"
+  },
+  "boxed": {
+    "p": "/bɒkst/",
+    "t": "被限制的",
+    "en": "confined or categorized"
+  },
+  "interpreter": {
+    "p": "/ɪnˈtɜːprɪtə/",
+    "t": "解释者",
+    "en": "a person who explains or translates"
+  },
+  "interpreterinchief": {
+    "p": "/ɪnˈtɜːprɪtə ɪn tʃiːf/",
+    "t": "首席解释者",
+    "en": "the main interpreter"
+  },
+  "implies": {
+    "p": "/ɪmˈplaɪz/",
+    "t": "暗示",
+    "en": "suggests"
+  },
+  "horrifying": {
+    "p": "/ˈhɒrɪfaɪɪŋ/",
+    "t": "令人恐惧的",
+    "en": "causing horror"
+  },
+  "fertility": {
+    "p": "/fəˈtɪləti/",
+    "t": "生育能力",
+    "en": "the ability to produce children"
+  },
+  "captures": {
+    "p": "/ˈkæptʃəz/",
+    "t": "捕捉",
+    "en": "takes hold of; represents"
+  },
+  "dissonance": {
+    "p": "/ˈdɪsənəns/",
+    "t": "不协调",
+    "en": "lack of harmony"
+  },
+  "mistaken": {
+    "p": "/mɪˈsteɪkən/",
+    "t": "错误的",
+    "en": "wrong in opinion"
+  },
+  "surprising": {
+    "p": "/səˈpraɪzɪŋ/",
+    "t": "令人惊讶的",
+    "en": "causing surprise"
+  },
+  "maddening": {
+    "p": "/ˈmædnɪŋ/",
+    "t": "令人发狂的",
+    "en": "extremely annoying"
+  },
+  "colonial": {
+    "p": "/kəˈləʊniəl/",
+    "t": "殖民的",
+    "en": "relating to colonies"
+  },
+  "legacy": {
+    "p": "/ˈleɡəsi/",
+    "t": "遗产",
+    "en": "something handed down"
+  },
+  "drilled": {
+    "p": "/drɪld/",
+    "t": "训练；灌输",
+    "en": "trained repeatedly; instilled"
+  },
+  "tragedy": {
+    "p": "/ˈtrædʒədi/",
+    "t": "悲剧",
+    "en": "a sad event"
+  },
+  "dragging": {
+    "p": "/ˈdræɡɪŋ/",
+    "t": "拖累",
+    "en": "pulling along; prolonging"
+  },
+  "exploded": {
+    "p": "/ɪkˈspləʊdɪd/",
+    "t": "爆炸；激增",
+    "en": "blew up; increased rapidly"
+  },
+  "deepfake": {
+    "p": "/ˈdiːpfeɪk/",
+    "t": "深度伪造",
+    "en": "a realistic fake video or image"
+  },
+  "nudes": {
+    "p": "/njuːdz/",
+    "t": "裸照",
+    "en": "naked photographs"
   }
 }
