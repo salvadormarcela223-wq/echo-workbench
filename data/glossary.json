@@ -21648,5 +21648,640 @@
     "p": "/njuːdz/",
     "t": "裸照",
     "en": "naked photographs"
+  },
+  "frenzy": {
+    "p": "/ˈfrenzi/",
+    "t": "疯狂；狂热",
+    "en": "a state of wild excitement or agitation"
+  },
+  "racism": {
+    "p": "/ˈreɪsɪzəm/",
+    "t": "种族主义",
+    "en": "prejudice or discrimination based on race"
+  },
+  "academia": {
+    "p": "/ˌækəˈdiːmiə/",
+    "t": "学术界",
+    "en": "the environment or community concerned with higher education and research"
+  },
+  "memorial": {
+    "p": "/məˈmɔːriəl/",
+    "t": "纪念碑；纪念的",
+    "en": "a structure or event remembering a person or event"
+  },
+  "sociology": {
+    "p": "/ˌsoʊsiˈɒlədʒi/",
+    "t": "社会学",
+    "en": "the study of society and social behavior"
+  },
+  "youngest": {
+    "p": "/ˈjʌŋɡɪst/",
+    "t": "最年轻的",
+    "en": "superlative of young; least old"
+  },
+  "attracted": {
+    "p": "/əˈtræktɪd/",
+    "t": "吸引；被吸引",
+    "en": "drawn towards; caused to like or be interested"
+  },
+  "widespread": {
+    "p": "/ˈwaɪdspred/",
+    "t": "广泛的；普遍的",
+    "en": "existing or happening over a large area or among many people"
+  },
+  "eventually": {
+    "p": "/ɪˈventʃuəli/",
+    "t": "最终",
+    "en": "in the end; after a long time"
+  },
+  "ranks": {
+    "p": "/ræŋks/",
+    "t": "等级；行列",
+    "en": "positions in a hierarchy; rows of people or things"
+  },
+  "plagiarizing": {
+    "p": "/ˈpleɪdʒəraɪzɪŋ/",
+    "t": "剽窃",
+    "en": "taking someone else's work and passing it off as one's own"
+  },
+  "portions": {
+    "p": "/ˈpɔːʃənz/",
+    "t": "部分；份额",
+    "en": "parts or shares of a whole"
+  },
+  "doctoral": {
+    "p": "/ˈdɒktərəl/",
+    "t": "博士的",
+    "en": "relating to a doctorate or PhD"
+  },
+  "questionable": {
+    "p": "/ˈkwestʃənəbl/",
+    "t": "可疑的；有问题的",
+    "en": "doubtful; uncertain in quality or legitimacy"
+  },
+  "resigning": {
+    "p": "/rɪˈzaɪnɪŋ/",
+    "t": "辞职",
+    "en": "voluntarily leaving a job or position"
+  },
+  "intense": {
+    "p": "/ɪnˈtens/",
+    "t": "强烈的；紧张的",
+    "en": "very strong or extreme in degree"
+  },
+  "scrutiny": {
+    "p": "/ˈskruːtəni/",
+    "t": "仔细检查；审视",
+    "en": "careful and thorough examination"
+  },
+  "alleged": {
+    "p": "/əˈledʒd/",
+    "t": "被指控的；所谓的",
+    "en": "claimed or asserted without proof"
+  },
+  "plagiarism": {
+    "p": "/ˈpleɪdʒərɪzəm/",
+    "t": "剽窃行为",
+    "en": "the practice of taking someone else's work as one's own"
+  },
+  "examines": {
+    "p": "/ɪɡˈzæmɪnz/",
+    "t": "检查；审查",
+    "en": "inspects or studies closely"
+  },
+  "reflection": {
+    "p": "/rɪˈflekʃn/",
+    "t": "反映；思考",
+    "en": "serious thought or consideration; an image in a mirror"
+  },
+  "convey": {
+    "p": "/kənˈveɪ/",
+    "t": "传达；表达",
+    "en": "to communicate or make known"
+  },
+  "finite": {
+    "p": "/ˈfaɪnaɪt/",
+    "t": "有限的",
+    "en": "having limits or bounds"
+  },
+  "conservatives": {
+    "p": "/kənˈsɜːvətɪvz/",
+    "t": "保守派",
+    "en": "people who favor traditional views and oppose change"
+  },
+  "institutions": {
+    "p": "/ˌɪnstɪˈtjuːʃənz/",
+    "t": "机构；制度",
+    "en": "organizations or established systems"
+  },
+  "serial": {
+    "p": "/ˈsɪəriəl/",
+    "t": "连续的；系列的",
+    "en": "occurring in a series; repeated"
+  },
+  "fabulist": {
+    "p": "/ˈfæbjəlɪst/",
+    "t": "寓言作家；说谎者",
+    "en": "a person who invents or tells stories, often false"
+  },
+  "implausible": {
+    "p": "/ɪmˈplɔːzəbl/",
+    "t": "难以置信的",
+    "en": "not seeming reasonable or probable"
+  },
+  "array": {
+    "p": "/əˈreɪ/",
+    "t": "一系列；排列",
+    "en": "an impressive display or range of things"
+  },
+  "illiterate": {
+    "p": "/ɪˈlɪtərət/",
+    "t": "文盲的；不识字的",
+    "en": "unable to read or write"
+  },
+  "flatter": {
+    "p": "/ˈflætə/",
+    "t": "奉承；使显得更好",
+    "en": "to praise insincerely or make look more attractive"
+  },
+  "vanities": {
+    "p": "/ˈvænətiz/",
+    "t": "虚荣；自负",
+    "en": "excessive pride in one's appearance or achievements"
+  },
+  "diversity": {
+    "p": "/daɪˈvɜːsəti/",
+    "t": "多样性",
+    "en": "the state of being varied or different"
+  },
+  "overlooked": {
+    "p": "/ˌoʊvəˈlʊkt/",
+    "t": "忽视；俯瞰",
+    "en": "failed to notice; looked over from above"
+  },
+  "flaws": {
+    "p": "/flɔːz/",
+    "t": "缺陷；瑕疵",
+    "en": "imperfections or faults"
+  },
+  "noting": {
+    "p": "/ˈnoʊtɪŋ/",
+    "t": "注意到；指出",
+    "en": "observing or mentioning"
+  },
+  "scandals": {
+    "p": "/ˈskændlz/",
+    "t": "丑闻",
+    "en": "events causing public outrage or disgrace"
+  },
+  "turbocharged": {
+    "p": "/ˈtɜːrboʊtʃɑːrdʒd/",
+    "t": "涡轮增压的；增强的",
+    "en": "equipped with a turbocharger; greatly boosted"
+  },
+  "outlet": {
+    "p": "/ˈaʊtlet/",
+    "t": "出口；媒体渠道",
+    "en": "a means of expression or release; a store selling goods"
+  },
+  "articles": {
+    "p": "/ˈɑːrtɪklz/",
+    "t": "文章；物品",
+    "en": "pieces of writing; items"
+  },
+  "chronicling": {
+    "p": "/ˈkrɒnɪklɪŋ/",
+    "t": "记录；编年史",
+    "en": "recording events in order of time"
+  },
+  "affair": {
+    "p": "/əˈfeər/",
+    "t": "事件；风流韵事",
+    "en": "a matter or event; a romantic relationship outside marriage"
+  },
+  "predisposed": {
+    "p": "/ˌpriːdɪˈspoʊzd/",
+    "t": "预先倾向的",
+    "en": "inclined or susceptible beforehand"
+  },
+  "compelled": {
+    "p": "/kəmˈpeld/",
+    "t": "被迫的；强迫的",
+    "en": "forced or driven to do something"
+  },
+  "backstory": {
+    "p": "/ˈbækstɔːri/",
+    "t": "背景故事",
+    "en": "the history or background of a character or situation"
+  },
+  "imagines": {
+    "p": "/ɪˈmædʒɪnz/",
+    "t": "想象",
+    "en": "forms a mental image of something not present"
+  },
+  "correctly": {
+    "p": "/kəˈrektli/",
+    "t": "正确地",
+    "en": "in a way that is accurate or right"
+  },
+  "elite": {
+    "p": "/ɪˈliːt/",
+    "t": "精英；上层集团",
+    "en": "a select group that is superior in terms of ability or status"
+  },
+  "overlook": {
+    "p": "/ˌoʊvərˈlʊk/",
+    "t": "忽视；俯瞰",
+    "en": "to fail to notice; to have a view from above"
+  },
+  "implausibilities": {
+    "p": "/ɪmˌplɔːzəˈbɪlətiz/",
+    "t": "难以置信之处",
+    "en": "things that are not plausible"
+  },
+  "frustrations": {
+    "p": "/frʌˈstreɪʃənz/",
+    "t": "挫折；沮丧",
+    "en": "feelings of disappointment or annoyance"
+  },
+  "discourse": {
+    "p": "/ˈdɪskɔːrs/",
+    "t": "论述；话语",
+    "en": "written or spoken communication or debate"
+  },
+  "unfolded": {
+    "p": "/ʌnˈfoʊldɪd/",
+    "t": "展开；逐渐展现",
+    "en": "opened or developed gradually"
+  },
+  "tragic": {
+    "p": "/ˈtrædʒɪk/",
+    "t": "悲剧的；悲惨的",
+    "en": "causing great sadness or suffering"
+  },
+  "relatively": {
+    "p": "/ˈrelətɪvli/",
+    "t": "相对地",
+    "en": "in comparison to something else"
+  },
+  "savvy": {
+    "p": "/ˈsævi/",
+    "t": "精明的；有见识的",
+    "en": "shrewd and knowledgeable"
+  },
+  "fabricated": {
+    "p": "/ˈfæbrɪkeɪtɪd/",
+    "t": "捏造的；制造的",
+    "en": "invented or constructed falsely"
+  },
+  "severely": {
+    "p": "/sɪˈvɪərli/",
+    "t": "严重地；严厉地",
+    "en": "to a great degree; harshly"
+  },
+  "autistic": {
+    "p": "/ɔːˈtɪstɪk/",
+    "t": "自闭症的",
+    "en": "relating to autism, a developmental disorder"
+  },
+  "miraculous": {
+    "p": "/mɪˈrækjələs/",
+    "t": "奇迹般的",
+    "en": "extraordinary and seemingly impossible"
+  },
+  "recovery": {
+    "p": "/rɪˈkʌvəri/",
+    "t": "恢复；痊愈",
+    "en": "the process of returning to a normal state"
+  },
+  "sorts": {
+    "p": "/sɔːrts/",
+    "t": "种类；分类",
+    "en": "types or kinds; to arrange by type"
+  },
+  "ailments": {
+    "p": "/ˈeɪlmənts/",
+    "t": "疾病；小病",
+    "en": "minor illnesses or disorders"
+  },
+  "tumor": {
+    "p": "/ˈtjuːmər/",
+    "t": "肿瘤",
+    "en": "an abnormal growth of tissue"
+  },
+  "testicular": {
+    "p": "/teˈstɪkjələr/",
+    "t": "睾丸的",
+    "en": "relating to the testicles"
+  },
+  "epilepsy": {
+    "p": "/ˈepɪlepsi/",
+    "t": "癫痫",
+    "en": "a neurological disorder causing seizures"
+  },
+  "leverage": {
+    "p": "/ˈlevərɪdʒ/",
+    "t": "杠杆；影响力",
+    "en": "power or ability to act effectively; using a lever"
+  },
+  "advancement": {
+    "p": "/ədˈvænsmənt/",
+    "t": "进步；晋升",
+    "en": "progress or promotion"
+  },
+  "understandably": {
+    "p": "/ˌʌndərˈstændəbli/",
+    "t": "可理解地",
+    "en": "in a way that is easy to understand or justify"
+  },
+  "lynched": {
+    "p": "/lɪntʃt/",
+    "t": "被私刑处死",
+    "en": "killed by a mob without legal trial, typically by hanging"
+  },
+  "grotesque": {
+    "p": "/ɡroʊˈtesk/",
+    "t": "怪诞的；丑陋的",
+    "en": "comically or repulsively distorted"
+  },
+  "lynching": {
+    "p": "/ˈlɪntʃɪŋ/",
+    "t": "私刑",
+    "en": "the act of killing by mob action, usually hanging"
+  },
+  "metaphor": {
+    "p": "/ˈmetəfər/",
+    "t": "隐喻",
+    "en": "a figure of speech describing one thing as another"
+  },
+  "hanging": {
+    "p": "/ˈhæŋɪŋ/",
+    "t": "悬挂；绞刑",
+    "en": "suspended from above; execution by rope"
+  },
+  "throwing": {
+    "p": "/ˈθroʊɪŋ/",
+    "t": "投掷",
+    "en": "propelling with force through the air"
+  },
+  "journalistic": {
+    "p": "/ˌdʒɜːrnəˈlɪstɪk/",
+    "t": "新闻业的",
+    "en": "relating to journalism"
+  },
+  "racist": {
+    "p": "/ˈreɪsɪst/",
+    "t": "种族主义者；种族主义的",
+    "en": "a person with racial prejudice; such prejudice"
+  },
+  "imagining": {
+    "p": "/ɪˈmædʒɪnɪŋ/",
+    "t": "想象",
+    "en": "forming mental images or concepts"
+  },
+  "appropriate": {
+    "p": "/əˈproʊpriət/",
+    "t": "适当的；恰当的",
+    "en": "suitable or proper"
+  },
+  "obsession": {
+    "p": "/əbˈseʃən/",
+    "t": "痴迷；困扰",
+    "en": "an unhealthy fixation or preoccupation"
+  },
+  "marketed": {
+    "p": "/ˈmɑːrkɪtɪd/",
+    "t": "营销；推销",
+    "en": "promoted or advertised for sale"
+  },
+  "venerable": {
+    "p": "/ˈvenərəbl/",
+    "t": "值得尊敬的；古老的",
+    "en": "respected due to age or wisdom"
+  },
+  "specials": {
+    "p": "/ˈspeʃəlz/",
+    "t": "特别节目；特价品",
+    "en": "items or programs that are special"
+  },
+  "closeup": {
+    "p": "/ˈkloʊsʌp/",
+    "t": "特写镜头",
+    "en": "a photograph or shot taken at very close range"
+  },
+  "nestled": {
+    "p": "/ˈnesld/",
+    "t": "依偎；安置",
+    "en": "settled comfortably or tucked in"
+  },
+  "excessive": {
+    "p": "/ɪkˈsesɪv/",
+    "t": "过度的",
+    "en": "more than necessary or reasonable"
+  },
+  "memoir": {
+    "p": "/ˈmemwɑːr/",
+    "t": "回忆录",
+    "en": "a narrative of personal experiences"
+  },
+  "poised": {
+    "p": "/pɔɪzd/",
+    "t": " poised 镇定的；准备就绪的",
+    "en": "composed; ready to act"
+  },
+  "splash": {
+    "p": "/splæʃ/",
+    "t": "飞溅；引人注目",
+    "en": "a scattering of liquid; a prominent display"
+  },
+  "inconsistencies": {
+    "p": "/ˌɪnkənˈsɪstənsiz/",
+    "t": "不一致；矛盾",
+    "en": "lack of consistency; contradictions"
+  },
+  "mountaintop": {
+    "p": "/ˈmaʊntəntɒp/",
+    "t": "山顶",
+    "en": "the top of a mountain"
+  },
+  "ripped": {
+    "p": "/rɪpt/",
+    "t": "撕裂的；肌肉发达的",
+    "en": "torn apart; having well-defined muscles"
+  },
+  "unscrupulous": {
+    "p": "/ʌnˈskruːpjələs/",
+    "t": "不道德的；肆无忌惮的",
+    "en": "having no moral principles"
+  },
+  "bravely": {
+    "p": "/ˈbreɪvli/",
+    "t": "勇敢地",
+    "en": "in a courageous manner"
+  },
+  "naturally": {
+    "p": "/ˈnætʃrəli/",
+    "t": "自然地；当然",
+    "en": "in a natural way; of course"
+  },
+  "breath": {
+    "p": "/breθ/",
+    "t": "呼吸；气息",
+    "en": "the air taken in and expelled"
+  },
+  "beneficiary": {
+    "p": "/ˌbenɪˈfɪʃieri/",
+    "t": "受益人",
+    "en": "a person who receives benefits"
+  },
+  "affirmative": {
+    "p": "/əˈfɜːrmətɪv/",
+    "t": "肯定的；积极的",
+    "en": "expressing agreement or support"
+  },
+  "initiatives": {
+    "p": "/ɪˈnɪʃətɪvz/",
+    "t": "倡议；主动性",
+    "en": "plans or actions to achieve something"
+  },
+  "encountered": {
+    "p": "/ɪnˈkaʊntərd/",
+    "t": "遇到；遭遇",
+    "en": "met or came across"
+  },
+  "metaphorically": {
+    "p": "/ˌmetəˈfɒrɪkli/",
+    "t": "隐喻地",
+    "en": "in a metaphorical sense"
+  },
+  "grasp": {
+    "p": "/ɡræsp/",
+    "t": "抓住；理解",
+    "en": "to seize or understand"
+  },
+  "stare": {
+    "p": "/steər/",
+    "t": "凝视",
+    "en": "to look fixedly"
+  },
+  "lovingly": {
+    "p": "/ˈlʌvɪŋli/",
+    "t": "深情地",
+    "en": "with love or affection"
+  },
+  "sympathy": {
+    "p": "/ˈsɪmpəθi/",
+    "t": "同情；赞同",
+    "en": "feeling of pity or understanding"
+  },
+  "encounters": {
+    "p": "/ɪnˈkaʊntərz/",
+    "t": "相遇；遭遇",
+    "en": "meetings or confrontations"
+  },
+  "revolting": {
+    "p": "/rɪˈvoʊltɪŋ/",
+    "t": "令人厌恶的",
+    "en": "disgusting; causing revulsion"
+  },
+  "disadvantaged": {
+    "p": "/ˌdɪsədˈvæntɪdʒd/",
+    "t": "处于劣势的",
+    "en": "lacking normal social or economic opportunities"
+  },
+  "paying": {
+    "p": "/ˈpeɪɪŋ/",
+    "t": "支付；给予",
+    "en": "giving money; yielding a profit"
+  },
+  "showering": {
+    "p": "/ˈʃaʊərɪŋ/",
+    "t": "大量给予；淋浴",
+    "en": "giving abundantly; bathing in a shower"
+  },
+  "accolades": {
+    "p": "/ˈækəleɪdz/",
+    "t": "荣誉；赞扬",
+    "en": "praise or awards"
+  },
+  "fetishizing": {
+    "p": "/ˈfetɪʃaɪzɪŋ/",
+    "t": "迷恋；物化",
+    "en": "treating as an object of obsessive interest"
+  },
+  "selfserving": {
+    "p": "/ˌselfˈsɜːrvɪŋ/",
+    "t": "自私的；利己的",
+    "en": "acting in one's own interest"
+  },
+  "retreated": {
+    "p": "/rɪˈtriːtɪd/",
+    "t": "撤退；退缩",
+    "en": "withdrew or moved back"
+  },
+  "camps": {
+    "p": "/kæmps/",
+    "t": "阵营；营地",
+    "en": "groups with shared beliefs; places for temporary lodging"
+  },
+  "thrown": {
+    "p": "/θroʊn/",
+    "t": "被投掷",
+    "en": "past participle of throw"
+  },
+  "basking": {
+    "p": "/ˈbæskɪŋ/",
+    "t": "沐浴；享受",
+    "en": "enjoying warmth or praise"
+  },
+  "apportioned": {
+    "p": "/əˈpɔːrʃənd/",
+    "t": "分配",
+    "en": "divided and distributed proportionally"
+  },
+  "extremist": {
+    "p": "/ɪkˈstriːmɪst/",
+    "t": "极端主义者",
+    "en": "a person with extreme views"
+  },
+  "versions": {
+    "p": "/ˈvɜːrʒənz/",
+    "t": "版本",
+    "en": "forms or variants"
+  },
+  "selfreflection": {
+    "p": "/ˌselfrɪˈflekʃn/",
+    "t": "自我反思",
+    "en": "contemplation of one's own thoughts and actions"
+  },
+  "impulse": {
+    "p": "/ˈɪmpʌls/",
+    "t": "冲动；推动力",
+    "en": "a sudden urge or force"
+  },
+  "amusing": {
+    "p": "/əˈmjuːzɪŋ/",
+    "t": "有趣的；好笑的",
+    "en": "entertaining or funny"
+  },
+  "sinker": {
+    "p": "/ˈsɪŋkər/",
+    "t": "铅坠；下沉物",
+    "en": "a weight for fishing line; something that sinks"
+  },
+  "objectively": {
+    "p": "/əbˈdʒektɪvli/",
+    "t": "客观地",
+    "en": "in an unbiased way"
+  },
+  "funny": {
+    "p": "/ˈfʌni/",
+    "t": "有趣的；滑稽的",
+    "en": "causing laughter or amusement"
+  },
+  "unfunny": {
+    "p": "/ʌnˈfʌni/",
+    "t": "不好笑的",
+    "en": "not funny"
   }
 }
