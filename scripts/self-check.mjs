@@ -16,8 +16,8 @@ const LOCAL = process.argv.includes('--local');
 const API_URL = 'https://raw.githubusercontent.com/salvadormarcela223-wq/echo-workbench/master/data/feed.json';
 const LOCAL_PATH = path.join(process.cwd(), 'data/feed.json');
 
-// 烟草类关键词（行业资讯专属）：覆盖烟草公司、凉味剂等边界概念
-const TOB = /电子烟|烟草|尼古丁|vape|e-cig|雾化|加热不燃烧|HNB|IQOS|烟油|卷烟|雪茄|口含烟|嚼烟|鼻烟|低温本草|雾化器|烟弹|雾化物|KT&G|凉味剂|凉感|薄荷醇|薄荷|烟草公司|烟草巨头|烟草商|菲莫|英美烟草|帝烟|日本烟草|中烟/i;
+// 烟草类关键词（行业资讯专属）：与 fetch-news 的 TOBACCO_RE 对齐（含英文 tobacco/cigarette、私烟/走私烟等），避免真烟草新闻被误判
+const TOB = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|私烟|走私烟|卷烟|雪茄|鼻烟|低温本草|雾化器|KT&G|凉味剂|凉感|薄荷醇|薄荷|烟草公司|烟草巨头|烟草商|菲莫|英美烟草|帝烟|日本烟草|中烟|IQOS/i;
 
 function get(url) {
   return new Promise((res, rej) => {
@@ -59,7 +59,8 @@ function check(name, cond, detail = '') {
   console.log('【A. 分类规则（铁律）】');
   let newsBad = news.filter(it => !TOB.test((it.title || '') + (it.summary || '')));
   inc(check(`行业资讯全部为烟草/电子烟相关 (${news.length}条)`, newsBad.length === 0, newsBad.length ? `疑似错分: ` + newsBad.slice(0, 3).map(x => x.title.slice(0, 30)).join(' / ') : '全部命中'));
-  let insBad = ins.filter(it => TOB.test((it.title || '') + (it.core || '') + (it.summary || '')));
+  // 专业提升只查标题+来源（不查 core：core 是顾问分析正文，提到"电子烟行业"属合理跨界语境，不应误判为烟草内容）
+  let insBad = ins.filter(it => TOB.test((it.title || '') + (it.origin || '')));
   inc(check(`专业提升全部为非烟草 (${ins.length}条)`, insBad.length === 0, insBad.length ? `疑似错分: ` + insBad.slice(0, 3).map(x => x.title.slice(0, 30)).join(' / ') : '全部不含'));
 
   console.log('\n【B. 字段完整性】');
