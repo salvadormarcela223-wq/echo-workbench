@@ -31,7 +31,7 @@ function clean(s) {
 }
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA|About|Working at Innova|Vacancies|Global Reach|All news|Business|New product development|Download|Newsletter subscription|Careers|Media Kit|Advertise|Contact us|Terms of Use|Privacy Policy|Cookie Policy)$/i;
 // 地区导航页/平台概览页 URL 模式（不是真正的文章或报告）
-const NAV_URL_RE = /\/(?:region|country|platform|about|overview|solutions|services)\/$/i;
+const NAV_URL_RE = /\/(?:region|country|platform|about|overview|solutions|services|topics|careers|subscribe|newsletter|contact|privacy|terms|media-kit|advertise)\/$/i;
 
 // 内容兜底路由：涉及「电子烟 / 烟草 / 尼古丁替代」的只归行业资讯(news)，若误入专业提升则丢弃，由 news 源补充。
 const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟/i;
@@ -40,8 +40,10 @@ function isTobacco(it) {
   return TOBACCO_RE.test(s);
 }
 
-// 感官研究关键词：sensory:true 的源（ScienceDaily 感知/食品）只收命中这些词的文章，统一标「感官研究」标签（聚焦味觉/嗅觉/风味/质地，不捞大脑/视觉等泛感知）
+// 感官研究关键词：sensory:true 的源（ScienceDaily 感知/食品、Google News 感官）只收命中这些词的文章，统一标「感官研究」标签（聚焦味觉/嗅觉/风味/质地，不捞大脑/视觉等泛感知）
 const SENSORY_RE = /sensory|taste|smell|flavor|flavour|olfactory|aroma|texture|mouthfeel|odor|fragrance|味觉|嗅觉|风味|香气|香精|口感|质地|感官/i;
+// 感官源排除词：医疗/疾病/大脑决策类（desc 常含 sensory 字样误伤，如自闭症、大脑决策研究）
+const SENSORY_EXCLUDE = /autism|disease|therapy|clinical|patient|disorder|alzheimer|parkinson|psychiatric|diagnos|brain.*decision|decision.*brain/i;
 
 // 专业提升的自动主题分类：源配置未给 cat/dimension 时，按标题+摘要关键词推断，兜底「行业洞察」
 function autoTopic(text) {
@@ -69,6 +71,13 @@ async function getText(url, timeoutMs = 20000) {
     clearTimeout(t);
     return txt;
   } catch (e) { clearTimeout(t); throw e; }
+}
+// Google News RSS 的链接是跳转链接（news.google.com/rss/articles/...），请求一次拿到真实文章 URL；拿不到返回空
+async function resolveReal(link) {
+  try {
+    const r = await fetch(link, { headers: { 'User-Agent': UA }, redirect: 'follow' });
+    return r.url || '';
+  } catch (e) { return ''; }
 }
 async function deriveSummary(link, fallback) {
   if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
@@ -164,35 +173,43 @@ function readFeed() {
           const add = [];
           for (const it of items) {
             if (seen.has(it.link)) continue;
+            // 感官研究专属源：先用标题+摘要过滤（避免对无关文章做链接解析，省请求）
+            if (s.sensory && (!SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || '')) || SENSORY_EXCLUDE.test(it.title + ' ' + (it.desc || '')))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
+            // Google News RSS 的链接是跳转链接，先解析为真实文章 URL（解析不到就丢弃）
+            let itLink = it.link;
+            if (/news\.google\.com/.test(itLink)) {
+              itLink = await resolveReal(itLink);
+              if (!itLink || /news\.google\.com/.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> Google News 链接解析失败`); continue; }
+            }
             // 过滤地区导航页/平台概览页（不是真正的文章或报告）
-            if (NAV_URL_RE.test(it.link)) { rejected.push(`[${grp}] ${it.title} -> 地区/导航页，非文章(${it.link})`); continue; }
+            if (NAV_URL_RE.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> 地区/导航页，非文章(${itLink})`); continue; }
+            // 栏目/方案路径（Innova /topics/、NielsenIQ /solutions/ 是主题聚合页，非单篇文章）
+            if (/\/topics\/|\/solutions\//.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> 栏目/方案聚合页，非文章`); continue; }
             // 单段路径 = 栏目/导航页（如 Innova /enhanced-by-ai/、PackagingInsights /policy-and-regulation.html），文章页通常 ≥2 段
-            const _up = new URL(it.link, s.url).pathname.replace(/\/+$/, '');
+            const _up = new URL(itLink, s.url).pathname.replace(/\/+$/, '');
             if (_up.split('/').filter(Boolean).length === 1) { rejected.push(`[${grp}] ${it.title} -> 单段栏目页，非文章`); continue; }
             // 内容兜底：涉及烟草/电子烟的内容不归入专业提升（应属行业资讯），直接丢弃由 news 源补充
             if (isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 含烟草/电子烟内容，不归入专业提升（应属行业资讯）`); continue; }
-            // 感官研究专属源：只收感官/风味/感知相关文章，避免无关科学新闻混入
-            if (s.sensory && !SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || ''))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
-            const lq = linkQuality(it.link);
+            const lq = linkQuality(itLink);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
-            const summary = await deriveSummary(it.link, it.desc);
+            const summary = await deriveSummary(itLink, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
             let pubDate = null;
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
-            if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) { } }
+            if (!pubDate) { try { pubDate = await deriveDate(itLink); } catch (e) { } }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
             const ageDays = Math.round((Date.now() - pubDate) / 86400000);
             if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
             add.push({
-              title: it.title, source: s.name, link: it.link,
-              topic: s.cat || s.dimension || (s.sensory ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
+              title: it.title, source: s.name, link: itLink,
+              topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, date: pubDate.toISOString().slice(0, 10),
               core: '', view: '', action: '', origin: s.name,
             });
-            seen.add(it.link);
+            seen.add(itLink);
           }
           const capped = add.slice(0, 3); // 深度分析，每天最多 3 篇
-          feed[grp] = capped.concat(arr).slice(0, 60);
+          feed[grp] = capped.concat(arr).slice(0, 120); // 上限放宽到120，避免挤掉存量内容
           newCount += capped.length;
           if (capped.length) console.log(`  >> 新增 ${capped.length} 条`);
         }
