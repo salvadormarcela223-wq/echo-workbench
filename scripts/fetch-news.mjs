@@ -204,6 +204,8 @@ function parseHTML(html, base, sel) {
             // 质量闸门：链接必须是真实深链
             const lq = (await import('./validate-feed.mjs')).linkQuality(it.link);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
+            // Tobacco Insider 的栏目/品牌页（无日期段的单段 slug，如 /esse/、/china-tobacco-international-news/）不是文章
+            if (/tobaccoinsider\.com/.test(it.link) && !/\/20\d\d\//.test(it.link)) { rejected.push(`[${grp}] ${it.title} -> Tobacco Insider 栏目页非文章`); continue; }
             const summary = await deriveSummary(it.link, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
             // 真实发布日期：RSS/HTML 没给就回源文章页抓，再不行才放弃（绝不伪造日期）

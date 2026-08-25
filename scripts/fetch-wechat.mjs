@@ -74,12 +74,20 @@ async function search(q) {
         const na = b.match(/class="all-time-y2">([^<]+)<\/span>/);
         const account = na ? clean(na[1]) : '微信公众号';
         const ts = tsOf(b);
-        out.push({ title, href, summary, account, ts });
-      } catch (e) { /* 单条失败忽略 */ }
+        out.push({ title, href, summary, account, ts });      } catch (e) { /* 单条失败忽略 */ }
     }
     return out;
   }
   return [];
+}
+
+// 解析搜狗中转链接 → 公众号原文链接（搜狗中转有时效/反爬会失效，原文 mp.weixin.qq.com/s/ 长期有效；解析不到返回空，由上层丢弃，绝不让坏链接进库）
+async function resolveReal(sogouLink) {
+  try {
+    const r = await fetch(sogouLink, { headers: { 'User-Agent': UA, 'Referer': 'https://weixin.sogou.com/' }, redirect: 'follow' });
+    if (r.url && /mp\.weixin\.qq\.com\/s\//.test(r.url)) return r.url;
+  } catch (e) { }
+  return '';
 }
 
 (async () => {
@@ -133,7 +141,9 @@ async function search(q) {
   const existTitles = new Set(draft.news.map((n) => n.title));
   let add = 0;
   for (const it of filtered) {
-    const link = /^https?:/i.test(it.href) ? it.href : 'https://weixin.sogou.com' + it.href;
+    const sogouLink = /^https?:/i.test(it.href) ? it.href : 'https://weixin.sogou.com' + it.href;
+    const link = await resolveReal(sogouLink); // 解析为公众号原文链接，长期有效
+    if (!link) { console.log(`  · 跳过失效/被反爬的微信链接: ${it.title.slice(0, 24)}`); continue; }
     if (existLinks.has(link) || existTitles.has(it.title)) continue;
     draft.news.unshift({
       title: it.title,
