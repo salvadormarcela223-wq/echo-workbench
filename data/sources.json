@@ -24,6 +24,8 @@
     { "name": "Inside FMCG", "url": "https://insidefmcg.com.au/feed/", "type": "rss" },
     { "name": "Food Dive", "url": "https://www.fooddive.com/feeds/news/", "type": "rss" },
     { "name": "Packaging Dive", "url": "https://www.packagingdive.com/feeds/news/", "type": "rss" },
-    { "name": "Just Food", "url": "https://www.just-food.com/feed/", "type": "rss" }
+    { "name": "Just Food", "url": "https://www.just-food.com/feed/", "type": "rss" },
+    { "name": "ScienceDaily 感知", "url": "https://www.sciencedaily.com/rss/mind_brain/perception.xml", "type": "rss", "sensory": true, "region": "全球" },
+    { "name": "ScienceDaily 食品科学", "url": "https://www.sciencedaily.com/rss/plants_animals/food.xml", "type": "rss", "sensory": true, "region": "全球" }
   ]
 }

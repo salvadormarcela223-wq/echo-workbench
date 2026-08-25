@@ -29,7 +29,7 @@ function clean(s) {
     .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
     .replace(/\s+/g, ' ').trim();
 }
-const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA)$/i;
+const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA|About|Working at Innova|Vacancies|Global Reach|All news|Business|New product development|Download|Newsletter subscription|Careers|Media Kit|Advertise|Contact us|Terms of Use|Privacy Policy|Cookie Policy)$/i;
 // 地区导航页/平台概览页 URL 模式（不是真正的文章或报告）
 const NAV_URL_RE = /\/(?:region|country|platform|about|overview|solutions|services)\/$/i;
 
@@ -39,6 +39,9 @@ function isTobacco(it) {
   const s = [it.title, it.summary, it.desc, it.source, it.origin].filter(Boolean).join(' ');
   return TOBACCO_RE.test(s);
 }
+
+// 感官研究关键词：sensory:true 的源（ScienceDaily 感知/食品）只收命中这些词的文章，统一标「感官研究」标签（聚焦味觉/嗅觉/风味/质地，不捞大脑/视觉等泛感知）
+const SENSORY_RE = /sensory|taste|smell|flavor|flavour|olfactory|aroma|texture|mouthfeel|odor|fragrance|味觉|嗅觉|风味|香气|香精|口感|质地|感官/i;
 
 // 专业提升的自动主题分类：源配置未给 cat/dimension 时，按标题+摘要关键词推断，兜底「行业洞察」
 function autoTopic(text) {
@@ -56,10 +59,16 @@ function autoTopic(text) {
   return '行业洞察';
 }
 
-async function getText(url) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
-  if (!r.ok) throw new Error('HTTP ' + r.status);
-  return await r.text();
+async function getText(url, timeoutMs = 20000) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow', signal: ctrl.signal });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const txt = await r.text();
+    clearTimeout(t);
+    return txt;
+  } catch (e) { clearTimeout(t); throw e; }
 }
 async function deriveSummary(link, fallback) {
   if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
@@ -157,8 +166,13 @@ function readFeed() {
             if (seen.has(it.link)) continue;
             // 过滤地区导航页/平台概览页（不是真正的文章或报告）
             if (NAV_URL_RE.test(it.link)) { rejected.push(`[${grp}] ${it.title} -> 地区/导航页，非文章(${it.link})`); continue; }
+            // 单段路径 = 栏目/导航页（如 Innova /enhanced-by-ai/、PackagingInsights /policy-and-regulation.html），文章页通常 ≥2 段
+            const _up = new URL(it.link, s.url).pathname.replace(/\/+$/, '');
+            if (_up.split('/').filter(Boolean).length === 1) { rejected.push(`[${grp}] ${it.title} -> 单段栏目页，非文章`); continue; }
             // 内容兜底：涉及烟草/电子烟的内容不归入专业提升（应属行业资讯），直接丢弃由 news 源补充
             if (isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 含烟草/电子烟内容，不归入专业提升（应属行业资讯）`); continue; }
+            // 感官研究专属源：只收感官/风味/感知相关文章，避免无关科学新闻混入
+            if (s.sensory && !SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || ''))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
             const lq = linkQuality(it.link);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
             const summary = await deriveSummary(it.link, it.desc);
@@ -171,7 +185,7 @@ function readFeed() {
             if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
             add.push({
               title: it.title, source: s.name, link: it.link,
-              topic: s.cat || s.dimension || autoTopic(it.title + ' ' + it.summary), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
+              topic: s.cat || s.dimension || (s.sensory ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, date: pubDate.toISOString().slice(0, 10),
               core: '', view: '', action: '', origin: s.name,
             });

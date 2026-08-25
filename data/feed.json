@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:14:19.635Z",
+  "updatedAt": "2026-08-25T02:44:37.761Z",
   "news": [
     {
       "title": "Disposable Vapes Have Become Public Enemy Number One. Is the Distrust Justified?",
@@ -367,6 +367,51 @@
     }
   ],
   "insights": [
+    {
+      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+      "source": "ScienceDaily 感知",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
+      "topic": "感官研究",
+      "cat": "",
+      "dimension": "",
+      "region": "全球",
+      "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world",
+      "date": "2026-08-18",
+      "core": "大脑中的行进电波可能帮助决定我们注意到什么、预测接下来发生什么，并构建对世界的内部图像，将感官混沌转化为视觉感知。",
+      "view": "对FMCG感官研究而言，这提示消费者感知并非被动接收，而是主动构建。产品感官体验（如口味、香气）需考虑大脑预测机制，通过一致性强化或惊喜设计影响感知偏好。CMI应关注跨感官整合与预期管理，而非单一感官属性测试。",
+      "action": "建议在感官测试中引入预期调节变量，比较明确预期与模糊预期下的感知差异；并利用神经科学工具（如EEG）探索脑波模式与产品偏好关联，优化产品设计以匹配大脑预测机制。",
+      "origin": "ScienceDaily 感知"
+    },
+    {
+      "title": "Scientists boost strawberry flavor and nutrition without changing growth",
+      "source": "ScienceDaily 食品科学",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
+      "topic": "感官研究",
+      "cat": "",
+      "dimension": "",
+      "region": "全球",
+      "summary": "A surprising genetic twist shows that boosting a seemingly ordinary “housekeeping” gene can dramatically improve fruit quality without any trade-offs. By increa",
+      "date": "2026-05-05",
+      "core": "研究发现，增强一个看似普通的“管家基因”可以显著提升草莓的风味和营养，且不影响生长。这打破了传统认知，为改善水果品质提供了新途径。",
+      "view": "对FMCG感官研究而言，风味提升不再局限于传统育种，基因调控可能成为新手段。但消费者对基因改良的接受度是关键，需结合感官测试与消费者洞察，确保市场接受。",
+      "action": "建议关注该技术的商业化潜力，开展消费者对基因改良草莓的接受度调研，并评估其风味改善的实际感官效果，以指导产品开发与市场策略。",
+      "origin": "ScienceDaily 食品科学"
+    },
+    {
+      "title": "The hidden microbes that decide how sourdough tastes",
+      "source": "ScienceDaily 食品科学",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260121034132.htm",
+      "topic": "感官研究",
+      "cat": "",
+      "dimension": "",
+      "region": "全球",
+      "summary": "The microbes living in sourdough starters don’t just appear by chance—they’re shaped by what bakers feed them. New research shows that while the same hardy yeas",
+      "date": "2026-01-21",
+      "core": "酸面团发酵剂中的微生物群落并非随机出现，而是由面包师的喂养方式决定。研究表明，尽管存在相同的耐性酵母，但不同的喂养原料和条件会塑造独特的微生物组成，进而影响最终酸面包的风味特征。",
+      "view": "此洞察对FMCG感官研究具有直接启示：微生物发酵是风味差异化的关键驱动因素，且可通过控制原料和工艺进行定向调控。对于电子烟等雾化产品，类似地，烟油成分和雾化温度等参数可塑造特定的感官体验。CMI应关注微生物组学与风味感知的关联，利用多组学方法预测和优化产品感官属性，实现精准风味设计，满足消费者对复杂、自然风味的追求。",
+      "action": "建议CMI团队启动内部研究项目，探索发酵类产品（如酸面团、饮料等）的微生物组与感官属性的量化关系。与研发部门合作，设计实验对比不同喂养方案下的风味差异，并利用消费者测试验证市场偏好。同时，关注该领域前沿论文，建立知识库，为未来产品创新提供科学依据。",
+      "origin": "ScienceDaily 食品科学"
+    },
     {
       "title": "Packaging companies look to renewables, energy efficiency to reduce costs",
       "source": "Packaging Dive",
