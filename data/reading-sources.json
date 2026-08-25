@@ -1,9 +1,9 @@
 {
   "_spec": "Mix 1（用户已确认）：5 篇 = 1 篇专业(感官科学) + 4 篇通识( TED 人文 / BBC 职场趋势 / Atlantic 城市 / Vox 心理 )。占比 专业:通识 = 1:4。偏职场商务、含出国旅行场景。",
   "sources": [
-    { "name": "BBC Future", "cat": "专业 · 感官科学", "tag": "BBC Future · 感官科学", "professional": true, "url": "https://feeds.bbci.co.uk/future/rss.xml" },
+    { "name": "BBC Future", "cat": "专业 · 感官科学", "tag": "BBC Future · 感官科学", "professional": true, "url": "https://www.bbc.com/future/feed.rss" },
     { "name": "TED", "cat": "TED · 人文", "tag": "TED · 人文", "professional": false, "url": "https://ideas.ted.com/feed/" },
-    { "name": "BBC Worklife", "cat": "BBC · 职场趋势", "tag": "BBC Worklife · 职场趋势", "professional": false, "url": "https://feeds.bbci.co.uk/worklife/rss.xml" },
+    { "name": "BBC Worklife", "cat": "BBC · 职场趋势", "tag": "BBC Worklife · 职场趋势", "professional": false, "url": "https://www.bbc.com/worklife/feed.rss" },
     { "name": "The Atlantic", "cat": "Atlantic · 城市", "tag": "Atlantic · 城市", "professional": false, "url": "https://www.theatlantic.com/feed/all/" },
     { "name": "Vox", "cat": "Vox · 心理", "tag": "Vox · 心理", "professional": false, "url": "https://www.vox.com/rss/index.xml" }
   ]
