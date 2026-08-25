@@ -22923,5 +22923,1395 @@
     "p": "/ʌnˈklɪər/",
     "t": "不清楚的；模糊的",
     "en": "not easy to understand"
+  },
+  "preferred": {
+    "p": "/prɪˈfɜːd/",
+    "t": "更喜欢的；优先的",
+    "en": "liked better; favored"
+  },
+  "hacking": {
+    "p": "/ˈhækɪŋ/",
+    "t": "黑客行为；非法入侵",
+    "en": "the act of gaining unauthorized access to computers"
+  },
+  "ignored": {
+    "p": "/ɪɡˈnɔːd/",
+    "t": "被忽视的；不理睬的",
+    "en": "disregarded or paid no attention to"
+  },
+  "cyber": {
+    "p": "/ˈsaɪbə/",
+    "t": "网络的；与电脑相关的",
+    "en": "relating to computers, internet, or virtual reality"
+  },
+  "criminals": {
+    "p": "/ˈkrɪmɪnlz/",
+    "t": "罪犯；犯罪分子",
+    "en": "people who commit illegal acts"
+  },
+  "worldrenowned": {
+    "p": "/ˌwɜːld rɪˈnaʊnd/",
+    "t": "举世闻名的",
+    "en": "famous all over the world"
+  },
+  "expert": {
+    "p": "/ˈekspɜːt/",
+    "t": "专家；行家",
+    "en": "a person with extensive knowledge or skill"
+  },
+  "software": {
+    "p": "/ˈsɒftweə/",
+    "t": "软件",
+    "en": "programs and operating information used by a computer"
+  },
+  "thats": {
+    "p": "/ðæts/",
+    "t": "那是（that is 的缩写）",
+    "en": "contraction of that is"
+  },
+  "mainstream": {
+    "p": "/ˈmeɪnstriːm/",
+    "t": "主流的",
+    "en": "the prevailing current of thought or influence"
+  },
+  "obsolete": {
+    "p": "/ˈɒbsəliːt/",
+    "t": "过时的；淘汰的",
+    "en": "no longer in use; out of date"
+  },
+  "technical": {
+    "p": "/ˈteknɪkl/",
+    "t": "技术的；专业的",
+    "en": "relating to applied science or practical skills"
+  },
+  "superior": {
+    "p": "/suːˈpɪəriə/",
+    "t": "更好的；优越的",
+    "en": "higher in quality or status"
+  },
+  "perfectly": {
+    "p": "/ˈpɜːfɪktli/",
+    "t": "完美地；完全地",
+    "en": "in a perfect manner; completely"
+  },
+  "secure": {
+    "p": "/sɪˈkjʊə/",
+    "t": "安全的；可靠的",
+    "en": "free from danger or threat"
+  },
+  "switched": {
+    "p": "/swɪtʃt/",
+    "t": "转换；改变",
+    "en": "changed or moved from one thing to another"
+  },
+  "newer": {
+    "p": "/ˈnjuːə/",
+    "t": "更新的；较新的",
+    "en": "more recent or modern"
+  },
+  "realised": {
+    "p": "/ˈrɪəlaɪzd/",
+    "t": "意识到；实现",
+    "en": "became aware of; made real"
+  },
+  "hackers": {
+    "p": "/ˈhækəz/",
+    "t": "黑客；计算机高手",
+    "en": "people who use computers to gain unauthorized access"
+  },
+  "forgetting": {
+    "p": "/fəˈɡetɪŋ/",
+    "t": "忘记；遗忘",
+    "en": "failing to remember"
+  },
+  "antiquity": {
+    "p": "/ænˈtɪkwəti/",
+    "t": "古代；古老",
+    "en": "the ancient past; great age"
+  },
+  "obsolescence": {
+    "p": "/ˌɒbsəˈlesns/",
+    "t": "过时；淘汰",
+    "en": "the process of becoming obsolete"
+  },
+  "counterintuitively": {
+    "p": "/ˌkaʊntərɪnˈtjuːɪtɪvli/",
+    "t": "违反直觉地",
+    "en": "in a way that is contrary to intuition"
+  },
+  "safer": {
+    "p": "/ˈseɪfə/",
+    "t": "更安全的",
+    "en": "more secure or protected"
+  },
+  "alternatives": {
+    "p": "/ɔːlˈtɜːnətɪvz/",
+    "t": "替代方案；备选",
+    "en": "other possible choices"
+  },
+  "stresses": {
+    "p": "/ˈstresɪz/",
+    "t": "强调；压力",
+    "en": "emphasizes; pressures"
+  },
+  "patched": {
+    "p": "/pætʃt/",
+    "t": "打补丁的；修复的",
+    "en": "repaired or updated with a patch"
+  },
+  "optimum": {
+    "p": "/ˈɒptɪməm/",
+    "t": "最佳的；最适宜的",
+    "en": "best or most favorable"
+  },
+  "preferable": {
+    "p": "/ˈprefrəbl/",
+    "t": "更可取的；更好的",
+    "en": "more desirable or suitable"
+  },
+  "standpoint": {
+    "p": "/ˈstændpɔɪnt/",
+    "t": "立场；观点",
+    "en": "a point of view"
+  },
+  "attackers": {
+    "p": "/əˈtækəz/",
+    "t": "攻击者",
+    "en": "people who attack or invade"
+  },
+  "doesnt": {
+    "p": "/ˈdʌznt/",
+    "t": "does not 的缩写",
+    "en": "contraction of does not"
+  },
+  "target": {
+    "p": "/ˈtɑːɡɪt/",
+    "t": "目标；瞄准",
+    "en": "an object of attack or aim"
+  },
+  "groundbased": {
+    "p": "/ˈɡraʊndbeɪst/",
+    "t": "陆基的；地面上的",
+    "en": "based on the ground rather than in the air or space"
+  },
+  "radio": {
+    "p": "/ˈreɪdiəʊ/",
+    "t": "无线电；收音机",
+    "en": "technology of sending signals through electromagnetic waves"
+  },
+  "navigation": {
+    "p": "/ˌnævɪˈɡeɪʃn/",
+    "t": "导航；航行",
+    "en": "the process of determining position and course"
+  },
+  "beacons": {
+    "p": "/ˈbiːkənz/",
+    "t": "信标；灯塔",
+    "en": "signals or devices for guidance"
+  },
+  "supposedly": {
+    "p": "/səˈpəʊzɪdli/",
+    "t": "据说；据称",
+    "en": "according to what is generally believed"
+  },
+  "satellitebased": {
+    "p": "/ˈsætəlaɪtbeɪst/",
+    "t": "基于卫星的",
+    "en": "relying on satellite technology"
+  },
+  "positioning": {
+    "p": "/pəˈzɪʃənɪŋ/",
+    "t": "定位；位置",
+    "en": "the act of determining position"
+  },
+  "proven": {
+    "p": "/ˈpruːvən/",
+    "t": "被证明的；已证实的",
+    "en": "demonstrated to be true or effective"
+  },
+  "susceptible": {
+    "p": "/səˈseptəbl/",
+    "t": "易受影响的；敏感的",
+    "en": "likely to be affected by something"
+  },
+  "jamming": {
+    "p": "/ˈdʒæmɪŋ/",
+    "t": "干扰；堵塞",
+    "en": "interfering with signals or operation"
+  },
+  "beating": {
+    "p": "/ˈbiːtɪŋ/",
+    "t": "击败；打击",
+    "en": "defeating or overcoming"
+  },
+  "cybercriminals": {
+    "p": "/ˈsaɪbəˌkrɪmɪnlz/",
+    "t": "网络罪犯",
+    "en": "criminals who commit crimes using computers or internet"
+  },
+  "enemy": {
+    "p": "/ˈenəmi/",
+    "t": "敌人；仇敌",
+    "en": "a person or group that is hostile"
+  },
+  "emeritus": {
+    "p": "/ɪˈmerɪtəs/",
+    "t": "荣誉退休的",
+    "en": "retired but retaining an honorary title"
+  },
+  "tested": {
+    "p": "/ˈtestɪd/",
+    "t": "经测试的；试验过的",
+    "en": "subjected to testing"
+  },
+  "principle": {
+    "p": "/ˈprɪnsəpl/",
+    "t": "原则；原理",
+    "en": "a fundamental truth or rule"
+  },
+  "accessible": {
+    "p": "/əkˈsesəbl/",
+    "t": "可访问的；易接近的",
+    "en": "able to be reached or used"
+  },
+  "catch": {
+    "p": "/kætʃ/",
+    "t": "抓住；接住；吸引",
+    "en": "seize; capture; attract"
+  },
+  "breach": {
+    "p": "/briːtʃ/",
+    "t": "破坏；漏洞",
+    "en": "a violation or gap in security"
+  },
+  "cybersecurity": {
+    "p": "/ˌsaɪbəsɪˈkjʊərəti/",
+    "t": "网络安全",
+    "en": "protection of computer systems from attacks"
+  },
+  "honeypot": {
+    "p": "/ˈhʌnipɒt/",
+    "t": "蜜罐（诱饵系统）",
+    "en": "a decoy system to attract attackers"
+  },
+  "controlled": {
+    "p": "/kənˈtrəʊld/",
+    "t": "受控的；管理的",
+    "en": "managed or regulated"
+  },
+  "upgraded": {
+    "p": "/ˈʌpɡreɪdɪd/",
+    "t": "升级的；改进的",
+    "en": "improved to a higher version"
+  },
+  "consequently": {
+    "p": "/ˈkɒnsɪkwəntli/",
+    "t": "因此；结果",
+    "en": "as a result"
+  },
+  "bothered": {
+    "p": "/ˈbɒðəd/",
+    "t": "烦扰的；担心的",
+    "en": "worried or annoyed"
+  },
+  "recalls": {
+    "p": "/rɪˈkɔːlz/",
+    "t": "回忆；召回",
+    "en": "remembers; calls back"
+  },
+  "possibility": {
+    "p": "/ˌpɒsəˈbɪləti/",
+    "t": "可能性",
+    "en": "the state of being possible"
+  },
+  "evading": {
+    "p": "/ɪˈveɪdɪŋ/",
+    "t": "逃避；规避",
+    "en": "avoiding or escaping"
+  },
+  "nefarious": {
+    "p": "/nɪˈfeəriəs/",
+    "t": "邪恶的；不法的",
+    "en": "wicked or criminal"
+  },
+  "activity": {
+    "p": "/ækˈtɪvəti/",
+    "t": "活动；行动",
+    "en": "something done; action"
+  },
+  "sticking": {
+    "p": "/ˈstɪkɪŋ/",
+    "t": "坚持；粘贴",
+    "en": "adhering to; continuing with"
+  },
+  "smartphone": {
+    "p": "/ˈsmɑːtfəʊn/",
+    "t": "智能手机",
+    "en": "a mobile phone with advanced features"
+  },
+  "mobile": {
+    "p": "/ˈməʊbaɪl/",
+    "t": "移动的；手机",
+    "en": "portable; a mobile phone"
+  },
+  "questioned": {
+    "p": "/ˈkwestʃənd/",
+    "t": "被质疑的；询问的",
+    "en": "asked or doubted"
+  },
+  "phones": {
+    "p": "/fəʊnz/",
+    "t": "电话；手机",
+    "en": "devices for voice communication"
+  },
+  "flipside": {
+    "p": "/ˈflɪpsaɪd/",
+    "t": "反面；另一面",
+    "en": "the other side or aspect"
+  },
+  "nobodys": {
+    "p": "/ˈnəʊbədiz/",
+    "t": "没有人的（nobody is 的缩写）",
+    "en": "contraction of nobody is"
+  },
+  "techniques": {
+    "p": "/tekˈniːks/",
+    "t": "技术；方法",
+    "en": "skills or methods"
+  },
+  "snoop": {
+    "p": "/snuːp/",
+    "t": "窥探；打探",
+    "en": "to investigate or spy secretly"
+  },
+  "bother": {
+    "p": "/ˈbɒðə/",
+    "t": "打扰；麻烦",
+    "en": "to annoy or cause trouble"
+  },
+  "computers": {
+    "p": "/kəmˈpjuːtəz/",
+    "t": "计算机；电脑",
+    "en": "electronic devices for processing data"
+  },
+  "technologies": {
+    "p": "/tekˈnɒlədʒiz/",
+    "t": "技术；科技",
+    "en": "applications of scientific knowledge"
+  },
+  "electronic": {
+    "p": "/ɪˌlekˈtrɒnɪk/",
+    "t": "电子的",
+    "en": "relating to devices using electricity"
+  },
+  "desirable": {
+    "p": "/dɪˈzaɪərəbl/",
+    "t": "值得拥有的；理想的",
+    "en": "worth having; attractive"
+  },
+  "partly": {
+    "p": "/ˈpɑːtli/",
+    "t": "部分地；在一定程度上",
+    "en": "to some extent"
+  },
+  "paperbased": {
+    "p": "/ˈpeɪpəbeɪst/",
+    "t": "基于纸张的",
+    "en": "using paper as the medium"
+  },
+  "bedrock": {
+    "p": "/ˈbedrɒk/",
+    "t": "基石；基础",
+    "en": "the fundamental basis"
+  },
+  "weaken": {
+    "p": "/ˈwiːkən/",
+    "t": "削弱",
+    "en": "to make or become weaker"
+  },
+  "militaries": {
+    "p": "/ˈmɪlɪtriz/",
+    "t": "军队；军事力量",
+    "en": "armed forces of a country"
+  },
+  "reliability": {
+    "p": "/rɪˌlaɪəˈbɪləti/",
+    "t": "可靠性",
+    "en": "the quality of being dependable"
+  },
+  "laminated": {
+    "p": "/ˈlæmɪneɪtɪd/",
+    "t": "层压的；覆膜的",
+    "en": "coated or bonded in layers"
+  },
+  "compasses": {
+    "p": "/ˈkʌmpəsɪz/",
+    "t": "罗盘；指南针",
+    "en": "instruments for determining direction"
+  },
+  "associate": {
+    "p": "/əˈsəʊʃieɪt/",
+    "t": "联想；同事",
+    "en": "to connect in mind; a colleague"
+  },
+  "fellow": {
+    "p": "/ˈfeləʊ/",
+    "t": "同伴；研究员",
+    "en": "a person in the same group; a member of a learned society"
+  },
+  "hitting": {
+    "p": "/ˈhɪtɪŋ/",
+    "t": "打击；达到",
+    "en": "striking or reaching"
+  },
+  "careful": {
+    "p": "/ˈkeəfl/",
+    "t": "小心的；仔细的",
+    "en": "giving attention to avoid harm or mistakes"
+  },
+  "retain": {
+    "p": "/rɪˈteɪn/",
+    "t": "保留；保持",
+    "en": "to keep or continue to have"
+  },
+  "programme": {
+    "p": "/ˈprəʊɡræm/",
+    "t": "计划；程序",
+    "en": "a planned series of events; a computer program (BrE)"
+  },
+  "slowed": {
+    "p": "/sləʊd/",
+    "t": "减慢的；放缓的",
+    "en": "reduced in speed"
+  },
+  "spokeswoman": {
+    "p": "/ˈspəʊkswʊmən/",
+    "t": "女发言人",
+    "en": "a female spokesperson"
+  },
+  "retained": {
+    "p": "/rɪˈteɪnd/",
+    "t": "保留的；聘任的",
+    "en": "kept or employed"
+  },
+  "designing": {
+    "p": "/dɪˈzaɪnɪŋ/",
+    "t": "设计；构思",
+    "en": "creating or planning"
+  },
+  "officer": {
+    "p": "/ˈɒfɪsə/",
+    "t": "军官；官员",
+    "en": "a person in a position of authority"
+  },
+  "dronebased": {
+    "p": "/ˈdrəʊnbeɪst/",
+    "t": "基于无人机的",
+    "en": "using drones (unmanned aircraft)"
+  },
+  "communications": {
+    "p": "/kəˌmjuːnɪˈkeɪʃnz/",
+    "t": "通信；通讯",
+    "en": "the exchange of information"
+  },
+  "radios": {
+    "p": "/ˈreɪdiəʊz/",
+    "t": "无线电设备；收音机",
+    "en": "devices for receiving or transmitting radio signals"
+  },
+  "eloran": {
+    "p": "/ˈiːlɔːræn/",
+    "t": "增强罗兰（导航系统）",
+    "en": "Enhanced Long Range Navigation, a ground-based radio navigation system"
+  },
+  "radiobased": {
+    "p": "/ˈreɪdiəʊbeɪst/",
+    "t": "基于无线电的",
+    "en": "using radio waves"
+  },
+  "roots": {
+    "p": "/ruːts/",
+    "t": "根源；基础",
+    "en": "origins or foundations"
+  },
+  "onemegawatt": {
+    "p": "/ˌwʌnˈmeɡəwɒt/",
+    "t": "一兆瓦的",
+    "en": "having a power of one million watts"
+  },
+  "transmitter": {
+    "p": "/trænzˈmɪtə/",
+    "t": "发射机；发报机",
+    "en": "a device that sends out signals"
+  },
+  "storage": {
+    "p": "/ˈstɔːrɪdʒ/",
+    "t": "存储；储存",
+    "en": "the keeping of data or goods"
+  },
+  "magnetic": {
+    "p": "/mæɡˈnetɪk/",
+    "t": "磁性的",
+    "en": "having the properties of a magnet"
+  },
+  "store": {
+    "p": "/stɔː/",
+    "t": "商店；储存",
+    "en": "a place to buy things; to keep for future use"
+  },
+  "amounts": {
+    "p": "/əˈmaʊnts/",
+    "t": "数量；总额",
+    "en": "quantities or totals"
+  },
+  "reels": {
+    "p": "/riːlz/",
+    "t": "卷轴；卷盘",
+    "en": "cylinders for winding tape or film"
+  },
+  "densities": {
+    "p": "/ˈdensətiz/",
+    "t": "密度；浓度",
+    "en": "degree of compactness"
+  },
+  "increased": {
+    "p": "/ɪnˈkriːst/",
+    "t": "增加的；提高的",
+    "en": "made greater"
+  },
+  "exponentially": {
+    "p": "/ˌekspəˈnenʃəli/",
+    "t": "指数级地；成倍地",
+    "en": "in a rapid, exponential manner"
+  },
+  "spools": {
+    "p": "/spuːlz/",
+    "t": "线轴；卷轴",
+    "en": "cylinders for winding material"
+  },
+  "detached": {
+    "p": "/dɪˈtætʃt/",
+    "t": "分离的；独立的",
+    "en": "separated or disconnected"
+  },
+  "packaged": {
+    "p": "/ˈpækɪdʒd/",
+    "t": "包装的；打包的",
+    "en": "wrapped or put into containers"
+  },
+  "transported": {
+    "p": "/trænˈspɔːtɪd/",
+    "t": "运输的；运送的",
+    "en": "carried from one place to another"
+  },
+  "facilities": {
+    "p": "/fəˈsɪlətiz/",
+    "t": "设施；设备",
+    "en": "places or equipment for a specific purpose"
+  },
+  "difficulttobreach": {
+    "p": "/ˈdɪfɪkəlt tə briːtʃ/",
+    "t": "难以攻破的",
+    "en": "hard to break into or penetrate"
+  },
+  "underground": {
+    "p": "/ˈʌndəɡraʊnd/",
+    "t": "地下的",
+    "en": "below the ground"
+  },
+  "caverns": {
+    "p": "/ˈkævənz/",
+    "t": "洞穴；巨穴",
+    "en": "large caves"
+  },
+  "repurposed": {
+    "p": "/ˌriːˈpɜːpəst/",
+    "t": "改作他用的",
+    "en": "adapted for a new purpose"
+  },
+  "mines": {
+    "p": "/maɪnz/",
+    "t": "矿；地雷",
+    "en": "excavations for minerals; explosive devices"
+  },
+  "specialises": {
+    "p": "/ˈspeʃəlaɪzɪz/",
+    "t": "专门从事",
+    "en": "focuses on a particular area"
+  },
+  "locked": {
+    "p": "/lɒkt/",
+    "t": "锁定的；封闭的",
+    "en": "secured with a lock"
+  },
+  "retrieve": {
+    "p": "/rɪˈtriːv/",
+    "t": "取回；恢复",
+    "en": "to get back or recover"
+  },
+  "backups": {
+    "p": "/ˈbækʌps/",
+    "t": "备份",
+    "en": "copies of data for safety"
+  },
+  "random": {
+    "p": "/ˈrændəm/",
+    "t": "随机的；任意的",
+    "en": "made or done without plan or pattern"
+  },
+  "skyrocketing": {
+    "p": "/ˈskaɪrɒkɪtɪŋ/",
+    "t": "飞涨的；激增的",
+    "en": "rising very quickly"
+  },
+  "companys": {
+    "p": "/ˈkʌmpəniz/",
+    "t": "公司的（company's 的缩写）",
+    "en": "belonging to a company"
+  },
+  "clients": {
+    "p": "/ˈklaɪənts/",
+    "t": "客户；委托人",
+    "en": "people or organizations that use services"
+  },
+  "broadcasters": {
+    "p": "/ˈbrɔːdkɑːstəz/",
+    "t": "广播公司；播音员",
+    "en": "organizations or people that transmit programs"
+  },
+  "footage": {
+    "p": "/ˈfʊtɪdʒ/",
+    "t": "影片；镜头",
+    "en": "recorded video or film"
+  },
+  "baseball": {
+    "p": "/ˈbeɪsbɔːl/",
+    "t": "棒球",
+    "en": "a sport played with a bat and ball"
+  },
+  "genomes": {
+    "p": "/ˈdʒiːnəʊmz/",
+    "t": "基因组",
+    "en": "the complete set of genes of an organism"
+  },
+  "frustrating": {
+    "p": "/frʌˈstreɪtɪŋ/",
+    "t": "令人沮丧的",
+    "en": "causing annoyance or discouragement"
+  },
+  "endures": {
+    "p": "/ɪnˈdjʊəz/",
+    "t": "忍受；持续",
+    "en": "suffers or continues to exist"
+  },
+  "interact": {
+    "p": "/ˌɪntərˈækt/",
+    "t": "互动；相互作用",
+    "en": "to act together or communicate"
+  },
+  "clunky": {
+    "p": "/ˈklʌŋki/",
+    "t": "笨重的；不灵活的",
+    "en": "heavy and awkward in design or use"
+  },
+  "sticks": {
+    "p": "/stɪks/",
+    "t": "坚持；粘贴；棍子",
+    "en": "adheres; continues; thin pieces of wood"
+  },
+  "parking": {
+    "p": "/ˈpɑːkɪŋ/",
+    "t": "停车；停车场",
+    "en": "the act of leaving a vehicle; a place for parking"
+  },
+  "likelihood": {
+    "p": "/ˈlaɪklihʊd/",
+    "t": "可能性",
+    "en": "the chance of something happening"
+  },
+  "perpetrate": {
+    "p": "/ˈpɜːpətreɪt/",
+    "t": "犯（罪）；实施",
+    "en": "to commit or carry out (a crime)"
+  },
+  "safest": {
+    "p": "/ˈseɪfɪst/",
+    "t": "最安全的",
+    "en": "most secure or protected"
+  },
+  "switch": {
+    "p": "/swɪtʃ/",
+    "t": "开关；转变",
+    "en": "device to turn on/off; change"
+  },
+  "cyberattacks": {
+    "p": "/ˈsaɪbərəˌtæks/",
+    "t": "网络攻击",
+    "en": "attacks on computer systems"
+  },
+  "sophisticated": {
+    "p": "/səˈfɪstɪkeɪtɪd/",
+    "t": "复杂的；精密的",
+    "en": "highly developed or complex"
+  },
+  "interfered": {
+    "p": "/ˌɪntəˈfɪəd/",
+    "t": "干扰的；妨碍的",
+    "en": "disrupted or meddled"
+  },
+  "satellite": {
+    "p": "/ˈsætəlaɪt/",
+    "t": "卫星",
+    "en": "an object orbiting a planet; a device for communication"
+  },
+  "succumbed": {
+    "p": "/səˈkʌmd/",
+    "t": "屈服；屈从",
+    "en": "yielded to or gave in"
+  },
+  "prized": {
+    "p": "/praɪzd/",
+    "t": "珍贵的；重视的",
+    "en": "highly valued or treasured"
+  },
+  "theres": {
+    "p": "/ðeəz/",
+    "t": "有；存在（there is 的缩写）",
+    "en": "contraction of there is"
+  },
+  "fixes": {
+    "p": "/ˈfɪksɪz/",
+    "t": "修复；固定；安排",
+    "en": "repairs; attaches; arranges"
+  },
+  "herself": {
+    "p": "/hɜːˈself/",
+    "t": "她自己",
+    "en": "reflexive form of she"
+  },
+  "garden": {
+    "p": "/ˈɡɑːdn/",
+    "t": "花园；菜园",
+    "en": "area for growing plants"
+  },
+  "interior": {
+    "p": "/ɪnˈtɪəriə/",
+    "t": "内部；室内",
+    "en": "inside part; inside of a building"
+  },
+  "drawings": {
+    "p": "/ˈdrɔːɪŋz/",
+    "t": "图画；素描",
+    "en": "pictures made with lines"
+  },
+  "designer": {
+    "p": "/dɪˈzaɪnə/",
+    "t": "设计师",
+    "en": "person who creates designs"
+  },
+  "tattooed": {
+    "p": "/təˈtuːd/",
+    "t": "纹身的",
+    "en": "marked with tattoos"
+  },
+  "scrolls": {
+    "p": "/skrəʊlz/",
+    "t": "卷轴；滚动",
+    "en": "rolled documents; moves through text"
+  },
+  "kittens": {
+    "p": "/ˈkɪtnz/",
+    "t": "小猫",
+    "en": "young cats"
+  },
+  "bananas": {
+    "p": "/bəˈnɑːnəz/",
+    "t": "香蕉；疯狂的",
+    "en": "fruit; crazy"
+  },
+  "posts": {
+    "p": "/pəʊsts/",
+    "t": "帖子；柱子；岗位",
+    "en": "online messages; upright supports; jobs"
+  },
+  "robotvacuum": {
+    "p": "/ˈrəʊbɒtˌvækjuːm/",
+    "t": "扫地机器人",
+    "en": "automatic vacuum cleaner"
+  },
+  "linen": {
+    "p": "/ˈlɪnɪn/",
+    "t": "亚麻布；亚麻制品",
+    "en": "fabric from flax; items made of it"
+  },
+  "practically": {
+    "p": "/ˈpræktɪkli/",
+    "t": "几乎；实际上",
+    "en": "almost; in practice"
+  },
+  "amateur": {
+    "p": "/ˈæmətə/",
+    "t": "业余爱好者；外行",
+    "en": "person not professional"
+  },
+  "posters": {
+    "p": "/ˈpəʊstəz/",
+    "t": "海报；张贴者",
+    "en": "large printed notices; people who post"
+  },
+  "professionally": {
+    "p": "/prəˈfeʃənəli/",
+    "t": "专业地；职业地",
+    "en": "in a professional manner"
+  },
+  "pronounced": {
+    "p": "/prəˈnaʊnst/",
+    "t": "明显的；发音的",
+    "en": "noticeable; spoken"
+  },
+  "videos": {
+    "p": "/ˈvɪdiəʊz/",
+    "t": "视频",
+    "en": "recorded moving images"
+  },
+  "bubble": {
+    "p": "/ˈbʌbl/",
+    "t": "气泡；泡沫",
+    "en": "small round air pocket; economic overvaluation"
+  },
+  "reactions": {
+    "p": "/riˈækʃnz/",
+    "t": "反应；回应",
+    "en": "responses to something"
+  },
+  "contentcreators": {
+    "p": "/ˈkɒntent kriˈeɪtəz/",
+    "t": "内容创作者",
+    "en": "people who make online content"
+  },
+  "interaction": {
+    "p": "/ˌɪntərˈækʃn/",
+    "t": "互动；相互作用",
+    "en": "mutual action or influence"
+  },
+  "numerique": {
+    "p": "/njuːˈmerɪk/",
+    "t": "数字的（法语）",
+    "en": "digital (French)"
+  },
+  "yearonyear": {
+    "p": "/jɪər ɒn jɪər/",
+    "t": "同比；逐年",
+    "en": "compared to the same period last year"
+  },
+  "wider": {
+    "p": "/ˈwaɪdə/",
+    "t": "更宽的；更广泛的",
+    "en": "more wide; broader"
+  },
+  "passive": {
+    "p": "/ˈpæsɪv/",
+    "t": "被动的；消极的",
+    "en": "not active; submissive"
+  },
+  "specialising": {
+    "p": "/ˈspeʃəlaɪzɪŋ/",
+    "t": "专攻；专门从事",
+    "en": "focusing on a specific area"
+  },
+  "behaviour": {
+    "p": "/bɪˈheɪvjə/",
+    "t": "行为；举止",
+    "en": "way of acting"
+  },
+  "conscious": {
+    "p": "/ˈkɒnʃəs/",
+    "t": "有意识的；清醒的",
+    "en": "aware; deliberate"
+  },
+  "traces": {
+    "p": "/ˈtreɪsɪz/",
+    "t": "痕迹；追踪",
+    "en": "marks; follows"
+  },
+  "forever": {
+    "p": "/fərˈevə/",
+    "t": "永远；长久地",
+    "en": "for all time"
+  },
+  "superficial": {
+    "p": "/ˌsuːpəˈfɪʃl/",
+    "t": "表面的；肤浅的",
+    "en": "on the surface; shallow"
+  },
+  "parodies": {
+    "p": "/ˈpærədiz/",
+    "t": "模仿作品；滑稽模仿",
+    "en": "humorous imitations"
+  },
+  "remixes": {
+    "p": "/ˈriːmɪksɪz/",
+    "t": "混音；改编版",
+    "en": "altered versions of songs"
+  },
+  "messaging": {
+    "p": "/ˈmesɪdʒɪŋ/",
+    "t": "消息发送；通信",
+    "en": "sending messages"
+  },
+  "intimate": {
+    "p": "/ˈɪntɪmət/",
+    "t": "亲密的；私人的",
+    "en": "close; private"
+  },
+  "youre": {
+    "p": "/jɔː/",
+    "t": "you are 的缩写",
+    "en": "contraction of you are"
+  },
+  "bombarded": {
+    "p": "/bɒmˈbɑːdɪd/",
+    "t": "轰炸；大量涌入",
+    "en": "attacked with many things"
+  },
+  "influencers": {
+    "p": "/ˈɪnfluənsəz/",
+    "t": "网红；影响者",
+    "en": "people who influence others"
+  },
+  "splitting": {
+    "p": "/ˈsplɪtɪŋ/",
+    "t": "分裂；分开",
+    "en": "dividing; causing division"
+  },
+  "consultant": {
+    "p": "/kənˈsʌltənt/",
+    "t": "顾问",
+    "en": "person who gives expert advice"
+  },
+  "owners": {
+    "p": "/ˈəʊnəz/",
+    "t": "所有者；主人",
+    "en": "people who own something"
+  },
+  "pushed": {
+    "p": "/pʊʃt/",
+    "t": "推；促使；推广",
+    "en": "moved forward; promoted"
+  },
+  "presenters": {
+    "p": "/prɪˈzentəz/",
+    "t": "主持人；演示者",
+    "en": "people who present shows"
+  },
+  "editors": {
+    "p": "/ˈedɪtəz/",
+    "t": "编辑",
+    "en": "people who prepare content"
+  },
+  "spotters": {
+    "p": "/ˈspɒtəz/",
+    "t": "观察者；发现者",
+    "en": "people who watch for something"
+  },
+  "creators": {
+    "p": "/kriˈeɪtəz/",
+    "t": "创作者",
+    "en": "people who make things"
+  },
+  "calculated": {
+    "p": "/ˈkælkjuleɪtɪd/",
+    "t": "计算的；故意的",
+    "en": "computed; deliberate"
+  },
+  "longest": {
+    "p": "/ˈlɒŋɡɪst/",
+    "t": "最长的",
+    "en": "most long"
+  },
+  "unconnected": {
+    "p": "/ˌʌnkəˈnektɪd/",
+    "t": "无关联的；不连接的",
+    "en": "not connected"
+  },
+  "basically": {
+    "p": "/ˈbeɪsɪkli/",
+    "t": "基本上；本质上",
+    "en": "fundamentally"
+  },
+  "theyre": {
+    "p": "/ðeə/",
+    "t": "they are 的缩写",
+    "en": "contraction of they are"
+  },
+  "machine": {
+    "p": "/məˈʃiːn/",
+    "t": "机器；机械",
+    "en": "mechanical device"
+  },
+  "biased": {
+    "p": "/ˈbaɪəst/",
+    "t": "有偏见的",
+    "en": "showing prejudice"
+  },
+  "creator": {
+    "p": "/kriˈeɪtə/",
+    "t": "创作者；造物主",
+    "en": "person who creates"
+  },
+  "youve": {
+    "p": "/juːv/",
+    "t": "you have 的缩写",
+    "en": "contraction of you have"
+  },
+  "businesses": {
+    "p": "/ˈbɪznəsɪz/",
+    "t": "企业；商业",
+    "en": "companies; commercial activities"
+  },
+  "bakery": {
+    "p": "/ˈbeɪkəri/",
+    "t": "面包店；烘焙坊",
+    "en": "shop selling bread and cakes"
+  },
+  "florist": {
+    "p": "/ˈflɒrɪst/",
+    "t": "花店；花商",
+    "en": "person or shop selling flowers"
+  },
+  "salon": {
+    "p": "/səˈlɒn/",
+    "t": "沙龙；美容院",
+    "en": "beauty or hair establishment"
+  },
+  "visuals": {
+    "p": "/ˈvɪʒuəlz/",
+    "t": "视觉素材；图像",
+    "en": "visual elements"
+  },
+  "behindthescenes": {
+    "p": "/bɪˌhaɪnd ðə ˈsiːnz/",
+    "t": "幕后的",
+    "en": "in private; not seen by public"
+  },
+  "monetised": {
+    "p": "/ˈmʌnɪtaɪzd/",
+    "t": "货币化的；盈利的",
+    "en": "converted into money; earning revenue"
+  },
+  "continues": {
+    "p": "/kənˈtɪnjuːz/",
+    "t": "继续；延续",
+    "en": "keeps going"
+  },
+  "adapts": {
+    "p": "/əˈdæpts/",
+    "t": "适应；改编",
+    "en": "adjusts; modifies"
+  },
+  "tailored": {
+    "p": "/ˈteɪləd/",
+    "t": "定制的；量身定做的",
+    "en": "custom-made; adjusted"
+  },
+  "winner": {
+    "p": "/ˈwɪnə/",
+    "t": "赢家；获胜者",
+    "en": "person who wins"
+  },
+  "overtake": {
+    "p": "/ˌəʊvəˈteɪk/",
+    "t": "超过；赶上",
+    "en": "surpass; catch up with"
+  },
+  "powered": {
+    "p": "/ˈpaʊəd/",
+    "t": "供电的；驱动的",
+    "en": "operated by power"
+  },
+  "precise": {
+    "p": "/prɪˈsaɪs/",
+    "t": "精确的；准确的",
+    "en": "exact; accurate"
+  },
+  "amongst": {
+    "p": "/əˈmʌŋst/",
+    "t": "在...之中",
+    "en": "among"
+  },
+  "fourth": {
+    "p": "/fɔːθ/",
+    "t": "第四",
+    "en": "ordinal number 4"
+  },
+  "engines": {
+    "p": "/ˈendʒɪnz/",
+    "t": "发动机；引擎",
+    "en": "machines that produce power"
+  },
+  "liked": {
+    "p": "/laɪkt/",
+    "t": "喜欢的；点赞的",
+    "en": "found pleasing; gave a like"
+  },
+  "advertisers": {
+    "p": "/ˈædvətaɪzəz/",
+    "t": "广告商",
+    "en": "people or companies that advertise"
+  },
+  "thirty": {
+    "p": "/ˈθɜːti/",
+    "t": "三十",
+    "en": "number 30"
+  },
+  "sixty": {
+    "p": "/ˈsɪksti/",
+    "t": "六十",
+    "en": "number 60"
+  },
+  "accordingly": {
+    "p": "/əˈkɔːdɪŋli/",
+    "t": "相应地；因此",
+    "en": "in a suitable way; therefore"
+  },
+  "impressions": {
+    "p": "/ɪmˈpreʃnz/",
+    "t": "印象；曝光量",
+    "en": "feelings; number of views"
+  },
+  "clicks": {
+    "p": "/klɪks/",
+    "t": "点击；咔嗒声",
+    "en": "presses on a mouse; sounds"
+  },
+  "advertiser": {
+    "p": "/ˈædvətaɪzə/",
+    "t": "广告商",
+    "en": "person who advertises"
+  },
+  "tight": {
+    "p": "/taɪt/",
+    "t": "紧的；紧密的",
+    "en": "firm; close"
+  },
+  "feeds": {
+    "p": "/fiːdz/",
+    "t": "喂养；信息流",
+    "en": "gives food; streams of content"
+  },
+  "horses": {
+    "p": "/ˈhɔːsɪz/",
+    "t": "马；马匹",
+    "en": "large animals used for riding"
+  },
+  "icecream": {
+    "p": "/ˌaɪs ˈkriːm/",
+    "t": "冰淇淋",
+    "en": "frozen dessert"
+  },
+  "turning": {
+    "p": "/ˈtɜːnɪŋ/",
+    "t": "转动；转变",
+    "en": "rotating; changing direction"
+  },
+  "monkey": {
+    "p": "/ˈmʌŋki/",
+    "t": "猴子",
+    "en": "primate animal"
+  },
+  "selfie": {
+    "p": "/ˈselfi/",
+    "t": "自拍照",
+    "en": "photo taken of oneself"
+  },
+  "reacting": {
+    "p": "/riˈæktɪŋ/",
+    "t": "反应；回应",
+    "en": "responding to something"
+  },
+  "settling": {
+    "p": "/ˈsetlɪŋ/",
+    "t": "定居；解决；沉淀",
+    "en": "making home; resolving; sinking"
+  },
+  "shrinking": {
+    "p": "/ˈʃrɪŋkɪŋ/",
+    "t": "缩小的；收缩的",
+    "en": "becoming smaller"
+  },
+  "plateaued": {
+    "p": "/ˈplætəʊd/",
+    "t": "达到平稳期的；停滞的",
+    "en": "reached a stable level"
+  },
+  "engine": {
+    "p": "/ˈendʒɪn/",
+    "t": "发动机；引擎",
+    "en": "machine that produces power"
+  },
+  "shopping": {
+    "p": "/ˈʃɒpɪŋ/",
+    "t": "购物",
+    "en": "buying goods"
+  },
+  "enabled": {
+    "p": "/ɪˈneɪbld/",
+    "t": "使能够；启用的",
+    "en": "made possible; activated"
+  },
+  "moreorless": {
+    "p": "/ˌmɔːr ɔː ˈles/",
+    "t": "或多或少；差不多",
+    "en": "approximately"
+  },
+  "flick": {
+    "p": "/flɪk/",
+    "t": "轻弹；快速移动；电影",
+    "en": "quick movement; movie"
+  },
+  "handpicked": {
+    "p": "/ˌhændˈpɪkt/",
+    "t": "精选的；亲自挑选的",
+    "en": "carefully chosen"
+  },
+  "cantmiss": {
+    "p": "/kænt mɪs/",
+    "t": "不容错过的",
+    "en": "must-see; not to be missed"
+  },
+  "inbox": {
+    "p": "/ˈɪnbɒks/",
+    "t": "收件箱",
+    "en": "folder for incoming messages"
+  },
+  "tariff": {
+    "p": "/ˈtærɪf/",
+    "t": "关税",
+    "en": "a tax on imports or exports"
+  },
+  "inflammatory": {
+    "p": "/ɪnˈflæmətri/",
+    "t": "煽动性的",
+    "en": "intended to cause anger or violence"
+  },
+  "taunting": {
+    "p": "/ˈtɔːntɪŋ/",
+    "t": "嘲弄",
+    "en": "provoking with insulting remarks"
+  },
+  "invaded": {
+    "p": "/ɪnˈveɪdɪd/",
+    "t": "入侵",
+    "en": "entered by force"
+  },
+  "umbrella": {
+    "p": "/ʌmˈbrelə/",
+    "t": "伞；保护伞",
+    "en": "a canopy for rain; protection"
+  },
+  "protection": {
+    "p": "/prəˈtekʃn/",
+    "t": "保护",
+    "en": "the act of keeping safe"
+  },
+  "outrage": {
+    "p": "/ˈaʊtreɪdʒ/",
+    "t": "愤怒；暴行",
+    "en": "extreme anger; a cruel act"
+  },
+  "dollar": {
+    "p": "/ˈdɒlə/",
+    "t": "美元",
+    "en": "the currency of the US"
+  },
+  "accept": {
+    "p": "/əkˈsept/",
+    "t": "接受",
+    "en": "to agree to take"
+  },
+  "offered": {
+    "p": "/ˈɒfəd/",
+    "t": "提供",
+    "en": "presented for acceptance or refusal"
+  },
+  "protections": {
+    "p": "/prəˈtekʃnz/",
+    "t": "保护措施",
+    "en": "measures to keep safe"
+  },
+  "infringed": {
+    "p": "/ɪnˈfrɪndʒd/",
+    "t": "侵犯",
+    "en": "violated a law or right"
+  },
+  "sovereignty": {
+    "p": "/ˈsɒvrənti/",
+    "t": "主权",
+    "en": "supreme authority of a state"
+  },
+  "incensed": {
+    "p": "/ɪnˈsenst/",
+    "t": "激怒",
+    "en": "made very angry"
+  },
+  "prices": {
+    "p": "/ˈpraɪsɪz/",
+    "t": "价格",
+    "en": "the amounts of money required for goods"
+  },
+  "border": {
+    "p": "/ˈbɔːdə/",
+    "t": "边界",
+    "en": "the line separating two areas"
+  },
+  "highstakes": {
+    "p": "/ˈhaɪsteɪks/",
+    "t": "高风险的",
+    "en": "involving great risk or reward"
+  },
+  "reverse": {
+    "p": "/rɪˈvɜːs/",
+    "t": "逆转；相反",
+    "en": "to change to the opposite; the opposite"
+  },
+  "charting": {
+    "p": "/ˈtʃɑːtɪŋ/",
+    "t": "规划；绘制图表",
+    "en": "planning or mapping out"
+  },
+  "accelerate": {
+    "p": "/əkˈseləreɪt/",
+    "t": "加速",
+    "en": "to increase speed"
+  },
+  "rupture": {
+    "p": "/ˈrʌptʃə/",
+    "t": "破裂",
+    "en": "a break or burst"
+  },
+  "crime": {
+    "p": "/kraɪm/",
+    "t": "犯罪",
+    "en": "an illegal act"
+  },
+  "rates": {
+    "p": "/reɪts/",
+    "t": "比率",
+    "en": "measures of frequency or amount"
+  },
+  "murder": {
+    "p": "/ˈmɜːdə/",
+    "t": "谋杀",
+    "en": "the unlawful killing of a person"
+  },
+  "lowest": {
+    "p": "/ˈləʊɪst/",
+    "t": "最低的",
+    "en": "least in amount or degree"
+  },
+  "crack": {
+    "p": "/kræk/",
+    "t": "打击；裂缝",
+    "en": "to break partially; a fissure; to deal with"
   }
 }
