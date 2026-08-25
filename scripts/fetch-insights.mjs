@@ -79,6 +79,31 @@ async function resolveReal(link) {
     return r.url || '';
   } catch (e) { return ''; }
 }
+// 国家标准全文公开系统(openstd.samr.gov.cn)「感官」检索 → 最新 GB 感官分析标准动态
+async function parseGBStd(listHtml) {
+  const out = [];
+  const pairs = [...listHtml.matchAll(/onclick="showInfo\('([A-F0-9]+)'\);">([^<]+)<\/a>/g)].map((m) => ({ hcno: m[1], text: m[2].trim() }));
+  const stds = [];
+  for (let i = 0; i < pairs.length - 1; i++) {
+    if (/^GB\//.test(pairs[i].text) && !pairs[i + 1].text.startsWith('GB/')) { stds.push({ no: pairs[i].text, title: pairs[i + 1].text, hcno: pairs[i].hcno }); i++; }
+  }
+  for (const s of stds.slice(0, 5)) {
+    const link = 'https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=' + s.hcno;
+    let pub = '', impl = '';
+    try {
+      const d = await getText(link);
+      const dates = [...d.matchAll(/\b(\d{4}-\d{2}-\d{2})\b/g)].map((m) => m[1]).filter((x) => x >= '2020');
+      pub = dates[0] || ''; impl = dates[1] || '';
+    } catch (e) { }
+    const date = pub || (s.no.match(/-(20\d{2})/)?.[1] + '-06-30') || '2026-01-01';
+    out.push({
+      title: `国家标准 ${s.no}《${s.title}》发布` + (impl ? `，${impl}实施` : ''),
+      link, date,
+      summary: `GB 感官分析标准动态：${s.no}《${s.title}》${pub ? '于' + pub + '发布' : ''}${impl ? '，' + impl + '实施' : ''}。详情见国家标准全文公开系统。`,
+    });
+  }
+  return out;
+}
 async function deriveSummary(link, fallback) {
   if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
   try {
@@ -171,6 +196,18 @@ function readFeed() {
           const arr = feed[grp] || [];
           const seen = new Set(arr.map((x) => x.link));
           const add = [];
+          // 国家标准源：直接用专用解析（openstd 列表→详情），不走通用网页检查
+          if (s.type === 'gbstd') {
+            try {
+              const gbItems = await parseGBStd(txt);
+              for (const it of gbItems) {
+                if (seen.has(it.link)) continue;
+                add.push({ title: it.title, source: s.name, link: it.link, topic: '感官研究', cat: '', dimension: '', region: '中国', summary: it.summary, date: it.date, core: '', view: '', action: '', origin: s.name });
+                seen.add(it.link);
+              }
+            } catch (e) { console.log(`=== [${grp}] ${s.name} gbstd 失败: ${e.message} ===`); }
+            continue;
+          }
           for (const it of items) {
             if (seen.has(it.link)) continue;
             // 感官研究专属源：先用标题+摘要过滤（避免对无关文章做链接解析，省请求）
