@@ -22283,5 +22283,645 @@
     "p": "/ʌnˈfʌni/",
     "t": "不好笑的",
     "en": "not funny"
+  },
+  "revived": {
+    "p": "/rɪˈvaɪvd/",
+    "t": "复苏的；复兴的",
+    "en": "brought back to life or use"
+  },
+  "sabotage": {
+    "p": "/ˈsæbətɑːʒ/",
+    "t": "蓄意破坏；捣乱",
+    "en": "deliberate destruction or obstruction"
+  },
+  "bizarre": {
+    "p": "/bɪˈzɑːr/",
+    "t": "奇异的；怪诞的",
+    "en": "very strange or unusual"
+  },
+  "voting": {
+    "p": "/ˈvoʊtɪŋ/",
+    "t": "投票；表决",
+    "en": "the act of casting a vote"
+  },
+  "greats": {
+    "p": "/ɡreɪts/",
+    "t": "伟人；杰出人物",
+    "en": "people of outstanding importance"
+  },
+  "focuses": {
+    "p": "/ˈfoʊkəsɪz/",
+    "t": "集中；聚焦",
+    "en": "centers attention on"
+  },
+  "decline": {
+    "p": "/dɪˈklaɪn/",
+    "t": "下降；衰退；婉拒",
+    "en": "a gradual decrease or refusal"
+  },
+  "blatantly": {
+    "p": "/ˈbleɪtəntli/",
+    "t": "公然地；露骨地",
+    "en": "in an obvious and offensive way"
+  },
+  "claiming": {
+    "p": "/ˈkleɪmɪŋ/",
+    "t": "声称；主张",
+    "en": "stating something as true"
+  },
+  "rewrite": {
+    "p": "/ˌriːˈraɪt/",
+    "t": "重写；改写",
+    "en": "to write again in a different way"
+  },
+  "prosecutions": {
+    "p": "/ˌprɒsɪˈkjuːʃənz/",
+    "t": "起诉；检控",
+    "en": "legal actions against someone"
+  },
+  "officials": {
+    "p": "/əˈfɪʃəlz/",
+    "t": "官员；行政人员",
+    "en": "people holding public office"
+  },
+  "federally": {
+    "p": "/ˈfedərəli/",
+    "t": "联邦地；全国性地",
+    "en": "at the federal level"
+  },
+  "mandated": {
+    "p": "/ˈmændeɪtɪd/",
+    "t": "受委托的；强制要求的",
+    "en": "required by law or authority"
+  },
+  "envelopes": {
+    "p": "/ˈenvələʊps/",
+    "t": "信封；封套",
+    "en": "paper containers for letters"
+  },
+  "ballots": {
+    "p": "/ˈbæləts/",
+    "t": "选票",
+    "en": "papers used for voting"
+  },
+  "majority": {
+    "p": "/məˈdʒɒrəti/",
+    "t": "多数；大半",
+    "en": "more than half of a group"
+  },
+  "dissented": {
+    "p": "/dɪˈsentɪd/",
+    "t": "持异议；不同意",
+    "en": "disagreed with an official opinion"
+  },
+  "troubling": {
+    "p": "/ˈtrʌblɪŋ/",
+    "t": "令人不安的；麻烦的",
+    "en": "causing worry or concern"
+  },
+  "justices": {
+    "p": "/ˈdʒʌstɪsɪz/",
+    "t": "法官；大法官",
+    "en": "judges, especially of a supreme court"
+  },
+  "permit": {
+    "p": "/pəˈmɪt/",
+    "t": "允许；许可",
+    "en": "to allow or give permission"
+  },
+  "courts": {
+    "p": "/kɔːts/",
+    "t": "法院；法庭",
+    "en": "places where legal cases are heard"
+  },
+  "opine": {
+    "p": "/əˈpaɪn/",
+    "t": "发表意见；认为",
+    "en": "to express an opinion"
+  },
+  "legal": {
+    "p": "/ˈliːɡl/",
+    "t": "合法的；法律的",
+    "en": "relating to law or permitted by law"
+  },
+  "reinstates": {
+    "p": "/ˌriːɪnˈsteɪts/",
+    "t": "恢复；使复原",
+    "en": "restores to a previous position or state"
+  },
+  "blocking": {
+    "p": "/ˈblɒkɪŋ/",
+    "t": "阻止；阻塞",
+    "en": "preventing movement or progress"
+  },
+  "reinstate": {
+    "p": "/ˌriːɪnˈsteɪt/",
+    "t": "恢复；使复职",
+    "en": "to restore to a previous state or position"
+  },
+  "temporarily": {
+    "p": "/ˈtempərərili/",
+    "t": "暂时地；临时地",
+    "en": "for a limited time"
+  },
+  "confuse": {
+    "p": "/kənˈfjuːz/",
+    "t": "使困惑；混淆",
+    "en": "to make unclear or bewildered"
+  },
+  "racing": {
+    "p": "/ˈreɪsɪŋ/",
+    "t": "比赛；赛马/赛车",
+    "en": "the sport of competing in races"
+  },
+  "upcoming": {
+    "p": "/ˈʌpkʌmɪŋ/",
+    "t": "即将到来的",
+    "en": "happening soon"
+  },
+  "provision": {
+    "p": "/prəˈvɪʒn/",
+    "t": "条款；规定",
+    "en": "a condition or stipulation"
+  },
+  "deter": {
+    "p": "/dɪˈtɜːr/",
+    "t": "阻止；威慑",
+    "en": "to discourage someone from doing something"
+  },
+  "sections": {
+    "p": "/ˈsekʃənz/",
+    "t": "部分；章节",
+    "en": "distinct parts of something"
+  },
+  "prosecution": {
+    "p": "/ˌprɒsɪˈkjuːʃn/",
+    "t": "起诉；检控",
+    "en": "the legal process of charging someone with a crime"
+  },
+  "midterms": {
+    "p": "/ˌmɪdˈtɜːmz/",
+    "t": "期中考试；（美）中期选举",
+    "en": "exams or elections held in the middle of a term"
+  },
+  "contains": {
+    "p": "/kənˈteɪnz/",
+    "t": "包含；容纳",
+    "en": "has something inside"
+  },
+  "provisions": {
+    "p": "/prəˈvɪʒənz/",
+    "t": "条款；供应品",
+    "en": "stipulations or supplies"
+  },
+  "orders": {
+    "p": "/ˈɔːdəz/",
+    "t": "命令；订单",
+    "en": "commands or requests for goods"
+  },
+  "compile": {
+    "p": "/kəmˈpaɪl/",
+    "t": "汇编；编制",
+    "en": "to collect information into a list or book"
+  },
+  "transmit": {
+    "p": "/trænzˈmɪt/",
+    "t": "传输；传送",
+    "en": "to send or pass on"
+  },
+  "chief": {
+    "p": "/tʃiːf/",
+    "t": "主要的；首席的",
+    "en": "highest in rank or importance"
+  },
+  "official": {
+    "p": "/əˈfɪʃl/",
+    "t": "官员；正式的",
+    "en": "a person in authority; formal"
+  },
+  "citizens": {
+    "p": "/ˈsɪtɪzənz/",
+    "t": "公民",
+    "en": "legal members of a country"
+  },
+  "residence": {
+    "p": "/ˈrezɪdəns/",
+    "t": "居住；住宅",
+    "en": "a place where one lives"
+  },
+  "unproblematic": {
+    "p": "/ˌʌnprɒbləˈmætɪk/",
+    "t": "不成问题的；无困难的",
+    "en": "not causing problems"
+  },
+  "except": {
+    "p": "/ɪkˈsept/",
+    "t": "除……之外",
+    "en": "not including; other than"
+  },
+  "attorney": {
+    "p": "/əˈtɜːni/",
+    "t": "律师；代理人",
+    "en": "a lawyer"
+  },
+  "prioritize": {
+    "p": "/praɪˈɒrətaɪz/",
+    "t": "优先考虑",
+    "en": "to treat as more important"
+  },
+  "eligible": {
+    "p": "/ˈelɪdʒəbl/",
+    "t": "有资格的；合格的",
+    "en": "having the right to do or receive something"
+  },
+  "threaten": {
+    "p": "/ˈθretn/",
+    "t": "威胁；恐吓",
+    "en": "to say you will harm someone or something"
+  },
+  "ballot": {
+    "p": "/ˈbælət/",
+    "t": "选票；投票",
+    "en": "a paper or process for voting"
+  },
+  "voter": {
+    "p": "/ˈvoʊtər/",
+    "t": "选民；投票人",
+    "en": "a person who votes"
+  },
+  "congressional": {
+    "p": "/kənˈɡreʃənl/",
+    "t": "国会的",
+    "en": "relating to a congress"
+  },
+  "presidential": {
+    "p": "/ˌprezɪˈdenʃl/",
+    "t": "总统的",
+    "en": "relating to a president or presidency"
+  },
+  "hyperliteral": {
+    "p": "/ˌhaɪpərˈlɪtərəl/",
+    "t": "极度字面的；过度直译的",
+    "en": "taking words in the most literal sense"
+  },
+  "dissent": {
+    "p": "/dɪˈsent/",
+    "t": "异议；不同意",
+    "en": "disagreement with an official view"
+  },
+  "clauses": {
+    "p": "/ˈklɔːzɪz/",
+    "t": "条款；从句",
+    "en": "parts of a legal document or sentence"
+  },
+  "cites": {
+    "p": "/saɪts/",
+    "t": "引用；引证",
+    "en": "mentions as an example or authority"
+  },
+  "warning": {
+    "p": "/ˈwɔːnɪŋ/",
+    "t": "警告；提醒",
+    "en": "a statement telling of danger"
+  },
+  "eople": {
+    "p": "/ˈiːpəl/",
+    "t": "（无此词，可能是 people 的误写）",
+    "en": "(not a word)"
+  },
+  "lightly": {
+    "p": "/ˈlaɪtli/",
+    "t": "轻轻地；不严重地",
+    "en": "in a light or gentle manner"
+  },
+  "disregard": {
+    "p": "/ˌdɪsrɪˈɡɑːrd/",
+    "t": "忽视；不理会",
+    "en": "to pay no attention to"
+  },
+  "officers": {
+    "p": "/ˈɒfɪsəz/",
+    "t": "军官；官员",
+    "en": "people with authority in an organization"
+  },
+  "thinly": {
+    "p": "/ˈθɪnli/",
+    "t": "薄薄地；稀疏地",
+    "en": "in a thin manner"
+  },
+  "veiled": {
+    "p": "/veɪld/",
+    "t": "隐藏的；含蓄的",
+    "en": "disguised or hidden"
+  },
+  "criminal": {
+    "p": "/ˈkrɪmɪnl/",
+    "t": "犯罪的；罪犯",
+    "en": "relating to crime; a person who commits a crime"
+  },
+  "proceedings": {
+    "p": "/prəˈsiːdɪŋz/",
+    "t": "诉讼程序；会议记录",
+    "en": "legal actions or official records"
+  },
+  "ignores": {
+    "p": "/ɪɡˈnɔːz/",
+    "t": "忽视；不理会",
+    "en": "pays no attention to"
+  },
+  "prosecute": {
+    "p": "/ˈprɒsɪkjuːt/",
+    "t": "起诉；检控",
+    "en": "to bring legal action against"
+  },
+  "reference": {
+    "p": "/ˈrefrəns/",
+    "t": "参考；提及",
+    "en": "a mention or citation"
+  },
+  "permits": {
+    "p": "/pəˈmɪts/",
+    "t": "允许；许可",
+    "en": "allows or gives permission"
+  },
+  "depart": {
+    "p": "/dɪˈpɑːrt/",
+    "t": "离开；出发",
+    "en": "to leave or go away"
+  },
+  "considerably": {
+    "p": "/kənˈsɪdərəbli/",
+    "t": "相当地；非常",
+    "en": "to a large extent"
+  },
+  "reject": {
+    "p": "/rɪˈdʒekt/",
+    "t": "拒绝；驳回",
+    "en": "to refuse to accept"
+  },
+  "standing": {
+    "p": "/ˈstændɪŋ/",
+    "t": "地位；站立；长期的",
+    "en": "position or status; upright position; lasting"
+  },
+  "deals": {
+    "p": "/diːlz/",
+    "t": "交易；处理",
+    "en": "agreements or arrangements"
+  },
+  "envelope": {
+    "p": "/ˈenvələʊp/",
+    "t": "信封",
+    "en": "a paper container for a letter"
+  },
+  "forbids": {
+    "p": "/fəˈbɪdz/",
+    "t": "禁止",
+    "en": "prohibits"
+  },
+  "delivering": {
+    "p": "/dɪˈlɪvərɪŋ/",
+    "t": "递送；交付",
+    "en": "bringing something to a destination"
+  },
+  "comply": {
+    "p": "/kəmˈplaɪ/",
+    "t": "遵守；服从",
+    "en": "to act according to rules or requests"
+  },
+  "conclude": {
+    "p": "/kənˈkluːd/",
+    "t": "结束；得出结论",
+    "en": "to finish or reach a decision"
+  },
+  "premature": {
+    "p": "/ˈpremətʃər/",
+    "t": "过早的；仓促的",
+    "en": "happening too soon"
+  },
+  "handed": {
+    "p": "/ˈhændɪd/",
+    "t": "交给；传递",
+    "en": "given or passed to someone"
+  },
+  "formally": {
+    "p": "/ˈfɔːməli/",
+    "t": "正式地",
+    "en": "in a formal manner"
+  },
+  "announces": {
+    "p": "/əˈnaʊnsɪz/",
+    "t": "宣布；宣告",
+    "en": "makes known publicly"
+  },
+  "mandatory": {
+    "p": "/ˈmændətɔːri/",
+    "t": "强制的；义务的",
+    "en": "required by law or rule"
+  },
+  "identifier": {
+    "p": "/aɪˈdentɪfaɪər/",
+    "t": "标识符；识别码",
+    "en": "a symbol or number used for identification"
+  },
+  "purchased": {
+    "p": "/ˈpɜːrtʃəst/",
+    "t": "购买",
+    "en": "bought"
+  },
+  "mandate": {
+    "p": "/ˈmændeɪt/",
+    "t": "授权；命令",
+    "en": "an official order or authorization"
+  },
+  "obtain": {
+    "p": "/əbˈteɪn/",
+    "t": "获得；得到",
+    "en": "to get or acquire"
+  },
+  "truckloads": {
+    "p": "/ˈtrʌkləʊdz/",
+    "t": "卡车装载量",
+    "en": "as much as a truck can carry"
+  },
+  "procedural": {
+    "p": "/prəˈsiːdʒərəl/",
+    "t": "程序上的",
+    "en": "relating to procedure"
+  },
+  "distribute": {
+    "p": "/dɪˈstrɪbjuːt/",
+    "t": "分发；分配",
+    "en": "to give out to many"
+  },
+  "moreover": {
+    "p": "/mɔːrˈəʊvər/",
+    "t": "而且；此外",
+    "en": "in addition"
+  },
+  "conduct": {
+    "p": "/ˈkɒndʌkt/",
+    "t": "行为；实施",
+    "en": "behavior or the act of carrying out"
+  },
+  "inperson": {
+    "p": "/ˌɪn ˈpɜːrsən/",
+    "t": "亲自；当面",
+    "en": "physically present"
+  },
+  "unlikely": {
+    "p": "/ʌnˈlaɪkli/",
+    "t": "不太可能的",
+    "en": "not likely to happen"
+  },
+  "mailin": {
+    "p": "/ˈmeɪl ɪn/",
+    "t": "邮寄（投票）",
+    "en": "sent by mail"
+  },
+  "initially": {
+    "p": "/ɪˈnɪʃəli/",
+    "t": "最初；首先",
+    "en": "at first"
+  },
+  "signaled": {
+    "p": "/ˈsɪɡnəld/",
+    "t": "发出信号；示意",
+    "en": "made a sign or indication"
+  },
+  "lawyers": {
+    "p": "/ˈlɔːjərz/",
+    "t": "律师",
+    "en": "people who practice law"
+  },
+  "supplemental": {
+    "p": "/ˌsʌplɪˈmentl/",
+    "t": "补充的；额外的",
+    "en": "added to make something complete"
+  },
+  "lawful": {
+    "p": "/ˈlɔːfl/",
+    "t": "合法的",
+    "en": "allowed by law"
+  },
+  "exceedingly": {
+    "p": "/ɪkˈsiːdɪŋli/",
+    "t": "非常；极其",
+    "en": "to a great degree"
+  },
+  "judges": {
+    "p": "/ˈdʒʌdʒɪz/",
+    "t": "法官；裁判",
+    "en": "people who decide cases or competitions"
+  },
+  "noted": {
+    "p": "/ˈnoʊtɪd/",
+    "t": "著名的；注意到的",
+    "en": "well-known or observed"
+  },
+  "opinion": {
+    "p": "/əˈpɪnjən/",
+    "t": "意见；看法",
+    "en": "a view or belief"
+  },
+  "delegates": {
+    "p": "/ˈdelɪɡeɪts/",
+    "t": "代表；授权",
+    "en": "people chosen to represent others; to give authority"
+  },
+  "worded": {
+    "p": "/ˈwɜːrdɪd/",
+    "t": "用词表达的",
+    "en": "expressed in words"
+  },
+  "statutes": {
+    "p": "/ˈstætʃuːts/",
+    "t": "法令；法规",
+    "en": "written laws"
+  },
+  "functions": {
+    "p": "/ˈfʌŋkʃənz/",
+    "t": "功能；职责",
+    "en": "purposes or duties"
+  },
+  "collection": {
+    "p": "/kəˈlekʃn/",
+    "t": "收集；收藏品",
+    "en": "the act of gathering or items gathered"
+  },
+  "handling": {
+    "p": "/ˈhændlɪŋ/",
+    "t": "处理；搬运",
+    "en": "the act of dealing with or managing"
+  },
+  "forwarding": {
+    "p": "/ˈfɔːrwərdɪŋ/",
+    "t": "转发；转交",
+    "en": "sending on to a destination"
+  },
+  "disposition": {
+    "p": "/ˌdɪspəˈzɪʃn/",
+    "t": "处置；性情",
+    "en": "the way something is arranged or handled; temperament"
+  },
+  "undeliverable": {
+    "p": "/ˌʌndɪˈlɪvərəbl/",
+    "t": "无法递送的",
+    "en": "impossible to deliver"
+  },
+  "authorize": {
+    "p": "/ˈɔːθəraɪz/",
+    "t": "授权；批准",
+    "en": "to give official permission"
+  },
+  "granular": {
+    "p": "/ˈɡrænjələr/",
+    "t": "颗粒状的；细分的",
+    "en": "made of grains; detailed"
+  },
+  "restrictions": {
+    "p": "/rɪˈstrɪkʃənz/",
+    "t": "限制；约束",
+    "en": "rules that limit something"
+  },
+  "remains": {
+    "p": "/rɪˈmeɪnz/",
+    "t": "剩余；保持",
+    "en": "stays or is left"
+  },
+  "mailing": {
+    "p": "/ˈmeɪlɪŋ/",
+    "t": "邮寄；邮件",
+    "en": "the act of sending mail or items sent"
+  },
+  "compliant": {
+    "p": "/kəmˈplaɪənt/",
+    "t": "服从的；合规的",
+    "en": "following rules or requests"
+  },
+  "pallets": {
+    "p": "/ˈpælɪts/",
+    "t": "托盘；平台",
+    "en": "flat platforms for moving goods"
+  },
+  "stakes": {
+    "p": "/steɪks/",
+    "t": "赌注；风险",
+    "en": "the amount of money or risk involved"
+  },
+  "dispute": {
+    "p": "/dɪˈspjuːt/",
+    "t": "争论；纠纷",
+    "en": "a disagreement or argument"
+  },
+  "implemented": {
+    "p": "/ˈɪmplɪmentɪd/",
+    "t": "实施；执行",
+    "en": "put into effect"
+  },
+  "unclear": {
+    "p": "/ʌnˈklɪər/",
+    "t": "不清楚的；模糊的",
+    "en": "not easy to understand"
   }
 }
