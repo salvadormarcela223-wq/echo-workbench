@@ -24293,5 +24293,1325 @@
     "p": "/siːz/",
     "t": "抓住；夺取",
     "en": "To take hold of suddenly or forcibly."
+  },
+  "dementia": {
+    "p": "/dɪˈmenʃə/",
+    "t": "痴呆",
+    "en": "a mental disorder causing memory loss and cognitive decline"
+  },
+  "humanitys": {
+    "p": "/hjuːˈmænɪtiz/",
+    "t": "人类的",
+    "en": "belonging to or relating to human beings collectively"
+  },
+  "ancient": {
+    "p": "/ˈeɪnʃənt/",
+    "t": "古代的",
+    "en": "belonging to the very distant past"
+  },
+  "commensality": {
+    "p": "/ˌkɒmənˈsælɪti/",
+    "t": "共食习惯",
+    "en": "the practice of eating together as a social group"
+  },
+  "connecting": {
+    "p": "/kəˈnektɪŋ/",
+    "t": "连接",
+    "en": "linking or joining together"
+  },
+  "economics": {
+    "p": "/ˌiːkəˈnɒmɪks/",
+    "t": "经济学",
+    "en": "the study of production, distribution, and consumption of goods and services"
+  },
+  "behavioural": {
+    "p": "/bɪˈheɪvjərəl/",
+    "t": "行为的",
+    "en": "relating to behavior"
+  },
+  "repercussions": {
+    "p": "/ˌriːpəˈkʌʃənz/",
+    "t": "后果",
+    "en": "unintended consequences or effects"
+  },
+  "harness": {
+    "p": "/ˈhɑːnɪs/",
+    "t": "利用",
+    "en": "to control and use a resource effectively"
+  },
+  "friendship": {
+    "p": "/ˈfrendʃɪp/",
+    "t": "友谊；友情",
+    "en": "state of being friends"
+  },
+  "surveying": {
+    "p": "/səˈveɪɪŋ/",
+    "t": "调查",
+    "en": "examining or measuring something systematically"
+  },
+  "mealtimes": {
+    "p": "/ˈmiːltaɪmz/",
+    "t": "进餐时间",
+    "en": "the times at which meals are eaten"
+  },
+  "someones": {
+    "p": "/ˈsʌmwʌnz/",
+    "t": "某人的",
+    "en": "belonging to an unspecified person"
+  },
+  "remained": {
+    "p": "/rɪˈmeɪnd/",
+    "t": "保持",
+    "en": "stayed in the same state or condition"
+  },
+  "factors": {
+    "p": "/ˈfæktəz/",
+    "t": "因素",
+    "en": "elements that contribute to a result"
+  },
+  "peoples": {
+    "p": "/ˈpiːpəlz/",
+    "t": "民族；人们",
+    "en": "groups of human beings or individuals"
+  },
+  "lived": {
+    "p": "/lɪvd/",
+    "t": "生活；居住",
+    "en": "had a life; resided"
+  },
+  "concluded": {
+    "p": "/kənˈkluːdɪd/",
+    "t": "得出结论",
+    "en": "reached a judgment or decision"
+  },
+  "affects": {
+    "p": "/əˈfekts/",
+    "t": "影响",
+    "en": "influences or changes"
+  },
+  "families": {
+    "p": "/ˈfæməliz/",
+    "t": "家庭；家族",
+    "en": "groups of related people"
+  },
+  "depressive": {
+    "p": "/dɪˈpresɪv/",
+    "t": "抑郁的",
+    "en": "causing or related to depression"
+  },
+  "symptoms": {
+    "p": "/ˈsɪmptəmz/",
+    "t": "症状",
+    "en": "signs of a medical condition"
+  },
+  "yearly": {
+    "p": "/ˈjɪəli/",
+    "t": "每年的",
+    "en": "happening once a year"
+  },
+  "polling": {
+    "p": "/ˈpəʊlɪŋ/",
+    "t": "民意调查",
+    "en": "the act of surveying public opinion"
+  },
+  "sponsored": {
+    "p": "/ˈspɒnsəd/",
+    "t": "赞助的",
+    "en": "financially supported by an organization"
+  },
+  "manufacturer": {
+    "p": "/ˌmænjuˈfæktʃərə/",
+    "t": "制造商",
+    "en": "a company that makes goods"
+  },
+  "dinner": {
+    "p": "/ˈdɪnə/",
+    "t": "晚餐",
+    "en": "the main meal of the day, usually eaten in the evening"
+  },
+  "coauthored": {
+    "p": "/kəʊˈɔːθəd/",
+    "t": "合著",
+    "en": "written jointly with another author"
+  },
+  "chapter": {
+    "p": "/ˈtʃæptə/",
+    "t": "章节",
+    "en": "a section of a book"
+  },
+  "astonishing": {
+    "p": "/əˈstɒnɪʃɪŋ/",
+    "t": "惊人的",
+    "en": "extremely surprising"
+  },
+  "consistency": {
+    "p": "/kənˈsɪstənsi/",
+    "t": "一致性",
+    "en": "the quality of being consistent"
+  },
+  "predictive": {
+    "p": "/prɪˈdɪktɪv/",
+    "t": "预测性的",
+    "en": "relating to prediction"
+  },
+  "relative": {
+    "p": "/ˈrelətɪv/",
+    "t": "相对的",
+    "en": "considered in relation to something else"
+  },
+  "enormously": {
+    "p": "/ɪˈnɔːməsli/",
+    "t": "极大地",
+    "en": "to a very great extent"
+  },
+  "emphasises": {
+    "p": "/ˈemfəsaɪzɪz/",
+    "t": "强调",
+    "en": "gives special importance to"
+  },
+  "suspects": {
+    "p": "/səˈspekts/",
+    "t": "怀疑",
+    "en": "believes something is likely"
+  },
+  "companion": {
+    "p": "/kəmˈpænjən/",
+    "t": "同伴",
+    "en": "a person who accompanies or shares activities with another"
+  },
+  "roots": {
+    "p": "/ruːts/",
+    "t": "根；根源；根基",
+    "en": "underground parts; origins"
+  },
+  "bread": {
+    "p": "/bred/",
+    "t": "面包",
+    "en": "a staple food made from flour and water"
+  },
+  "derives": {
+    "p": "/dɪˈraɪvz/",
+    "t": "源于",
+    "en": "obtains from a source"
+  },
+  "characters": {
+    "p": "/ˈkærəktəz/",
+    "t": "字符；人物",
+    "en": "symbols or people in a story"
+  },
+  "stove": {
+    "p": "/stəʊv/",
+    "t": "炉子",
+    "en": "an appliance for heating or cooking"
+  },
+  "endorphin": {
+    "p": "/enˈdɔːfɪn/",
+    "t": "内啡肽",
+    "en": "a chemical in the brain that relieves pain and produces pleasure"
+  },
+  "feelgood": {
+    "p": "/ˌfiːlˈɡʊd/",
+    "t": "愉悦的",
+    "en": "producing a feeling of well-being"
+  },
+  "chemicals": {
+    "p": "/ˈkemɪkəlz/",
+    "t": "化学物质",
+    "en": "substances with a distinct molecular composition"
+  },
+  "highs": {
+    "p": "/haɪz/",
+    "t": "高潮；兴奋",
+    "en": "states of intense excitement or euphoria"
+  },
+  "heightened": {
+    "p": "/ˈhaɪtənd/",
+    "t": "增强的",
+    "en": "increased in intensity"
+  },
+  "reduced": {
+    "p": "/rɪˈdjuːst/",
+    "t": "减少的",
+    "en": "made smaller or less"
+  },
+  "regions": {
+    "p": "/ˈriːdʒənz/",
+    "t": "区域",
+    "en": "areas or parts of a larger place"
+  },
+  "persons": {
+    "p": "/ˈpɜːsənz/",
+    "t": "人",
+    "en": "individuals (formal plural of person)"
+  },
+  "tastier": {
+    "p": "/ˈteɪstiə/",
+    "t": "更美味的",
+    "en": "more flavorful"
+  },
+  "ageing": {
+    "p": "/ˈeɪdʒɪŋ/",
+    "t": "衰老",
+    "en": "the process of growing old"
+  },
+  "medial": {
+    "p": "/ˈmiːdiəl/",
+    "t": "内侧的",
+    "en": "situated toward the middle"
+  },
+  "hippocampus": {
+    "p": "/ˌhɪpəˈkæmpəs/",
+    "t": "海马体",
+    "en": "a brain region involved in memory"
+  },
+  "nutritious": {
+    "p": "/njuːˈtrɪʃəs/",
+    "t": "有营养的",
+    "en": "providing essential nutrients"
+  },
+  "foods": {
+    "p": "/fuːdz/",
+    "t": "食物",
+    "en": "items of food"
+  },
+  "speculated": {
+    "p": "/ˈspekjʊleɪtɪd/",
+    "t": "推测",
+    "en": "formed a theory without firm evidence"
+  },
+  "enjoyment": {
+    "p": "/ɪnˈdʒɔɪmənt/",
+    "t": "享受",
+    "en": "the state of taking pleasure in something"
+  },
+  "enhanced": {
+    "p": "/ɪnˈhɑːnst/",
+    "t": "增强的",
+    "en": "improved or increased in quality"
+  },
+  "soothe": {
+    "p": "/suːð/",
+    "t": "抚慰",
+    "en": "to calm or comfort"
+  },
+  "stimulation": {
+    "p": "/ˌstɪmjʊˈleɪʃən/",
+    "t": "刺激",
+    "en": "the act of encouraging activity or interest"
+  },
+  "keeps": {
+    "p": "/kiːps/",
+    "t": "保持",
+    "en": "maintains or continues"
+  },
+  "predispose": {
+    "p": "/ˌpriːdɪˈspəʊz/",
+    "t": "使倾向",
+    "en": "to make someone likely to behave in a certain way"
+  },
+  "preserve": {
+    "p": "/prɪˈzɜːv/",
+    "t": "保护；保存",
+    "en": "to keep something safe from harm or decay"
+  },
+  "conviviality": {
+    "p": "/kənˌvɪviˈæləti/",
+    "t": "欢乐气氛",
+    "en": "the quality of being friendly and lively"
+  },
+  "sociable": {
+    "p": "/ˈsəʊʃəbəl/",
+    "t": "好交际的",
+    "en": "enjoying the company of others"
+  },
+  "cuisine": {
+    "p": "/kwɪˈziːn/",
+    "t": "烹饪；菜肴",
+    "en": "a style or method of cooking"
+  },
+  "highlighted": {
+    "p": "/ˈhaɪlaɪtɪd/",
+    "t": "强调",
+    "en": "drew attention to"
+  },
+  "festivals": {
+    "p": "/ˈfestɪvəlz/",
+    "t": "节日",
+    "en": "special occasions of celebration"
+  },
+  "ceremonies": {
+    "p": "/ˈserɪməniz/",
+    "t": "仪式",
+    "en": "formal events or rituals"
+  },
+  "gatherings": {
+    "p": "/ˈɡæðərɪŋz/",
+    "t": "聚会",
+    "en": "meetings of people"
+  },
+  "originated": {
+    "p": "/əˈrɪdʒɪneɪtɪd/",
+    "t": "起源",
+    "en": "began or came into existence"
+  },
+  "direct": {
+    "p": "/dəˈrekt/",
+    "t": "直接的；指导",
+    "en": "straight; manage"
+  },
+  "popularity": {
+    "p": "/ˌpɒpjʊˈlærɪti/",
+    "t": "流行",
+    "en": "the state of being liked or admired by many"
+  },
+  "traditions": {
+    "p": "/trəˈdɪʃənz/",
+    "t": "传统",
+    "en": "customs passed down through generations"
+  },
+  "sustainable": {
+    "p": "/səˈsteɪnəbəl/",
+    "t": "可持续的",
+    "en": "able to be maintained over time"
+  },
+  "consumption": {
+    "p": "/kənˈsʌmpʃən/",
+    "t": "消费",
+    "en": "the act of using up resources or food"
+  },
+  "emphasised": {
+    "p": "/ˈemfəsaɪzd/",
+    "t": "强调",
+    "en": "stressed or given importance"
+  },
+  "centring": {
+    "p": "/ˈsentərɪŋ/",
+    "t": "以……为中心",
+    "en": "focusing on or placing at the center"
+  },
+  "philosophy": {
+    "p": "/fɪˈlɒsəfi/",
+    "t": "哲学",
+    "en": "the study of fundamental nature of knowledge and reality"
+  },
+  "isolated": {
+    "p": "/ˈaɪsəleɪtɪd/",
+    "t": "孤立的",
+    "en": "separated from others"
+  },
+  "surrounded": {
+    "p": "/səˈraʊndɪd/",
+    "t": "被包围的",
+    "en": "encircled or enclosed on all sides"
+  },
+  "literature": {
+    "p": "/ˈlɪtərətʃə/",
+    "t": "文学",
+    "en": "written works, especially those of artistic value"
+  },
+  "receptive": {
+    "p": "/rɪˈseptɪv/",
+    "t": "乐于接受的",
+    "en": "willing to accept new ideas"
+  },
+  "invitations": {
+    "p": "/ˌɪnvɪˈteɪʃənz/",
+    "t": "邀请",
+    "en": "requests for someone to attend an event"
+  },
+  "underestimate": {
+    "p": "/ˌʌndərˈestɪmeɪt/",
+    "t": "低估",
+    "en": "to judge something as less than it actually is"
+  },
+  "lonely": {
+    "p": "/ˈləʊnli/",
+    "t": "孤独的",
+    "en": "feeling sad due to lack of companionship"
+  },
+  "chewing": {
+    "p": "/ˈtʃuːɪŋ/",
+    "t": "咀嚼",
+    "en": "the act of grinding food with teeth"
+  },
+  "boosts": {
+    "p": "/buːsts/",
+    "t": "提升",
+    "en": "increases or improves"
+  },
+  "entrepreneur": {
+    "p": "/ˌɒntrəprəˈnɜː/",
+    "t": "企业家",
+    "en": "a person who starts and runs a business"
+  },
+  "founded": {
+    "p": "/ˈfaʊndɪd/",
+    "t": "创立；建立",
+    "en": "established"
+  },
+  "diners": {
+    "p": "/ˈdaɪnəz/",
+    "t": "食客",
+    "en": "people eating a meal"
+  },
+  "unsurprisingly": {
+    "p": "/ˌʌnsəˈpraɪzɪŋli/",
+    "t": "不出所料地",
+    "en": "as expected"
+  },
+  "socialise": {
+    "p": "/ˈsəʊʃəlaɪz/",
+    "t": "社交",
+    "en": "to interact with others socially"
+  },
+  "shouldnt": {
+    "p": "/ˈʃʊdnt/",
+    "t": "不应该",
+    "en": "should not"
+  },
+  "enlarge": {
+    "p": "/ɪnˈlɑːdʒ/",
+    "t": "扩大",
+    "en": "to make bigger"
+  },
+  "circle": {
+    "p": "/ˈsɜːkəl/",
+    "t": "圈子",
+    "en": "a group of people with shared interests"
+  },
+  "mentioned": {
+    "p": "/ˈmenʃənd/",
+    "t": "提到的",
+    "en": "referred to"
+  },
+  "platonic": {
+    "p": "/pləˈtɒnɪk/",
+    "t": "柏拉图式的",
+    "en": "non-romantic, purely intellectual or spiritual"
+  },
+  "dates": {
+    "p": "/deɪts/",
+    "t": "约会",
+    "en": "social meetings between romantic partners"
+  },
+  "campus": {
+    "p": "/ˈkæmpəs/",
+    "t": "校园",
+    "en": "the grounds of a university or college"
+  },
+  "initiative": {
+    "p": "/ɪˈnɪʃətɪv/",
+    "t": "倡议；主动性",
+    "en": "new plan; enterprise"
+  },
+  "enhance": {
+    "p": "/ɪnˈhɑːns/",
+    "t": "增强",
+    "en": "to improve or increase quality"
+  },
+  "longlasting": {
+    "p": "/ˌlɒŋˈlɑːstɪŋ/",
+    "t": "持久的",
+    "en": "enduring for a long time"
+  },
+  "happiness": {
+    "p": "/ˈhæpinəs/",
+    "t": "幸福",
+    "en": "the state of being happy"
+  },
+  "awardwinning": {
+    "p": "/əˈwɔːdˌwɪnɪŋ/",
+    "t": "获奖的",
+    "en": "having won an award"
+  },
+  "robson": {
+    "p": "/ˈrɒbsən/",
+    "t": "罗布森",
+    "en": "a surname"
+  },
+  "davidarobson": {
+    "p": "/ˌdeɪvɪdəˈrɒbsən/",
+    "t": "大卫·罗布森",
+    "en": "a person's name"
+  },
+  "storytelling": {
+    "p": "/ˈstɔːritelɪŋ/",
+    "t": "讲故事",
+    "en": "the art of telling stories"
+  },
+  "raccontatrice": {
+    "p": "/ˌrækɒntəˈtriːtʃeɪ/",
+    "t": "女说书人",
+    "en": "an Italian term for a female storyteller"
+  },
+  "courses": {
+    "p": "/kɔːsɪz/",
+    "t": "课程",
+    "en": "series of lessons or studies"
+  },
+  "april": {
+    "p": "/ˈeɪprəl/",
+    "t": "四月",
+    "en": "the fourth month of the year"
+  },
+  "attacked": {
+    "p": "/əˈtækt/",
+    "t": "攻击；抨击",
+    "en": "assaulted or criticized forcefully"
+  },
+  "incentives": {
+    "p": "/ɪnˈsɛntɪvz/",
+    "t": "激励；刺激",
+    "en": "things that motivate or encourage action"
+  },
+  "wealthy": {
+    "p": "/ˈwɛlθi/",
+    "t": "富有的",
+    "en": "having a great deal of money or assets"
+  },
+  "location": {
+    "p": "/loʊˈkeɪʃən/",
+    "t": "位置；地点",
+    "en": "a place or position"
+  },
+  "wasnt": {
+    "p": "/ˈwɒzənt/",
+    "t": "不是（was not 的缩写）",
+    "en": "contraction of was not"
+  },
+  "insists": {
+    "p": "/ɪnˈsɪsts/",
+    "t": "坚持；坚决要求",
+    "en": "demands or asserts firmly"
+  },
+  "bella": {
+    "p": "/ˈbɛlə/",
+    "t": "贝拉（女子名）；美丽的（意大利语）",
+    "en": "a female name; beautiful (Italian)"
+  },
+  "offered": {
+    "p": "/ˈɒfəd/",
+    "t": "提供；主动提出",
+    "en": "presented or proposed for acceptance"
+  },
+  "fixed": {
+    "p": "/fɪkst/",
+    "t": "固定的；修理",
+    "en": "securely placed; repaired"
+  },
+  "exemptions": {
+    "p": "/ɪɡˈzɛmpʃənz/",
+    "t": "豁免；免税",
+    "en": "exceptions from a rule or tax"
+  },
+  "describes": {
+    "p": "/dɪˈskraɪbz/",
+    "t": "描述；形容",
+    "en": "gives an account of in words"
+  },
+  "moderately": {
+    "p": "/ˈmɒdərətli/",
+    "t": "适度地；中等程度地",
+    "en": "to a moderate degree"
+  },
+  "selling": {
+    "p": "/ˈsɛlɪŋ/",
+    "t": "出售；销售",
+    "en": "the act of exchanging for money"
+  },
+  "billionaires": {
+    "p": "/ˌbɪljəˈnɛrz/",
+    "t": "亿万富翁",
+    "en": "people with assets worth a billion or more"
+  },
+  "taxman": {
+    "p": "/ˈtæksmæn/",
+    "t": "税务员；税务局",
+    "en": "a tax collector or tax authority"
+  },
+  "frais": {
+    "p": "/freɪ/",
+    "t": "费用（法语）",
+    "en": "fees or costs (French)"
+  },
+  "notaire": {
+    "p": "/noʊˈtɛər/",
+    "t": "公证人（法国等）",
+    "en": "a notary public in certain countries"
+  },
+  "solicitors": {
+    "p": "/səˈlɪsɪtəz/",
+    "t": "律师（英国）",
+    "en": "lawyers who advise clients and prepare legal documents"
+  },
+  "theres": {
+    "p": "/ðɛrz/",
+    "t": "有；存在（there is 的缩写）",
+    "en": "contraction of there is"
+  },
+  "exemption": {
+    "p": "/ɪɡˈzɛmpʃən/",
+    "t": "豁免；免税",
+    "en": "the action of freeing from an obligation or tax"
+  },
+  "prima": {
+    "p": "/ˈpriːmə/",
+    "t": "第一的；主要的（意大利语）",
+    "en": "first; primary (Italian)"
+  },
+  "transformed": {
+    "p": "/trænsˈfɔːmd/",
+    "t": "改变；转化",
+    "en": "changed completely in form or appearance"
+  },
+  "estate": {
+    "p": "/ɪˈsteɪt/",
+    "t": "财产；房地产",
+    "en": "all the property owned by a person; land or property"
+  },
+  "stock": {
+    "p": "/stɒk/",
+    "t": "股票；库存",
+    "en": "shares in a company; supply of goods"
+  },
+  "investments": {
+    "p": "/ɪnˈvɛstmənts/",
+    "t": "投资",
+    "en": "assets acquired for future income or profit"
+  },
+  "affected": {
+    "p": "/əˈfektɪd/",
+    "t": "受影响的；做作的",
+    "en": "influenced; artificial"
+  },
+  "indeed": {
+    "p": "/ɪnˈdiːd/",
+    "t": "确实；实际上",
+    "en": "used to emphasize a statement"
+  },
+  "fonci": {
+    "p": "/fɒnˈsiː/",
+    "t": "房地产的（法语缩写，如 foncière）",
+    "en": "relating to real estate (French abbreviation)"
+  },
+  "concerned": {
+    "p": "/kənˈsɜːnd/",
+    "t": "担心的；有关的",
+    "en": "worried; involved or interested"
+  },
+  "threshold": {
+    "p": "/ˈθrɛʃhoʊld/",
+    "t": "门槛；临界值",
+    "en": "the point at which something begins or changes"
+  },
+  "taxfree": {
+    "p": "/ˈtæksfriː/",
+    "t": "免税的",
+    "en": "exempt from taxation"
+  },
+  "sliding": {
+    "p": "/ˈslaɪdɪŋ/",
+    "t": "滑动的；可调整的",
+    "en": "moving smoothly; adjustable (e.g., scale)"
+  },
+  "fiscal": {
+    "p": "/ˈfɪskəl/",
+    "t": "财政的；税收的",
+    "en": "relating to government revenue or taxes"
+  },
+  "paradise": {
+    "p": "/ˈpærədaɪs/",
+    "t": "天堂；乐园",
+    "en": "an ideal or idyllic place"
+  },
+  "levied": {
+    "p": "/ˈlɛvɪd/",
+    "t": "征收（税等）",
+    "en": "imposed or collected (as a tax)"
+  },
+  "euros": {
+    "p": "/ˈjʊəroʊz/",
+    "t": "欧元",
+    "en": "the currency of the Eurozone"
+  },
+  "taxable": {
+    "p": "/ˈtæksəbəl/",
+    "t": "应纳税的",
+    "en": "subject to taxation"
+  },
+  "worldwide": {
+    "p": "/ˈwɜːldwaɪd/",
+    "t": "全世界的",
+    "en": "extending throughout the world"
+  },
+  "regime": {
+    "p": "/reɪˈʒiːm/",
+    "t": "制度；政权",
+    "en": "a system of rules or government"
+  },
+  "sympathetic": {
+    "p": "/ˌsɪmpəˈθɛtɪk/",
+    "t": "同情的；体谅的",
+    "en": "showing compassion; understanding"
+  },
+  "certainty": {
+    "p": "/ˈsɜːtənti/",
+    "t": "确定性；必然",
+    "en": "the state of being certain"
+  },
+  "services": {
+    "p": "/ˈsɜːvɪsɪz/",
+    "t": "服务；服务行业",
+    "en": "work done for others; service sector"
+  },
+  "specialists": {
+    "p": "/ˈspɛʃəlɪsts/",
+    "t": "专家；专科医生",
+    "en": "people with expertise in a particular field"
+  },
+  "lawyer": {
+    "p": "/ˈlɔːjər/",
+    "t": "律师",
+    "en": "a person qualified to practice law"
+  },
+  "unhappy": {
+    "p": "/ʌnˈhæpi/",
+    "t": "不快乐的；不满意的",
+    "en": "not happy; displeased"
+  },
+  "harsher": {
+    "p": "/ˈhɑːʃər/",
+    "t": "更严厉的；更苛刻的",
+    "en": "more severe or cruel"
+  },
+  "frightened": {
+    "p": "/ˈfraɪtənd/",
+    "t": "害怕的；受惊的",
+    "en": "afraid or scared"
+  },
+  "entrepreneurs": {
+    "p": "/ˌɒntrəprəˈnɜːz/",
+    "t": "企业家",
+    "en": "people who start and manage businesses"
+  },
+  "careful": {
+    "p": "/ˈkɛəfəl/",
+    "t": "小心的；仔细的",
+    "en": "taking care; cautious"
+  },
+  "structuring": {
+    "p": "/ˈstrʌktʃərɪŋ/",
+    "t": "结构安排；组织",
+    "en": "the arrangement or organization of something"
+  },
+  "stresses": {
+    "p": "/ˈstrɛsɪz/",
+    "t": "强调；压力",
+    "en": "emphasizes; physical or mental tension"
+  },
+  "businessowners": {
+    "p": "/ˈbɪznɪsˌoʊnərz/",
+    "t": "企业主",
+    "en": "people who own businesses"
+  },
+  "thinkingaboutmoving": {
+    "p": "/ˈθɪŋkɪŋ əbaʊt ˈmuːvɪŋ/",
+    "t": "考虑搬迁",
+    "en": "considering relocating"
+  },
+  "acutely": {
+    "p": "/əˈkjuːtli/",
+    "t": "敏锐地；强烈地",
+    "en": "intensely; keenly"
+  },
+  "inevitable": {
+    "p": "/ɪnˈɛvɪtəbəl/",
+    "t": "不可避免的",
+    "en": "certain to happen; unavoidable"
+  },
+  "reconsider": {
+    "p": "/ˌriːkənˈsɪdər/",
+    "t": "重新考虑",
+    "en": "consider again"
+  },
+  "zerotax": {
+    "p": "/ˈzɪroʊ tæks/",
+    "t": "零税收",
+    "en": "no tax levied"
+  },
+  "pocket": {
+    "p": "/ˈpɒkɪt/",
+    "t": "口袋；钱袋",
+    "en": "a small bag in clothing; financial resources"
+  },
+  "formalities": {
+    "p": "/fɔːˈmælɪtiz/",
+    "t": "正式手续",
+    "en": "official procedures or formal actions"
+  },
+  "returns": {
+    "p": "/rɪˈtɜːnz/",
+    "t": "回报；纳税申报表",
+    "en": "profits; tax declaration forms"
+  },
+  "tourism": {
+    "p": "/ˈtʊərɪzəm/",
+    "t": "旅游业；观光",
+    "en": "the business of providing services to tourists"
+  },
+  "reels": {
+    "p": "/riːlz/",
+    "t": "踉跄；震惊",
+    "en": "staggers; feels shocked or disoriented"
+  },
+  "cannabis": {
+    "p": "/ˈkænəbɪs/",
+    "t": "大麻",
+    "en": "a drug from the hemp plant"
+  },
+  "wholesale": {
+    "p": "/ˈhoʊlseɪl/",
+    "t": "批发；大规模的",
+    "en": "selling in large quantities; extensive"
+  },
+  "uproot": {
+    "p": "/ʌpˈruːt/",
+    "t": "连根拔起；使离开家园",
+    "en": "pull out by the roots; force to leave home"
+  },
+  "involves": {
+    "p": "/ɪnˈvɒlvz/",
+    "t": "涉及；包含",
+    "en": "includes or entails"
+  },
+  "millionaires": {
+    "p": "/ˌmɪljəˈnɛrz/",
+    "t": "百万富翁",
+    "en": "people with assets worth a million or more"
+  },
+  "drags": {
+    "p": "/dræɡz/",
+    "t": "拖累；拖延",
+    "en": "pulls along; slows down or prolongs"
+  },
+  "inevitably": {
+    "p": "/ɪnˈɛvɪtəbli/",
+    "t": "不可避免地",
+    "en": "in an inevitable way"
+  },
+  "relocate": {
+    "p": "/ˌriːloʊˈkeɪt/",
+    "t": "搬迁；重新安置",
+    "en": "move to a new place"
+  },
+  "remotely": {
+    "p": "/rɪˈmoʊtli/",
+    "t": "远程地；遥远地",
+    "en": "from a distance; via technology"
+  },
+  "safer": {
+    "p": "/ˈseɪfər/",
+    "t": "更安全的",
+    "en": "more safe"
+  },
+  "arent": {
+    "p": "/ɑːnt/",
+    "t": "不是（are not 的缩写）",
+    "en": "contraction of are not"
+  },
+  "dissuade": {
+    "p": "/dɪˈsweɪd/",
+    "t": "劝阻",
+    "en": "persuade someone not to do something"
+  },
+  "relocating": {
+    "p": "/ˌriːloʊˈkeɪtɪŋ/",
+    "t": "正在搬迁",
+    "en": "the act of moving to a new place"
+  },
+  "destination": {
+    "p": "/ˌdɛstɪˈneɪʃən/",
+    "t": "目的地",
+    "en": "the place to which someone is going"
+  },
+  "migrating": {
+    "p": "/maɪˈɡreɪtɪŋ/",
+    "t": "迁移；移居",
+    "en": "moving from one place to another"
+  },
+  "bound": {
+    "p": "/baʊnd/",
+    "t": "必然的；受约束的",
+    "en": "certain; tied or obligated"
+  },
+  "tumble": {
+    "p": "/ˈtʌmbəl/",
+    "t": "暴跌；摔倒",
+    "en": "fall suddenly or dramatically"
+  },
+  "reputation": {
+    "p": "/ˌrɛpjʊˈteɪʃən/",
+    "t": "名声；声誉",
+    "en": "the general opinion held about someone or something"
+  },
+  "dolce": {
+    "p": "/ˈdoʊltʃeɪ/",
+    "t": "甜美的；温柔的（意大利语）",
+    "en": "sweet; gentle (Italian)"
+  },
+  "expert": {
+    "p": "/ˈɛkspɜːt/",
+    "t": "专家；行家",
+    "en": "a person with special knowledge or skill"
+  },
+  "boardroom": {
+    "p": "/ˈbɔːrdruːm/",
+    "t": "董事会会议室",
+    "en": "a room where a board of directors meets"
+  },
+  "delivers": {
+    "p": "/dɪˈlɪvəz/",
+    "t": "交付；发表",
+    "en": "brings or hands over; gives a speech"
+  },
+  "proved": {
+    "p": "/pruːvd/",
+    "t": "证明；证实",
+    "en": "demonstrated to be true"
+  },
+  "shaping": {
+    "p": "/ˈʃeɪpɪŋ/",
+    "t": "塑造；成形",
+    "en": "forming or influencing"
+  },
+  "cables": {
+    "p": "/ˈkeɪbəlz/",
+    "t": "电缆；缆绳",
+    "en": "thick wires or ropes"
+  },
+  "lights": {
+    "p": "/laɪts/",
+    "t": "灯；光",
+    "en": "electric lamps or illumination"
+  },
+  "polish": {
+    "p": "/ˈpɒlɪʃ/",
+    "t": "抛光；擦亮；光泽",
+    "en": "to make smooth and shiny; shine"
+  },
+  "riding": {
+    "p": "/ˈraɪdɪŋ/",
+    "t": "骑；乘坐",
+    "en": "sitting on and controlling a vehicle or animal"
+  },
+  "collided": {
+    "p": "/kəˈlaɪdɪd/",
+    "t": "碰撞；相撞",
+    "en": "hit each other forcefully"
+  },
+  "sedan": {
+    "p": "/sɪˈdæn/",
+    "t": "轿车",
+    "en": "a car with a closed body and four doors"
+  },
+  "intersection": {
+    "p": "/ˌɪntəˈsekʃn/",
+    "t": "十字路口；交叉口",
+    "en": "point where roads cross"
+  },
+  "hospital": {
+    "p": "/ˈhɒspɪtl/",
+    "t": "医院",
+    "en": "institution for medical care"
+  },
+  "physician": {
+    "p": "/fɪˈzɪʃn/",
+    "t": "医生；内科医师",
+    "en": "medical doctor"
+  },
+  "misty": {
+    "p": "/ˈmɪsti/",
+    "t": "多雾的；模糊的",
+    "en": "full of mist; hazy"
+  },
+  "radio": {
+    "p": "/ˈreɪdiəʊ/",
+    "t": "无线电；收音机",
+    "en": "device for receiving broadcasts"
+  },
+  "ninepart": {
+    "p": "/ˈnaɪnpɑːt/",
+    "t": "九部分的",
+    "en": "consisting of nine parts"
+  },
+  "inexplicably": {
+    "p": "/ˌɪnɪkˈsplɪkəbli/",
+    "t": "无法解释地",
+    "en": "in a way that cannot be explained"
+  },
+  "swift": {
+    "p": "/swɪft/",
+    "t": "迅速的；敏捷的",
+    "en": "moving quickly"
+  },
+  "lightfilled": {
+    "p": "/ˈlaɪtfɪld/",
+    "t": "充满光线的",
+    "en": "filled with light"
+  },
+  "lifelong": {
+    "p": "/ˈlaɪflɒŋ/",
+    "t": "终身的；一生的",
+    "en": "lasting throughout life"
+  },
+  "philanthropist": {
+    "p": "/fɪˈlænθrəpɪst/",
+    "t": "慈善家",
+    "en": "person who seeks to promote welfare"
+  },
+  "truest": {
+    "p": "/ˈtruːɪst/",
+    "t": "最真实的；最忠诚的",
+    "en": "most genuine or faithful"
+  },
+  "etymological": {
+    "p": "/ˌetɪməˈlɒdʒɪkl/",
+    "t": "词源学的",
+    "en": "relating to word origins"
+  },
+  "lover": {
+    "p": "/ˈlʌvə/",
+    "t": "爱人；爱好者",
+    "en": "person who loves; enthusiast"
+  },
+  "humankind": {
+    "p": "/ˌhjuːmənˈkaɪnd/",
+    "t": "人类",
+    "en": "human beings collectively"
+  },
+  "fellow": {
+    "p": "/ˈfeləʊ/",
+    "t": "同伴；家伙",
+    "en": "man; companion"
+  },
+  "check": {
+    "p": "/tʃek/",
+    "t": "检查；支票；制止",
+    "en": "examine; written order for payment"
+  },
+  "donation": {
+    "p": "/dəʊˈneɪʃn/",
+    "t": "捐赠；捐款",
+    "en": "gift to a cause"
+  },
+  "kindest": {
+    "p": "/ˈkaɪndɪst/",
+    "t": "最仁慈的；最友善的",
+    "en": "most kind"
+  },
+  "philanthropic": {
+    "p": "/ˌfɪlənˈθrɒpɪk/",
+    "t": "慈善的；博爱的",
+    "en": "relating to charity"
+  },
+  "yesterday": {
+    "p": "/ˈjestədeɪ/",
+    "t": "昨天",
+    "en": "the day before today"
+  },
+  "siblings": {
+    "p": "/ˈsɪblɪŋz/",
+    "t": "兄弟姐妹",
+    "en": "brothers or sisters"
+  },
+  "credited": {
+    "p": "/ˈkredɪtɪd/",
+    "t": "归功于；信任",
+    "en": "attributed to; believed"
+  },
+  "upbringing": {
+    "p": "/ˈʌpbrɪŋɪŋ/",
+    "t": "教养；抚育",
+    "en": "rearing and training"
+  },
+  "persona": {
+    "p": "/pəˈsəʊnə/",
+    "t": "人格面具；形象",
+    "en": "social facade or character"
+  },
+  "kitschy": {
+    "p": "/ˈkɪtʃi/",
+    "t": "庸俗的；俗气的",
+    "en": "tacky, lowbrow style"
+  },
+  "highfemme": {
+    "p": "/haɪ fɛm/",
+    "t": "高女性化风格",
+    "en": "very feminine style"
+  },
+  "glamour": {
+    "p": "/ˈɡlæmə/",
+    "t": "魅力；诱惑力",
+    "en": "alluring beauty or charm"
+  },
+  "poofy": {
+    "p": "/ˈpuːfi/",
+    "t": "蓬松的；鼓起的",
+    "en": "puffy, fluffy"
+  },
+  "rhinestones": {
+    "p": "/ˈraɪnstəʊnz/",
+    "t": "人造钻石；水钻",
+    "en": "imitation diamonds"
+  },
+  "optimism": {
+    "p": "/ˈɒptɪmɪzəm/",
+    "t": "乐观；乐观主义",
+    "en": "hopefulness about future"
+  },
+  "foray": {
+    "p": "/ˈfɒreɪ/",
+    "t": "初次尝试；突袭",
+    "en": "initial attempt; raid"
+  },
+  "philanthropy": {
+    "p": "/fɪˈlænθrəpi/",
+    "t": "慈善事业；博爱",
+    "en": "charitable acts"
+  },
+  "doled": {
+    "p": "/dəʊld/",
+    "t": "发放；施舍",
+    "en": "distributed in small amounts"
+  },
+  "jawdropping": {
+    "p": "/ˈdʒɔːdrɒpɪŋ/",
+    "t": "令人瞠目结舌的",
+    "en": "astonishing"
+  },
+  "remarked": {
+    "p": "/rɪˈmɑːkt/",
+    "t": "评论；说起",
+    "en": "commented; said"
+  },
+  "payments": {
+    "p": "/ˈpeɪmənts/",
+    "t": "付款；支付款",
+    "en": "amounts paid"
+  },
+  "pediatric": {
+    "p": "/ˌpiːdiˈætrɪk/",
+    "t": "儿科的",
+    "en": "relating to children's medicine"
+  },
+  "infectiousdisease": {
+    "p": "/ɪnˈfekʃəs dɪˈziːz/",
+    "t": "传染病",
+    "en": "illness spread between people"
+  },
+  "charities": {
+    "p": "/ˈtʃærətiz/",
+    "t": "慈善机构",
+    "en": "organizations for aid"
+  },
+  "sanctuary": {
+    "p": "/ˈsæŋktʃuəri/",
+    "t": "庇护所；保护区",
+    "en": "place of refuge or protection"
+  },
+  "injured": {
+    "p": "/ˈɪndʒəd/",
+    "t": "受伤的",
+    "en": "harmed physically"
+  },
+  "eagles": {
+    "p": "/ˈiːɡlz/",
+    "t": "鹰",
+    "en": "large birds of prey"
+  },
+  "conservationists": {
+    "p": "/ˌkɒnsəˈveɪʃənɪsts/",
+    "t": "环保人士；保护主义者",
+    "en": "people who protect nature"
+  },
+  "storm": {
+    "p": "/stɔːm/",
+    "t": "暴风雨；风暴",
+    "en": "violent weather"
+  },
+  "rehoming": {
+    "p": "/ˌriːˈhəʊmɪŋ/",
+    "t": "重新安置家园",
+    "en": "finding new home for"
+  },
+  "privately": {
+    "p": "/ˈpraɪvətli/",
+    "t": "私下地；私人地",
+    "en": "not publicly"
+  },
+  "characteristic": {
+    "p": "/ˌkærəktəˈrɪstɪk/",
+    "t": "特征；特有的",
+    "en": "typical feature; distinctive"
+  },
+  "blessings": {
+    "p": "/ˈblesɪŋz/",
+    "t": "祝福；幸事",
+    "en": "things that bring happiness"
+  },
+  "casually": {
+    "p": "/ˈkæʒuəli/",
+    "t": "随意地；偶然地",
+    "en": "in relaxed manner"
+  },
+  "uniforms": {
+    "p": "/ˈjuːnɪfɔːmz/",
+    "t": "制服",
+    "en": "distinctive clothing"
+  },
+  "recipient": {
+    "p": "/rɪˈsɪpiənt/",
+    "t": "接受者；收件人",
+    "en": "person who receives"
+  },
+  "wings": {
+    "p": "/wɪŋz/",
+    "t": "翅膀；机翼",
+    "en": "feathered limbs for flight"
+  },
+  "kindness": {
+    "p": "/ˈkaɪndnəs/",
+    "t": "善良；仁慈",
+    "en": "quality of being kind"
+  },
+  "nicest": {
+    "p": "/ˈnaɪsɪst/",
+    "t": "最好的；最友好的",
+    "en": "most pleasant"
+  },
+  "enthralling": {
+    "p": "/ɪnˈθrɔːlɪŋ/",
+    "t": "迷人的；吸引人的",
+    "en": "captivating"
+  },
+  "addicted": {
+    "p": "/əˈdɪktɪd/",
+    "t": "上瘾的；沉迷的",
+    "en": "dependent on"
+  },
+  "legendary": {
+    "p": "/ˈledʒəndri/",
+    "t": "传奇的；著名的",
+    "en": "famous; mythical"
+  },
+  "multimillionaire": {
+    "p": "/ˌmʌltiˌmɪljəˈneə/",
+    "t": "千万富翁",
+    "en": "person with millions of money"
+  },
+  "superstar": {
+    "p": "/ˈsuːpəstɑː/",
+    "t": "超级明星",
+    "en": "very famous performer"
   }
 }
