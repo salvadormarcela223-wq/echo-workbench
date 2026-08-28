@@ -26778,5 +26778,1465 @@
     "p": "/seɪnt/",
     "t": "圣人；圣徒",
     "en": "a holy person; a very good person"
+  },
+  "hacking": {
+    "p": "/ˈhækɪŋ/",
+    "t": "黑客行为；非法入侵",
+    "en": "the act of gaining unauthorized access to computer systems"
+  },
+  "ignored": {
+    "p": "/ɪɡˈnɔːd/",
+    "t": "被忽视的",
+    "en": "past tense of ignore; not paid attention to"
+  },
+  "cyber": {
+    "p": "/ˈsaɪbə/",
+    "t": "网络的；与计算机相关的",
+    "en": "relating to computers, the internet, or virtual reality"
+  },
+  "criminals": {
+    "p": "/ˈkrɪmɪnəlz/",
+    "t": "罪犯",
+    "en": "people who commit crimes"
+  },
+  "worldrenowned": {
+    "p": "/ˌwɜːld rɪˈnaʊnd/",
+    "t": "世界闻名的",
+    "en": "known and respected throughout the world"
+  },
+  "software": {
+    "p": "/ˈsɒftweə/",
+    "t": "软件",
+    "en": "programs and instructions that run on a computer"
+  },
+  "mainstream": {
+    "p": "/ˈmeɪnstriːm/",
+    "t": "主流的",
+    "en": "the prevailing trend or common practice"
+  },
+  "obsolete": {
+    "p": "/ˈɒbsəliːt/",
+    "t": "过时的；淘汰的",
+    "en": "no longer in use or no longer useful"
+  },
+  "technical": {
+    "p": "/ˈteknɪkəl/",
+    "t": "技术的",
+    "en": "relating to specialized knowledge or skills"
+  },
+  "superior": {
+    "p": "/suːˈpɪəriə/",
+    "t": "更好的；优越的",
+    "en": "higher in quality or value"
+  },
+  "perfectly": {
+    "p": "/ˈpɜːfɪktli/",
+    "t": "完美地；完全地",
+    "en": "in a perfect way; completely"
+  },
+  "secure": {
+    "p": "/sɪˈkjʊə/",
+    "t": "安全的；稳固的",
+    "en": "free from danger or threat"
+  },
+  "switched": {
+    "p": "/swɪtʃt/",
+    "t": "转换；改变",
+    "en": "past tense of switch; changed from one thing to another"
+  },
+  "newer": {
+    "p": "/ˈnjuːə/",
+    "t": "更新的",
+    "en": "comparative of new; more recent"
+  },
+  "realised": {
+    "p": "/ˈrɪəlaɪzd/",
+    "t": "意识到",
+    "en": "past tense of realise; became aware of"
+  },
+  "hackers": {
+    "p": "/ˈhækəz/",
+    "t": "黑客",
+    "en": "people who use computers to gain unauthorized access"
+  },
+  "forgetting": {
+    "p": "/fəˈɡetɪŋ/",
+    "t": "忘记",
+    "en": "present participle of forget; failing to remember"
+  },
+  "antiquity": {
+    "p": "/ænˈtɪkwəti/",
+    "t": "古代；古老",
+    "en": "the ancient past, especially before the Middle Ages"
+  },
+  "obsolescence": {
+    "p": "/ˌɒbsəˈlesns/",
+    "t": "过时；淘汰",
+    "en": "the state of being no longer useful or used"
+  },
+  "counterintuitively": {
+    "p": "/ˌkaʊntərɪnˈtjuːɪtɪvli/",
+    "t": "反直觉地",
+    "en": "in a way that contradicts common sense or intuition"
+  },
+  "alternatives": {
+    "p": "/ɔːlˈtɜːnətɪvz/",
+    "t": "替代品；选择",
+    "en": "other options or possibilities"
+  },
+  "patched": {
+    "p": "/pætʃt/",
+    "t": "修补的；打补丁的",
+    "en": "fixed or updated with a patch"
+  },
+  "optimum": {
+    "p": "/ˈɒptɪməm/",
+    "t": "最佳的；最优的",
+    "en": "best or most favorable"
+  },
+  "preferable": {
+    "p": "/ˈprefərəbl/",
+    "t": "更可取的",
+    "en": "more desirable or suitable"
+  },
+  "standpoint": {
+    "p": "/ˈstændpɔɪnt/",
+    "t": "观点；立场",
+    "en": "a particular way of thinking about something"
+  },
+  "attackers": {
+    "p": "/əˈtækəz/",
+    "t": "攻击者",
+    "en": "people who launch attacks"
+  },
+  "target": {
+    "p": "/ˈtɑːɡɪt/",
+    "t": "目标；靶子",
+    "en": "an object or person aimed at"
+  },
+  "groundbased": {
+    "p": "/ˈɡraʊndbeɪst/",
+    "t": "地面上的；基于地面的",
+    "en": "operating on or from the ground"
+  },
+  "navigation": {
+    "p": "/ˌnævɪˈɡeɪʃən/",
+    "t": "导航；航行",
+    "en": "the process of determining position and course"
+  },
+  "beacons": {
+    "p": "/ˈbiːkənz/",
+    "t": "信标；灯塔",
+    "en": "signals or devices that guide or warn"
+  },
+  "supposedly": {
+    "p": "/səˈpəʊzɪdli/",
+    "t": "据称；据说",
+    "en": "according to what is generally believed or claimed"
+  },
+  "satellitebased": {
+    "p": "/ˈsætəlaɪtbeɪst/",
+    "t": "基于卫星的",
+    "en": "using satellites for operation"
+  },
+  "positioning": {
+    "p": "/pəˈzɪʃənɪŋ/",
+    "t": "定位；位置确定",
+    "en": "the act of determining or fixing position"
+  },
+  "proven": {
+    "p": "/ˈpruːvən/",
+    "t": "被证明的",
+    "en": "shown to be true or effective"
+  },
+  "susceptible": {
+    "p": "/səˈseptəbl/",
+    "t": "易受影响的",
+    "en": "likely to be affected by something"
+  },
+  "jamming": {
+    "p": "/ˈdʒæmɪŋ/",
+    "t": "干扰；堵塞",
+    "en": "interference with signals or communications"
+  },
+  "beating": {
+    "p": "/ˈbiːtɪŋ/",
+    "t": "击败；胜过",
+    "en": "defeating or outperforming"
+  },
+  "cybercriminals": {
+    "p": "/ˈsaɪbəkrɪmɪnlz/",
+    "t": "网络罪犯",
+    "en": "people who commit crimes using computers or the internet"
+  },
+  "enemy": {
+    "p": "/ˈenəmi/",
+    "t": "敌人",
+    "en": "a person or group that opposes or attacks"
+  },
+  "emeritus": {
+    "p": "/ɪˈmerɪtəs/",
+    "t": "荣誉退休的",
+    "en": "retired but retaining an honorary title"
+  },
+  "principle": {
+    "p": "/ˈprɪnsəpl/",
+    "t": "原则；原理",
+    "en": "a fundamental truth or rule"
+  },
+  "accessible": {
+    "p": "/əkˈsesəbl/",
+    "t": "可访问的；可获得的",
+    "en": "able to be reached or used"
+  },
+  "breach": {
+    "p": "/briːtʃ/",
+    "t": "破坏；违反；漏洞",
+    "en": "a gap or violation, especially in security"
+  },
+  "cybersecurity": {
+    "p": "/ˌsaɪbəsɪˈkjʊərəti/",
+    "t": "网络安全",
+    "en": "protection of computer systems from attacks"
+  },
+  "honeypot": {
+    "p": "/ˈhʌnipɒt/",
+    "t": "蜜罐；诱饵",
+    "en": "a decoy system to attract and trap attackers"
+  },
+  "upgraded": {
+    "p": "/ˌʌpˈɡreɪdɪd/",
+    "t": "升级的",
+    "en": "improved or updated to a better version"
+  },
+  "consequently": {
+    "p": "/ˈkɒnsɪkwəntli/",
+    "t": "因此；结果",
+    "en": "as a result"
+  },
+  "bothered": {
+    "p": "/ˈbɒðəd/",
+    "t": "打扰；烦恼",
+    "en": "past tense of bother; annoyed or troubled"
+  },
+  "recalls": {
+    "p": "/rɪˈkɔːlz/",
+    "t": "召回，回忆",
+    "en": "remembers or officially calls back"
+  },
+  "possibility": {
+    "p": "/ˌpɒsəˈbɪləti/",
+    "t": "可能性",
+    "en": "the state of being possible"
+  },
+  "evading": {
+    "p": "/ɪˈveɪdɪŋ/",
+    "t": "逃避；躲避",
+    "en": "present participle of evade; avoiding or escaping"
+  },
+  "nefarious": {
+    "p": "/nɪˈfeəriəs/",
+    "t": "邪恶的；不法的",
+    "en": "wicked or criminal"
+  },
+  "activity": {
+    "p": "/ækˈtɪvəti/",
+    "t": "活动；行为",
+    "en": "something done; action"
+  },
+  "sticking": {
+    "p": "/ˈstɪkɪŋ/",
+    "t": "坚持；粘贴",
+    "en": "present participle of stick; attaching or continuing"
+  },
+  "smartphone": {
+    "p": "/ˈsmɑːtfəʊn/",
+    "t": "智能手机",
+    "en": "a mobile phone with advanced computing capabilities"
+  },
+  "questioned": {
+    "p": "/ˈkwestʃənd/",
+    "t": "质疑；询问",
+    "en": "past tense of question; asked or doubted"
+  },
+  "flipside": {
+    "p": "/ˈflɪpsaɪd/",
+    "t": "反面；另一面",
+    "en": "the other side or aspect"
+  },
+  "nobodys": {
+    "p": "/ˈnəʊbɒdiz/",
+    "t": "没有人的（所有格）",
+    "en": "belonging to no one"
+  },
+  "techniques": {
+    "p": "/tekˈniːkz/",
+    "t": "技术；技巧",
+    "en": "methods or skills"
+  },
+  "snoop": {
+    "p": "/snuːp/",
+    "t": "窥探；打探",
+    "en": "to secretly watch or investigate"
+  },
+  "bother": {
+    "p": "/ˈbɒðə/",
+    "t": "麻烦；打扰",
+    "en": "to cause trouble or annoyance"
+  },
+  "electronic": {
+    "p": "/ɪˌlekˈtrɒnɪk/",
+    "t": "电子的",
+    "en": "relating to devices using electricity and circuits"
+  },
+  "desirable": {
+    "p": "/dɪˈzaɪərəbl/",
+    "t": "值得拥有的；可取的",
+    "en": "worth having or wanting"
+  },
+  "paperbased": {
+    "p": "/ˈpeɪpəbeɪst/",
+    "t": "基于纸张的",
+    "en": "using paper rather than digital media"
+  },
+  "bedrock": {
+    "p": "/ˈbedrɒk/",
+    "t": "基石；基础",
+    "en": "the solid rock beneath soil; a solid foundation"
+  },
+  "weaken": {
+    "p": "/ˈwiːkən/",
+    "t": "削弱；变弱",
+    "en": "to make or become less strong"
+  },
+  "militaries": {
+    "p": "/ˈmɪlɪtriz/",
+    "t": "军队；军事力量",
+    "en": "armed forces of a country"
+  },
+  "reliability": {
+    "p": "/rɪˌlaɪəˈbɪləti/",
+    "t": "可靠性",
+    "en": "the quality of being dependable"
+  },
+  "laminated": {
+    "p": "/ˈlæmɪneɪtɪd/",
+    "t": "层压的；覆膜的",
+    "en": "covered with a thin layer of plastic or metal"
+  },
+  "compasses": {
+    "p": "/ˈkʌmpəsɪz/",
+    "t": "指南针；罗盘",
+    "en": "instruments for finding direction"
+  },
+  "hitting": {
+    "p": "/ˈhɪtɪŋ/",
+    "t": "击中；打击",
+    "en": "present participle of hit; striking"
+  },
+  "retain": {
+    "p": "/rɪˈteɪn/",
+    "t": "保留；保持",
+    "en": "to keep or continue to have"
+  },
+  "slowed": {
+    "p": "/sləʊd/",
+    "t": "减慢的",
+    "en": "past tense of slow; made slower"
+  },
+  "spokeswoman": {
+    "p": "/ˈspəʊkswʊmən/",
+    "t": "女发言人",
+    "en": "a female spokesperson"
+  },
+  "retained": {
+    "p": "/rɪˈteɪnd/",
+    "t": "保留的",
+    "en": "past tense of retain; kept"
+  },
+  "designing": {
+    "p": "/dɪˈzaɪnɪŋ/",
+    "t": "设计",
+    "en": "present participle of design; creating a plan or drawing"
+  },
+  "officer": {
+    "p": "/ˈɒfɪsə/",
+    "t": "官员；军官",
+    "en": "person in a position of authority"
+  },
+  "dronebased": {
+    "p": "/ˈdrəʊnbeɪst/",
+    "t": "基于无人机的",
+    "en": "using drones for operation"
+  },
+  "radios": {
+    "p": "/ˈreɪdiəʊz/",
+    "t": "无线电；收音机",
+    "en": "devices for receiving or transmitting radio signals"
+  },
+  "eloran": {
+    "p": "/ˈiːlɔːræn/",
+    "t": "增强型罗兰（导航系统）",
+    "en": "Enhanced Long Range Navigation, a terrestrial navigation system"
+  },
+  "radiobased": {
+    "p": "/ˈreɪdiəʊbeɪst/",
+    "t": "基于无线电的",
+    "en": "using radio waves for operation"
+  },
+  "onemegawatt": {
+    "p": "/wʌn ˈmeɡəwɒt/",
+    "t": "一兆瓦的",
+    "en": "having a power output of one million watts"
+  },
+  "transmitter": {
+    "p": "/trænzˈmɪtə/",
+    "t": "发射机；发射器",
+    "en": "a device that sends out signals"
+  },
+  "storage": {
+    "p": "/ˈstɔːrɪdʒ/",
+    "t": "存储；储存",
+    "en": "the act of keeping or storing something"
+  },
+  "magnetic": {
+    "p": "/mæɡˈnetɪk/",
+    "t": "磁性的",
+    "en": "relating to magnets or magnetism"
+  },
+  "amounts": {
+    "p": "/əˈmaʊnts/",
+    "t": "数量；数额",
+    "en": "quantities of something"
+  },
+  "densities": {
+    "p": "/ˈdensɪtiz/",
+    "t": "密度",
+    "en": "the degree of compactness or concentration"
+  },
+  "exponentially": {
+    "p": "/ˌekspəˈnenʃəli/",
+    "t": "指数地；迅速增长地",
+    "en": "in a way that increases rapidly"
+  },
+  "spools": {
+    "p": "/spuːlz/",
+    "t": "卷轴；线轴",
+    "en": "cylinders around which material is wound"
+  },
+  "detached": {
+    "p": "/dɪˈtætʃt/",
+    "t": "分离的；独立的",
+    "en": "separated or disconnected"
+  },
+  "packaged": {
+    "p": "/ˈpækɪdʒd/",
+    "t": "包装的",
+    "en": "wrapped or boxed for transport or sale"
+  },
+  "transported": {
+    "p": "/trænˈspɔːtɪd/",
+    "t": "运输的",
+    "en": "carried from one place to another"
+  },
+  "facilities": {
+    "p": "/fəˈsɪlɪtiz/",
+    "t": "设施；设备",
+    "en": "places or equipment for a specific purpose"
+  },
+  "difficulttobreach": {
+    "p": "/ˈdɪfɪkəlt tə briːtʃ/",
+    "t": "难以攻破的",
+    "en": "hard to break into or penetrate"
+  },
+  "underground": {
+    "p": "/ˈʌndəɡraʊnd/",
+    "t": "地下的",
+    "en": "located beneath the ground"
+  },
+  "caverns": {
+    "p": "/ˈkævənz/",
+    "t": "洞穴；岩洞",
+    "en": "large caves"
+  },
+  "repurposed": {
+    "p": "/riːˈpɜːpəst/",
+    "t": "重新利用的",
+    "en": "adapted for a new use"
+  },
+  "mines": {
+    "p": "/maɪnz/",
+    "t": "矿井；矿山",
+    "en": "excavations for extracting minerals"
+  },
+  "specialises": {
+    "p": "/ˈspeʃəlaɪzɪz/",
+    "t": "专门从事",
+    "en": "third person singular of specialise; focuses on a particular area"
+  },
+  "locked": {
+    "p": "/lɒkt/",
+    "t": "锁定的；固定的",
+    "en": "secured with a lock; fixed in place"
+  },
+  "retrieve": {
+    "p": "/rɪˈtriːv/",
+    "t": "取回；检索",
+    "en": "to get something back or find information"
+  },
+  "backups": {
+    "p": "/ˈbækʌps/",
+    "t": "备份",
+    "en": "copies of data kept for recovery"
+  },
+  "random": {
+    "p": "/ˈrændəm/",
+    "t": "随机的",
+    "en": "made or done without a pattern or plan"
+  },
+  "skyrocketing": {
+    "p": "/ˈskaɪrɒkɪtɪŋ/",
+    "t": "飞涨的",
+    "en": "rising rapidly and suddenly"
+  },
+  "companys": {
+    "p": "/ˈkʌmpəniz/",
+    "t": "公司的（所有格）",
+    "en": "belonging to a company"
+  },
+  "clients": {
+    "p": "/ˈklaɪənts/",
+    "t": "客户",
+    "en": "people or organizations that pay for services"
+  },
+  "broadcasters": {
+    "p": "/ˈbrɔːdkɑːstəz/",
+    "t": "广播公司；广播员",
+    "en": "people or organizations that transmit programs"
+  },
+  "footage": {
+    "p": "/ˈfʊtɪdʒ/",
+    "t": "影片片段",
+    "en": "recorded video material"
+  },
+  "baseball": {
+    "p": "/ˈbeɪsbɔːl/",
+    "t": "棒球；棒球运动",
+    "en": "a bat-and-ball game played between two teams"
+  },
+  "genomes": {
+    "p": "/ˈdʒiːnəʊmz/",
+    "t": "基因组",
+    "en": "complete set of genetic material of an organism"
+  },
+  "frustrating": {
+    "p": "/frʌˈstreɪtɪŋ/",
+    "t": "令人沮丧的",
+    "en": "causing annoyance or discouragement"
+  },
+  "endures": {
+    "p": "/ɪnˈdjʊəz/",
+    "t": "忍受；持续",
+    "en": "third person singular of endure; suffers or lasts"
+  },
+  "interact": {
+    "p": "/ˌɪntərˈækt/",
+    "t": "互动；交流",
+    "en": "to act or communicate with others"
+  },
+  "clunky": {
+    "p": "/ˈklʌŋki/",
+    "t": "笨重的；过时的",
+    "en": "heavy, awkward, or old-fashioned"
+  },
+  "sticks": {
+    "p": "/stɪks/",
+    "t": "坚持；粘贴；棍子",
+    "en": "third person singular of stick; attaches or continues; thin pieces of wood"
+  },
+  "parking": {
+    "p": "/ˈpɑːkɪŋ/",
+    "t": "停车",
+    "en": "the act of leaving a vehicle in a place"
+  },
+  "likelihood": {
+    "p": "/ˈlaɪklihʊd/",
+    "t": "可能性；概率",
+    "en": "the chance that something will happen"
+  },
+  "perpetrate": {
+    "p": "/ˈpɜːpɪtreɪt/",
+    "t": "犯（罪）；实施（坏事）",
+    "en": "to commit a harmful or illegal act"
+  },
+  "safest": {
+    "p": "/seɪfɪst/",
+    "t": "最安全的",
+    "en": "superlative of safe; most secure"
+  },
+  "cyberattacks": {
+    "p": "/ˈsaɪbərəˌtæks/",
+    "t": "网络攻击",
+    "en": "attempts to damage or disrupt computer systems"
+  },
+  "sophisticated": {
+    "p": "/səˈfɪstɪkeɪtɪd/",
+    "t": "复杂的；精密的",
+    "en": "highly developed or complex"
+  },
+  "interfered": {
+    "p": "/ˌɪntəˈfɪəd/",
+    "t": "干扰；妨碍",
+    "en": "past tense of interfere; disrupted or meddled"
+  },
+  "satellite": {
+    "p": "/ˈsætəlaɪt/",
+    "t": "卫星",
+    "en": "an object placed in orbit around a planet"
+  },
+  "succumbed": {
+    "p": "/səˈkʌmd/",
+    "t": "屈服；屈从",
+    "en": "past tense of succumb; gave in to"
+  },
+  "prized": {
+    "p": "/praɪzd/",
+    "t": "珍贵的；受重视的",
+    "en": "highly valued or treasured"
+  },
+  "welcomed": {
+    "p": "/ˈwelkəmd/",
+    "t": "欢迎的；受到欢迎的",
+    "en": "received gladly"
+  },
+  "mostvisited": {
+    "p": "/ˈməʊst ˈvɪzɪtɪd/",
+    "t": "访问最多的",
+    "en": "visited by the most people"
+  },
+  "visitor": {
+    "p": "/ˈvɪzɪtə/",
+    "t": "游客；访问者",
+    "en": "a person who visits a place"
+  },
+  "evenings": {
+    "p": "/ˈiːvnɪŋz/",
+    "t": "晚上（复数）",
+    "en": "the times of day from late afternoon to night"
+  },
+  "restaurants": {
+    "p": "/ˈrestrɒnts/",
+    "t": "餐馆（复数）",
+    "en": "places where meals are prepared and served"
+  },
+  "packed": {
+    "p": "/pækt/",
+    "t": "拥挤的；塞满的",
+    "en": "filled tightly with people or things"
+  },
+  "tourists": {
+    "p": "/ˈtʊərɪsts/",
+    "t": "游客（复数）",
+    "en": "people who travel for pleasure"
+  },
+  "tables": {
+    "p": "/ˈteɪblz/",
+    "t": "桌子（复数）",
+    "en": "pieces of furniture with a flat top and legs"
+  },
+  "empty": {
+    "p": "/ˈempti/",
+    "t": "空的",
+    "en": "containing nothing"
+  },
+  "stark": {
+    "p": "/stɑːk/",
+    "t": "明显的；严酷的",
+    "en": "clear and harsh; unpleasantly obvious"
+  },
+  "employing": {
+    "p": "/ɪmˈplɔɪɪŋ/",
+    "t": "雇用；使用",
+    "en": "giving work to; using"
+  },
+  "expats": {
+    "p": "/ˈekspæts/",
+    "t": "外籍人士（复数）",
+    "en": "people living outside their native country"
+  },
+  "revenues": {
+    "p": "/ˈrevənjuːz/",
+    "t": "收入（复数）",
+    "en": "income, especially from business"
+  },
+  "declines": {
+    "p": "/dɪˈklaɪnz/",
+    "t": "下降（复数）",
+    "en": "decreases or reductions"
+  },
+  "latter": {
+    "p": "/ˈlætə/",
+    "t": "后者",
+    "en": "the second of two mentioned"
+  },
+  "malls": {
+    "p": "/mɔːlz/",
+    "t": "购物中心（复数）",
+    "en": "large enclosed shopping areas"
+  },
+  "residential": {
+    "p": "/ˌrezɪˈdenʃəl/",
+    "t": "住宅的",
+    "en": "relating to places where people live"
+  },
+  "neighbourhoods": {
+    "p": "/ˈneɪbəhʊdz/",
+    "t": "街区；社区（复数）",
+    "en": "districts within a town or city"
+  },
+  "sector": {
+    "p": "/ˈsektə/",
+    "t": "部门；领域",
+    "en": "a part of an economy or society"
+  },
+  "footfall": {
+    "p": "/ˈfʊtfɔːl/",
+    "t": "客流量",
+    "en": "the number of people entering a place"
+  },
+  "forcing": {
+    "p": "/ˈfɔːsɪŋ/",
+    "t": "迫使",
+    "en": "making someone do something"
+  },
+  "minimal": {
+    "p": "/ˈmɪnɪməl/",
+    "t": "最小的；极少的",
+    "en": "very small in amount"
+  },
+  "hotels": {
+    "p": "/həʊˈtelz/",
+    "t": "酒店（复数）",
+    "en": "buildings providing lodging and meals"
+  },
+  "transport": {
+    "p": "/ˈtrænspɔːt/",
+    "t": "运输；交通",
+    "en": "system of moving people or goods"
+  },
+  "airlines": {
+    "p": "/ˈeəlaɪnz/",
+    "t": "航空公司（复数）",
+    "en": "companies operating air services"
+  },
+  "emirate": {
+    "p": "/ˈemɪrət/",
+    "t": "酋长国",
+    "en": "a country ruled by an emir"
+  },
+  "momentum": {
+    "p": "/məˈmentəm/",
+    "t": "势头；动力",
+    "en": "force gained by movement or progress"
+  },
+  "sharply": {
+    "p": "/ˈʃɑːpli/",
+    "t": "急剧地；尖锐地",
+    "en": "suddenly and by a large amount"
+  },
+  "targets": {
+    "p": "/ˈtɑːɡɪts/",
+    "t": "目标（复数）",
+    "en": "objectives or aims"
+  },
+  "strikes": {
+    "p": "/straɪks/",
+    "t": "罢工；袭击（复数）",
+    "en": "refusals to work; attacks"
+  },
+  "ports": {
+    "p": "/pɔːts/",
+    "t": "港口（复数）",
+    "en": "places where ships load and unload"
+  },
+  "civilian": {
+    "p": "/sɪˈvɪliən/",
+    "t": "平民的；平民",
+    "en": "person not in military"
+  },
+  "buildings": {
+    "p": "/ˈbɪldɪŋz/",
+    "t": "建筑物（复数）",
+    "en": "structures with walls and roofs"
+  },
+  "intercepted": {
+    "p": "/ˌɪntəˈseptɪd/",
+    "t": "拦截的",
+    "en": "stopped or caught before reaching destination"
+  },
+  "debris": {
+    "p": "/ˈdeɪbriː/",
+    "t": "碎片；残骸",
+    "en": "scattered pieces of something broken"
+  },
+  "fragments": {
+    "p": "/ˈfræɡmənts/",
+    "t": "碎片（复数）",
+    "en": "small pieces broken off"
+  },
+  "upscale": {
+    "p": "/ˈʌpskeɪl/",
+    "t": "高档的",
+    "en": "of high quality and expensive"
+  },
+  "circulated": {
+    "p": "/ˈsɜːkjəleɪtɪd/",
+    "t": "传播的；流通的",
+    "en": "spread around"
+  },
+  "authorities": {
+    "p": "/ɔːˈθɒrətiz/",
+    "t": "当局（复数）",
+    "en": "people in official power"
+  },
+  "stranded": {
+    "p": "/ˈstrændɪd/",
+    "t": "滞留的",
+    "en": "left in a helpless position"
+  },
+  "evacuated": {
+    "p": "/ɪˈvækjueɪtɪd/",
+    "t": "疏散的",
+    "en": "moved from a dangerous place"
+  },
+  "cancelled": {
+    "p": "/ˈkænsəld/",
+    "t": "取消的",
+    "en": "called off"
+  },
+  "passengers": {
+    "p": "/ˈpæsɪndʒəz/",
+    "t": "乘客（复数）",
+    "en": "people traveling in a vehicle"
+  },
+  "handled": {
+    "p": "/ˈhændld/",
+    "t": "处理的",
+    "en": "dealt with"
+  },
+  "travellers": {
+    "p": "/ˈtrævələz/",
+    "t": "旅行者（复数）",
+    "en": "people on a journey"
+  },
+  "operations": {
+    "p": "/ˌɒpəˈreɪʃənz/",
+    "t": "运营；操作（复数）",
+    "en": "activities involved in running a business"
+  },
+  "resumed": {
+    "p": "/rɪˈzjuːmd/",
+    "t": "恢复的",
+    "en": "started again"
+  },
+  "flagcarrier": {
+    "p": "/ˈflæɡˌkæriə/",
+    "t": "国家航空公司",
+    "en": "national airline symbolizing a country"
+  },
+  "flight": {
+    "p": "/flaɪt/",
+    "t": "航班；飞行",
+    "en": "journey by air"
+  },
+  "arrivals": {
+    "p": "/əˈraɪvəlz/",
+    "t": "到达者；到达（复数）",
+    "en": "people or things reaching a place"
+  },
+  "steeply": {
+    "p": "/ˈstiːpli/",
+    "t": "陡峭地；急剧地",
+    "en": "sharply; at a steep angle"
+  },
+  "booking": {
+    "p": "/ˈbʊkɪŋ/",
+    "t": "预订",
+    "en": "reservation"
+  },
+  "attract": {
+    "p": "/əˈtrækt/",
+    "t": "吸引",
+    "en": "cause to come toward"
+  },
+  "luxury": {
+    "p": "/ˈlʌkʃəri/",
+    "t": "奢侈的；奢侈品",
+    "en": "expensive and of high quality"
+  },
+  "properties": {
+    "p": "/ˈprɒpətiz/",
+    "t": "房产；财产（复数）",
+    "en": "buildings or land owned"
+  },
+  "citys": {
+    "p": "/ˈsɪtiz/",
+    "t": "城市的（所有格）",
+    "en": "belonging to a city"
+  },
+  "prices": {
+    "p": "/ˈpraɪsɪz/",
+    "t": "价格（复数）",
+    "en": "amounts of money for goods"
+  },
+  "disrupting": {
+    "p": "/dɪsˈrʌptɪŋ/",
+    "t": "扰乱",
+    "en": "interrupting the normal flow"
+  },
+  "citing": {
+    "p": "/ˈsaɪtɪŋ/",
+    "t": "引用；提及",
+    "en": "mentioning as a reason"
+  },
+  "occupancy": {
+    "p": "/ˈɒkjəpənsi/",
+    "t": "入住率；占用",
+    "en": "percentage of occupied rooms"
+  },
+  "digits": {
+    "p": "/ˈdɪdʒɪts/",
+    "t": "数字（复数）",
+    "en": "numbers from 0 to 9"
+  },
+  "shutting": {
+    "p": "/ˈʃʌtɪŋ/",
+    "t": "关闭",
+    "en": "closing"
+  },
+  "reviewing": {
+    "p": "/rɪˈvjuːɪŋ/",
+    "t": "审查；评估",
+    "en": "examining to decide"
+  },
+  "conferences": {
+    "p": "/ˈkɒnfərənsɪz/",
+    "t": "会议（复数）",
+    "en": "large formal meetings"
+  },
+  "organisers": {
+    "p": "/ˈɔːɡənaɪzəz/",
+    "t": "组织者（复数）",
+    "en": "people who arrange events"
+  },
+  "postpone": {
+    "p": "/pəˈspəʊn/",
+    "t": "推迟",
+    "en": "delay to a later time"
+  },
+  "operates": {
+    "p": "/ˈɒpəreɪts/",
+    "t": "运营；操作",
+    "en": "runs or functions"
+  },
+  "cancellations": {
+    "p": "/ˌkænsəˈleɪʃənz/",
+    "t": "取消（复数）",
+    "en": "acts of calling off"
+  },
+  "cluster": {
+    "p": "/ˈklʌstə/",
+    "t": "集群；聚集",
+    "en": "group of similar things close together"
+  },
+  "slowdown": {
+    "p": "/ˈsləʊdaʊn/",
+    "t": "减速；衰退",
+    "en": "reduction in speed or activity"
+  },
+  "rapid": {
+    "p": "/ˈræpɪd/",
+    "t": "迅速的",
+    "en": "fast"
+  },
+  "destinations": {
+    "p": "/ˌdestɪˈneɪʃənz/",
+    "t": "目的地（复数）",
+    "en": "places to which people travel"
+  },
+  "reopen": {
+    "p": "/ˌriːˈəʊpən/",
+    "t": "重新开放",
+    "en": "open again"
+  },
+  "peers": {
+    "p": "/pɪəz/",
+    "t": "同行；同龄人（复数）",
+    "en": "people of similar status"
+  },
+  "expanded": {
+    "p": "/ɪkˈspændɪd/",
+    "t": "扩展的",
+    "en": "made larger"
+  },
+  "diversified": {
+    "p": "/daɪˈvɜːsɪfaɪd/",
+    "t": "多样化的",
+    "en": "varied; spread into different areas"
+  },
+  "attracting": {
+    "p": "/əˈtræktɪŋ/",
+    "t": "吸引",
+    "en": "drawing in"
+  },
+  "midmarket": {
+    "p": "/ˈmɪdˌmɑːkɪt/",
+    "t": "中端市场的",
+    "en": "aimed at middle-priced segment"
+  },
+  "pricesensitive": {
+    "p": "/ˈpraɪsˌsensətɪv/",
+    "t": "价格敏感的",
+    "en": "affected by price changes"
+  },
+  "rentals": {
+    "p": "/ˈrentəlz/",
+    "t": "租赁（复数）",
+    "en": "properties or items rented out"
+  },
+  "bookings": {
+    "p": "/ˈbʊkɪŋz/",
+    "t": "预订（复数）",
+    "en": "reservations"
+  },
+  "downturn": {
+    "p": "/ˈdaʊntɜːn/",
+    "t": "低迷；衰退",
+    "en": "decline in economic activity"
+  },
+  "weakens": {
+    "p": "/ˈwiːkənz/",
+    "t": "削弱",
+    "en": "makes weaker"
+  },
+  "exposed": {
+    "p": "/ɪkˈspəʊzd/",
+    "t": "暴露的；易受影响的",
+    "en": "left unprotected"
+  },
+  "waiter": {
+    "p": "/ˈweɪtə/",
+    "t": "服务员",
+    "en": "person serving food in a restaurant"
+  },
+  "highend": {
+    "p": "/ˈhaɪ end/",
+    "t": "高端的",
+    "en": "of top quality and price"
+  },
+  "fivestar": {
+    "p": "/ˈfaɪv stɑː/",
+    "t": "五星级的",
+    "en": "of the highest rating"
+  },
+  "laying": {
+    "p": "/ˈleɪɪŋ/",
+    "t": "放置；解雇",
+    "en": "putting down; dismissing"
+  },
+  "questioning": {
+    "p": "/ˈkwestʃənɪŋ/",
+    "t": "质疑",
+    "en": "expressing doubt"
+  },
+  "delay": {
+    "p": "/dɪˈleɪ/",
+    "t": "延误；推迟",
+    "en": "act of postponing"
+  },
+  "salesrelated": {
+    "p": "/ˈseɪlz rɪˈleɪtɪd/",
+    "t": "与销售相关的",
+    "en": "connected to selling"
+  },
+  "dirham": {
+    "p": "/ˈdɪərəm/",
+    "t": "迪拉姆（货币）",
+    "en": "currency unit in some Arab countries"
+  },
+  "guests": {
+    "p": "/ɡests/",
+    "t": "客人（复数）",
+    "en": "people invited or staying at a place"
+  },
+  "revive": {
+    "p": "/rɪˈvaɪv/",
+    "t": "复苏；恢复",
+    "en": "bring back to life or strength"
+  },
+  "subsides": {
+    "p": "/səbˈsaɪdz/",
+    "t": "减弱；平息",
+    "en": "becomes less intense"
+  },
+  "promotional": {
+    "p": "/prəˈməʊʃənəl/",
+    "t": "促销的",
+    "en": "related to advertising or promotion"
+  },
+  "reshape": {
+    "p": "/ˌriːˈʃeɪp/",
+    "t": "重塑",
+    "en": "change the shape or form"
+  },
+  "glossy": {
+    "p": "/ˈɡlɒsi/",
+    "t": "光鲜的；有光泽的",
+    "en": "shiny and smooth"
+  },
+  "hoping": {
+    "p": "/ˈhəʊpɪŋ/",
+    "t": "希望",
+    "en": "wishing for something"
+  },
+  "landlords": {
+    "p": "/ˈlændlɔːdz/",
+    "t": "房东（复数）",
+    "en": "people who own and rent out property"
+  },
+  "deferred": {
+    "p": "/dɪˈfɜːd/",
+    "t": "推迟的",
+    "en": "postponed"
+  },
+  "outlook": {
+    "p": "/ˈaʊtlʊk/",
+    "t": "前景；展望",
+    "en": "future expectation"
+  },
+  "closures": {
+    "p": "/ˈkləʊʒəz/",
+    "t": "关闭（复数）",
+    "en": "acts of closing permanently"
+  },
+  "maximum": {
+    "p": "/ˈmæksɪməm/",
+    "t": "最大的；最大限度",
+    "en": "the greatest amount"
+  },
+  "tougher": {
+    "p": "/ˈtʌfə/",
+    "t": "更艰难的",
+    "en": "more difficult"
+  },
+  "insanity": {
+    "p": "/ɪnˈsænəti/",
+    "t": "疯狂；精神错乱",
+    "en": "state of being insane"
+  },
+  "coalition": {
+    "p": "/ˌkəʊəˈlɪʃn/",
+    "t": "联合，联盟",
+    "en": "a temporary alliance of distinct parties or groups"
+  },
+  "cameras": {
+    "p": "/ˈkæmərəz/",
+    "t": "照相机，摄像机",
+    "en": "devices for recording visual images"
+  },
+  "photographed": {
+    "p": "/ˈfəʊtəɡrɑːft/",
+    "t": "被拍照的",
+    "en": "recorded in a photograph"
+  },
+  "realizing": {
+    "p": "/ˈrɪəlaɪzɪŋ/",
+    "t": "意识到，实现",
+    "en": "becoming aware of or making real"
+  },
+  "license": {
+    "p": "/ˈlaɪsns/",
+    "t": "执照，许可证",
+    "en": "official permission or document"
+  },
+  "plate": {
+    "p": "/pleɪt/",
+    "t": "盘子；车牌",
+    "en": "flat dish or license plate"
+  },
+  "metastasized": {
+    "p": "/məˈtæstəsaɪzd/",
+    "t": "（癌细胞）转移",
+    "en": "spread to other parts of the body"
+  },
+  "poles": {
+    "p": "/pəʊlz/",
+    "t": "杆，柱；两极",
+    "en": "long slender pieces or opposite ends"
+  },
+  "roadside": {
+    "p": "/ˈrəʊdsaɪd/",
+    "t": "路边",
+    "en": "the side of a road"
+  },
+  "database": {
+    "p": "/ˈdeɪtəbeɪs/",
+    "t": "数据库",
+    "en": "organized collection of data"
+  },
+  "inquiry": {
+    "p": "/ɪnˈkwaɪəri/",
+    "t": "询问，调查",
+    "en": "an act of asking or investigating"
+  },
+  "retention": {
+    "p": "/rɪˈtenʃn/",
+    "t": "保留，保持",
+    "en": "the act of keeping or retaining"
+  },
+  "dissemination": {
+    "p": "/dɪˌsemɪˈneɪʃn/",
+    "t": "传播，散布",
+    "en": "the act of spreading information widely"
+  },
+  "exaggeration": {
+    "p": "/ɪɡˌzædʒəˈreɪʃn/",
+    "t": "夸大，夸张",
+    "en": "a statement that makes something seem larger or more important"
+  },
+  "roads": {
+    "p": "/rəʊdz/",
+    "t": "道路",
+    "en": "wide ways for vehicles"
+  },
+  "crowdsourced": {
+    "p": "/ˈkraʊdsɔːst/",
+    "t": "众包的",
+    "en": "obtained by soliciting contributions from a large group"
+  },
+  "existence": {
+    "p": "/ɪɡˈzɪstəns/",
+    "t": "存在",
+    "en": "the state of being real or living"
+  },
+  "antiflock": {
+    "p": "/ˈæntiˌflɒk/",
+    "t": "反群体的",
+    "en": "opposed to forming a flock or group"
+  },
+  "commissioner": {
+    "p": "/kəˈmɪʃənə/",
+    "t": "专员，委员",
+    "en": "a person appointed to a commission"
+  },
+  "vitriol": {
+    "p": "/ˈvɪtriəl/",
+    "t": "尖刻的话，刻薄",
+    "en": "bitter or harsh criticism"
+  },
+  "sides": {
+    "p": "/saɪdz/",
+    "t": "边，侧；方面",
+    "en": "surfaces or aspects"
+  },
+  "overreach": {
+    "p": "/ˌəʊvəˈriːtʃ/",
+    "t": "过度延伸，越权",
+    "en": "exceed limits or authority"
+  },
+  "invasive": {
+    "p": "/ɪnˈveɪsɪv/",
+    "t": "侵入的，侵袭的",
+    "en": "tending to spread intrusively"
+  },
+  "surveil": {
+    "p": "/səˈveɪl/",
+    "t": "监视",
+    "en": "keep under surveillance"
+  },
+  "paraphrased": {
+    "p": "/ˈpærəfreɪzd/",
+    "t": "释义，转述",
+    "en": "expressed in other words"
+  },
+  "surveillance": {
+    "p": "/səˈveɪləns/",
+    "t": "监视，监控",
+    "en": "close observation of a person or group"
+  },
+  "policing": {
+    "p": "/pəˈliːsɪŋ/",
+    "t": "警务，监管",
+    "en": "the activity of maintaining order"
+  },
+  "protest": {
+    "p": "/ˈprəʊtest/",
+    "t": "抗议",
+    "en": "a statement or action expressing disapproval"
+  },
+  "activist": {
+    "p": "/ˈæktɪvɪst/",
+    "t": "积极分子，活动家",
+    "en": "a person who campaigns for change"
+  },
+  "fascism": {
+    "p": "/ˈfæʃɪzəm/",
+    "t": "法西斯主义",
+    "en": "an authoritarian political system"
+  },
+  "persecution": {
+    "p": "/ˌpɜːsɪˈkjuːʃn/",
+    "t": "迫害",
+    "en": "hostile treatment based on race, religion, etc."
+  },
+  "surfaced": {
+    "p": "/ˈsɜːfɪst/",
+    "t": "浮出水面，出现",
+    "en": "rose to the surface or became known"
+  },
+  "sought": {
+    "p": "/sɔːt/",
+    "t": "寻求，寻找",
+    "en": "past tense of seek; tried to find"
+  },
+  "unfairly": {
+    "p": "/ˌʌnˈfeəli/",
+    "t": "不公平地",
+    "en": "in a manner not just or equitable"
+  },
+  "proliferation": {
+    "p": "/prəˌlɪfəˈreɪʃn/",
+    "t": "激增，扩散",
+    "en": "rapid increase or spread"
+  },
+  "chaired": {
+    "p": "/tʃeəd/",
+    "t": "主持（会议）",
+    "en": "presided over a meeting"
+  },
+  "automated": {
+    "p": "/ˈɔːtəmeɪtɪd/",
+    "t": "自动化的",
+    "en": "operated by machines without human control"
+  },
+  "warrants": {
+    "p": "/ˈwɒrənts/",
+    "t": "授权令，理由",
+    "en": "legal documents or justifications"
+  },
+  "accessing": {
+    "p": "/ˈæksesɪŋ/",
+    "t": "访问，获取",
+    "en": "obtaining or retrieving information"
+  },
+  "banning": {
+    "p": "/ˈbænɪŋ/",
+    "t": "禁止",
+    "en": "prohibiting officially"
+  },
+  "churches": {
+    "p": "/ˈtʃɜːtʃɪz/",
+    "t": "教堂",
+    "en": "buildings for Christian worship"
+  },
+  "clinics": {
+    "p": "/ˈklɪnɪks/",
+    "t": "诊所",
+    "en": "medical facilities for outpatient care"
+  },
+  "sensitive": {
+    "p": "/ˈsensətɪv/",
+    "t": "敏感的",
+    "en": "easily affected or needing careful handling"
+  },
+  "hosting": {
+    "p": "/ˈhəʊstɪŋ/",
+    "t": "主持，托管",
+    "en": "providing space or organizing an event"
+  },
+  "phonefree": {
+    "p": "/ˈfəʊn friː/",
+    "t": "无手机的",
+    "en": "without the use of mobile phones"
+  },
+  "screens": {
+    "p": "/skriːnz/",
+    "t": "屏幕",
+    "en": "flat surfaces for displaying images"
+  },
+  "popping": {
+    "p": "/ˈpɒpɪŋ/",
+    "t": "突然出现，弹出",
+    "en": "appearing suddenly or making a popping sound"
+  },
+  "experiencing": {
+    "p": "/ɪkˈspɪəriənsɪŋ/",
+    "t": "经历，体验",
+    "en": "undergoing or living through"
+  },
+  "cardiac": {
+    "p": "/ˈkɑːdiæk/",
+    "t": "心脏的",
+    "en": "relating to the heart"
+  },
+  "arrest": {
+    "p": "/əˈrest/",
+    "t": "逮捕；停止",
+    "en": "seize by legal authority; sudden stop"
+  },
+  "apparently": {
+    "p": "/əˈpærəntli/",
+    "t": "显然，似乎",
+    "en": "as far as can be seen; seemingly"
+  },
+  "performing": {
+    "p": "/pəˈfɔːmɪŋ/",
+    "t": "执行，表演",
+    "en": "carrying out an action or show"
+  },
+  "procedure": {
+    "p": "/prəˈsiːdʒə/",
+    "t": "程序，步骤",
+    "en": "a series of actions for a medical or other operation"
+  },
+  "breasts": {
+    "p": "/brests/",
+    "t": "乳房",
+    "en": "mammary glands on the chest"
+  },
+  "betterendowed": {
+    "p": "/ˈbetərɪnˈdaʊd/",
+    "t": "更丰满的，天赋更好的",
+    "en": "better provided with physical or other attributes"
+  },
+  "manikins": {
+    "p": "/ˈmænɪkɪnz/",
+    "t": "人体模型",
+    "en": "life-size models of the human body"
+  },
+  "headquarters": {
+    "p": "/ˌhedˈkwɔːtəz/",
+    "t": "总部",
+    "en": "main offices or centers of operation"
+  },
+  "singer": {
+    "p": "/ˈsɪŋə/",
+    "t": "歌手",
+    "en": "a person who sings"
+  },
+  "nickname": {
+    "p": "/ˈnɪkneɪm/",
+    "t": "绰号，昵称",
+    "en": "an informal name for a person"
+  },
+  "hearingaid": {
+    "p": "/ˈhɪərɪŋ eɪd/",
+    "t": "助听器",
+    "en": "a device to help a person hear better"
+  },
+  "equity": {
+    "p": "/ˈekwəti/",
+    "t": "公平，公正；股本",
+    "en": "fairness or ownership interest"
   }
 }
