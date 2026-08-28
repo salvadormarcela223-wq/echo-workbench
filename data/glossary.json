@@ -25613,5 +25613,1170 @@
     "p": "/ˈsuːpəstɑː/",
     "t": "超级明星",
     "en": "very famous performer"
+  },
+  "prowling": {
+    "p": "/ˈpraʊlɪŋ/",
+    "t": "潜行，徘徊",
+    "en": "moving stealthily or wandering, especially in search of prey"
+  },
+  "tigers": {
+    "p": "/ˈtaɪɡəz/",
+    "t": "老虎（复数）",
+    "en": "large wild cats with striped fur"
+  },
+  "dolphin": {
+    "p": "/ˈdɒlfɪn/",
+    "t": "海豚",
+    "en": "a highly intelligent marine mammal"
+  },
+  "behaviours": {
+    "p": "/bɪˈheɪvjəz/",
+    "t": "行为，举止（复数）",
+    "en": "ways of acting or conducting oneself"
+  },
+  "featured": {
+    "p": "/ˈfiːtʃəd/",
+    "t": "以…为特色；展示",
+    "en": "included as a prominent part"
+  },
+  "tropical": {
+    "p": "/ˈtrɒpɪkəl/",
+    "t": "热带的",
+    "en": "relating to the tropics, hot and humid"
+  },
+  "saltwater": {
+    "p": "/ˈsɔːltwɔːtə/",
+    "t": "咸水的，海水的",
+    "en": "containing or from the sea"
+  },
+  "mangrove": {
+    "p": "/ˈmæŋɡrəʊv/",
+    "t": "红树",
+    "en": "a tropical tree growing in tidal swamps"
+  },
+  "forests": {
+    "p": "/ˈfɒrɪsts/",
+    "t": "森林（复数）",
+    "en": "large areas covered chiefly with trees"
+  },
+  "eerie": {
+    "p": "/ˈɪəri/",
+    "t": "怪异的，令人不安的",
+    "en": "strange and frightening"
+  },
+  "ecosystems": {
+    "p": "/ˈiːkəʊˌsɪstəmz/",
+    "t": "生态系统（复数）",
+    "en": "communities of organisms and their environment"
+  },
+  "wildlife": {
+    "p": "/ˈwaɪldlaɪf/",
+    "t": "野生动物",
+    "en": "animals and plants living in nature"
+  },
+  "mangroves": {
+    "p": "/ˈmæŋɡrəʊvz/",
+    "t": "红树林",
+    "en": "tropical coastal trees with tangled roots"
+  },
+  "respite": {
+    "p": "/ˈrespɪt/",
+    "t": "喘息，暂缓",
+    "en": "a short period of rest or relief"
+  },
+  "protection": {
+    "p": "/prəˈtekʃən/",
+    "t": "保护",
+    "en": "keeping safe from harm"
+  },
+  "juvenile": {
+    "p": "/ˈdʒuːvənaɪl/",
+    "t": "幼年的，青少年",
+    "en": "young, not fully grown"
+  },
+  "royal": {
+    "p": "/ˈrɔɪəl/",
+    "t": "皇家的，王室的",
+    "en": "relating to a king or queen"
+  },
+  "tiger": {
+    "p": "/ˈtaɪɡə/",
+    "t": "老虎",
+    "en": "a large striped wild cat"
+  },
+  "pictured": {
+    "p": "/ˈpɪktʃəd/",
+    "t": "被描绘的，照片中的",
+    "en": "shown in a picture"
+  },
+  "forest": {
+    "p": "/ˈfɒrɪst/",
+    "t": "森林",
+    "en": "a large area of trees"
+  },
+  "extraordinary": {
+    "p": "/ɪkˈstrɔːdənəri/",
+    "t": "非凡的，特别的",
+    "en": "very unusual or remarkable"
+  },
+  "fragility": {
+    "p": "/frəˈdʒɪləti/",
+    "t": "脆弱，易碎",
+    "en": "being easily broken or damaged"
+  },
+  "competitions": {
+    "p": "/ˌkɒmpəˈtɪʃənz/",
+    "t": "比赛，竞赛（复数）",
+    "en": "events where people compete"
+  },
+  "entries": {
+    "p": "/ˈentriz/",
+    "t": "参赛作品，条目（复数）",
+    "en": "items submitted for a competition"
+  },
+  "eyecatching": {
+    "p": "/ˈaɪˌkætʃɪŋ/",
+    "t": "引人注目的",
+    "en": "visually attractive or noticeable"
+  },
+  "ghost": {
+    "p": "/ɡəʊst/",
+    "t": "鬼魂",
+    "en": "spirit of a dead person"
+  },
+  "glowing": {
+    "p": "/ˈɡləʊɪŋ/",
+    "t": "发光的",
+    "en": "emitting steady light"
+  },
+  "ultraviolet": {
+    "p": "/ˌʌltrəˈvaɪələt/",
+    "t": "紫外线的",
+    "en": "beyond visible violet light"
+  },
+  "tangled": {
+    "p": "/ˈtæŋɡəld/",
+    "t": "缠绕的，纠结的",
+    "en": "twisted together messily"
+  },
+  "tideswept": {
+    "p": "/ˈtaɪdswɛpt/",
+    "t": "被潮水冲刷的",
+    "en": "washed over by tides"
+  },
+  "shore": {
+    "p": "/ʃɔː/",
+    "t": "海岸，滨",
+    "en": "land along the edge of water"
+  },
+  "fishing": {
+    "p": "/ˈfɪʃɪŋ/",
+    "t": "钓鱼，捕鱼",
+    "en": "catching fish"
+  },
+  "hazard": {
+    "p": "/ˈhæzəd/",
+    "t": "危险，危害",
+    "en": "a potential source of danger"
+  },
+  "mudskippers": {
+    "p": "/ˈmʌdˌskɪpəz/",
+    "t": "弹涂鱼（复数）",
+    "en": "fish that can live on mudflats and jump"
+  },
+  "breathe": {
+    "p": "/briːð/",
+    "t": "呼吸",
+    "en": "to take air into lungs"
+  },
+  "skirting": {
+    "p": "/ˈskɜːtɪŋ/",
+    "t": "沿…边缘走，绕过",
+    "en": "going around the edge of"
+  },
+  "coasts": {
+    "p": "/kəʊsts/",
+    "t": "海岸（复数）",
+    "en": "land next to the sea"
+  },
+  "estuaries": {
+    "p": "/ˈestjʊəriz/",
+    "t": "河口（复数）",
+    "en": "places where rivers meet the sea"
+  },
+  "tropics": {
+    "p": "/ˈtrɒpɪks/",
+    "t": "热带地区",
+    "en": "regions near the equator"
+  },
+  "subtropics": {
+    "p": "/sʌbˈtrɒpɪks/",
+    "t": "亚热带",
+    "en": "regions bordering the tropics"
+  },
+  "reddish": {
+    "p": "/ˈredɪʃ/",
+    "t": "微红的",
+    "en": "slightly red"
+  },
+  "egret": {
+    "p": "/ˈiːɡrət/",
+    "t": "白鹭",
+    "en": "a white heron-like bird"
+  },
+  "stands": {
+    "p": "/stændz/",
+    "t": "站立；位于",
+    "en": "is positioned; remains upright"
+  },
+  "greenery": {
+    "p": "/ˈɡriːnəri/",
+    "t": "绿色植物",
+    "en": "green foliage or plants"
+  },
+  "bottlenose": {
+    "p": "/ˈbɒtəlnəʊz/",
+    "t": "宽吻（海豚）",
+    "en": "having a bottle-shaped snout"
+  },
+  "dolphins": {
+    "p": "/ˈdɒlfɪnz/",
+    "t": "海豚（复数）",
+    "en": "marine mammals of the family Delphinidae"
+  },
+  "resourceful": {
+    "p": "/rɪˈsɔːsfəl/",
+    "t": "足智多谋的",
+    "en": "clever at finding solutions"
+  },
+  "mangrovelined": {
+    "p": "/ˈmæŋɡrəʊvlaɪnd/",
+    "t": "有红树林排列的",
+    "en": "bordered by mangrove trees"
+  },
+  "provides": {
+    "p": "/prəˈvaɪdz/",
+    "t": "提供",
+    "en": "gives or supplies"
+  },
+  "mullet": {
+    "p": "/ˈmʌlɪt/",
+    "t": "鲻鱼",
+    "en": "a type of edible fish"
+  },
+  "silty": {
+    "p": "/ˈsɪlti/",
+    "t": "淤泥的",
+    "en": "containing fine sediment"
+  },
+  "underwater": {
+    "p": "/ˌʌndəˈwɔːtə/",
+    "t": "水下的",
+    "en": "below the water surface"
+  },
+  "habitat": {
+    "p": "/ˈhæbɪtæt/",
+    "t": "栖息地",
+    "en": "natural home of an organism"
+  },
+  "turtle": {
+    "p": "/ˈtɜːtəl/",
+    "t": "海龟",
+    "en": "a reptile with a shell"
+  },
+  "swimming": {
+    "p": "/ˈswɪmɪŋ/",
+    "t": "游泳",
+    "en": "moving through water"
+  },
+  "ecosystem": {
+    "p": "/ˈiːkəʊˌsɪstəm/",
+    "t": "生态系统",
+    "en": "a biological community and its environment"
+  },
+  "predators": {
+    "p": "/ˈprɛdətəz/",
+    "t": "捕食者（复数）",
+    "en": "animals that hunt others"
+  },
+  "sharks": {
+    "p": "/ʃɑːks/",
+    "t": "鲨鱼（复数）",
+    "en": "large predatory fish"
+  },
+  "prize": {
+    "p": "/praɪz/",
+    "t": "奖赏，奖品",
+    "en": "something won in a contest"
+  },
+  "birds": {
+    "p": "/bɜːdz/",
+    "t": "鸟（复数）",
+    "en": "feathered animals"
+  },
+  "flamingos": {
+    "p": "/fləˈmɪŋɡəʊz/",
+    "t": "火烈鸟（复数）",
+    "en": "pink wading birds"
+  },
+  "observing": {
+    "p": "/əbˈzɜːvɪŋ/",
+    "t": "观察",
+    "en": "watching carefully"
+  },
+  "lemon": {
+    "p": "/ˈlemən/",
+    "t": "柠檬",
+    "en": "a yellow citrus fruit"
+  },
+  "shark": {
+    "p": "/ʃɑːk/",
+    "t": "鲨鱼",
+    "en": "a large predatory fish"
+  },
+  "shallow": {
+    "p": "/ˈʃæləʊ/",
+    "t": "浅的",
+    "en": "not deep"
+  },
+  "biodiversity": {
+    "p": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "t": "生物多样性",
+    "en": "variety of life in an area"
+  },
+  "seagrass": {
+    "p": "/ˈsiːɡrɑːs/",
+    "t": "海草",
+    "en": "grass-like marine plants"
+  },
+  "meadows": {
+    "p": "/ˈmɛdəʊz/",
+    "t": "草地，牧场（复数）",
+    "en": "fields of grass"
+  },
+  "nursery": {
+    "p": "/ˈnɜːsəri/",
+    "t": "苗圃，育儿室",
+    "en": "a place for raising young or plants"
+  },
+  "habitats": {
+    "p": "/ˈhæbɪtæts/",
+    "t": "栖息地（复数）",
+    "en": "natural homes of organisms"
+  },
+  "baitfish": {
+    "p": "/ˈbeɪtfɪʃ/",
+    "t": "饵鱼",
+    "en": "small fish used as bait"
+  },
+  "sheltering": {
+    "p": "/ˈʃɛltərɪŋ/",
+    "t": "庇护，遮蔽",
+    "en": "giving protection"
+  },
+  "snook": {
+    "p": "/snuːk/",
+    "t": "锯盖鱼（一种海鱼）",
+    "en": "a type of game fish"
+  },
+  "darts": {
+    "p": "/dɑːts/",
+    "t": "猛冲；飞镖",
+    "en": "moves quickly; a game with small missiles"
+  },
+  "carbon": {
+    "p": "/ˈkɑːbən/",
+    "t": "碳",
+    "en": "a chemical element"
+  },
+  "landbased": {
+    "p": "/ˈlændbeɪst/",
+    "t": "陆地的",
+    "en": "on land rather than sea"
+  },
+  "incoming": {
+    "p": "/ˈɪnkʌmɪŋ/",
+    "t": "进来的，即将到来的",
+    "en": "coming in"
+  },
+  "branches": {
+    "p": "/ˈbrɑːntʃɪz/",
+    "t": "树枝；分支（复数）",
+    "en": "parts of a tree; divisions"
+  },
+  "refuge": {
+    "p": "/ˈrefjuːdʒ/",
+    "t": "避难所",
+    "en": "a safe place"
+  },
+  "charming": {
+    "p": "/ˈtʃɑːmɪŋ/",
+    "t": "迷人的",
+    "en": "pleasant and attractive"
+  },
+  "whiteeye": {
+    "p": "/ˈwaɪtaɪ/",
+    "t": "白眼（鸟）",
+    "en": "a small bird with a white ring around eye"
+  },
+  "mammals": {
+    "p": "/ˈmæməlz/",
+    "t": "哺乳动物（复数）",
+    "en": "warm-blooded animals that nurse young"
+  },
+  "dense": {
+    "p": "/dens/",
+    "t": "密集的",
+    "en": "thick and compact"
+  },
+  "vegetation": {
+    "p": "/ˌvɛdʒɪˈteɪʃən/",
+    "t": "植被",
+    "en": "plants collectively"
+  },
+  "offering": {
+    "p": "/ˈɒfərɪŋ/",
+    "t": "提供，奉献",
+    "en": "giving or presenting"
+  },
+  "jungle": {
+    "p": "/ˈdʒʌŋɡəl/",
+    "t": "丛林",
+    "en": "dense tropical forest"
+  },
+  "coastal": {
+    "p": "/ˈkəʊstəl/",
+    "t": "沿海的",
+    "en": "relating to coast"
+  },
+  "stabilising": {
+    "p": "/ˈsteɪbəlaɪzɪŋ/",
+    "t": "使稳定",
+    "en": "making steady or stable"
+  },
+  "shorelines": {
+    "p": "/ˈʃɔːlaɪnz/",
+    "t": "海岸线（复数）",
+    "en": "lines where land meets water"
+  },
+  "reducing": {
+    "p": "/rɪˈdjuːsɪŋ/",
+    "t": "减少",
+    "en": "making smaller"
+  },
+  "sequester": {
+    "p": "/sɪˈkwɛstə/",
+    "t": "封存，隔离",
+    "en": "to isolate or store away"
+  },
+  "quantities": {
+    "p": "/ˈkwɒntɪtiz/",
+    "t": "数量（复数）",
+    "en": "amounts"
+  },
+  "solitary": {
+    "p": "/ˈsɒlɪtəri/",
+    "t": "孤独的，独居的",
+    "en": "alone, without company"
+  },
+  "illuminated": {
+    "p": "/ɪˈluːmɪneɪtɪd/",
+    "t": "照亮的",
+    "en": "lit up"
+  },
+  "numerous": {
+    "p": "/ˈnjuːmərəs/",
+    "t": "许多的",
+    "en": "many"
+  },
+  "highlights": {
+    "p": "/ˈhaɪlaɪts/",
+    "t": "亮点，强调",
+    "en": "most important parts; emphasizes"
+  },
+  "clearing": {
+    "p": "/ˈklɪərɪŋ/",
+    "t": "清除；空地",
+    "en": "removing; an open area in forest"
+  },
+  "farming": {
+    "p": "/ˈfɑːmɪŋ/",
+    "t": "农业",
+    "en": "growing crops or raising animals"
+  },
+  "impacts": {
+    "p": "/ˈɪmpækts/",
+    "t": "影响（复数）",
+    "en": "effects or influences"
+  },
+  "defied": {
+    "p": "/dɪˈfaɪd/",
+    "t": "违抗，藐视",
+    "en": "resisted or challenged"
+  },
+  "stall": {
+    "p": "/stɔːl/",
+    "t": "拖延；摊位",
+    "en": "to delay; a small shop"
+  },
+  "environmental": {
+    "p": "/ɪnˌvaɪrənˈmɛntəl/",
+    "t": "环境的",
+    "en": "relating to the environment"
+  },
+  "crime": {
+    "p": "/kraɪm/",
+    "t": "犯罪",
+    "en": "illegal activity"
+  },
+  "poaching": {
+    "p": "/ˈpəʊtʃɪŋ/",
+    "t": "偷猎",
+    "en": "illegal hunting"
+  },
+  "wetlands": {
+    "p": "/ˈwɛtlændz/",
+    "t": "湿地（复数）",
+    "en": "land saturated with water"
+  },
+  "winners": {
+    "p": "/ˈwɪnəz/",
+    "t": "获胜者（复数）",
+    "en": "those who win"
+  },
+  "developments": {
+    "p": "/dɪˈvɛləpmənts/",
+    "t": "发展，开发（复数）",
+    "en": "growth or construction projects"
+  },
+  "reversal": {
+    "p": "/rɪˈvɜːsl/",
+    "t": "逆转；反转",
+    "en": "a change to an opposite direction or position"
+  },
+  "standup": {
+    "p": "/ˈstændʌp/",
+    "t": "单口喜剧；站立的",
+    "en": "comedy performed by a solo comedian; upright"
+  },
+  "comedian": {
+    "p": "/kəˈmiːdiən/",
+    "t": "喜剧演员",
+    "en": "a person who performs comedy"
+  },
+  "communications": {
+    "p": "/kəˌmjuːnɪˈkeɪʃənz/",
+    "t": "通讯；交流",
+    "en": "the imparting or exchanging of information"
+  },
+  "draws": {
+    "p": "/drɔːz/",
+    "t": "吸引；绘制",
+    "en": "attracts; produces a picture with lines"
+  },
+  "arrived": {
+    "p": "/əˈraɪvd/",
+    "t": "到达",
+    "en": "reached a destination"
+  },
+  "incredulous": {
+    "p": "/ɪnˈkredjələs/",
+    "t": "怀疑的；不轻信的",
+    "en": "unwilling to believe; skeptical"
+  },
+  "doubling": {
+    "p": "/ˈdʌblɪŋ/",
+    "t": "加倍",
+    "en": "becoming twice as much or as many"
+  },
+  "exceeding": {
+    "p": "/ɪkˈsiːdɪŋ/",
+    "t": "超过；超越",
+    "en": "going beyond a limit or expectation"
+  },
+  "dramatic": {
+    "p": "/drəˈmætɪk/",
+    "t": "戏剧性的；显著的",
+    "en": "sudden and striking; relating to drama"
+  },
+  "removals": {
+    "p": "/rɪˈmuːvəlz/",
+    "t": "移除；搬迁",
+    "en": "acts of taking something away or moving"
+  },
+  "suspend": {
+    "p": "/səˈspend/",
+    "t": "暂停；悬挂",
+    "en": "temporarily stop; hang from above"
+  },
+  "programme": {
+    "p": "/ˈprəʊɡræm/",
+    "t": "节目；计划",
+    "en": "a planned series of events; broadcast"
+  },
+  "refugees": {
+    "p": "/ˌrefjuˈdʒiːz/",
+    "t": "难民",
+    "en": "people forced to flee their country"
+  },
+  "abroad": {
+    "p": "/əˈbrɔːd/",
+    "t": "在国外",
+    "en": "in or to a foreign country"
+  },
+  "voluntarily": {
+    "p": "/ˈvɒləntrəli/",
+    "t": "自愿地",
+    "en": "by choice; without coercion"
+  },
+  "marks": {
+    "p": "/mɑːks/",
+    "t": "标记；分数",
+    "en": "signs; grades or scores"
+  },
+  "deeprooted": {
+    "p": "/ˌdiːpˈruːtɪd/",
+    "t": "根深蒂固的",
+    "en": "firmly established; ingrained"
+  },
+  "emigrated": {
+    "p": "/ˈemɪɡreɪtɪd/",
+    "t": "移居国外",
+    "en": "left one's own country to live in another"
+  },
+  "countrys": {
+    "p": "/ˈkʌntriz/",
+    "t": "国家的",
+    "en": "belonging to a country"
+  },
+  "ethnic": {
+    "p": "/ˈeθnɪk/",
+    "t": "种族的；民族的",
+    "en": "relating to a particular racial or cultural group"
+  },
+  "presidents": {
+    "p": "/ˈprezɪdənts/",
+    "t": "总统们；校长们",
+    "en": "heads of state or institutions"
+  },
+  "ancestry": {
+    "p": "/ˈænsestri/",
+    "t": "祖先；血统",
+    "en": "family line of descent"
+  },
+  "visits": {
+    "p": "/ˈvɪzɪts/",
+    "t": "访问；参观",
+    "en": "acts of going to see a place or person"
+  },
+  "celebrated": {
+    "p": "/ˈselɪbreɪtɪd/",
+    "t": "著名的；庆祝的",
+    "en": "widely known and praised; observed with festivities"
+  },
+  "homecomings": {
+    "p": "/ˈhəʊmkʌmɪŋz/",
+    "t": "归乡；返校活动",
+    "en": "returns to one's home or school events"
+  },
+  "diplomatic": {
+    "p": "/ˌdɪpləˈmætɪk/",
+    "t": "外交的；圆滑的",
+    "en": "relating to diplomacy; tactful"
+  },
+  "missions": {
+    "p": "/ˈmɪʃənz/",
+    "t": "任务；使命",
+    "en": "important tasks or assignments"
+  },
+  "frequently": {
+    "p": "/ˈfriːkwəntli/",
+    "t": "频繁地",
+    "en": "often; regularly"
+  },
+  "novels": {
+    "p": "/ˈnɒvəlz/",
+    "t": "小说",
+    "en": "long fictional prose narratives"
+  },
+  "emigrates": {
+    "p": "/ˈemɪɡreɪts/",
+    "t": "移居国外",
+    "en": "leaves one's country to live elsewhere"
+  },
+  "ambition": {
+    "p": "/æmˈbɪʃən/",
+    "t": "雄心；抱负",
+    "en": "strong desire to achieve something"
+  },
+  "hasnt": {
+    "p": "/ˈhæznt/",
+    "t": "还没有",
+    "en": "has not"
+  },
+  "partly": {
+    "p": "/ˈpɑːtli/",
+    "t": "部分地",
+    "en": "to some extent"
+  },
+  "reflects": {
+    "p": "/rɪˈflekts/",
+    "t": "反映；反射",
+    "en": "shows or mirrors; throws back light"
+  },
+  "hightech": {
+    "p": "/ˌhaɪˈtek/",
+    "t": "高科技的",
+    "en": "using advanced technology"
+  },
+  "exportdriven": {
+    "p": "/ˈekspɔːtˌdrɪvən/",
+    "t": "出口驱动的",
+    "en": "driven by exporting goods"
+  },
+  "undergone": {
+    "p": "/ˌʌndəˈɡɒn/",
+    "t": "经历；遭受",
+    "en": "experienced or endured"
+  },
+  "transformation": {
+    "p": "/ˌtrænsfəˈmeɪʃən/",
+    "t": "转型；变革",
+    "en": "a complete change"
+  },
+  "conservative": {
+    "p": "/kənˈsɜːvətɪv/",
+    "t": "保守的",
+    "en": "averse to change; traditional"
+  },
+  "referendums": {
+    "p": "/ˌrefəˈrendəmz/",
+    "t": "公投",
+    "en": "votes by the public on a single issue"
+  },
+  "divorce": {
+    "p": "/dɪˈvɔːs/",
+    "t": "离婚",
+    "en": "legal dissolution of marriage"
+  },
+  "abortion": {
+    "p": "/əˈbɔːʃən/",
+    "t": "堕胎",
+    "en": "termination of pregnancy"
+  },
+  "marriage": {
+    "p": "/ˈmærɪdʒ/",
+    "t": "婚姻",
+    "en": "the state of being married"
+  },
+  "prominent": {
+    "p": "/ˈprɒmɪnənt/",
+    "t": "杰出的；显著的",
+    "en": "important; well-known"
+  },
+  "campaigner": {
+    "p": "/kæmˈpeɪnə/",
+    "t": "活动家；竞选者",
+    "en": "a person who campaigns for a cause"
+  },
+  "samesex": {
+    "p": "/ˌseɪmˈseks/",
+    "t": "同性的",
+    "en": "relating to people of the same sex"
+  },
+  "referendum": {
+    "p": "/ˌrefəˈrendəm/",
+    "t": "公投",
+    "en": "a direct vote on a proposal"
+  },
+  "cosmopolitan": {
+    "p": "/ˌkɒzməˈpɒlɪtən/",
+    "t": "世界性的；见多识广的",
+    "en": "familiar with many cultures; sophisticated"
+  },
+  "office": {
+    "p": "/ˈɒfɪs/",
+    "t": "办公室；职务",
+    "en": "a room where work is done; a position of authority"
+  },
+  "crackdown": {
+    "p": "/ˈkrækdaʊn/",
+    "t": "镇压；严厉打击",
+    "en": "severe enforcement of laws or rules"
+  },
+  "revisits": {
+    "p": "/ˌriːˈvɪzɪts/",
+    "t": "重访",
+    "en": "visits again"
+  },
+  "protagonist": {
+    "p": "/prəˈtæɡənɪst/",
+    "t": "主角",
+    "en": "the main character in a story"
+  },
+  "deported": {
+    "p": "/dɪˈpɔːtɪd/",
+    "t": "被驱逐出境",
+    "en": "expelled from a country"
+  },
+  "tourist": {
+    "p": "/ˈtʊərɪst/",
+    "t": "游客",
+    "en": "a person traveling for pleasure"
+  },
+  "detain": {
+    "p": "/dɪˈteɪn/",
+    "t": "拘留；扣留",
+    "en": "hold in custody"
+  },
+  "frightening": {
+    "p": "/ˈfraɪtnɪŋ/",
+    "t": "令人恐惧的",
+    "en": "causing fear"
+  },
+  "traffic": {
+    "p": "/ˈtræfɪk/",
+    "t": "交通；流量",
+    "en": "vehicles moving on roads; data flow"
+  },
+  "wideranging": {
+    "p": "/ˌwaɪdˈreɪndʒɪŋ/",
+    "t": "广泛的",
+    "en": "covering many topics or areas"
+  },
+  "whats": {
+    "p": "/wɒts/",
+    "t": "什么是",
+    "en": "what is"
+  },
+  "politically": {
+    "p": "/pəˈlɪtɪkli/",
+    "t": "政治上",
+    "en": "in a political manner"
+  },
+  "lecturer": {
+    "p": "/ˈlektʃərə/",
+    "t": "讲师",
+    "en": "a person who gives lectures, especially in a university"
+  },
+  "fears": {
+    "p": "/fɪəz/",
+    "t": "恐惧；担心",
+    "en": "feelings of anxiety; concerns"
+  },
+  "liberalised": {
+    "p": "/ˈlɪbərəlaɪzd/",
+    "t": "自由化的",
+    "en": "made more liberal, often in economic policy"
+  },
+  "migrant": {
+    "p": "/ˈmaɪɡrənt/",
+    "t": "移民；流动工人",
+    "en": "a person who moves from one place to another, often for work"
+  },
+  "halfhungarian": {
+    "p": "/ˌhɑːf hʌŋˈɡeəriən/",
+    "t": "半匈牙利血统的",
+    "en": "of mixed Hungarian and other ancestry"
+  },
+  "passport": {
+    "p": "/ˈpɑːspɔːt/",
+    "t": "护照",
+    "en": "an official document for international travel"
+  },
+  "dreamed": {
+    "p": "/driːmd/",
+    "t": "梦想；做梦",
+    "en": "had dreams; imagined desired outcomes"
+  },
+  "visiting": {
+    "p": "/ˈvɪzɪtɪŋ/",
+    "t": "访问；参观",
+    "en": "going to see a place or person"
+  },
+  "inviting": {
+    "p": "/ɪnˈvaɪtɪŋ/",
+    "t": "邀请；诱人的",
+    "en": "asking someone to come; attractive"
+  },
+  "marrying": {
+    "p": "/ˈmærɪɪŋ/",
+    "t": "结婚",
+    "en": "taking someone as a spouse"
+  },
+  "assistant": {
+    "p": "/əˈsɪstənt/",
+    "t": "助手；助理",
+    "en": "a person who helps"
+  },
+  "expat": {
+    "p": "/ˌeksˈpæt/",
+    "t": "外籍人士",
+    "en": "a person living outside their native country"
+  },
+  "moniker": {
+    "p": "/ˈmɒnɪkə/",
+    "t": "绰号；名字",
+    "en": "a name or nickname"
+  },
+  "shootings": {
+    "p": "/ˈʃuːtɪŋz/",
+    "t": "枪击事件",
+    "en": "incidents of firing guns"
+  },
+  "decrease": {
+    "p": "/dɪˈkriːs/",
+    "t": "减少",
+    "en": "become smaller in amount or size"
+  },
+  "double": {
+    "p": "/ˈdʌbl/",
+    "t": "两倍；加倍",
+    "en": "twice as much; to make twice"
+  },
+  "visas": {
+    "p": "/ˈviːzəz/",
+    "t": "签证",
+    "en": "official stamps allowing entry into a country"
+  },
+  "rethink": {
+    "p": "/ˌriːˈθɪŋk/",
+    "t": "重新考虑",
+    "en": "think again about something"
+  },
+  "studying": {
+    "p": "/ˈstʌdɪɪŋ/",
+    "t": "学习；研究",
+    "en": "the act of learning or examining"
+  },
+  "emigrants": {
+    "p": "/ˈemɪɡrənts/",
+    "t": "移居国外者",
+    "en": "people who leave their own country to live elsewhere"
+  },
+  "wishing": {
+    "p": "/ˈwɪʃɪŋ/",
+    "t": "希望；祝愿",
+    "en": "expressing a desire"
+  },
+  "queries": {
+    "p": "/ˈkwɪəriz/",
+    "t": "疑问；询问",
+    "en": "questions or inquiries"
+  },
+  "placement": {
+    "p": "/ˈpleɪsmənt/",
+    "t": "安置；实习",
+    "en": "the act of putting in a position; a job assignment"
+  },
+  "controls": {
+    "p": "/kənˈtrəʊlz/",
+    "t": "控制；管制",
+    "en": "mechanisms to regulate or manage"
+  },
+  "deterrent": {
+    "p": "/dɪˈterənt/",
+    "t": "威慑因素",
+    "en": "something that discourages action"
+  },
+  "shortage": {
+    "p": "/ˈʃɔːtɪdʒ/",
+    "t": "短缺",
+    "en": "a lack of something needed"
+  },
+  "affordable": {
+    "p": "/əˈfɔːrdəbl/",
+    "t": "负担得起的",
+    "en": "inexpensive enough to buy"
+  },
+  "mindful": {
+    "p": "/ˈmaɪndfəl/",
+    "t": "留心的；注意的",
+    "en": "aware and attentive"
+  },
+  "centres": {
+    "p": "/ˈsentəz/",
+    "t": "中心",
+    "en": "central points or places"
+  },
+  "grandparents": {
+    "p": "/ˈɡrænpeərənts/",
+    "t": "祖父母；外祖父母",
+    "en": "parents of one's parents"
+  },
+  "passports": {
+    "p": "/ˈpɑːspɔːts/",
+    "t": "护照（复数）",
+    "en": "official travel documents"
+  },
+  "individualism": {
+    "p": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+    "t": "个人主义",
+    "en": "belief in the importance of the individual"
+  },
+  "relocated": {
+    "p": "/ˌriːləʊˈkeɪtɪd/",
+    "t": "迁移；重新安置",
+    "en": "moved to a new place"
+  },
+  "cooler": {
+    "p": "/ˈkuːlə/",
+    "t": "更凉爽的；冷却器",
+    "en": "comparatively cold; a device for cooling"
+  },
+  "rains": {
+    "p": "/reɪnz/",
+    "t": "下雨",
+    "en": "falls of rain"
+  },
+  "tries": {
+    "p": "/traɪz/",
+    "t": "尝试；努力",
+    "en": "attempts; makes an effort"
+  },
+  "turbulent": {
+    "p": "/ˈtɜːbjələnt/",
+    "t": "动荡的；混乱的",
+    "en": "characterized by disturbance or disorder"
+  },
+  "reminded": {
+    "p": "/rɪˈmaɪndɪd/",
+    "t": "提醒",
+    "en": "caused someone to remember"
+  },
+  "ambassador": {
+    "p": "/æmˈbæsədə/",
+    "t": "大使",
+    "en": "a diplomatic official of the highest rank"
+  },
+  "stunt": {
+    "p": "/stʌnt/",
+    "t": "特技；噱头；阻碍生长",
+    "en": "a dangerous or impressive act; a trick; to hinder growth"
+  },
+  "directs": {
+    "p": "/dəˈrekts/",
+    "t": "指导；导演；指向",
+    "en": "to manage or guide; to aim at"
+  },
+  "update": {
+    "p": "/ˈʌpdeɪt/",
+    "t": "更新；使现代化",
+    "en": "to make something more current or accurate"
+  },
+  "portion": {
+    "p": "/ˈpɔːʃn/",
+    "t": "部分；一份",
+    "en": "a part or share of something"
+  },
+  "constituency": {
+    "p": "/kənˈstɪtʃuənsi/",
+    "t": "选区；选民",
+    "en": "a body of voters in a district"
+  },
+  "imperial": {
+    "p": "/ɪmˈpɪəriəl/",
+    "t": "帝国的；皇帝的",
+    "en": "relating to an empire or emperor"
+  },
+  "desires": {
+    "p": "/dɪˈzaɪəz/",
+    "t": "渴望；欲望",
+    "en": "strong wishes or longings"
+  },
+  "jokingbutmaybenotjoking": {
+    "p": "/ˈdʒoʊkɪŋ bʌt ˈmeɪbi nɒt ˈdʒoʊkɪŋ/",
+    "t": "开玩笑但也许不是开玩笑",
+    "en": "saying something humorous yet possibly serious"
+  },
+  "stupid": {
+    "p": "/ˈstjuːpɪd/",
+    "t": "愚蠢的；笨的",
+    "en": "lacking intelligence or common sense"
+  },
+  "attest": {
+    "p": "/əˈtest/",
+    "t": "证明；作证",
+    "en": "to provide evidence or testify"
+  },
+  "royally": {
+    "p": "/ˈrɔɪəli/",
+    "t": "盛大地；王室地",
+    "en": "in a grand or regal manner"
+  },
+  "pissed": {
+    "p": "/pɪst/",
+    "t": "生气的；醉的",
+    "en": "angry; drunk (informal)"
+  },
+  "pique": {
+    "p": "/piːk/",
+    "t": "愠怒；激起兴趣",
+    "en": "resentment or irritation; to stimulate interest"
+  },
+  "ratchets": {
+    "p": "/ˈrætʃɪts/",
+    "t": "棘轮；逐步增加",
+    "en": "to increase or decrease in steps; a mechanical device"
+  },
+  "tensions": {
+    "p": "/ˈtenʃnz/",
+    "t": "紧张；张力",
+    "en": "strains or pressures; mental or emotional stress"
+  },
+  "credible": {
+    "p": "/ˈkredəbl/",
+    "t": "可信的；可靠的",
+    "en": "able to be believed; trustworthy"
+  },
+  "redress": {
+    "p": "/rɪˈdres/",
+    "t": "纠正；补偿",
+    "en": "to set right or remedy; compensation"
+  },
+  "imbalances": {
+    "p": "/ɪmˈbælənsɪz/",
+    "t": "不平衡；失衡",
+    "en": "unequal amounts or states"
+  },
+  "dwelling": {
+    "p": "/ˈdwelɪŋ/",
+    "t": "住所；住宅",
+    "en": "a place where people live"
+  },
+  "predates": {
+    "p": "/ˌpriːˈdeɪts/",
+    "t": "先于；早于",
+    "en": "to exist before something else"
+  },
+  "debuted": {
+    "p": "/ˈdeɪbjuːd/",
+    "t": "首次亮相；初次登台",
+    "en": "to make a first public appearance"
+  },
+  "dreaming": {
+    "p": "/ˈdriːmɪŋ/",
+    "t": "做梦；梦想",
+    "en": "experiencing dreams; imagining or hoping for"
+  },
+  "highspeed": {
+    "p": "/ˌhaɪˈspiːd/",
+    "t": "高速的",
+    "en": "moving or operating at great speed"
+  },
+  "subscribe": {
+    "p": "/səbˈskraɪb/",
+    "t": "订阅；同意；捐款",
+    "en": "to arrange to receive something regularly; to agree or contribute"
+  },
+  "secular": {
+    "p": "/ˈsekjələr/",
+    "t": "世俗的；非宗教的",
+    "en": "not religious or spiritual"
+  },
+  "saint": {
+    "p": "/seɪnt/",
+    "t": "圣人；圣徒",
+    "en": "a holy person; a very good person"
   }
 }
