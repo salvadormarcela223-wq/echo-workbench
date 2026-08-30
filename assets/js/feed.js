@@ -9,7 +9,7 @@
   // 内容 feed 与站点同源（GitHub Pages 的 data/feed.json），无需跨域、无需令牌即可读取。
   // 由每日自动化任务抓取最新素材后写入该文件。
   // v 参数用于破 CDN 缓存，每次更新内容时递增。
-  const URL = 'data/feed.json?v=20260829dq3sf';
+  const URL = 'data/feed.json?v=20260830d3kc3';
 
   let cache = null;
 
