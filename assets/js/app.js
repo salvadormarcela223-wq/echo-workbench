@@ -51,7 +51,8 @@
     root.appendChild(mask);
     const close = () => { mask.style.animation = 'fadeIn .2s reverse'; setTimeout(() => mask.remove(), 190); };
     mask.querySelectorAll('[data-close]').forEach(b => b.onclick = close);
-    mask.onclick = e => { if (e.target === mask) close(); };
+    // noMaskClose：填表类弹窗不允许「点空白处关闭」，避免误触把填的内容弄丢
+    mask.onclick = e => { if (e.target === mask && !opts.noMaskClose) close(); };
     const okBtn = mask.querySelector('[data-ok]');
     if (okBtn) okBtn.onclick = () => { if (opts.onOk && opts.onOk(mask) === false) return; close(); };
     document.addEventListener('keydown', function h(e) {
@@ -432,7 +433,7 @@
       '</div>';
 
     const m = modal({
-      title: '设置', body: body, okText: '保存',
+      title: '设置', body: body, okText: '保存', noMaskClose: true,
       onOk: mk => {
         const n = $('#setName', mk); if (n) S.s.profile.name = n.value.trim() || 'Echo';
         const r = $('#setRole', mk); if (r) S.s.profile.role = r.value.trim();
@@ -468,6 +469,16 @@
           cfg.auto = $('#syAuto', mk).checked;
           S.Sync.cfg = cfg;
         };
+        // 边填边存：万一弹窗被关掉或切走，已填的编号/钥匙也不会丢
+        ['syId', 'syTk', 'syUrl', 'syHd'].forEach(id => {
+          const el = $('#' + id, mk);
+          if (el) el.addEventListener('input', () => save());
+        });
+        const auBox = $('#syAuto', mk);
+        if (auBox) auBox.addEventListener('change', () => save());
+        const mdBox = $('#syMode', mk);
+        if (mdBox) mdBox.addEventListener('change', () => save());
+
         const pp = $('#syPush', mk); if (pp) pp.onclick = async () => { save(); const ok = await S.Sync.push(); if (ok) toast('上传成功', 'ok'); };
         const pl = $('#syPull', mk); if (pl) pl.onclick = async () => { save(); const ok = await S.Sync.pull(true); if (ok) { toast('拉取成功', 'ok'); window.rerender(); } };
 
