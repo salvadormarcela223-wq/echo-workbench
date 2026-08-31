@@ -30988,5 +30988,1250 @@
     "p": "/ˈnæʃnəlɪzəm/",
     "t": "民族主义",
     "en": "patriotic feeling and policies for one's nation"
+  },
+  "pitfalls": {
+    "p": "/ˈpɪtfɔːlz/",
+    "t": "陷阱，隐患",
+    "en": "hidden dangers or difficulties"
+  },
+  "schoolchildren": {
+    "p": "/ˈskuːltʃɪldrən/",
+    "t": "学童",
+    "en": "children attending school"
+  },
+  "outcasts": {
+    "p": "/ˈaʊtkɑːsts/",
+    "t": "被排斥者",
+    "en": "people rejected by society"
+  },
+  "psychologists": {
+    "p": "/saɪˈkɒlədʒɪsts/",
+    "t": "心理学家",
+    "en": "experts in psychology"
+  },
+  "excluded": {
+    "p": "/ɪkˈskluːdɪd/",
+    "t": "被排除的",
+    "en": "not included or left out"
+  },
+  "archetypes": {
+    "p": "/ˈɑːkitaɪps/",
+    "t": "原型",
+    "en": "typical examples or models"
+  },
+  "rejected": {
+    "p": "/rɪˈdʒektɪd/",
+    "t": "被拒绝的",
+    "en": "refused or dismissed"
+  },
+  "bullying": {
+    "p": "/ˈbʊliɪŋ/",
+    "t": "欺凌",
+    "en": "intimidating or harming others"
+  },
+  "subservient": {
+    "p": "/səbˈsɜːviənt/",
+    "t": "屈从的",
+    "en": "excessively obedient or submissive"
+  },
+  "inability": {
+    "p": "/ˌɪnəˈbɪləti/",
+    "t": "无能，无力",
+    "en": "lack of ability or capacity"
+  },
+  "teasing": {
+    "p": "/ˈtiːzɪŋ/",
+    "t": "取笑，戏弄",
+    "en": "making fun of someone playfully or mockingly"
+  },
+  "anger": {
+    "p": "/ˈæŋɡə/",
+    "t": "愤怒",
+    "en": "strong feeling of displeasure"
+  },
+  "wounded": {
+    "p": "/ˈwuːndɪd/",
+    "t": "受伤的",
+    "en": "injured or hurt"
+  },
+  "withdrew": {
+    "p": "/wɪðˈdruː/",
+    "t": "撤回，退出",
+    "en": "pulled back or retreated"
+  },
+  "interpreted": {
+    "p": "/ɪnˈtɜːprɪtɪd/",
+    "t": "解释，理解",
+    "en": "explained or understood"
+  },
+  "intended": {
+    "p": "/ɪnˈtendɪd/",
+    "t": "打算的",
+    "en": "planned or meant"
+  },
+  "humour": {
+    "p": "/ˈhjuːmə/",
+    "t": "幽默",
+    "en": "quality of being amusing or funny"
+  },
+  "insult": {
+    "p": "/ɪnˈsʌlt/",
+    "t": "侮辱",
+    "en": "offensive remark or action"
+  },
+  "couldnt": {
+    "p": "/ˈkʊdnt/",
+    "t": "不能",
+    "en": "could not"
+  },
+  "assured": {
+    "p": "/əˈʃʊəd/",
+    "t": "确信的，自信的",
+    "en": "confident or certain"
+  },
+  "shrugged": {
+    "p": "/ʃrʌɡd/",
+    "t": "耸肩",
+    "en": "raised shoulders to show indifference"
+  },
+  "amused": {
+    "p": "/əˈmjuːzd/",
+    "t": "逗乐的",
+    "en": "finding something funny or entertaining"
+  },
+  "lighthearted": {
+    "p": "/ˌlaɪtˈhɑːtɪd/",
+    "t": "轻松的，愉快的",
+    "en": "cheerful and carefree"
+  },
+  "humorous": {
+    "p": "/ˈhjuːmərəs/",
+    "t": "幽默的",
+    "en": "funny or amusing"
+  },
+  "nuance": {
+    "p": "/ˈnjuːɑːns/",
+    "t": "细微差别",
+    "en": "subtle distinction or variation"
+  },
+  "beneficial": {
+    "p": "/ˌbenɪˈfɪʃl/",
+    "t": "有益的",
+    "en": "helpful or advantageous"
+  },
+  "didnt": {
+    "p": "/ˈdɪdnt/",
+    "t": "没有",
+    "en": "did not"
+  },
+  "delusionally": {
+    "p": "/dɪˈluːʒənəli/",
+    "t": "妄想地",
+    "en": "in a deluded or false-belief manner"
+  },
+  "betterlooking": {
+    "p": "/ˌbetəˈlʊkɪŋ/",
+    "t": "更好看的",
+    "en": "more attractive in appearance"
+  },
+  "wiser": {
+    "p": "/ˈwaɪzə/",
+    "t": "更明智的",
+    "en": "more wise or sensible"
+  },
+  "laughing": {
+    "p": "/ˈlɑːfɪŋ/",
+    "t": "笑",
+    "en": "making sounds of amusement"
+  },
+  "gelotophobe": {
+    "p": "/dʒɪˈlɒtəfəʊb/",
+    "t": "被笑恐惧症者",
+    "en": "person with fear of being laughed at"
+  },
+  "acute": {
+    "p": "/əˈkjuːt/",
+    "t": "敏锐的，严重的",
+    "en": "sharp or intense"
+  },
+  "sensitivity": {
+    "p": "/ˌsensəˈtɪvəti/",
+    "t": "敏感",
+    "en": "quick to react to stimuli or feelings"
+  },
+  "exception": {
+    "p": "/ɪkˈsepʃn/",
+    "t": "例外",
+    "en": "something not following the rule"
+  },
+  "foolishness": {
+    "p": "/ˈfuːlɪʃnəs/",
+    "t": "愚蠢",
+    "en": "lack of good sense or judgment"
+  },
+  "worldlier": {
+    "p": "/ˈwɜːldliə/",
+    "t": "更世故的",
+    "en": "more experienced or sophisticated"
+  },
+  "interim": {
+    "p": "/ˈɪntərɪm/",
+    "t": "过渡期间",
+    "en": "temporary or in-between period"
+  },
+  "spite": {
+    "p": "/spaɪt/",
+    "t": "恶意，怨恨",
+    "en": "desire to hurt or annoy others"
+  },
+  "incongruity": {
+    "p": "/ˌɪnkɒŋˈɡruːəti/",
+    "t": "不协调",
+    "en": "lack of harmony or consistency"
+  },
+  "hilarity": {
+    "p": "/hɪˈlærəti/",
+    "t": "欢闹",
+    "en": "great amusement or laughter"
+  },
+  "unexpected": {
+    "p": "/ˌʌnɪkˈspektɪd/",
+    "t": "意外的",
+    "en": "not anticipated or predicted"
+  },
+  "violation": {
+    "p": "/ˌvaɪəˈleɪʃn/",
+    "t": "违反，侵犯",
+    "en": "breaking a rule or law"
+  },
+  "contentious": {
+    "p": "/kənˈtenʃəs/",
+    "t": "有争议的",
+    "en": "causing argument or disagreement"
+  },
+  "relied": {
+    "p": "/rɪˈlaɪd/",
+    "t": "依赖",
+    "en": "depended on"
+  },
+  "units": {
+    "p": "/ˈjuːnɪts/",
+    "t": "单位",
+    "en": "individual parts or components"
+  },
+  "confess": {
+    "p": "/kənˈfes/",
+    "t": "承认，坦白",
+    "en": "admit or acknowledge"
+  },
+  "aspirational": {
+    "p": "/ˌæspəˈreɪʃənl/",
+    "t": "有抱负的",
+    "en": "having strong hopes or ambitions"
+  },
+  "sporting": {
+    "p": "/ˈspɔːtɪŋ/",
+    "t": "体育的；公平的",
+    "en": "relating to sports; fair and generous"
+  },
+  "invited": {
+    "p": "/ɪnˈvaɪtɪd/",
+    "t": "邀请的",
+    "en": "asked to attend or participate"
+  },
+  "covertly": {
+    "p": "/ˈkʌvətli/",
+    "t": "秘密地",
+    "en": "in a hidden or secretive manner"
+  },
+  "videotaped": {
+    "p": "/ˈvɪdiəʊteɪpt/",
+    "t": "录像的",
+    "en": "recorded on video"
+  },
+  "faces": {
+    "p": "/ˈfeɪsɪz/",
+    "t": "脸",
+    "en": "front part of the head"
+  },
+  "distorted": {
+    "p": "/dɪˈstɔːtɪd/",
+    "t": "扭曲的",
+    "en": "twisted or altered from normal shape"
+  },
+  "funhouse": {
+    "p": "/ˈfʌnhaʊs/",
+    "t": "游乐屋",
+    "en": "building with fun mirrors and attractions"
+  },
+  "smiled": {
+    "p": "/smaɪld/",
+    "t": "微笑",
+    "en": "showed a happy expression"
+  },
+  "encountering": {
+    "p": "/ɪnˈkaʊntərɪŋ/",
+    "t": "遇到",
+    "en": "meeting or coming across"
+  },
+  "tickled": {
+    "p": "/ˈtɪkld/",
+    "t": "使发痒；逗乐",
+    "en": "touched lightly causing laughter; amused"
+  },
+  "laughed": {
+    "p": "/lɑːft/",
+    "t": "笑了",
+    "en": "made sounds of amusement"
+  },
+  "aloud": {
+    "p": "/əˈlaʊd/",
+    "t": "大声地",
+    "en": "in a voice that can be heard"
+  },
+  "oneself": {
+    "p": "/wʌnˈself/",
+    "t": "自己",
+    "en": "the reflexive form of one"
+  },
+  "influential": {
+    "p": "/ˌɪnfluˈenʃl/",
+    "t": "有影响力的",
+    "en": "having great influence"
+  },
+  "sevenstep": {
+    "p": "/ˈsevnstep/",
+    "t": "七步的",
+    "en": "consisting of seven stages"
+  },
+  "terminal": {
+    "p": "/ˈtɜːmɪnl/",
+    "t": "末期的，终端的",
+    "en": "final or fatal; at the end"
+  },
+  "seriousness": {
+    "p": "/ˈsɪəriəsnəs/",
+    "t": "严肃",
+    "en": "quality of being serious or grave"
+  },
+  "penultimate": {
+    "p": "/penˈʌltɪmət/",
+    "t": "倒数第二的",
+    "en": "second to last"
+  },
+  "difficulty": {
+    "p": "/ˈdɪfɪkəlti/",
+    "t": "困难",
+    "en": "state of being hard to do"
+  },
+  "gateway": {
+    "p": "/ˈɡeɪtweɪ/",
+    "t": "门户，入口",
+    "en": "entrance or passage"
+  },
+  "mirthful": {
+    "p": "/ˈmɜːθfl/",
+    "t": "欢乐的",
+    "en": "full of joy or laughter"
+  },
+  "selfmockery": {
+    "p": "/ˌselfˈmɒkəri/",
+    "t": "自嘲",
+    "en": "making fun of oneself"
+  },
+  "joking": {
+    "p": "/ˈdʒəʊkɪŋ/",
+    "t": "开玩笑",
+    "en": "saying things in fun or jest"
+  },
+  "gelotophobes": {
+    "p": "/dʒɪˈlɒtəfəʊbz/",
+    "t": "被笑恐惧症者（复数）",
+    "en": "people with fear of being laughed at"
+  },
+  "smile": {
+    "p": "/smaɪl/",
+    "t": "微笑",
+    "en": "facial expression showing happiness"
+  },
+  "interlocutor": {
+    "p": "/ˌɪntəˈlɒkjətə/",
+    "t": "对话者",
+    "en": "person taking part in a conversation"
+  },
+  "ridiculous": {
+    "p": "/rɪˈdɪkjələs/",
+    "t": "荒谬的",
+    "en": "absurd or laughable"
+  },
+  "punishing": {
+    "p": "/ˈpʌnɪʃɪŋ/",
+    "t": "惩罚的",
+    "en": "imposing penalty or hardship"
+  },
+  "parenting": {
+    "p": "/ˈpeərəntɪŋ/",
+    "t": "育儿",
+    "en": "process of raising children"
+  },
+  "embarrassing": {
+    "p": "/ɪmˈbærəsɪŋ/",
+    "t": "令人尴尬的",
+    "en": "causing awkwardness or shame"
+  },
+  "dimension": {
+    "p": "/daɪˈmenʃn/",
+    "t": "维度，方面",
+    "en": "aspect or measurement"
+  },
+  "gelotophobia": {
+    "p": "/dʒɪˌlɒtəˈfəʊbiə/",
+    "t": "被笑恐惧症",
+    "en": "fear of being laughed at"
+  },
+  "belonging": {
+    "p": "/bɪˈlɒŋɪŋ/",
+    "t": "归属感",
+    "en": "feeling of being accepted"
+  },
+  "collectivistic": {
+    "p": "/kəˌlektɪˈvɪstɪk/",
+    "t": "集体主义的",
+    "en": "emphasizing group over individual"
+  },
+  "comedians": {
+    "p": "/kəˈmiːdiənz/",
+    "t": "喜剧演员",
+    "en": "performers who make people laugh"
+  },
+  "trait": {
+    "p": "/treɪt/",
+    "t": "特征",
+    "en": "distinguishing quality or characteristic"
+  },
+  "gelotophilia": {
+    "p": "/dʒɪˌlɒtəˈfɪliə/",
+    "t": "爱笑症",
+    "en": "love of being laughed at"
+  },
+  "connectedness": {
+    "p": "/kəˈnektɪdnəs/",
+    "t": "联系性",
+    "en": "state of being linked or related"
+  },
+  "manifest": {
+    "p": "/ˈmænɪfest/",
+    "t": "显现",
+    "en": "show or display clearly"
+  },
+  "playfulness": {
+    "p": "/ˈpleɪfəlnəs/",
+    "t": "嬉戏",
+    "en": "quality of being playful or fun"
+  },
+  "tendency": {
+    "p": "/ˈtendənsi/",
+    "t": "倾向",
+    "en": "inclination or likelihood"
+  },
+  "frame": {
+    "p": "/freɪm/",
+    "t": "框架，结构",
+    "en": "structure or context"
+  },
+  "entertaining": {
+    "p": "/ˌentəˈteɪnɪŋ/",
+    "t": "有趣的",
+    "en": "amusing or enjoyable"
+  },
+  "intellectually": {
+    "p": "/ˌɪntəˈlektʃuəli/",
+    "t": "智力上",
+    "en": "in relation to intellect"
+  },
+  "stimulating": {
+    "p": "/ˈstɪmjuleɪtɪŋ/",
+    "t": "刺激的",
+    "en": "encouraging activity or interest"
+  },
+  "playful": {
+    "p": "/ˈpleɪfl/",
+    "t": "爱玩的",
+    "en": "full of fun and high spirits"
+  },
+  "boring": {
+    "p": "/ˈbɔːrɪŋ/",
+    "t": "无聊的",
+    "en": "not interesting"
+  },
+  "chore": {
+    "p": "/tʃɔː/",
+    "t": "杂务",
+    "en": "routine or tedious task"
+  },
+  "selfesteem": {
+    "p": "/ˌselfɪˈstiːm/",
+    "t": "自尊",
+    "en": "confidence in one's own worth"
+  },
+  "divides": {
+    "p": "/dɪˈvaɪdz/",
+    "t": "划分",
+    "en": "separates into parts"
+  },
+  "affiliative": {
+    "p": "/əˈfɪliətɪv/",
+    "t": "亲和的",
+    "en": "relating to forming social bonds"
+  },
+  "selfenhancing": {
+    "p": "/ˌselfɪnˈhɑːnsɪŋ/",
+    "t": "自我提升的",
+    "en": "improving one's self-image"
+  },
+  "selfdefeating": {
+    "p": "/ˌselfdɪˈfiːtɪŋ/",
+    "t": "弄巧成拙的",
+    "en": "defeating one's own purposes"
+  },
+  "hugely": {
+    "p": "/ˈhjuːdʒli/",
+    "t": "非常",
+    "en": "to a great extent"
+  },
+  "adaptive": {
+    "p": "/əˈdæptɪv/",
+    "t": "适应的",
+    "en": "able to adjust to new conditions"
+  },
+  "maladaptive": {
+    "p": "/ˌmæləˈdæptɪv/",
+    "t": "适应不良的",
+    "en": "not adjusting well to environment"
+  },
+  "humourists": {
+    "p": "/ˈhjuːmərɪsts/",
+    "t": "幽默作家",
+    "en": "people who write or perform humor"
+  },
+  "attuned": {
+    "p": "/əˈtjuːnd/",
+    "t": "协调的",
+    "en": "in harmony or responsive to"
+  },
+  "absurdities": {
+    "p": "/əbˈsɜːdətiz/",
+    "t": "荒谬之事",
+    "en": "things that are absurd or irrational"
+  },
+  "upset": {
+    "p": "/ʌpˈset/",
+    "t": "使心烦",
+    "en": "disturb emotionally or physically"
+  },
+  "accept": {
+    "p": "/əkˈsept/",
+    "t": "接受",
+    "en": "receive or agree to"
+  },
+  "blunders": {
+    "p": "/ˈblʌndəz/",
+    "t": "错误",
+    "en": "careless mistakes"
+  },
+  "faults": {
+    "p": "/fɔːlts/",
+    "t": "缺点",
+    "en": "imperfections or flaws"
+  },
+  "signalling": {
+    "p": "/ˈsɪɡnəlɪŋ/",
+    "t": "发出信号",
+    "en": "communicating through signals"
+  },
+  "neediness": {
+    "p": "/ˈniːdinəs/",
+    "t": "需要帮助",
+    "en": "state of needing much attention or support"
+  },
+  "aback": {
+    "p": "/əˈbæk/",
+    "t": "向后；吃惊",
+    "en": "surprised or taken off guard"
+  },
+  "poking": {
+    "p": "/pəʊkɪŋ/",
+    "t": "戳，调侃",
+    "en": "jabbing or making fun of"
+  },
+  "suicidal": {
+    "p": "/ˌsuːɪˈsaɪdl/",
+    "t": "自杀的",
+    "en": "relating to suicide"
+  },
+  "ideation": {
+    "p": "/ˌaɪdiˈeɪʃn/",
+    "t": "观念",
+    "en": "formation of thoughts or ideas"
+  },
+  "selfdefeatists": {
+    "p": "/ˌselfdɪˈfiːtɪsts/",
+    "t": "自我挫败者",
+    "en": "people who undermine themselves"
+  },
+  "selfloathing": {
+    "p": "/ˌselfˈləʊðɪŋ/",
+    "t": "自我憎恨",
+    "en": "strong dislike of oneself"
+  },
+  "rounded": {
+    "p": "/ˈraʊndɪd/",
+    "t": "全面的",
+    "en": "well-developed or complete"
+  },
+  "styles": {
+    "p": "/staɪlz/",
+    "t": "风格",
+    "en": "distinctive manners or ways"
+  },
+  "predominant": {
+    "p": "/prɪˈdɒmɪnənt/",
+    "t": "主要的",
+    "en": "most common or strongest"
+  },
+  "difficulties": {
+    "p": "/ˈdɪfɪkəltiz/",
+    "t": "困难",
+    "en": "problems or challenges"
+  },
+  "correlational": {
+    "p": "/kəˌreləˈʃənl/",
+    "t": "相关的",
+    "en": "relating to correlation"
+  },
+  "causal": {
+    "p": "/ˈkɔːzl/",
+    "t": "因果的",
+    "en": "relating to cause and effect"
+  },
+  "contexts": {
+    "p": "/ˈkɒnteksts/",
+    "t": "语境",
+    "en": "surrounding circumstances"
+  },
+  "followup": {
+    "p": "/ˈfɒləʊ ʌp/",
+    "t": "后续",
+    "en": "subsequent action or visit"
+  },
+  "carried": {
+    "p": "/ˈkærid/",
+    "t": "携带",
+    "en": "transported or supported"
+  },
+  "labelled": {
+    "p": "/ˈleɪbld/",
+    "t": "标记为",
+    "en": "identified with a label"
+  },
+  "selfdefeaters": {
+    "p": "/ˌselfdɪˈfiːtəz/",
+    "t": "自我挫败者（复数）",
+    "en": "people who defeat their own goals"
+  },
+  "seemed": {
+    "p": "/siːmd/",
+    "t": "似乎",
+    "en": "appeared to be"
+  },
+  "ranking": {
+    "p": "/ˈræŋkɪŋ/",
+    "t": "排名",
+    "en": "position in a scale"
+  },
+  "lowest": {
+    "p": "/ˈləʊɪst/",
+    "t": "最低的",
+    "en": "least in amount or rank"
+  },
+  "lonelier": {
+    "p": "/ˈləʊnliə/",
+    "t": "更孤独的",
+    "en": "more alone or isolated"
+  },
+  "endorsers": {
+    "p": "/ɪnˈdɔːsəz/",
+    "t": "支持者",
+    "en": "people who approve or support"
+  },
+  "solely": {
+    "p": "/ˈsəʊlli/",
+    "t": "仅仅",
+    "en": "only or exclusively"
+  },
+  "penalty": {
+    "p": "/ˈpenəlti/",
+    "t": "惩罚",
+    "en": "punishment for breaking a rule"
+  },
+  "bitterness": {
+    "p": "/ˈbɪtənəs/",
+    "t": "苦涩",
+    "en": "resentment or harshness"
+  },
+  "selfhatred": {
+    "p": "/ˌselfˈheɪtrɪd/",
+    "t": "自我憎恨",
+    "en": "intense dislike of oneself"
+  },
+  "relating": {
+    "p": "/rɪˈleɪtɪŋ/",
+    "t": "关联",
+    "en": "connecting or associating"
+  },
+  "specifying": {
+    "p": "/ˈspesɪfaɪɪŋ/",
+    "t": "指定",
+    "en": "stating clearly or precisely"
+  },
+  "selfjudgement": {
+    "p": "/ˌselfˈdʒʌdʒmənt/",
+    "t": "自我评判",
+    "en": "evaluation of oneself"
+  },
+  "skewing": {
+    "p": "/ˈskjuːɪŋ/",
+    "t": "歪曲",
+    "en": "distorting or biasing"
+  },
+  "evaluating": {
+    "p": "/ɪˈvæljueɪtɪŋ/",
+    "t": "评估",
+    "en": "assessing or judging value"
+  },
+  "devising": {
+    "p": "/dɪˈvaɪzɪŋ/",
+    "t": "设计",
+    "en": "planning or inventing"
+  },
+  "varieties": {
+    "p": "/vəˈraɪətiz/",
+    "t": "种类",
+    "en": "different types or forms"
+  },
+  "standby": {
+    "p": "/ˈstændbaɪ/",
+    "t": "备用",
+    "en": "ready for use or action"
+  },
+  "awkward": {
+    "p": "/ˈɔːkwəd/",
+    "t": "尴尬的",
+    "en": "causing discomfort or embarrassment"
+  },
+  "lifes": {
+    "p": "/laɪvz/",
+    "t": "生命（复数）",
+    "en": "plural of life"
+  },
+  "gloom": {
+    "p": "/ɡluːm/",
+    "t": "忧郁",
+    "en": "darkness or sadness"
+  },
+  "selftranscendence": {
+    "p": "/ˌselftrænˈsendəns/",
+    "t": "自我超越",
+    "en": "going beyond oneself"
+  },
+  "lighter": {
+    "p": "/ˈlaɪtə/",
+    "t": "更轻的",
+    "en": "less heavy or serious"
+  },
+  "strangers": {
+    "p": "/ˈstreɪndʒəz/",
+    "t": "陌生人",
+    "en": "people not known or familiar"
+  },
+  "differential": {
+    "p": "/ˌdɪfəˈrenʃl/",
+    "t": "差异的",
+    "en": "relating to differences"
+  },
+  "expedient": {
+    "p": "/ɪkˈspiːdiənt/",
+    "t": "权宜之计",
+    "en": "convenient and practical, often selfish"
+  },
+  "lecturers": {
+    "p": "/ˈlektʃərəz/",
+    "t": "讲师",
+    "en": "people who give lectures"
+  },
+  "socalled": {
+    "p": "/ˌsəʊˈkɔːld/",
+    "t": "所谓的",
+    "en": "commonly named, often inappropriately"
+  },
+  "positively": {
+    "p": "/ˈpɒzətɪvli/",
+    "t": "积极地",
+    "en": "in a positive manner"
+  },
+  "errors": {
+    "p": "/ˈerəz/",
+    "t": "错误",
+    "en": "mistakes"
+  },
+  "warmer": {
+    "p": "/ˈwɔːmə/",
+    "t": "更温暖的",
+    "en": "more warm or friendly"
+  },
+  "competent": {
+    "p": "/ˈkɒmpɪtənt/",
+    "t": "有能力的",
+    "en": "having necessary skill or ability"
+  },
+  "terminally": {
+    "p": "/ˈtɜːmɪnəli/",
+    "t": "晚期地",
+    "en": "in a fatal or final way"
+  },
+  "cultivating": {
+    "p": "/ˈkʌltɪveɪtɪŋ/",
+    "t": "培养",
+    "en": "developing or improving"
+  },
+  "advocated": {
+    "p": "/ˈædvəkeɪtɪd/",
+    "t": "提倡",
+    "en": "publicly recommended or supported"
+  },
+  "zeroing": {
+    "p": "/ˈzɪərəʊɪŋ/",
+    "t": "归零；聚焦",
+    "en": "adjusting to zero; focusing on"
+  },
+  "baldness": {
+    "p": "/ˈbɔːldnəs/",
+    "t": "秃头",
+    "en": "lack of hair on the head"
+  },
+  "clumsiness": {
+    "p": "/ˈklʌmzinəs/",
+    "t": "笨拙",
+    "en": "lack of coordination or grace"
+  },
+  "nolaugh": {
+    "p": "/ˌnəʊˈlɑːf/",
+    "t": "无笑",
+    "en": "absence of laughter"
+  },
+  "zones": {
+    "p": "/zəʊnz/",
+    "t": "区域",
+    "en": "areas or regions"
+  },
+  "headon": {
+    "p": "/ˌhedˈɒn/",
+    "t": "正面地",
+    "en": "directly or frontally"
+  },
+  "excruciating": {
+    "p": "/ɪkˈskruːʃieɪtɪŋ/",
+    "t": "极痛苦的",
+    "en": "extremely painful or intense"
+  },
+  "promised": {
+    "p": "/ˈprɒmɪst/",
+    "t": "承诺",
+    "en": "assured or pledged"
+  },
+  "exhilaration": {
+    "p": "/ɪɡˌzɪləˈreɪʃn/",
+    "t": "兴奋",
+    "en": "feeling of great happiness or excitement"
+  },
+  "liberation": {
+    "p": "/ˌlɪbəˈreɪʃn/",
+    "t": "解放",
+    "en": "act of setting free"
+  },
+  "annoy": {
+    "p": "/əˈnɔɪ/",
+    "t": "惹恼",
+    "en": "irritate or bother"
+  },
+  "embarrass": {
+    "p": "/ɪmˈbærəs/",
+    "t": "使尴尬",
+    "en": "cause someone to feel self-conscious or ashamed"
+  },
+  "jeans": {
+    "p": "/dʒiːnz/",
+    "t": "牛仔裤",
+    "en": "casual trousers made of denim"
+  },
+  "agonising": {
+    "p": "/ˈæɡənaɪzɪŋ/",
+    "t": "折磨人的",
+    "en": "causing great pain or distress"
+  },
+  "inappropriately": {
+    "p": "/ˌɪnəˈprəʊpriətli/",
+    "t": "不适当地",
+    "en": "in a manner not suitable"
+  },
+  "personality": {
+    "p": "/ˌpɜːsəˈnæləti/",
+    "t": "个性",
+    "en": "combination of characteristics that define a person"
+  },
+  "prodding": {
+    "p": "/ˈprɒdɪŋ/",
+    "t": "催促，戳",
+    "en": "urging or poking"
+  },
+  "afterwards": {
+    "p": "/ˈɑːftəwədz/",
+    "t": "之后",
+    "en": "later or subsequently"
+  },
+  "depressiveness": {
+    "p": "/dɪˈpresɪvnəs/",
+    "t": "抑郁",
+    "en": "tendency to be depressed"
+  },
+  "silly": {
+    "p": "/ˈsɪli/",
+    "t": "愚蠢的",
+    "en": "foolish or senseless"
+  },
+  "artists": {
+    "p": "/ˈɑːtɪsts/",
+    "t": "艺术家",
+    "en": "people who create art"
+  },
+  "knocked": {
+    "p": "/nɒkt/",
+    "t": "敲打；批评",
+    "en": "struck or criticized"
+  },
+  "dominated": {
+    "p": "/ˈdɒmɪneɪtɪd/",
+    "t": "主导；支配",
+    "en": "controlled or had a strong influence"
+  },
+  "fireworks": {
+    "p": "/ˈfaɪəwɜːks/",
+    "t": "烟花；激烈表现",
+    "en": "explosive displays or dramatic events"
+  },
+  "workout": {
+    "p": "/ˈwɜːkaʊt/",
+    "t": "锻炼",
+    "en": "session of physical exercise"
+  },
+  "fizzled": {
+    "p": "/ˈfɪzld/",
+    "t": "失败；无疾而终",
+    "en": "failed or ended weakly"
+  },
+  "flops": {
+    "p": "/flɒps/",
+    "t": "失败；扑街",
+    "en": "failures (especially in entertainment)"
+  },
+  "benchmark": {
+    "p": "/ˈbentʃmɑːk/",
+    "t": "基准；标准",
+    "en": "standard for comparison"
+  },
+  "label": {
+    "p": "/ˈleɪbl/",
+    "t": "标签；唱片公司",
+    "en": "tag or record company"
+  },
+  "embarrassment": {
+    "p": "/ɪmˈbærəsmənt/",
+    "t": "尴尬；难堪",
+    "en": "feeling of awkwardness or shame"
+  },
+  "flail": {
+    "p": "/fleɪl/",
+    "t": "挥舞；挣扎",
+    "en": "wave wildly or struggle"
+  },
+  "succeed": {
+    "p": "/səkˈsiːd/",
+    "t": "成功",
+    "en": "achieve a desired outcome"
+  },
+  "bounce": {
+    "p": "/baʊns/",
+    "t": "反弹；恢复",
+    "en": "rebound or recover"
+  },
+  "unmet": {
+    "p": "/ʌnˈmet/",
+    "t": "未满足的",
+    "en": "not fulfilled"
+  },
+  "flopping": {
+    "p": "/ˈflɒpɪŋ/",
+    "t": "失败；扑街",
+    "en": "failing badly"
+  },
+  "definitely": {
+    "p": "/ˈdefɪnətli/",
+    "t": "肯定地；明确地",
+    "en": "without doubt"
+  },
+  "exact": {
+    "p": "/ɪɡˈzækt/",
+    "t": "精确的",
+    "en": "precise and accurate"
+  },
+  "goodwill": {
+    "p": "/ˌɡʊdˈwɪl/",
+    "t": "善意；商誉",
+    "en": "friendly disposition or business value"
+  },
+  "misread": {
+    "p": "/ˌmɪsˈriːd/",
+    "t": "误读；误解",
+    "en": "read or interpret incorrectly"
+  },
+  "howlingly": {
+    "p": "/ˈhaʊlɪŋli/",
+    "t": "极其；非常（滑稽）",
+    "en": "extremely (often funny)"
+  },
+  "clangingly": {
+    "p": "/ˈklæŋɪŋli/",
+    "t": "叮当响地",
+    "en": "with a loud ringing sound"
+  },
+  "bounced": {
+    "p": "/baʊnst/",
+    "t": "反弹；弹回",
+    "en": "rebounded or returned"
+  },
+  "flopped": {
+    "p": "/flɒpt/",
+    "t": "失败；扑街",
+    "en": "failed completely"
+  },
+  "indie": {
+    "p": "/ˈɪndi/",
+    "t": "独立的；独立音乐/电影",
+    "en": "independent (in arts)"
+  },
+  "prototypical": {
+    "p": "/ˌprəʊtəˈtɪpɪkl/",
+    "t": "典型的；原型的",
+    "en": "representing a typical example"
+  },
+  "gigantic": {
+    "p": "/dʒaɪˈɡæntɪk/",
+    "t": "巨大的",
+    "en": "extremely large"
+  },
+  "breakout": {
+    "p": "/ˈbreɪkaʊt/",
+    "t": "突破；走红",
+    "en": "sudden success or escape"
+  },
+  "brilliant": {
+    "p": "/ˈbrɪliənt/",
+    "t": "卓越的；光辉的",
+    "en": "exceptionally clever or bright"
+  },
+  "layered": {
+    "p": "/ˈleɪəd/",
+    "t": "多层次的",
+    "en": "having multiple layers or depths"
+  },
+  "excellent": {
+    "p": "/ˈeksələnt/",
+    "t": "优秀的",
+    "en": "of the highest quality"
+  },
+  "rapper": {
+    "p": "/ˈræpə(r)/",
+    "t": "说唱歌手",
+    "en": "performer of rap music"
+  },
+  "critically": {
+    "p": "/ˈkrɪtɪkli/",
+    "t": "批评地；关键地",
+    "en": "in a critical manner or with importance"
+  },
+  "virality": {
+    "p": "/vaɪˈræləti/",
+    "t": "病毒式传播",
+    "en": "quality of spreading rapidly online"
+  },
+  "inextricable": {
+    "p": "/ˌɪnɪkˈstrɪkəbl/",
+    "t": "不可分割的",
+    "en": "impossible to separate"
+  },
+  "knocking": {
+    "p": "/ˈnɒkɪŋ/",
+    "t": "敲击；批评",
+    "en": "striking or criticizing"
+  },
+  "tails": {
+    "p": "/teɪlz/",
+    "t": "尾巴；硬币反面",
+    "en": "rear ends or reverse side of coin"
+  },
+  "fault": {
+    "p": "/fɔːlt/",
+    "t": "过错；缺点",
+    "en": "mistake or flaw"
+  },
+  "residencies": {
+    "p": "/ˈrezɪdənsiz/",
+    "t": "驻留；演出驻场",
+    "en": "periods of residence or regular engagements"
+  },
+  "reunited": {
+    "p": "/ˌriːjuˈnaɪtɪd/",
+    "t": "重聚",
+    "en": "brought together again"
+  },
+  "cowriter": {
+    "p": "/ˌkəʊˈraɪtə(r)/",
+    "t": "合著者",
+    "en": "joint writer"
+  },
+  "accusations": {
+    "p": "/ˌækjuˈzeɪʃnz/",
+    "t": "指控",
+    "en": "claims of wrongdoing"
+  },
+  "streams": {
+    "p": "/striːmz/",
+    "t": "流媒体播放量",
+    "en": "online audio/video plays"
+  },
+  "notorious": {
+    "p": "/nəʊˈtɔːriəs/",
+    "t": "臭名昭著的",
+    "en": "famous for something bad"
+  },
+  "burns": {
+    "p": "/bɜːnz/",
+    "t": "烧伤；嘲讽",
+    "en": "injures with fire or insults"
+  },
+  "bombed": {
+    "p": "/bɒmd/",
+    "t": "惨败；轰炸",
+    "en": "failed badly or attacked with bombs"
+  },
+  "remembered": {
+    "p": "/rɪˈmembəd/",
+    "t": "被记住的",
+    "en": "kept in memory"
+  },
+  "hated": {
+    "p": "/ˈheɪtɪd/",
+    "t": "被讨厌的",
+    "en": "strongly disliked"
+  },
+  "classics": {
+    "p": "/ˈklæsɪks/",
+    "t": "经典作品",
+    "en": "works of lasting value"
+  },
+  "regarded": {
+    "p": "/rɪˈɡɑːdɪd/",
+    "t": "被视为；认为",
+    "en": "considered or viewed"
+  },
+  "annoyed": {
+    "p": "/əˈnɔɪd/",
+    "t": "恼怒的",
+    "en": "slightly angry"
+  },
+  "punchline": {
+    "p": "/ˈpʌntʃlaɪn/",
+    "t": "笑点；妙语",
+    "en": "the climax of a joke"
+  },
+  "impeccable": {
+    "p": "/ɪmˈpekəbl/",
+    "t": "无可挑剔的",
+    "en": "perfect, without fault"
+  },
+  "catalog": {
+    "p": "/ˈkætəlɒɡ/",
+    "t": "目录；作品集",
+    "en": "list or collection"
+  },
+  "lining": {
+    "p": "/ˈlaɪnɪŋ/",
+    "t": "内衬；衬里",
+    "en": "inner covering"
+  },
+  "praise": {
+    "p": "/preɪz/",
+    "t": "赞扬",
+    "en": "expression of approval"
+  },
+  "misconception": {
+    "p": "/ˌmɪskənˈsepʃn/",
+    "t": "误解",
+    "en": "wrong idea"
+  },
+  "corporation": {
+    "p": "/ˌkɔːpəˈreɪʃn/",
+    "t": "公司；企业",
+    "en": "large business entity"
+  },
+  "impression": {
+    "p": "/ɪmˈpreʃn/",
+    "t": "印象；模仿",
+    "en": "effect or imitation"
+  },
+  "sustained": {
+    "p": "/səˈsteɪnd/",
+    "t": "持续的",
+    "en": "maintained over time"
+  },
+  "grand": {
+    "p": "/ɡrænd/",
+    "t": "宏伟的；重大的",
+    "en": "impressive in scale or importance"
+  },
+  "songwriters": {
+    "p": "/ˈsɒŋraɪtəz/",
+    "t": "词曲作者",
+    "en": "people who write songs"
+  },
+  "wound": {
+    "p": "/wuːnd/",
+    "t": "伤口；伤害",
+    "en": "injury or harm"
+  },
+  "incredible": {
+    "p": "/ɪnˈkredəbl/",
+    "t": "难以置信的",
+    "en": "hard to believe; amazing"
+  },
+  "contender": {
+    "p": "/kənˈtendə(r)/",
+    "t": "竞争者",
+    "en": "person or team competing for a title"
+  },
+  "trolling": {
+    "p": "/ˈtrəʊlɪŋ/",
+    "t": "挑衅；网络钓鱼",
+    "en": "posting provocative messages online"
   }
 }
