@@ -31073,5 +31073,415 @@
     "p": "/kənˈfjuːzɪŋli/",
     "t": "令人困惑地",
     "en": "in a manner that causes confusion"
+  },
+  "heatwave": {
+    "p": "/ˈhiːtweɪv/",
+    "t": "热浪",
+    "en": "a period of unusually hot weather"
+  },
+  "weather": {
+    "p": "/ˈweðə/",
+    "t": "天气",
+    "en": "the state of the atmosphere at a place and time"
+  },
+  "marine": {
+    "p": "/məˈriːn/",
+    "t": "海洋的",
+    "en": "of or relating to the sea"
+  },
+  "northeast": {
+    "p": "/ˌnɔːθˈiːst/",
+    "t": "东北",
+    "en": "the direction between north and east"
+  },
+  "persistent": {
+    "p": "/pəˈsɪstənt/",
+    "t": "持续的",
+    "en": "continuing firmly or obstinately"
+  },
+  "wreaking": {
+    "p": "/ˈriːkɪŋ/",
+    "t": "造成（破坏）",
+    "en": "causing (damage or harm)"
+  },
+  "havoc": {
+    "p": "/ˈhævək/",
+    "t": "大破坏",
+    "en": "widespread destruction"
+  },
+  "eyeball": {
+    "p": "/ˈaɪbɔːl/",
+    "t": "眼球",
+    "en": "the round part of the eye"
+  },
+  "oceanographer": {
+    "p": "/ˌəʊʃəˈnɒɡrəfə/",
+    "t": "海洋学家",
+    "en": "a scientist who studies the ocean"
+  },
+  "brewing": {
+    "p": "/ˈbruːɪŋ/",
+    "t": "酝酿",
+    "en": "developing or forming"
+  },
+  "pushes": {
+    "p": "/ˈpʊʃɪz/",
+    "t": "推动",
+    "en": "moves or forces forward"
+  },
+  "supercharging": {
+    "p": "/ˈsuːpətʃɑːdʒɪŋ/",
+    "t": "增强",
+    "en": "increasing the power or intensity of"
+  },
+  "intensify": {
+    "p": "/ɪnˈtensɪfaɪ/",
+    "t": "加剧",
+    "en": "to become or make more intense"
+  },
+  "floods": {
+    "p": "/flʌdz/",
+    "t": "洪水",
+    "en": "overflow of water onto land"
+  },
+  "grips": {
+    "p": "/ɡrɪps/",
+    "t": "紧握",
+    "en": "holds firmly"
+  },
+  "bracing": {
+    "p": "/ˈbreɪsɪŋ/",
+    "t": "准备面对",
+    "en": "preparing for something difficult"
+  },
+  "flooding": {
+    "p": "/ˈflʌdɪŋ/",
+    "t": "洪水泛滥",
+    "en": "the act of flooding"
+  },
+  "frequency": {
+    "p": "/ˈfriːkwənsi/",
+    "t": "频率",
+    "en": "the rate at which something occurs"
+  },
+  "peaking": {
+    "p": "/ˈpiːkɪŋ/",
+    "t": "达到高峰",
+    "en": "reaching the highest point"
+  },
+  "flood": {
+    "p": "/flʌd/",
+    "t": "洪水",
+    "en": "an overflow of water"
+  },
+  "surfaces": {
+    "p": "/ˈsɜːfɪsɪz/",
+    "t": "表面",
+    "en": "the outer or top part of something"
+  },
+  "evaporate": {
+    "p": "/ɪˈvæpəreɪt/",
+    "t": "蒸发",
+    "en": "to turn from liquid into vapor"
+  },
+  "moisture": {
+    "p": "/ˈmɔɪstʃə/",
+    "t": "水分",
+    "en": "water or other liquid diffused in small amounts"
+  },
+  "heavier": {
+    "p": "/ˈheviə/",
+    "t": "更重的",
+    "en": "of greater weight"
+  },
+  "rainfall": {
+    "p": "/ˈreɪnfɔːl/",
+    "t": "降雨量",
+    "en": "the amount of rain that falls"
+  },
+  "atmospheric": {
+    "p": "/ˌætməsˈferɪk/",
+    "t": "大气的",
+    "en": "of or relating to the atmosphere"
+  },
+  "rivers": {
+    "p": "/ˈrɪvəz/",
+    "t": "河流",
+    "en": "large natural streams of water"
+  },
+  "ribbons": {
+    "p": "/ˈrɪbənz/",
+    "t": "带状物",
+    "en": "long narrow strips"
+  },
+  "vapour": {
+    "p": "/ˈveɪpə/",
+    "t": "水蒸气",
+    "en": "moisture in the air"
+  },
+  "inland": {
+    "p": "/ˈɪnlənd/",
+    "t": "内陆的",
+    "en": "away from the coast"
+  },
+  "mudslides": {
+    "p": "/ˈmʌdslaɪdz/",
+    "t": "泥石流",
+    "en": "masses of mud sliding down slopes"
+  },
+  "occurs": {
+    "p": "/əˈkɜːz/",
+    "t": "发生",
+    "en": "happens"
+  },
+  "consecutive": {
+    "p": "/kənˈsekjətɪv/",
+    "t": "连续的",
+    "en": "following continuously"
+  },
+  "snowfall": {
+    "p": "/ˈsnəʊfɔːl/",
+    "t": "降雪量",
+    "en": "the amount of snow that falls"
+  },
+  "heatwaves": {
+    "p": "/ˈhiːtweɪvz/",
+    "t": "热浪（复数）",
+    "en": "periods of unusually hot weather"
+  },
+  "snowpack": {
+    "p": "/ˈsnəʊpæk/",
+    "t": "积雪",
+    "en": "a mass of snow on the ground"
+  },
+  "modified": {
+    "p": "/ˈmɒdɪfaɪd/",
+    "t": "修改的",
+    "en": "changed partially"
+  },
+  "stream": {
+    "p": "/striːm/",
+    "t": "溪流",
+    "en": "a small narrow river"
+  },
+  "storms": {
+    "p": "/stɔːmz/",
+    "t": "风暴",
+    "en": "violent weather events"
+  },
+  "precipitation": {
+    "p": "/prɪˌsɪpɪˈteɪʃn/",
+    "t": "降水",
+    "en": "rain, snow, etc. falling from the sky"
+  },
+  "elevations": {
+    "p": "/ˌelɪˈveɪʃnz/",
+    "t": "海拔高度",
+    "en": "heights above a given level"
+  },
+  "experiencing": {
+    "p": "/ɪkˈspɪəriənsɪŋ/",
+    "t": "经历",
+    "en": "going through"
+  },
+  "aboveaverage": {
+    "p": "/əˌbʌvˈævərɪdʒ/",
+    "t": "高于平均的",
+    "en": "higher than the normal level"
+  },
+  "northwest": {
+    "p": "/ˌnɔːθˈwest/",
+    "t": "西北",
+    "en": "the direction between north and west"
+  },
+  "exacerbated": {
+    "p": "/ɪɡˈzæsəbeɪtɪd/",
+    "t": "加剧的",
+    "en": "made worse"
+  },
+  "northern": {
+    "p": "/ˈnɔːðən/",
+    "t": "北部的",
+    "en": "situated in the north"
+  },
+  "eastern": {
+    "p": "/ˈiːstən/",
+    "t": "东部的",
+    "en": "situated in the east"
+  },
+  "projected": {
+    "p": "/prəˈdʒektɪd/",
+    "t": "预测的",
+    "en": "estimated or forecast"
+  },
+  "climatologist": {
+    "p": "/ˌklaɪməˈtɒlədʒɪst/",
+    "t": "气候学家",
+    "en": "an expert in climatology"
+  },
+  "hurricanes": {
+    "p": "/ˈhʌrɪkənz/",
+    "t": "飓风",
+    "en": "severe tropical storms"
+  },
+  "tends": {
+    "p": "/tendz/",
+    "t": "倾向于",
+    "en": "is likely to"
+  },
+  "hurricane": {
+    "p": "/ˈhʌrɪkən/",
+    "t": "飓风",
+    "en": "a violent tropical storm"
+  },
+  "thunderstorms": {
+    "p": "/ˈθʌndəstɔːmz/",
+    "t": "雷暴",
+    "en": "storms with thunder and lightning"
+  },
+  "weaken": {
+    "p": "/ˈwiːkən/",
+    "t": "减弱",
+    "en": "to become less strong"
+  },
+  "cooking": {
+    "p": "/ˈkʊkɪŋ/",
+    "t": "烹饪",
+    "en": "the process of preparing food by heat"
+  },
+  "nutrients": {
+    "p": "/ˈnjuːtriənts/",
+    "t": "营养物质",
+    "en": "substances needed for growth"
+  },
+  "oxygen": {
+    "p": "/ˈɒksɪdʒən/",
+    "t": "氧气",
+    "en": "a gas essential for life"
+  },
+  "shellfish": {
+    "p": "/ˈʃelfɪʃ/",
+    "t": "贝类",
+    "en": "aquatic animals with shells"
+  },
+  "theyll": {
+    "p": "/ðeɪl/",
+    "t": "他们将",
+    "en": "they will"
+  },
+  "offshore": {
+    "p": "/ˌɒfˈʃɔː/",
+    "t": "近海的",
+    "en": "away from the shore"
+  },
+  "lasted": {
+    "p": "/ˈlɑːstɪd/",
+    "t": "持续",
+    "en": "continued for a period"
+  },
+  "stretched": {
+    "p": "/stretʃt/",
+    "t": "延伸",
+    "en": "extended over an area"
+  },
+  "thrived": {
+    "p": "/θraɪvd/",
+    "t": "繁荣",
+    "en": "grew or developed well"
+  },
+  "detrimental": {
+    "p": "/ˌdetrɪˈmentl/",
+    "t": "有害的",
+    "en": "causing harm"
+  },
+  "salmon": {
+    "p": "/ˈsæmən/",
+    "t": "鲑鱼",
+    "en": "a large fish with pink flesh"
+  },
+  "feature": {
+    "p": "/ˈfiːtʃə/",
+    "t": "特征",
+    "en": "a distinctive attribute"
+  },
+  "duration": {
+    "p": "/djuˈreɪʃn/",
+    "t": "持续时间",
+    "en": "the length of time something lasts"
+  },
+  "rockfish": {
+    "p": "/ˈrɒkfɪʃ/",
+    "t": "岩鱼",
+    "en": "a type of fish living near rocks"
+  },
+  "squid": {
+    "p": "/skwɪd/",
+    "t": "鱿鱼",
+    "en": "a sea creature with tentacles"
+  },
+  "losers": {
+    "p": "/ˈluːzəz/",
+    "t": "失败者",
+    "en": "people or things that lose"
+  },
+  "occurring": {
+    "p": "/əˈkɜːrɪŋ/",
+    "t": "发生",
+    "en": "happening"
+  },
+  "unrelentingly": {
+    "p": "/ˌʌnrɪˈlentɪŋli/",
+    "t": "持续不断地",
+    "en": "in a continuous and harsh way"
+  },
+  "typhoon": {
+    "p": "/taɪˈfuːn/",
+    "t": "台风",
+    "en": "a tropical storm in the western Pacific"
+  },
+  "extreme": {
+    "p": "/ɪkˈstriːm/",
+    "t": "极端的",
+    "en": "very great in degree"
+  },
+  "acceleration": {
+    "p": "/əkˌseləˈreɪʃn/",
+    "t": "加速",
+    "en": "increase in speed"
+  },
+  "hotter": {
+    "p": "/ˈhɒtə/",
+    "t": "更热的",
+    "en": "having a higher temperature"
+  },
+  "magnitude": {
+    "p": "/ˈmæɡnɪtjuːd/",
+    "t": "量级",
+    "en": "great size or extent"
+  },
+  "influences": {
+    "p": "/ˈɪnfluənsɪz/",
+    "t": "影响",
+    "en": "effects on someone or something"
+  },
+  "forecasts": {
+    "p": "/ˈfɔːkɑːsts/",
+    "t": "预测",
+    "en": "predictions of future events"
+  },
+  "exceed": {
+    "p": "/ɪkˈsiːd/",
+    "t": "超过",
+    "en": "to be greater than"
+  },
+  "reaches": {
+    "p": "/ˈriːtʃɪz/",
+    "t": "达到",
+    "en": "arrives at"
+  },
+  "dissipate": {
+    "p": "/ˈdɪsɪpeɪt/",
+    "t": "消散",
+    "en": "to disappear gradually"
   }
 }
