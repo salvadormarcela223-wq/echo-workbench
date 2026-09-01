@@ -28723,5 +28723,1540 @@
     "p": "/ˈnæʃənəlɪzəm/",
     "t": "民族主义；国家主义",
     "en": "patriotic ideology"
+  },
+  "wriggling": {
+    "p": "/ˈrɪɡlɪŋ/",
+    "t": "蠕动；扭动",
+    "en": "moving with twisting movements"
+  },
+  "flash": {
+    "p": "/flæʃ/",
+    "t": "闪光；闪现",
+    "en": "a sudden brief burst of light; to appear suddenly"
+  },
+  "brush": {
+    "p": "/brʌʃ/",
+    "t": "刷子；刷；轻擦",
+    "en": "a tool with bristles; to clean or touch lightly"
+  },
+  "bacterial": {
+    "p": "/bækˈtɪəriəl/",
+    "t": "细菌的",
+    "en": "relating to or caused by bacteria"
+  },
+  "bites": {
+    "p": "/baɪts/",
+    "t": "咬；叮；咬伤",
+    "en": "to cut or wound with teeth; wounds from biting"
+  },
+  "flulike": {
+    "p": "/ˈfluːlaɪk/",
+    "t": "类似流感的",
+    "en": "resembling the flu"
+  },
+  "chills": {
+    "p": "/tʃɪlz/",
+    "t": "寒战；发冷",
+    "en": "feelings of coldness with shivering"
+  },
+  "aches": {
+    "p": "/eɪks/",
+    "t": "疼痛",
+    "en": "continuous dull pains"
+  },
+  "signature": {
+    "p": "/ˈsɪɡnətʃə/",
+    "t": "签名；特征",
+    "en": "a person's name written; a distinctive characteristic"
+  },
+  "bullseye": {
+    "p": "/ˈbʊlzaɪ/",
+    "t": "靶心；牛眼",
+    "en": "the center of a target; a circular red rash"
+  },
+  "circular": {
+    "p": "/ˈsɜːkjələ/",
+    "t": "圆形的；循环的",
+    "en": "shaped like a circle; moving in a circle"
+  },
+  "untreated": {
+    "p": "/ʌnˈtriːtɪd/",
+    "t": "未治疗的；未经处理的",
+    "en": "not given medical treatment"
+  },
+  "debilitating": {
+    "p": "/dɪˈbɪlɪteɪtɪŋ/",
+    "t": "使人衰弱的",
+    "en": "weakening or impairing strength"
+  },
+  "fatigue": {
+    "p": "/fəˈtiːɡ/",
+    "t": "疲劳",
+    "en": "extreme tiredness"
+  },
+  "nerve": {
+    "p": "/nɜːv/",
+    "t": "神经；勇气",
+    "en": "a fiber that transmits impulses; courage"
+  },
+  "diagnosed": {
+    "p": "/ˈdaɪəɡnəʊzd/",
+    "t": "诊断",
+    "en": "identified a disease by examination"
+  },
+  "ticks": {
+    "p": "/tɪks/",
+    "t": "蜱虫；滴答声",
+    "en": "small arachnids that bite; clicking sounds"
+  },
+  "territory": {
+    "p": "/ˈterɪtəri/",
+    "t": "领土；领域",
+    "en": "an area under control; a region"
+  },
+  "battle": {
+    "p": "/ˈbætl/",
+    "t": "战斗；斗争",
+    "en": "a fight; to struggle"
+  },
+  "spiderlike": {
+    "p": "/ˈspaɪdəlaɪk/",
+    "t": "像蜘蛛的",
+    "en": "resembling a spider"
+  },
+  "heating": {
+    "p": "/ˈhiːtɪŋ/",
+    "t": "加热；供暖",
+    "en": "the process of making warm"
+  },
+  "fourdose": {
+    "p": "/ˈfɔːdəʊs/",
+    "t": "四剂量的",
+    "en": "consisting of four doses"
+  },
+  "regimen": {
+    "p": "/ˈredʒɪmen/",
+    "t": "疗程；养生法",
+    "en": "a planned course of treatment"
+  },
+  "infected": {
+    "p": "/ɪnˈfektɪd/",
+    "t": "被感染的",
+    "en": "contaminated with pathogens"
+  },
+  "molecular": {
+    "p": "/məˈlekjʊlə/",
+    "t": "分子的",
+    "en": "relating to molecules"
+  },
+  "microbiology": {
+    "p": "/ˌmaɪkrəʊbaɪˈɒlədʒi/",
+    "t": "微生物学",
+    "en": "the study of microorganisms"
+  },
+  "immunology": {
+    "p": "/ˌɪmjuˈnɒlədʒi/",
+    "t": "免疫学",
+    "en": "the study of immunity"
+  },
+  "preventative": {
+    "p": "/prɪˈventətɪv/",
+    "t": "预防性的",
+    "en": "intended to prevent disease"
+  },
+  "expanding": {
+    "p": "/ɪkˈspændɪŋ/",
+    "t": "扩大的；扩展的",
+    "en": "increasing in size or scope"
+  },
+  "milder": {
+    "p": "/ˈmaɪldə/",
+    "t": "较温和的",
+    "en": "less severe; gentler"
+  },
+  "winters": {
+    "p": "/ˈwɪntəz/",
+    "t": "冬天",
+    "en": "plural of winter; cold seasons"
+  },
+  "spring": {
+    "p": "/sprɪŋ/",
+    "t": "春天；弹簧；跳跃",
+    "en": "season; a coiled device; to jump"
+  },
+  "autumn": {
+    "p": "/ˈɔːtəm/",
+    "t": "秋天",
+    "en": "the season between summer and winter"
+  },
+  "yearround": {
+    "p": "/ˈjɪəraʊnd/",
+    "t": "全年的",
+    "en": "happening throughout the year"
+  },
+  "activity": {
+    "p": "/ækˈtɪvəti/",
+    "t": "活动",
+    "en": "something done for a purpose"
+  },
+  "pathogens": {
+    "p": "/ˈpæθədʒənz/",
+    "t": "病原体",
+    "en": "disease-causing agents"
+  },
+  "infect": {
+    "p": "/ɪnˈfekt/",
+    "t": "感染",
+    "en": "to contaminate with disease"
+  },
+  "anaplasmosis": {
+    "p": "/ˌænəplæzˈməʊsɪs/",
+    "t": "无形体病",
+    "en": "a tick-borne disease"
+  },
+  "babesiosis": {
+    "p": "/bəˌbiːziˈəʊsɪs/",
+    "t": "巴贝虫病",
+    "en": "a parasitic disease from ticks"
+  },
+  "tickrelated": {
+    "p": "/ˈtɪkrɪˌleɪtɪd/",
+    "t": "与蜱相关的",
+    "en": "related to ticks"
+  },
+  "illness": {
+    "p": "/ˈɪlnəs/",
+    "t": "疾病",
+    "en": "a disease or sickness"
+  },
+  "labrador": {
+    "p": "/ˈlæbrədɔː/",
+    "t": "拉布拉多犬",
+    "en": "a breed of dog"
+  },
+  "bounding": {
+    "p": "/ˈbaʊndɪŋ/",
+    "t": "跳跃的；活泼的",
+    "en": "jumping or leaping"
+  },
+  "unscathed": {
+    "p": "/ʌnˈskeɪðd/",
+    "t": "未受伤的",
+    "en": "not harmed"
+  },
+  "vaccinated": {
+    "p": "/ˈvæksɪneɪtɪd/",
+    "t": "接种疫苗的",
+    "en": "given a vaccine"
+  },
+  "monthly": {
+    "p": "/ˈmʌnθli/",
+    "t": "每月的",
+    "en": "occurring once a month"
+  },
+  "chewable": {
+    "p": "/ˈtʃuːəbl/",
+    "t": "可咀嚼的",
+    "en": "able to be chewed"
+  },
+  "tablet": {
+    "p": "/ˈtæblət/",
+    "t": "药片；平板电脑",
+    "en": "a small pill; a flat computer"
+  },
+  "smothered": {
+    "p": "/ˈsmʌðəd/",
+    "t": "覆盖的；窒息的",
+    "en": "covered thickly; suffocated"
+  },
+  "spray": {
+    "p": "/spreɪ/",
+    "t": "喷雾；喷洒",
+    "en": "liquid in fine droplets; to apply spray"
+  },
+  "cheese": {
+    "p": "/tʃiːz/",
+    "t": "奶酪",
+    "en": "a dairy product"
+  },
+  "fleas": {
+    "p": "/fliːz/",
+    "t": "跳蚤",
+    "en": "small jumping insects"
+  },
+  "heartworm": {
+    "p": "/ˈhɑːtwɜːm/",
+    "t": "心丝虫",
+    "en": "a parasitic worm in hearts"
+  },
+  "mosquito": {
+    "p": "/məˈskiːtəʊ/",
+    "t": "蚊子",
+    "en": "a flying insect that bites"
+  },
+  "antitick": {
+    "p": "/ˈæntiˌtɪk/",
+    "t": "防蜱的",
+    "en": "effective against ticks"
+  },
+  "spoton": {
+    "p": "/ˈspɒtɒn/",
+    "t": "点涂的；准确的",
+    "en": "applied directly on skin; exactly right"
+  },
+  "disseminated": {
+    "p": "/dɪˈsemɪneɪtɪd/",
+    "t": "散布的；播散的",
+    "en": "spread widely"
+  },
+  "collar": {
+    "p": "/ˈkɒlə/",
+    "t": "项圈；衣领",
+    "en": "a band around neck"
+  },
+  "trials": {
+    "p": "/ˈtraɪəlz/",
+    "t": "试验；审判",
+    "en": "tests; legal proceedings"
+  },
+  "bitten": {
+    "p": "/ˈbɪtən/",
+    "t": "被咬的",
+    "en": "past participle of bite"
+  },
+  "tickborne": {
+    "p": "/ˈtɪkbɔːn/",
+    "t": "蜱传播的",
+    "en": "transmitted by ticks"
+  },
+  "hesitate": {
+    "p": "/ˈhezɪteɪt/",
+    "t": "犹豫",
+    "en": "to pause before acting"
+  },
+  "lingering": {
+    "p": "/ˈlɪŋɡərɪŋ/",
+    "t": "持续的；拖延的",
+    "en": "lasting a long time"
+  },
+  "lawsuits": {
+    "p": "/ˈlɔːsuːts/",
+    "t": "诉讼",
+    "en": "legal cases brought to court"
+  },
+  "namely": {
+    "p": "/ˈneɪmli/",
+    "t": "即；也就是",
+    "en": "that is to say"
+  },
+  "reviewed": {
+    "p": "/rɪˈvjuːd/",
+    "t": "审查的；评论的",
+    "en": "examined or assessed"
+  },
+  "discontinued": {
+    "p": "/ˌdɪskənˈtɪnjuːd/",
+    "t": "停产的；中止的",
+    "en": "stopped permanently"
+  },
+  "spurred": {
+    "p": "/spɜːd/",
+    "t": "刺激；激励",
+    "en": "encouraged or provoked"
+  },
+  "newfound": {
+    "p": "/ˈnjuːfaʊnd/",
+    "t": "新发现的",
+    "en": "recently discovered"
+  },
+  "investment": {
+    "p": "/ɪnˈvestmənt/",
+    "t": "投资",
+    "en": "putting money into something"
+  },
+  "prevention": {
+    "p": "/prɪˈvenʃən/",
+    "t": "预防",
+    "en": "the act of stopping something"
+  },
+  "gathering": {
+    "p": "/ˈɡæðərɪŋ/",
+    "t": "聚集；集会",
+    "en": "a meeting; collecting"
+  },
+  "yield": {
+    "p": "/jiːld/",
+    "t": "产量；屈服",
+    "en": "production; to give way"
+  },
+  "furthest": {
+    "p": "/ˈfɜːðɪst/",
+    "t": "最远的",
+    "en": "most distant"
+  },
+  "shares": {
+    "p": "/ʃeəz/",
+    "t": "股份；份额",
+    "en": "portions or stocks"
+  },
+  "target": {
+    "p": "/ˈtɑːɡɪt/",
+    "t": "目标；靶子",
+    "en": "an aim; a mark to hit"
+  },
+  "diseasecausing": {
+    "p": "/dɪˈziːzˌkɔːzɪŋ/",
+    "t": "致病的",
+    "en": "causing disease"
+  },
+  "burgdorferi": {
+    "p": "/bɜːɡˈdɔːfəri/",
+    "t": "伯氏疏螺旋体",
+    "en": "the bacterium causing Lyme disease"
+  },
+  "bacterium": {
+    "p": "/bækˈtɪəriəm/",
+    "t": "细菌",
+    "en": "a single-celled microorganism"
+  },
+  "prompts": {
+    "p": "/prɒmpts/",
+    "t": "促使；提示",
+    "en": "causes; cues"
+  },
+  "antibodies": {
+    "p": "/ˈæntiˌbɒdiz/",
+    "t": "抗体",
+    "en": "proteins that fight infection"
+  },
+  "latch": {
+    "p": "/lætʃ/",
+    "t": "闩；抓住",
+    "en": "a fastening; to attach"
+  },
+  "critter": {
+    "p": "/ˈkrɪtə/",
+    "t": "生物；小动物",
+    "en": "a creature"
+  },
+  "compares": {
+    "p": "/kəmˈpeəz/",
+    "t": "比较",
+    "en": "examines similarities/differences"
+  },
+  "placebo": {
+    "p": "/pləˈsiːbəʊ/",
+    "t": "安慰剂",
+    "en": "a harmless treatment with no effect"
+  },
+  "conclusive": {
+    "p": "/kənˈkluːsɪv/",
+    "t": "决定性的；确凿的",
+    "en": "decisive; proving something"
+  },
+  "hoped": {
+    "p": "/həʊpt/",
+    "t": "希望",
+    "en": "wished for"
+  },
+  "regulators": {
+    "p": "/ˈreɡjʊleɪtəz/",
+    "t": "监管者",
+    "en": "authorities that enforce rules"
+  },
+  "emerging": {
+    "p": "/ɪˈmɜːdʒɪŋ/",
+    "t": "新兴的；出现的",
+    "en": "coming into existence"
+  },
+  "investigating": {
+    "p": "/ɪnˈvestɪɡeɪtɪŋ/",
+    "t": "调查",
+    "en": "examining systematically"
+  },
+  "saliva": {
+    "p": "/səˈlaɪvə/",
+    "t": "唾液",
+    "en": "fluid in the mouth"
+  },
+  "trialled": {
+    "p": "/ˈtraɪəld/",
+    "t": "试验的",
+    "en": "tested"
+  },
+  "injection": {
+    "p": "/ɪnˈdʒekʃən/",
+    "t": "注射",
+    "en": "introducing liquid via needle"
+  },
+  "premade": {
+    "p": "/priːˈmeɪd/",
+    "t": "预制的",
+    "en": "made in advance"
+  },
+  "southeastern": {
+    "p": "/ˌsaʊθˈiːstən/",
+    "t": "东南部的",
+    "en": "in the southeast"
+  },
+  "prefer": {
+    "p": "/prɪˈfɜː/",
+    "t": "更喜欢",
+    "en": "like better"
+  },
+  "lizards": {
+    "p": "/ˈlɪzədz/",
+    "t": "蜥蜴",
+    "en": "reptiles with scaly skin"
+  },
+  "launching": {
+    "p": "/ˈlɔːntʃɪŋ/",
+    "t": "发起；推出",
+    "en": "starting or introducing"
+  },
+  "website": {
+    "p": "/ˈwebsaɪt/",
+    "t": "网站",
+    "en": "a set of web pages"
+  },
+  "closing": {
+    "p": "/ˈkləʊzɪŋ/",
+    "t": "关闭；结束",
+    "en": "shutting; ending"
+  },
+  "viruss": {
+    "p": "/ˈvaɪrəsɪz/",
+    "t": "病毒（复数）",
+    "en": "plural of virus"
+  },
+  "invulnerable": {
+    "p": "/ɪnˈvʌlnərəbl/",
+    "t": "无懈可击的；不会受伤的",
+    "en": "immune to attack"
+  },
+  "mosquitoes": {
+    "p": "/məˈskiːtəʊz/",
+    "t": "蚊子（复数）",
+    "en": "plural of mosquito"
+  },
+  "pharmaceutical": {
+    "p": "/ˌfɑːməˈsuːtɪkəl/",
+    "t": "制药的；药物",
+    "en": "relating to drugs; a drug company"
+  },
+  "deploys": {
+    "p": "/dɪˈplɔɪz/",
+    "t": "部署；运用",
+    "en": "arranges or uses effectively"
+  },
+  "ingredient": {
+    "p": "/ɪnˈɡriːdiənt/",
+    "t": "成分；原料",
+    "en": "a component in a mixture"
+  },
+  "medication": {
+    "p": "/ˌmedɪˈkeɪʃən/",
+    "t": "药物",
+    "en": "a medicine"
+  },
+  "interferes": {
+    "p": "/ˌɪntəˈfɪəz/",
+    "t": "干扰",
+    "en": "hinders or disrupts"
+  },
+  "nervous": {
+    "p": "/ˈnɜːvəs/",
+    "t": "神经的；紧张的",
+    "en": "relating to nerves; anxious"
+  },
+  "kills": {
+    "p": "/kɪlz/",
+    "t": "杀死",
+    "en": "causes death"
+  },
+  "canines": {
+    "p": "/ˈkeɪnaɪnz/",
+    "t": "犬类；犬齿",
+    "en": "dogs; pointed teeth"
+  },
+  "gamechanger": {
+    "p": "/ˈɡeɪmˌtʃeɪndʒə/",
+    "t": "改变格局的事物",
+    "en": "something that drastically alters a situation"
+  },
+  "emeritus": {
+    "p": "/ɪˈmerɪtəs/",
+    "t": "荣誉退休的",
+    "en": "retired but retaining title"
+  },
+  "epidemiology": {
+    "p": "/ˌepɪdiːmiˈɒlədʒi/",
+    "t": "流行病学",
+    "en": "study of disease distribution"
+  },
+  "researched": {
+    "p": "/rɪˈsɜːtʃt/",
+    "t": "研究的",
+    "en": "investigated systematically"
+  },
+  "vectorborne": {
+    "p": "/ˈvektəbɔːn/",
+    "t": "媒介传播的",
+    "en": "transmitted by vectors like ticks"
+  },
+  "meantime": {
+    "p": "/ˈmiːntaɪm/",
+    "t": "同时；其间",
+    "en": "the intervening time"
+  },
+  "protective": {
+    "p": "/prəˈtektɪv/",
+    "t": "保护的",
+    "en": "serving to protect"
+  },
+  "clothing": {
+    "p": "/ˈkləʊðɪŋ/",
+    "t": "衣物",
+    "en": "garments worn on the body"
+  },
+  "triedandtrue": {
+    "p": "/ˌtraɪd ən ˈtruː/",
+    "t": "经过考验的；可靠的",
+    "en": "proven reliable"
+  },
+  "methods": {
+    "p": "/ˈmeθədz/",
+    "t": "方法",
+    "en": "ways of doing something"
+  },
+  "cranky": {
+    "p": "/ˈkræŋki/",
+    "t": "暴躁的；古怪的",
+    "en": "irritable; odd"
+  },
+  "march": {
+    "p": "/mɑːtʃ/",
+    "t": "三月；行军",
+    "en": "the third month of the year; to walk with regular steps"
+  },
+  "legalised": {
+    "p": "/ˈliːɡəlaɪzd/",
+    "t": "使合法化",
+    "en": "made legal"
+  },
+  "bodegas": {
+    "p": "/bəˈdeɪɡəz/",
+    "t": "酒窖；小杂货店",
+    "en": "wine cellars or small grocery stores"
+  },
+  "display": {
+    "p": "/dɪˈspleɪ/",
+    "t": "展示；陈列",
+    "en": "to show or exhibit"
+  },
+  "pictures": {
+    "p": "/ˈpɪktʃəz/",
+    "t": "图片；照片",
+    "en": "images or photographs"
+  },
+  "bright": {
+    "p": "/braɪt/",
+    "t": "明亮的；鲜艳的",
+    "en": "full of light; vivid in color"
+  },
+  "flowers": {
+    "p": "/ˈflaʊəz/",
+    "t": "花",
+    "en": "blossoms of plants"
+  },
+  "higherend": {
+    "p": "/ˈhaɪər end/",
+    "t": "高端的",
+    "en": "of superior quality or price"
+  },
+  "dispensaries": {
+    "p": "/dɪˈspensəriz/",
+    "t": "配药处；大麻店",
+    "en": "places where medicine or cannabis is dispensed"
+  },
+  "resemble": {
+    "p": "/rɪˈzembl/",
+    "t": "像；类似",
+    "en": "to be similar to"
+  },
+  "electronics": {
+    "p": "/ɪˌlekˈtrɒnɪks/",
+    "t": "电子设备",
+    "en": "devices using electronic circuits"
+  },
+  "smell": {
+    "p": "/smel/",
+    "t": "气味；闻",
+    "en": "the sense of odor; to perceive odor"
+  },
+  "omnipresent": {
+    "p": "/ˌɒmnɪˈpreznt/",
+    "t": "无处不在的",
+    "en": "present everywhere"
+  },
+  "tennis": {
+    "p": "/ˈtenɪs/",
+    "t": "网球",
+    "en": "a sport played with rackets and a ball"
+  },
+  "complained": {
+    "p": "/kəmˈpleɪnd/",
+    "t": "抱怨",
+    "en": "expressed dissatisfaction"
+  },
+  "freeforall": {
+    "p": "/ˌfriː fɔːr ˈɔːl/",
+    "t": "混战；无秩序状态",
+    "en": "a chaotic situation with no rules"
+  },
+  "drawing": {
+    "p": "/ˈdrɔːɪŋ/",
+    "t": "绘画；吸引",
+    "en": "the act of making pictures; attracting"
+  },
+  "scepticism": {
+    "p": "/ˈskeptɪsɪzəm/",
+    "t": "怀疑态度",
+    "en": "doubt or disbelief"
+  },
+  "voices": {
+    "p": "/vɔɪsɪz/",
+    "t": "声音；意见",
+    "en": "sounds made by speaking; opinions"
+  },
+  "legalisation": {
+    "p": "/ˌliːɡəlaɪˈzeɪʃn/",
+    "t": "合法化",
+    "en": "the act of making something legal"
+  },
+  "screwed": {
+    "p": "/skruːd/",
+    "t": "搞砸的；拧紧的",
+    "en": "ruined or fastened with screws"
+  },
+  "bodega": {
+    "p": "/bəˈdeɪɡə/",
+    "t": "酒窖；小杂货店",
+    "en": "a wine shop or small grocery"
+  },
+  "dubious": {
+    "p": "/ˈdjuːbiəs/",
+    "t": "可疑的；靠不住的",
+    "en": "hesitant or doubtful; of questionable quality"
+  },
+  "provenance": {
+    "p": "/ˈprɒvənəns/",
+    "t": "来源；出处",
+    "en": "origin or source"
+  },
+  "gradually": {
+    "p": "/ˈɡrædʒuəli/",
+    "t": "逐渐地",
+    "en": "in a gradual manner"
+  },
+  "supporter": {
+    "p": "/səˈpɔːtə/",
+    "t": "支持者",
+    "en": "a person who advocates for something"
+  },
+  "headlined": {
+    "p": "/ˈhedlaɪnd/",
+    "t": "作为头条；标题为",
+    "en": "featured as a headline"
+  },
+  "newspaper": {
+    "p": "/ˈnjuːzpeɪpə/",
+    "t": "报纸",
+    "en": "a printed publication of news"
+  },
+  "marijuana": {
+    "p": "/ˌmærəˈwɑːnə/",
+    "t": "大麻",
+    "en": "the cannabis plant used as a drug"
+  },
+  "predicted": {
+    "p": "/prɪˈdɪktɪd/",
+    "t": "预测",
+    "en": "foretold or expected"
+  },
+  "straightforward": {
+    "p": "/ˌstreɪtˈfɔːwəd/",
+    "t": "简单的；坦率的",
+    "en": "easy to understand; honest"
+  },
+  "sullied": {
+    "p": "/ˈsʌlid/",
+    "t": "玷污",
+    "en": "made dirty or tarnished"
+  },
+  "operators": {
+    "p": "/ˈɒpəreɪtəz/",
+    "t": "经营者；操作者",
+    "en": "people or companies that run businesses"
+  },
+  "aboveboard": {
+    "p": "/əˌbʌvˈbɔːd/",
+    "t": "光明正大的",
+    "en": "honest and open"
+  },
+  "glance": {
+    "p": "/ɡlɑːns/",
+    "t": "一瞥；扫视",
+    "en": "a quick look"
+  },
+  "businessman": {
+    "p": "/ˈbɪznəsmæn/",
+    "t": "商人",
+    "en": "a man engaged in business"
+  },
+  "perception": {
+    "p": "/pəˈsepʃn/",
+    "t": "看法；感知",
+    "en": "the way something is understood or perceived"
+  },
+  "oversaturation": {
+    "p": "/ˌəʊvəˌsætʃəˈreɪʃn/",
+    "t": "过度饱和",
+    "en": "excessive supply or filling"
+  },
+  "illicit": {
+    "p": "/ɪˈlɪsɪt/",
+    "t": "非法的",
+    "en": "illegal or forbidden"
+  },
+  "recreational": {
+    "p": "/ˌrekriˈeɪʃənl/",
+    "t": "娱乐的",
+    "en": "related to leisure activities"
+  },
+  "wrangling": {
+    "p": "/ˈræŋɡlɪŋ/",
+    "t": "争吵；争论",
+    "en": "arguing or disputing"
+  },
+  "issuing": {
+    "p": "/ˈɪʃuːɪŋ/",
+    "t": "发放；颁布",
+    "en": "giving out or publishing"
+  },
+  "licenses": {
+    "p": "/ˈlaɪsnsɪz/",
+    "t": "许可证；执照",
+    "en": "official permissions"
+  },
+  "hampered": {
+    "p": "/ˈhæmpəd/",
+    "t": "阻碍",
+    "en": "hindered or impeded"
+  },
+  "bottleneck": {
+    "p": "/ˈbɒtlnek/",
+    "t": "瓶颈；障碍",
+    "en": "a point of congestion or obstruction"
+  },
+  "restrictive": {
+    "p": "/rɪˈstrɪktɪv/",
+    "t": "限制性的",
+    "en": "limiting or constraining"
+  },
+  "growers": {
+    "p": "/ˈɡrəʊəz/",
+    "t": "种植者",
+    "en": "people who cultivate plants"
+  },
+  "crops": {
+    "p": "/krɒps/",
+    "t": "农作物",
+    "en": "cultivated plants"
+  },
+  "sprang": {
+    "p": "/spræŋ/",
+    "t": "涌现；跳跃",
+    "en": "jumped or appeared suddenly"
+  },
+  "crack": {
+    "p": "/kræk/",
+    "t": "裂缝；破解",
+    "en": "a break or split; to break"
+  },
+  "licence": {
+    "p": "/ˈlaɪsns/",
+    "t": "许可证；执照",
+    "en": "an official permit"
+  },
+  "pentup": {
+    "p": "/ˌpent ˈʌp/",
+    "t": "被压抑的",
+    "en": "held in or suppressed"
+  },
+  "retailer": {
+    "p": "/ˈriːteɪlə/",
+    "t": "零售商",
+    "en": "a business that sells to consumers"
+  },
+  "wholesalers": {
+    "p": "/ˈhəʊlseɪləz/",
+    "t": "批发商",
+    "en": "businesses that sell in bulk"
+  },
+  "suburban": {
+    "p": "/səˈbɜːbən/",
+    "t": "郊区的",
+    "en": "relating to suburbs"
+  },
+  "normalised": {
+    "p": "/ˈnɔːməlaɪzd/",
+    "t": "正常化",
+    "en": "made normal or standard"
+  },
+  "percentage": {
+    "p": "/pəˈsentɪdʒ/",
+    "t": "百分比",
+    "en": "a proportion out of 100"
+  },
+  "exists": {
+    "p": "/ɪɡˈzɪsts/",
+    "t": "存在",
+    "en": "has being or is present"
+  },
+  "uneven": {
+    "p": "/ʌnˈiːvn/",
+    "t": "不均匀的",
+    "en": "not level or regular"
+  },
+  "pains": {
+    "p": "/peɪnz/",
+    "t": "痛苦；努力",
+    "en": "physical suffering; efforts"
+  },
+  "extraordinarily": {
+    "p": "/ɪkˈstrɔːdənərəli/",
+    "t": "极其；非凡地",
+    "en": "in an extreme or unusual way"
+  },
+  "patchwork": {
+    "p": "/ˈpætʃwɜːk/",
+    "t": "拼凑之物",
+    "en": "a thing made of many different pieces"
+  },
+  "cannabiss": {
+    "p": "/kəˈnæbɪs/",
+    "t": "大麻（复数形式，非标准）",
+    "en": "cannabis plants"
+  },
+  "respectability": {
+    "p": "/rɪˌspektəˈbɪləti/",
+    "t": "体面；声望",
+    "en": "the quality of being respectable"
+  },
+  "contraband": {
+    "p": "/ˈkɒntrəbænd/",
+    "t": "违禁品",
+    "en": "goods prohibited by law"
+  },
+  "culminating": {
+    "p": "/ˈkʌlmɪneɪtɪŋ/",
+    "t": "达到顶点",
+    "en": "reaching a climax or end"
+  },
+  "looser": {
+    "p": "/ˈluːsə/",
+    "t": "更宽松的",
+    "en": "more relaxed or less strict"
+  },
+  "regulations": {
+    "p": "/ˌreɡjuˈleɪʃnz/",
+    "t": "规章；法规",
+    "en": "rules or laws"
+  },
+  "mainstream": {
+    "p": "/ˈmeɪnstriːm/",
+    "t": "主流",
+    "en": "the dominant trend or group"
+  },
+  "legalising": {
+    "p": "/ˈliːɡəlaɪzɪŋ/",
+    "t": "使合法化",
+    "en": "making legal"
+  },
+  "cracked": {
+    "p": "/krækt/",
+    "t": "破裂的；破解的",
+    "en": "broken or split; solved"
+  },
+  "risen": {
+    "p": "/ˈrɪzn/",
+    "t": "上升的",
+    "en": "increased or went up"
+  },
+  "blanket": {
+    "p": "/ˈblæŋkɪt/",
+    "t": "总括的；毯子",
+    "en": "covering all cases; a bed covering"
+  },
+  "reforms": {
+    "p": "/rɪˈfɔːmz/",
+    "t": "改革",
+    "en": "changes for improvement"
+  },
+  "piecemeal": {
+    "p": "/ˈpiːsmiːl/",
+    "t": "零碎的",
+    "en": "done in stages or fragments"
+  },
+  "fragmented": {
+    "p": "/ˈfræɡmentɪd/",
+    "t": "分裂的",
+    "en": "broken into pieces"
+  },
+  "statebystate": {
+    "p": "/ˌsteɪt baɪ ˈsteɪt/",
+    "t": "逐州的",
+    "en": "state by state"
+  },
+  "arrested": {
+    "p": "/əˈrestɪd/",
+    "t": "逮捕的",
+    "en": "taken into custody"
+  },
+  "crimes": {
+    "p": "/kraɪmz/",
+    "t": "罪行",
+    "en": "illegal acts"
+  },
+  "roadtripper": {
+    "p": "/ˈrəʊdtrɪpə/",
+    "t": "公路旅行者",
+    "en": "a person on a road trip"
+  },
+  "heading": {
+    "p": "/ˈhedɪŋ/",
+    "t": "标题；朝…行进",
+    "en": "a title; moving in a direction"
+  },
+  "confusing": {
+    "p": "/kənˈfjuːzɪŋ/",
+    "t": "令人困惑的",
+    "en": "causing confusion"
+  },
+  "loophole": {
+    "p": "/ˈluːphəʊl/",
+    "t": "漏洞",
+    "en": "a gap in rules or laws"
+  },
+  "greymarket": {
+    "p": "/ˌɡreɪ ˈmɑːkɪt/",
+    "t": "灰色市场",
+    "en": "trade of goods through unofficial channels"
+  },
+  "accessible": {
+    "p": "/əkˈsesəbl/",
+    "t": "可获得的；易接近的",
+    "en": "easy to reach or use"
+  },
+  "tetrahydrocannabinol": {
+    "p": "/ˌtetrəˌhaɪdrəˈkænəbɪnɒl/",
+    "t": "四氢大麻酚",
+    "en": "the psychoactive compound in cannabis"
+  },
+  "ensued": {
+    "p": "/ɪnˈsjuːd/",
+    "t": "随后发生",
+    "en": "followed as a result"
+  },
+  "converted": {
+    "p": "/kənˈvɜːtɪd/",
+    "t": "转换的",
+    "en": "changed or transformed"
+  },
+  "psychoactive": {
+    "p": "/ˌsaɪkəʊˈæktɪv/",
+    "t": "影响精神的",
+    "en": "affecting the mind"
+  },
+  "intoxicating": {
+    "p": "/ɪnˈtɒksɪkeɪtɪŋ/",
+    "t": "令人陶醉的；致醉的",
+    "en": "causing intoxication"
+  },
+  "advocacy": {
+    "p": "/ˈædvəkəsi/",
+    "t": "倡导；支持",
+    "en": "public support for a cause"
+  },
+  "licenced": {
+    "p": "/ˈlaɪsənst/",
+    "t": "有执照的",
+    "en": "having a license"
+  },
+  "secondbiggest": {
+    "p": "/ˌsekənd ˈbɪɡɪst/",
+    "t": "第二大的",
+    "en": "second largest"
+  },
+  "spiralling": {
+    "p": "/ˈspaɪrəlɪŋ/",
+    "t": "螺旋上升的；急剧增长的",
+    "en": "increasing rapidly"
+  },
+  "complexities": {
+    "p": "/kəmˈpleksətiz/",
+    "t": "复杂性",
+    "en": "complicated aspects"
+  },
+  "alleviating": {
+    "p": "/əˈliːvieɪtɪŋ/",
+    "t": "减轻",
+    "en": "reducing or easing"
+  },
+  "headaches": {
+    "p": "/ˈhedeɪkz/",
+    "t": "头痛；麻烦",
+    "en": "pain in the head; problems"
+  },
+  "branch": {
+    "p": "/brɑːntʃ/",
+    "t": "分支；分行",
+    "en": "a part or division"
+  },
+  "neighbouring": {
+    "p": "/ˈneɪbərɪŋ/",
+    "t": "邻近的",
+    "en": "nearby or adjacent"
+  },
+  "financing": {
+    "p": "/ˈfaɪnænsɪŋ/",
+    "t": "融资",
+    "en": "providing funds"
+  },
+  "institutional": {
+    "p": "/ˌɪnstɪˈtjuːʃənl/",
+    "t": "机构的",
+    "en": "relating to institutions"
+  },
+  "headwinds": {
+    "p": "/ˈhedwɪndz/",
+    "t": "逆风；阻力",
+    "en": "opposing forces"
+  },
+  "employs": {
+    "p": "/ɪmˈplɔɪz/",
+    "t": "雇用；使用",
+    "en": "gives work to; uses"
+  },
+  "licences": {
+    "p": "/ˈlaɪsnsɪz/",
+    "t": "许可证（复数）",
+    "en": "official permits"
+  },
+  "complying": {
+    "p": "/kəmˈplaɪɪŋ/",
+    "t": "遵守",
+    "en": "obeying rules"
+  },
+  "cigarettes": {
+    "p": "/ˌsɪɡəˈrets/",
+    "t": "香烟",
+    "en": "tobacco products rolled in paper"
+  },
+  "gambling": {
+    "p": "/ˈɡæmblɪŋ/",
+    "t": "赌博",
+    "en": "betting money on games"
+  },
+  "handing": {
+    "p": "/ˈhændɪŋ/",
+    "t": "递交",
+    "en": "giving or passing"
+  },
+  "flyers": {
+    "p": "/ˈflaɪəz/",
+    "t": "传单",
+    "en": "advertising leaflets"
+  },
+  "accelerate": {
+    "p": "/əkˈseləreɪt/",
+    "t": "加速",
+    "en": "to increase speed"
+  },
+  "reclassify": {
+    "p": "/ˌriːˈklæsɪfaɪ/",
+    "t": "重新分类",
+    "en": "to classify again"
+  },
+  "stringent": {
+    "p": "/ˈstrɪndʒənt/",
+    "t": "严格的",
+    "en": "strict or severe"
+  },
+  "profits": {
+    "p": "/ˈprɒfɪts/",
+    "t": "利润",
+    "en": "financial gains"
+  },
+  "deduct": {
+    "p": "/dɪˈdʌkt/",
+    "t": "扣除",
+    "en": "to subtract"
+  },
+  "businesspeople": {
+    "p": "/ˈbɪznəspiːpl/",
+    "t": "商界人士",
+    "en": "people in business"
+  },
+  "heralding": {
+    "p": "/ˈherəldɪŋ/",
+    "t": "预示",
+    "en": "announcing or signaling"
+  },
+  "insiders": {
+    "p": "/ɪnˈsaɪdəz/",
+    "t": "内部人士",
+    "en": "people with special access"
+  },
+  "parcel": {
+    "p": "/ˈpɑːsl/",
+    "t": "包裹；一块地",
+    "en": "a package; a piece of land"
+  },
+  "nascent": {
+    "p": "/ˈnæsnt/",
+    "t": "新生的",
+    "en": "just coming into existence"
+  },
+  "hiccups": {
+    "p": "/ˈhɪkʌps/",
+    "t": "打嗝；小问题",
+    "en": "involuntary diaphragm spasms; minor problems"
+  },
+  "stability": {
+    "p": "/stəˈbɪləti/",
+    "t": "稳定",
+    "en": "the state of being stable"
+  },
+  "volatility": {
+    "p": "/ˌvɒləˈtɪləti/",
+    "t": "波动性",
+    "en": "tendency to change rapidly"
+  },
+  "swings": {
+    "p": "/swɪŋz/",
+    "t": "摇摆；波动",
+    "en": "movements back and forth; fluctuations"
+  },
+  "mergers": {
+    "p": "/ˈmɜːdʒəz/",
+    "t": "合并",
+    "en": "combinations of companies"
+  },
+  "acquisitions": {
+    "p": "/ˌækwɪˈzɪʃnz/",
+    "t": "收购",
+    "en": "purchases of companies"
+  },
+  "cutting": {
+    "p": "/ˈkʌtɪŋ/",
+    "t": "切割；削减",
+    "en": "the act of cutting; reducing"
+  },
+  "corners": {
+    "p": "/ˈkɔːnəz/",
+    "t": "角落",
+    "en": "angles or edges"
+  },
+  "buzzy": {
+    "p": "/ˈbʌzi/",
+    "t": "热闹的；兴奋的",
+    "en": "lively or exciting"
+  },
+  "wired": {
+    "p": "/ˈwaɪəd/",
+    "t": "联网的；兴奋的",
+    "en": "connected electronically; excited"
+  },
+  "sunnyday": {
+    "p": "/ˈsʌni deɪ/",
+    "t": "晴天",
+    "en": "a day with sunshine"
+  },
+  "polarised": {
+    "p": "/ˈpəʊləraɪzd/",
+    "t": "两极分化的",
+    "en": "divided into opposing groups"
+  },
+  "agrees": {
+    "p": "/əˈɡriːz/",
+    "t": "同意",
+    "en": "concurs or consents"
+  },
+  "visit": {
+    "p": "/ˈvɪzɪt/",
+    "t": "访问；参观",
+    "en": "to go to see a place or person"
+  },
+  "ballroom": {
+    "p": "/ˈbɔːlruːm/",
+    "t": "舞厅",
+    "en": "a large room for dancing"
+  },
+  "bother": {
+    "p": "/ˈbɒðə/",
+    "t": "打扰；烦恼",
+    "en": "to annoy or cause trouble"
+  },
+  "reporters": {
+    "p": "/rɪˈpɔːtəz/",
+    "t": "记者",
+    "en": "people who report news"
+  },
+  "prohibits": {
+    "p": "/prəˈhɪbɪts/",
+    "t": "禁止",
+    "en": "forbids by law or rule"
+  },
+  "reservation": {
+    "p": "/ˌrezəˈveɪʃn/",
+    "t": "预订；保留",
+    "en": "an arrangement to keep something or a doubt"
+  },
+  "express": {
+    "p": "/ɪkˈspres/",
+    "t": "表达；快递",
+    "en": "to show or state; fast service"
+  },
+  "resembling": {
+    "p": "/rɪˈzemblɪŋ/",
+    "t": "相似",
+    "en": "looking like something else"
+  },
+  "immunizing": {
+    "p": "/ˈɪmjunaɪzɪŋ/",
+    "t": "免疫",
+    "en": "making someone immune to disease"
+  },
+  "reluctance": {
+    "p": "/rɪˈlʌktəns/",
+    "t": "不情愿",
+    "en": "unwillingness to do something"
+  },
+  "imperialstyle": {
+    "p": "/ɪmˈpɪəriəl staɪl/",
+    "t": "帝国风格",
+    "en": "a grand, ornate architectural style"
+  },
+  "incoherence": {
+    "p": "/ˌɪnkəʊˈhɪərəns/",
+    "t": "不连贯",
+    "en": "lack of clarity or logical connection"
+  },
+  "reasoning": {
+    "p": "/ˈriːzənɪŋ/",
+    "t": "推理",
+    "en": "the process of thinking logically"
+  },
+  "destroy": {
+    "p": "/dɪˈstrɔɪ/",
+    "t": "破坏",
+    "en": "to damage severely"
+  },
+  "relies": {
+    "p": "/rɪˈlaɪz/",
+    "t": "依赖",
+    "en": "depends on"
+  },
+  "distinctions": {
+    "p": "/dɪˈstɪŋkʃnz/",
+    "t": "区别",
+    "en": "differences or separations"
+  },
+  "lawsuit": {
+    "p": "/ˈlɔːsuːt/",
+    "t": "诉讼",
+    "en": "a legal claim in court"
+  },
+  "defendant": {
+    "p": "/dɪˈfendənt/",
+    "t": "被告",
+    "en": "person accused in a lawsuit"
+  },
+  "suing": {
+    "p": "/ˈsuːɪŋ/",
+    "t": "起诉",
+    "en": "bringing a legal case against someone"
+  },
+  "requirement": {
+    "p": "/rɪˈkwaɪəmənt/",
+    "t": "要求",
+    "en": "something needed or demanded"
+  },
+  "plaintiffs": {
+    "p": "/ˈpleɪntɪfs/",
+    "t": "原告",
+    "en": "people who bring a lawsuit"
+  },
+  "conservationist": {
+    "p": "/ˌkɒnsəˈveɪʃənɪst/",
+    "t": "环保主义者",
+    "en": "person who protects nature"
+  },
+  "pristine": {
+    "p": "/ˈprɪstiːn/",
+    "t": "原始的；纯净的",
+    "en": "in original, clean condition"
+  },
+  "sacred": {
+    "p": "/ˈseɪkrɪd/",
+    "t": "神圣的",
+    "en": "holy or highly valued"
+  },
+  "enforcing": {
+    "p": "/ɪnˈfɔːsɪŋ/",
+    "t": "执行",
+    "en": "making sure rules are obeyed"
+  },
+  "defendants": {
+    "p": "/dɪˈfendənts/",
+    "t": "被告们",
+    "en": "people accused in lawsuits"
+  },
+  "purely": {
+    "p": "/ˈpjʊəli/",
+    "t": "纯粹地",
+    "en": "only; completely"
+  },
+  "esthetic": {
+    "p": "/iːsˈθetɪk/",
+    "t": "审美的",
+    "en": "related to beauty"
+  },
+  "purposes": {
+    "p": "/ˈpɜːpəsɪz/",
+    "t": "目的",
+    "en": "reasons for doing something"
+  },
+  "undeniably": {
+    "p": "/ˌʌndɪˈnaɪəbli/",
+    "t": "不可否认地",
+    "en": "certainly true"
+  },
+  "cognizable": {
+    "p": "/ˈkɒɡnɪzəbl/",
+    "t": "可认知的；可审理的",
+    "en": "capable of being known or legally recognized"
+  },
+  "asserted": {
+    "p": "/əˈsɜːtɪd/",
+    "t": "声称",
+    "en": "stated confidently"
+  },
+  "adequately": {
+    "p": "/ˈædɪkwətli/",
+    "t": "充分地",
+    "en": "enough for the purpose"
+  },
+  "allege": {
+    "p": "/əˈledʒ/",
+    "t": "断言；指控",
+    "en": "to claim without proof"
+  },
+  "lessened": {
+    "p": "/ˈlesnd/",
+    "t": "减少",
+    "en": "made smaller or weaker"
+  },
+  "parse": {
+    "p": "/pɑːz/",
+    "t": "解析",
+    "en": "to analyze grammar or structure"
+  },
+  "plaintiff": {
+    "p": "/ˈpleɪntɪf/",
+    "t": "原告",
+    "en": "person who brings a lawsuit"
+  },
+  "admired": {
+    "p": "/ədˈmaɪəd/",
+    "t": "钦佩",
+    "en": "respected with approval"
+  },
+  "falsely": {
+    "p": "/ˈfɔːlsli/",
+    "t": "错误地",
+    "en": "in a wrong or untrue way"
+  },
+  "offended": {
+    "p": "/əˈfendɪd/",
+    "t": "被冒犯",
+    "en": "feeling upset or insulted"
+  },
+  "offense": {
+    "p": "/əˈfens/",
+    "t": "冒犯；罪行",
+    "en": "a crime or act that causes upset"
+  },
+  "concrete": {
+    "p": "/ˈkɒŋkriːt/",
+    "t": "具体的；混凝土",
+    "en": "specific; a building material"
+  },
+  "particularized": {
+    "p": "/pəˈtɪkjələraɪzd/",
+    "t": "具体化的",
+    "en": "made specific or detailed"
+  },
+  "poorly": {
+    "p": "/ˈpɔːli/",
+    "t": "差地",
+    "en": "in a bad or inadequate way"
+  },
+  "overruled": {
+    "p": "/ˌəʊvəˈruːld/",
+    "t": "否决",
+    "en": "rejected by a higher authority"
+  },
+  "preservation": {
+    "p": "/ˌprezəˈveɪʃn/",
+    "t": "保护",
+    "en": "act of keeping something safe"
+  },
+  "governing": {
+    "p": "/ˈɡʌvənɪŋ/",
+    "t": "管理的",
+    "en": "controlling or directing"
+  },
+  "oneoff": {
+    "p": "/ˌwʌnˈɒf/",
+    "t": "一次性的",
+    "en": "happening only once"
+  },
+  "harbinger": {
+    "p": "/ˈhɑːbɪndʒə/",
+    "t": "预兆",
+    "en": "a sign of something coming"
+  },
+  "crocodile": {
+    "p": "/ˈkrɒkədaɪl/",
+    "t": "鳄鱼",
+    "en": "a large reptile"
+  },
+  "evercritical": {
+    "p": "/ˌevəˈkrɪtɪkl/",
+    "t": "永远批评的",
+    "en": "always finding fault"
+  },
+  "bothered": {
+    "p": "/ˈbɒðəd/",
+    "t": "烦恼的",
+    "en": "worried or annoyed"
+  },
+  "posttrump": {
+    "p": "/ˌpəʊstˈtrʌmp/",
+    "t": "特朗普之后的",
+    "en": "after the Trump era"
   }
 }
