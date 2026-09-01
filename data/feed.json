@@ -1,57 +1,304 @@
 {
-  "updatedAt": "2026-09-01T05:33:30.544Z",
+  "updatedAt": "2026-09-01T05:43:59.145Z",
   "news": [
     {
-      "title": "美国参议院民主党Wyden调查特朗普政府电子烟政策变化，要求HHS和Reynolds American提交记录 08-07 全球",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17187",
-      "source": "2firsts ����",
-      "cat": "企业动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-14",
-      "impact": "该资讯揭示电子烟出口市场格局变化，俄罗斯跃升为中国第三大出口市场，提示CMI需关注新兴市场的感官偏好差异。建议针对俄消费者口味、尼古丁强度及包装设计开展本地化感官测试，同时留意美国政策风险对产品合规与感官宣称的影响，动态调整研究优先级。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "阿联酋9月1日起实施电子烟液最低计税价，每毫升1迪拉姆并维持100%消费税 08-07 全球",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17186",
-      "source": "2firsts ����",
-      "cat": "企业动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-14",
-      "impact": "阿联酋实施电子烟液最低计税价并维持100%消费税，将推高当地零售价格，可能抑制短期消费量，但长期或加速产品升级与高端化。对CMI工作而言，需关注价格敏感度变化及消费者对口味、尼古丁强度等感官属性的偏好迁移，为配方调整和区域市场策略提供依据。同时，中东市场合规门槛提升，感官研究应前置融入产品开发，以差异化应对竞争。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "俄亥俄最高法院审理电子烟诉讼，州政府能否通过消费者保护法限制销售成焦点 08-06 全球",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17180",
-      "source": "2firsts ����",
+      "title": "Tobacco taxes set to rise beyond current plans",
+      "link": "https://www.tobaccojournal.com/news/tobacco-taxes-set-to-rise-beyond-current-plans/",
+      "source": "Tobacco Journal International",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-14",
-      "impact": "俄亥俄州诉讼凸显美国市场对电子烟销售的法律不确定性，可能影响中国出口企业（占美国市场53%）的渠道策略。对CMI而言，需加强美国各州监管动态监测，预判消费者购买行为变化，并针对合规风险调整感官测试与产品定位，以保持市场竞争力。",
+      "summary": "德国联合政府（CDU/CSU与SPD）拟大幅提高烟草消费税，增幅远超现行计划。此举将推高卷烟终端价格，可能抑制消费量，加速消费者转向低价替代品或电子烟等新型烟草制品，对烟草及雾化行业市场格局产生深远影响。",
+      "date": "2026-08-28",
+      "impact": "德国大幅提高烟草税将推高卷烟价格，直接冲击消费者购买行为与品类转移。对FMCG感官研究而言，需密切关注价格敏感度上升后，消费者对电子烟等替代品的感官接受度与偏好变化。CMI应加强价格弹性与替代品转化路径研究，为产品定位与感官优化提供数据支持，以应对市场格局重塑。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "Tobacco Journal International"
     },
     {
-      "title": "美国爱荷华州执行电子烟注册法，零售商称产品限制将加大门店经营压力 08-06 全球",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17179",
-      "source": "2firsts ����",
+      "title": "Study: Vapes found more effective than traditional quit aids",
+      "link": "https://www.tobaccojournal.com/news/study-vapes-found-more-effective-than-traditional-quit-aids/",
+      "source": "Tobacco Journal International",
+      "cat": "产品技术",
+      "dimension": "",
+      "region": "",
+      "summary": "最新Cochrane综述显示，尼古丁电子烟在帮助吸烟者戒烟方面比传统尼古丁替代疗法更有效。该结论基于对多项研究的系统回顾，为电子烟作为减害工具的临床价值提供了有力证据，可能影响未来戒烟指南的制定及公共卫生政策方向。",
+      "date": "2026-08-26",
+      "impact": "此资讯强化了电子烟作为减害产品的科学背书，对FMCG感官研究而言，意味着需更深入探索尼古丁递送效率与感官体验（如喉感、香气）的关联，以优化产品替代疗法的竞争力。CMI团队应关注政策导向变化，预判消费者对电子烟接受度提升带来的需求细分，并据此调整感官测试的品类对标与人群筛选策略，确保研发方向与公共卫生趋势同步。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "TPD: The Next Critical Phase",
+      "link": "https://www.tobaccojournal.com/articles/tpd-the-next-critical-phase/",
+      "source": "Tobacco Journal International",
       "cat": "企业动态",
       "dimension": "",
       "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-14",
-      "impact": "该资讯表明美国爱荷华州电子烟注册法落地，零售商面临产品限制与经营压力，提示FMCG感官研究需关注监管趋严对产品可及性与消费者体验的间接影响。CMI工作应加强合规预警，预判渠道变化，并转向研究受限环境下消费者替代性选择及感官偏好迁移，为产品创新与区域策略提供前瞻依据。",
+      "summary": "欧盟烟草产品指令（TPD）修订进入关键阶段，历经2020年多轮咨询与评估后，即将迎来重大调整。此举将重塑欧盟电子烟及新型烟草市场监管框架，对产品合规、成分报告及上市前审批提出更严格要求，企业需密切关注法规动态，提前调整产品策略以应对市场准入变化。",
+      "date": "2026-08-26",
+      "impact": "TPD修订将收紧电子烟及新型烟草的合规门槛，直接改变产品上市路径与感官宣称空间。CMI需提前将法规变量纳入产品开发早期感官测试设计，评估口味、尼古丁强度等维度在新规下的可接受度与差异化机会。同时，感官研究应支持合规导向的配方调整，避免因成分限制导致体验落差，并跟踪消费者对监管强化的态度变化，为策略预判提供依据。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "PMI and Altria enter manufacturing collaboration",
+      "link": "https://www.tobaccojournal.com/news/pmi-and-altria-enter-manufacturing-collaboration/",
+      "source": "Tobacco Journal International",
+      "cat": "巨头动向",
+      "dimension": "",
+      "region": "",
+      "summary": "PMI与奥驰亚宣布达成可燃卷烟合同制造合作，旨在优化生产制造效率。此举反映两大烟草巨头在传统烟草业务上的战略协同，通过产能共享降低成本，同时聚焦各自核心市场（PMI主攻国际市场，奥驰亚深耕美国），为新型烟草转型蓄力。",
+      "date": "2026-08-25",
+      "impact": "该合作表明传统烟草巨头正通过产能协同优化成本，为新型烟草转型蓄力。对感官研究而言，需关注PMI在可燃烟制造环节的品控一致性是否因代工调整而变化，进而影响消费者感官体验的稳定性。CMI应监测美国及国际市场对产品感官差异的反馈，为新品开发及市场策略提供依据。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "Tobacco tax losses reach EUR 3bn",
+      "link": "https://www.tobaccojournal.com/news/tobacco-tax-losses-reach-eur-3bn/",
+      "source": "Tobacco Journal International",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "荷兰政府因消费者转向境外购买烟草产品，每年损失约30亿欧元的烟草消费税和增值税。这一现象反映出跨境购买对国内税收的显著冲击，凸显了高税率政策在欧盟内部市场中的局限性，可能促使荷兰重新评估其烟草税收策略以遏制税收流失。",
+      "date": "2026-08-21",
+      "impact": "该资讯提示高税率导致跨境消费转移，对FMCG感官研究意味着需关注价格敏感度与购买行为变化。CMI工作应评估荷兰市场消费者对价格与便利性的权衡，以及跨境购买对本土品牌体验的影响。建议开展消费者旅程研究，量化跨境购买动机，为产品定位和渠道策略提供依据，同时监测税收政策调整对感官偏好和购买决策的潜在影响。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "New vape tax rules",
+      "link": "https://www.tobaccojournal.com/news/new-vape-tax-rules/",
+      "source": "Tobacco Journal International",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "阿联酋宣布自2026年9月1日起，对电子烟设备所用烟油实施最低消费税价格，旨在加强监管并规范市场。此举将提高电子烟使用成本，可能影响消费者购买行为及品牌定价策略，企业需提前调整价格与合规策略，以应对市场变化。",
+      "date": "2026-08-20",
+      "impact": "阿联酋2026年烟油最低消费税将推高使用成本，直接影响消费者购买频次与价位选择，CMI需提前监测价格敏感度及口味偏好迁移。感官研究应关注成本上升后用户对‘性价比’体验的权衡，尤其是风味强度与满足感的平衡，为品牌调整配方和定价提供数据支撑。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "Cigars could face standardised packaging in UK",
+      "link": "https://www.tobaccojournal.com/news/cigars-could-face-standardised-packaging-in-uk/",
+      "source": "Tobacco Journal International",
+      "cat": "企业动态",
+      "dimension": "",
+      "region": "",
+      "summary": "英国政府正就新烟草控制提案进行磋商，提案可能将标准化（平装）包装要求扩展至高端雪茄。此举若实施，将影响雪茄品牌形象与溢价能力，改变产品展示方式，并可能重塑高端烟草市场格局，相关企业需关注政策动态并评估合规与营销策略调整。",
+      "date": "2026-08-20",
+      "impact": "该资讯提示高端烟草品类面临监管收紧，感官研究需预判包装标准化对品牌溢价感知的影响。CMI应评估平装对雪茄触觉、视觉及开箱体验的削弱，探索非包装维度的感官差异化机会，并监测消费者态度变化，为合规下的营销策略调整提供依据。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "Africa‘s tobacco future in focus",
+      "link": "https://www.tobaccojournal.com/articles/africas-tobacco-future-in-focus/",
+      "source": "Tobacco Journal International",
+      "cat": "企业动态",
+      "dimension": "",
+      "region": "",
+      "summary": "非洲持续巩固其全球领先烟草生产地区地位，经历数年强劲需求与产能扩张后，行业前景备受关注。该动态预示非洲在全球烟草供应链中影响力上升，可能吸引更多投资，同时需留意当地监管政策变化对市场格局的潜在影响。",
+      "date": "2026-08-20",
+      "impact": "非洲烟草产能与需求扩张将改变全球供应链布局，CMI需关注该区域消费者口味偏好与感官体验差异，为产品本地化提供依据。同时，监管政策不确定性要求感官研究预判合规风险，优化产品设计以适配多元市场。建议加强非洲市场田野调研，建立区域性感官数据库，支撑前瞻性决策。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "EU weighs major tobacco tax overhaul",
+      "link": "https://www.tobaccojournal.com/news/eu-weighs-major-tobacco-tax-overhaul/",
+      "source": "Tobacco Journal International",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "欧盟正酝酿逾十年来最重大的烟草税收规则修订，拟调整征税框架以适应新型烟草产品市场变化。此举将影响电子烟、加热烟草等新型产品的税率与竞争力，并对跨国烟草公司及成员国财政产生深远影响，预计将引发行业合规调整与市场格局重塑。",
+      "date": "2026-08-18",
+      "impact": "欧盟烟草税改将重塑新型烟草产品（电子烟、加热烟草）的定价与竞争格局，直接影响消费者购买行为及感官体验偏好。CMI需前瞻性监测税率变动对品类渗透率、口味选择及使用频次的影响，并调整感官测试方案以捕捉价格敏感度与体验权衡。建议建立政策情景模型，预判市场分层趋势，为产品定位与创新提供数据支撑。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "‘Polluter pays’ plan",
+      "link": "https://www.tobaccojournal.com/articles/polluter-pays-plan/",
+      "source": "Tobacco Journal International",
+      "cat": "企业动态",
+      "dimension": "",
+      "region": "",
+      "summary": "英国一项研究建议烟草公司参与‘污染者付费’税制，可能筹集高达49亿英镑资金。此举将加重烟草企业财务负担，影响其成本结构与定价策略，或促使行业调整市场布局与产品组合，同时为其他地区监管提供参考。",
+      "date": "2026-08-18",
+      "impact": "该税制提案将显著推高烟草企业成本，迫使品牌重新评估定价与产品组合，进而影响感官研究重点——如更侧重性价比与替代性产品（如雾化）的口感优化。CMI需追踪政策落地可能性及消费者价格敏感度变化，预判市场结构调整，为产品创新提供前瞻性输入。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "JTI calls for ASEAN anti-smuggling framework",
+      "link": "https://www.tobaccojournal.com/news/jti-calls-for-asean-anti-smuggling-framework/",
+      "source": "Tobacco Journal International",
+      "cat": "巨头动向",
+      "dimension": "",
+      "region": "",
+      "summary": "JTI呼吁东盟建立统一反走私框架，以应对非法烟草贸易。此举反映跨国烟草巨头对区域监管碎片化导致非法产品泛滥的担忧，或推动东盟协调执法与税收政策。对快消品行业而言，合规风险与市场秩序治理将成为区域焦点，企业需关注政策动向及渠道管控。",
+      "date": "2026-08-17",
+      "impact": "此资讯对FMCG感官研究影响有限，但CMI需关注东盟监管趋严带来的渠道合规风险。非法烟草泛滥可能扭曲消费者价格敏感度与购买行为数据，影响市场容量估算。建议CMI强化区域政策监测，调整渠道调研权重，并评估税收协调对低价竞品份额的潜在冲击，以优化市场进入策略。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "PMI Germany head backs smoke-free transition",
+      "link": "https://www.tobaccojournal.com/news/pmi-germany-head-backs-smoke-free-transition/",
+      "source": "Tobacco Journal International",
+      "cat": "巨头动向",
+      "dimension": "",
+      "region": "",
+      "summary": "PMI德国新任总经理Özlem Dikmen重申公司长期愿景，即逐步超越传统卷烟业务，推动无烟转型。此举延续PMI全球战略，旨在通过加热烟草等替代品减少卷烟依赖，同时应对监管压力与市场变化，对德国及欧洲烟草行业格局具有风向标意义。",
+      "date": "2026-08-14",
+      "impact": "PMI在德国强化无烟转型，意味着加热烟草等替代品在核心市场的战略地位提升。对CMI而言，需关注消费者从传统卷烟向新型制品的感官迁移路径，尤其是口味、喉部刺激等核心体验维度。感官研究应优先建立替代品与传统卷烟的对比评估框架，并纳入监管语境下的消费者认知变化，为产品迭代及沟通策略提供前瞻依据。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "Generational bans on tobacco – where next?",
+      "link": "https://www.tobaccojournal.com/articles/generational-bans-on-tobacco-where-next/",
+      "source": "Tobacco Journal International",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "继马尔代夫和英国成功实施烟草世代禁令后，全球正见证此类立法趋势的兴起。该政策旨在禁止特定年龄段人群终身购买烟草产品，对电子烟等新型烟草制品的市场准入和营销策略产生深远影响，推动行业加速向减害产品转型。",
+      "date": "2026-08-13",
+      "impact": "世代禁令将重塑烟草及电子烟消费者结构，迫使企业重新定义目标客群。CMI需前瞻性监测各年龄段对尼古丁产品的态度与使用行为，特别是年轻世代对减害产品的偏好，以指导感官研究聚焦于新产品的口感、香气等体验优化，确保合规前提下的市场竞争力。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "New leadership for WHO tobacco treaty body",
+      "link": "https://www.tobaccojournal.com/news/new-leadership-for-who-tobacco-treaty-body/",
+      "source": "Tobacco Journal International",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "WHO烟草控制框架公约秘书处迎来新任负责人Andrew Black，他将同时主管公约及消除非法贸易议定书事务。此次人事变动或影响全球烟草监管政策走向，尤其在新型烟草制品管控方面，可能带来更严格的国际协调与执行力度，值得行业关注。",
+      "date": "2026-08-13",
+      "impact": "WHO烟草公约秘书处换帅，预示全球烟草监管可能趋严，尤其在新型烟草制品管控上。对CMI而言，需密切关注国际政策动向，预判法规变化对产品感官体验和消费者认知的影响。建议加强合规性研究，调整感官测试重点，探索减害产品的市场机会，以应对潜在的政策收紧和市场转移。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "UK tightens rules on vaping products",
+      "link": "https://www.tobaccojournal.com/news/uk-tightens-rules-on-vaping-products/",
+      "source": "Tobacco Journal International",
+      "cat": "产品技术",
+      "dimension": "",
+      "region": "",
+      "summary": "英国政府发布新指南，对英格兰、威尔士、苏格兰及北爱尔兰的电子烟和尼古丁产品实施更严格限制。此举旨在加强监管，可能影响产品成分、营销及销售渠道，企业需调整合规策略，行业面临更高准入标准与市场调整压力。",
+      "date": "2026-08-12",
+      "impact": "英国收紧电子烟监管将直接改变产品合规框架，感官研究需优先纳入成分与包装限制的适配性评估，CMI应追踪政策引发的消费者认知与使用行为变化，尤其关注口味、尼古丁强度等感官维度的市场接受度调整，为产品线重新规划提供前置洞察，同时评估渠道策略对体验触达的影响。",
+      "action": "",
+      "origin": "Tobacco Journal International"
+    },
+    {
+      "title": "KT&G New Three-Second Heated Tobacco Device",
+      "link": "https://nicotineinsider.com/2026/08/31/ktg-drops-three-second-heated-tobacco-device/",
+      "source": "Nicotine Insider",
+      "cat": "巨头动向",
+      "dimension": "",
+      "region": "",
+      "summary": "KT&G将于9月15日在首尔推出新型三秒加热烟草设备，并同步上市五款专用NAU烟弹。此举强化其加热不燃烧产品矩阵，直接对标菲莫国际IQOS，加速抢占韩国HNB市场份额。三秒快速加热或成差异化卖点，但监管与消费者接受度仍是关键挑战。",
+      "date": "2026-08-31",
+      "impact": "该资讯提示HNB赛道进入快速加热技术竞争阶段，对感官研究提出新命题：三秒加热的瞬态香气释放与温度曲线变化如何影响消费者第一口体验及满足感。CMI应关注韩国市场对快速加热的感知价值，预判其向其他市场渗透的可能性，同时评估监管趋严对产品感官宣称的制约，为产品开发提供前瞻性感官洞察。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "Swedish Election Threatens EU Tobacco Tax",
+      "link": "https://nicotineinsider.com/2026/08/31/swedish-election-threatens-eu-tobacco-tax-deal/",
+      "source": "Nicotine Insider",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "瑞典反对欧盟提高尼古丁袋税收的提案，其立场可能影响欧盟烟草税收协调进程。作为欧盟成员国，瑞典的抵制或延缓相关税改，对尼古丁袋在瑞典及欧洲市场的定价、竞争格局及行业合规策略产生潜在影响，值得市场参与者关注。",
+      "date": "2026-08-31",
+      "impact": "该资讯提示，欧盟税收政策变动将直接影响尼古丁袋的定价与消费者购买力，进而改变感官测试中消费者对价格敏感度的反馈。CMI需预判政策风险，调整口味偏好与使用体验研究的样本设计，并关注瑞典市场作为风向标，为跨区域产品合规与感官策略提供前瞻性依据。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "JUUL2 Device, 2 Pods Get FDA Authorization",
+      "link": "https://nicotineinsider.com/2026/08/28/juul2-device-2-pods-get-fda-nod/",
+      "source": "Nicotine Insider",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "JUUL2设备及两款烟弹获FDA授权，标志着Juul在美监管突破。公司计划为5%浓度JUUL2产品及烟草、薄荷醇以外口味提交PMTA，此举或重塑美国电子烟市场格局，对行业合规标准及竞争态势产生深远影响。",
+      "date": "2026-08-28",
+      "impact": "JUUL2获FDA授权标志着监管拐点，对电子烟感官研究提出更高合规门槛。CMI需聚焦‘减害’与‘感官体验’的平衡，重新审视口味、尼古丁浓度及吸入感受的消费者分层研究。此举或加速行业整合，推动企业将感官测试与法规预判结合，以应对口味限制下的差异化竞争。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "California: Newsom Gets Disposable Vape Ban Bill",
+      "link": "https://nicotineinsider.com/2026/08/28/california-sends-disposable-vape-ban-to-newsom/",
+      "source": "Nicotine Insider",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "加州州长纽森收到一次性电子烟禁令法案，规定合法设备须配备可充电电池，且必须可重复填充或更换烟弹。此举将全面淘汰一次性产品，对以一次性为主的电子烟品牌构成直接冲击，同时利好可换弹式及开放式设备市场，并可能引发其他州效仿。企业需关注合规调整与产品线转型。",
+      "date": "2026-08-28",
+      "impact": "该禁令将重塑美国电子烟品类结构，直接冲击以一次性产品为主力的品牌。CMI需立即评估产品线转型风险，重新规划可换弹/开放式设备的感官测试矩阵，重点研究新设备形态下的口感、烟气和满足感差异。同时，感官研究应纳入政策合规变量，预判消费者从一次性转向可换弹后的体验预期变化，为产品迭代提供前置洞察。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "Study: Vapes Beat Patches, Gum for Quitting",
+      "link": "https://nicotineinsider.com/2026/08/28/study-vapes-beat-patches-gum-for-quitting/",
+      "source": "Nicotine Insider",
+      "cat": "产品技术",
+      "dimension": "",
+      "region": "",
+      "summary": "研究显示，尼古丁电子烟在帮助戒烟方面优于尼古丁贴片和口香糖，使用电子烟的戒烟成功率高出61%。这一发现为电子烟作为减害工具提供了新证据，可能影响快消品市场中戒烟产品的竞争格局，促使企业重新评估产品组合与营销策略。",
+      "date": "2026-08-28",
+      "impact": "该研究为电子烟减害定位提供实证支持，可能重塑戒烟产品市场格局。CMI应关注消费者对电子烟作为戒烟工具的认知变化，评估其对传统NRT产品的替代效应。感官研究需加强电子烟与贴片、口香糖在体验维度（如口感、使用仪式感）的对比分析，为产品组合优化和差异化营销提供依据。建议追踪监管动态，预判市场准入变化对产品策略的影响。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "Imperial Fails to Block EPS Vape Trademark",
+      "link": "https://nicotineinsider.com/2026/08/27/imperial-fails-to-block-eps-vape-trademark/",
+      "source": "Nicotine Insider",
+      "cat": "巨头动向",
+      "dimension": "",
+      "region": "",
+      "summary": "英美烟草（Imperial）未能阻止NAX的EPS电子烟商标申请，法院裁定允许该申请继续推进。此裁决削弱了巨头利用异议程序压制新兴品牌的能力，可能加速电子烟商标竞争格局变化，对中小企业的品牌布局构成利好，同时促使行业关注商标策略的法律边界。",
+      "date": "2026-08-27",
+      "impact": "该裁决表明商标异议程序对新兴品牌的限制力减弱，CMI需重新评估品牌竞争格局中法律风险对市场份额的潜在影响。感官研究应关注NAX等新品牌产品体验，以捕捉消费者偏好变化。同时，建议企业法务与市场部门协同，优化商标策略，避免过度依赖异议，转而强化产品差异化与感官卖点，以应对更激烈的竞争。",
+      "action": "",
+      "origin": "Nicotine Insider"
+    },
+    {
+      "title": "Operation finds a third of Bristol independent stores selling illegal tobacco",
+      "link": "https://www.talkingretail.com/featured/operation-finds-a-third-of-bristol-independent-stores-selling-illegal-tobacco-27-08-2026/",
+      "source": "Talking Retail",
+      "cat": "欧洲监管",
+      "dimension": "",
+      "region": "",
+      "summary": "JTI UK最新测试购买行动发现，布里斯托东部34%的独立烟草店销售非法烟草。此结果凸显英国地方市场非法烟草流通严重，对合法零售商构成不公平竞争，并可能加剧监管压力，品牌需警惕渠道管控与合规风险。",
+      "date": "2026-08-27",
+      "impact": "该资讯表明英国地方市场非法烟草渗透率较高（布里斯托东部34%独立店涉售），直接冲击合法渠道的销量与价格体系，并可能引发更严监管。对FMCG感官研究/CMI而言，需将渠道合规性纳入消费者调研样本筛选，区分合法与非法购买行为对口味、体验评价的干扰；同时关注监管收紧对品牌定位和产品测试环境的影响，建议加强渠道审计与消费者风险感知监测。",
+      "action": "",
+      "origin": "Talking Retail"
+    },
+    {
+      "title": "Finding Optimism in the Tobacco Harm Reduction Maelstrom",
+      "link": "https://filtermag.org/finding-optimism-tobacco-harm-reduction/",
+      "source": "Filter Magazine",
+      "cat": "企业动态",
+      "dimension": "",
+      "region": "",
+      "summary": "本文作者回顾四年报道烟草减害领域的经历，指出尽管面临监管不确定性与舆论争议，行业仍存在积极信号。文章强调减害产品在降低吸烟风险方面的潜力，并呼吁关注科学证据与消费者需求，为行业可持续发展提供乐观视角。",
+      "date": "2026-08-10",
+      "impact": "该资讯提示烟草减害领域存在监管与舆论波动，但科学证据和消费者需求仍是核心驱动力。对FMCG感官研究而言，应聚焦减害产品的感官体验优化（如口感、喉部刺激感），以差异化满足用户对替代方案的需求；CMI需持续追踪政策风向与消费者认知变化，为产品迭代和沟通策略提供前瞻洞察，避免依赖短期舆论。",
+      "action": "",
+      "origin": "Filter Magazine"
     },
     {
       "title": "Swedish Election Threatens EU Tobacco Tax Talks",
@@ -147,7 +394,7 @@
     {
       "title": "特别报道｜FDA授权JUUL2上市，强调成年吸烟者完全转换，美国新型烟草产品上市审评持续提速 08-29",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17257",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -155,12 +402,12 @@
       "date": "2026-08-22",
       "impact": "FDA授权JUUL2上市标志着美国新型烟草监管提速，对FMCG感官研究/CMI工作的影响在于：需重点关注成年吸烟者向新型烟草转换的感官驱动因素（如口感、喉感、满足感），并跟踪监管变化对消费者认知与使用行为的影响。同时，中国作为电子烟主要出口国，其出口市场结构变化提示CMI需加强海外市场感官偏好差异研究，以支持产品本地化与合规策略。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "刘三江会见菲莫国际全球首席研发官卡托尼 08-27 · 东方烟草报",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17249",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "巨头动向",
       "dimension": "",
       "region": "",
@@ -168,12 +415,12 @@
       "date": "2026-08-22",
       "impact": "菲莫国际高层与中国烟草主管部门会面，释放出国际巨头深化在华合作的信号，可能加速新型烟草制品（如加热不燃烧）的感官评测标准与法规对接。对CMI而言，需关注俄罗斯作为第三大出口市场的消费偏好变化，以及美国、欧盟等成熟市场的感官需求升级，为产品研发和区域策略提供前瞻性依据。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "中国烟草供应链头部华宝的三重转型开始显效：海外收入增长216%，非香精业务占比升至42.2%，已跻身国际烟草公司供应链 08-28",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17256",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "市场动态",
       "dimension": "",
       "region": "",
@@ -181,12 +428,12 @@
       "date": "2026-08-22",
       "impact": "该资讯显示传统烟草供应链企业正向电子烟等新型烟草转型，海外收入大增，反映行业结构性变化。对CMI工作而言，需关注供应链上游变动对产品感官体验一致性的影响，以及新兴市场（如俄罗斯）的消费偏好差异。感官研究应拓展至新型烟草制品的风味、口感等维度，并加强跨市场比较，以支持产品本地化策略。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "美国加州议会通过一次性尼古丁电子烟禁令，2028年拟全面禁止销售 08-28",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17253",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -194,12 +441,12 @@
       "date": "2026-08-13",
       "impact": "该资讯虽聚焦加州一次性电子烟禁令，但摘要数据揭示中国电子烟出口依赖美国、欧盟等市场。对FMCG感官研究/CMI而言，需关注监管收紧对产品感官属性（如尼古丁强度、口味设计）的合规影响，并前瞻性调整消费者测试与市场细分策略，以应对区域市场准入变化。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "思摩尔旗下DOJO by VAPORESSO将于9月1日启用全球新品牌形象，更换Logo及包装视觉 16小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17260",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "产品技术",
       "dimension": "",
       "region": "",
@@ -207,12 +454,12 @@
       "date": "2026-08-13",
       "impact": "该资讯显示电子烟头部品牌正通过品牌形象升级强化全球市场布局，对CMI工作的影响在于需同步追踪品牌视觉革新对消费者感官认知（如包装触感、开箱体验）的潜在影响。俄罗斯作为第三大出口市场，其本地化感官偏好研究应纳入重点，同时行业出口高增长提示需关注新兴市场的感官需求差异，为产品开发提供地域性洞察。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "美国第五巡回法院撤销NicQuid电子烟MDO，裁定FDA比较有效性标准违反APA程序 08-28",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17255",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -220,12 +467,12 @@
       "date": "2026-08-13",
       "impact": "该资讯显示美国FDA对电子烟产品的监管审批标准出现松动，可能影响未来市场准入与产品合规方向。对FMCG感官研究而言，需关注产品合规性对感官测试设计的影响，如口味、尼古丁浓度等参数的调整空间。CMI应跟踪监管动态，评估市场准入变化对消费者偏好和竞争格局的潜在影响，及时调整研究策略。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "零售案例｜美国威斯康星电子烟监管一年后：Johnny Vapes销售下降80%，消费者转向线上与跨州渠道 08-28",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17254",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -233,12 +480,12 @@
       "date": "2026-08-13",
       "impact": "该案例提示美国地方监管趋严正重塑电子烟渠道格局，线下销售萎缩与线上跨州转移将改变消费者体验场景。对CMI而言，需关注渠道迁移带来的感官测试样本偏差，线上使用场景（如居家）与线下门店的感官感知差异可能影响产品评价。建议在感官研究中纳入渠道变量，并监测监管政策对不同区域消费者行为的影响，以校准市场预测模型。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "马来西亚电子烟监管面临调整：卫生部长Dzulkefly Ahmad回应撤回尼古丁豁免案上诉 08-28",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17252",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -246,7 +493,7 @@
       "date": "2026-08-13",
       "impact": "该资讯虽聚焦马来西亚监管与出口数据，但对FMCG感官研究/CMI的启示在于：新兴市场政策波动直接影响产品上市节奏与感官测试需求。马来西亚若调整尼古丁监管，将改变当地消费者对口味、尼古丁强度的偏好结构，需重新校准感官测试矩阵。同时，出口市场格局（如俄罗斯占比）提示CMI需关注区域口味差异，为不同市场定制感官方案，避免一刀切策略。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "Australia’s Backwards Nicotine Policy, Part 2: Could Canada’s Tax Strategy Offer a Solution?",
@@ -407,7 +654,7 @@
     {
       "title": "美国第九巡回法院维持FDA拒绝MH Global调味电子烟PMTA上市申请决定 15小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17245",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -415,12 +662,12 @@
       "date": "2026-08-24",
       "impact": "FDA维持对调味电子烟的拒绝决定，强化了美国市场的监管收紧趋势，直接影响中国电子烟出口的品类结构与感官研究优先级。对CMI而言，需重新评估美国市场的风味接受度与合规边界，将研究重心转向烟草、薄荷等合规风味，并关注俄罗斯、欧盟等替代市场的口味偏好差异，以支持产品本地化与风险规避。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "全球市场研究公司Kantar（凯度）研究发现乌克兰超93%电子烟产品不符合监管要求 15小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17244",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -428,12 +675,12 @@
       "date": "2026-08-24",
       "impact": "该资讯提示东欧市场监管趋严，影响中国电子烟出口格局。CMI需关注合规风险对产品感官属性（如口味、尼古丁浓度）的制约，调整感官测试与消费者调研重点，预判监管收紧下的市场准入策略，并监测俄罗斯作为主要出口市场的需求变化。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "新西兰卫生部副部长Casey Costello：合法烟草销售十年减少超半，非法卷烟市场增长需警惕 16小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17243",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "市场动态",
       "dimension": "",
       "region": "",
@@ -441,7 +688,7 @@
       "date": "2026-08-24",
       "impact": "该资讯虽聚焦新西兰烟草监管，但提示电子烟/雾化行业在海外市场面临政策收紧与非法渠道扩张的双重挑战。对CMI工作而言，需加强合法与非法市场消费行为对比研究，关注政策变动对感官偏好（如口味、尼古丁强度）的间接影响，并建议品牌提前布局合规产品感官优化，以应对监管风险。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "Fla. Moves to Block Benefits for Tobacco, Vape Products",
@@ -498,7 +745,7 @@
     {
       "title": "美国佛罗里达州州长DeSantis扩大TANF限制，禁止福利资金购买电子烟和烟草产品 16小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17239",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "企业动态",
       "dimension": "",
       "region": "",
@@ -506,12 +753,12 @@
       "date": "2026-08-16",
       "impact": "该资讯显示美国部分州正收紧电子烟购买限制，可能影响中国电子烟出口美国市场的渠道与消费者触达。对CMI而言，需关注政策变动对目标人群购买行为及感官体验偏好的潜在影响，重新评估美国市场调研的合规性与样本可及性，并探索替代市场（如俄罗斯）的感官需求差异，以调整产品开发与市场策略。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "盖洛普（Gallup）首次追踪尼古丁袋使用：美国成年人卷烟使用率11%、电子烟9%、尼古丁袋4% 22小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17238",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "企业动态",
       "dimension": "",
       "region": "",
@@ -519,12 +766,12 @@
       "date": "2026-08-16",
       "impact": "盖洛普首次追踪尼古丁袋使用，为快消品感官研究提供了新品类监测基准。CMI可据此评估尼古丁袋对传统卷烟及电子烟的替代趋势，指导感官测试优先级调整。数据揭示多品类共存格局，提示研发需关注差异化感官体验，如尼古丁释放速度、口味持久性等，以适配不同用户群体偏好。",
       "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     },
     {
       "title": "美国电子烟公司Charlie’s称其30个PACHA品牌 SKU初步确定拟纳入FDA“不优先执法”公开名单 23小时前",
       "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17237",
-      "source": "2firsts ����",
+      "source": "2firsts 中文",
       "cat": "欧洲监管",
       "dimension": "",
       "region": "",
@@ -532,270 +779,413 @@
       "date": "2026-08-16",
       "impact": "该资讯表明美国市场对电子烟监管趋严，但部分品牌获‘不优先执法’资格，可能影响产品上市节奏与消费者感知。对CMI工作而言，需关注监管变化对口味、感官体验的市场接受度影响，并调整消费者调研重点，如合规性、减害诉求。同时，俄罗斯作为出口市场增长，提示可探索新兴市场的感官偏好差异，为产品本地化提供依据。",
       "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "Disposable Vapes Have Become Public Enemy Number One. Is the Distrust Justified?",
-      "link": "https://www.vapingpost.com/2026/08/19/disposable-vapes-have-become-public-enemy-number-one-is-the-distrust-justified/",
-      "source": "Vaping Post",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "一次性电子烟已成为欧洲最不受信任的尼古丁产品之一，尽管曾因简化卷烟转换而备受赞誉。公众不信任源于对其安全性、环保性及青少年吸引力的担忧。监管压力增大，行业需重新评估产品定位与沟通策略，以重建消费者信心。",
-      "date": "2026-08-19",
-      "impact": "该资讯显示一次性电子烟正面临公众信任危机，监管压力上升。对CMI而言，需立即监测消费者对一次性产品安全性与环保性的态度变化，重新评估产品感官体验（如口味、尼古丁强度）与沟通策略，以缓解负面认知。感官研究应关注降低风险感知的体验设计，如更清晰的成分标识与环保包装，同时探索替代品类机会，为产品迭代提供数据支持。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "Another Day, Another Country—This Time South Korea—Fighting Nicotine Instead of Smoking",
-      "link": "https://www.vapingpost.com/2026/08/17/another-day-another-country-this-time-south-korea-fighting-nicotine-instead-of-smoking/",
-      "source": "Vaping Post",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "韩国通过提高烟草税、无烟法律、图形警示及公共教育等措施，在控烟方面取得显著进展。近期该国进一步将反烟斗争延伸至尼古丁本身，而非仅针对吸烟行为，此举或影响电子烟等减害产品的监管环境，值得行业关注。",
-      "date": "2026-08-17",
-      "impact": "韩国控烟政策从“烟草”延伸至“尼古丁”本身，预示电子烟等减害产品将面临更严格的监管环境。对FMCG感官研究而言，需关注消费者对尼古丁替代品（如口香糖、贴片）及新型口服产品的感官接受度，重新定义“减害”与“愉悦”的平衡点。CMI应跟踪政策变化对消费者认知的影响，预判口味、体验等感官诉求的迁移，为产品创新提供前瞻洞察。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "2Firsts数据｜2026年7月中国电子烟相关产品出口增长16.5%，对美出口大增53.5% 12分钟前",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17235",
-      "source": "2firsts ����",
-      "cat": "市场动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "该出口数据为电子烟行业CMI提供关键市场信号，提示中国制造在全球供应链中的核心地位。对美出口激增或反映监管变化或消费趋势，需关注美国市场口味偏好与合规要求。俄罗斯作为第三大市场，其感官需求（如口味、尼古丁强度）值得专项研究。建议CMI团队结合出口结构，调整感官测试优先级，并追踪区域政策动态以预判产品适配方向。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "欧盟贸易总司与烟草行业接触遭审查，欧洲监察专员启动正式调查 3小时前",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17232",
-      "source": "2firsts ����",
-      "cat": "出口贸易",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "欧盟启动对烟草行业接触的正式调查，可能影响电子烟企业在欧盟市场的合规与沟通策略。对CMI而言，需关注监管动态对消费者感知和购买行为的影响，尤其在欧盟这一占中国电子烟出口15%的重要市场。感官研究应审视产品口味和体验是否符合当地法规及消费者偏好，同时监测俄罗斯市场（9%）的潜在变化，以调整区域化研究优先级。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "GSTHR 2026: 200 Million Safer Nicotine Users Signal a Global Shift Away From Smoking",
-      "link": "https://www.vapingpost.com/2026/08/21/gsthr-2026-200-million-safer-nicotine-users-signal-a-global-shift-away-from-smoking/",
-      "source": "Vaping Post",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "全球尼古丁市场正经历深刻变革，数百万吸烟者从可燃烟草转向更安全的尼古丁产品。GSTHR 2026报告显示，全球安全尼古丁用户已达2亿，标志着远离吸烟的全球性转变，对公共卫生和烟草行业格局产生重大影响。",
-      "date": "2026-08-21",
-      "impact": "该资讯表明全球减害趋势加速，2亿安全尼古丁用户规模为快消品感官研究提供新方向。CMI应关注从传统烟草转向新型产品的用户感官体验差异，如口感和喉部冲击感等，并针对不同市场进行本地化偏好研究，以支持产品创新和定位策略。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "VAPORESSO Marks 11th Anniversary, Advancing Tech Innovation and Strengthening Global Connections",
-      "link": "https://www.vapingpost.com/2026/08/21/vaporesso-marks-11th-anniversary-advancing-tech-innovation-and-strengthening-global-connections/",
-      "source": "Vaping Post",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "VAPORESSO启动11周年全球活动，主题“再次超越”，强调技术创新与全球连接。作为雾化行业先驱，此举旨在巩固其领导地位，通过技术迭代与市场拓展强化品牌影响力，为行业树立创新标杆，并深化与全球消费者的互动。",
-      "date": "2026-08-21",
-      "impact": "该资讯显示头部品牌通过周年主题强化技术叙事与全球连接，对CMI工作而言，提示需关注品牌如何将‘技术迭代’转化为消费者可感知的感官体验（如口感、烟雾量、设计质感）。建议感官研究聚焦于‘超越’背后的体验升级维度，并追踪全球市场对创新卖点的接受度差异，以支撑本土化策略。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "Official Publications on the Safety of Vapes: Caution Should Not Cast Doubt on Established Facts",
-      "link": "https://www.vapingpost.com/2026/08/20/official-publications-on-the-safety-of-vapes-caution-should-not-cast-doubt-on-established-facts/",
-      "source": "Vaping Post",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "卫生当局沟通方式影响烟民对电子烟安全性的认知，警示不应动摇已确立的科学事实。尽管证据支持雾化减害潜力，但沟通谨慎可能误导公众，阻碍烟民转向更安全替代品。研究强调平衡风险沟通与事实传播，避免过度谨慎削弱减害价值。",
-      "date": "2026-08-20",
-      "impact": "该资讯提示CMI在电子烟感官研究中需关注风险沟通对消费者认知的干扰。感官测试应剥离安全疑虑变量，聚焦产品体验本身；同时建议在消费者调研中纳入对减害认知的度量，以区分‘感知风险’与‘实际体验’对购买决策的影响，避免过度谨慎的公共话语扭曲感官评价结果。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "Europe’s Tobacco-Free Ambition is on a Direct Collision With Its Crackdown on Safer Nicotine",
-      "link": "https://www.vapingpost.com/2026/08/13/europes-tobacco-free-ambition-is-on-a-direct-collision-with-its-crackdown-on-safer-nicotine/",
-      "source": "Vaping Post",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "欧洲烟草减害政策正与更安全的尼古丁产品监管发生直接冲突。爱尔兰和波兰拟议的尼古丁限制措施遭到一系列正式反对，凸显欧盟烟草政策中的深层矛盾。这一分歧可能影响新型尼古丁产品的市场准入，阻碍烟草减害目标的实现，并引发监管框架的重新审视。",
-      "date": "2026-08-13",
-      "impact": "该资讯提示欧洲监管环境不确定性加剧，可能影响新型尼古丁产品（如电子烟、口含烟）的市场准入与消费者接受度。CMI需密切跟踪各国监管动态，评估对产品感官体验（如尼古丁强度、口感）的潜在限制，并调整消费者调研设计，纳入政策风险因素，以支持产品创新与市场策略的灵活性。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "For Smokers Who Struggle to Quit, Reiterate Experts, Vapes Are a Viable Smoking Cessation Option",
-      "link": "https://www.vapingpost.com/2026/08/12/for-smokers-who-struggle-to-quit-reiterate-experts-vapes-are-a-viable-smoking-cessation-option/",
-      "source": "Vaping Post",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "专家重申，对于难以戒烟的吸烟者，电子烟是可行的戒烟选择。越来越多的科学证据促使医疗专业人士重新考虑与成年患者讨论戒烟的方式，这一立场可能影响欧洲监管方向，推动更科学的控烟策略。",
-      "date": "2026-08-12",
-      "impact": "该资讯表明欧洲监管可能转向更科学的控烟策略，电子烟作为戒烟工具的定位将强化。对FMCG感官研究而言，需关注成年吸烟者向电子烟转换时的感官需求差异，如口味、尼古丁递送体验等，以优化产品适配。CMI应监测监管动态对消费者认知及购买行为的影响，为产品定位和沟通策略提供依据。",
-      "action": "",
-      "origin": "Vaping Post"
-    },
-    {
-      "title": "New Zealand Tobacco Sales Fall More Than 20%",
-      "link": "https://tobaccoreporter.com/2026/08/21/new-zealand-tobacco-sales-fall-more-than-20/",
-      "source": "Tobacco Reporter",
-      "cat": "市场动态",
-      "dimension": "",
-      "region": "",
-      "summary": "新西兰合法烟草销量近年降幅超20%，但部分下滑可能源于黑市卷烟供应增加，而非实际消费减少。该趋势提示市场监测需区分合法与非法渠道，品牌需关注监管政策与灰色市场对销量数据的影响。",
-      "date": "2026-08-21",
-      "impact": "该资讯提示新西兰合法烟草销量下滑可能被黑市增长扭曲，对CMI工作而言，需警惕单一渠道数据对真实消费趋势的误判。感官研究应纳入非法产品对比，评估其对合法产品感官体验的替代效应；同时，品牌需结合监管动态与灰色市场调研，修正销量预测模型，避免基于失真数据制定感官优化或市场策略。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "China, Australia Bust $64M Tobacco Syndicate",
-      "link": "https://tobaccoreporter.com/2026/08/20/china-australia-bust-64m-tobacco-syndicate/",
-      "source": "Tobacco Reporter",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "中澳执法部门联合破获涉案金额达6400万美元的烟草走私集团，中国方面查获112个集装箱，其中91个装有非法烟草。此次行动凸显跨境烟草走私的严重性，对亚太地区烟草监管和合法市场构成挑战，未来可能加强国际执法协作。",
-      "date": "2026-08-20",
-      "impact": "该事件反映亚太烟草监管趋严，合法市场或面临走私品对价格与消费体验的干扰。CMI需关注监管变化对消费者获取渠道和口味偏好的影响，感官研究可侧重对比合法与非法产品的感官差异，为合规产品提供差异化优势，同时监测政策驱动的消费行为迁移。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "Russia Expands Criminal Penalties for Illicit Vape Imports",
-      "link": "https://tobaccoreporter.com/2026/08/20/russia-expands-criminal-penalties-for-illicit-vape-imports/",
-      "source": "Tobacco Reporter",
-      "cat": "产品技术",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯将电子烟、电子吸烟装置、烟油及尼古丁盐纳入更严格刑事处罚的商品清单，加强打击非法进口。此举将提高违法成本，影响电子烟市场供应链，对跨境贸易和合规企业产生重大冲击，需密切关注后续执法动态。",
-      "date": "2026-08-20",
-      "impact": "俄罗斯将电子烟相关产品纳入更严格刑事处罚清单，将显著提高非法进口的违法成本，直接冲击跨境供应链的稳定性与合规成本。对FMCG感官研究/CMI而言，需密切关注市场渠道结构变化，特别是合规产品的感官体验一致性可能因供应链调整而波动。建议提前布局替代市场的消费者偏好调研，并建立与法规变化联动的感官测试框架，以应对潜在的市场准入壁垒与消费者信任转移。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "Sri Lanka Cigarette Production Falls 32% as Tobacco Taxes Rise",
-      "link": "https://tobaccoreporter.com/2026/08/20/sri-lanka-cigarette-production-falls-32-as-tobacco-taxes-rise/",
-      "source": "Tobacco Reporter",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "斯里兰卡因连续提高烟草税，卷烟产量从2022年的28亿支降至2025年的19亿支，降幅达32%。这一显著下滑反映税收政策对烟草消费的抑制效应，但可能催生非法烟草市场，影响行业合规与政府税收预期。",
-      "date": "2026-08-20",
-      "impact": "该资讯表明税收政策显著改变烟草消费结构，产量下降32%可能引发口味偏好转移至非法或替代产品。CMI需关注价格敏感度对感官体验（如口感、满足感）的权重变化，并监测黑市产品特征，为合规产品创新与消费者细分提供依据。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "UAE Vape Tax to Raise Prices in September",
-      "link": "https://tobaccoreporter.com/2026/08/20/uae-vape-tax-to-raise-prices-in-september/",
-      "source": "Tobacco Reporter",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "阿联酋将于9月起调整电子烟税收政策，以60ml瓶装为例，零售价10.80美元的产品将按16.20美元计税，实际税负显著增加。此举将推高终端价格，可能抑制消费需求，促使渠道商调整库存与定价策略，同时利好合规品牌，加速市场整合。",
-      "date": "2026-08-20",
-      "impact": "阿联酋电子烟税负上调将直接推高终端价格，短期内可能抑制消费需求，但长期看将加速市场向合规品牌集中。对CMI工作而言，需关注价格敏感度变化及消费者替代行为（如转向低价或走私产品），感官研究应聚焦税负后仍具竞争力的产品体验优化，同时监测渠道库存调整带来的市场波动。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "Ireland’s HSE Warns of Risks from Unregulated Vapes",
-      "link": "https://tobaccoreporter.com/2026/08/20/irelands-hse-warns-of-risks-from-unregulated-vapes/",
-      "source": "Tobacco Reporter",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "爱尔兰HSE检测76款电子烟，其中28款含去年被禁的半合成大麻素HHC，13%检出醋酸盐，警示未监管电子烟存在健康风险，凸显监管漏洞与市场乱象，需加强执法与消费者教育。",
-      "date": "2026-08-20",
-      "impact": "该资讯揭示欧盟市场未监管电子烟中非法添加物（如HHC、醋酸盐）的普遍性，直接影响感官研究的安全性前提。CMI需将合规筛查纳入产品测试标准流程，避免感官评价暴露于未知风险。同时，消费者对‘安全’的感知可能因监管新闻而改变，感官研究应补充风险认知维度，以指导产品沟通策略，并警惕监管收紧对风味创新空间的压缩。",
-      "action": "",
-      "origin": "Tobacco Reporter"
-    },
-    {
-      "title": "FDA通过PMTA授权11款ZYN ULTRA尼古丁袋，累计获授权尼古丁袋增至43款 4小时前",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17231",
-      "source": "2firsts ����",
-      "cat": "欧洲监管",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "FDA扩大对ZYN尼古丁袋的授权，意味着传统卷烟替代品在美合规化加速，感官研究需关注尼古丁袋的口感、凉感、香气释放等体验维度。CMI应跟踪政策对消费者认知的影响，并评估俄罗斯等新兴市场的口味偏好差异，为产品本地化提供依据。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "中国与澳大利亚联合瓦解跨国草走私网络：112个集装箱涉案，60余人被捕，查获9200万澳元非法烟草 08-20",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17226",
-      "source": "2firsts ����",
-      "cat": "企业动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "该资讯反映跨国烟草走私执法趋严，可能影响合法电子烟及烟草产品的市场格局与消费者可获得性。对CMI而言，需关注监管收紧对消费者购买渠道和偏好的潜在影响，尤其在澳大利亚等市场。感官研究应留意产品合法性与合规性对体验评价的干扰，建议在调研中纳入政策风险维度，并监测走私活动对品牌认知的连带效应。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "独家分析 | 思摩尔上半年营收增19.9%：增长难掩增长集中、盈利承压与动能放缓 08-19",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17223",
-      "source": "2firsts ����",
-      "cat": "市场动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "思摩尔上半年营收增长但集中度高、盈利承压，提示电子烟市场增长动能放缓。对FMCG感官研究/CMI而言，需关注产品差异化竞争加剧，感官体验（如口味、雾化口感）成为关键突破口。同时，出口市场结构变化（俄罗斯等新兴市场）要求本地化感官偏好研究，以支持区域化产品策略。建议加强消费者分层洞察，聚焦高端化与体验升级，平衡成本与创新。",
-      "action": "",
-      "origin": "2firsts ����"
-    },
-    {
-      "title": "特别报道｜AIR上半年营收增3.7%、水烟膏出货量降9%，上市后首份财报检验其转型之路 08-21",
-      "link": "https://cn.2firsts.com/news/detail?menu=home&amp;id=17228",
-      "source": "2firsts ����",
-      "cat": "企业动态",
-      "dimension": "",
-      "region": "",
-      "summary": "俄罗斯目前是中国的第三大电子烟出口市场。由中国电子商会 电子烟行业委员会与卷卷智库联合发布《2021电子烟产业蓝皮书》显示，2021年中国电子烟产业出口约1,383亿人民币，年增180%；出口额前四位的国家地区分别是美国、欧盟、俄罗斯、英国，占比分别为53%、15%、9%、7%。",
-      "date": "2026-08-18",
-      "impact": "该资讯显示电子烟行业出口增长强劲，但头部企业营收微增、水烟膏品类下滑，提示市场分化与转型信号。对CMI工作而言，需关注品类生命周期与区域市场差异，尤其在俄罗斯等新兴市场，感官研究应聚焦产品本地化适配（如口味、尼古丁强度）及消费者偏好迁移，以支持产品创新与渠道策略调整。",
-      "action": "",
-      "origin": "2firsts ����"
+      "origin": "2firsts 中文"
     }
   ],
   "insights": [
     {
-      "title": "Why sauces are emerging as key growth vehicle for CPG brands",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/spons/why-sauces-are-emerging-as-key-growth-vehicle-for-cpg-brands/829075/",
+      "title": "众筹超千万美金，桌面CNC品牌完成数亿元天使轮系列融资，红杉、蓝驰等押注｜产品观察",
+      "source": "36氪",
+      "link": "https://36kr.com/p/3962818472901761?f=rss",
       "topic": "品牌营销",
       "cat": "",
       "dimension": "",
       "region": "",
-      "summary": "From global flavors to customization, sauces are changing how consumers choose, experience and personalize food. Explore the trends shaping sauce culture.</p",
+      "summary": "作者｜黄楠 编辑｜袁斯来 智能硬件赛道融资遇冷时，一家CNC公司却拿下了头部机构的数亿融资。 硬氪独家获悉，桌面CNC品牌巢匠科技NestWorks（以下简称NestWorks）日前已完成数亿元天使轮及天使+轮融资，投资方为红杉中国、蓝驰创投、钟鼎资本、祥峰投资与元璟资本，高鹄资本担任后续融资的独家财务顾问。 作为大象",
+      "date": "2026-09-01",
+      "core": "桌面CNC品牌巢匠科技NestWorks完成数亿元天使轮及天使+轮融资，红杉、蓝驰等头部机构押注，众筹超千万美金。智能硬件赛道遇冷背景下，该品牌凭借桌面级CNC产品获得资本青睐。",
+      "view": "对FMCG感官研究/CMI而言，这显示小众高精度工具正走向大众消费，消费者对“创造体验”和“质感反馈”的需求上升。桌面CNC将工业级感官体验（如切割质感、精度反馈）带入家庭，提示感官研究需从传统快消品延伸至新兴硬件领域，关注用户与产品互动的多感官体验。",
+      "action": "建议CMI团队关注新兴硬件品类的感官体验研究，探索将CNC等设备的触觉、听觉反馈纳入消费者测试框架。同时，可研究此类产品用户画像，为未来跨界合作或品类延伸提供洞察基础。",
+      "origin": "36氪"
+    },
+    {
+      "title": "硬氪首发 | 前META、XREAL产品负责人创业可穿戴硬件，获美国顶级VC数千万种子轮融资",
+      "source": "36氪",
+      "link": "https://36kr.com/p/3964360609275392?f=rss",
+      "topic": "消费电子",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "硬氪获悉，近日可穿戴AI硬件Nirva完成数千万元元种子轮融资，由美国顶级VC光速（Lightspeed）领投，South Park Commons跟投，由深渡资本担任长期独家财务顾问。此次融资主要用来扩充团队、量产准备和新品研发。 这是一家成长于硅谷的AI可穿戴公司，创始人吕唯是前META和XREAL产品负责人，深耕",
+      "date": "2026-09-01",
+      "core": "可穿戴AI硬件公司Nirva获光速领投的数千万种子轮融资，创始人为前META和XREAL产品负责人，资金用于团队扩充、量产及新品研发，聚焦AI可穿戴设备市场。",
+      "view": "此事件显示AI与可穿戴融合趋势，对FMCG感官研究意味着可穿戴设备将成为收集消费者感官数据的新渠道，如气味、触感等，但需注意数据可靠性与隐私，CMI应探索此类设备在真实使用场景中的感官反馈收集。",
+      "action": "建议CMI团队关注可穿戴设备在感官测试中的应用潜力，评估其数据采集能力，并考虑与硬件初创合作试点，探索新型消费者洞察方法。",
+      "origin": "36氪"
+    },
+    {
+      "title": "硬氪首发 | 核聚变企业完成12亿融资，美团龙珠、高瓴加持，投后估值超百亿",
+      "source": "36氪",
+      "link": "https://36kr.com/p/3964357394750985?f=rss",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "硬氪获悉，近日核聚变企业「诺瓦聚变」完成总额12亿元Pre-A系列融资，美团龙珠、高瓴资本持续加码布局，联想创投、国中资本作为全新战略投资方入局。本轮融资将为下一步并行推进Q>1净聚变能输出验证及商业电站配套提供充足的资金储备。 诺瓦聚变创立仅16个月，累计融资规模达24亿元，投后估值超百亿元,目前为国内民营聚变企业估",
+      "date": "2026-09-01",
+      "core": "核聚变企业诺瓦聚变16个月内完成24亿元融资，投后估值超百亿元，美团龙珠、高瓴资本等持续加码。",
+      "view": "对FMCG而言，资本正加速涌入硬科技，反映未来消费趋势将深度依赖技术突破。核聚变商业化虽远，但能源成本下降可能重塑供应链，影响产品成本与可持续性，进而改变消费者对绿色品牌的认知。",
+      "action": "建议CMI团队关注能源技术进展，评估其对供应链成本和消费者环保态度的影响；同时，可探索与科技企业合作，提前布局未来可持续产品线，以差异化竞争。",
+      "origin": "36氪"
+    },
+    {
+      "title": "Metaview：2026年AI与招聘协同报告",
+      "source": "199IT 互联网数据",
+      "link": "http://www.199it.com/archives/1839194.html",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "表面上90%的受访者认为双方关系“良好或优秀”，但58%的受访者坦言曾希望绕过合作伙伴独立完成招聘工作，仅15%从未产生过类似想法。",
       "date": "2026-08-31",
-      "core": "酱料正成为CPG品牌增长的关键载体，消费者通过全球风味与个性化定制重新定义食物选择与体验，酱料文化趋势重塑品牌创新方向。",
-      "view": "对FMCG感官研究而言，酱料是风味差异化的高感知触点，CMI需从单一产品转向‘酱料+场景’的消费动因研究，捕捉口味本土化与定制化背后的感官偏好图谱，以指导配方优化与沟通策略。",
-      "action": "建议开展酱料风味偏好与使用场景的联合调研，结合感官测试筛选高潜力全球风味，并测试个性化定制概念的接受度，优先在核心品类推出限量酱料SKU验证市场反应。",
+      "core": "报告显示，招聘方与合作伙伴表面关系良好（90%认为良好），但实际58%曾希望绕过伙伴独立完成招聘，仅15%从未有此想法，揭示表面满意度与实际行为间的显著落差。",
+      "view": "此洞察映射FMCG感官研究中的‘宣称vs实际’偏差，类似消费者调研中高满意度与实际复购率脱节。CMI需警惕问卷表面数据，结合行为数据交叉验证，避免误判消费者真实偏好，尤其在电子烟口味测试中。",
+      "action": "建议在感官测试中引入行为指标（如实际选择次数、使用频率），并设计隐性测试或情境模拟，减少社会期望偏差，确保洞察贴近真实市场行为，支撑产品决策。",
+      "origin": "199IT 互联网数据"
+    },
+    {
+      "title": "AI助手广告的底线：消费者接受度正在形成",
+      "source": "199IT 互联网数据",
+      "link": "http://www.199it.com/archives/1836969.html",
+      "topic": "品牌营销",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "根据Zappi发布的一份报告，人工智能用户普遍表示，他们对AI助手中广告的信任度与谷歌搜索广告持平或更高。",
+      "date": "2026-08-31",
+      "core": "Zappi报告显示，AI助手用户对其中广告的信任度与谷歌搜索广告持平或更高，表明消费者对AI广告的接受度正在形成，为品牌在AI渠道的广告投放提供了初步信心。",
+      "view": "对FMCG而言，AI助手正成为新兴触达渠道，但感官体验（如味觉、嗅觉）难以直接传达，需通过内容创意或交互设计弥补。CMI应持续监测消费者对不同AI广告形式的信任演变，避免过度营销引发反感，同时探索感官线索的数字化表达。",
+      "action": "建议启动小规模AI助手广告测试，结合消费者调研评估信任度与购买意愿；同步建立AI渠道的感官沟通策略，如用视觉或语言强化产品体验，并跟踪竞品动态以调整投放节奏。",
+      "origin": "199IT 互联网数据"
+    },
+    {
+      "title": "AI重塑酒店业：智能化转型迈入价值兑现阶段",
+      "source": "199IT 互联网数据",
+      "link": "http://www.199it.com/archives/1817020.html",
+      "topic": "食品饮料",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "目前全球酒店行业约25%的企业已进入AI规模化应用阶段，仅8%的企业达到“AI Future-Built”成熟阶段，而全球平均水平分别达到35%和5%，行业整体仍处于从试点迈向规模化的关键窗口期。",
+      "date": "2026-08-31",
+      "core": "全球酒店业AI应用尚处早期，25%企业规模化应用，8%达到成熟阶段，低于全球平均35%和5%，行业正处于从试点迈向规模化的关键窗口期，智能化转型开始兑现价值。",
+      "view": "对快消品行业而言，AI应用同样处于早期红利期，尤其在感官研究领域，AI可加速消费者偏好分析、产品优化和个性化体验设计。CMI团队应借鉴酒店业经验，避免盲目追求技术成熟度，而应聚焦于解决实际业务痛点，实现AI的规模化落地。",
+      "action": "建议CMI团队优先在消费者感官测试和产品开发中引入AI辅助分析，如情感计算和偏好预测，并设立小规模试点项目，验证AI在提升研究效率和洞察深度方面的实际价值，逐步向全流程推广。",
+      "origin": "199IT 互联网数据"
+    },
+    {
+      "title": "Oral Care is Longevity’s Biggest Untapped Opportunity",
+      "source": "Mintel",
+      "link": "https://www.mintel.com/insights/beauty-and-personal-care/oral-care-is-longevitys-biggest-untapped-opportunity/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "As longevity expands beyond supplements and wearables, overlooked categories are emerging as powerful drivers of the healthy aging market. The longevity convers",
+      "date": "2026-08-25",
+      "core": "长寿经济正从补剂和可穿戴设备向被忽视的口腔护理品类延伸，口腔健康被视为健康老龄化尚未充分开发的巨大机会点。",
+      "view": "对快消品感官研究而言，口腔护理产品的味觉、触感、清新感等感官体验需与‘长寿’功效叙事结合，CMI应重新定位口腔护理为健康管理入口，而非单纯清洁用品。",
+      "action": "建议开展口腔护理与长寿关联的消费者认知研究，探索‘功能性口腔护理’的感官偏好，并开发兼具愉悦体验与健康宣称的差异化产品概念。",
+      "origin": "Mintel"
+    },
+    {
+      "title": "When Beauty Meets Quantum Computing: A New Approach to Pore Care Innovation",
+      "source": "Mintel",
+      "link": "https://www.mintel.com/insights/beauty-and-personal-care/quantum-computing-pore-care-innovation-japan/",
+      "topic": "快消日化",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "The Mintel Most Innovative (MMI) awards recognize standout product innovations from around the world that reflect changing consumer needs and signal where marke",
+      "date": "2026-07-24",
+      "core": "量子计算被引入毛孔护理创新，反映消费者对精准、个性化护肤的需求升级。Mintel MMI奖项强调全球创新产品，该趋势预示科技驱动型美容解决方案正成为市场焦点。",
+      "view": "对FMCG感官研究而言，量子计算可模拟皮肤微观反应，加速成分疗效预测，减少实物测试成本。CMI需关注消费者对‘高科技’宣称的接受度，避免过度炒作，确保感官体验（如质地、吸收感）与科技叙事一致，以建立信任。",
+      "action": "建议CMI启动小规模消费者概念测试，验证量子计算护肤的感知价值。同时，与研发合作，评估现有感官测试流程能否集成预测模型，优先在高端线试水，监测社交媒体声量，为后续推广积累数据。",
+      "origin": "Mintel"
+    },
+    {
+      "title": "Why Dr. Squatch is investing in experiences — not ads — with IShowSpeed",
+      "source": "Marketing Dive",
+      "link": "https://www.marketingdive.com/news/why-dr-squatch-is-investing-in-experiences-not-ads-with-ishowspeed/829009/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "<img src=\"https://imgproxy.divecdn.com/tVnCVINtvWgbMLTMV80UAd92L4xGVTAGuIYIRuK3XYY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
+      "date": "2026-08-31",
+      "core": "Dr. Squatch正将营销预算从传统广告转向体验式营销，与网红IShowSpeed合作，通过沉浸式体验而非硬广来触达消费者，强调品牌与消费者的情感连接和真实互动。",
+      "view": "对FMCG感官研究而言，体验式营销提供了在真实场景中观察消费者感官反馈的机会，CMI应借此收集多维感官数据，而非仅依赖实验室测试。此举也反映Z世代对广告免疫，品牌需通过可参与、可分享的体验建立认知，感官研究需转向动态、情境化的评估方法。",
+      "action": "建议CMI团队设计体验式感官测试，结合现场行为观察与事后问卷，量化体验对购买意向的影响。同时，与营销部门合作，将体验活动作为感官研究实验室，收集真实环境下的偏好数据，优化产品开发与传播策略。",
+      "origin": "Marketing Dive"
+    },
+    {
+      "title": "Chipotle deploys 100 creators for latest ads spotlighting fresh food",
+      "source": "Marketing Dive",
+      "link": "https://www.marketingdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829149/",
+      "topic": "食品饮料",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "This is the first national advertising push from Chief Brand Officer Fernando Machado and Chipotle&rsquo;s first major work with new agency partner Kids.",
+      "date": "2026-08-31",
+      "core": "Chipotle首次全国广告活动由首席品牌官Fernando Machado主导，与新代理伙伴Kids合作，部署100位创作者突出新鲜食材。",
+      "view": "这标志着快消品牌从传统广告向创作者驱动的真实感内容转型，强调感官体验（新鲜、真实）而非抽象卖点。对CMI而言，需关注消费者对'新鲜'的感官认知差异，以及创作者内容如何影响味觉预期和购买决策。",
+      "action": "建议开展感官研究，对比创作者内容与传统广告对消费者感知新鲜度、食欲激发及购买意愿的影响。同时，监测社交媒体互动数据，评估创作者内容的传播效果和受众共鸣。",
+      "origin": "Marketing Dive"
+    },
+    {
+      "title": "Snapchat’s bid to simplify mobile marketing measurement goes global",
+      "source": "Marketing Dive",
+      "link": "https://www.marketingdive.com/news/snapchats-bid-to-simplify-mobile-marketing-measurement-goes-global/828976/",
+      "topic": "品牌营销",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "<img src=\"https://imgproxy.divecdn.com/ZQJJrLm8oVMoC8OWKoYjGGc83WjbUn5WetuOAo-fIrk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
+      "date": "2026-08-31",
+      "core": "Snapchat将其移动营销测量简化方案推向全球，旨在帮助品牌更便捷地评估广告效果。此举回应了营销人员对跨平台测量复杂性的痛点，通过统一工具提升数据透明度和决策效率。",
+      "view": "对FMCG感官研究而言，营销测量简化意味着更精准的消费者触达评估。CMI可借此优化感官测试的投放策略，将广告曝光数据与感官反馈结合，验证不同渠道对产品感知的影响。同时，全球覆盖利于跨国品牌统一测量标准，加速感官洞察的跨市场验证。",
+      "action": "建议CMI团队评估Snapchat测量工具与现有感官研究平台的兼容性，试点将广告效果数据接入感官测试，追踪曝光后消费者对香气、口感等属性的反馈差异。优先在核心市场展开小规模测试，量化测量简化对研究效率的提升。",
+      "origin": "Marketing Dive"
+    },
+    {
+      "title": "The Retail Daily podcast",
+      "source": "Supermarket News",
+      "link": "https://www.supermarketnews.com/grocery-trends-data/the-retail-daily-podcast",
+      "topic": "零售渠道",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Produced in cooperation with editors from CSP Daily News, the Retail Daily features the day’s top headlines from the grocery and c-store industries",
+      "date": "2026-08-31",
+      "core": "该洞察指出《Retail Daily》播客由Supermarket News与CSP Daily News合作制作，聚焦杂货店和便利店行业每日头条新闻，覆盖零售渠道动态。",
+      "view": "对FMCG感官研究而言，杂货与便利店渠道是消费者体验的关键触点，播客内容可提供渠道趋势和消费者行为变化线索，帮助CMI团队把握零售环境对产品感官接受度的影响，及时调整研究重点。",
+      "action": "建议定期追踪该播客内容，提炼与感官体验相关的零售创新案例，并组织团队讨论，将渠道洞察融入感官测试设计，确保产品开发贴近实际购买场景。",
+      "origin": "Supermarket News"
+    },
+    {
+      "title": "5 things top news: Competing with the big boys means lean",
+      "source": "Supermarket News",
+      "link": "https://www.supermarketnews.com/grocery-trends-data/5-things-top-news-competing-with-the-big-boys-means-lean",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "At GroceryNEXT last week, the conversation circled around how regional grocers can compete with larger outfits",
+      "date": "2026-08-31",
+      "core": "区域杂货商在GroceryNEXT会议上探讨如何与大型连锁竞争，核心观点是需保持精简运营，通过灵活性和效率来对抗规模优势。",
+      "view": "对FMCG感官研究而言，区域品牌应聚焦本地化感官偏好，利用精简决策链快速迭代产品。CMI需捕捉区域性差异，避免一刀切策略，以差异化体验建立忠诚度。",
+      "action": "建议开展区域性感官测试，识别本地风味与质地偏好，并建立敏捷反馈机制。同时，优化供应链以支持小批量定制，确保快速响应市场变化。",
+      "origin": "Supermarket News"
+    },
+    {
+      "title": "Canadian grocers step up ‘buy Canadian’ efforts",
+      "source": "Supermarket News",
+      "link": "https://www.supermarketnews.com/grocery-operations/canadian-grocers-step-up-buy-canadian-efforts",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Loblaw, Metro, Sobeys respond to latest salvos in trade war with U.S.",
+      "date": "2026-08-31",
+      "core": "加拿大主要杂货零售商Loblaw、Metro和Sobeys针对与美国的贸易战升级，加强‘购买加拿大产品’的营销与采购策略，以支持本土产业并应对关税冲击。",
+      "view": "此趋势反映消费者民族主义情绪上升，感官研究需关注本土产品的感知质量与偏好差异。CMI应监测‘加拿大制造’标签对购买决策的影响，并评估口味、包装等感官属性在爱国情绪下的权重变化，以指导产品本地化策略。",
+      "action": "建议开展消费者调研，量化‘购买加拿大’态度对感官评价的调节作用；测试不同产地标签下的口味接受度；并跟踪竞品本土化营销效果，及时调整感官定位与沟通信息。",
+      "origin": "Supermarket News"
+    },
+    {
+      "title": "Target bets on ’90s nostalgia with exclusive Delia’s collection",
+      "source": "Retail Dive",
+      "link": "https://www.retaildive.com/news/target-90s-nostalgia-exclusive-delias-collection/829163/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "The assortment offers a fresh take on the brand&rsquo;s vintage style and includes a version of its famous catalog.&nbsp;",
+      "date": "2026-08-31",
+      "core": "Target与Delia's合作推出独家系列，主打90年代怀旧风格，并重新演绎其经典目录，以吸引怀旧消费群体。",
+      "view": "对于FMCG感官研究，怀旧营销需通过视觉、触觉等感官元素唤起消费者情感记忆。CMI应关注Z世代与千禧一代对复古潮流的偏好，利用文化符号增强品牌关联，但需平衡经典与创新，避免过度依赖情怀。",
+      "action": "建议CMI团队开展消费者调研，识别目标客群对90年代风格的具体感官触发点，并测试不同设计元素的情感反应。同时，监测社交媒体讨论，评估怀旧营销的传播效果，为后续产品开发提供数据支持。",
+      "origin": "Retail Dive"
+    },
+    {
+      "title": "Nuuly drives Urban Outfitters’ record second-quarter revenue",
+      "source": "Retail Dive",
+      "link": "https://www.retaildive.com/news/nuuly-rental-urban-outfitters-second-quarter-earnings/829128/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "<img src=\"https://imgproxy.divecdn.com/gFigHuTBMWAaRsz2npcoNAX2CkjATJ7x2WSU1VX0jBQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
+      "date": "2026-08-31",
+      "core": "Urban Outfitters第二季度营收创纪录，主要得益于其服装租赁订阅服务Nuuly的强劲增长，显示出该业务模式已成为公司新的增长引擎。",
+      "view": "对FMCG感官研究/CMI而言，Nuuly的成功表明消费者对体验式、循环经济模式的需求上升。感官研究需关注产品在多次使用后的感官一致性，以及订阅模式下消费者对新鲜感和个性化的期待，CMI应捕捉这种从拥有到使用的态度转变。",
+      "action": "建议CMI团队开展针对订阅服务用户的感官追踪研究，评估产品在不同使用周期内的感官表现，并探索个性化感官体验的可能性，以优化产品设计和营销策略。",
+      "origin": "Retail Dive"
+    },
+    {
+      "title": "Macy’s names senior vice president of creative, production",
+      "source": "Retail Dive",
+      "link": "https://www.retaildive.com/news/macys-senior-vice-president-of-creative-production-maya-dukes/829130/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "<img src=\"https://imgproxy.divecdn.com/suk8nyytrzh2sexLQrXd0OiZ35WrdG7RP-_1wxFiqwE/g:nowe:802:191/c:4094:2313/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS",
+      "date": "2026-08-31",
+      "core": "梅西百货任命新任高级副总裁负责创意与制作，反映零售巨头在营销内容生产上强化创意领导力，以应对全渠道消费体验升级需求。",
+      "view": "对FMCG感官研究而言，零售端创意制作升级意味着品牌触达消费者的感官触点（视觉、体验）将更专业化。CMI需关注零售伙伴的创意方向，确保产品感官卖点能在终端有效传达，避免研究结论与落地创意脱节。",
+      "action": "建议CMI团队与零售创意部门建立定期沟通机制，共享感官洞察报告，并针对重点SKU开展终端视觉与体验审计，验证感官信息传达一致性。",
+      "origin": "Retail Dive"
+    },
+    {
+      "title": "Publisher’s Platform: Food Safety Education Month starts Today – Here is what I want from government, industry academia and you",
+      "source": "Food Safety News",
+      "link": "https://www.foodsafetynews.com/2026/09/publishers-platform-food-safety-education-month-starts-tuesday-one-day-after-the-worst-cyclospora-season-on-record-officially-closes-nothing-done-in-a-home-kitchen-would-have-stopped-it/",
+      "topic": "食品饮料",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "The National Restaurant Association created National Food Safety Month in 1994 through its Educational Foundation, to heighten awareness about the importance of",
+      "date": "2026-09-01",
+      "core": "美国国家餐饮协会自1994年起设立全国食品安全月，旨在提升公众对食品安全重要性的认识。文章呼吁政府、行业、学术界和公众共同努力，推动食品安全教育与实践。",
+      "view": "对快消品行业而言，食品安全是消费者信任的基石，直接影响感官体验和品牌忠诚度。CMI应关注消费者对食品安全的态度变化，将其纳入感官研究框架，确保产品不仅口感好，且安全可靠，以增强市场竞争力。",
+      "action": "建议将食品安全指标纳入感官评估体系，开展消费者认知调研，了解其对安全与品质的权衡。同时，与供应链合作，确保从源头到终端的全程安全，并在营销中强化安全承诺，提升品牌形象。",
+      "origin": "Food Safety News"
+    },
+    {
+      "title": "Another sprout product under recall; seed supplier refuses to issue recall",
+      "source": "Food Safety News",
+      "link": "https://www.foodsafetynews.com/2026/09/another-sprout-product-under-recall-seed-supplier-refuses-to-issue-recall/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "An unnamed seed company is now under investigation in an outbreak traced to fresh sprouts. And, another product has been added to the recall of implicated sprou",
+      "date": "2026-09-01",
+      "core": "一家未具名的种子公司因与新鲜豆芽相关的疫情爆发而受到调查，同时，又有一种产品被加入到涉及豆芽的召回中。种子供应商拒绝发布召回，这加剧了食品安全风险。",
+      "view": "从FMCG感官研究角度看，食品安全事件直接影响消费者对新鲜农产品的信任和感知质量。种子供应商拒绝召回，凸显供应链上游的透明度缺失，这可能导致消费者对品牌和品类的负面感官联想，如对新鲜度、安全性的担忧。CMI团队需关注此类事件对消费者购买决策和品牌忠诚度的潜在影响。",
+      "action": "建议CMI团队密切监测该事件进展，评估消费者对豆芽及相关产品的态度变化。可开展快速消费者调研，了解召回事件对购买意愿和品牌形象的影响。同时，与供应链部门沟通，确保自身产品可追溯性，并准备危机沟通预案，以维护品牌信任。",
+      "origin": "Food Safety News"
+    },
+    {
+      "title": "Unions renew call for UK to ban meat from Brazil",
+      "source": "Food Safety News",
+      "link": "https://www.foodsafetynews.com/2026/09/unions-renew-call-for-uk-to-ban-meat-from-brazil/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Four farming unions in the United Kingdom have renewed calls for a ban on imports of Brazilian meat to align with European restrictions.In a letter to Angela Ea",
+      "date": "2026-09-01",
+      "core": "英国四大农业工会再次呼吁政府禁止进口巴西肉类，以与欧盟限制保持一致，并致信相关官员。此举反映英国脱欧后对进口食品安全与可持续标准的关注提升。",
+      "view": "对FMCG感官研究而言，肉类原料来源国可能影响消费者对产品安全与品质的感知，进而影响感官体验。CMI应关注此类贸易政策变化对供应链成本、原料可获得性及消费者信任度的潜在影响，为产品定位提供依据。",
+      "action": "建议CMI团队监测英国肉类进口政策动态，评估巴西原料替代方案对产品感官属性（如风味、质地）的影响，并开展消费者调研，了解其对产地标签的敏感度，以调整产品沟通策略。",
+      "origin": "Food Safety News"
+    },
+    {
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "source": "ScienceDaily 食品科学",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used t",
+      "date": "2026-08-30",
+      "core": "研究人员通过控制光照，培育出富含生物活性维生素B12的螺旋藻，其含量与牛肉相当，为素食人群提供了可持续的B12来源。",
+      "view": "此发现对快消品行业，尤其是植物基食品和营养补充剂领域，具有重大意义。感官研究需关注该螺旋藻的色泽、气味及质地对终端产品的影响，CMI则需洞察消费者对新型B12来源的接受度与购买意愿。",
+      "action": "建议食品研发部门评估该螺旋藻在现有产品线中的应用潜力，同时感官团队开展消费者测试，对比其与现有B12补充剂的感官属性，为产品创新提供数据支持。",
+      "origin": "ScienceDaily 食品科学"
+    },
+    {
+      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+      "source": "ScienceDaily 食品科学",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remain",
+      "date": "2026-08-28",
+      "core": "英国一项研究检测了212种植物基肉类替代品和饮品，发现所有样品均至少含有一种天然真菌毒素，但浓度水平尚在关注范围内。这揭示了植物基产品在原料安全方面存在普遍性风险。",
+      "view": "对FMCG感官研究而言，毒素存在虽不影响即食感官体验，但可能引发消费者对健康安全的隐性担忧，进而影响品类信任度。CMI需关注消费者对‘天然’与‘安全’的认知冲突，预判监管趋严趋势，将安全指标纳入产品开发与沟通策略。",
+      "action": "建议立即启动植物基产品线真菌毒素风险排查，与供应商共建原料检测标准；同时开展消费者感知调研，量化安全顾虑对购买意愿的影响，并储备清洁标签与安全认证的沟通话术。",
+      "origin": "ScienceDaily 食品科学"
+    },
+    {
+      "title": "Your dislike of eating bugs may be 9,000 years old",
+      "source": "ScienceDaily 食品科学",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionall",
+      "date": "2026-08-27",
+      "core": "考古证据显示，现代人类对昆虫的食用态度可能源自约9000年前的祖先习惯。欧亚大陆北部古人类仅偶尔食用昆虫，这种历史偏好可能影响了现代消费者对昆虫食品的感官接受度。",
+      "view": "对FMCG感官研究而言，消费者对昆虫食品的排斥可能不仅是味觉或质地问题，而是深层文化记忆。CMI需将历史饮食传统纳入感官测试设计，区分‘先天偏好’与‘后天习得’，避免仅依赖当代消费者反应而误判市场潜力。",
+      "action": "建议开展跨文化感官测试，对比不同地区消费者对昆虫食品的接受度，并结合历史饮食背景分析。同时，探索将昆虫成分‘隐形化’（如粉末形式）融入传统食品，以降低感官门槛，为产品创新提供数据支持。",
+      "origin": "ScienceDaily 食品科学"
+    },
+    {
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "source": "ScienceDaily 感知",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest",
+      "date": "2026-08-30",
+      "core": "一项研究发现，40岁及以上成年人居家使用HEPA空气净化器一个月后，执行功能测试表现提升约12%，提示空气净化可能对认知功能有积极影响。",
+      "view": "此洞察对FMCG感官研究具有启示：环境空气质量可能影响消费者在感官测试中的表现，尤其在涉及认知判断的任务中。CMI在评估产品感官体验时，需考虑环境因素干扰，确保测试条件标准化，避免空气污染导致的认知偏差影响结果有效性。",
+      "action": "建议在感官测试实验室中加装高效空气净化设备，并记录环境空气质量数据，作为测试条件变量。同时，可探索空气净化产品与认知功能关联的细分市场机会，为相关品类创新提供依据。",
+      "origin": "ScienceDaily 感知"
+    },
+    {
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "source": "ScienceDaily 感知",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found tha",
+      "date": "2026-08-31",
+      "core": "一项研究挑战了70年来的“蜥蜴脑”理论，该理论认为大脑进化是理性新皮层叠加在古老原始脑之上。新发现表明这种分层模型可能具有误导性，大脑结构和功能可能更为整合。",
+      "view": "对FMCG感官研究而言，此洞察提示消费者情感与理性决策并非简单分离，感官体验可能同时触发多层次神经反应。CMI需超越传统“情感vs理性”二分法，采用更整合的神经科学方法，如fMRI或EEG，以更准确理解产品感官吸引力。",
+      "action": "建议感官研究团队重新审视现有消费者测试框架，引入跨学科方法，如结合行为实验与神经影像，探索感官刺激对整体大脑网络的影响。同时，更新内部消费者决策模型，避免过度简化情感与理性路径。",
+      "origin": "ScienceDaily 感知"
+    },
+    {
+      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
+      "source": "ScienceDaily 感知",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more pre",
+      "date": "2026-08-27",
+      "core": "研究发现大脑中存在一种可关闭慢性神经痛的“刹车”机制，通过镇静过度活跃的疼痛回路，在小鼠实验中有效缓解疼痛。该发现为开发非成瘾性止痛药物提供了新靶点。",
+      "view": "对FMCG感官研究而言，疼痛机制与感官体验（如触觉、温度）共享神经通路，理解大脑如何调节疼痛信号有助于设计更精准的感官刺激产品（如舒缓型护肤品、镇痛贴）。CMI可关注这一领域，预判消费者对“神经调节”类健康产品的需求趋势。",
+      "action": "建议CMI团队跟踪该研究进展，评估其转化为消费级应用的可能性（如非侵入性神经调控设备）。同时开展消费者调研，测试对“神经止痛”概念的兴趣与支付意愿，为产品创新储备洞察。",
+      "origin": "ScienceDaily 感知"
+    },
+    {
+      "title": "Trix maker General Mills removes synthetic dyes from US cereals",
+      "source": "Food Dive",
+      "link": "https://www.fooddive.com/news/General-mills-removes-artifical-colors-cereal-rfk/828927/",
+      "topic": "行业洞察",
+      "cat": "",
+      "dimension": "",
+      "region": "",
+      "summary": "<img src=\"https://imgproxy.divecdn.com/1CpNf-9YIFAJdHhRqyHl79hzTH4Ds6DLbfQjveB4VRA/g:nowe:0:120/c:2015:1138/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1z",
+      "date": "2026-08-27",
+      "core": "通用磨坊宣布从美国市场的Trix等谷物早餐中移除合成色素，转向天然原料。此举响应消费者对清洁标签和天然成分的需求，标志着大型食品企业在色素使用策略上的重大转变。",
+      "view": "对FMCG感官研究而言，此案例凸显天然色素在色泽、稳定性和风味感知上的挑战。CMI需关注消费者对'天然'与'视觉吸引力'的权衡，以及不同市场对色素法规和偏好的差异，为产品本地化提供依据。",
+      "action": "建议开展消费者感官测试，对比天然与合成色素产品在喜好度、购买意愿上的差异。同时，监测竞品动态，评估天然色素替代对成本、货架期的影响，并探索本土化天然色素来源。",
       "origin": "Food Dive"
     },
     {
@@ -808,9 +1198,9 @@
       "region": "",
       "summary": "The findings are a challenge for those advocating robusta as a means of weathering climate change in the coffee industry. The post Robusta coffee climate resili",
       "date": "2026-09-01",
-      "core": "专家指出罗布斯塔咖啡具备气候韧性的说法是‘互联网迷思’，研究结果挑战了业界将其作为应对气候变化工具的普遍认知。",
-      "view": "对FMCG感官研究而言，原料供应风险直接影响产品风味一致性。CMI需警惕行业叙事偏差，避免基于未经验证的假设制定长期产品路线。消费者对‘可持续’的感知可能被误导，需以实证数据支撑沟通策略。",
-      "action": "建议开展罗布斯塔与阿拉比卡混合配方的感官耐受性测试，建立气候风险地图与替代原料库，并基于实证调整可持续宣称，确保市场沟通与真实供应能力一致。",
+      "core": "专家指出，罗布斯塔咖啡具有气候韧性的说法是‘网络神话’。研究结果挑战了将罗布斯塔作为咖啡行业应对气候变化手段的主流观点，提示其实际抗逆能力可能被高估。",
+      "view": "对FMCG感官研究而言，这意味着依赖罗布斯塔原料的产品需重新评估供应链风险。CMI应关注消费者对罗布斯塔‘坚韧’认知的偏差，避免品牌叙事建立在未经证实的气候韧性假设上，同时警惕品质与可持续承诺的脱节。",
+      "action": "建议启动罗布斯塔供应链气候风险审计，并开展消费者认知调研，测试‘气候友好’标签的可信度。同时，探索混合豆种或替代原料的感官优化方案，以平衡风味与可持续性，为长期策略储备数据。",
       "origin": "Inside FMCG"
     },
     {
@@ -823,9 +1213,9 @@
       "region": "",
       "summary": "The third-generation leader talks to Inside FMCG about carrying a 90-year-old brand. The post Inside the family business behind 90 years of Ella Baché appeared",
       "date": "2026-09-01",
-      "core": "Ella Baché，一个拥有90年历史的家族企业，第三代领导人接受采访，分享了如何传承和延续这一古老品牌。文章聚焦于家族经营在品牌长期发展中的角色与挑战。",
-      "view": "对于FMCG感官研究/CMI而言，家族企业案例凸显了品牌历史与感官资产（如香气、质地）的传承价值。CMI应关注跨代际消费者对经典感官元素的认知变化，并量化其情感联结，以指导产品创新与品牌传播，确保在现代化中不失核心体验。",
-      "action": "建议开展对Ella Baché等长寿品牌的感官遗产研究，包括历史产品感官特征分析、消费者记忆与偏好调研，并建立感官资产库。同时，探索将经典感官元素与现代消费场景结合的产品开发机会。",
+      "core": "Ella Baché，一个拥有90年历史的家族企业，第三代领导人分享了如何延续品牌传统，平衡创新与传承，保持品牌在竞争激烈的美容市场中的相关性。",
+      "view": "对FMCG感官研究而言，家族品牌的长青揭示了感官体验的一致性与进化的重要性。CMI需关注品牌历史资产如何转化为感官记忆点，同时通过现代感官测试确保产品符合当代消费者偏好，避免品牌老化。",
+      "action": "建议CMI团队研究该品牌的感官传承策略，提取其核心感官元素，并开展消费者测试以验证这些元素在当前市场的有效性。同时，探索如何将历史叙事融入产品开发，增强情感连接。",
       "origin": "Inside FMCG"
     },
     {
@@ -838,40 +1228,10 @@
       "region": "",
       "summary": "Matso’s Vodka Rasp Pine Crush is distributed nationwide in 330ml four-packs with an RRP of $25. The post Matso’s adds Rasp Pine Crush flavour to its RTD lineup",
       "date": "2026-09-01",
-      "core": "Matso’s推出全新RTD（即饮酒）产品Vodka Rasp Pine Crush，以覆盆子与菠萝风味组合切入市场，330ml四罐装，零售价25美元，全国分销。",
-      "view": "该新品以热带水果风味组合为卖点，迎合消费者对清新、果味RTD的偏好。感官研究上，风味搭配的平衡度与真实感是关键，需确保覆盆子的酸感与菠萝的甜感协调，避免人工感。CMI层面，价格与包装规格反映其定位中端，需关注年轻成年消费者的接受度。",
-      "action": "建议开展消费者口味测试，对比竞品评估风味辨识度与喜好度；同时监测社交媒体反馈，分析风味关键词联想，为未来RTD风味矩阵提供数据支持。",
+      "core": "Matso’s伏特加品牌推出新口味Rasp Pine Crush，以330ml四罐装形式全国分销，建议零售价25美元，加入即饮（RTD）产品线，主打覆盆子与菠萝的混合风味。",
+      "view": "此新品反映RTD市场对果味混搭的持续偏好，感官研究应聚焦风味平衡度、甜酸比及碳酸感，以匹配目标消费群体对清爽、易饮体验的期待。CMI需监测该口味在货架上的视觉吸引力及与竞品的差异化定位。",
+      "action": "建议开展快速消费者口味测试，评估Rasp Pine Crush的接受度及购买意愿，同时对比现有RTD口味组合，识别潜在细分市场机会，并优化包装设计以强化风味联想。",
       "origin": "Inside FMCG"
-    },
-    {
-      "title": "LYB installs pyrolysis reactors at German chemical recycling facility",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/news/lyb-wesseling-pyrolysis-reactors.html",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-08-25",
-      "core": "LYB在德国化学回收设施安装热解反应器，推进塑料化学回收技术落地，旨在将废弃塑料转化为原料，支持循环经济。",
-      "view": "对FMCG行业而言，包装可持续性成为消费者关注点，此技术进展提示品牌需关注上游材料创新，并评估其对产品感官属性（如阻隔性、触感）的潜在影响，为包装优化提供新方向。",
-      "action": "建议CMI团队追踪化学回收包装的商业化案例，开展消费者对再生材料包装的接受度测试，并联合研发部门评估其对产品新鲜度等感官指标的影响。",
-      "origin": "Packaging Insights"
-    },
-    {
-      "title": "Beverages",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/news/category/beverages.html",
-      "topic": "食品饮料",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-09-01",
-      "core": "该洞察为食品饮料行业的行业新闻订阅与资讯汇总，未提供具体产品、技术或市场数据，仅表明行业信息更新动态。",
-      "view": "作为FMCG感官研究顾问，此类泛行业资讯缺乏可执行细节，但提示需持续追踪包装创新、消费者偏好等趋势信号。CMI应警惕信息噪音，聚焦高价值内容，避免资源浪费在非结构化信息上。",
-      "action": "建议建立行业资讯筛选机制，定期扫描包装、成分、感官宣称等关键词，提取与电子烟/雾化相关的跨界启示，并转化为内部研究假设或测试方向。",
-      "origin": "Packaging Insights"
     },
     {
       "title": "Paper, cardboard recycling rates were flat in 2025: AF&PA",
@@ -1895,7 +2255,7 @@
     },
     {
       "title": "Trends",
-      "source": "Innova ����",
+      "source": "Innova 趋势",
       "link": "https://www.innovamarketinsights.com/trends-hub",
       "topic": "行业洞察",
       "cat": "",
@@ -1906,7 +2266,7 @@
       "core": "Innova平台强调基于稳健市场洞察进行最佳决策，其核心价值在于整合多维数据，赋能企业精准把握趋势。这提示行业需以系统化洞察为基础，驱动战略选择与创新方向。",
       "view": "对FMCG感官研究与CMI而言，这意味着感官测试与消费者洞察需从碎片化走向平台化整合，将感官数据与市场趋势、消费场景关联，提升预测效度。CMI应扮演趋势翻译者角色，将宏观信号转化为可执行的感官研发语言，避免闭门造车。",
       "action": "建议建立内部趋势雷达机制，定期扫描Innova等平台报告，提炼与感官相关的信号（如风味、质地、健康化），并组织跨部门工作坊，将趋势转化为感官测试假设，优先验证高潜力概念。",
-      "origin": "Innova ����"
+      "origin": "Innova 趋势"
     },
     {
       "title": "GPI hit with 2nd securities lawsuit from shareholders",
@@ -2015,7 +2375,7 @@
     },
     {
       "title": "Explore Regions",
-      "source": "Innova ����",
+      "source": "Innova 趋势",
       "link": "https://www.innovamarketinsights.com/regions",
       "topic": "市场洞察",
       "cat": "",
@@ -2026,11 +2386,11 @@
       "core": "该洞察介绍Innova市场洞察平台，强调其基于稳健市场数据支持决策的能力，覆盖全球多区域，旨在帮助用户获取全面市场信息以优化商业策略。",
       "view": "对FMCG感官研究而言，跨区域市场洞察是产品本地化与全球化平衡的关键。Innova平台提示CMI需整合多源数据，超越单一感官测试，结合消费者偏好与区域差异，以提升产品适配性和市场竞争力。",
       "action": "建议CMI团队评估Innova平台数据覆盖度，试点用于感官测试的消费者细分分析，并对比内部数据验证其价值，以优化区域产品开发决策流程。",
-      "origin": "Innova ����"
+      "origin": "Innova 趋势"
     },
     {
       "title": "Reports",
-      "source": "Innova ����",
+      "source": "Innova 趋势",
       "link": "https://www.innovamarketinsights.com/reports-hub",
       "topic": "市场洞察",
       "cat": "",
@@ -2041,11 +2401,11 @@
       "core": "Innova平台强调基于稳健市场洞察支持最优决策，提供全面市场数据与趋势分析，助力企业在复杂市场中把握方向。",
       "view": "对FMCG感官研究/CMI而言，意味着决策应更依赖系统化数据而非直觉。平台可整合消费者感官反馈与市场趋势，提升洞察的可靠性和前瞻性，为产品创新和营销策略提供实证基础。",
       "action": "建议CMI团队评估并引入类似Innova的整合数据平台，将感官研究与市场数据打通，建立定期洞察回顾机制，以数据驱动优化产品开发和市场进入策略。",
-      "origin": "Innova ����"
+      "origin": "Innova 趋势"
     },
     {
       "title": "Webinars",
-      "source": "Innova ����",
+      "source": "Innova 趋势",
       "link": "https://www.innovamarketinsights.com/webinars-hub",
       "topic": "市场洞察",
       "cat": "",
@@ -2056,7 +2416,7 @@
       "core": "Innova平台通过提供稳健的市场洞察，赋能企业做出最佳决策。该洞察强调数据驱动决策的重要性，尤其是在快消品领域，市场洞察的准确性和全面性直接影响战略制定与执行效果。",
       "view": "对FMCG感官研究/CMI而言，市场洞察不仅是数据收集，更是将消费者感知、偏好与市场趋势结合的系统工程。Innova平台的价值在于整合多源数据，帮助研究人员从感官体验出发，预测市场接受度，从而优化产品开发与定位。",
       "action": "建议企业评估自身市场洞察能力，探索引入类似Innova的集成平台，强化数据清洗与分析流程。同时，将感官研究与市场数据联动，建立跨部门协作机制，确保洞察结果直接转化为产品创新与营销策略。",
-      "origin": "Innova ����"
+      "origin": "Innova 趋势"
     },
     {
       "title": "California EPR lawsuit escalates as forthcoming Oregon ruling looms",
@@ -2195,7 +2555,7 @@
     },
     {
       "title": "AI at NIQ",
-      "source": "���ɭIQ",
+      "source": "尼尔森IQ",
       "link": "https://nielseniq.com/global/en/hubs/artificial-intelligence/",
       "topic": "市场洞察",
       "cat": "",
@@ -2206,7 +2566,7 @@
       "core": "NIQ（尼尔森IQ）官网首页介绍其AI解决方案、行业洞察、合作伙伴网络及职业机会，强调AI在快消品数据服务中的核心地位。",
       "view": "对FMCG感官研究/CMI而言，NIQ将AI融入数据产品和服务，意味着行业正从传统调查向AI驱动的实时、多源数据整合转型。感官研究可借力AI提升消费者洞察的深度和效率，但需警惕过度依赖算法而忽视真实感官体验的复杂性。",
       "action": "建议CMI团队评估现有感官研究流程，探索引入AI工具进行数据清洗、模式识别和预测建模，同时保留人工感官测试作为验证基准，确保AI应用不偏离真实消费者感受。",
-      "origin": "���ɭIQ"
+      "origin": "尼尔森IQ"
     },
     {
       "title": "Policy & regulation",
@@ -2222,366 +2582,6 @@
       "view": "作为FMCG感官研究顾问，政策与监管动态常直接影响产品合规性、成分使用及包装要求，进而影响感官属性（如口味、香气、触感）。CMI需保持对政策变化的敏感度，及时调整研究框架，确保产品创新在合规前提下满足消费者感官期待。",
       "action": "建议持续关注Packaging Insights等渠道，获取具体政策更新；同时建立内部政策追踪机制，评估潜在影响，并提前规划应对策略，确保感官研究项目与合规要求同步。当前摘要信息有限，需进一步获取详细内容。",
       "origin": "Packaging Insights"
-    },
-    {
-      "title": "Research & science",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/research-and-science.html",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-08-11",
-      "core": "该资讯来自Packaging Insights，主题为‘Research & science’，内容主要是行业新闻和通讯订阅信息，未提供具体研究或科学发现。",
-      "view": "作为FMCG感官研究顾问，此类资讯源提示我们需持续关注包装领域的科研动态，但当前信息缺乏实质内容，无法提取可执行洞察。建议将此类订阅作为信息收集渠道，而非决策依据。",
-      "action": "建议定期筛选此类行业资讯源，结合其他专业数据库，建立系统化的信息追踪机制，确保获取有价值的研究成果，避免被无效信息干扰。",
-      "origin": "Packaging Insights"
-    },
-    {
-      "title": "SIG and Mengniu Dairy advance carton recycling in China",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/news/sig-mengniu-carton-recycling-china.html",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-08-17",
-      "core": "SIG与蒙牛乳业在中国推进纸盒包装回收，聚焦可持续包装闭环。此举反映快消巨头在环保合规与消费者ESG诉求下的供应链协同，旨在提升回收率并强化品牌绿色形象。",
-      "view": "对FMCG感官研究而言，包装可持续性正成为影响消费者触觉与视觉感知的新维度，纸盒材质触感、印刷环保性可能改变开箱体验。CMI需将ESG属性纳入感官测试变量，评估环保包装对口感预期及品牌好感度的连带效应，避免生态诉求与感官体验脱节。",
-      "action": "建议开展消费者联合测试，对比纸盒与现有包装在触觉、视觉及口感预期上的差异，并监测回收标识对购买意愿的影响。同时，跟踪竞品在环保包装的感官策略，为包装迭代提供数据支持。",
-      "origin": "Packaging Insights"
-    },
-    {
-      "title": "US Plastics Pact removes transport EPS from ‘problematic’ list",
-      "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/us-plastics-pact-expanded-polystyrene-remove-list-problematic-materials/828223/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/xifkGb92KSRnws6pcZ3AwJ3jIWA5han7l4Ii37DUJUM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-19",
-      "core": "美国塑料公约将运输用EPS从‘有问题’材料清单中移除，反映其在特定场景下被重新评估为可接受或可管理的材料，尽管整体上EPS仍面临环保压力。",
-      "view": "对FMCG感官研究而言，包装材料的可持续性标签影响消费者感知与购买决策。此变化提示CMI需追踪行业标准动态，区分不同应用场景的环保认知，避免一刀切结论，从而精准指导产品包装策略与感官体验设计。",
-      "action": "建议CMI团队更新包装可持续性知识库，针对运输用EPS进行专项消费者认知调研，评估其感官接受度与环保形象，并据此调整包装创新方向或沟通话术。",
-      "origin": "Packaging Dive"
-    },
-    {
-      "title": "Anchor Glass to close Georgia site, affecting 168 workers",
-      "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/anchor-glass-permanent-closure-warner-robins-georgia/828221/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/-_e6py5xpdftJJeCB2IJpKv5xFCtf8SvxEKthr5_Mvg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-19",
-      "core": "Anchor Glass宣布关闭其位于佐治亚州的工厂，影响168名员工。该决策反映了玻璃包装行业面临的成本压力和市场结构调整，可能影响供应链布局。",
-      "view": "对FMCG感官研究而言，玻璃包装的供应变化可能影响产品触感、重量和视觉感知，进而影响消费者体验。CMI需关注包装材料替代对品牌感知的影响，尤其在高端或环保定位产品中。",
-      "action": "建议CMI团队评估玻璃包装替代方案（如轻量化玻璃或高端塑料）的感官表现，通过消费者测试验证对品牌形象和购买意愿的影响，并调整包装策略以保持一致性。",
-      "origin": "Packaging Dive"
-    },
-    {
-      "title": "Nearly 60 members of Congress call for aluminum pricing investigation",
-      "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/house-representatives-commerce-investigation-aluminum-pricing-midwest-premium/828161/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/1HrnQYsng_5l5RW5zhq-ETvbR3v9Tn1aGHv-5WoTyq0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-19",
-      "core": "近60名美国国会议员联名呼吁对铝价展开调查，聚焦铝材市场定价机制与潜在操纵行为，反映政策层对原材料成本压力的关注。该事件可能影响铝制品供应链成本预期，涉及包装、电子烟等依赖铝材的行业。",
-      "view": "对FMCG感官研究而言，铝价波动直接影响产品包装成本与结构设计，可能迫使企业调整包装材料或规格，进而改变消费者触感、重量感知等感官体验。CMI需关注成本传导对定价策略和消费者接受度的影响，预判行业供应链调整趋势。",
-      "action": "建议CMI团队监测铝价走势及政策进展，评估对包装成本的潜在影响；同时开展消费者对包装变化的感官耐受性测试，为材料替代或设计调整提供数据支持，并提前规划供应链风险预案。",
-      "origin": "Packaging Dive"
-    },
-    {
-      "title": "Zevia activist investor calls for sale of better-for-you soda brand",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/zevia-activist-investor-pressure-to-sell/828316/",
-      "topic": "品牌营销",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Kanen Wealth Management says the company has missed out on \"the category It helped create.\"",
-      "date": "2026-08-19",
-      "core": "激进投资者Kanen Wealth Management呼吁Zevia出售其better-for-you汽水品牌，认为公司错失了其开创的品类增长机会。",
-      "view": "对FMCG感官研究/CMI而言，Zevia的困境凸显了品类创新者必须持续迭代感官体验（如甜味剂口感、气泡感）以维持差异化。CMI需监测消费者对健康与口感平衡的偏好变化，避免被更敏捷的竞品抢占心智。",
-      "action": "建议品牌开展感官偏好追踪研究，特别聚焦低糖/无糖产品的味觉接受度；同时评估品类增长潜力，考虑通过产品线延伸或合作强化市场地位，而非被动等待出售。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "JBS makes bid for remainder of Pilgrim’s Pride",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/jbs-bid-pilgrims-pride-ownership-chicken/828265/",
-      "topic": "消费电子",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/PAPHCqxQZb8zo3CFYnZFnQ_dDK8mYgHAeOcqntgqWTE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-19",
-      "core": "JBS提出收购Pilgrim's Pride剩余股份，显示其在肉类加工领域的整合意图，可能重塑供应链格局。",
-      "view": "对FMCG感官研究而言，供应链整合影响产品一致性和品质控制。CMI需关注并购后产品配方或原料变化对消费者感知的影响，提前布局感官测试。",
-      "action": "建议监测并购进展，评估供应链变动风险，启动消费者感官追踪，确保产品体验稳定，并探索潜在的产品创新机会。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "Where SNAP participation has fallen the most",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/where-snap-participation-declined-april-2026/828243/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/WX3DVzTF_eEMlBHvs_pwtqM_5M3zvqMWOqlFt3mb0Y8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-19",
-      "core": "美国SNAP（补充营养援助计划）参与人数在不同地区出现显著下降，部分地区降幅尤为突出。这一趋势反映了经济复苏、就业改善及政策调整对低收入群体食品消费结构的影响。",
-      "view": "对FMCG感官研究而言，SNAP参与下降意味着低收入消费者购买力变化，可能影响其品牌选择与品类偏好。CMI需关注此类人群的消费降级或替代行为，调整产品定位与价格策略，尤其针对食品饮料品类。",
-      "action": "建议CMI团队监测SNAP下降地区的零售数据与消费者调研，分析低收入群体的购买行为变化，并针对性地调整产品组合与促销策略，以捕捉市场机会。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "Asahi shifts all soft drink plastic bottles to fully recycled material",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/19/asahi-shifts-all-soft-drink-plastic-bottles-to-100-per-cent-recycled-material/",
-      "topic": "食品饮料",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "The change applies to the company's full line of soft drinks, including established market brands such as Schweppes, Solo, and Pepsi Max. The post Asahi shifts",
-      "date": "2026-08-19",
-      "core": "朝日将其全线软饮料塑料瓶切换为100%再生材料，覆盖Schweppes、Solo及Pepsi Max等主力品牌，推动包装可持续转型。",
-      "view": "此举措反映可持续包装从差异化卖点变为行业基础门槛。对CMI而言，需监测消费者对再生材料瓶的感官接受度（如气味、口感迁移）及品牌形象关联，避免环保叙事与感官体验脱节。",
-      "action": "建议开展再生PET瓶对饮料风味影响的感官盲测，并追踪消费者对环保包装的支付意愿与品牌忠诚度变化，为产品包装升级提供数据支撑。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "Daniel’s Donuts and Heinz Beanz come together for Aussie breakfast pie",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/19/daniels-donuts-and-heinz-beanz-come-together-for-aussie-breakfast-pie/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "The partnership reflects the company’s approach of putting a fresh spin on familiar flavours. The post Daniel’s Donuts and Heinz Beanz come together for Aussie",
-      "date": "2026-08-19",
-      "core": "Daniel's Donuts与Heinz Beanz合作推出澳洲风味早餐派，将经典甜甜圈与 baked beans 结合，为消费者提供熟悉口味的新颖组合，体现品牌通过跨界合作创新产品。",
-      "view": "此合作凸显快消品行业通过跨品类融合创造新奇感官体验的趋势。对感官研究而言，需关注咸甜风味搭配的接受度及质构对比（酥皮与豆馅）带来的多感官愉悦。CMI应借此案例，探索消费者对传统早餐的情感联结，并评估创新组合在口味、怀旧感及健康感知上的平衡。",
-      "action": "建议开展消费者测试，评估咸甜风味组合的喜好度及购买意愿，尤其针对早餐场景。同时，利用社交媒体监测消费者对合作的反响，提取口味描述词，指导未来产品创新。考虑与类似品牌合作，测试跨品类融合的潜力。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "Coles and Woolworths enter retail’s facial recognition minefield",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/19/coles-and-woolworths-enter-retails-facial-recognition-minefield/",
-      "topic": "零售渠道",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "From “pay with a smile” terminals to in-store cameras, Australian retail is quietly building a biometric future. The post Coles and Woolworths enter retail’s fa",
-      "date": "2026-08-19",
-      "core": "澳大利亚零售巨头Coles和Woolworths正通过“微笑支付”终端和店内摄像头，悄然推进生物识别技术的应用，构建零售业的生物识别未来。",
-      "view": "对FMCG感官研究而言，生物识别支付和监控系统提供了前所未有的消费者行为数据，如情绪、注意力等，但需警惕隐私合规风险。CMI应关注技术带来的新数据源，同时平衡消费者信任。",
-      "action": "建议FMCG企业开展小规模试点，利用生物识别数据优化店内体验和产品陈列，同时与法律团队合作确保合规，并监测消费者接受度。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "Polymateria tech enables “full” biodegradation of PE and PP packaging",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/news/polymateria-pe-pp-biodegradation-tech.html",
-      "topic": "包装趋势",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-08-13",
-      "core": "Polymateria技术宣称可使聚乙烯（PE）和聚丙烯（PP）包装实现“完全”生物降解，这突破了传统塑料难降解的瓶颈，为快消品包装环保化提供新方案。",
-      "view": "对FMCG而言，包装降解性正成为消费者感官体验的一部分，影响品牌环保形象与购买决策。CMI需关注该技术在实际应用中的降解速度、条件及感官表现，避免“漂绿”风险，同时把握可持续包装的差异化机会。",
-      "action": "建议开展消费者对生物降解包装的感知测试，评估其触感、外观及环保宣称的可信度。同时，与Polymateria等供应商接洽，小批量试制样品，进行货架期与降解性能的联合验证，为后续包装升级储备数据。",
-      "origin": "Packaging Insights"
-    },
-    {
-      "title": "Metsä pivots from textile fibers to food packaging as market conditions reshape strategy",
-      "source": "Packaging Insights",
-      "link": "https://www.packaginginsights.com/news/metsa-pivots-textiles-fiber-food-packaging.html",
-      "topic": "包装趋势",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Newsletter subscriptionIndustry newsIndustry news",
-      "date": "2026-08-12",
-      "core": "芬兰林业公司Metsä因市场条件变化，从纺织纤维业务转向食品包装领域，调整战略以适应新需求。",
-      "view": "此转型反映快消品行业对可持续包装的需求增长，感官研究应关注新材料对食品口感、气味及保鲜的影响，CMI需评估消费者对环保包装的接受度。",
-      "action": "建议开展消费者对食品包装材质的感官偏好测试，同时监测市场对Metsä新包装的反馈，以指导产品开发与营销策略。",
-      "origin": "Packaging Insights"
-    },
-    {
-      "title": "Packaging companies target Southeast for latest expansions",
-      "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/packaging-company-expansions-drc-tricorbraun-ufp-vert-wyda/827987/",
-      "topic": "包装趋势",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/4gUi_p1GzGCN_Ghxl4orMRGtVajM05LF9XD62AU5cwE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-17",
-      "core": "包装公司正将最新扩建项目瞄准美国东南部地区，以贴近客户、降低物流成本并应对区域需求增长。此举反映包装行业在地域布局上的战略调整，旨在提升供应链效率和市场响应速度。",
-      "view": "对FMCG行业而言，包装供应商的区域化布局将影响产品包装的供应稳定性与成本结构。感官研究需关注不同区域包装材料的可获得性及质量一致性，CMI可借此洞察区域市场对包装偏好差异，为产品本地化策略提供依据。",
-      "action": "建议CMI团队调研东南部包装产能变化对供应链的影响，评估包装材料感官属性（如触感、开启便利性）的区域差异，并更新消费者包装偏好数据，以支持未来产品上市和包装优化决策。",
-      "origin": "Packaging Dive"
-    },
-    {
-      "title": "California compostables bills, opposed by BPI, won’t advance",
-      "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/california-compostables-plastics-bills-bpi/827988/",
-      "topic": "消费电子",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/Io3jAbTdu9KAl6D1aa3C5FZjbbRr2E0iXIjTEw6-D8g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-17",
-      "core": "加州两项与可堆肥材料相关的法案因遭到BPI（生物降解产品研究所）反对而未获推进。此举反映出可堆肥包装在立法层面面临标准争议，行业对‘可堆肥’定义及认证体系存在分歧。",
-      "view": "对FMCG感官研究而言，可堆肥包装的法律不确定性将影响产品包装的触感、质地及消费者感知。CMI需关注消费者对环保包装的期望与法规落地之间的落差，避免因包装合规问题损害品牌感官体验。",
-      "action": "建议企业密切跟踪加州及联邦可堆肥标准动态，开展包装材料的感官测试，评估不同合规方案对消费者接受度的影响，并提前储备备选包装方案以应对政策风险。",
-      "origin": "Packaging Dive"
-    },
-    {
-      "title": "Kraft Heinz focuses innovation to address ‘unmet’ consumer diet needs",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/",
-      "topic": "市场洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/mTNx4W0SOkJvFeqKR915VHaN-bu4G9DDex19Jxul34Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-17",
-      "core": "卡夫亨氏宣布将创新重点转向解决消费者未被满足的膳食需求，强调以消费者需求为导向的产品开发，而非单纯追求口味或便利性。",
-      "view": "这反映了快消巨头从产品驱动转向需求驱动的研发范式，感官研究需从孤立属性测试升级为对整体饮食场景和健康诉求的洞察，CMI需建立更细分的消费者需求图谱，以指导产品创新和感官优化。",
-      "action": "建议开展消费者膳食需求细分研究，识别未被满足的痛点领域；将感官测试与需求场景绑定，设计更贴近实际消费情境的评估方法；并建立跨部门协作机制，确保洞察快速转化为产品概念。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "PepsiCo reports increase in recycled content for plastic packaging",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/pepsico-packaging-plastic-reduction-recycling-report/827927/",
-      "topic": "包装趋势",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "<img src=\"https://imgproxy.divecdn.com/VupOMfvAVLJbU17Iq0LgXb2RQQ2R4B0MRWsIJ3FtIDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFn",
-      "date": "2026-08-17",
-      "core": "百事公司宣布其塑料包装中再生材料含量提升，体现其在可持续发展方面的进展。该举措响应环保趋势，可能影响包装成本与消费者感知。",
-      "view": "对FMCG感官研究而言，包装材质变化可能影响触觉、视觉等感官体验，需重新评估消费者对再生材料的接受度。CMI应关注可持续宣称对购买决策的驱动作用，并监测竞品动向。",
-      "action": "建议开展包装感官测试，对比再生与原生材料的消费者偏好。同时，通过调研量化环保属性在购买中的权重，为包装策略提供数据支持。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "Things to know before you grow",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/spons/things-to-know-before-you-grow/827641/",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Five overlooked design choices can make or break your facility&rsquo;s future expansion plans.",
-      "date": "2026-08-17",
-      "core": "食品饮料工厂扩建时常忽略五个设计选择，它们可能成就或破坏未来扩展计划。强调前期设计需为增长预留空间，避免后期改造的高昂成本与运营中断。",
-      "view": "对FMCG感官研究/CMI而言，工厂设计影响产品一致性与感官质量稳定性。扩建若忽视流程布局、设备兼容性，可能导致口味、质地等感官属性变异，损害品牌体验。CMI需将感官测试纳入扩建规划，确保规模扩大不牺牲产品感官一致性。",
-      "action": "建议CMI与工程、研发部门协作，在扩建初期开展感官风险评估，模拟不同产能下的产品感官表现。建立关键感官指标监控体系，定期验证扩建后产品与基准样的一致性，及时调整工艺参数。",
-      "origin": "Food Dive"
-    },
-    {
-      "title": "Strikeforce launches StrikeIQ to close the retail ‘insight-to-action’ gap",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/17/strikeforce-launches-strikeiq-to-close-the-retail-insight-to-action-gap/",
-      "topic": "零售渠道",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Unlike static dashboards that require a data analyst to interpret, StrikeIQ is built for the people acting on insights day to day. The post Strikeforce launches",
-      "date": "2026-08-17",
-      "core": "Strikeforce推出StrikeIQ，旨在弥补零售数据洞察到行动之间的鸿沟。该工具面向日常执行者，而非依赖数据分析师解读的静态仪表盘，强调即时可操作性。",
-      "view": "此洞察反映FMCG行业对数据民主化和行动导向的迫切需求。对CMI而言，意味着传统报告模式正被实时、可交互的洞察工具取代，感官研究需更贴近业务决策链，将消费者反馈直接转化为货架、陈列等零售执行动作。",
-      "action": "建议评估现有数据工具，引入或开发类似StrikeIQ的轻量级洞察平台，赋能一线团队。同时，在感官研究中增加零售场景模拟，确保洞察直接关联可执行变量，缩短从消费者认知到货架行动的周期。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "Anzco parent cleared to acquire Greenlea Group",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/17/anzco-parent-cleared-to-acquire-greenlea-group/",
-      "topic": "出海趋势",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Greenlea produces and exports 100 per cent grass-fed beef to more than 40 countries. The post Anzco parent cleared to acquire Greenlea Group appeared first on I",
-      "date": "2026-08-17",
-      "core": "Anzco母公司获批收购Greenlea Group，后者为100%草饲牛肉生产商，出口至40多国。此交易将扩大Anzco在高端草饲牛肉领域的产能与市场覆盖，强化其全球供应链布局。",
-      "view": "对FMCG感官研究者而言，草饲牛肉的感官属性（风味、嫩度、多汁性）与谷饲差异显著，收购后需系统评估产品感官一致性，并利用CMI洞察不同出口市场的口味偏好，以支撑品牌定位与产品创新。",
-      "action": "建议开展草饲牛肉感官剖面研究，对比现有产品线，识别关键风味驱动因子；同时进行目标市场消费者偏好测试，优化产品开发与营销沟通策略，确保收购后的品牌协同效应。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "The lash chop that propelled Xali into an eight-figure beauty business",
-      "source": "Inside FMCG",
-      "link": "https://insidefmcg.com.au/2026/08/17/the-lash-chop-that-propelled-xali-into-an-eight-figure-beauty-business/",
-      "topic": "品牌营销",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Kasey Giarratana turned a startling social experiment, personal illness and a house-selling gamble into one of Australian beauty’s fastest-growing brands. The p",
-      "date": "2026-08-17",
-      "core": "澳大利亚美妆品牌Xali创始人Kasey Giarratana通过大胆的社会实验、个人疾病经历和卖房赌博，成功打造出八位数营收的快速成长品牌。摘要凸显其非传统路径和品牌增长故事。",
-      "view": "此案例对FMCG感官研究/CMI的启示在于：品牌增长可源于创始人个人叙事与消费者情感共鸣，而非仅依赖传统市场调研。感官体验（如产品使用感受）与个人故事结合，能增强品牌差异化，CMI应关注情感驱动因素及非传统增长策略。",
-      "action": "建议CMI团队研究类似成功案例，提炼情感叙事与感官体验的关联模型，并探索在自身品牌中融入创始人故事或用户真实体验，以增强产品感官吸引力和市场差异化。",
-      "origin": "Inside FMCG"
-    },
-    {
-      "title": "Careers",
-      "source": "���ɭIQ",
-      "link": "https://nielseniq.com/global/en/careers/",
-      "topic": "市场洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Solutions Industries Partner Network Insights AI at NIQ Careers About Choose Language Select your preferred language",
-      "date": "2026-07-06",
-      "core": "NIQ官网职业页面，展示其行业解决方案、合作伙伴网络、洞察及AI能力，并支持多语言选择，旨在吸引人才并强化全球市场研究服务品牌形象。",
-      "view": "对FMCG感官研究/CMI而言，NIQ的AI投入与多语言布局反映行业趋势：数据整合与智能化分析成为核心。CMI需关注此类工具在感官测试中的应用，如自动情感分析、跨市场口味偏好建模，以提升研究效率与全球化洞察能力。",
-      "action": "建议CMI团队评估引入AI辅助的感官数据分析工具，并建立多市场消费者偏好数据库，同时关注NIQ等机构的方法论更新，以优化产品测试设计与全球上市策略。",
-      "origin": "���ɭIQ"
-    },
-    {
-      "title": "About",
-      "source": "���ɭIQ",
-      "link": "https://nielseniq.com/global/en/about-us/",
-      "topic": "市场洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "Solutions Industries Partner Network Insights AI at NIQ Careers About Choose Language Select your preferred language",
-      "date": "2026-07-06",
-      "core": "NIQ官网首页信息，介绍其提供解决方案、行业覆盖、合作伙伴网络、洞察、AI能力及职业发展等内容，并支持多语言选择。",
-      "view": "作为全球领先的消费者洞察公司，NIQ强调AI与行业解决方案结合，反映FMCG市场研究正从传统数据收集转向智能化、定制化洞察。对感官研究而言，AI可加速数据分析，但需确保感官测试的标准化与消费者真实反馈的捕捉。",
-      "action": "关注NIQ在AI驱动的消费者洞察工具，评估其能否补充现有感官研究流程。同时，探索与NIQ合作，利用其行业网络获取多市场感官偏好数据，优化产品开发。",
-      "origin": "���ɭIQ"
-    },
-    {
-      "title": "贝恩观点",
-      "source": "������ѯ���۵�",
-      "link": "https://www.bain.cn/new_list.php",
-      "topic": "行业洞察",
-      "cat": "",
-      "dimension": "",
-      "region": "",
-      "summary": "贝恩公司为全世界各行各业的客户提供咨询服务。我们拥有丰富的全球战略思想和对全球及本地市场的深刻洞见。我们的专家积极而广泛地将其行业见解与管理思想以及贝恩观点文章（Bain Briefs）、贝恩简讯（Newsletters）、管理书籍及署名文章等形式与更多的管理者分享。",
-      "date": "2026-07-19",
-      "core": "贝恩公司作为全球咨询机构，强调其跨行业咨询服务能力，注重将全球战略思想与本地市场洞察结合，并通过多种形式（如简报、书籍）分享管理洞见，以赋能管理者决策。",
-      "view": "对FMCG感官研究而言，贝恩观点提示我们需将感官数据与战略框架结合，避免孤立分析。CMI应借鉴其全球-本地整合视角，将消费者感官体验置于市场动态中解读，提升洞察的战略相关性。",
-      "action": "建议CMI团队定期引入外部咨询思想（如贝恩简报），对标其分析框架，强化感官研究的商业转化力。可组织内部分享会，提炼适用于快消品感官测试的战略假设，指导后续研究设计。",
-      "origin": "������ѯ���۵�"
     }
   ],
   "readings": [
@@ -2597,7 +2597,7 @@
       "body": [
         "<p><u>Today</u>, Explained <u>newsletter</u> Can we <u>afford</u> Iran? As the war <u>drags</u> on, it <u>risks</u> <u>eroding</u> America’s <u>ability</u> to <u>respond</u> to other <u>conflicts</u>. by Caitlin Dewey Aug 31, 2026, 9:05 PM UTC Gift A Patriot <u>missile</u> is <u>launched</u> as part of the Patriot Air Defense System at White Sands <u>Missile</u> Range in New Mexico. Corbis via Getty Images Caitlin Dewey is a <u>senior</u> <u>writer</u> and <u>editor</u> at Vox, <u>where</u> she <u>helms</u> the <u>Today</u>, Explained <u>newsletter</u>. This story <u>appeared</u> in <u>Today</u>, Explained, a <u>daily</u> <u>newsletter</u> that <u>helps</u> you <u>understand</u> the most <u>compelling</u> news and <u>stories</u> of the day. Subscribe here . <u>President</u> Donald Trump’s on-<u>again</u>, off-<u>again</u> war with Iran is <u>officially</u> on <u>again</u>. (So <u>recursive</u> is this never-ending <u>conflict</u>, in fact, that I had to <u>search</u> my <u>inbox</u> to <u>confirm</u> I hadn’t <u>already</u> <u>written</u> that <u>sentence</u>!) On Sunday, the US <u>attacked</u> <u>rocket</u> <u>launchers</u> Sunday on Iran’s Larak Island, <u>claiming</u> the <u>strikes</u> were <u>necessary</u> to <u>prevent</u> Iran from <u>laying</u> <u>mines</u> that could once <u>again</u> <u>disrupt</u> <u>shipping</u> <u>through</u> the Strait of Hormuz. Iran, <u>meanwhile</u>, <u>responded</u> by <u>firing</u> a <u>volley</u> of <u>ballistic</u> <u>missiles</u> at US <u>sites</u> in the United Arab Emirates and Jordan, <u>where</u> they were <u>reportedly</u> <u>intercepted</u>. <u>Email</u> (<u>required</u>) Sign Up By <u>submitting</u> your <u>email</u>, you <u>agree</u> to our Terms and Privacy Notice . This site is <u>protected</u> by <u>reCAPTCHA</u> and the Google Privacy Policy and Terms of Service <u>apply</u>. The <u>latest</u> <u>skirmish</u> <u>comes</u> after a month of <u>relative</u> peace and quiet, and six <u>months</u> after the war <u>began</u>. You’ll <u>recall</u> that Trump <u>initially</u> said it would last four to five <u>weeks</u> at the very <u>longest</u>. But in the <u>grand</u> <u>scheme</u> of Trump’s Iran <u>fictions</u>, that <u>optimistic</u> <u>timeline</u> isn’t even the most <u>flagrant</u>. On Sunday night, the <u>president</u> also <u>posted</u> a <u>video</u> that <u>purportedly</u> <u>showed</u> Kharg Island, a <u>central</u> hub of Iran’s oil <u>industry</u>, “being <u>blown</u> to <u>smithereens</u>!!!” The <u>video</u> was, in fact, AI-generated . The <u>persistence</u> of the war in Iran isn’t <u>merely</u> <u>exhausting</u> for <u>those</u> of us <u>following</u> <u>along</u> at home. As a group of high-ranking <u>military</u> <u>commanders</u> <u>recently</u> <u>warned</u> the Pentagon, the drawn-out <u>conflict</u> could also make America less safe by <u>limiting</u> the <u>military</u>’s <u>ability</u> to <u>respond</u> to <u>threats</u> in other <u>parts</u> of the world. That <u>unusual</u> <u>warning</u> — first <u>reported</u> over the <u>weekend</u> by the Washington Post — <u>suggested</u> that the war in Iran is <u>tying</u> up <u>ships</u> and <u>surveillance</u> <u>planes</u> that the US <u>needs</u> <u>elsewhere</u>. Several top <u>military</u> <u>leaders</u> <u>explicitly</u> <u>warned</u> that the war had <u>forced</u> them to give up <u>resources</u> they <u>needed</u> to <u>protect</u> the US <u>itself</u>. That’s not the only risk of the <u>ongoing</u> <u>conflict</u>, <u>either</u>. Longer <u>deployments</u> have also <u>eroded</u> <u>troop</u> <u>morale</u> and <u>disrupted</u> ship <u>maintenance</u> . And as the war <u>drags</u> on, the US is <u>burning</u> <u>through</u> its <u>stockpiles</u> of <u>advanced</u> <u>missiles</u> , at a cost of many <u>billions</u> of <u>dollars</u>. None of this <u>means</u> we’re <u>defenseless</u>, of <u>course</u>. But the war in Iran is <u>taking</u> up a lot of <u>bandwidth</u>. And should <u>another</u> <u>conflict</u> <u>break</u> out <u>anywhere</u> else on earth…the US and its <u>allies</u> could feel it. One <u>general</u> <u>warned</u> the Pentagon that, <u>without</u> more <u>resources</u>, he could be <u>forced</u> to <u>choose</u> <u>between</u> <u>protecting</u> Israel and the US from <u>ballistic</u> <u>missile</u> <u>attacks</u>. And the Navy just <u>moved</u> its only <u>dedicated</u> <u>aircraft</u> <u>carrier</u> in the Pacific to the <u>waters</u> near Iran. “We are really <u>robbing</u> Peter to pay Paul,” one <u>military</u> <u>expert</u> told Vox in late February, even <u>before</u> we had any idea how long the war would last. ➨ Ditch the <u>doorbell</u> <u>camera</u>. More than 62 <u>percent</u> of <u>respondents</u> in a <u>recent</u> US News <u>survey</u> said they had an <u>outdoor</u> <u>security</u> <u>camera</u> at home. But there’s not much <u>evidence</u> that <u>those</u> <u>cameras</u> <u>reduce</u> <u>crime</u> — and they can <u>damage</u> your <u>relationship</u> with your <u>neighbors</u> . Did you know …that the <u>known</u> world <u>basically</u> <u>ended</u> <u>around</u> 1200 BCE ? A number of <u>sophisticated</u> <u>civilizations</u> <u>collapsed</u> at the same time, probably due to some <u>combination</u> of <u>prolonged</u> <u>drought</u>, <u>earthquakes</u>, <u>migration</u>, war and <u>political</u> <u>instability</u>. <u>Today</u>’s <u>trivia</u>: What was the name of Japan’s <u>capital</u> city <u>before</u> it was <u>renamed</u> Tokyo? (You can find this and other <u>brain</u> <u>puzzles</u> in Vox’s <u>daily</u> <u>crossword</u> . Look for the <u>answer</u> in <u>tomorrow</u>’s <u>edition</u>.) Yesterday’s <u>trivia</u>: Last week we <u>asked</u> you for the name of the <u>athletic</u> <u>conference</u> <u>where</u> Georgia Tech <u>competes</u>. That would be the ACC, or Atlantic Coast <u>Conference</u>, which <u>confusingly</u> <u>includes</u> a number of <u>schools</u> in the West and Midwest. See More : Donald Trump Iran Politics <u>Today</u>, Explained <u>newsletter</u> World Politics One of the Supreme Court’s <u>worst</u> <u>ideas</u> could save the <u>midterms</u> from Trump Take a <u>mental</u> <u>break</u> with the <u>newest</u> Vox <u>crossword</u> Can you <u>spend</u> your way out of <u>loneliness</u>? The Supreme Court just gave Trump his <u>illegal</u> <u>ballroom</u> The “<u>super</u> <u>influencers</u>” <u>powering</u> the post-Trump right <u>Email</u> (<u>required</u>) Sign Up By <u>submitting</u> your <u>email</u>, you <u>agree</u> to our Terms and Privacy Notice . This site is <u>protected</u> by <u>reCAPTCHA</u> and the Google Privacy Policy and Terms of Service <u>apply</u>. Advertiser Content From This is the <u>title</u> for the <u>native</u> ad</p>"
       ],
-      "cn": "##段落\n\n《今日解说》通讯：我们负担得起对伊朗的战争吗？随着战事拖延，它可能削弱美国应对其他冲突的能力。作者：凯特琳·杜威，2026年8月31日，晚上9:05 UTC 礼品 一枚爱国者导弹作为爱国者防空系统的一部分在新墨西哥州白沙导弹靶场发射。Corbis via Getty Images 凯特琳·杜威是Vox的高级撰稿人和编辑，负责《今日解说》通讯。本文曾发表于《今日解说》，这是一份每日通讯，帮助你理解当天最引人注目的新闻和故事。在此订阅。唐纳德·特朗普总统与伊朗之间时断时续的战争正式重新开打。（事实上，这场无休止的冲突如此循环往复，以至于我不得不翻查收件箱，确认我还没有写过这句话！）周日，美国袭击了伊朗拉拉克岛上的火箭发射器，声称这些打击对于防止伊朗布设水雷、再次扰乱霍尔木兹海峡航运是必要的。与此同时，伊朗向美国在阿联酋和约旦的基地发射了一连串弹道导弹，据报道这些导弹均被拦截。电子邮件（必填）注册 提交您的电子邮件即表示您同意我们的条款和隐私声明。本网站受reCAPTCHA保护，并适用谷歌隐私政策和服务条款。最新这次小规模冲突发生在一个相对平静的月份之后，也是战争爆发六个月之后。您可能记得，特朗普最初表示这场战争最多持续四到五周。但在特朗普关于伊朗的种种虚构叙事中，这个乐观的时间表甚至还不是最离谱的。周日晚间，总统还发布了一段视频，据称展示了伊朗石油工业核心枢纽哈尔克岛“被炸成碎片！！！”事实上，该视频是人工智能生成的。伊朗战争的持续不仅让在国内关注局势的我们感到疲惫。正如一群高级军事指挥官最近向五角大楼警告的那样，这场旷日持久的冲突还可能通过限制军方应对世界其他地区威胁的能力，使美国变得更不安全。这一不同寻常的警告——上周末由《华盛顿邮报》首次报道——表明伊朗战争牵制了美国在其他地区所需的舰船和侦察机。几位高级军事领导人明确警告说，这场战争迫使他们放弃了保卫美国本土所需的资源。这也不是持续冲突带来的唯一风险。更长的部署时间也削弱了部队士气，并扰乱了舰船维护。随着战事拖延，美国正在消耗其先进导弹的库存，代价高达数十亿美元。这些都不意味着我们毫无防御能力\n\n当然，但伊朗的战争占用了大量资源。如果地球上其他地方再爆发冲突，美国及其盟友可能会感到力不从心。一位将军警告五角大楼，如果没有更多资源，他可能被迫在保护以色列和美国免受弹道导弹袭击之间做出选择。海军刚刚将其在太平洋的唯一专用航空母舰调往伊朗附近水域。“我们真是拆东墙补西墙，”一位军事专家在二月底告诉Vox，那时我们还不知道这场战争会持续多久。➨ 扔掉门铃摄像头。最近一项《美国新闻》调查中，超过62%的受访者表示家里有户外安防摄像头。但没有多少证据表明这些摄像头能减少犯罪——它们还可能损害你与邻居的关系。你知道吗……已知世界大约在公元前1200年基本终结？许多先进文明同时崩溃，可能是长期干旱、地震、迁徙、战争和政治不稳定等因素共同作用的结果。今日冷知识：东京更名前的日本首都叫什么？（你可以在Vox的每日填字游戏中找到这个及其他脑力谜题。答案见明日版。）昨日冷知识：上周我们问你佐治亚理工学院参加的运动联盟名称。答案是ACC，即大西洋海岸联盟，令人困惑的是，其中包括西部和中西部的多所学校。查看更多：唐纳德·特朗普 伊朗政治 今日时事通讯 世界政治 最高法院最糟糕的主意之一可能从特朗普手中拯救中期选举 用最新的Vox填字游戏休息一下 你能用花钱来摆脱孤独吗？ 最高法院刚刚给了特朗普他非法的舞厅 推动后特朗普右翼的“超级影响者” 邮箱（必填）注册 提交你的邮箱即表示你同意我们的条款和隐私声明。本网站受reCAPTCHA保护，并适用谷歌隐私政策和服务条款。广告内容 这是原生广告的标题",
+      "cn": "##段落\n\n《今日解说》通讯：我们负担得起伊朗吗？随着战争拖延，它可能削弱美国应对其他冲突的能力。作者：凯特琳·杜威，2026年8月31日，晚上9:05 UTC 礼品 一枚爱国者导弹作为爱国者防空系统的一部分在新墨西哥州白沙导弹靶场发射。Corbis via Getty Images 凯特琳·杜威是Vox的高级撰稿人和编辑，负责《今日解说》通讯。本文发表于《今日解说》，这是一份每日通讯，帮助你理解当天最引人注目的新闻和故事。在此订阅。\n\n##段落\n\n唐纳德·特朗普总统与伊朗之间时断时续的战争正式再次打响。（事实上，这场无休止的冲突如此反复，以至于我不得不翻查收件箱来确认自己没有写过这句话！）周日，美国袭击了伊朗拉拉克岛上的火箭发射器，声称这些打击是必要的，以防止伊朗布设水雷，从而再次扰乱霍尔木兹海峡的航运。与此同时，伊朗向美国在阿联酋和约旦的基地发射了一连串弹道导弹，据报这些导弹已被拦截。电子邮件（必填） 注册 提交您的电子邮件即表示您同意我们的条款和隐私声明。本网站受reCAPTCHA保护，并适用Google隐私政策和服务条款。\n\n##段落\n\n最新这次小规模冲突发生在一个相对平静的月份之后，也是战争爆发六个月之后。您还记得，特朗普最初表示战争最多只会持续四到五周。但在特朗普关于伊朗的虚构叙事的宏大框架中，这个乐观的时间表甚至不是最离谱的。周日晚上，总统还发布了一段视频，据称显示伊朗石油工业的核心枢纽哈尔克岛“被炸成碎片！！！”事实上，该视频是人工智能生成的。\n\n##段落\n\n伊朗战争的持续不仅让国内关注此事的人们感到疲惫。正如一群高级军事指挥官最近向五角大楼警告的那样，这场拖延的冲突还可能限制军队应对世界其他地区威胁的能力，从而使美国变得更不安全。这一不同寻常的警告——最早在上周末由《华盛顿邮报》报道——表明伊朗战争正在牵制美国在其他地方所需的舰船和侦察机。几位高级军事领导人明确警告说，这场战争迫使他们放弃保护美国自身所需的资源。\n\n##段落\n\n这也不是持续冲突带来的唯一风险。更长的部署时间也削弱了部队士气，并扰乱了舰船维护。随着战争拖延，美国正在消耗其先进导弹的储备，成本高达数十亿美元。这些都不意味着我们毫无防御能力。\n\n当然可以。但伊朗的战争占据了大量关注度。如果地球上其他地方再爆发冲突……美国及其盟友可能会感受到压力。一位将军警告五角大楼，如果没有更多资源，他可能被迫在保护以色列和美国免受弹道导弹攻击之间做出选择。海军刚刚将其在太平洋的唯一专用航空母舰调往伊朗附近水域。“我们真的是拆东墙补西墙，”一位军事专家在二月底告诉Vox，那时我们甚至还不知道战争会持续多久。➨ 丢掉门铃摄像头。最近一项《美国新闻》调查中，超过62%的受访者表示家中装有户外安防摄像头。但没有太多证据表明这些摄像头能减少犯罪——而且它们可能损害你与邻居的关系。你知道吗……已知世界大约在公元前1200年基本终结？许多先进文明同时崩溃，可能是因为长期干旱、地震、迁徙、战争和政治不稳定的某种组合。今日冷知识：日本在改名为东京之前的首都叫什么名字？（你可以在Vox的每日填字游戏中找到这个答案及其他脑筋急转弯。答案见明日版。）昨日冷知识：上周我们问过你佐治亚理工学院参加的体育联盟名称。那就是ACC，即大西洋海岸联盟，奇怪的是它包括了西部和中西部的多所学校。查看更多：唐纳德·特朗普 伊朗政治 今日时事通讯 世界政治 最高法院最糟糕的想法之一可能从特朗普手中拯救中期选举 用最新的Vox填字游戏放松一下脑筋 你能用花钱来摆脱孤独吗？ 最高法院刚给了特朗普他的非法舞厅 “超级影响者”助长后特朗普时代的右翼 邮箱（必填） 注册 提交你的邮箱即表示你同意我们的条款和隐私声明。本网站受reCAPTCHA保护，并适用谷歌隐私政策和服务条款。广告客户内容 这是原生广告的标题",
       "phrases": [
         {
           "en": "on-again, off-again",
@@ -2609,27 +2609,27 @@
         },
         {
           "en": "blown to smithereens",
-          "zh": "炸成碎片，炸得粉碎"
+          "zh": "被炸得粉碎"
         },
         {
-          "en": "tie up",
-          "zh": "占用，牵制（资源或人力）"
+          "en": "drawn-out conflict",
+          "zh": "旷日持久的冲突"
         },
         {
-          "en": "burn through",
-          "zh": "迅速消耗，大量耗费"
+          "en": "tying up",
+          "zh": "占用，牵制（资源）"
         },
         {
-          "en": "take up a lot of bandwidth",
-          "zh": "占用大量精力或资源"
+          "en": "erode troop morale",
+          "zh": "侵蚀部队士气"
         },
         {
-          "en": "rob Peter to pay Paul",
-          "zh": "拆东墙补西墙，顾此失彼"
+          "en": "burning through stockpiles",
+          "zh": "消耗库存"
         },
         {
-          "en": "drag on",
-          "zh": "拖延，持续过久"
+          "en": "robbing Peter to pay Paul",
+          "zh": "拆东墙补西墙"
         }
       ],
       "minutes": 5,
@@ -2790,23 +2790,23 @@
         },
         {
           "w": "onagain",
-          "p": "/ˌɒn əˈɡen/",
+          "p": "/ˈɒnəɡeɪn/",
           "t": "断断续续的",
-          "en": "happening or starting again after stopping",
+          "en": "intermittent; starting and stopping repeatedly",
           "lv": "阅读生词"
         },
         {
           "w": "offagain",
-          "p": "/ˌɒf əˈɡen/",
-          "t": "时断时续的",
-          "en": "stopping and starting intermittently",
+          "p": "/ˈɒfəɡeɪn/",
+          "t": "断断续续的",
+          "en": "intermittent; not continuous",
           "lv": "阅读生词"
         },
         {
           "w": "officially",
           "p": "/əˈfɪʃəli/",
           "t": "正式地；官方地",
-          "en": "in a formal or official manner",
+          "en": "in an official manner; formally",
           "lv": "阅读生词"
         },
         {
@@ -2820,14 +2820,14 @@
           "w": "recursive",
           "p": "/rɪˈkɜːsɪv/",
           "t": "递归的；循环的",
-          "en": "relating to a process that can repeat itself",
+          "en": "characterized by recurrence or repetition, especially in computing",
           "lv": "阅读生词"
         },
         {
           "w": "neverending",
-          "p": "/ˌnevər ˈendɪŋ/",
+          "p": "/ˌnevəˈendɪŋ/",
           "t": "永无止境的",
-          "en": "having no end; endless",
+          "en": "having or seeming to have no end",
           "lv": "阅读生词"
         },
         {
@@ -2897,7 +2897,7 @@
           "w": "launchers",
           "p": "/ˈlɔːntʃəz/",
           "t": "发射器；发射装置",
-          "en": "devices or people that launch something",
+          "en": "devices or systems for launching missiles or rockets",
           "lv": "阅读生词"
         },
         {
@@ -2938,14 +2938,14 @@
         {
           "w": "mines",
           "p": "/maɪnz/",
-          "t": "地雷；水雷；矿",
-          "en": "explosive devices or places where minerals are extracted",
+          "t": "地雷；水雷",
+          "en": "explosive devices placed under or on the ground or water",
           "lv": "阅读生词"
         },
         {
           "w": "disrupt",
           "p": "/dɪsˈrʌpt/",
-          "t": "扰乱；中断",
+          "t": "扰乱；使中断",
           "en": "to interrupt or cause disorder",
           "lv": "阅读生词"
         },
@@ -2981,21 +2981,21 @@
           "w": "firing",
           "p": "/ˈfaɪərɪŋ/",
           "t": "开火；发射",
-          "en": "the act of shooting or launching",
+          "en": "the act of shooting or discharging a weapon",
           "lv": "阅读生词"
         },
         {
           "w": "volley",
           "p": "/ˈvɒli/",
-          "t": "齐射；群射",
-          "en": "a simultaneous discharge of weapons",
+          "t": "齐射；齐发",
+          "en": "a simultaneous discharge of weapons or missiles",
           "lv": "阅读生词"
         },
         {
           "w": "ballistic",
           "p": "/bəˈlɪstɪk/",
-          "t": "弹道的；发射的",
-          "en": "relating to the motion of projectiles",
+          "t": "弹道的",
+          "en": "relating to the flight of projectiles under gravity and air resistance",
           "lv": "阅读生词"
         },
         {
@@ -3086,7 +3086,7 @@
           "w": "skirmish",
           "p": "/ˈskɜːmɪʃ/",
           "t": "小规模战斗；冲突",
-          "en": "a minor fight or dispute",
+          "en": "a minor or short fight or conflict",
           "lv": "阅读生词"
         },
         {
@@ -3120,8 +3120,8 @@
         {
           "w": "recall",
           "p": "/rɪˈkɔːl/",
-          "t": "召回；回想",
-          "en": "to remember or officially order back",
+          "t": "召回；回忆",
+          "en": "to remember or to officially ask for return",
           "lv": "阅读生词"
         },
         {
@@ -3156,7 +3156,7 @@
           "w": "scheme",
           "p": "/skiːm/",
           "t": "计划；阴谋",
-          "en": "a plan or system, often secretive",
+          "en": "a plan or program, often secret or devious",
           "lv": "阅读生词"
         },
         {
@@ -3184,7 +3184,7 @@
           "w": "flagrant",
           "p": "/ˈfleɪɡrənt/",
           "t": "公然的；骇人听闻的",
-          "en": "obviously offensive or bad",
+          "en": "obviously offensive or wrong",
           "lv": "阅读生词"
         },
         {
@@ -3198,7 +3198,7 @@
           "w": "posted",
           "p": "/ˈpəʊstɪd/",
           "t": "张贴；发布",
-          "en": "placed publicly or recorded",
+          "en": "put up or displayed, especially online",
           "lv": "阅读生词"
         },
         {
@@ -3211,8 +3211,8 @@
         {
           "w": "purportedly",
           "p": "/pəˈpɔːtɪdli/",
-          "t": "据称；据说",
-          "en": "as claimed or believed",
+          "t": "据称；据传",
+          "en": "according to what is claimed or reported",
           "lv": "阅读生词"
         },
         {
@@ -3239,15 +3239,15 @@
         {
           "w": "blown",
           "p": "/bləʊn/",
-          "t": "被炸毁的；吹动的",
-          "en": "destroyed by explosion or moved by wind",
+          "t": "被炸毁的",
+          "en": "destroyed or exploded",
           "lv": "阅读生词"
         },
         {
           "w": "smithereens",
           "p": "/ˌsmɪðəˈriːnz/",
-          "t": "碎片；碎屑",
-          "en": "small broken pieces",
+          "t": "碎片；粉碎",
+          "en": "small pieces or fragments",
           "lv": "阅读生词"
         },
         {
@@ -3267,8 +3267,8 @@
         {
           "w": "exhausting",
           "p": "/ɪɡˈzɔːstɪŋ/",
-          "t": "令人筋疲力尽的",
-          "en": "very tiring",
+          "t": "使人筋疲力尽的",
+          "en": "extremely tiring or draining",
           "lv": "阅读生词"
         },
         {
@@ -3309,7 +3309,7 @@
         {
           "w": "commanders",
           "p": "/kəˈmɑːndəz/",
-          "t": "指挥官；司令",
+          "t": "指挥官；司令官",
           "en": "military officers in charge",
           "lv": "阅读生词"
         },
@@ -3329,8 +3329,8 @@
         },
         {
           "w": "drawnout",
-          "p": "/ˌdrɔːn ˈaʊt/",
-          "t": "拖延的；拉长的",
+          "p": "/ˌdrɔːnˈaʊt/",
+          "t": "拖延的；冗长的",
           "en": "lasting longer than necessary",
           "lv": "阅读生词"
         },
@@ -3401,14 +3401,14 @@
           "w": "ships",
           "p": "/ʃɪps/",
           "t": "船只；舰船",
-          "en": "large watercraft",
+          "en": "large vessels for sea travel",
           "lv": "阅读生词"
         },
         {
           "w": "surveillance",
           "p": "/səˈveɪləns/",
           "t": "监视；监控",
-          "en": "close observation of a person or place",
+          "en": "close observation or monitoring",
           "lv": "阅读生词"
         },
         {
@@ -3483,9 +3483,9 @@
         },
         {
           "w": "ongoing",
-          "p": "/ˈɒŋɡəʊɪŋ/",
+          "p": "/ˈɒnɡəʊɪŋ/",
           "t": "持续的；进行中的",
-          "en": "continuing to exist or develop",
+          "en": "continuing; in progress",
           "lv": "阅读生词"
         },
         {
@@ -3506,7 +3506,7 @@
           "w": "eroded",
           "p": "/ɪˈrəʊdɪd/",
           "t": "被侵蚀的",
-          "en": "worn away gradually",
+          "en": "worn away or destroyed gradually",
           "lv": "阅读生词"
         },
         {
@@ -3520,7 +3520,7 @@
           "w": "morale",
           "p": "/məˈrɑːl/",
           "t": "士气；斗志",
-          "en": "confidence and enthusiasm of a group",
+          "en": "the confidence and enthusiasm of a group",
           "lv": "阅读生词"
         },
         {
@@ -3534,7 +3534,7 @@
           "w": "maintenance",
           "p": "/ˈmeɪntənəns/",
           "t": "维护；保养",
-          "en": "keeping something in good condition",
+          "en": "the process of keeping something in good condition",
           "lv": "阅读生词"
         },
         {
@@ -3548,7 +3548,7 @@
           "w": "stockpiles",
           "p": "/ˈstɒkpaɪlz/",
           "t": "储备；囤积",
-          "en": "large supplies kept for future use",
+          "en": "large stored quantities of supplies",
           "lv": "阅读生词"
         },
         {
@@ -3582,8 +3582,8 @@
         {
           "w": "defenseless",
           "p": "/dɪˈfensləs/",
-          "t": "无防御的；无助的",
-          "en": "without protection or ability to defend",
+          "t": "无防御的；无保护的",
+          "en": "without ability to defend oneself",
           "lv": "阅读生词"
         },
         {
@@ -3604,7 +3604,7 @@
           "w": "bandwidth",
           "p": "/ˈbændwɪdθ/",
           "t": "带宽；处理能力",
-          "en": "data transfer capacity or mental capacity",
+          "en": "the capacity for data transmission or mental capacity",
           "lv": "阅读生词"
         },
         {
@@ -3688,7 +3688,7 @@
           "w": "dedicated",
           "p": "/ˈdedɪkeɪtɪd/",
           "t": "专注的；专用的",
-          "en": "devoted to a purpose or cause",
+          "en": "devoted to a purpose or task",
           "lv": "阅读生词"
         },
         {
@@ -3716,7 +3716,7 @@
           "w": "robbing",
           "p": "/ˈrɒbɪŋ/",
           "t": "抢劫；剥夺",
-          "en": "taking property illegally or depriving",
+          "en": "taking something by force or fraud",
           "lv": "阅读生词"
         },
         {
@@ -3737,7 +3737,7 @@
           "w": "doorbell",
           "p": "/ˈdɔːbel/",
           "t": "门铃",
-          "en": "a bell at a door to announce visitors",
+          "en": "an electric bell at a door",
           "lv": "阅读生词"
         },
         {
@@ -3758,7 +3758,7 @@
           "w": "respondents",
           "p": "/rɪˈspɒndənts/",
           "t": "受访者；应答者",
-          "en": "people who respond to a survey or question",
+          "en": "people who respond to a survey or request",
           "lv": "阅读生词"
         },
         {
@@ -3835,7 +3835,7 @@
           "w": "neighbors",
           "p": "/ˈneɪbəz/",
           "t": "邻居",
-          "en": "people living nearby",
+          "en": "people living near each other",
           "lv": "阅读生词"
         },
         {
@@ -3869,15 +3869,15 @@
         {
           "w": "sophisticated",
           "p": "/səˈfɪstɪkeɪtɪd/",
-          "t": "复杂的；精密的；老练的",
-          "en": "highly developed or complex",
+          "t": "复杂精密的；老练的",
+          "en": "highly developed or complex; worldly",
           "lv": "阅读生词"
         },
         {
           "w": "civilizations",
           "p": "/ˌsɪvəlaɪˈzeɪʃənz/",
-          "t": "文明；文化",
-          "en": "advanced human societies",
+          "t": "文明；文明社会",
+          "en": "advanced human societies with complex cultures",
           "lv": "阅读生词"
         },
         {
@@ -3912,7 +3912,7 @@
           "w": "earthquakes",
           "p": "/ˈɜːθkweɪks/",
           "t": "地震",
-          "en": "sudden shaking of the ground",
+          "en": "shaking of the ground due to tectonic activity",
           "lv": "阅读生词"
         },
         {
@@ -3932,8 +3932,8 @@
         {
           "w": "instability",
           "p": "/ˌɪnstəˈbɪləti/",
-          "t": "不稳定；不稳固",
-          "en": "lack of stability or steadiness",
+          "t": "不稳定；动荡",
+          "en": "lack of stability or balance",
           "lv": "阅读生词"
         },
         {
@@ -3953,7 +3953,7 @@
         {
           "w": "renamed",
           "p": "/ˌriːˈneɪmd/",
-          "t": "改名的；重新命名",
+          "t": "重新命名；改名",
           "en": "given a new name",
           "lv": "阅读生词"
         },
@@ -4024,14 +4024,14 @@
           "w": "competes",
           "p": "/kəmˈpiːts/",
           "t": "竞争；比赛",
-          "en": "tries to win or be better",
+          "en": "strives to win or outperform others",
           "lv": "阅读生词"
         },
         {
           "w": "confusingly",
           "p": "/kənˈfjuːzɪŋli/",
           "t": "令人困惑地",
-          "en": "in a way that causes confusion",
+          "en": "in a manner that causes confusion",
           "lv": "阅读生词"
         },
         {
@@ -4191,7 +4191,7 @@
         "<p>about work. His <u>books</u> have been <u>translated</u> into 38 <u>languages</u>. Godin <u>writes</u> one of the most <u>popular</u> <u>marketing</u> <u>blogs</u> in the world, and his TED <u>talks</u> are <u>among</u> the most <u>popular</u> of all time. He is the <u>founder</u> of the <u>altMBA</u>, the <u>social</u> <u>media</u> <u>pioneer</u> Squidoo, and Yoyodyne, one of the first <u>internet</u> <u>companies</u>. Find out more at <u>seths</u>.blog.</p>",
         "<p><u>advice</u> book <u>excerpt</u> <u>business</u> <u>advice</u> Seth Godin</p>"
       ],
-      "cn": "##段落\n让我们别再称它们为“软技能”——改称“真实技能”吧\n2023年6月9日\n/\n赛斯·戈丁\nFacebook\nX\nLinkedIn\nReddit\nWhatsApp\n德博拉·斯皮尔曼\n我们坚持像经营保龄球队一样进行招聘和培训，仿佛只有那些容易衡量的技能才重要。\n\n##段落\n是什么导致成功的组织走向失败？是什么让股票黯然失色、创新放缓、客户流失？我们可以达成共识：某些技能至关重要。招聘不会写代码的程序员、不会销售的销售员，或不会设计的建筑师，纯属浪费。但这些技能——我们暂且称之为“职业技能”——已成为招聘流程的支柱。\n\n##段落\n但如何解释那些拥有同样职业技能人才、结构相似的组织，却遭遇截然不同的结局？学生所经历的大多数教科书和考试，都围绕职业技能展开，那些为获得工作而必须勾选的选项。通过错误定义“职业”一词并聚焦于这些所谓的必备技能，我们贬低了其他同样重要的技能的价值。\n\n##段落\n当我们称其他技能为“软”技能，暗示它们可有可无时，我们给予的尊重实在太少。真正区分蓬勃发展的组织与挣扎求生的组织的，是那些难以衡量、却来自执行工作之人的态度、流程和认知。\n\n##段落\n职业技能是可以传授的：你并非天生就懂工程、文案甚至平面设计，因此它们必然是可教的。但在决策、积极投入、与恐惧共舞、有权威地表达、团队协作、看清真相、说出真相、激励他人、超越本职、用心关怀、以及勇于改变这些方面，我们却让自己轻易脱身。我们在这方面投入培训不足，担心这些能力是天生的、无法传授。或许它们是天赋。于是我们轻描淡写，称其为“软技能”，让自己更容易转向看似更紧迫的事情。\n\n##段落\n在规模化层面，组织在招聘时对软技能的关注较少，因为我们说服自己：职业技能是非个人化的、更容易衡量的。如果某项能力更容易测试，在选团队时它就显得更重要。\n\n##段落\n而当这些技能缺失时，我们却迟迟不解雇（也很少再培训），因为我们担心踩到别人的脚趾、因涉及个人问题而被指责，或在注定无果的事情上浪费时间。\n\n##段落\n但这些技能全部可以习得，就像下棋或打字这类显而易见的技能可以学会一样。我们是偶然学会它们的——通过潜移默化，通过我们与老师、父母、老板和世界的一次次碰撞。尽管它们更难衡量，但这并不意味着我们无法提升它们、无法加以练习。\n\n我们无法改变工作方式吗？  \n当然可以。  \n别再称它们为“软技能”了。它们是人际交往技能，领导力技能，是魅力、勤勉与贡献的技艺。但这些修饰词虽然准确，却多少使它们偏离了职业技能，偏离了我们实际招聘时所看重的技能，偏离了衡量研究生学位的标准。  \n所以，让我们略带不适地称它们为“真实技能”吧。  \n真实，因为它们奏效，因为它们是我们今天所需的核心。  \n真实，因为即便你拥有职业技能，若缺乏这些人性技能——那些我们无法写下来或编程让计算机执行的东西——对我们而言也毫无帮助。  \n真实技能当然不能替代职业技能。它们所能做的是放大你已经在衡量的那些东西。  \n想象一位具备所有传统职业技能的团队成员：高效、熟练、经验丰富，简历足以证明。那是一个不错的基线。  \n现在，在此基础上增加：敏锐、有魅力、有驱动力、专注、目标明确、鼓舞人心且积极主动；慷慨、富有同理心且始终如一；耐心倾听、深度理解。当这样的人加入你的团队时，你的组织会发生什么变化？  \n在《哈佛商业评论》中，卢·所罗门报道，69%的管理者不善于与员工沟通。我猜测其余31%中的许多人是在撒谎。  \n与员工沟通之所以令人不适，是因为我们构建了顺从与支配的系统，使这种沟通变得困难。我们要求人们将人性置于门外，然后用权威来改变行为。我们将企业贪婪和短期思维与创造有意义工作的人类愿望叠加在一起。  \n我们如何建立以人为本的组织，同时接受这样一个事实：我们三分之二的管理者（想必薪酬优厚、训练有素，且对我们的成功至关重要）在做本职工作的关键部分时如此不适，以至于向陌生人承认了这一点？  \n在最近一项调查中，研究生入学管理委员会报告称，尽管MBA学生在分析能力、定量专长和信息收集能力方面表现出色，但他们在雇主同样青睐的其他关键领域却严重欠缺：战略思维、书面与口头沟通、领导力和适应性。这些能力是相互排斥的吗？我们必须以牺牲一方为代价来换取另一方吗？  \n所有真实技能的基础是这一点：拥有相互对话的信心与许可——不是去管理、贬低、恐吓或控制，而仅仅是寻求被理解，并努力去理解他人。  \n\n##段落  \n节选自赛斯·戈丁所著《意义之歌：团队新宣言》，经企鹅兰登书屋旗下Portfolio出版社同意转载。\n\nom House LLC. 版权所有 © Seth Godin 2023。  \n立即观看他的 TED 演讲：  \n关于作者 Seth Godin 是 21 本国际畅销书的作者，这些书改变了人们对工作的思考方式。他的作品已被翻译成 38 种语言。Godin 撰写着全球最受欢迎的市场营销博客之一，他的 TED 演讲也是有史以来最受欢迎的之一。他是 altMBA 的创始人、社交媒体先驱 Squidoo 以及最早互联网公司之一 Yoyodyne 的创始人。了解更多信息，请访问 seths.blog。  \n建议书摘录 商业建议 Seth Godin",
+      "cn": "##段落\n让我们别再称它们为“软技能”——改叫“真技能”吧  \n2023年6月9日  \n/  \n赛斯·戈丁  \nFacebook  \nX  \nLinkedIn  \nReddit  \nWhatsApp  \n黛博拉·斯皮尔曼  \n我们仍然像经营保龄球队一样招聘和培训，仿佛只有那些容易衡量的技能才重要。\n\n##段落\n是什么导致成功组织走向失败？是什么让股票下跌、创新放缓、客户流失？我们都能认同某些技能是必不可少的。招聘不会写代码的程序员、不会销售的销售员或不会设计的建筑师，纯属浪费。但这些技能——让我们称它们为“职业技能”——已成为招聘流程的支柱。\n\n##段落\n但你怎么解释，拥有同样职业技能的相似组织，却往往结果迥异？学生们接触的大多数教科书和参加的考试，都聚焦于职业技能，即那些为了获得工作而必须勾选的条条框框。通过错误定义“职业”并专注于这些所谓的关键技能，我们贬低了其他重要技能的价值。\n\n##段落\n当我们称其他技能为“软”技能，暗示它们是可有可无的，我们就对它们尊重不足。真正区分繁荣组织与挣扎组织的，是那些难以衡量的态度、流程和从业者的认知。\n\n##段落\n职业技能可以被传授：你并非天生就懂工程、文案或平面设计，因此它们必定是可以教的东西。但在决策、积极参与、与恐惧共舞、有权威地表达、团队合作、看清真相、说出真相、激励他人、超越要求地付出、关心他人以及愿意改变这些事情上，我们却让自己逃脱了责任。我们在这方面的培训投入不足，担心这些东西是天生的、无法传授的。或许它们是天赋。于是我们轻描淡写，称它们为软技能，让我们轻易转向看似更紧迫的事情。\n\n##段落\n在规模层面，组织在招聘时对软技能的关注较少，因为我们说服自己职业技能是非个人的、更容易衡量。如果更容易测试，它似乎在选团队时就更重要。\n\n##段落\n而当这些技能缺失时，我们解雇缓慢（且很少再培训），因为我们担心踩到别人的脚趾、被指责过于个人化，或可能在无望的事情上浪费时间。\n\n##段落\n但这些技能全都可以学会，就像下棋或打字这类显而易见的技能可以学会一样。我们是通过偶然、耳濡目染、通过与老师、父母、老板和世界的碰撞而学会它们的。即使它们更难衡量，那也不意味着我们无法改进、无法练习。\n\n我们无法改变工作方式吗？  \n当然可以。  \n别再称它们为“软技能”了。它们是人际技能，是领导技能，是魅力、勤奋和贡献的技能。但这些修饰词虽然准确，却不知何故将它们与职业技能、我们实际招聘时看重的技能、我们衡量研究生学位的技能拉开了距离。  \n所以，让我们不自在地称它们为“真实技能”。  \n真实，因为它们有效，因为它们是我们今天所需的核心。  \n真实，因为即使你拥有职业技能，没有这些人类技能——那些我们无法写下来或编程让计算机去做的事情——你对我们毫无帮助。  \n真实技能当然不能取代职业技能。它们能做的是放大你已经在衡量的东西。  \n想象一个拥有所有传统职业技能的团队成员：高效、熟练、经验丰富，简历可以证明这一切。那是一个不错的基线。  \n现在再加上：敏锐、有魅力、有驱动力、专注、目标明确、鼓舞人心且积极主动。慷慨、富有同理心且始终如一。耐心倾听，深入理解。当这样一个人加入你的团队时，你的组织会发生什么变化？  \n在《哈佛商业评论》中，卢·所罗门报道，69%的管理者与员工沟通时感到不适。我猜其他31%中许多人是在撒谎。  \n与员工沟通之所以不适，是因为我们建立了顺从和支配的系统，使沟通变得困难。我们要求人们把人性留在门外，然后用权威来改变行为。我们将企业贪婪和短期思维与创造有意义工作的渴望叠加在一起。  \n我们如何建立以人为本的组织，同时接受这样一个事实：我们三分之二的管理者（想必薪酬优厚、训练有素且对我们的成功至关重要）在做一项基本工作时如此不适，以至于向陌生人承认了这一点？  \n在最近的一项调查中，研究生入学管理委员会报告称，尽管MBA在分析能力、量化专长和信息收集能力方面很强，但他们在雇主同样看重的其他关键领域严重欠缺：战略思维、书面和口头沟通、领导力和适应性。这些是相互排斥的吗？我们必须牺牲一个来换取另一个吗？  \n所有真实技能的基础是这一点：拥有彼此交谈的自信和许可。不是去管理、贬低、恐吓或控制。只是寻求被理解，并努力去理解。  \n摘自赛斯·高汀的《意义之歌：团队新宣言》，经企鹅兰登书屋旗下投资组合出版社同意转载。\n\n##段落\n版权所有 © Seth Godin 2023，由om House LLC.出版。\n##段落\n立即观看他的TED演讲：\n##段落\n关于作者：赛斯·戈丁是21本国际畅销书的作者，这些书改变了人们对工作的思考方式。他的作品已被翻译成38种语言。戈丁撰写着全球最受欢迎的市场营销博客之一，他的TED演讲历来是最受欢迎的之一。他是altMBA的创始人、社交媒体的先驱Squidoo以及最早互联网公司之一的Yoyodyne的创始人。了解更多信息，请访问seths.blog。\n##段落\n建议书籍摘录 商业建议 赛斯·戈丁",
       "phrases": [
         {
           "en": "jump ship",
@@ -4199,30 +4199,30 @@
         },
         {
           "en": "let ourselves off the hook",
-          "zh": "让自己摆脱责任；为自己开脱"
+          "zh": "让自己摆脱责任或困境"
         },
         {
           "en": "dance with fear",
-          "zh": "与恐惧共舞；直面恐惧"
+          "zh": "与恐惧共舞，直面恐惧"
         },
         {
           "en": "step on toes",
-          "zh": "得罪人；冒犯他人"
+          "zh": "冒犯他人，得罪人"
         },
         {
           "en": "by osmosis",
-          "zh": "潜移默化地；不知不觉中"
+          "zh": "潜移默化地，不知不觉中"
         },
         {
-          "en": "edge them away from",
-          "zh": "使它们远离；将它们边缘化"
+          "en": "leave their humanity at the door",
+          "zh": "将人性拒之门外，不带个人情感"
         },
         {
-          "en": "amplify the things",
-          "zh": "放大这些事物；增强这些方面"
+          "en": "people-centric organizations",
+          "zh": "以人为本的组织"
         },
         {
-          "en": "sorely lacking in",
+          "en": "sorely lacking",
           "zh": "严重缺乏"
         }
       ],
@@ -6125,39 +6125,39 @@
       "body": [
         "<p>22 May 2026 <u>Share</u> Save Add as <u>preferred</u> on Google John Laurenson <u>Social</u> <u>media</u> <u>platforms</u> used to be about <u>communication</u> <u>between</u> <u>friends</u> – now many are <u>increasingly</u> short <u>video</u> <u>entertainment</u> hubs. The <u>business</u> <u>model</u> is to <u>increase</u> the time people <u>spend</u> on their apps and <u>increase</u> ad <u>revenue</u>. But is there <u>already</u> a <u>consumer</u> <u>backlash</u>? Aurélia <u>fixes</u> <u>herself</u> a <u>coffee</u>, sits down in her <u>beautiful</u> <u>garden</u> not far from Paris and goes on Instagram \"to <u>relax</u>.\" First up: \"a guy I like a lot who does <u>interior</u> <u>design</u>. He's in Venice at the <u>moment</u>.\" She's into <u>interior</u> <u>design</u>, and has even just had two bird <u>drawings</u> by the 19th Century English <u>designer</u> William Morris <u>tattooed</u> on her arms. She <u>scrolls</u> down. Two <u>kittens</u> <u>having</u> a <u>fight</u>. \"I love <u>animals</u> so I get a lot of <u>animals</u>. That's how it <u>works</u>, <u>social</u> <u>media</u>. You <u>click</u> on <u>bananas</u> and they give you <u>bananas</u>.\" There are ads too – <u>although</u> they look just like the other <u>posts</u> – for a robot-vacuum <u>cleaner</u>, a diet and bed <u>linen</u> (with Morris-inspired <u>designs</u>). But no <u>friends</u>. She has 198 on Instagram but she says \"it's <u>completely</u> <u>changed</u>. I <u>practically</u> don’t see any <u>friends</u>' <u>posts</u> <u>anymore</u>.\" She’s <u>pretty</u> much <u>given</u> up <u>posting</u> <u>herself</u>. \"I don't think <u>anyone</u> sees them <u>anymore</u> <u>anyway</u>.\"  While there <u>remain</u> <u>committed</u> <u>social</u>, <u>amateur</u> <u>posters</u> on Instagram and <u>especially</u> Facebook, the <u>switch</u> from <u>communicating</u> with people you know to <u>scrolling</u> <u>through</u> <u>professionally</u> made <u>content</u> from people you don't, is even more <u>pronounced</u> <u>among</u> young <u>users</u>. Kylian, 16, is in <u>vocational</u> <u>training</u> to <u>become</u> a chef. He's on TikTok and Youtube a lot, he says. \"I like <u>looking</u> at <u>videos</u> more than <u>photos</u> or <u>messages</u>. I <u>watch</u> <u>videos</u> made by people I don't know. I don’t post at all. I'm a <u>rather</u> shy person. I stay in my <u>bubble</u>. I <u>watch</u> and that’s all. I keep my <u>reactions</u> to <u>myself</u>.\" \"I <u>spend</u> a lot of time <u>scrolling</u> <u>through</u> <u>videos</u> made by <u>content</u>-<u>creators</u>,\" says Lucie, also 16. \"They're more <u>interesting</u> than the <u>posts</u> of people I know.\" She doesn't post <u>except</u> sometimes \"<u>stories</u>\" which <u>disappear</u> after 24 <u>hours</u>.  Whether it's TikTok, Snapchat, Facebook and Instagram, we are a long way from the \"<u>digital</u> town <u>square</u>\" of <u>personal</u> <u>interaction</u> that <u>social</u> <u>media</u> was even just a few <u>years</u> ago. In France, <u>annual</u> <u>official</u> Barometre du <u>numerique</u> 2026  <u>shows</u> 49% of <u>social</u> <u>media</u> <u>users</u> are \"<u>active</u> only <u>occasionally</u>\". In the UK, an Ofcom <u>report</u>   <u>published</u> in April <u>showed</u> a year-on-year drop of <u>users</u> who <u>actively</u> post from 61% to 49%. In the US, a Morning Consult <u>survey</u> of June last year <u>found</u> 28% <u>reported</u> <u>posting</u> less often than the <u>previous</u> year. Just 33% now post <u>daily</u> <u>compared</u> to 57% who use it for <u>entertainment</u> <u>daily</u>. The gap is a lot <u>wider</u> still for Gen Z – 18% <u>active</u> for 74% <u>passive</u>. Vanessa Lalo, a Paris-based <u>clinical</u> <u>psychologist</u> <u>specialising</u> in on-line <u>behaviour</u>, says \"<u>users</u> have <u>become</u> more <u>conscious</u> that the <u>traces</u> you <u>leave</u> (on <u>social</u> <u>media</u>) stay there <u>forever</u> and some no <u>longer</u> want to <u>maintain</u> <u>social</u> <u>media</u> <u>relations</u> that can be <u>superficial</u>. Some don’t want the <u>exposure</u> to <u>criticism</u> that might be a risk when you post or the <u>feeling</u> that their post will seem poor <u>alongside</u> all the <u>professional</u> <u>content</u>\". However, Lalo adds, people <u>haven</u>’t <u>stopped</u> <u>posting</u>, <u>rather</u> they are <u>posting</u> <u>different</u> things and in <u>different</u> <u>places</u>. \"On TikTok, for <u>example</u>, young people <u>publish</u> a lot of <u>content</u> but it's more <u>funny</u> <u>parodies</u> and <u>remixes</u> of <u>existing</u> <u>material</u>. The goal is to make people <u>laugh</u>, not to tell people about their <u>lives</u>.\" That still <u>happens</u>, she says, but it’s <u>moved</u> from <u>social</u> <u>media</u> <u>platforms</u> like Instagram and Facebook to <u>messaging</u> <u>sites</u> like WhatsApp. There's also been a move <u>towards</u> <u>private</u> <u>groups</u> on Instagram and Snapchat. \"These are much more <u>intimate</u> <u>places</u> <u>where</u> you're not <u>bombarded</u> with ads and <u>content</u> made by <u>influencers</u>,\" she says. \"What we're <u>seeing</u> is <u>social</u> <u>media</u> <u>splitting</u> in two,\" says <u>social</u> <u>media</u> <u>consultant</u> Matt Navarra, <u>author</u> of the Geekout <u>Newsletter</u>. \"Big <u>platforms</u> like Instagram and TikTok are <u>becoming</u> more about <u>entertainment</u> and <u>discovery</u>. WhatsApp is <u>becoming</u> the place people go to <u>actually</u> be <u>social</u>. The <u>catch</u> is, <u>those</u> <u>kinds</u> of <u>spaces</u> are <u>harder</u> for <u>companies</u> to make money from.\" Small <u>business</u> <u>owners</u> are being <u>pushed</u> to <u>become</u> <u>presenters</u>, <u>editors</u>, <u>trend</u> <u>spotters</u> and <u>content</u> <u>creators</u>, on top of <u>actually</u> <u>running</u> the <u>business</u> – Matt Navarra It was TikTok that <u>helped</u> to <u>pioneer</u> an <u>algorithm</u> that <u>figures</u> out from the <u>moment</u> you <u>start</u> <u>scrolling</u> what you like, and then <u>fills</u> your feed with <u>material</u> <u>calculated</u> to keep you on the app for the <u>longest</u> <u>possible</u> time. Now, says Matt Navarra, \"Meta has <u>built</u> what it <u>calls</u> an AI system for <u>unconnected</u> <u>content</u> <u>recommendations</u> on Facebook and Instagram, which <u>basically</u> <u>means</u>, they're <u>increasingly</u> <u>showing</u> you <u>stuff</u> from people you don't <u>follow</u> because the <u>machine</u> <u>thinks</u> you're <u>going</u> to like it. It's not <u>biased</u> <u>towards</u>, is it a <u>professional</u> <u>creator</u>? Is it a <u>brand</u>? Is it a friend? If they can see that you've <u>engaged</u> with a friend a lot, you might see a lot more of their <u>content</u>. It's just that who you are <u>friends</u> with, who you <u>follow</u>, has <u>become</u> <u>irrelevant</u> in a way.\" This all <u>means</u> that small <u>businesses</u>, that have long used <u>social</u> <u>media</u> for free <u>promotion</u> have to up their game.   \"There's a real <u>opportunity</u> for some small <u>businesses</u>,\" says Matt Navarra. \"A <u>bakery</u>, <u>florist</u>, <u>salon</u> or <u>local</u> café can still <u>break</u> <u>through</u> if they have a good story, <u>strong</u> <u>visuals</u> or behind-the-scenes <u>content</u> people want to <u>watch</u>. But it also <u>means</u> the job has <u>changed</u>. Small <u>business</u> <u>owners</u> are being <u>pushed</u> to <u>become</u> <u>presenters</u>, <u>editors</u>, <u>trend</u> <u>spotters</u> and <u>content</u> <u>creators</u>, on top of <u>actually</u> <u>running</u> the <u>business</u>.\" The <u>social</u> <u>platforms</u> <u>continue</u> to be <u>monetised</u> <u>predominantly</u> by ad <u>revenue</u>. That is still the core <u>business</u> <u>model</u>. And ad <u>revenue</u> <u>continues</u> to grow – Matt Navarra <u>Social</u> <u>media</u> is <u>evolving</u> into <u>something</u> <u>passive</u> like <u>television</u>, <u>albeit</u> <u>television</u> that <u>adapts</u> as you zap. Or <u>rather</u> which <u>knows</u> you so well that it doesn't seem to <u>matter</u> that much that it's <u>taken</u> the <u>remote</u> <u>control</u>. You give the <u>platform</u> <u>information</u> about <u>yourself</u> that it uses for <u>commercial</u> gain and, in <u>return</u>, it <u>gives</u> you <u>content</u> <u>tailored</u> to <u>please</u> you for free. The <u>transition</u> from <u>truly</u> <u>social</u> <u>media</u> to <u>entertainment</u> <u>platform</u> does seem to be <u>paying</u> off. \"The <u>social</u> <u>platforms</u> <u>continue</u> to be <u>monetised</u> <u>predominantly</u> by ad <u>revenue</u>. That is still the core <u>business</u> <u>model</u>. And ad <u>revenue</u> <u>continues</u> to grow,\" says Matt Navarra. Global <u>social</u> <u>media</u> ad <u>revenue</u> is <u>expected</u> to <u>reach</u> $317 <u>billion</u> (£236bn) in 2026, up from $277 <u>billion</u> (£206bn) last year. Meta is the <u>biggest</u> <u>winner</u>. Its ad <u>sales</u> <u>already</u> <u>increased</u> 22% year-on-year in 2025.  Ad <u>sales</u> are <u>expected</u> to hit $243 <u>billion</u> (£181bn) this year , <u>enough</u> to <u>overtake</u> Google for the first time. AI <u>powered</u> <u>digital</u> ad <u>targeting</u> is <u>becoming</u> ever more <u>effective</u> and <u>precise</u>. \"The <u>social</u> <u>platforms</u> <u>allow</u> <u>companies</u> to put ads <u>amongst</u> the <u>content</u> that you're <u>scrolling</u> <u>through</u>. Every <u>third</u> or <u>fourth</u> <u>scroll</u> is an ad. And they are the world's best ad <u>targeting</u> <u>engines</u>. They know so much about your <u>interests</u> because of what you've <u>looked</u> at, <u>liked</u>, <u>engaged</u> with, what you've <u>chosen</u> to <u>follow</u>, the time you've <u>spent</u> in <u>certain</u> <u>areas</u> of the app, things like that,\" Navarra says.  \"So <u>advertisers</u> will go in and say: 'I want to place an ad next to people in the UK who are <u>between</u> <u>thirty</u> and <u>sixty</u> <u>years</u> old and who are <u>interested</u> in DIY' and the <u>social</u> <u>platforms</u> will have that <u>information</u> and will place the ads <u>accordingly</u>.\" The price will <u>depend</u> on the number of <u>impressions</u> (<u>clicks</u>) the <u>advertiser</u> <u>wants</u> and how <u>tight</u> the <u>criteria</u> are. It <u>costs</u> more to place ads in the <u>social</u> <u>media</u> <u>feeds</u> of people who buy <u>horses</u> than people who buy ice-cream. More like this: •  TikTok is <u>tracking</u> you, even if you don't use the app. Here's how to stop it •  How to stop AI from <u>turning</u> your <u>brain</u> to mush •  This <u>monkey</u> <u>selfie</u> will <u>protect</u> you from AI slop Might there be a <u>backlash</u> <u>coming</u>? Don't many people go on to <u>social</u> <u>media</u> to see how <u>friends</u> are <u>reacting</u> to their <u>posts</u> or <u>comments</u> <u>before</u> <u>settling</u> down to <u>scroll</u> <u>through</u> <u>professionally</u> made <u>content</u>? Whether it's the <u>shrinking</u> <u>social</u> <u>motivation</u> to get on these apps or <u>something</u> else, the <u>amount</u> of time people <u>spend</u> on <u>social</u> <u>media</u> <u>plateaued</u> at an <u>average</u> of 141 <u>minutes</u> in 2025, down <u>slightly</u> from 143 <u>minutes</u> in 2024 . However, this is only part of the story, as the number of people <u>using</u> <u>social</u> <u>media</u> and the <u>total</u> time <u>humanity</u> <u>spends</u> on these apps <u>continues</u> to rise. For Gen Z it’s <u>higher</u> still. Around five <u>hours</u> a day in the United States <u>where</u>, for this <u>demographic</u>, <u>social</u> <u>media</u> has also <u>become</u> the <u>primary</u> <u>search</u> <u>engine</u> and <u>shopping</u> tool. Meanwhile, for <u>those</u> who miss what are fast <u>becoming</u> the old days when <u>social</u> <u>media</u> <u>enabled</u> you to <u>share</u> a bit of your life, a joke or a <u>point</u> of view with people you more-or-less knew, there are <u>tools</u> <u>within</u> <u>platforms</u>, says Matt Navarra, that <u>allow</u> you to <u>choose</u> to see <u>mainly</u> <u>friends</u> and family <u>content</u>. \"People can <u>flick</u> to a feed that <u>gives</u> them that,\" he says. \"But most people don't.\" -- If you <u>liked</u> this story, sign up for The Essential List <u>newsletter</u> – a <u>handpicked</u> <u>selection</u> of <u>features</u>, <u>videos</u> and can't-miss news, <u>delivered</u> to your <u>inbox</u> <u>twice</u> a week.   For more on <u>business</u> and <u>beyond</u>, <u>follow</u> us on  LinkedIn . <u>Business</u> Technology <u>Features</u> <u>Social</u> <u>media</u> World of <u>Business</u></p>"
       ],
-      "cn": "2026年5月22日 分享 保存 设为谷歌首选 约翰·劳伦森 社交媒体平台曾经是朋友之间交流的地方——如今许多平台日益成为短视频娱乐中心。其商业模式是增加人们在使用应用上花费的时间，并提高广告收入。但消费者是否已经出现反弹？奥雷利娅给自己泡了一杯咖啡，坐在巴黎附近美丽的花园里，上Instagram“放松一下”。首先映入眼帘的是：“我非常喜欢的一个做室内设计的家伙。他现在在威尼斯。”她热衷于室内设计，甚至刚把19世纪英国设计师威廉·莫里斯的两幅鸟类画作纹在手臂上。她向下滑动。两只小猫在打架。“我热爱动物，所以会看到很多动物内容。社交媒体就是这样运作的。你点击香蕉，他们就会给你香蕉。”还有广告——尽管看起来和其他帖子一样——涉及机器人吸尘器、减肥方案和床单（带有莫里斯风格设计）。但没有朋友。她在Instagram上有198个粉丝，但她说“情况完全变了。我几乎再也看不到任何朋友的帖子了。”她自己几乎也放弃了发帖。“我觉得反正也没人会看到它们了。” 尽管在Instagram尤其是Facebook上仍有忠实的社交型业余发帖者，但从与你认识的人交流转向浏览你不认识的人制作的专业内容，这一转变在年轻用户中尤为明显。16岁的基利安正在接受职业培训，想成为一名厨师。他说自己经常刷TikTok和YouTube。“我喜欢看视频胜过看照片或消息。我看的是我不认识的人制作的视频。我完全不发帖。我是个相当害羞的人。我待在自己的小圈子里。我只观看，仅此而已。我把自己的反应留给自己。” “我花很多时间浏览内容创作者制作的视频，”同为16岁的露西说。“它们比我认识的人的帖子更有趣。”她除了偶尔发一些24小时后消失的“快拍”外，并不发帖。 无论是TikTok、Snapchat、Facebook还是Instagram，我们都已远离社交媒体在短短几年前还是个人互动的“数字城镇广场”的时代。在法国，2026年官方年度《数字晴雨表》显示，49%的社交媒体用户“仅偶尔活跃”。在英国，4月份发布的一份Ofcom报告显示，积极发帖的用户同比下降，从61%降至49%。在美国，去年6月的一项Morning Consult调查发现，28%的人报告发帖频率低于前一年。现在只有33%的人每天发帖，而57%的人每天将社交媒体用于娱乐。在Z世代中，这一差距更大——18%为活跃用户，74%为被动用户。瓦内萨·拉洛，一位驻巴黎的临床心理学家，专攻在线行为领域。\n\n“用户已经更加意识到，（在社交媒体上）留下的痕迹会永远存在，一些人不再想维护可能肤浅的社交媒体关系。有些人不想暴露在发帖时可能面临的批评风险，或者感觉自己的帖子在众多专业内容中显得逊色。”然而，拉洛补充道，人们并没有停止发帖，而是发布不同的内容，在不同的地方发布。“例如，在TikTok上，年轻人发布大量内容，但更多是对现有素材的有趣模仿和混剪。目标是让人发笑，而不是讲述自己的生活。”她说，那种分享生活的情况仍然存在，但已从Instagram和Facebook等社交媒体平台转移到WhatsApp等即时通讯网站。同时，人们也转向Instagram和Snapchat上的私密群组。“这些是更私密的空间，你不会被广告和网红内容轰炸，”她说。\n\n##段落\n“我们看到的是社交媒体正在一分为二，”社交媒体顾问、Geekout Newsletter作者马特·纳瓦拉说。“Instagram和TikTok等大型平台正变得更侧重于娱乐和发现。WhatsApp成为人们真正进行社交的地方。问题是，这类空间更难让公司从中获利。”小企业主被迫成为主持人、编辑、潮流发现者和内容创作者，除了实际经营业务之外——马特·纳瓦拉正是TikTok帮助开创了一种算法，它从你开始滑动屏幕的那一刻就能判断你喜欢什么，然后用计算好的内容填满你的信息流，让你尽可能长时间地留在应用上。现在，马特·纳瓦拉说，“Meta已经在Facebook和Instagram上建立了一个所谓的人工智能系统，用于无关联内容推荐，这基本上意味着，它们越来越多地向你展示你不关注的人的内容，因为机器认为你会喜欢它。它不会偏袒，不管你是专业创作者、品牌还是朋友。如果它看到你与某个朋友互动很多，你可能会看到更多他们的内容。只是你是谁的朋友，你关注谁，在某种程度上已经变得无关紧要了。”这一切都意味着，长期以来利用社交媒体进行免费推广的小企业必须提升自己的水平。“一些小企业确实有机会，”马特·纳瓦拉说。“面包店、花店、沙龙或本地咖啡馆，如果有好故事、强烈的视觉效果或人们想看的幕后内容，仍然可以脱颖而出。但这也意味着工作已经改变。小企业主被迫成为主持人、编辑、潮流发现者和内容创作者，除了实际经营业务之外。”\n\n##段落\n实际上经营业务的顶端。\"社交平台仍然主要通过广告收入实现商业化。这仍然是核心商业模式。广告收入持续增长——马特·纳瓦拉\n\n##段落\n社交媒体正在演变成类似电视的被动媒介，尽管是一种会随着你切换频道而调整的电视。或者更确切地说，它对你如此了解，以至于它拿走了遥控器这件事似乎也没那么重要了。你向平台提供关于自己的信息，平台利用这些信息获取商业利益，作为回报，它免费为你提供量身定制、取悦你的内容。从真正的社交媒体向娱乐平台的转变似乎确实在带来回报。\"社交平台仍然主要通过广告收入实现商业化。这仍然是核心商业模式。广告收入持续增长，\"马特·纳瓦拉表示。全球社交媒体广告收入预计将从去年的2770亿美元（2060亿英镑）增长到2026年的3170亿美元（2360亿英镑）。Meta是最大的赢家。其广告销售额在2025年已经同比增长了22%。今年的广告销售额预计将达到2430亿美元（1810亿英镑），足以首次超越谷歌。人工智能驱动的数字广告定向投放正变得前所未有的高效和精准。\"社交平台允许企业在你浏览的内容中植入广告。每滚动三四次就会看到一条广告。它们是世界上最优秀的广告定向引擎。它们对你的兴趣了如指掌，因为你浏览过什么、点赞过什么、互动过什么、选择关注了什么、在应用的哪些区域停留了多长时间，诸如此类，\"纳瓦拉说。\"因此广告主会过来说：'我想把广告投放在英国30到60岁、对DIY感兴趣的人群旁边'，社交平台会掌握这些信息，并相应地投放广告。\"价格取决于广告主想要的展示次数（点击量）以及筛选条件的严格程度。在购买马匹的人群的社交媒体信息流中投放广告，比在购买冰淇淋的人群中投放成本更高。\n\n##段落\n更多类似内容：• TikTok在追踪你，即使你不使用该应用。以下是如何阻止它 • 如何防止AI让你的大脑变得迟钝 • 这张猴子自拍照将保护你免受AI垃圾内容的侵害\n\n##段落\n反弹会不会到来？难道不是很多人先上社交媒体看看朋友对自己的帖子或评论有何反应，然后才安下心来浏览专业制作的内容吗？无论是上这些应用的社交动机在减弱，还是其他原因，人们在社交媒体上花费的时间在2025年趋于平稳，平均为141分钟，略低于2024年的143分钟。然而，这只是故事的一部分，因为使用社交媒体的人数\n\n##段落\n人工智能以及人类在这些应用上花费的总时间持续上升。对于Z世代来说，这一数字更高。在美国，这一人群每天大约花费五小时，社交媒体已成为他们的主要搜索引擎和购物工具。\n\n##段落\n与此同时，对于那些怀念社交媒体初兴时期——能够与大致认识的人分享生活点滴、笑话或观点——的人们，平台内提供了工具，允许选择主要查看朋友和家人的内容，马特·纳瓦拉表示。“人们可以切换到那种信息流，”他说，“但大多数人并不这么做。”\n\n##段落\n——如果你喜欢这个故事，请订阅《必备清单》新闻通讯——精选的特色内容、视频和不容错过的新闻，每周两次发送到你的邮箱。欲了解更多商业及其他领域资讯，请在领英上关注我们。商业科技特色社交媒体商业世界",
+      "cn": "##段落\n\n2026年5月22日 分享 保存 设为Google偏好设置 约翰·劳伦森\n\n社交媒体平台曾经用于朋友间的交流——如今许多平台日益成为短视频娱乐中心。其商业模式是增加人们在应用上花费的时间，并提高广告收入。但消费者是否已经出现反弹？\n\n##段落\n\n奥蕾莉亚给自己冲了一杯咖啡，坐在巴黎附近美丽的花园里，打开Instagram“放松一下”。首先映入眼帘的是：“一个我非常喜欢的做室内设计的家伙。他现在在威尼斯。”她对室内设计情有独钟，甚至刚刚把19世纪英国设计师威廉·莫里斯的两幅鸟类画纹在了手臂上。她往下滑动。两只小猫在打架。“我喜欢动物，所以会刷到很多动物内容。社交媒体就是这样运作的。你点击香蕉，它就给你推送香蕉。”还有广告——尽管看起来和其他帖子没什么两样——涉及扫地机器人、减肥餐和床品（带有莫里斯风格的设计）。但看不到朋友。她在Instagram上有198个好友，但她说“情况完全变了。我几乎再也看不到任何朋友的帖子了。”她自己也基本不再发帖了。“我觉得反正也没人会看。”\n\n##段落\n\n虽然在Instagram尤其是Facebook上仍有热衷社交的业余发帖者，但从与认识的人交流转向浏览陌生人的专业制作内容，这一趋势在年轻用户中尤为明显。16岁的基利安正在接受厨师职业培训。他说自己经常刷TikTok和YouTube。“我喜欢看视频胜过看照片或消息。我看的是不认识的人制作的视频。我完全不发帖。我是个比较害羞的人。我待在自己的小圈子里。只看不说话。我把反应藏在心里。”\n\n##段落\n\n“我花很多时间刷内容创作者制作的视频，”同样16岁的露西说。“它们比认识的人的帖子更有趣。”她除了偶尔发一些24小时后消失的“快拍”外，从不发帖。无论是TikTok、Snapchat、Facebook还是Instagram，我们早已远离了社交媒体几年前还是“数字城镇广场”式的个人互动时代。在法国，2026年官方年度《数字晴雨表》显示，49%的社交媒体用户“仅偶尔活跃”。在英国，4月发布的Ofcom报告显示，积极发帖的用户同比下降，从61%降至49%。在美国，去年6月Morning Consult的一项调查发现，28%的受访者表示发帖频率低于前一年。目前只有33%的人每天发帖，而每天使用社交媒体进行娱乐的人比例为57%。在Z世代中，这一差距更加悬殊——18%积极发帖，74%被动浏览。瓦内萨·拉洛，一位驻巴黎的临床心理学家，专攻在线行为研究。\n\n她说：“用户已经越来越意识到，你在社交媒体上留下的痕迹会永远存在，有些人不再愿意维护可能肤浅的社交媒体关系。有些人不想暴露在发帖可能带来的批评风险中，或者担心自己的帖子在众多专业内容中显得逊色。”然而，拉洛补充说，人们并没有停止发帖，而是换了内容和地点。“例如，在TikTok上，年轻人发布大量内容，但更多是对现有素材的有趣模仿和混剪。目标是让人们发笑，而不是分享生活。”她说，分享生活仍然存在，但已从Instagram和Facebook等平台转移到WhatsApp等即时通讯应用。此外，人们也在转向Instagram和Snapchat上的私密群组。“这些是更私密的空间，你不会被广告和网红内容轰炸，”她说。\n\n社交媒体顾问马特·纳瓦拉（Matt Navarra）在《极客通讯》（Geekout Newsletter）中写道：“我们看到社交媒体正在一分为二。像Instagram和TikTok这样的大平台越来越侧重于娱乐和发现。WhatsApp则成为人们真正社交的地方。问题是，这类空间更难让企业获利。”小型企业主被迫成为主持人、编辑、潮流观察者和内容创作者，同时还要实际经营业务——马特·纳瓦拉。\n\n正是TikTok率先开创了一种算法，从你开始滚动屏幕的那一刻就能判断你喜欢什么，然后填充你的信息流，以计算出的内容让你在应用上停留尽可能长的时间。现在，马特·纳瓦拉说，“Meta已经在其Facebook和Instagram上构建了一个所谓的AI系统，用于非关联内容推荐，这基本上意味着，它们越来越倾向于向你展示你不关注的人的内容，因为机器认为你会喜欢。它不偏向于是否专业创作者、品牌或朋友。如果它看到你和某个朋友互动很多，你可能会看到更多他们的内容。只是，你的朋友是谁、你关注谁，在某种程度上已经变得无关紧要。”这一切意味着，长期利用社交媒体进行免费推广的小型企业必须提升自己的水平。\n\n“对于一些小企业来说，确实存在机会，”马特·纳瓦拉说。“面包店、花店、沙龙或本地咖啡馆，如果有好故事、强视觉或人们想看的幕后内容，仍然可以脱颖而出。但这也意味着工作方式已经改变。小型企业主被迫成为主持人、编辑、潮流观察者和内容创作者，同时还要实际经营业务。”\n\n##段落\n真正经营业务的核心部分。\"社交平台仍然主要通过广告收入实现商业化，这依然是核心商业模式，且广告收入持续增长——马特·纳瓦拉。社交媒体正演变为一种类似电视的被动媒介，尽管是那种会随着你切换频道而适应的电视，或者更确切地说，是一种对你如此了解，以至于它拿走遥控器这件事似乎也没那么重要的电视。你向平台提供关于自己的信息，平台利用这些信息获取商业利益，作为回报，它免费为你提供量身定制的取悦内容。从真正的社交媒体向娱乐平台的转变似乎确实在奏效。\"社交平台仍然主要通过广告收入实现商业化，这依然是核心商业模式，且广告收入持续增长，\"马特·纳瓦拉表示。全球社交媒体广告收入预计将从去年的2770亿美元（2060亿英镑）增长至2026年的3170亿美元（2360亿英镑）。Meta是最大的赢家，其2025年广告销售额已同比增长22%，预计今年将达到2430亿美元（1810亿英镑），足以首次超越谷歌。AI驱动的数字广告定向投放正变得前所未有的高效和精准。\"社交平台允许企业在你浏览的内容中插入广告，每滚动三四次就会出现一条广告。它们是全球最优秀的广告定向引擎，因为你的浏览记录、点赞、互动、关注选择、在应用特定区域停留的时间等信息，它们对你的兴趣了如指掌，\"纳瓦拉说。\"因此广告主会说：'我想把广告投放给英国30至60岁、对DIY感兴趣的人群'，社交平台掌握这些信息，就会相应地进行广告投放。\"价格取决于广告主想要的曝光次数（点击量）以及筛选条件的严格程度。将广告投放到购买马匹的人群的社交媒体信息流中，比投放到购买冰淇淋的人群要花费更多。\n\n##段落\n更多类似内容：• TikTok正在追踪你，即使你不使用该应用，以下是阻止方法 • 如何防止AI让你的大脑变得迟钝 • 这张猴子自拍照将保护你免受AI垃圾内容的侵害\n\n##段落\n是否会有反弹出现？难道不是很多人先上社交媒体看看朋友对自己的帖子或评论有何反应，然后才安下心来浏览专业制作的内容吗？无论是使用这些应用的社交动力减弱还是其他原因，人们在社交媒体上花费的时间在2025年趋于平稳，平均为141分钟，略低于2024年的143分钟。然而，这只是故事的一部分，因为使用社交媒体的人数\n\n##段落  \n人工智能以及人类在这些应用上花费的总时间持续增长。对于Z世代而言，这一数字更高。在美国，这一群体每天约花费五小时，社交媒体已成为他们的主要搜索引擎和购物工具。与此同时，对于那些怀念社交媒体刚兴起时、能与熟人分享生活点滴、笑话或观点的人，平台内也有工具可选，马特·纳瓦拉表示，用户可以选择主要查看朋友和家人的内容。他说：“人们可以切换到那种信息流，但大多数人并不这么做。”——如果你喜欢这个故事，请订阅《必读清单》新闻通讯，每周两次精选专题、视频和不可错过的新闻，直接发送到你的邮箱。如需更多商业及其他领域内容，请在领英上关注我们。商业科技专题社交媒体商业世界",
       "phrases": [
         {
           "en": "consumer backlash",
-          "zh": "消费者抵触情绪"
+          "zh": "消费者抵制/反弹"
         },
         {
-          "en": "scroll down",
-          "zh": "向下滑动浏览"
-        },
-        {
-          "en": "vocational training",
-          "zh": "职业培训"
+          "en": "scrolls down",
+          "zh": "向下滑动（屏幕）"
         },
         {
           "en": "stay in my bubble",
-          "zh": "待在自己的小圈子里"
+          "zh": "待在自己的小圈子里/与外界隔绝"
+        },
+        {
+          "en": "keep my reactions to myself",
+          "zh": "不表达自己的看法/默默观看"
         },
         {
           "en": "digital town square",
-          "zh": "数字城市广场"
+          "zh": "数字广场（指公共交流空间）"
         },
         {
           "en": "up their game",
-          "zh": "提升水平/加把劲"
-        },
-        {
-          "en": "trend spotters",
-          "zh": "趋势发现者"
+          "zh": "提升水平/改进表现"
         },
         {
           "en": "break through",
-          "zh": "脱颖而出/突破"
+          "zh": "脱颖而出/取得突破"
+        },
+        {
+          "en": "behind-the-scenes content",
+          "zh": "幕后内容/花絮"
         }
       ],
       "minutes": 9,
@@ -8468,39 +8468,39 @@
         "<p>The true story of Germany ' s <u>rampant</u> <u>raccoons</u></p>",
         "<p>Social <u>media</u> <u>accounts</u>, like Martinez and Gordon's, and home <u>surveillance</u> <u>cameras</u> are <u>allowing</u> people \"to <u>understand</u> <u>bears</u> as <u>individuals</u> and <u>providing</u> an <u>intimate</u> look into their <u>lives</u>\", says Sherman. But he has some <u>reservations</u>. \"There's always the risk of Disneyfication, of <u>painting</u> too <u>fuzzy</u> a picture. They're not <u>teddy</u> <u>bears</u>, they are still wild <u>animals</u>.\" Sherman <u>warns</u> that it is <u>important</u> that <u>bears</u> and <u>humans</u> don't <u>become</u> too <u>comfortable</u> <u>around</u> each other. \"Part of <u>loving</u> <u>bears</u> is <u>creating</u> <u>healthy</u> <u>boundaries</u> and <u>setting</u> the <u>bears</u> up for <u>success</u> when they <u>inevitably</u> pass <u>through</u> our <u>neighbourhoods</u>,\" he says. <u>Through</u> their Instagram <u>account</u> <u>dedicated</u> to the <u>bears</u>, @<u>poolbearlife</u>, Gordon and Martinez hope to <u>raise</u> <u>awareness</u> of how people can <u>behave</u> <u>safely</u> <u>around</u> <u>bears</u> and how to <u>mitigate</u> <u>unwanted</u> <u>encounters</u>. They <u>stress</u> that their <u>relationship</u> with black <u>bears</u> is not <u>something</u> that could <u>necessarily</u> be <u>universal</u>. \"This <u>works</u> for us, for <u>where</u> we live,\" says Gordon.  \"It's all about <u>finding</u> that <u>balance</u> with <u>wildlife</u>, how can we co-thrive?\" says Martinez. \"We live here and the <u>bears</u> live here. We don't want them to go <u>anywhere</u>.\" -- For <u>essential</u> <u>climate</u> news and <u>hopeful</u> <u>developments</u> to your <u>inbox</u>, sign up to the  Future Earth <u>newsletter</u>, <u>while</u>  The <u>Essential</u> List <u>delivers</u> a <u>handpicked</u> <u>selection</u> of <u>features</u> and <u>insights</u> <u>twice</u> a week.   For more <u>science</u>, <u>technology</u>, <u>environment</u> and <u>health</u> <u>stories</u> from the BBC, <u>follow</u> us on  Facebook and  Instagram . Earth <u>Wildlife</u> Nature & <u>Outdoors</u> <u>Environment</u> Heatwaves <u>Features</u> Bear</p>"
       ],
-      "cn": "3天前 分享 保存 设为Google偏好设置 伊莎贝尔·格雷特森 黑熊喜欢在洛杉矶布莱恩·戈登和里卡多·马丁内斯的泳池里休闲。随着南加州熊出没事件增多，这对夫妇分享了他们毛茸茸访客的视频，并揭示了他们如何与这些野生动物共存。当布莱恩·戈登第一次得知黑熊在他洛杉矶购置的房子里游泳时，他非常害怕。“我从没见过真正的熊。我说，‘我们就建一堵带铁丝网的高墙吧，’”他回忆道。四年后，戈登最爱的莫过于看着一家熊在泳池里玩耍、在花园里跑来跑去。这些毛茸茸的访客每周会来好几次。（向下滚动观看熊玩耍的视频。）“它们来这里抓树、打个盹、如果天热就跳进泳池，这都没问题，只要我们不伤害它们，也不伤害我们自己，”戈登说。戈登和他的伴侣里卡多·马丁内斯将和平地与熊共享泳池和花园视为己任。但在这些熊在泳池里放松的迷人视频背后，有一个关于警惕和安全预防措施的更深层故事，正是这些措施让共存成为可能。这对夫妇住在南加州洛杉矶县的蒙罗维亚，那里大约有1600只熊。他们的房子位于圣盖博山脉的山麓，毗邻占地70万英亩（2830平方公里）的安吉利斯国家森林。这对夫妇搬进来后，几乎立刻就开始发现熊出没。他们最初尝试通过大喊、使用气喇叭，偶尔用软橡胶颗粒的彩弹枪来驱赶熊。“但感觉糟透了，”马丁内斯说。“我们心里不舒服。我们说，只要它们不闯进屋里、不翻垃圾桶，那它们来就没问题。”他们寻求一种方法，既能保证自己和熊的安全，尽管距离很近。“我们后来采用了不那么激进的手段，说实话，这些方法对我们更有效，”戈登说。我们遇到过熊闯入烧烤派对——布莱恩·戈登 马丁内斯说，黑熊“被误解了”。“它们不会吃掉你，”马丁内斯说。黑熊袭击事件极为罕见，加州历史上仅记录过一次致命袭击。这对夫妇表示，他们总是与熊保持“安全距离”，当动物在附近时，他们会待在室内。不过，有时也会有意外相遇。“我们遇到过熊闯入烧烤派对，”戈登说。“但如果它们看到你，通常只会走开。”戈登和马丁内斯说，他们最喜欢的熊访客是玛蒂，他们最初是在2023年认识她的，那时她是一只极其好奇的小熊。她喜欢在泳池里玩耍，喜欢在周围闲逛。\n\n##段落\n还有花园。“她是我们的金童，”马丁内斯说。一年后，玛蒂带着她的幼崽回来了。“不幸的是，她失去了那些幼崽，所以我们和她一起经历了情绪上的过山车，”马丁内斯说。今年，她带着新的幼崽来到了房子。“它们是你见过的最可爱的[生物]。它们非常讨人喜欢，但也令人望而生畏，因为它们有长长的爪子。”我们住在这里，熊也住在这里。我们不想让它们去任何地方——里卡多·马丁内斯\n\n##段落\n庞基是另一只“精力充沛的一岁熊”，戈登说，她最初是作为幼崽和母亲一起来到房子的。“她会把所有的泳池浮具都弄破。”她曾爬上一个充气纸杯蛋糕，漂到泳池中央。“那年夏天，她在泳池里的嬉戏真的俘获了我们的心，”戈登说。他们给另一位常客起了个绰号叫“纳皮”，因为这只母熊喜欢漂浮在泳池里打长盹。“她真的会走到泳池台阶边，进去，然后把头低下。她是我见过的唯一一只能在泳池里睡一个多小时午觉的熊，”戈登说。如果她看到这对夫妇，纳皮会朝他们喷气。“她是个大熊妈妈，对生活中的一切都有点脾气暴躁，”戈登开玩笑说。\n\n##段落\n这些角色是越来越多的黑熊试图与加州人共同安家的一部分，这些黑熊经常给当地社区带来挑战。加州大学洛杉矶分校研究员威尔逊·谢尔曼表示，加州有超过6万只黑熊。黑熊在洛杉矶郊区越来越常见。“它们是真正聪明、适应性强的杂食动物。它们什么都吃，并且已经学会了如何在人们居住的地方获取卡路里，”研究社区如何应对黑熊的谢尔曼说。\n\n##段落\n然而，并非所有与熊的相遇都像戈登和马丁内斯的经历那样积极。“我们确实经常看到熊翻垃圾和闯入民宅的事件，”谢尔曼说。“真正可悲的是，当事情出错时，通常是熊最终付出代价。过去几年里，已有几只熊被处死。”一只名叫布隆迪的母黑熊在蒙罗维亚袭击了一位遛狗的女性后，于2026年3月被加州鱼类和野生动物部门实施安乐死。布隆迪也曾几次造访戈登和马丁内斯的花园，从未造成任何问题。戈登组织了一份请愿书，试图阻止安乐死，近6000人签名。“这非常令人痛心。布隆迪就像所有熊妈妈一样，只是想找个庇护所，抚养孩子并过自己的生活，”他说。加州鱼类和野生动物部门表示，DNA检测显示，被捕获的熊应对该事件以及之前的一起事件负责。\n\n2025年6月，一只黑熊在蒙罗维亚袭击了一名坐在自家门廊上的老年居民。“安乐死仅在动物对公共安全构成威胁且无法安全放归野外时，作为最后手段使用，”一位发言人表示。“重新安置看似可行，但在可能危及公共安全时并非选项。熊有很强的空间记忆，往往能返回熟悉的区域。”他补充说，熊的幼崽目前在一家野生动物康复中心接受照料，待准备好后将被放归到合适的栖息地。谢尔曼表示，为尽量减少与熊的冲突，社区限制接触诱因（如垃圾桶和户外遗留食物）至关重要。“对一只熊来说，当你一直挖虫子、找树根为食时，发现一个装满披萨的盒子，简直是改变人生的大事。”让社区无熊是一项“集体训练工作”，谢尔曼补充道。“你们必须步调一致，因为如果某个人院子里留了大量好东西，熊很可能想，‘我应该去其他几个院子看看。’”戈登说，他们在处理垃圾时“高度警惕”。“我们甚至不用自家垃圾桶，而是每周几次把垃圾运到我的办公室。”他们还保持门窗紧闭，从不在车里留食物。它们不是泰迪熊，它们仍是野生动物——威尔逊·谢尔曼这对夫妇表示，他们从未与到访家中的熊有过负面接触。马丁内斯曾不小心让车库门开着，发现纳皮在里面。“我们互相吓了一跳，”他说，“我慢慢后退，因为你绝不能把熊逼到角落。”他说，她从车库出来就离开了。更多类似内容：灰熊为何需要专属徒步小径；看到熊时该怎么做；德国浣熊泛滥的真实故事。谢尔曼说，像马丁内斯和戈登这样的社交媒体账号以及家庭监控摄像头，让人们得以“了解熊的个体差异，并窥见它们生活的亲密一面”。但他也有保留意见。“总存在迪士尼化（Disneyfication）的风险，把画面描绘得太柔和。它们不是泰迪熊，它们仍是野生动物。”谢尔曼警告说，重要的是熊与人之间不要变得过于舒适。“爱熊的一部分在于建立健康界限，并为熊在不可避免地经过我们社区时创造成功条件，”他说。通过专门记录熊的Instagram账号@poolbearlife，戈登和马丁内斯希望提高人们对如何在熊周围安全行为以及如何减少不必要遭遇的认识。他们强调，他们与黑熊的关系是\n\n这未必是放之四海而皆准的做法。“这对我们来说有效，适合我们生活的地方，”戈登说。“关键在于找到与野生动物共存的平衡点，我们如何才能共同繁荣？”马丁内斯说。“我们住在这里，熊也住在这里。我们不希望它们去任何地方。”——如需获取重要的气候新闻和充满希望的进展，请订阅《未来地球》通讯；《精选清单》每周两次为您奉上精心挑选的特稿与见解。欲了解更多来自BBC的科学、技术、环境和健康故事，请在Facebook和Instagram上关注我们。地球 野生动物 自然与户外 环境 热浪 特稿 熊",
+      "cn": "##段落\n三天前 分享 保存 设为Google首选 伊莎贝尔·杰勒特森 黑熊喜欢在洛杉矶布莱恩·戈登和里卡多·马丁内斯的泳池里消遣。随着南加州熊出没事件日益增多，这对夫妇分享了他们毛茸茸访客的视频，并透露了他们如何与这些野生动物共存。\n\n##段落\n当布莱恩·戈登第一次得知黑熊在他正打算购买的洛杉矶房子里游泳时，他非常害怕。“我从未在现实生活中见过熊。我说，‘我们干脆建一堵带铁丝网的高墙吧，’”他回忆道。四年后，戈登最爱的莫过于看着一家熊在他的泳池里玩耍、在花园里跑来跑去。这些毛茸茸的访客每周都会光顾好几次。（向下滚动观看熊玩耍的视频。）“它们来这里抓抓树、打个盹、天热了跳进泳池，完全没问题，只要我们不伤害它们，也不伤害我们自己，”戈登说。\n\n##段落\n戈登和他的伴侣里卡多·马丁内斯把与熊和平共享泳池和花园视为自己的使命。但在这些熊在泳池中放松的迷人视频背后，是一个关于警惕和安全防范的更深层故事，正是这些让共存成为可能。\n\n##段落\n这对夫妇住在南加州洛杉矶县蒙罗维亚，那里是大约1600只熊的家园。他们的房子位于圣盖博山脉山麓，紧邻占地70万英亩（2830平方公里）的安吉利斯国家森林。夫妇俩搬进来后，几乎立刻就发现了熊的踪迹。他们起初试图通过大喊大叫、使用气喇叭，偶尔用装有软橡胶弹丸的彩弹枪来驱赶熊。“但那感觉糟透了，”马丁内斯说。“我们心里过意不去。我们说，只要它们不闯进屋里、不翻垃圾桶，那它们来转转就没问题。”他们寻求一种既能保证自身安全又能保护熊的方法，尽管彼此距离很近。“我们后来采用了不那么激进的手段，老实说，这对我们更有效，”戈登说。\n\n##段落\n我们遇到过熊闯入烧烤现场的情况——布莱恩·戈登 马丁内斯说黑熊“被误解了”。“它们不会吃掉你的，”马丁内斯说。黑熊袭击事件极为罕见，加州历史上仅记录过一例致命袭击。这对夫妇表示，他们始终与熊保持“安全距离”，当动物在附近时，他们就待在室内。不过有时也会发生意外相遇。“我们遇到过熊闯入烧烤现场的情况，”戈登说。“但如果它们看到你，通常只会走开。”戈登和马丁内斯说，他们最喜欢的熊访客是麦迪，他们最初在2023年认识她时，她还是一只极其好奇的小熊。她喜欢在泳池里玩耍，喜欢在周围闲逛。\n\n##段落\n“她是我们的金孩子，”马丁内斯说。一年后，玛蒂带着她的幼崽回来了。“不幸的是，她失去了那些幼崽，所以我们和她一起经历了情绪上的过山车，”马丁内斯说。今年，她带着新生的幼崽来到了房子。“它们是你见过的最可爱的[生物]。它们非常惹人喜爱，但也令人畏惧，因为它们有长长的爪子。”我们住在这里，熊也住在这里。我们不想让它们去任何地方——里卡多·马丁内斯\n\n##段落\nPunky是另一只“精力充沛的一岁熊”，戈登说，她最初是作为幼崽和母亲一起来到房子的。“她会把所有的泳池浮具都弄破。”她曾经爬上一个充气蛋糕，漂到泳池中央。“那个夏天，她在泳池里的乐趣真的俘获了我们的心，”戈登说。他们给另一位常客起了个绰号叫“纳皮”，因为这只母熊喜欢在泳池里漂浮时打长长的午盹。“她真的会走到泳池台阶边，进去，把头低下。她是我见过的唯一一只在泳池里打一小时盹的熊，”戈登说。如果她看到这对夫妇，纳皮会朝他们喷气。“她是个熊妈妈，对生活中的一切都有点暴躁，”戈登开玩笑说。\n\n##段落\n这些角色是越来越多的黑熊试图与加州人共同安家的一部分，它们经常给当地社区带来挑战。加州大学洛杉矶分校的研究员威尔逊·谢尔曼说，加州生活着超过6万只黑熊。黑熊在洛杉矶郊区越来越常见。“它们是非常聪明、适应性强的杂食动物。它们什么都吃，并且学会了如何在人类居住的地方获取卡路里，”研究社区如何应对黑熊的谢尔曼说。\n\n##段落\n并非所有与熊的相遇都像戈登和马丁内斯的经历那样积极。“我们确实经常看到熊翻垃圾和闯入房屋的事件，”谢尔曼说。“真正可悲的是，当事情出错时，通常最终付出代价的是熊。过去几年里，有几只熊被处死了。”一只名叫布隆迪的母黑熊在2026年3月于蒙罗维亚抓伤一名遛狗的女性后，被加州鱼类和野生动物部门实施安乐死。布隆迪也曾几次造访戈登和马丁内斯的花园，从未造成任何问题。戈登组织了一份请愿书，试图阻止安乐死，有近6000人签名。“这非常令人心碎。布隆迪和所有熊妈妈一样，只是在试图寻找庇护所，抚养孩子，过自己的生活，”他说。加州鱼类和野生动物部门表示，DNA测试证实，被捕获的熊对这起事件以及之前的一起事件负有责任。\n\n2025年6月，蒙罗维亚一位年长居民坐在自家门廊时遭到袭击。“安乐死仅在动物对公共安全构成风险且无法安全放归野外时，作为最后手段使用，”一位发言人表示。“搬迁看似是解决方案，但当可能危及公共安全时，这并非选项。熊具有强烈的空间记忆，往往会返回熟悉的区域。”他补充说，这只熊的幼崽正在野生动物康复中心接受照料，待时机成熟后将放归适宜的栖息地。谢尔曼表示，为尽量减少与熊的冲突，社区限制接触诱因（如垃圾桶和户外遗留食物）至关重要。“对一只熊来说，当你一直在挖蠕虫和树根为食时，发现一个装满披萨的盒子简直是改变命运的事。”保持社区无熊是一项“集体训练努力”，谢尔曼补充道。“所有人都必须达成共识，因为如果一个人院子里留了大量好东西，熊很可能想，‘我应该去检查其他几个院子。’”戈登表示，他们在垃圾处理方面“高度警惕”。“我们甚至不用自家的垃圾桶。我每周几次把垃圾运到办公室。”他们还保持门窗关闭，并且从不将食物留在车内。它们不是泰迪熊，它们仍然是野生动物——威尔逊·谢尔曼这对夫妇表示，他们从未与到访家中的任何熊有过负面接触。马丁内斯曾有一次不小心让车库门开着，发现纳皮在里面。“我们互相吓了一跳，”他说。“我慢慢后退，因为你永远不想困住一只熊。”他说，她从车库出来，然后离开了。更多类似内容：\n为什么灰熊需要自己的徒步小径\n看到熊时该怎么办\n德国浣熊泛滥的真实故事谢尔曼表示，像马丁内斯和戈登这样的社交媒体账号以及家庭监控摄像头，让人们“将熊视为个体，并得以亲密一窥它们的生活”。但他有些保留意见。“总有迪士尼化的风险，把画面描绘得过于温馨。它们不是泰迪熊，它们仍然是野生动物。”谢尔曼警告说，熊和人类彼此过于舒适相处是危险的。“爱熊的一部分在于建立健康的界限，并确保熊在不可避免地经过我们社区时能够顺利生存，”他说。通过他们专门记录熊的Instagram账号@poolbearlife，戈登和马丁内斯希望提高人们对如何在熊周围安全行为以及如何减少不必要遭遇的认识。他们强调，他们与黑熊的关系是\n\n这未必是放之四海而皆准的做法。戈登说：“这对我们有效，适合我们生活的地方。”马丁内斯说：“关键在于找到与野生动物共存的平衡点，我们如何共同繁荣？”“我们住在这里，熊也住在这里。我们不希望它们去任何地方。”——如需获取关键气候新闻和有希望的进展，请订阅《未来地球》简报，而《要闻清单》每周两次为您精选专题和见解。欲了解更多BBC科学、技术、环境和健康报道，请在Facebook和Instagram上关注我们。地球 野生动物 自然与户外 环境 热浪 专题 熊",
       "phrases": [
         {
-          "en": "lounge in",
-          "zh": "懒洋洋地躺在（某处）"
+          "en": "co-exist with",
+          "zh": "与……共存"
         },
         {
-          "en": "make it their mission to",
-          "zh": "把……作为他们的使命"
+          "en": "stop by",
+          "zh": "顺道来访"
+        },
+        {
+          "en": "make it one's mission",
+          "zh": "把……作为自己的使命"
         },
         {
           "en": "settle on",
-          "zh": "选定；决定采用"
+          "zh": "选定，决定"
         },
         {
           "en": "crash a barbecue",
-          "zh": "闯入烧烤聚会（不请自来）"
+          "zh": "闯入烧烤聚会"
         },
         {
-          "en": "go through an emotional rollercoaster",
-          "zh": "经历情绪起伏波动"
+          "en": "with cubs in tow",
+          "zh": "身后带着幼崽"
         },
         {
-          "en": "steal one's heart",
-          "zh": "赢得某人的心"
+          "en": "emotional rollercoaster",
+          "zh": "情绪大起大落"
         },
         {
-          "en": "huff at someone",
-          "zh": "对某人气呼呼地吹气（表示不满）"
-        },
-        {
-          "en": "when things go awry",
-          "zh": "当事情出错时"
+          "en": "pay the price",
+          "zh": "付出代价"
         }
       ],
       "minutes": 9,
@@ -8523,14 +8523,14 @@
           "w": "bears",
           "p": "/beəz/",
           "t": "熊（复数）",
-          "en": "large heavy mammals",
+          "en": "large mammals",
           "lv": "阅读生词"
         },
         {
           "w": "lounging",
           "p": "/ˈlaʊndʒɪŋ/",
           "t": "懒散地躺",
-          "en": "lying or sitting in a relaxed way",
+          "en": "lying around lazily",
           "lv": "阅读生词"
         },
         {
@@ -8593,7 +8593,7 @@
           "w": "coexisting",
           "p": "/ˌkəʊɪɡˈzɪstɪŋ/",
           "t": "共存",
-          "en": "living together in harmony",
+          "en": "living together peacefully",
           "lv": "阅读生词"
         },
         {
@@ -8634,7 +8634,7 @@
         {
           "w": "barbed",
           "p": "/bɑːbd/",
-          "t": "带刺的",
+          "t": "带倒刺的",
           "en": "having sharp points",
           "lv": "阅读生词"
         },
@@ -8642,7 +8642,7 @@
           "w": "recalls",
           "p": "/rɪˈkɔːlz/",
           "t": "回忆；召回",
-          "en": "remembers or calls back",
+          "en": "remembers; calls back",
           "lv": "阅读生词"
         },
         {
@@ -8662,8 +8662,8 @@
         {
           "w": "loves",
           "p": "/lʌvz/",
-          "t": "爱（第三人称单数）",
-          "en": "has deep affection for",
+          "t": "爱",
+          "en": "feels deep affection",
           "lv": "阅读生词"
         },
         {
@@ -8740,7 +8740,7 @@
           "w": "scratch",
           "p": "/skrætʃ/",
           "t": "抓；挠",
-          "en": "rub or scrape with claws or nails",
+          "en": "rub with claws",
           "lv": "阅读生词"
         },
         {
@@ -8782,7 +8782,7 @@
           "w": "peacefully",
           "p": "/ˈpiːsfəli/",
           "t": "和平地",
-          "en": "in a calm and quiet way",
+          "en": "without disturbance",
           "lv": "阅读生词"
         },
         {
@@ -8836,16 +8836,16 @@
         },
         {
           "w": "precautions",
-          "p": "/prɪˈkɔːʃənz/",
+          "p": "/prɪˈkɔːʃnz/",
           "t": "预防措施",
-          "en": "actions taken to prevent harm",
+          "en": "actions to prevent harm",
           "lv": "阅读生词"
         },
         {
           "w": "coexistence",
           "p": "/ˌkəʊɪɡˈzɪstəns/",
           "t": "共存",
-          "en": "living together peacefully",
+          "en": "living together",
           "lv": "阅读生词"
         },
         {
@@ -8859,13 +8859,13 @@
           "w": "foothills",
           "p": "/ˈfʊthɪlz/",
           "t": "山麓丘陵",
-          "en": "hills at the base of a mountain",
+          "en": "hills at base of mountains",
           "lv": "阅读生词"
         },
         {
           "w": "borders",
           "p": "/ˈbɔːdəz/",
-          "t": "边界；接壤",
+          "t": "边界",
           "en": "edges or boundaries",
           "lv": "阅读生词"
         },
@@ -8873,13 +8873,13 @@
           "w": "spans",
           "p": "/spænz/",
           "t": "跨越；持续",
-          "en": "extends across or over",
+          "en": "extends across",
           "lv": "阅读生词"
         },
         {
           "w": "acres",
           "p": "/ˈeɪkəz/",
-          "t": "英亩（复数）",
+          "t": "英亩",
           "en": "units of land area",
           "lv": "阅读生词"
         },
@@ -8900,7 +8900,7 @@
         {
           "w": "spotting",
           "p": "/ˈspɒtɪŋ/",
-          "t": "发现； spotting",
+          "t": "发现",
           "en": "seeing or noticing",
           "lv": "阅读生词"
         },
@@ -8957,7 +8957,7 @@
           "w": "horns",
           "p": "/hɔːnz/",
           "t": "喇叭；角",
-          "en": "devices for making sound or animal horns",
+          "en": "devices for sound; animal horns",
           "lv": "阅读生词"
         },
         {
@@ -8971,27 +8971,27 @@
           "w": "paintball",
           "p": "/ˈpeɪntbɔːl/",
           "t": "彩弹",
-          "en": "game where players shoot paint pellets",
+          "en": "game with paint pellets",
           "lv": "阅读生词"
         },
         {
           "w": "rubber",
           "p": "/ˈrʌbə/",
           "t": "橡胶",
-          "en": "elastic material from trees or synthetic",
+          "en": "elastic material",
           "lv": "阅读生词"
         },
         {
           "w": "pellets",
           "p": "/ˈpelɪts/",
           "t": "小弹丸",
-          "en": "small round objects",
+          "en": "small projectiles",
           "lv": "阅读生词"
         },
         {
           "w": "horrible",
           "p": "/ˈhɒrəbl/",
-          "t": "可怕的；糟糕的",
+          "t": "可怕的",
           "en": "very unpleasant",
           "lv": "阅读生词"
         },
@@ -9054,7 +9054,7 @@
         {
           "w": "proximity",
           "p": "/prɒkˈsɪməti/",
-          "t": "接近；邻近",
+          "t": "接近",
           "en": "nearness",
           "lv": "阅读生词"
         },
@@ -9103,15 +9103,15 @@
         {
           "w": "crashing",
           "p": "/ˈkræʃɪŋ/",
-          "t": "碰撞；闯入",
-          "en": "hitting hard or breaking in",
+          "t": "猛撞；崩溃",
+          "en": "colliding violently",
           "lv": "阅读生词"
         },
         {
           "w": "barbecues",
           "p": "/ˈbɑːbɪkjuːz/",
-          "t": "烧烤（复数）",
-          "en": "outdoor cooking events",
+          "t": "烧烤",
+          "en": "outdoor grills",
           "lv": "阅读生词"
         },
         {
@@ -9194,7 +9194,7 @@
         {
           "w": "unplanned",
           "p": "/ˌʌnˈplænd/",
-          "t": "未计划的",
+          "t": "计划外的",
           "en": "not planned",
           "lv": "阅读生词"
         },
@@ -9264,7 +9264,7 @@
         {
           "w": "returned",
           "p": "/rɪˈtɜːnd/",
-          "t": "返回（过去式）",
+          "t": "返回",
           "en": "came back",
           "lv": "阅读生词"
         },
@@ -9293,7 +9293,7 @@
           "w": "rollercoaster",
           "p": "/ˈrəʊləkəʊstə/",
           "t": "过山车",
-          "en": "amusement ride with steep drops",
+          "en": "amusement ride",
           "lv": "阅读生词"
         },
         {
@@ -9313,7 +9313,7 @@
         {
           "w": "creatures",
           "p": "/ˈkriːtʃəz/",
-          "t": "生物（复数）",
+          "t": "生物",
           "en": "living beings",
           "lv": "阅读生词"
         },
@@ -9328,20 +9328,20 @@
           "w": "cuddly",
           "p": "/ˈkʌdli/",
           "t": "令人想拥抱的",
-          "en": "soft and nice to hug",
+          "en": "soft and huggable",
           "lv": "阅读生词"
         },
         {
           "w": "intimidating",
           "p": "/ɪnˈtɪmɪdeɪtɪŋ/",
-          "t": "吓人的",
+          "t": "令人生畏的",
           "en": "frightening",
           "lv": "阅读生词"
         },
         {
           "w": "claws",
           "p": "/klɔːz/",
-          "t": "爪子（复数）",
+          "t": "爪子",
           "en": "sharp nails of animals",
           "lv": "阅读生词"
         },
@@ -9362,7 +9362,7 @@
         {
           "w": "rambunctious",
           "p": "/ræmˈbʌŋkʃəs/",
-          "t": "喧闹的；难管束的",
+          "t": "喧闹的",
           "en": "noisy and energetic",
           "lv": "阅读生词"
         },
@@ -9370,13 +9370,13 @@
           "w": "yearling",
           "p": "/ˈjɪəlɪŋ/",
           "t": "一岁幼兽",
-          "en": "animal one year old",
+          "en": "one-year-old animal",
           "lv": "阅读生词"
         },
         {
           "w": "floaties",
           "p": "/ˈfləʊtiz/",
-          "t": "浮水圈（复数）",
+          "t": "游泳浮具",
           "en": "inflatable aids for swimming",
           "lv": "阅读生词"
         },
@@ -9391,20 +9391,20 @@
           "w": "inflatable",
           "p": "/ɪnˈfleɪtəbl/",
           "t": "可充气的",
-          "en": "able to be filled with air",
+          "en": "able to be inflated",
           "lv": "阅读生词"
         },
         {
           "w": "cupcake",
           "p": "/ˈkʌpkeɪk/",
           "t": "纸杯蛋糕",
-          "en": "small cake in a cup shape",
+          "en": "small cake",
           "lv": "阅读生词"
         },
         {
           "w": "drifted",
           "p": "/drɪftɪd/",
-          "t": "漂流（过去式）",
+          "t": "漂流",
           "en": "floated slowly",
           "lv": "阅读生词"
         },
@@ -9425,8 +9425,8 @@
         {
           "w": "hearts",
           "p": "/hɑːts/",
-          "t": "心（复数）",
-          "en": "organs or emotions",
+          "t": "心",
+          "en": "organs; emotions",
           "lv": "阅读生词"
         },
         {
@@ -9439,8 +9439,8 @@
         {
           "w": "nicknamed",
           "p": "/ˈnɪkneɪmd/",
-          "t": "起绰号（过去式）",
-          "en": "gave a nickname",
+          "t": "起绰号",
+          "en": "given a nickname",
           "lv": "阅读生词"
         },
         {
@@ -9460,14 +9460,14 @@
         {
           "w": "likes",
           "p": "/laɪks/",
-          "t": "喜欢（第三人称单数）",
+          "t": "喜欢",
           "en": "enjoys",
           "lv": "阅读生词"
         },
         {
           "w": "siestas",
           "p": "/siˈestəz/",
-          "t": "午睡（复数）",
+          "t": "午睡",
           "en": "afternoon naps",
           "lv": "阅读生词"
         },
@@ -9502,7 +9502,7 @@
         {
           "w": "hourlong",
           "p": "/ˈaʊəlɒŋ/",
-          "t": "一小时的",
+          "t": "长达一小时的",
           "en": "lasting one hour",
           "lv": "阅读生词"
         },
@@ -9642,7 +9642,7 @@
         {
           "w": "suburbs",
           "p": "/ˈsʌbɜːbz/",
-          "t": "郊区（复数）",
+          "t": "郊区",
           "en": "residential areas outside city",
           "lv": "阅读生词"
         },
@@ -9663,15 +9663,15 @@
         {
           "w": "omnivores",
           "p": "/ˈɒmnɪvɔːz/",
-          "t": "杂食动物（复数）",
-          "en": "animals eating both plants and meat",
+          "t": "杂食动物",
+          "en": "eat both plants and meat",
           "lv": "阅读生词"
         },
         {
           "w": "calories",
           "p": "/ˈkæləriz/",
-          "t": "卡路里（复数）",
-          "en": "units of energy in food",
+          "t": "卡路里",
+          "en": "units of energy",
           "lv": "阅读生词"
         },
         {
@@ -9719,8 +9719,8 @@
         {
           "w": "incidents",
           "p": "/ˈɪnsɪdənts/",
-          "t": "事件（复数）",
-          "en": "events or occurrences",
+          "t": "事件",
+          "en": "occurrences",
           "lv": "阅读生词"
         },
         {
@@ -9740,8 +9740,8 @@
         {
           "w": "raiding",
           "p": "/ˈreɪdɪŋ/",
-          "t": "突袭；洗劫",
-          "en": "attacking suddenly",
+          "t": "突袭；搜刮",
+          "en": "attacking or entering to steal",
           "lv": "阅读生词"
         },
         {
@@ -9782,15 +9782,15 @@
         {
           "w": "euthanised",
           "p": "/ˈjuːθənaɪzd/",
-          "t": "安乐死（过去式）",
+          "t": "安乐死",
           "en": "put to death humanely",
           "lv": "阅读生词"
         },
         {
           "w": "swiped",
           "p": "/swaɪpt/",
-          "t": "偷；刷卡（过去式）",
-          "en": "stole or passed card",
+          "t": "偷；刷卡",
+          "en": "stole; moved hand across",
           "lv": "阅读生词"
         },
         {
@@ -9830,7 +9830,7 @@
         },
         {
           "w": "petition",
-          "p": "/pəˈtɪʃən/",
+          "p": "/pəˈtɪʃn/",
           "t": "请愿书",
           "en": "formal request",
           "lv": "阅读生词"
@@ -9846,7 +9846,7 @@
           "w": "euthanasia",
           "p": "/ˌjuːθəˈneɪziə/",
           "t": "安乐死",
-          "en": "painless killing for mercy",
+          "en": "mercy killing",
           "lv": "阅读生词"
         },
         {
@@ -9866,7 +9866,7 @@
         {
           "w": "resembles",
           "p": "/rɪˈzemblz/",
-          "t": "像；类似",
+          "t": "类似",
           "en": "looks like",
           "lv": "阅读生词"
         },
@@ -9929,7 +9929,7 @@
         {
           "w": "elderly",
           "p": "/ˈeldəli/",
-          "t": "年老的",
+          "t": "年长的",
           "en": "old",
           "lv": "阅读生词"
         },
@@ -9958,7 +9958,7 @@
           "w": "resort",
           "p": "/rɪˈzɔːt/",
           "t": "度假胜地",
-          "en": "place for relaxation",
+          "en": "holiday place",
           "lv": "阅读生词"
         },
         {
@@ -9991,9 +9991,9 @@
         },
         {
           "w": "spokesperson",
-          "p": "/ˈspəʊkspɜːsən/",
+          "p": "/ˈspəʊkspɜːsn/",
           "t": "发言人",
-          "en": "person speaking for a group",
+          "en": "official speaker",
           "lv": "阅读生词"
         },
         {
@@ -10146,7 +10146,7 @@
         {
           "w": "attractants",
           "p": "/əˈtræktənts/",
-          "t": "引诱物（复数）",
+          "t": "引诱物",
           "en": "things that attract",
           "lv": "阅读生词"
         },
@@ -10189,7 +10189,7 @@
           "w": "pizza",
           "p": "/ˈpiːtsə/",
           "t": "披萨",
-          "en": "Italian dish with toppings",
+          "en": "Italian dish",
           "lv": "阅读生词"
         },
         {
@@ -10203,14 +10203,14 @@
           "w": "digging",
           "p": "/ˈdɪɡɪŋ/",
           "t": "挖掘",
-          "en": "making a hole",
+          "en": "making holes",
           "lv": "阅读生词"
         },
         {
           "w": "worms",
           "p": "/wɜːmz/",
-          "t": "蠕虫（复数）",
-          "en": "small long animals",
+          "t": "蠕虫",
+          "en": "small invertebrates",
           "lv": "阅读生词"
         },
         {
@@ -10236,9 +10236,9 @@
         },
         {
           "w": "bearfree",
-          "p": "/beə friː/",
+          "p": "/ˈbeəfriː/",
           "t": "无熊的",
-          "en": "free from bears",
+          "en": "without bears",
           "lv": "阅读生词"
         },
         {
@@ -10293,15 +10293,15 @@
         {
           "w": "handful",
           "p": "/ˈhændfʊl/",
-          "t": "一把；少数",
+          "t": "少数；一把",
           "en": "small amount",
           "lv": "阅读生词"
         },
         {
           "w": "yards",
           "p": "/jɑːdz/",
-          "t": "院子（复数）",
-          "en": "open areas around houses",
+          "t": "院子",
+          "en": "outdoor areas",
           "lv": "阅读生词"
         },
         {
@@ -10335,14 +10335,14 @@
         {
           "w": "doors",
           "p": "/dɔːz/",
-          "t": "门（复数）",
+          "t": "门",
           "en": "entrances",
           "lv": "阅读生词"
         },
         {
           "w": "windows",
           "p": "/ˈwɪndəʊz/",
-          "t": "窗户（复数）",
+          "t": "窗户",
           "en": "openings in walls",
           "lv": "阅读生词"
         },
@@ -10364,7 +10364,7 @@
           "w": "teddy",
           "p": "/ˈtedi/",
           "t": "泰迪熊",
-          "en": "stuffed toy bear",
+          "en": "stuffed bear toy",
           "lv": "阅读生词"
         },
         {
@@ -10413,7 +10413,7 @@
           "w": "startled",
           "p": "/ˈstɑːtld/",
           "t": "受惊的",
-          "en": "surprised suddenly",
+          "en": "suddenly surprised",
           "lv": "阅读生词"
         },
         {
@@ -10448,20 +10448,20 @@
           "w": "grizzly",
           "p": "/ˈɡrɪzli/",
           "t": "灰熊",
-          "en": "large North American bear",
+          "en": "large brown bear",
           "lv": "阅读生词"
         },
         {
           "w": "hiking",
           "p": "/ˈhaɪkɪŋ/",
-          "t": "远足",
+          "t": "徒步旅行",
           "en": "walking in nature",
           "lv": "阅读生词"
         },
         {
           "w": "trails",
           "p": "/treɪlz/",
-          "t": "小径（复数）",
+          "t": "小径",
           "en": "paths",
           "lv": "阅读生词"
         },
@@ -10489,21 +10489,21 @@
         {
           "w": "accounts",
           "p": "/əˈkaʊnts/",
-          "t": "账户；叙述（复数）",
-          "en": "records or stories",
+          "t": "账户；描述",
+          "en": "financial records; reports",
           "lv": "阅读生词"
         },
         {
           "w": "surveillance",
           "p": "/sɜːˈveɪləns/",
-          "t": "监控",
+          "t": "监视",
           "en": "close observation",
           "lv": "阅读生词"
         },
         {
           "w": "cameras",
           "p": "/ˈkæmərəz/",
-          "t": "相机（复数）",
+          "t": "相机",
           "en": "devices for taking photos",
           "lv": "阅读生词"
         },
@@ -10551,9 +10551,9 @@
         },
         {
           "w": "reservations",
-          "p": "/ˌrezəˈveɪʃənz/",
-          "t": "预订；保留意见（复数）",
-          "en": "bookings or doubts",
+          "p": "/ˌrezəˈveɪʃnz/",
+          "t": "预订；保留意见",
+          "en": "bookings; doubts",
           "lv": "阅读生词"
         },
         {
@@ -10567,13 +10567,13 @@
           "w": "fuzzy",
           "p": "/ˈfʌzi/",
           "t": "毛茸茸的；模糊的",
-          "en": "soft and hairy or unclear",
+          "en": "soft; unclear",
           "lv": "阅读生词"
         },
         {
           "w": "warns",
           "p": "/wɔːnz/",
-          "t": "警告（第三人称单数）",
+          "t": "警告",
           "en": "tells of danger",
           "lv": "阅读生词"
         },
@@ -10608,7 +10608,7 @@
         {
           "w": "boundaries",
           "p": "/ˈbaʊndəriz/",
-          "t": "界限（复数）",
+          "t": "界限",
           "en": "limits",
           "lv": "阅读生词"
         },
@@ -10643,15 +10643,15 @@
         {
           "w": "dedicated",
           "p": "/ˈdedɪkeɪtɪd/",
-          "t": "专注的；奉献的",
+          "t": "专注的；专用的",
           "en": "devoted",
           "lv": "阅读生词"
         },
         {
           "w": "poolbearlife",
           "p": "/puːl beə laɪf/",
-          "t": "池熊生活（标签）",
-          "en": "hashtag about bear in pool",
+          "t": "泳池熊生活（标签）",
+          "en": "hashtag for bear in pool",
           "lv": "阅读生词"
         },
         {
@@ -10671,7 +10671,7 @@
         {
           "w": "mitigate",
           "p": "/ˈmɪtɪɡeɪt/",
-          "t": "减轻",
+          "t": "缓解",
           "en": "make less severe",
           "lv": "阅读生词"
         },
@@ -10735,7 +10735,7 @@
           "w": "cothrive",
           "p": "/kəʊˈθraɪv/",
           "t": "共同繁荣",
-          "en": "thrive together",
+          "en": "flourish together",
           "lv": "阅读生词"
         },
         {

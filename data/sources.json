@@ -1,32 +1,106 @@
 {
   "news": [
-    { "name": "FDA CTP ĞÂÎÅÊÒ", "url": "https://www.fda.gov/tobacco-products/ctp-newsroom" },
-    { "name": "WHO ÑÌ²İ¹ÜÖÆ", "url": "https://www.who.int/teams/health-promotion/tobacco-control" },
-    { "name": "¹ú¼ÒÑÌ²İ×¨Âô¾Ö", "url": "https://www.tobacco.gov.cn/" },
-    { "name": "ÖĞ¹ú¾­¼ÃÍø¡¤µç×ÓÑÌ", "url": "https://www.ce.cn/cysc/newmain/yc/" },
-    { "name": "2firsts ÖĞÎÄ", "url": "https://cn.2firsts.com/" },
-    { "name": "2firsts Ó¢ÎÄ", "url": "https://en.2firsts.com/" },
-    { "name": "Vaping360", "url": "https://www.vaping360.com/feed/", "type": "rss" },
-    { "name": "Tobacco Reporter", "url": "https://tobaccoreporter.com/feed/", "type": "rss" },
-    { "name": "Vaping Post", "url": "https://www.vapingpost.com/feed/", "type": "rss" },
-    { "name": "Tobacco Insider", "url": "https://www.tobaccoinsider.com/feed/", "type": "rss" }
+    {
+      "name": "Tobacco Reporter",
+      "url": "https://tobaccoreporter.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Vaping Post",
+      "url": "https://www.vapingpost.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Tobacco Insider",
+      "url": "https://www.tobaccoinsider.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Filter Magazine",
+      "url": "https://filtermag.org/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Talking Retail",
+      "url": "https://www.talkingretail.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Nicotine Insider",
+      "url": "https://nicotineinsider.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Tobacco Journal International",
+      "url": "https://www.tobaccojournal.com/rss/",
+      "type": "rss"
+    }
   ],
   "insights": [
-    { "name": "¶«·½²Æ¸»¡¤Ïû·ÑÑĞ±¨", "url": "https://finance.eastmoney.com/" },
-    { "name": "Mintel Ç÷ÊÆ", "url": "https://www.mintel.com/press-centre" },
-    { "name": "Ipsos ¹Ûµã", "url": "https://www.ipsos.com/en/news" },
-    { "name": "Innova Ç÷ÊÆ", "url": "https://www.innovamarketinsights.com/press-releases/" },
-    { "name": "Packaging Insights", "url": "https://www.packaginginsights.com/" },
-    { "name": "±´¶÷×ÉÑ¯¡¤¹Ûµã", "url": "https://www.bain.cn/" },
-    { "name": "ÖĞ¹úĞÅÍ¨Ôº", "url": "https://www.caict.ac.cn/" },
-    { "name": "Ó¢ÃôÌØÖĞ¹ú", "url": "https://china.mintel.com/press-centre" },
-    { "name": "Äá¶ûÉ­IQ", "url": "https://nielseniq.com/global/en/insights/" },
-    { "name": "Inside FMCG", "url": "https://insidefmcg.com.au/feed/", "type": "rss" },
-    { "name": "Food Dive", "url": "https://www.fooddive.com/feeds/news/", "type": "rss" },
-    { "name": "Packaging Dive", "url": "https://www.packagingdive.com/feeds/news/", "type": "rss" },
-    { "name": "Just Food", "url": "https://www.just-food.com/feed/", "type": "rss" },
-    { "name": "ScienceDaily ¸ĞÖª", "url": "https://www.sciencedaily.com/rss/mind_brain/perception.xml", "type": "rss", "sensory": true, "region": "È«Çò" },
-    { "name": "ScienceDaily Ê³Æ·¿ÆÑ§", "url": "https://www.sciencedaily.com/rss/plants_animals/food.xml", "type": "rss", "sensory": true, "region": "È«Çò" },
-    { "name": "GB ¸Ğ¹Ù·ÖÎö±ê×¼", "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=%E6%84%9F%E5%AE%98", "type": "gbstd", "region": "ÖĞ¹ú" }
+    {
+      "name": "Inside FMCG",
+      "url": "https://insidefmcg.com.au/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Food Dive",
+      "url": "https://www.fooddive.com/feeds/news/",
+      "type": "rss"
+    },
+    {
+      "name": "Packaging Dive",
+      "url": "https://www.packagingdive.com/feeds/news/",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily æ„ŸçŸ¥",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/perception.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily é£Ÿå“ç§‘å­¦",
+      "url": "https://www.sciencedaily.com/rss/plants_animals/food.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Food Safety News",
+      "url": "https://www.foodsafetynews.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Retail Dive",
+      "url": "https://www.retaildive.com/feeds/news/",
+      "type": "rss"
+    },
+    {
+      "name": "Supermarket News",
+      "url": "https://www.supermarketnews.com/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/feeds/news/",
+      "type": "rss"
+    },
+    {
+      "name": "Mintel",
+      "url": "https://www.mintel.com/rss",
+      "type": "rss"
+    },
+    {
+      "name": "199IT äº’è”ç½‘æ•°æ®",
+      "url": "https://www.199it.com/feed",
+      "type": "rss"
+    },
+    {
+      "name": "36æ°ª",
+      "url": "https://www.36kr.com/feed",
+      "type": "rss"
+    },
+    {
+      "name": "GB æ„Ÿå®˜åˆ†ææ ‡å‡†",
+      "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=%E6%84%9F%E5%AE%98",
+      "type": "gbstd"
+    }
   ]
 }

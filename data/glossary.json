@@ -30262,12 +30262,12 @@
   "bears": {
     "p": "/beəz/",
     "t": "熊（复数）",
-    "en": "large heavy mammals"
+    "en": "large mammals"
   },
   "lounging": {
     "p": "/ˈlaʊndʒɪŋ/",
     "t": "懒散地躺",
-    "en": "lying or sitting in a relaxed way"
+    "en": "lying around lazily"
   },
   "furry": {
     "p": "/ˈfɜːri/",
@@ -30277,32 +30277,32 @@
   "coexisting": {
     "p": "/ˌkəʊɪɡˈzɪstɪŋ/",
     "t": "共存",
-    "en": "living together in harmony"
+    "en": "living together peacefully"
   },
   "barbed": {
     "p": "/bɑːbd/",
-    "t": "带刺的",
+    "t": "带倒刺的",
     "en": "having sharp points"
   },
   "recalls": {
     "p": "/rɪˈkɔːlz/",
     "t": "回忆；召回",
-    "en": "remembers or calls back"
+    "en": "remembers; calls back"
   },
   "loves": {
     "p": "/lʌvz/",
-    "t": "爱（第三人称单数）",
-    "en": "has deep affection for"
+    "t": "爱",
+    "en": "feels deep affection"
   },
   "scratch": {
     "p": "/skrætʃ/",
     "t": "抓；挠",
-    "en": "rub or scrape with claws or nails"
+    "en": "rub with claws"
   },
   "peacefully": {
     "p": "/ˈpiːsfəli/",
     "t": "和平地",
-    "en": "in a calm and quiet way"
+    "en": "without disturbance"
   },
   "vigilance": {
     "p": "/ˈvɪdʒɪləns/",
@@ -30310,38 +30310,38 @@
     "en": "watchfulness"
   },
   "precautions": {
-    "p": "/prɪˈkɔːʃənz/",
+    "p": "/prɪˈkɔːʃnz/",
     "t": "预防措施",
-    "en": "actions taken to prevent harm"
+    "en": "actions to prevent harm"
   },
   "coexistence": {
     "p": "/ˌkəʊɪɡˈzɪstəns/",
     "t": "共存",
-    "en": "living together peacefully"
+    "en": "living together"
   },
   "foothills": {
     "p": "/ˈfʊthɪlz/",
     "t": "山麓丘陵",
-    "en": "hills at the base of a mountain"
+    "en": "hills at base of mountains"
   },
   "borders": {
     "p": "/ˈbɔːdəz/",
-    "t": "边界；接壤",
+    "t": "边界",
     "en": "edges or boundaries"
   },
   "spans": {
     "p": "/spænz/",
     "t": "跨越；持续",
-    "en": "extends across or over"
+    "en": "extends across"
   },
   "acres": {
     "p": "/ˈeɪkəz/",
-    "t": "英亩（复数）",
+    "t": "英亩",
     "en": "units of land area"
   },
   "spotting": {
     "p": "/ˈspɒtɪŋ/",
-    "t": "发现； spotting",
+    "t": "发现",
     "en": "seeing or noticing"
   },
   "yelling": {
@@ -30352,26 +30352,26 @@
   "horns": {
     "p": "/hɔːnz/",
     "t": "喇叭；角",
-    "en": "devices for making sound or animal horns"
+    "en": "devices for sound; animal horns"
   },
   "paintball": {
     "p": "/ˈpeɪntbɔːl/",
     "t": "彩弹",
-    "en": "game where players shoot paint pellets"
+    "en": "game with paint pellets"
   },
   "rubber": {
     "p": "/ˈrʌbə/",
     "t": "橡胶",
-    "en": "elastic material from trees or synthetic"
+    "en": "elastic material"
   },
   "pellets": {
     "p": "/ˈpelɪts/",
     "t": "小弹丸",
-    "en": "small round objects"
+    "en": "small projectiles"
   },
   "horrible": {
     "p": "/ˈhɒrəbl/",
-    "t": "可怕的；糟糕的",
+    "t": "可怕的",
     "en": "very unpleasant"
   },
   "trash": {
@@ -30386,7 +30386,7 @@
   },
   "proximity": {
     "p": "/prɒkˈsɪməti/",
-    "t": "接近；邻近",
+    "t": "接近",
     "en": "nearness"
   },
   "honestly": {
@@ -30396,13 +30396,13 @@
   },
   "crashing": {
     "p": "/ˈkræʃɪŋ/",
-    "t": "碰撞；闯入",
-    "en": "hitting hard or breaking in"
+    "t": "猛撞；崩溃",
+    "en": "colliding violently"
   },
   "barbecues": {
     "p": "/ˈbɑːbɪkjuːz/",
-    "t": "烧烤（复数）",
-    "en": "outdoor cooking events"
+    "t": "烧烤",
+    "en": "outdoor grills"
   },
   "misunderstood": {
     "p": "/ˌmɪsʌndəˈstʊd/",
@@ -30416,7 +30416,7 @@
   },
   "unplanned": {
     "p": "/ˌʌnˈplænd/",
-    "t": "未计划的",
+    "t": "计划外的",
     "en": "not planned"
   },
   "favourite": {
@@ -30436,13 +30436,13 @@
   },
   "returned": {
     "p": "/rɪˈtɜːnd/",
-    "t": "返回（过去式）",
+    "t": "返回",
     "en": "came back"
   },
   "rollercoaster": {
     "p": "/ˈrəʊləkəʊstə/",
     "t": "过山车",
-    "en": "amusement ride with steep drops"
+    "en": "amusement ride"
   },
   "adorable": {
     "p": "/əˈdɔːrəbl/",
@@ -30451,37 +30451,37 @@
   },
   "creatures": {
     "p": "/ˈkriːtʃəz/",
-    "t": "生物（复数）",
+    "t": "生物",
     "en": "living beings"
   },
   "cuddly": {
     "p": "/ˈkʌdli/",
     "t": "令人想拥抱的",
-    "en": "soft and nice to hug"
+    "en": "soft and huggable"
   },
   "intimidating": {
     "p": "/ɪnˈtɪmɪdeɪtɪŋ/",
-    "t": "吓人的",
+    "t": "令人生畏的",
     "en": "frightening"
   },
   "claws": {
     "p": "/klɔːz/",
-    "t": "爪子（复数）",
+    "t": "爪子",
     "en": "sharp nails of animals"
   },
   "rambunctious": {
     "p": "/ræmˈbʌŋkʃəs/",
-    "t": "喧闹的；难管束的",
+    "t": "喧闹的",
     "en": "noisy and energetic"
   },
   "yearling": {
     "p": "/ˈjɪəlɪŋ/",
     "t": "一岁幼兽",
-    "en": "animal one year old"
+    "en": "one-year-old animal"
   },
   "floaties": {
     "p": "/ˈfləʊtiz/",
-    "t": "浮水圈（复数）",
+    "t": "游泳浮具",
     "en": "inflatable aids for swimming"
   },
   "climbed": {
@@ -30492,16 +30492,16 @@
   "inflatable": {
     "p": "/ɪnˈfleɪtəbl/",
     "t": "可充气的",
-    "en": "able to be filled with air"
+    "en": "able to be inflated"
   },
   "cupcake": {
     "p": "/ˈkʌpkeɪk/",
     "t": "纸杯蛋糕",
-    "en": "small cake in a cup shape"
+    "en": "small cake"
   },
   "drifted": {
     "p": "/drɪftɪd/",
-    "t": "漂流（过去式）",
+    "t": "漂流",
     "en": "floated slowly"
   },
   "stole": {
@@ -30511,13 +30511,13 @@
   },
   "hearts": {
     "p": "/hɑːts/",
-    "t": "心（复数）",
-    "en": "organs or emotions"
+    "t": "心",
+    "en": "organs; emotions"
   },
   "nicknamed": {
     "p": "/ˈnɪkneɪmd/",
-    "t": "起绰号（过去式）",
-    "en": "gave a nickname"
+    "t": "起绰号",
+    "en": "given a nickname"
   },
   "female": {
     "p": "/ˈfiːmeɪl/",
@@ -30526,17 +30526,17 @@
   },
   "likes": {
     "p": "/laɪks/",
-    "t": "喜欢（第三人称单数）",
+    "t": "喜欢",
     "en": "enjoys"
   },
   "siestas": {
     "p": "/siˈestəz/",
-    "t": "午睡（复数）",
+    "t": "午睡",
     "en": "afternoon naps"
   },
   "hourlong": {
     "p": "/ˈaʊəlɒŋ/",
-    "t": "一小时的",
+    "t": "长达一小时的",
     "en": "lasting one hour"
   },
   "grumpy": {
@@ -30551,7 +30551,7 @@
   },
   "suburbs": {
     "p": "/ˈsʌbɜːbz/",
-    "t": "郊区（复数）",
+    "t": "郊区",
     "en": "residential areas outside city"
   },
   "intelligent": {
@@ -30561,23 +30561,23 @@
   },
   "omnivores": {
     "p": "/ˈɒmnɪvɔːz/",
-    "t": "杂食动物（复数）",
-    "en": "animals eating both plants and meat"
+    "t": "杂食动物",
+    "en": "eat both plants and meat"
   },
   "calories": {
     "p": "/ˈkæləriz/",
-    "t": "卡路里（复数）",
-    "en": "units of energy in food"
+    "t": "卡路里",
+    "en": "units of energy"
   },
   "incidents": {
     "p": "/ˈɪnsɪdənts/",
-    "t": "事件（复数）",
-    "en": "events or occurrences"
+    "t": "事件",
+    "en": "occurrences"
   },
   "raiding": {
     "p": "/ˈreɪdɪŋ/",
-    "t": "突袭；洗劫",
-    "en": "attacking suddenly"
+    "t": "突袭；搜刮",
+    "en": "attacking or entering to steal"
   },
   "entering": {
     "p": "/ˈentərɪŋ/",
@@ -30586,13 +30586,13 @@
   },
   "euthanised": {
     "p": "/ˈjuːθənaɪzd/",
-    "t": "安乐死（过去式）",
+    "t": "安乐死",
     "en": "put to death humanely"
   },
   "swiped": {
     "p": "/swaɪpt/",
-    "t": "偷；刷卡（过去式）",
-    "en": "stole or passed card"
+    "t": "偷；刷卡",
+    "en": "stole; moved hand across"
   },
   "organised": {
     "p": "/ˈɔːɡənaɪzd/",
@@ -30600,23 +30600,23 @@
     "en": "arranged systematically"
   },
   "petition": {
-    "p": "/pəˈtɪʃən/",
+    "p": "/pəˈtɪʃn/",
     "t": "请愿书",
     "en": "formal request"
   },
   "euthanasia": {
     "p": "/ˌjuːθəˈneɪziə/",
     "t": "安乐死",
-    "en": "painless killing for mercy"
+    "en": "mercy killing"
   },
   "resembles": {
     "p": "/rɪˈzemblz/",
-    "t": "像；类似",
+    "t": "类似",
     "en": "looks like"
   },
   "elderly": {
     "p": "/ˈeldəli/",
-    "t": "年老的",
+    "t": "年长的",
     "en": "old"
   },
   "porch": {
@@ -30627,12 +30627,12 @@
   "resort": {
     "p": "/rɪˈzɔːt/",
     "t": "度假胜地",
-    "en": "place for relaxation"
+    "en": "holiday place"
   },
   "spokesperson": {
-    "p": "/ˈspəʊkspɜːsən/",
+    "p": "/ˈspəʊkspɜːsn/",
     "t": "发言人",
-    "en": "person speaking for a group"
+    "en": "official speaker"
   },
   "spatial": {
     "p": "/ˈspeɪʃl/",
@@ -30656,7 +30656,7 @@
   },
   "attractants": {
     "p": "/əˈtræktənts/",
-    "t": "引诱物（复数）",
+    "t": "引诱物",
     "en": "things that attract"
   },
   "rubbish": {
@@ -30667,17 +30667,17 @@
   "pizza": {
     "p": "/ˈpiːtsə/",
     "t": "披萨",
-    "en": "Italian dish with toppings"
+    "en": "Italian dish"
   },
   "digging": {
     "p": "/ˈdɪɡɪŋ/",
     "t": "挖掘",
-    "en": "making a hole"
+    "en": "making holes"
   },
   "worms": {
     "p": "/wɜːmz/",
-    "t": "蠕虫（复数）",
-    "en": "small long animals"
+    "t": "蠕虫",
+    "en": "small invertebrates"
   },
   "changer": {
     "p": "/ˈtʃeɪndʒə/",
@@ -30685,19 +30685,19 @@
     "en": "one who changes"
   },
   "bearfree": {
-    "p": "/beə friː/",
+    "p": "/ˈbeəfriː/",
     "t": "无熊的",
-    "en": "free from bears"
+    "en": "without bears"
   },
   "handful": {
     "p": "/ˈhændfʊl/",
-    "t": "一把；少数",
+    "t": "少数；一把",
     "en": "small amount"
   },
   "yards": {
     "p": "/jɑːdz/",
-    "t": "院子（复数）",
-    "en": "open areas around houses"
+    "t": "院子",
+    "en": "outdoor areas"
   },
   "hypervigilant": {
     "p": "/ˌhaɪpəˈvɪdʒɪlənt/",
@@ -30706,18 +30706,18 @@
   },
   "doors": {
     "p": "/dɔːz/",
-    "t": "门（复数）",
+    "t": "门",
     "en": "entrances"
   },
   "windows": {
     "p": "/ˈwɪndəʊz/",
-    "t": "窗户（复数）",
+    "t": "窗户",
     "en": "openings in walls"
   },
   "teddy": {
     "p": "/ˈtedi/",
     "t": "泰迪熊",
-    "en": "stuffed toy bear"
+    "en": "stuffed bear toy"
   },
   "garage": {
     "p": "/ˈɡærɑːʒ/",
@@ -30727,21 +30727,21 @@
   "startled": {
     "p": "/ˈstɑːtld/",
     "t": "受惊的",
-    "en": "surprised suddenly"
+    "en": "suddenly surprised"
   },
   "grizzly": {
     "p": "/ˈɡrɪzli/",
     "t": "灰熊",
-    "en": "large North American bear"
+    "en": "large brown bear"
   },
   "hiking": {
     "p": "/ˈhaɪkɪŋ/",
-    "t": "远足",
+    "t": "徒步旅行",
     "en": "walking in nature"
   },
   "trails": {
     "p": "/treɪlz/",
-    "t": "小径（复数）",
+    "t": "小径",
     "en": "paths"
   },
   "rampant": {
@@ -30751,13 +30751,13 @@
   },
   "accounts": {
     "p": "/əˈkaʊnts/",
-    "t": "账户；叙述（复数）",
-    "en": "records or stories"
+    "t": "账户；描述",
+    "en": "financial records; reports"
   },
   "surveillance": {
     "p": "/səˈveɪləns/",
     "t": "监视；监控",
-    "en": "close observation of a person or place"
+    "en": "close observation or monitoring"
   },
   "cameras": {
     "p": "/ˈkæmərəz/",
@@ -30765,9 +30765,9 @@
     "en": "devices for capturing images"
   },
   "reservations": {
-    "p": "/ˌrezəˈveɪʃənz/",
-    "t": "预订；保留意见（复数）",
-    "en": "bookings or doubts"
+    "p": "/ˌrezəˈveɪʃnz/",
+    "t": "预订；保留意见",
+    "en": "bookings; doubts"
   },
   "painting": {
     "p": "/ˈpeɪntɪŋ/",
@@ -30777,11 +30777,11 @@
   "fuzzy": {
     "p": "/ˈfʌzi/",
     "t": "毛茸茸的；模糊的",
-    "en": "soft and hairy or unclear"
+    "en": "soft; unclear"
   },
   "warns": {
     "p": "/wɔːnz/",
-    "t": "警告（第三人称单数）",
+    "t": "警告",
     "en": "tells of danger"
   },
   "loving": {
@@ -30791,22 +30791,22 @@
   },
   "boundaries": {
     "p": "/ˈbaʊndəriz/",
-    "t": "界限（复数）",
+    "t": "界限",
     "en": "limits"
   },
   "dedicated": {
     "p": "/ˈdedɪkeɪtɪd/",
     "t": "专注的；专用的",
-    "en": "devoted to a purpose or cause"
+    "en": "devoted to a purpose or task"
   },
   "poolbearlife": {
     "p": "/puːl beə laɪf/",
-    "t": "池熊生活（标签）",
-    "en": "hashtag about bear in pool"
+    "t": "泳池熊生活（标签）",
+    "en": "hashtag for bear in pool"
   },
   "mitigate": {
     "p": "/ˈmɪtɪɡeɪt/",
-    "t": "减轻",
+    "t": "缓解",
     "en": "make less severe"
   },
   "unwanted": {
@@ -30817,7 +30817,7 @@
   "cothrive": {
     "p": "/kəʊˈθraɪv/",
     "t": "共同繁荣",
-    "en": "thrive together"
+    "en": "flourish together"
   },
   "eroding": {
     "p": "/ɪˈrəʊdɪŋ/",
@@ -30830,43 +30830,43 @@
     "en": "a weapon that is thrown or fired at a target"
   },
   "onagain": {
-    "p": "/ˌɒn əˈɡen/",
+    "p": "/ˈɒnəɡeɪn/",
     "t": "断断续续的",
-    "en": "happening or starting again after stopping"
+    "en": "intermittent; starting and stopping repeatedly"
   },
   "offagain": {
-    "p": "/ˌɒf əˈɡen/",
-    "t": "时断时续的",
-    "en": "stopping and starting intermittently"
+    "p": "/ˈɒfəɡeɪn/",
+    "t": "断断续续的",
+    "en": "intermittent; not continuous"
   },
   "officially": {
     "p": "/əˈfɪʃəli/",
     "t": "正式地；官方地",
-    "en": "in a formal or official manner"
+    "en": "in an official manner; formally"
   },
   "recursive": {
     "p": "/rɪˈkɜːsɪv/",
     "t": "递归的；循环的",
-    "en": "relating to a process that can repeat itself"
+    "en": "characterized by recurrence or repetition, especially in computing"
   },
   "neverending": {
-    "p": "/ˌnevər ˈendɪŋ/",
+    "p": "/ˌnevəˈendɪŋ/",
     "t": "永无止境的",
-    "en": "having no end; endless"
+    "en": "having or seeming to have no end"
   },
   "launchers": {
     "p": "/ˈlɔːntʃəz/",
     "t": "发射器；发射装置",
-    "en": "devices or people that launch something"
+    "en": "devices or systems for launching missiles or rockets"
   },
   "mines": {
     "p": "/maɪnz/",
-    "t": "地雷；水雷；矿",
-    "en": "explosive devices or places where minerals are extracted"
+    "t": "地雷；水雷",
+    "en": "explosive devices placed under or on the ground or water"
   },
   "disrupt": {
     "p": "/dɪsˈrʌpt/",
-    "t": "扰乱；中断",
+    "t": "扰乱；使中断",
     "en": "to interrupt or cause disorder"
   },
   "shipping": {
@@ -30877,32 +30877,32 @@
   "firing": {
     "p": "/ˈfaɪərɪŋ/",
     "t": "开火；发射",
-    "en": "the act of shooting or launching"
+    "en": "the act of shooting or discharging a weapon"
   },
   "volley": {
     "p": "/ˈvɒli/",
-    "t": "齐射；群射",
-    "en": "a simultaneous discharge of weapons"
+    "t": "齐射；齐发",
+    "en": "a simultaneous discharge of weapons or missiles"
   },
   "ballistic": {
     "p": "/bəˈlɪstɪk/",
-    "t": "弹道的；发射的",
-    "en": "relating to the motion of projectiles"
+    "t": "弹道的",
+    "en": "relating to the flight of projectiles under gravity and air resistance"
   },
   "skirmish": {
     "p": "/ˈskɜːmɪʃ/",
     "t": "小规模战斗；冲突",
-    "en": "a minor fight or dispute"
+    "en": "a minor or short fight or conflict"
   },
   "recall": {
     "p": "/rɪˈkɔːl/",
-    "t": "召回；回想",
-    "en": "to remember or officially order back"
+    "t": "召回；回忆",
+    "en": "to remember or to officially ask for return"
   },
   "scheme": {
     "p": "/skiːm/",
     "t": "计划；阴谋",
-    "en": "a plan or system, often secretive"
+    "en": "a plan or program, often secret or devious"
   },
   "fictions": {
     "p": "/ˈfɪkʃənz/",
@@ -30912,32 +30912,32 @@
   "flagrant": {
     "p": "/ˈfleɪɡrənt/",
     "t": "公然的；骇人听闻的",
-    "en": "obviously offensive or bad"
+    "en": "obviously offensive or wrong"
   },
   "posted": {
     "p": "/ˈpəʊstɪd/",
     "t": "张贴；发布",
-    "en": "placed publicly or recorded"
+    "en": "put up or displayed, especially online"
   },
   "purportedly": {
     "p": "/pəˈpɔːtɪdli/",
-    "t": "据称；据说",
-    "en": "as claimed or believed"
+    "t": "据称；据传",
+    "en": "according to what is claimed or reported"
   },
   "blown": {
     "p": "/bləʊn/",
-    "t": "被炸毁的；吹动的",
-    "en": "destroyed by explosion or moved by wind"
+    "t": "被炸毁的",
+    "en": "destroyed or exploded"
   },
   "smithereens": {
     "p": "/ˌsmɪðəˈriːnz/",
-    "t": "碎片；碎屑",
-    "en": "small broken pieces"
+    "t": "碎片；粉碎",
+    "en": "small pieces or fragments"
   },
   "exhausting": {
     "p": "/ɪɡˈzɔːstɪŋ/",
-    "t": "令人筋疲力尽的",
-    "en": "very tiring"
+    "t": "使人筋疲力尽的",
+    "en": "extremely tiring or draining"
   },
   "highranking": {
     "p": "/ˌhaɪˈræŋkɪŋ/",
@@ -30946,18 +30946,18 @@
   },
   "commanders": {
     "p": "/kəˈmɑːndəz/",
-    "t": "指挥官；司令",
+    "t": "指挥官；司令官",
     "en": "military officers in charge"
   },
   "drawnout": {
-    "p": "/ˌdrɔːn ˈaʊt/",
-    "t": "拖延的；拉长的",
+    "p": "/ˌdrɔːnˈaʊt/",
+    "t": "拖延的；冗长的",
     "en": "lasting longer than necessary"
   },
   "ships": {
     "p": "/ʃɪps/",
     "t": "船只；舰船",
-    "en": "large watercraft"
+    "en": "large vessels for sea travel"
   },
   "planes": {
     "p": "/pleɪnz/",
@@ -30965,39 +30965,39 @@
     "en": "aircraft or flat surfaces"
   },
   "ongoing": {
-    "p": "/ˈɒŋɡəʊɪŋ/",
+    "p": "/ˈɒnɡəʊɪŋ/",
     "t": "持续的；进行中的",
-    "en": "continuing to exist or develop"
+    "en": "continuing; in progress"
   },
   "eroded": {
     "p": "/ɪˈrəʊdɪd/",
     "t": "被侵蚀的",
-    "en": "worn away gradually"
+    "en": "worn away or destroyed gradually"
   },
   "morale": {
     "p": "/məˈrɑːl/",
     "t": "士气；斗志",
-    "en": "confidence and enthusiasm of a group"
+    "en": "the confidence and enthusiasm of a group"
   },
   "maintenance": {
     "p": "/ˈmeɪntənəns/",
     "t": "维护；保养",
-    "en": "keeping something in good condition"
+    "en": "the process of keeping something in good condition"
   },
   "stockpiles": {
     "p": "/ˈstɒkpaɪlz/",
     "t": "储备；囤积",
-    "en": "large supplies kept for future use"
+    "en": "large stored quantities of supplies"
   },
   "defenseless": {
     "p": "/dɪˈfensləs/",
-    "t": "无防御的；无助的",
-    "en": "without protection or ability to defend"
+    "t": "无防御的；无保护的",
+    "en": "without ability to defend oneself"
   },
   "bandwidth": {
     "p": "/ˈbændwɪdθ/",
     "t": "带宽；处理能力",
-    "en": "data transfer capacity or mental capacity"
+    "en": "the capacity for data transmission or mental capacity"
   },
   "protecting": {
     "p": "/prəˈtektɪŋ/",
@@ -31012,32 +31012,32 @@
   "robbing": {
     "p": "/ˈrɒbɪŋ/",
     "t": "抢劫；剥夺",
-    "en": "taking property illegally or depriving"
+    "en": "taking something by force or fraud"
   },
   "doorbell": {
     "p": "/ˈdɔːbel/",
     "t": "门铃",
-    "en": "a bell at a door to announce visitors"
+    "en": "an electric bell at a door"
   },
   "respondents": {
     "p": "/rɪˈspɒndənts/",
     "t": "受访者；应答者",
-    "en": "people who respond to a survey or question"
+    "en": "people who respond to a survey or request"
   },
   "neighbors": {
     "p": "/ˈneɪbəz/",
     "t": "邻居",
-    "en": "people living nearby"
+    "en": "people living near each other"
   },
   "sophisticated": {
     "p": "/səˈfɪstɪkeɪtɪd/",
-    "t": "复杂的；精密的；老练的",
-    "en": "highly developed or complex"
+    "t": "复杂精密的；老练的",
+    "en": "highly developed or complex; worldly"
   },
   "civilizations": {
     "p": "/ˌsɪvəlaɪˈzeɪʃənz/",
-    "t": "文明；文化",
-    "en": "advanced human societies"
+    "t": "文明；文明社会",
+    "en": "advanced human societies with complex cultures"
   },
   "collapsed": {
     "p": "/kəˈlæpst/",
@@ -31047,16 +31047,16 @@
   "earthquakes": {
     "p": "/ˈɜːθkweɪks/",
     "t": "地震",
-    "en": "sudden shaking of the ground"
+    "en": "shaking of the ground due to tectonic activity"
   },
   "instability": {
     "p": "/ˌɪnstəˈbɪləti/",
-    "t": "不稳定；不稳固",
-    "en": "lack of stability or steadiness"
+    "t": "不稳定；动荡",
+    "en": "lack of stability or balance"
   },
   "renamed": {
     "p": "/ˌriːˈneɪmd/",
-    "t": "改名的；重新命名",
+    "t": "重新命名；改名",
     "en": "given a new name"
   },
   "athletic": {
@@ -31067,11 +31067,11 @@
   "competes": {
     "p": "/kəmˈpiːts/",
     "t": "竞争；比赛",
-    "en": "tries to win or be better"
+    "en": "strives to win or outperform others"
   },
   "confusingly": {
     "p": "/kənˈfjuːzɪŋli/",
     "t": "令人困惑地",
-    "en": "in a way that causes confusion"
+    "en": "in a manner that causes confusion"
   }
 }
