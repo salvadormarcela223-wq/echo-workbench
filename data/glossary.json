@@ -33698,5 +33698,630 @@
     "p": "/ˌæprɪˈhendɪd/",
     "t": "逮捕；理解",
     "en": "arrested; understood"
+  },
+  "buildout": {
+    "p": "/ˈbɪldaʊt/",
+    "t": "扩建，建设",
+    "en": "the process of building or developing something, especially on a large scale"
+  },
+  "bruised": {
+    "p": "/bruːzd/",
+    "t": "受挫的，瘀伤的",
+    "en": "emotionally or physically hurt; showing signs of injury or damage"
+  },
+  "protest": {
+    "p": "/prəˈtest/",
+    "t": "抗议，反对",
+    "en": "a statement or action expressing disapproval or objection"
+  },
+  "divide": {
+    "p": "/dɪˈvaɪd/",
+    "t": "分歧，分裂；划分",
+    "en": "a difference or separation between groups; to separate into parts"
+  },
+  "polls": {
+    "p": "/poʊlz/",
+    "t": "民意调查；投票站",
+    "en": "surveys of public opinion; places where people vote"
+  },
+  "abolishing": {
+    "p": "/əˈbɒlɪʃɪŋ/",
+    "t": "废除，取消",
+    "en": "the act of formally ending a system, practice, or institution"
+  },
+  "server": {
+    "p": "/ˈsɜːrvər/",
+    "t": "服务器",
+    "en": "a computer or program that manages access to a central resource or service in a network"
+  },
+  "warehouses": {
+    "p": "/ˈweəhaʊzɪz/",
+    "t": "仓库",
+    "en": "large buildings where goods are stored before distribution"
+  },
+  "pineapple": {
+    "p": "/ˈpaɪnæpl/",
+    "t": "菠萝",
+    "en": "a large tropical fruit with sweet yellow flesh and a tough spiky skin"
+  },
+  "shattered": {
+    "p": "/ˈʃætərd/",
+    "t": "破碎的；极度震惊的",
+    "en": "broken into many pieces; emotionally devastated"
+  },
+  "expressed": {
+    "p": "/ɪkˈsprest/",
+    "t": "表达，表示",
+    "en": "conveyed thoughts or feelings in words or actions"
+  },
+  "soaring": {
+    "p": "/ˈsɔːrɪŋ/",
+    "t": "猛增的，高涨的",
+    "en": "rising rapidly to a high level"
+  },
+  "sparred": {
+    "p": "/spɑːrd/",
+    "t": "争论，交锋",
+    "en": "argued or disputed, often in a light or testy manner"
+  },
+  "hates": {
+    "p": "/heɪts/",
+    "t": "讨厌，憎恨",
+    "en": "strongly dislikes or feels intense aversion towards"
+  },
+  "centerleft": {
+    "p": "/ˌsentərˈleft/",
+    "t": "中左翼的",
+    "en": "political views leaning slightly left of center, typically supporting social equality and moderate government intervention"
+  },
+  "enacted": {
+    "p": "/ɪˈnæktɪd/",
+    "t": "颁布，制定",
+    "en": "made into law or officially established"
+  },
+  "championing": {
+    "p": "/ˈtʃæmpiənɪŋ/",
+    "t": "支持，拥护",
+    "en": "actively supporting or defending a cause or person"
+  },
+  "staunchly": {
+    "p": "/stɔːntʃli/",
+    "t": "坚定地，忠实拥护地",
+    "en": "in a very loyal and committed manner"
+  },
+  "probusiness": {
+    "p": "/ˌproʊˈbɪznəs/",
+    "t": "有利于商业的",
+    "en": "favorable to business interests and economic growth"
+  },
+  "moratorium": {
+    "p": "/ˌmɔːrəˈtɔːriəm/",
+    "t": "暂停，中止",
+    "en": "a temporary suspension of an activity or law"
+  },
+  "approvals": {
+    "p": "/əˈpruːvəlz/",
+    "t": "批准，同意",
+    "en": "official permissions or consents"
+  },
+  "mounts": {
+    "p": "/maʊnts/",
+    "t": "增加，上升",
+    "en": "increases in amount or intensity"
+  },
+  "protech": {
+    "p": "/proʊˈtek/",
+    "t": "支持科技（的）",
+    "en": "favoring or promoting technology and technological industries"
+  },
+  "commentators": {
+    "p": "/ˈkɒmənteɪtərz/",
+    "t": "评论员",
+    "en": "people who discuss and analyze events, especially on TV or radio"
+  },
+  "cheering": {
+    "p": "/ˈtʃɪərɪŋ/",
+    "t": "欢呼，喝彩",
+    "en": "shouting or expressing joy and approval"
+  },
+  "impending": {
+    "p": "/ɪmˈpendɪŋ/",
+    "t": "即将发生的，逼近的",
+    "en": "about to happen; imminent"
+  },
+  "celebration": {
+    "p": "/ˌselɪˈbreɪʃn/",
+    "t": "庆祝",
+    "en": "the act of marking a special occasion with festivities"
+  },
+  "exploding": {
+    "p": "/ɪkˈsploʊdɪŋ/",
+    "t": "爆炸；激增",
+    "en": "bursting violently; increasing suddenly and rapidly"
+  },
+  "blowing": {
+    "p": "/ˈbloʊɪŋ/",
+    "t": "吹；爆炸（俚）",
+    "en": "moving air; exploding or failing suddenly"
+  },
+  "enacts": {
+    "p": "/ɪˈnækts/",
+    "t": "颁布，制定",
+    "en": "makes into law or officially establishes"
+  },
+  "jurisdictions": {
+    "p": "/ˌdʒʊərɪsˈdɪkʃənz/",
+    "t": "司法管辖区；权限范围",
+    "en": "areas with legal authority or systems of law"
+  },
+  "tolerate": {
+    "p": "/ˈtɒləreɪt/",
+    "t": "容忍，忍受",
+    "en": "to allow something that is disagreeable or unwanted to exist or happen"
+  },
+  "hyperscale": {
+    "p": "/ˈhaɪpərˌskeɪl/",
+    "t": "超大规模的",
+    "en": "extremely large in scale, especially referring to data centers or cloud computing"
+  },
+  "campuses": {
+    "p": "/ˈkæmpəsɪz/",
+    "t": "园区，校区",
+    "en": "grounds of a university, college, or business complex"
+  },
+  "exchange": {
+    "p": "/ɪksˈtʃeɪndʒ/",
+    "t": "交换；交易所",
+    "en": "the act of giving and receiving; a place where trading occurs"
+  },
+  "slowed": {
+    "p": "/sloʊd/",
+    "t": "减缓的",
+    "en": "made or became slower"
+  },
+  "geographically": {
+    "p": "/ˌdʒiːəˈɡræfɪkli/",
+    "t": "地理上地",
+    "en": "in terms of physical location or geography"
+  },
+  "absent": {
+    "p": "/ˈæbsənt/",
+    "t": "缺席的，不存在的",
+    "en": "not present or existing"
+  },
+  "fundamental": {
+    "p": "/ˌfʌndəˈmentl/",
+    "t": "基本的，根本的",
+    "en": "forming a necessary base or core; of central importance"
+  },
+  "publication": {
+    "p": "/ˌpʌblɪˈkeɪʃn/",
+    "t": "出版；出版物",
+    "en": "the act of making information public; a printed or digital work distributed to the public"
+  },
+  "skyrocketing": {
+    "p": "/ˈskaɪrɒkɪtɪŋ/",
+    "t": "飞涨，猛增",
+    "en": "rising extremely quickly and dramatically"
+  },
+  "cancellation": {
+    "p": "/ˌkænsəˈleɪʃn/",
+    "t": "取消",
+    "en": "the act of calling off or annulling something"
+  },
+  "disputed": {
+    "p": "/dɪˈspjuːtɪd/",
+    "t": "有争议的",
+    "en": "subject to disagreement or argument"
+  },
+  "tally": {
+    "p": "/ˈtæli/",
+    "t": "计数，记录",
+    "en": "a current count or score"
+  },
+  "nixed": {
+    "p": "/nɪkst/",
+    "t": "否决，拒绝",
+    "en": "rejected or put an end to"
+  },
+  "fought": {
+    "p": "/fɔːt/",
+    "t": "斗争，战斗",
+    "en": "engaged in a struggle or conflict"
+  },
+  "farms": {
+    "p": "/fɑːrmz/",
+    "t": "农场；养殖场",
+    "en": "areas of land used for growing crops or raising animals"
+  },
+  "establishes": {
+    "p": "/ɪˈstæblɪʃɪz/",
+    "t": "建立，设立",
+    "en": "sets up or creates on a permanent basis"
+  },
+  "thorough": {
+    "p": "/ˈθʌrə/",
+    "t": "彻底的，详尽的",
+    "en": "complete with regard to detail; careful and exhaustive"
+  },
+  "screening": {
+    "p": "/ˈskriːnɪŋ/",
+    "t": "筛选；放映",
+    "en": "the process of examining or evaluating; showing a film or program"
+  },
+  "electricity": {
+    "p": "/ɪˌlekˈtrɪsəti/",
+    "t": "电，电力",
+    "en": "a form of energy resulting from the flow of electric charge"
+  },
+  "exempt": {
+    "p": "/ɪɡˈzempt/",
+    "t": "豁免的，免除的",
+    "en": "free from an obligation or liability"
+  },
+  "pending": {
+    "p": "/ˈpendɪŋ/",
+    "t": "待定的，未决的",
+    "en": "awaiting decision or settlement"
+  },
+  "negligible": {
+    "p": "/ˈneɡlɪdʒəbl/",
+    "t": "微不足道的",
+    "en": "so small or unimportant as to be not worth considering"
+  },
+  "illustrated": {
+    "p": "/ˈɪləstreɪtɪd/",
+    "t": "说明的，图解的",
+    "en": "provided with pictures or examples to explain"
+  },
+  "aggregate": {
+    "p": "/ˈæɡrɪɡət/",
+    "t": "总计的；聚合",
+    "en": "formed by collecting together; total"
+  },
+  "gigawatts": {
+    "p": "/ˈɡɪɡəwɒts/",
+    "t": "吉瓦（电功率单位）",
+    "en": "units of power equal to one billion watts"
+  },
+  "analytics": {
+    "p": "/ˌænəˈlɪtɪks/",
+    "t": "数据分析",
+    "en": "the systematic computational analysis of data or statistics"
+  },
+  "contained": {
+    "p": "/kənˈteɪnd/",
+    "t": "包含的，受控的",
+    "en": "kept within limits; not spreading"
+  },
+  "gauntlet": {
+    "p": "/ˈɡɔːntlət/",
+    "t": "挑战；严峻考验",
+    "en": "a challenge or ordeal; a protective glove"
+  },
+  "materially": {
+    "p": "/məˈtɪəriəli/",
+    "t": "实质性地，重大地",
+    "en": "in a significant or substantial way"
+  },
+  "marching": {
+    "p": "/ˈmɑːrtʃɪŋ/",
+    "t": "行进，游行",
+    "en": "walking in a formal or deliberate manner, often as a protest"
+  },
+  "gutshot": {
+    "p": "/ˈɡʌtʃɒt/",
+    "t": "腹部中弹的；绝望的",
+    "en": "shot in the stomach; in a hopeless or desperate situation"
+  },
+  "zombies": {
+    "p": "/ˈzɒmbiz/",
+    "t": "僵尸",
+    "en": "corpses reanimated by supernatural forces; people who seem lifeless or mindless"
+  },
+  "importantly": {
+    "p": "/ɪmˈpɔːrtəntli/",
+    "t": "重要的是",
+    "en": "used to emphasize a significant point"
+  },
+  "frontier": {
+    "p": "/ˈfrʌntɪər/",
+    "t": "前沿；边界",
+    "en": "the edge of settled or developed area; the latest area of activity"
+  },
+  "appetite": {
+    "p": "/ˈæpɪtaɪt/",
+    "t": "食欲；欲望",
+    "en": "a natural desire to satisfy a need, especially for food; strong interest"
+  },
+  "computation": {
+    "p": "/ˌkɒmpjuˈteɪʃn/",
+    "t": "计算",
+    "en": "the act of calculating or computing"
+  },
+  "outstripped": {
+    "p": "/ˌaʊtˈstrɪpt/",
+    "t": "超过，胜过",
+    "en": "exceeded or surpassed"
+  },
+  "occupied": {
+    "p": "/ˈɒkjupaɪd/",
+    "t": "被占用的；忙碌的",
+    "en": "being used or lived in; busy"
+  },
+  "locationflexible": {
+    "p": "/loʊˈkeɪʃnˌfleksəbl/",
+    "t": "位置灵活的",
+    "en": "able to operate or be used in various locations"
+  },
+  "developer": {
+    "p": "/dɪˈveləpər/",
+    "t": "开发商；开发者",
+    "en": "a person or company that builds or improves property; someone who creates software"
+  },
+  "chased": {
+    "p": "/tʃeɪst/",
+    "t": "追逐，追求",
+    "en": "pursued in order to catch or achieve"
+  },
+  "zoning": {
+    "p": "/ˈzoʊnɪŋ/",
+    "t": "分区规划",
+    "en": "the regulation of land use by area"
+  },
+  "condo": {
+    "p": "/ˈkɒndoʊ/",
+    "t": "公寓套房",
+    "en": "a condominium, a building or complex of individually owned units"
+  },
+  "tower": {
+    "p": "/ˈtaʊər/",
+    "t": "塔，高楼",
+    "en": "a tall narrow building or structure"
+  },
+  "facilities": {
+    "p": "/fəˈsɪlətiz/",
+    "t": "设施，设备",
+    "en": "places, buildings, or equipment provided for a particular purpose"
+  },
+  "servers": {
+    "p": "/ˈsɜːrvərz/",
+    "t": "服务器（复数）",
+    "en": "computers or programs that manage network resources"
+  },
+  "fiber": {
+    "p": "/ˈfaɪbər/",
+    "t": "纤维；光纤",
+    "en": "a thread-like material; optical fiber for data transmission"
+  },
+  "optic": {
+    "p": "/ˈɒptɪk/",
+    "t": "光学的；眼的",
+    "en": "relating to the eye or vision; optical"
+  },
+  "modicum": {
+    "p": "/ˈmɒdɪkəm/",
+    "t": "少量，一点点",
+    "en": "a small quantity of something"
+  },
+  "expendable": {
+    "p": "/ɪkˈspendəbl/",
+    "t": "可牺牲的，可消耗的",
+    "en": "considered not worth keeping; able to be used up or sacrificed"
+  },
+  "choke": {
+    "p": "/tʃoʊk/",
+    "t": "窒息；阻塞",
+    "en": "to hinder or obstruct breathing or flow; to block"
+  },
+  "compute": {
+    "p": "/kəmˈpjuːt/",
+    "t": "计算；计算能力",
+    "en": "to calculate; computational power"
+  },
+  "hyperscalers": {
+    "p": "/ˈhaɪpərˌskeɪlərz/",
+    "t": "超大规模数据中心运营商",
+    "en": "companies that operate extremely large-scale data centers"
+  },
+  "localities": {
+    "p": "/loʊˈkælətiz/",
+    "t": "地方，地区",
+    "en": "specific places or areas"
+  },
+  "secure": {
+    "p": "/sɪˈkjʊər/",
+    "t": "安全的；获得",
+    "en": "safe; to obtain or protect"
+  },
+  "developers": {
+    "p": "/dɪˈveləpərz/",
+    "t": "开发商，开发者（复数）",
+    "en": "people or companies that develop land or software"
+  },
+  "imposes": {
+    "p": "/ɪmˈpoʊzɪz/",
+    "t": "强加，施加",
+    "en": "to force something on someone; to establish as a rule or tax"
+  },
+  "wallets": {
+    "p": "/ˈwɒlɪts/",
+    "t": "钱包",
+    "en": "small flat cases for holding money and cards"
+  },
+  "billionaire": {
+    "p": "/ˌbɪljəˈner/",
+    "t": "亿万富翁",
+    "en": "a person with assets worth at least a billion dollars"
+  },
+  "investor": {
+    "p": "/ɪnˈvestər/",
+    "t": "投资者",
+    "en": "a person who puts money into something for profit"
+  },
+  "consequent": {
+    "p": "/ˈkɒnsɪkwənt/",
+    "t": "随之发生的",
+    "en": "following as a result or effect"
+  },
+  "slash": {
+    "p": "/slæʃ/",
+    "t": "削减，大幅减少",
+    "en": "to reduce drastically"
+  },
+  "validate": {
+    "p": "/ˈvælɪdeɪt/",
+    "t": "验证，确认",
+    "en": "to check or prove the accuracy or truth of something"
+  },
+  "antidata": {
+    "p": "/ˌæntiˈdeɪtə/",
+    "t": "反数据的",
+    "en": "opposed to data collection or technology"
+  },
+  "oppose": {
+    "p": "/əˈpoʊz/",
+    "t": "反对，抵制",
+    "en": "to disagree with or resist"
+  },
+  "activists": {
+    "p": "/ˈæktɪvɪsts/",
+    "t": "活动家，积极分子",
+    "en": "people who campaign for social or political change"
+  },
+  "perilous": {
+    "p": "/ˈperələs/",
+    "t": "危险的",
+    "en": "full of danger or risk"
+  },
+  "emissions": {
+    "p": "/ɪˈmɪʃənz/",
+    "t": "排放物",
+    "en": "gases or other substances released into the atmosphere"
+  },
+  "unemployment": {
+    "p": "/ˌʌnɪmˈplɔɪmənt/",
+    "t": "失业",
+    "en": "the state of not having a job"
+  },
+  "extinction": {
+    "p": "/ɪkˈstɪŋkʃn/",
+    "t": "灭绝",
+    "en": "the dying out of a species or group"
+  },
+  "factions": {
+    "p": "/ˈfækʃənz/",
+    "t": "派系",
+    "en": "small organized groups within a larger one, often with differing views"
+  },
+  "unwise": {
+    "p": "/ʌnˈwaɪz/",
+    "t": "不明智的",
+    "en": "showing a lack of wisdom or good judgment"
+  },
+  "climateconscious": {
+    "p": "/ˈklaɪmətˌkɒnʃəs/",
+    "t": "有气候意识的",
+    "en": "aware of and concerned about climate change"
+  },
+  "renewable": {
+    "p": "/rɪˈnuːəbl/",
+    "t": "可再生的",
+    "en": "capable of being replenished naturally, like solar or wind energy"
+  },
+  "bluestate": {
+    "p": "/ˌbluːˈsteɪt/",
+    "t": "蓝州（美国民主党占优的州）",
+    "en": "a U.S. state that predominantly votes for the Democratic Party"
+  },
+  "environmentalists": {
+    "p": "/ɪnˌvaɪrənˈmentəlɪsts/",
+    "t": "环保主义者",
+    "en": "people who advocate for the protection of the environment"
+  },
+  "regulating": {
+    "p": "/ˈreɡjuleɪtɪŋ/",
+    "t": "监管，控制",
+    "en": "controlling or governing by rules or laws"
+  },
+  "banning": {
+    "p": "/ˈbænɪŋ/",
+    "t": "禁止",
+    "en": "officially prohibiting something"
+  },
+  "bankroll": {
+    "p": "/ˈbæŋkroʊl/",
+    "t": "资助，提供资金",
+    "en": "to finance or provide money for"
+  },
+  "expansions": {
+    "p": "/ɪkˈspænʃənz/",
+    "t": "扩张，扩展",
+    "en": "actions of becoming larger or more extensive"
+  },
+  "transmission": {
+    "p": "/trænzˈmɪʃn/",
+    "t": "传输；变速器",
+    "en": "the act of sending or passing something; a gear system in vehicles"
+  },
+  "doomers": {
+    "p": "/ˈduːmərz/",
+    "t": "末日论者",
+    "en": "people who predict or believe in catastrophic outcomes"
+  },
+  "instrumental": {
+    "p": "/ˌɪnstrəˈmentl/",
+    "t": "起重要作用的",
+    "en": "serving as a means of achieving something; important"
+  },
+  "surely": {
+    "p": "/ˈʃʊərli/",
+    "t": "肯定地，无疑",
+    "en": "with certainty; without doubt"
+  },
+  "slowing": {
+    "p": "/ˈsloʊɪŋ/",
+    "t": "减缓",
+    "en": "the process of becoming slower"
+  },
+  "wellcapitalized": {
+    "p": "/ˌwelˈkæpɪtəlaɪzd/",
+    "t": "资金充足的",
+    "en": "having sufficient financial capital"
+  },
+  "hinges": {
+    "p": "/hɪndʒɪz/",
+    "t": "铰链；取决于",
+    "en": "depends on; small joints that allow movement"
+  },
+  "rebellion": {
+    "p": "/rɪˈbeljən/",
+    "t": "叛乱，反抗",
+    "en": "an act of violent or open resistance to authority"
+  },
+  "arrayed": {
+    "p": "/əˈreɪd/",
+    "t": "排列，部署",
+    "en": "arranged or placed in order"
+  },
+  "frenzies": {
+    "p": "/ˈfrenziz/",
+    "t": "狂热，疯狂",
+    "en": "states of uncontrolled excitement or activity"
+  },
+  "bursts": {
+    "p": "/bɜːrsts/",
+    "t": "爆发，突发",
+    "en": "sudden outbreaks or increases"
+  },
+  "grabs": {
+    "p": "/ɡræbz/",
+    "t": "抓取，夺取",
+    "en": "seizes suddenly or eagerly"
+  },
+  "grabbed": {
+    "p": "/ɡræbd/",
+    "t": "抓住，夺取",
+    "en": "seized suddenly or eagerly"
   }
 }
