@@ -17,7 +17,7 @@
     },
     {
       "name": "Filter Magazine",
-      "url": "https://filtermag.org/feed/",
+      "url": "https://filtermag.org/tag/vaping/feed/",
       "type": "rss"
     },
     {
@@ -34,6 +34,27 @@
       "name": "Tobacco Journal International",
       "url": "https://www.tobaccojournal.com/rss/",
       "type": "rss"
+    },
+    {
+      "name": "国家烟草局",
+      "url": "http://www.tobacco.gov.cn/gjyc/gdxw/list.shtml",
+      "type": "listdate",
+      "sel": "/gjyc/gdxw/",
+      "region": "中国"
+    },
+    {
+      "name": "Tobacco Tactics(控烟监管)",
+      "url": "https://tobaccotactics.org/feed/",
+      "type": "rss",
+      "dimension": "控烟监管",
+      "region": "全球"
+    },
+    {
+      "name": "Ecigclick(英国电子烟)",
+      "url": "https://www.ecigclick.co.uk/feed/",
+      "type": "rss",
+      "dimension": "电子烟",
+      "region": "英国"
     }
   ],
   "insights": [
@@ -84,8 +105,41 @@
     },
     {
       "name": "Mintel",
-      "url": "https://www.mintel.com/rss",
+      "url": "https://www.mintel.com/feed/",
       "type": "rss"
+    },
+    {
+      "name": "Ipsos",
+      "url": "https://www.ipsos.com/en-us/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "FDA",
+      "url": "https://www.fda.gov/news-events/fda-newsroom",
+      "type": "",
+      "sel": "press-announcements",
+      "region": "美国"
+    },
+    {
+      "name": "WHO",
+      "url": "https://www.who.int/news",
+      "type": "browser",
+      "articleRe": "/news/item/",
+      "region": "全球"
+    },
+    {
+      "name": "Bain",
+      "url": "https://www.bain.com/insights/",
+      "type": "browser",
+      "articleRe": "/insights/[a-z0-9]+(?:-[a-z0-9]+){2,}",
+      "region": "全球"
+    },
+    {
+      "name": "NielsenIQ",
+      "url": "https://nielseniq.com/global/en/insights/",
+      "type": "browser",
+      "articleRe": "/global/en/insights/[a-z0-9-]+/\\d{4}/",
+      "region": "全球"
     },
     {
       "name": "199IT 互联网数据",

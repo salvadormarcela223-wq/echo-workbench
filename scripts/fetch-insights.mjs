@@ -3,6 +3,7 @@
 // 保留现有精选不删，每天追加 1-3 篇新分析，保证「专业提升每天有更新」。
 import fs from 'fs';
 import path from 'path';
+import { createRequire } from 'module';
 import { validate, linkQuality } from './validate-feed.mjs';
 
 const ROOT = path.resolve('.');
@@ -28,6 +29,44 @@ function clean(s) {
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
     .replace(/\s+/g, ' ').trim();
+}
+
+// —— 浏览器渲染抓取（type:"browser"）：针对 JS 动态站（WHO / Bain / NielsenIQ 等），
+// 普通 fetch 拿不到内容，改用本机 Chrome 渲染后再抽取文章链接。仅当源配置为 browser 时才加载 puppeteer。
+const _require = createRequire('C:/Users/VOOPOO/.workbuddy/binaries/node/workspace/');
+async function fetchBrowserHTML(url, waitMs = 7000) {
+  let browser;
+  try {
+    const puppeteer = _require('puppeteer');
+    browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const page = await browser.newPage();
+    await page.setUserAgent(UA);
+    await page.setRequestInterception(true);
+    page.on('request', (r) => { const t = r.resourceType(); (['image', 'font', 'stylesheet', 'media'].includes(t)) ? r.abort() : r.continue(); });
+    try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 }); } catch (e) { /* 重型 JS 站常超时，继续抓已加载的 DOM */ }
+    await new Promise((r) => setTimeout(r, waitMs));
+    for (let i = 0; i < 10; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 500)); }
+    await new Promise((r) => setTimeout(r, 2500));
+    return await page.content();
+  } finally { if (browser) await browser.close(); }
+}
+// 用 articleRe（来自源配置）精确匹配文章链接，避免误抓栏目/导航页
+function parseBrowser(html, base, articleRe) {
+  const out = [];
+  const re = new RegExp('<a[^>]+href="([^"]*(?:' + articleRe + ')[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
+  let m;
+  while ((m = re.exec(html))) {
+    try {
+      const href = stripTracking(new URL(m[1], base).href);
+      const title = clean(m[2]);
+      if (!title || title.length < 6) continue;
+      if (GENERIC.test(title)) continue;
+      out.push({ title, link: href, pub: '', desc: '' });
+    } catch (e) { }
+  }
+  const seen = new Set(); const uniq = [];
+  for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
+  return uniq.slice(0, 15);
 }
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA|About|Working at Innova|Vacancies|Global Reach|All news|Business|New product development|Download|Newsletter subscription|Careers|Media Kit|Advertise|Contact us|Terms of Use|Privacy Policy|Cookie Policy)$/i;
 // 地区导航页/平台概览页 URL 模式（不是真正的文章或报告）
@@ -188,8 +227,13 @@ function readFeed() {
   for (const grp of ['insights']) {
     for (const s of sources[grp]) {
       try {
-        const txt = await getText(s.url);
-        const items = s.type === 'rss' ? parseRSS(txt) : parseHTML(txt, s.url, s.sel || '');
+        let txt;
+        if (s.type === 'browser') txt = await fetchBrowserHTML(s.url, s.wait || 7000);
+        else txt = await getText(s.url);
+        let items;
+        if (s.type === 'rss') items = parseRSS(txt);
+        else if (s.type === 'browser' && s.articleRe) items = parseBrowser(txt, s.url, s.articleRe);
+        else items = parseHTML(txt, s.url, s.sel || '');
         console.log(`\n=== [${grp}] ${s.name} (${s.type}) 抓到 ${items.length} 条 ===`);
         items.slice(0, 4).forEach((it) => console.log(`  • ${it.title}\n    ${it.link}`));
         if (writeBack) {

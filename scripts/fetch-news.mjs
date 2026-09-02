@@ -38,12 +38,14 @@ const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|
 
 // 内容兜底路由：判断一条内容是否涉及「电子烟 / 烟草 / 尼古丁替代」——这类只归行业资讯(news)，
 // 其余（FMCG、餐饮、包装、市场研究、消费电子、官方平台、CMI/感官）归专业提升(insights)。
-const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟/i;
+const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|控烟|减害|烟草控制|无烟|烟碱|尼古丁袋|尼古丁替代|NRT|薄荷醇|menthol|烟草税|tobacco control|harm reduction|smoke-free|nicotine pouch|vaping policy/i;
 // 强非烟草主题（烟草媒体偶尔也发跨界新闻，如新能源/出海/汽车）。内容命中这些且无任何烟草词时，视为非烟草，不归入行业资讯。
 const NONTOB_STRONG = /新能源|电动车|电动汽车|纯电动|混动|续航|动力电池|锂电池|出海|巴西|滴滴|汽车|车企|整车|乘用车|vehicle|electric vehicle|\bEV\b|automaker|tesla|比亚迪|蔚来|小鹏|理想|新能源汽车|智能驾驶|自动驾驶|光伏|储能/i;
-function isTobacco(it) {
+function isTobacco(it, srcName) {
   const content = [it.title, it.summary, it.desc].filter(Boolean).join(' ');
-  const meta = [it.source, it.origin].filter(Boolean).join(' ');
+  // 注意：解析出的条目本身不带 source 字段，必须把「源名」显式传进来兜底，
+  // 否则像国家烟草局「天津…反走私宣传」这类标题不含"烟草"二字的新闻会被误判为非烟草整源 0 条。
+  const meta = [srcName, it.source, it.origin].filter(Boolean).join(' ');
   // 内容明显是非烟草主题且无任何烟草词 -> 非烟草（拦截烟草媒体发的跨界新闻，如「滴滴出海·新能源」）
   if (NONTOB_STRONG.test(content) && !TOBACCO_RE.test(content)) return false;
   return TOBACCO_RE.test(content) || TOBACCO_RE.test(meta);
@@ -159,6 +161,28 @@ function parseRSS(xml) {
   return out;
 }
 
+// 列表页「链接+标题+日期」成对解析（国家烟草局等：li 内 <a> + <span class="date">）。
+// 关键：发布日期直接从列表页取，不必逐篇回源抓日期 —— 省掉一半请求，避免被目标站限流导致整源 0 条。
+function parseListDate(html, base, sel) {
+  const out = [];
+  const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp('<li>\\s*<a[^>]+href="([^"]*' + esc + '[^"]*)"[^>]*>([\\s\\S]*?)</a>\\s*<span[^>]*class="[^"]*date[^"]*"[^>]*>([^<]+)</span>', 'gi');
+  let m;
+  while ((m = re.exec(html))) {
+    try {
+      const href = stripTracking(new URL(m[1], base).href);
+      const title = clean(m[2]);
+      const pub = clean(m[3]);
+      if (!title || title.length < 4) continue;
+      if (GENERIC.test(title)) continue;
+      out.push({ title, link: href, pub, desc: '' });
+    } catch (e) { }
+  }
+  const seen = new Set(); const uniq = [];
+  for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
+  return uniq.slice(0, 15);
+}
+
 function parseHTML(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -190,7 +214,10 @@ function parseHTML(html, base, sel) {
     for (const s of sources[grp]) {
       try {
         const txt = await getText(s.url);
-        const items = s.type === 'rss' ? parseRSS(txt) : parseHTML(txt, s.url, s.sel || '');
+        let items;
+        if (s.type === 'rss') items = parseRSS(txt);
+        else if (s.type === 'listdate') items = parseListDate(txt, s.url, s.sel || '');
+        else items = parseHTML(txt, s.url, s.sel || '');
         console.log(`\n=== [${grp}] ${s.name} (${s.type}) 抓到 ${items.length} 条 ===`);
         items.slice(0, 4).forEach((it) => console.log(`  • ${it.title}\n    ${it.link}`));
         if (writeBack && feed) {
@@ -200,12 +227,11 @@ function parseHTML(html, base, sel) {
           for (const it of items) {
             if (seen.has(it.link)) continue;
             // 内容兜底：非烟草/电子烟内容不归入行业资讯（应属专业提升），直接丢弃由 insights 源补充
-            if (!isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 非烟草/电子烟内容，不归入行业资讯（应属专业提升）`); continue; }
+            if (!isTobacco(it, s.name)) { rejected.push(`[${grp}] ${it.title} -> 非烟草/电子烟内容，不归入行业资讯（应属专业提升）`); continue; }
             // 质量闸门：链接必须是真实深链
             const lq = (await import('./validate-feed.mjs')).linkQuality(it.link);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
-            // Tobacco Insider 的栏目/品牌页（无日期段的单段 slug，如 /esse/、/china-tobacco-international-news/）不是文章
-            if (/tobaccoinsider\.com/.test(it.link) && !/\/20\d\d\//.test(it.link)) { rejected.push(`[${grp}] ${it.title} -> Tobacco Insider 栏目页非文章`); continue; }
+            await new Promise((r) => setTimeout(r, 150)); // 礼貌抓取：避免高频回源被目标站限流（曾致整源 0 条）
             const summary = await deriveSummary(it.link, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
             // 真实发布日期：RSS/HTML 没给就回源文章页抓，再不行才放弃（绝不伪造日期）
