@@ -32683,5 +32683,545 @@
     "p": "/səʊlz/",
     "t": "灵魂；精神（复数）",
     "en": "Plural of soul; the spiritual or immaterial part of a human being, or the essence of something."
+  },
+  "mothers": {
+    "p": "/ˈmʌðəz/",
+    "t": "母亲们",
+    "en": "female parents"
+  },
+  "postpartum": {
+    "p": "/ˌpəʊstˈpɑːtəm/",
+    "t": "产后的",
+    "en": "after childbirth"
+  },
+  "programs": {
+    "p": "/ˈprəʊɡræmz/",
+    "t": "项目；程序",
+    "en": "planned activities or systems"
+  },
+  "promising": {
+    "p": "/ˈprɒmɪsɪŋ/",
+    "t": "有前途的",
+    "en": "showing potential for success"
+  },
+  "guiding": {
+    "p": "/ˈɡaɪdɪŋ/",
+    "t": "指导的；引导",
+    "en": "directing or leading"
+  },
+  "improving": {
+    "p": "/ɪmˈpruːvɪŋ/",
+    "t": "改进；改善",
+    "en": "making better"
+  },
+  "journalism": {
+    "p": "/ˈdʒɜːnəlɪzəm/",
+    "t": "新闻业",
+    "en": "the profession of reporting news"
+  },
+  "killing": {
+    "p": "/ˈkɪlɪŋ/",
+    "t": "杀害；杀死",
+    "en": "causing death"
+  },
+  "laden": {
+    "p": "/ˈleɪdən/",
+    "t": "装满的；负担沉重的",
+    "en": "heavily loaded"
+  },
+  "whatifs": {
+    "p": "/ˈwɒtɪfs/",
+    "t": "假设情况；如果……怎么办",
+    "en": "hypothetical concerns"
+  },
+  "confide": {
+    "p": "/kənˈfaɪd/",
+    "t": "吐露（秘密）",
+    "en": "tell someone a secret privately"
+  },
+  "outcome": {
+    "p": "/ˈaʊtkʌm/",
+    "t": "结果；结局",
+    "en": "final result"
+  },
+  "psychosis": {
+    "p": "/saɪˈkəʊsɪs/",
+    "t": "精神病",
+    "en": "severe mental disorder"
+  },
+  "convict": {
+    "p": "/ˈkɒnvɪkt/",
+    "t": "罪犯；定罪",
+    "en": "person found guilty; to declare guilty"
+  },
+  "jurors": {
+    "p": "/ˈdʒʊərəz/",
+    "t": "陪审员",
+    "en": "members of a jury"
+  },
+  "unanimous": {
+    "p": "/juːˈnænɪməs/",
+    "t": "全体一致的",
+    "en": "all in agreement"
+  },
+  "verdict": {
+    "p": "/ˈvɜːdɪkt/",
+    "t": "裁决；判决",
+    "en": "decision in a trial"
+  },
+  "ordered": {
+    "p": "/ˈɔːdəd/",
+    "t": "命令的；订购的",
+    "en": "given a command; arranged"
+  },
+  "deliberating": {
+    "p": "/dɪˈlɪbəreɪtɪŋ/",
+    "t": "仔细考虑；审议",
+    "en": "carefully considering"
+  },
+  "contending": {
+    "p": "/kənˈtendɪŋ/",
+    "t": "竞争；主张",
+    "en": "competing; arguing"
+  },
+  "render": {
+    "p": "/ˈrendə/",
+    "t": "提供；使成为",
+    "en": "give; cause to be"
+  },
+  "culpable": {
+    "p": "/ˈkʌlpəbl/",
+    "t": "应受责备的",
+    "en": "deserving blame"
+  },
+  "flashpoint": {
+    "p": "/ˈflæʃpɔɪnt/",
+    "t": "爆发点；燃点",
+    "en": "point of eruption or ignition"
+  },
+  "maternal": {
+    "p": "/məˈtɜːnəl/",
+    "t": "母亲的；母性的",
+    "en": "relating to motherhood"
+  },
+  "courtroom": {
+    "p": "/ˈkɔːtruːm/",
+    "t": "法庭",
+    "en": "room where trials are held"
+  },
+  "drama": {
+    "p": "/ˈdrɑːmə/",
+    "t": "戏剧；戏剧性事件",
+    "en": "play; exciting event"
+  },
+  "neglected": {
+    "p": "/nɪˈɡlektɪd/",
+    "t": "被忽视的",
+    "en": "not cared for properly"
+  },
+  "hopeless": {
+    "p": "/ˈhəʊpləs/",
+    "t": "绝望的；无望的",
+    "en": "without hope"
+  },
+  "coverage": {
+    "p": "/ˈkʌvərɪdʒ/",
+    "t": "新闻报道；覆盖范围",
+    "en": "reporting; extent of coverage"
+  },
+  "rightly": {
+    "p": "/ˈraɪtli/",
+    "t": "正确地；公正地",
+    "en": "correctly; justly"
+  },
+  "experimenting": {
+    "p": "/ɪkˈsperɪmentɪŋ/",
+    "t": "进行实验",
+    "en": "testing new ideas"
+  },
+  "juggle": {
+    "p": "/ˈdʒʌɡl/",
+    "t": "同时应付；杂耍",
+    "en": "manage multiple things; toss objects"
+  },
+  "pediatrician": {
+    "p": "/ˌpiːdiəˈtrɪʃən/",
+    "t": "儿科医生",
+    "en": "doctor for children"
+  },
+  "incorporates": {
+    "p": "/ɪnˈkɔːpəreɪts/",
+    "t": "包含；合并",
+    "en": "includes; combines"
+  },
+  "compassionate": {
+    "p": "/kəmˈpæʃənət/",
+    "t": "富有同情心的",
+    "en": "showing sympathy"
+  },
+  "listed": {
+    "p": "/ˈlɪstɪd/",
+    "t": "列出的；上市的",
+    "en": "put on a list; officially registered"
+  },
+  "coordination": {
+    "p": "/kəʊˌɔːdɪˈneɪʃən/",
+    "t": "协调",
+    "en": "organizing together"
+  },
+  "providers": {
+    "p": "/prəˈvaɪdəz/",
+    "t": "提供者；服务商",
+    "en": "people or organizations that supply"
+  },
+  "tenet": {
+    "p": "/ˈtenɪt/",
+    "t": "原则；信条",
+    "en": "core belief"
+  },
+  "nonprofits": {
+    "p": "/nɒnˈprɒfɪts/",
+    "t": "非营利组织",
+    "en": "organizations not for profit"
+  },
+  "wrapping": {
+    "p": "/ˈræpɪŋ/",
+    "t": "包裹；包装",
+    "en": "covering or enclosing"
+  },
+  "assigned": {
+    "p": "/əˈsaɪnd/",
+    "t": "分配的；指定的",
+    "en": "given a task or role"
+  },
+  "behavioralhealth": {
+    "p": "/bɪˈheɪvjərəl helθ/",
+    "t": "行为健康",
+    "en": "mental health and well-being"
+  },
+  "assessments": {
+    "p": "/əˈsesmənts/",
+    "t": "评估；评价",
+    "en": "evaluations"
+  },
+  "psychiatric": {
+    "p": "/ˌsaɪkiˈætrɪk/",
+    "t": "精神病学的",
+    "en": "relating to psychiatry"
+  },
+  "patient": {
+    "p": "/ˈpeɪʃənt/",
+    "t": "病人；耐心的",
+    "en": "person receiving medical care; tolerant"
+  },
+  "cooperates": {
+    "p": "/kəʊˈɒpəreɪts/",
+    "t": "合作；配合",
+    "en": "works together"
+  },
+  "appointment": {
+    "p": "/əˈpɔɪntmənt/",
+    "t": "预约；任命",
+    "en": "scheduled meeting; job assignment"
+  },
+  "preexisting": {
+    "p": "/ˌpriːɪɡˈzɪstɪŋ/",
+    "t": "先前存在的",
+    "en": "existing before"
+  },
+  "evaluations": {
+    "p": "/ɪˌvæljuˈeɪʃənz/",
+    "t": "评估；评价",
+    "en": "assessments"
+  },
+  "consistently": {
+    "p": "/kənˈsɪstəntli/",
+    "t": "一贯地；始终如一地",
+    "en": "in a consistent manner"
+  },
+  "outperformed": {
+    "p": "/ˌaʊtpəˈfɔːmd/",
+    "t": "胜过；做得更好",
+    "en": "performed better than"
+  },
+  "standards": {
+    "p": "/ˈstændədz/",
+    "t": "标准；水平",
+    "en": "levels of quality"
+  },
+  "halting": {
+    "p": "/ˈhɔːltɪŋ/",
+    "t": "停顿的；踌躇的",
+    "en": "stopping; hesitant"
+  },
+  "logistical": {
+    "p": "/ləˈdʒɪstɪkəl/",
+    "t": "后勤的；物流的",
+    "en": "related to organization and planning"
+  },
+  "urging": {
+    "p": "/ˈɜːdʒɪŋ/",
+    "t": "催促；强烈要求",
+    "en": "strongly encouraging"
+  },
+  "navigators": {
+    "p": "/ˈnævɪɡeɪtəz/",
+    "t": "导航员；引导者",
+    "en": "people who guide or direct"
+  },
+  "certified": {
+    "p": "/ˈsɜːtɪfaɪd/",
+    "t": "经认证的",
+    "en": "officially qualified"
+  },
+  "recruited": {
+    "p": "/rɪˈkruːtɪd/",
+    "t": "招募的",
+    "en": "enlisted or hired"
+  },
+  "nurses": {
+    "p": "/ˈnɜːsɪz/",
+    "t": "护士",
+    "en": "healthcare professionals"
+  },
+  "midwives": {
+    "p": "/ˈmɪdwaɪvz/",
+    "t": "助产士",
+    "en": "professionals assisting childbirth"
+  },
+  "coach": {
+    "p": "/kəʊtʃ/",
+    "t": "教练；指导者",
+    "en": "person who trains or instructs"
+  },
+  "protocol": {
+    "p": "/ˈprəʊtəkɒl/",
+    "t": "协议；规程",
+    "en": "set of rules or procedures"
+  },
+  "coachdriven": {
+    "p": "/kəʊtʃ ˈdrɪvən/",
+    "t": "由教练驱动的",
+    "en": "led or motivated by a coach"
+  },
+  "remission": {
+    "p": "/rɪˈmɪʃən/",
+    "t": "缓解；减轻",
+    "en": "reduction of symptoms"
+  },
+  "therapist": {
+    "p": "/ˈθerəpɪst/",
+    "t": "治疗师",
+    "en": "professional who provides therapy"
+  },
+  "peercoach": {
+    "p": "/pɪə kəʊtʃ/",
+    "t": "同伴教练",
+    "en": "coach from one's peer group"
+  },
+  "leaned": {
+    "p": "/liːnd/",
+    "t": "倾斜；倚靠",
+    "en": "bent or rested against"
+  },
+  "neonatologist": {
+    "p": "/ˌniːəʊneɪˈtɒlədʒɪst/",
+    "t": "新生儿科医生",
+    "en": "doctor specializing in newborns"
+  },
+  "babies": {
+    "p": "/ˈbeɪbiz/",
+    "t": "婴儿",
+    "en": "very young children"
+  },
+  "worldaltering": {
+    "p": "/wɜːld ˈɔːltərɪŋ/",
+    "t": "改变世界的",
+    "en": "causing major change"
+  },
+  "underutilizing": {
+    "p": "/ˌʌndəˈjuːtəlaɪzɪŋ/",
+    "t": "未充分利用",
+    "en": "not using fully"
+  },
+  "coaching": {
+    "p": "/ˈkəʊtʃɪŋ/",
+    "t": "指导；辅导",
+    "en": "training or instruction"
+  },
+  "formalized": {
+    "p": "/ˈfɔːməlaɪzd/",
+    "t": "正式化的",
+    "en": "made official or structured"
+  },
+  "traction": {
+    "p": "/ˈtrækʃən/",
+    "t": "牵引力；进展",
+    "en": "grip; progress or momentum"
+  },
+  "specialized": {
+    "p": "/ˈspeʃəlaɪzd/",
+    "t": "专门的",
+    "en": "focused on a specific area"
+  },
+  "mentors": {
+    "p": "/ˈmentɔːz/",
+    "t": "导师；指导者",
+    "en": "experienced advisors"
+  },
+  "incorporate": {
+    "p": "/ɪnˈkɔːpəreɪt/",
+    "t": "包含；合并",
+    "en": "include or combine"
+  },
+  "longheld": {
+    "p": "/ˈlɒŋheld/",
+    "t": "长期持有的",
+    "en": "held for a long time"
+  },
+  "protocols": {
+    "p": "/ˈprəʊtəkɒlz/",
+    "t": "规程；协议",
+    "en": "sets of rules"
+  },
+  "activation": {
+    "p": "/ˌæktɪˈveɪʃən/",
+    "t": "激活；启动",
+    "en": "making active"
+  },
+  "understands": {
+    "p": "/ˌʌndəˈstændz/",
+    "t": "理解；明白",
+    "en": "comprehends"
+  },
+  "provider": {
+    "p": "/prəˈvaɪdə/",
+    "t": "提供者；服务商",
+    "en": "person or entity supplying"
+  },
+  "peersupport": {
+    "p": "/pɪə səˈpɔːt/",
+    "t": "同伴支持",
+    "en": "support from equals"
+  },
+  "coordinated": {
+    "p": "/kəʊˈɔːdɪneɪtɪd/",
+    "t": "协调的",
+    "en": "organized together"
+  },
+  "expecting": {
+    "p": "/ɪkˈspektɪŋ/",
+    "t": "期待的；怀孕的",
+    "en": "anticipating; pregnant"
+  },
+  "policymakers": {
+    "p": "/ˈpɒləsɪmeɪkəz/",
+    "t": "政策制定者",
+    "en": "people who create policies"
+  },
+  "panacea": {
+    "p": "/ˌpænəˈsɪə/",
+    "t": "万灵药",
+    "en": "universal remedy"
+  },
+  "multipronged": {
+    "p": "/ˌmʌltiˈprɒŋd/",
+    "t": "多管齐下的",
+    "en": "having multiple approaches"
+  },
+  "bigpicture": {
+    "p": "/bɪɡ ˈpɪktʃə/",
+    "t": "全局；大局",
+    "en": "overall view"
+  },
+  "institutionallevel": {
+    "p": "/ˌɪnstɪˈtjuːʃənəl ˈlevəl/",
+    "t": "机构层面的",
+    "en": "at the level of institutions"
+  },
+  "bible": {
+    "p": "/ˈbaɪbl/",
+    "t": "圣经；权威书籍",
+    "en": "holy book; authoritative source"
+  },
+  "psychiatry": {
+    "p": "/saɪˈkaɪətri/",
+    "t": "精神病学",
+    "en": "medical field for mental disorders"
+  },
+  "categorize": {
+    "p": "/ˈkætəɡəraɪz/",
+    "t": "分类",
+    "en": "classify into groups"
+  },
+  "distinct": {
+    "p": "/dɪˈstɪŋkt/",
+    "t": "不同的；明显的",
+    "en": "clearly different"
+  },
+  "diagnosis": {
+    "p": "/ˌdaɪəɡˈnəʊsɪs/",
+    "t": "诊断",
+    "en": "identification of a disease"
+  },
+  "pediatricians": {
+    "p": "/ˌpiːdiəˈtrɪʃənz/",
+    "t": "儿科医生",
+    "en": "doctors for children"
+  },
+  "sufficient": {
+    "p": "/səˈfɪʃənt/",
+    "t": "足够的",
+    "en": "enough"
+  },
+  "insurance": {
+    "p": "/ɪnˈʃʊərəns/",
+    "t": "保险",
+    "en": "protection against financial loss"
+  },
+  "figuring": {
+    "p": "/ˈfɪɡərɪŋ/",
+    "t": "计算；想出",
+    "en": "calculating; determining"
+  },
+  "systemlevel": {
+    "p": "/ˈsɪstəm ˈlevəl/",
+    "t": "系统层面的",
+    "en": "at the level of systems"
+  },
+  "integrated": {
+    "p": "/ˈɪntɪɡreɪtɪd/",
+    "t": "整合的",
+    "en": "combined into a whole"
+  },
+  "postdelivery": {
+    "p": "/ˌpəʊst dɪˈlɪvəri/",
+    "t": "产后的",
+    "en": "after childbirth"
+  },
+  "informally": {
+    "p": "/ɪnˈfɔːməli/",
+    "t": "非正式地",
+    "en": "in an informal manner"
+  },
+  "emphasized": {
+    "p": "/ˈemfəsaɪzd/",
+    "t": "强调的",
+    "en": "given emphasis"
+  },
+  "scary": {
+    "p": "/ˈskeəri/",
+    "t": "可怕的",
+    "en": "frightening"
+  },
+  "treatable": {
+    "p": "/ˈtriːtəbl/",
+    "t": "可治疗的",
+    "en": "able to be treated"
+  },
+  "laypeople": {
+    "p": "/ˈleɪpiːpl/",
+    "t": "外行；非专业人士",
+    "en": "non-professionals"
   }
 }
