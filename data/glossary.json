@@ -33223,5 +33223,480 @@
     "p": "/ˈleɪpiːpl/",
     "t": "外行；非专业人士",
     "en": "non-professionals"
+  },
+  "occupation": {
+    "p": "/ˌɒkjʊˈpeɪʃn/",
+    "t": "职业；占领",
+    "en": "job or profession; act of taking control of a place"
+  },
+  "nowsuspended": {
+    "p": "/naʊ səˈspendɪd/",
+    "t": "现已被暂停的",
+    "en": "currently stopped or made temporarily inactive"
+  },
+  "confined": {
+    "p": "/kənˈfaɪnd/",
+    "t": "限制；禁闭",
+    "en": "restricted to a particular place or area"
+  },
+  "assault": {
+    "p": "/əˈsɔːlt/",
+    "t": "攻击；袭击",
+    "en": "physical attack or violent act"
+  },
+  "extradition": {
+    "p": "/ˌekstrəˈdɪʃn/",
+    "t": "引渡",
+    "en": "surrender of a fugitive to another jurisdiction"
+  },
+  "ordinarily": {
+    "p": "/ˈɔːdnrəli/",
+    "t": "通常；一般",
+    "en": "in the usual or normal way"
+  },
+  "civil": {
+    "p": "/ˈsɪvl/",
+    "t": "公民的；民事的",
+    "en": "relating to citizens or non-criminal law"
+  },
+  "unpopular": {
+    "p": "/ʌnˈpɒpjələ/",
+    "t": "不受欢迎的",
+    "en": "not liked or supported by many people"
+  },
+  "violent": {
+    "p": "/ˈvaɪələnt/",
+    "t": "暴力的",
+    "en": "using physical force to hurt or damage"
+  },
+  "raids": {
+    "p": "/reɪdz/",
+    "t": "突袭；搜查",
+    "en": "sudden attacks or searches"
+  },
+  "limbo": {
+    "p": "/ˈlɪmbəʊ/",
+    "t": "不确定状态；中间状态",
+    "en": "state of uncertainty or neglect"
+  },
+  "final": {
+    "p": "/ˈfaɪnl/",
+    "t": "最终的；决定性的",
+    "en": "last or conclusive"
+  },
+  "permitting": {
+    "p": "/pəˈmɪtɪŋ/",
+    "t": "允许；许可",
+    "en": "allowing or giving permission"
+  },
+  "extradite": {
+    "p": "/ˈekstrədaɪt/",
+    "t": "引渡",
+    "en": "hand over a person to another state for trial"
+  },
+  "scotfree": {
+    "p": "/ˌskɒt ˈfriː/",
+    "t": "免受惩罚；安然无恙",
+    "en": "without punishment or injury"
+  },
+  "accountability": {
+    "p": "/əˌkaʊntəˈbɪləti/",
+    "t": "责任；问责",
+    "en": "responsibility for one's actions"
+  },
+  "unusually": {
+    "p": "/ʌnˈjuːʒuəli/",
+    "t": "异常地；特别地",
+    "en": "in a way that is not usual"
+  },
+  "hardly": {
+    "p": "/ˈhɑːdli/",
+    "t": "几乎不；简直不",
+    "en": "almost not; barely"
+  },
+  "sympathizers": {
+    "p": "/ˈsɪmpəθaɪzəz/",
+    "t": "同情者；支持者",
+    "en": "people who support or pity a cause"
+  },
+  "judiciary": {
+    "p": "/dʒuˈdɪʃəri/",
+    "t": "司法系统；法官",
+    "en": "the judicial branch or judges collectively"
+  },
+  "fired": {
+    "p": "/ˈfaɪəd/",
+    "t": "解雇；发射",
+    "en": "dismissed from a job; discharged"
+  },
+  "roommate": {
+    "p": "/ˈruːmmeɪt/",
+    "t": "室友",
+    "en": "person sharing a room or apartment"
+  },
+  "broom": {
+    "p": "/bruːm/",
+    "t": "扫帚",
+    "en": "a long-handled brush for sweeping"
+  },
+  "shovel": {
+    "p": "/ˈʃʌvl/",
+    "t": "铲子",
+    "en": "tool for digging or moving material"
+  },
+  "allegation": {
+    "p": "/ˌæləˈɡeɪʃn/",
+    "t": "指控；断言",
+    "en": "claim or accusation without proof"
+  },
+  "prosecutor": {
+    "p": "/ˈprɒsɪkjuːtə/",
+    "t": "检察官；公诉人",
+    "en": "lawyer who brings charges in a trial"
+  },
+  "filed": {
+    "p": "/faɪld/",
+    "t": "提交；提出",
+    "en": "submitted officially (e.g., a document)"
+  },
+  "pursuant": {
+    "p": "/pəˈsjuːənt/",
+    "t": "依据；按照",
+    "en": "in accordance with"
+  },
+  "arrest": {
+    "p": "/əˈrest/",
+    "t": "逮捕；拘留",
+    "en": "take into legal custody"
+  },
+  "warrant": {
+    "p": "/ˈwɒrənt/",
+    "t": "授权令；理由",
+    "en": "official authorization; justification"
+  },
+  "guaranteed": {
+    "p": "/ˌɡærənˈtiːd/",
+    "t": "保证；担保",
+    "en": "promised or ensured"
+  },
+  "initiated": {
+    "p": "/ɪˈnɪʃieɪtɪd/",
+    "t": "开始；发起",
+    "en": "started or began"
+  },
+  "fugitive": {
+    "p": "/ˈfjuːdʒətɪv/",
+    "t": "逃犯；逃亡者",
+    "en": "person fleeing from justice"
+  },
+  "loomed": {
+    "p": "/luːmd/",
+    "t": "逼近；隐约出现",
+    "en": "appeared as a large threatening shape"
+  },
+  "permitted": {
+    "p": "/pəˈmɪtɪd/",
+    "t": "被允许的",
+    "en": "allowed or authorized"
+  },
+  "extradited": {
+    "p": "/ˈekstrədaɪtɪd/",
+    "t": "被引渡的",
+    "en": "handed over to another jurisdiction"
+  },
+  "incarceration": {
+    "p": "/ɪnˌkɑːsəˈreɪʃn/",
+    "t": "监禁；关押",
+    "en": "imprisonment"
+  },
+  "romantic": {
+    "p": "/rəʊˈmæntɪk/",
+    "t": "浪漫的；爱情的",
+    "en": "relating to love or romance"
+  },
+  "discussed": {
+    "p": "/dɪˈskʌst/",
+    "t": "讨论；商议",
+    "en": "talked about"
+  },
+  "reasonably": {
+    "p": "/ˈriːznəbli/",
+    "t": "合理地；相当地",
+    "en": "in a fair or sensible way"
+  },
+  "feared": {
+    "p": "/fɪəd/",
+    "t": "害怕；担忧",
+    "en": "was afraid of"
+  },
+  "expire": {
+    "p": "/ɪkˈspaɪə/",
+    "t": "到期；失效",
+    "en": "come to an end; become invalid"
+  },
+  "backed": {
+    "p": "/bækt/",
+    "t": "支持；背书",
+    "en": "supported or endorsed"
+  },
+  "credulous": {
+    "p": "/ˈkredjələs/",
+    "t": "轻信的；易受骗的",
+    "en": "too ready to believe"
+  },
+  "interpretation": {
+    "p": "/ɪnˌtɜːprɪˈteɪʃn/",
+    "t": "解释；理解",
+    "en": "explanation or meaning"
+  },
+  "denied": {
+    "p": "/dɪˈnaɪd/",
+    "t": "否认；拒绝",
+    "en": "refused or stated untrue"
+  },
+  "rendition": {
+    "p": "/renˈdɪʃn/",
+    "t": "表演；移交",
+    "en": "performance; surrender of a person"
+  },
+  "surrendered": {
+    "p": "/səˈrendəd/",
+    "t": "投降；交出",
+    "en": "gave up or yielded"
+  },
+  "footnote": {
+    "p": "/ˈfʊtnəʊt/",
+    "t": "脚注",
+    "en": "note at bottom of a page"
+  },
+  "indicating": {
+    "p": "/ˈɪndɪkeɪtɪŋ/",
+    "t": "表明；指示",
+    "en": "showing or pointing out"
+  },
+  "premise": {
+    "p": "/ˈpremɪs/",
+    "t": "前提；假设",
+    "en": "basis or assumption"
+  },
+  "defined": {
+    "p": "/dɪˈfaɪnd/",
+    "t": "定义的；明确的",
+    "en": "clearly stated or described"
+  },
+  "exclude": {
+    "p": "/ɪkˈskluːd/",
+    "t": "排除；不包括",
+    "en": "leave out or prevent from entering"
+  },
+  "summarize": {
+    "p": "/ˈsʌməraɪz/",
+    "t": "总结；概述",
+    "en": "give a brief statement of main points"
+  },
+  "ruled": {
+    "p": "/ruːld/",
+    "t": "裁定；统治",
+    "en": "decided officially; governed"
+  },
+  "rearrest": {
+    "p": "/ˌriːəˈrest/",
+    "t": "重新逮捕",
+    "en": "arrest again"
+  },
+  "hostility": {
+    "p": "/hɒˈstɪləti/",
+    "t": "敌意；敌对",
+    "en": "unfriendly or aggressive behavior"
+  },
+  "mocking": {
+    "p": "/ˈmɒkɪŋ/",
+    "t": "嘲弄的；模仿的",
+    "en": "ridiculing or scornful"
+  },
+  "labeled": {
+    "p": "/ˈleɪbld/",
+    "t": "贴上标签；归类",
+    "en": "marked or described as"
+  },
+  "violated": {
+    "p": "/ˈvaɪəleɪtɪd/",
+    "t": "违反；侵犯",
+    "en": "broke or breached"
+  },
+  "sensible": {
+    "p": "/ˈsensəbl/",
+    "t": "明智的；合理的",
+    "en": "reasonable and practical"
+  },
+  "arose": {
+    "p": "/əˈrəʊz/",
+    "t": "出现；产生",
+    "en": "occurred or came up"
+  },
+  "attempted": {
+    "p": "/əˈtemptɪd/",
+    "t": "尝试的；未遂的",
+    "en": "tried or made an effort"
+  },
+  "entitled": {
+    "p": "/ɪnˈtaɪtld/",
+    "t": "有权；有资格",
+    "en": "having the right to something"
+  },
+  "fortune": {
+    "p": "/ˈfɔːtʃuːn/",
+    "t": "财富；运气",
+    "en": "large amount of money; luck"
+  },
+  "deputy": {
+    "p": "/ˈdepjuti/",
+    "t": "副手；代表",
+    "en": "second-in-command or assistant"
+  },
+  "bodyguard": {
+    "p": "/ˈbɒdiɡɑːd/",
+    "t": "保镖",
+    "en": "person protecting someone from danger"
+  },
+  "traveling": {
+    "p": "/ˈtrævlɪŋ/",
+    "t": "旅行；移动",
+    "en": "going from place to place"
+  },
+  "murder": {
+    "p": "/ˈmɜːdə/",
+    "t": "谋杀；凶杀",
+    "en": "unlawful killing"
+  },
+  "tossed": {
+    "p": "/tɒst/",
+    "t": "扔；抛",
+    "en": "threw lightly or carelessly"
+  },
+  "commit": {
+    "p": "/kəˈmɪt/",
+    "t": "犯（罪）；承诺",
+    "en": "do something wrong; pledge"
+  },
+  "responsibilities": {
+    "p": "/rɪˌspɒnsəˈbɪlətiz/",
+    "t": "责任；义务",
+    "en": "duties or obligations"
+  },
+  "violating": {
+    "p": "/ˈvaɪəleɪtɪŋ/",
+    "t": "违反；侵犯",
+    "en": "breaking rules or laws"
+  },
+  "statelaw": {
+    "p": "/steɪt lɔː/",
+    "t": "州法",
+    "en": "law of a state (in a federation)"
+  },
+  "appeals": {
+    "p": "/əˈpiːlz/",
+    "t": "上诉；呼吁",
+    "en": "requests for review; pleas"
+  },
+  "prevailing": {
+    "p": "/prɪˈveɪlɪŋ/",
+    "t": "普遍的；占优势的",
+    "en": "widespread or dominant"
+  },
+  "precedents": {
+    "p": "/ˈpresɪdənts/",
+    "t": "先例；判例",
+    "en": "earlier examples or legal rulings"
+  },
+  "victimized": {
+    "p": "/ˈvɪktɪmaɪzd/",
+    "t": "使受害；欺压",
+    "en": "made a victim of"
+  },
+  "expansive": {
+    "p": "/ɪkˈspænsɪv/",
+    "t": "广阔的；广泛的",
+    "en": "wide-ranging or comprehensive"
+  },
+  "immunity": {
+    "p": "/ɪˈmjuːnəti/",
+    "t": "豁免；免疫力",
+    "en": "protection from prosecution or disease"
+  },
+  "violate": {
+    "p": "/ˈvaɪəleɪt/",
+    "t": "违反；侵犯",
+    "en": "break or fail to comply with"
+  },
+  "unreasonable": {
+    "p": "/ʌnˈriːznəbl/",
+    "t": "不合理的；过分的",
+    "en": "not fair or sensible"
+  },
+  "searches": {
+    "p": "/sɜːtʃɪz/",
+    "t": "搜查；搜索",
+    "en": "examinations to find something"
+  },
+  "seizures": {
+    "p": "/ˈsiːʒəz/",
+    "t": "扣押；没收；发作",
+    "en": "acts of taking possession; sudden attacks"
+  },
+  "compensate": {
+    "p": "/ˈkɒmpenseɪt/",
+    "t": "补偿；赔偿",
+    "en": "make up for loss or damage"
+  },
+  "overruling": {
+    "p": "/ˌəʊvəˈruːlɪŋ/",
+    "t": "推翻；否决",
+    "en": "rejecting or overriding a decision"
+  },
+  "fatally": {
+    "p": "/ˈfeɪtəli/",
+    "t": "致命地；严重地",
+    "en": "in a deadly or disastrous way"
+  },
+  "teenager": {
+    "p": "/ˈtiːneɪdʒə/",
+    "t": "青少年",
+    "en": "person aged 13-19"
+  },
+  "overrule": {
+    "p": "/ˌəʊvəˈruːl/",
+    "t": "否决；推翻",
+    "en": "decide against a previous ruling"
+  },
+  "assuming": {
+    "p": "/əˈsjuːmɪŋ/",
+    "t": "假设；假定",
+    "en": "taking for granted"
+  },
+  "manages": {
+    "p": "/ˈmænɪdʒɪz/",
+    "t": "管理；设法",
+    "en": "controls or handles successfully"
+  },
+  "custody": {
+    "p": "/ˈkʌstədi/",
+    "t": "监护；拘留",
+    "en": "care or control; imprisonment"
+  },
+  "gamesmanship": {
+    "p": "/ˈɡeɪmzmənʃɪp/",
+    "t": "比赛策略；花招",
+    "en": "skill in winning games by questionable tactics"
+  },
+  "bless": {
+    "p": "/bles/",
+    "t": "祝福；保佑",
+    "en": "ask for divine favor; praise"
+  },
+  "apprehended": {
+    "p": "/ˌæprɪˈhendɪd/",
+    "t": "逮捕；理解",
+    "en": "arrested; understood"
   }
 }
