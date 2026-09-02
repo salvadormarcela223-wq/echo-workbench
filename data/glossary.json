@@ -34323,5 +34323,965 @@
     "p": "/ɡræbd/",
     "t": "抓住的",
     "en": "Past tense of grab; seized suddenly."
+  },
+  "excessively": {
+    "p": "/ɪkˈsesɪvli/",
+    "t": "过度地，过分地",
+    "en": "to a greater degree than is necessary or acceptable"
+  },
+  "quest": {
+    "p": "/kwest/",
+    "t": "探索；追求",
+    "en": "a search for something"
+  },
+  "mysterious": {
+    "p": "/mɪˈstɪəriəs/",
+    "t": "神秘的",
+    "en": "difficult to understand or explain"
+  },
+  "structures": {
+    "p": "/ˈstrʌktʃəz/",
+    "t": "结构；构造",
+    "en": "the arrangement of parts"
+  },
+  "autonomous": {
+    "p": "/ɔːˈtɒnəməs/",
+    "t": "自主的；自治的",
+    "en": "self-governing or independent"
+  },
+  "mesophotic": {
+    "p": "/ˌmesəˈfəʊtɪk/",
+    "t": "中光带的",
+    "en": "relating to low-light marine zones"
+  },
+  "inner": {
+    "p": "/ˈɪnə/",
+    "t": "内部的",
+    "en": "situated within"
+  },
+  "workings": {
+    "p": "/ˈwɜːkɪŋz/",
+    "t": "运作方式；工作机制",
+    "en": "the way something operates"
+  },
+  "edges": {
+    "p": "/ˈedʒɪz/",
+    "t": "边缘",
+    "en": "the outer limits"
+  },
+  "universe": {
+    "p": "/ˈjuːnɪvɜːs/",
+    "t": "宇宙",
+    "en": "all existing matter and space"
+  },
+  "sunny": {
+    "p": "/ˈsʌni/",
+    "t": "阳光充足的",
+    "en": "bright with sunlight"
+  },
+  "stood": {
+    "p": "/stʊd/",
+    "t": "站立；位于",
+    "en": "past of stand; to be in an upright position"
+  },
+  "turquoise": {
+    "p": "/ˈtɜːkwɔɪz/",
+    "t": "绿松石色",
+    "en": "a greenish-blue color"
+  },
+  "scuba": {
+    "p": "/ˈskuːbə/",
+    "t": "水肺",
+    "en": "self-contained underwater breathing apparatus"
+  },
+  "divers": {
+    "p": "/ˈdaɪvəz/",
+    "t": "潜水员",
+    "en": "people who dive underwater"
+  },
+  "aquatic": {
+    "p": "/əˈkwætɪk/",
+    "t": "水生的",
+    "en": "living or occurring in water"
+  },
+  "spectacular": {
+    "p": "/spekˈtækjələ/",
+    "t": "壮观的",
+    "en": "impressive or striking"
+  },
+  "descend": {
+    "p": "/dɪˈsend/",
+    "t": "下降",
+    "en": "move down"
+  },
+  "sunlit": {
+    "p": "/ˈsʌnlɪt/",
+    "t": "阳光照射的",
+    "en": "lit by the sun"
+  },
+  "lesserknown": {
+    "p": "/ˈlesə nəʊn/",
+    "t": "较少为人知的",
+    "en": "not widely known"
+  },
+  "prepares": {
+    "p": "/prɪˈpeəz/",
+    "t": "准备",
+    "en": "makes ready"
+  },
+  "retrieve": {
+    "p": "/rɪˈtriːv/",
+    "t": "取回",
+    "en": "get back something"
+  },
+  "daylight": {
+    "p": "/ˈdeɪlaɪt/",
+    "t": "日光",
+    "en": "natural light of day"
+  },
+  "darkness": {
+    "p": "/ˈdɑːknəs/",
+    "t": "黑暗",
+    "en": "absence of light"
+  },
+  "simplicity": {
+    "p": "/sɪmˈplɪsəti/",
+    "t": "简单",
+    "en": "the state of being simple"
+  },
+  "meters": {
+    "p": "/ˈmiːtəz/",
+    "t": "米",
+    "en": "units of length"
+  },
+  "postdoc": {
+    "p": "/ˈpəʊstˌdɒk/",
+    "t": "博士后",
+    "en": "postdoctoral researcher"
+  },
+  "zoologist": {
+    "p": "/zəʊˈɒlədʒɪst/",
+    "t": "动物学家",
+    "en": "expert in zoology"
+  },
+  "secrets": {
+    "p": "/ˈsiːkrɪts/",
+    "t": "秘密",
+    "en": "hidden information"
+  },
+  "shallower": {
+    "p": "/ˈʃæləʊə/",
+    "t": "较浅的",
+    "en": "less deep"
+  },
+  "depths": {
+    "p": "/depθs/",
+    "t": "深处",
+    "en": "deep parts of sea"
+  },
+  "encrusted": {
+    "p": "/ɪnˈkrʌstɪd/",
+    "t": "覆盖着硬壳的",
+    "en": "covered with a hard layer"
+  },
+  "puzzle": {
+    "p": "/ˈpʌzl/",
+    "t": "谜；难题",
+    "en": "a problem or enigma"
+  },
+  "pieces": {
+    "p": "/ˈpiːsɪz/",
+    "t": "碎片；部分",
+    "en": "parts of a whole"
+  },
+  "underunderstood": {
+    "p": "/ˌʌndəˌʌndəˈstʊd/",
+    "t": "理解不足的",
+    "en": "not fully comprehended"
+  },
+  "acknowledged": {
+    "p": "/əkˈnɒlɪdʒd/",
+    "t": "承认的；公认的",
+    "en": "recognized or admitted"
+  },
+  "papers": {
+    "p": "/ˈpeɪpəz/",
+    "t": "论文；文件",
+    "en": "academic articles"
+  },
+  "descriptions": {
+    "p": "/dɪˈskrɪpʃənz/",
+    "t": "描述",
+    "en": "spoken or written accounts"
+  },
+  "economically": {
+    "p": "/ˌiːkəˈnɒmɪkli/",
+    "t": "经济上",
+    "en": "in terms of economics"
+  },
+  "ecologically": {
+    "p": "/ˌiːkəˈlɒdʒɪkli/",
+    "t": "生态上",
+    "en": "in terms of ecology"
+  },
+  "subtropical": {
+    "p": "/ˌsʌbˈtrɒpɪkəl/",
+    "t": "亚热带的",
+    "en": "relating to regions near tropics"
+  },
+  "susceptibility": {
+    "p": "/səˌseptəˈbɪləti/",
+    "t": "易感性",
+    "en": "likelihood of being affected"
+  },
+  "dimmer": {
+    "p": "/ˈdɪmə/",
+    "t": "较暗淡的",
+    "en": "less bright"
+  },
+  "corals": {
+    "p": "/ˈkɒrəlz/",
+    "t": "珊瑚",
+    "en": "marine invertebrates with skeletons"
+  },
+  "photosynthesizing": {
+    "p": "/ˌfəʊtəʊˈsɪnθəsaɪzɪŋ/",
+    "t": "进行光合作用的",
+    "en": "performing photosynthesis"
+  },
+  "algaes": {
+    "p": "/ˈældʒiːz/",
+    "t": "藻类",
+    "en": "simple aquatic plants"
+  },
+  "secrete": {
+    "p": "/sɪˈkriːt/",
+    "t": "分泌",
+    "en": "produce and discharge"
+  },
+  "calciumcarbonate": {
+    "p": "/ˈkælsiəm ˈkɑːbəneɪt/",
+    "t": "碳酸钙",
+    "en": "chemical compound in shells"
+  },
+  "matrix": {
+    "p": "/ˈmeɪtrɪks/",
+    "t": "基质；母体",
+    "en": "surrounding substance"
+  },
+  "photosynthesis": {
+    "p": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+    "t": "光合作用",
+    "en": "process plants convert light to energy"
+  },
+  "understudied": {
+    "p": "/ˌʌndəˈstʌdɪd/",
+    "t": "研究不足的",
+    "en": "not studied enough"
+  },
+  "exploring": {
+    "p": "/ɪkˈsplɔːrɪŋ/",
+    "t": "探索",
+    "en": "traveling through to discover"
+  },
+  "riskier": {
+    "p": "/ˈrɪskiə/",
+    "t": "更危险的",
+    "en": "more dangerous"
+  },
+  "technical": {
+    "p": "/ˈteknɪkəl/",
+    "t": "技术的",
+    "en": "relating to technology or technique"
+  },
+  "gasses": {
+    "p": "/ˈɡæsɪz/",
+    "t": "气体",
+    "en": "plural of gas"
+  },
+  "tissues": {
+    "p": "/ˈtɪʃuːz/",
+    "t": "组织",
+    "en": "biological materials in organisms"
+  },
+  "dives": {
+    "p": "/daɪvz/",
+    "t": "潜水",
+    "en": "plunges underwater"
+  },
+  "measurements": {
+    "p": "/ˈmeʒəmənts/",
+    "t": "测量",
+    "en": "act of measuring"
+  },
+  "samples": {
+    "p": "/ˈsɑːmplz/",
+    "t": "样本",
+    "en": "representative pieces"
+  },
+  "decompression": {
+    "p": "/ˌdiːkəmˈpreʃən/",
+    "t": "减压",
+    "en": "reduction of pressure"
+  },
+  "sickness": {
+    "p": "/ˈsɪknəs/",
+    "t": "疾病",
+    "en": "state of being ill"
+  },
+  "efficient": {
+    "p": "/ɪˈfɪʃənt/",
+    "t": "高效的",
+    "en": "productive without waste"
+  },
+  "sevenminute": {
+    "p": "/ˈsevən ˈmɪnɪt/",
+    "t": "七分钟的",
+    "en": "lasting seven minutes"
+  },
+  "operated": {
+    "p": "/ˈɒpəreɪtɪd/",
+    "t": "操作的",
+    "en": "controlled or run"
+  },
+  "submersibles": {
+    "p": "/səbˈmɜːsəbəlz/",
+    "t": "潜水器",
+    "en": "underwater vehicles"
+  },
+  "secretive": {
+    "p": "/ˈsiːkrətɪv/",
+    "t": "隐秘的",
+    "en": "inclined to conceal"
+  },
+  "cryptic": {
+    "p": "/ˈkrɪptɪk/",
+    "t": "隐蔽的；神秘的",
+    "en": "mysterious or obscure"
+  },
+  "sponges": {
+    "p": "/ˈspʌndʒɪz/",
+    "t": "海绵动物",
+    "en": "simple aquatic animals"
+  },
+  "slugs": {
+    "p": "/slʌɡz/",
+    "t": "海蛞蝓",
+    "en": "shell-less mollusks"
+  },
+  "deterred": {
+    "p": "/dɪˈtɜːd/",
+    "t": "阻止的",
+    "en": "discouraged from acting"
+  },
+  "surround": {
+    "p": "/səˈraʊnd/",
+    "t": "围绕",
+    "en": "be all around"
+  },
+  "sampling": {
+    "p": "/ˈsɑːmplɪŋ/",
+    "t": "取样",
+    "en": "taking samples"
+  },
+  "stack": {
+    "p": "/stæk/",
+    "t": "堆叠",
+    "en": "arrange in a pile"
+  },
+  "plates": {
+    "p": "/pleɪts/",
+    "t": "板块；盘子",
+    "en": "flat sheets"
+  },
+  "separated": {
+    "p": "/ˈsepəreɪtɪd/",
+    "t": "分离的",
+    "en": "set apart"
+  },
+  "intervals": {
+    "p": "/ˈɪntəvəlz/",
+    "t": "间隔",
+    "en": "space between points"
+  },
+  "plate": {
+    "p": "/pleɪt/",
+    "t": "板块",
+    "en": "flat geological sheet"
+  },
+  "featureless": {
+    "p": "/ˈfiːtʃələs/",
+    "t": "无特色的",
+    "en": "lacking distinct features"
+  },
+  "bottom": {
+    "p": "/ˈbɒtəm/",
+    "t": "底部",
+    "en": "lowest part"
+  },
+  "colonized": {
+    "p": "/ˈkɒlənaɪzd/",
+    "t": "被殖民的；定居的",
+    "en": "settled by organisms"
+  },
+  "larvae": {
+    "p": "/ˈlɑːviː/",
+    "t": "幼虫",
+    "en": "immature forms of animals"
+  },
+  "gorgonians": {
+    "p": "/ɡɔːˈɡəʊniənz/",
+    "t": "柳珊瑚",
+    "en": "sea fans"
+  },
+  "hiding": {
+    "p": "/ˈhaɪdɪŋ/",
+    "t": "隐藏",
+    "en": "concealing"
+  },
+  "floors": {
+    "p": "/flɔːz/",
+    "t": "海底；地面",
+    "en": "bottom surfaces"
+  },
+  "shrimp": {
+    "p": "/ʃrɪmp/",
+    "t": "虾",
+    "en": "small marine crustacean"
+  },
+  "mollusks": {
+    "p": "/ˈmɒləskz/",
+    "t": "软体动物",
+    "en": "invertebrates like snails"
+  },
+  "ascidians": {
+    "p": "/əˈsɪdiənz/",
+    "t": "海鞘",
+    "en": "sea squirts"
+  },
+  "sample": {
+    "p": "/ˈsɑːmpl/",
+    "t": "样本；取样",
+    "en": "representative part"
+  },
+  "analyze": {
+    "p": "/ˈænəlaɪz/",
+    "t": "分析",
+    "en": "examine in detail"
+  },
+  "standardized": {
+    "p": "/ˈstændədaɪzd/",
+    "t": "标准化的",
+    "en": "made uniform"
+  },
+  "robot": {
+    "p": "/ˈrəʊbɒt/",
+    "t": "机器人",
+    "en": "automated machine"
+  },
+  "rocks": {
+    "p": "/rɒk/",
+    "t": "岩石",
+    "en": "solid mineral masses"
+  },
+  "characteristics": {
+    "p": "/ˌkærəktəˈrɪstɪks/",
+    "t": "特征",
+    "en": "distinctive traits"
+  },
+  "prefab": {
+    "p": "/ˈpriːfæb/",
+    "t": "预制的",
+    "en": "prefabricated"
+  },
+  "washed": {
+    "p": "/wɒʃt/",
+    "t": "冲刷；洗涤",
+    "en": "cleaned with water"
+  },
+  "relay": {
+    "p": "/ˈriːleɪ/",
+    "t": "转播；传达",
+    "en": "pass on information"
+  },
+  "glimpses": {
+    "p": "/ɡlɪmpsɪz/",
+    "t": "一瞥",
+    "en": "brief looks"
+  },
+  "installed": {
+    "p": "/ɪnˈstɔːld/",
+    "t": "安装的",
+    "en": "put in place"
+  },
+  "retrieval": {
+    "p": "/rɪˈtriːvəl/",
+    "t": "取回；检索",
+    "en": "the act of retrieving"
+  },
+  "deploying": {
+    "p": "/dɪˈplɔɪɪŋ/",
+    "t": "部署",
+    "en": "positioning strategically"
+  },
+  "funders": {
+    "p": "/ˈfʌndəz/",
+    "t": "资助者",
+    "en": "people providing funds"
+  },
+  "underwrite": {
+    "p": "/ˌʌndəˈraɪt/",
+    "t": "资助；承保",
+    "en": "financially support"
+  },
+  "sparse": {
+    "p": "/spɑːs/",
+    "t": "稀疏的",
+    "en": "thinly scattered"
+  },
+  "orange": {
+    "p": "/ˈɒrɪndʒ/",
+    "t": "橙色的",
+    "en": "color between red and yellow"
+  },
+  "sponge": {
+    "p": "/spʌndʒ/",
+    "t": "海绵",
+    "en": "porous aquatic animal"
+  },
+  "delicate": {
+    "p": "/ˈdelɪkət/",
+    "t": "精致的；脆弱的",
+    "en": "easily damaged; fine"
+  },
+  "fronds": {
+    "p": "/frɒndz/",
+    "t": "蕨叶；叶状体",
+    "en": "leaf-like parts"
+  },
+  "dangling": {
+    "p": "/ˈdæŋɡlɪŋ/",
+    "t": "悬挂的",
+    "en": "hanging loosely"
+  },
+  "coralline": {
+    "p": "/ˈkɒrəlaɪn/",
+    "t": "珊瑚状的",
+    "en": "resembling coral"
+  },
+  "ferns": {
+    "p": "/fɜːnz/",
+    "t": "蕨类植物",
+    "en": "non-flowering plants"
+  },
+  "collected": {
+    "p": "/kəˈlektɪd/",
+    "t": "收集的",
+    "en": "gathered together"
+  },
+  "seawater": {
+    "p": "/ˈsiːwɔːtə/",
+    "t": "海水",
+    "en": "water from sea"
+  },
+  "touching": {
+    "p": "/ˈtʌtʃɪŋ/",
+    "t": "触摸；感人的",
+    "en": "making contact; emotionally moving"
+  },
+  "smelling": {
+    "p": "/ˈsmelɪŋ/",
+    "t": "闻",
+    "en": "perceiving odor"
+  },
+  "excitement": {
+    "p": "/ɪkˈsaɪtmənt/",
+    "t": "兴奋",
+    "en": "feeling of enthusiasm"
+  },
+  "welloiled": {
+    "p": "/ˌwelˈɔɪld/",
+    "t": "润滑良好的；熟练的",
+    "en": "working smoothly"
+  },
+  "fueled": {
+    "p": "/ˈfjuːəld/",
+    "t": "加油的；激发的",
+    "en": "powered or stimulated"
+  },
+  "disassembly": {
+    "p": "/ˌdɪsəˈsembli/",
+    "t": "拆卸",
+    "en": "taking apart"
+  },
+  "photographs": {
+    "p": "/ˈfəʊtəɡrɑːfs/",
+    "t": "照片",
+    "en": "images taken by camera"
+  },
+  "capsule": {
+    "p": "/ˈkæpsjuːl/",
+    "t": "胶囊；密封舱",
+    "en": "small container"
+  },
+  "trays": {
+    "p": "/treɪz/",
+    "t": "托盘",
+    "en": "flat containers"
+  },
+  "crabs": {
+    "p": "/kræbz/",
+    "t": "螃蟹",
+    "en": "crustaceans with claws"
+  },
+  "scraped": {
+    "p": "/skreɪpt/",
+    "t": "刮擦的",
+    "en": "rubbed harshly"
+  },
+  "deposited": {
+    "p": "/dɪˈpɒzɪtɪd/",
+    "t": "存放的",
+    "en": "placed or settled"
+  },
+  "tubes": {
+    "p": "/tjuːbz/",
+    "t": "管子",
+    "en": "hollow cylinders"
+  },
+  "squirts": {
+    "p": "/skwɜːts/",
+    "t": "喷射；海鞘",
+    "en": "ejects liquid; sea squirts"
+  },
+  "invertebrate": {
+    "p": "/ɪnˈvɜːtɪbrət/",
+    "t": "无脊椎动物",
+    "en": "animal without backbone"
+  },
+  "relatives": {
+    "p": "/ˈrelətɪvz/",
+    "t": "亲属；相关物种",
+    "en": "family members; related organisms"
+  },
+  "thick": {
+    "p": "/θɪk/",
+    "t": "厚的",
+    "en": "having large depth"
+  },
+  "bristles": {
+    "p": "/ˈbrɪsəlz/",
+    "t": "刚毛；硬毛",
+    "en": "stiff hairs"
+  },
+  "unmoving": {
+    "p": "/ʌnˈmuːvɪŋ/",
+    "t": "静止的",
+    "en": "not moving"
+  },
+  "caterpillars": {
+    "p": "/ˈkætəpɪləz/",
+    "t": "毛虫",
+    "en": "larvae of butterflies"
+  },
+  "flake": {
+    "p": "/fleɪk/",
+    "t": "薄片；剥落",
+    "en": "small thin piece"
+  },
+  "filaments": {
+    "p": "/ˈfɪləmənts/",
+    "t": "细丝",
+    "en": "thin threads"
+  },
+  "octocorals": {
+    "p": "/ˌɒktəˈkɒrəlz/",
+    "t": "八放珊瑚",
+    "en": "corals with eight tentacles"
+  },
+  "colonies": {
+    "p": "/ˈkɒləniz/",
+    "t": "群体；殖民地",
+    "en": "groups of organisms"
+  },
+  "bryozoans": {
+    "p": "/ˌbraɪəˈzəʊənz/",
+    "t": "苔藓虫",
+    "en": "tiny aquatic animals"
+  },
+  "swirling": {
+    "p": "/ˈswɜːlɪŋ/",
+    "t": "旋转的",
+    "en": "moving in whirls"
+  },
+  "twodimensional": {
+    "p": "/ˌtuːdɪˈmenʃənəl/",
+    "t": "二维的",
+    "en": "having only length and width"
+  },
+  "honeycombs": {
+    "p": "/ˈhʌnikəʊmz/",
+    "t": "蜂窝",
+    "en": "hexagonal structures"
+  },
+  "morphospecies": {
+    "p": "/ˈmɔːfəˌspiːʃiːz/",
+    "t": "形态种",
+    "en": "species identified by shape"
+  },
+  "tissue": {
+    "p": "/ˈtɪʃuː/",
+    "t": "组织",
+    "en": "biological material"
+  },
+  "organism": {
+    "p": "/ˈɔːɡənɪzəm/",
+    "t": "生物体",
+    "en": "living being"
+  },
+  "libraries": {
+    "p": "/ˈlaɪbrəriz/",
+    "t": "图书馆；数据库",
+    "en": "collections of resources"
+  },
+  "colorful": {
+    "p": "/ˈkʌləfəl/",
+    "t": "多彩的",
+    "en": "having many colors"
+  },
+  "delightful": {
+    "p": "/dɪˈlaɪtfəl/",
+    "t": "令人愉快的",
+    "en": "very pleasing"
+  },
+  "nudibranchs": {
+    "p": "/ˈnjuːdɪbræŋks/",
+    "t": "裸鳃类",
+    "en": "sea slugs"
+  },
+  "onthespot": {
+    "p": "/ˌɒnðəˈspɒt/",
+    "t": "当场",
+    "en": "at that exact place"
+  },
+  "specimens": {
+    "p": "/ˈspesɪmɪnz/",
+    "t": "标本",
+    "en": "samples for study"
+  },
+  "inexact": {
+    "p": "/ˌɪnɪɡˈzækt/",
+    "t": "不精确的",
+    "en": "not precise"
+  },
+  "genus": {
+    "p": "/ˈdʒiːnəs/",
+    "t": "属",
+    "en": "taxonomic rank"
+  },
+  "designation": {
+    "p": "/ˌdezɪɡˈneɪʃən/",
+    "t": "指定；命名",
+    "en": "official name"
+  },
+  "taxonomic": {
+    "p": "/ˌtæksəˈnɒmɪk/",
+    "t": "分类学的",
+    "en": "relating to taxonomy"
+  },
+  "identification": {
+    "p": "/aɪˌdentɪfɪˈkeɪʃən/",
+    "t": "识别",
+    "en": "process of identifying"
+  },
+  "paint": {
+    "p": "/peɪnt/",
+    "t": "油漆；颜料",
+    "en": "colored substance"
+  },
+  "scraper": {
+    "p": "/ˈskreɪpə/",
+    "t": "刮刀",
+    "en": "tool for scraping"
+  },
+  "blender": {
+    "p": "/ˈblendə/",
+    "t": "搅拌机",
+    "en": "kitchen appliance"
+  },
+  "squeezed": {
+    "p": "/skwiːzd/",
+    "t": "挤压的",
+    "en": "pressed firmly"
+  },
+  "milking": {
+    "p": "/ˈmɪlkɪŋ/",
+    "t": "挤奶；提取",
+    "en": "extracting liquid"
+  },
+  "sampled": {
+    "p": "/ˈsɑːmpld/",
+    "t": "取样的",
+    "en": "taken samples from"
+  },
+  "identifying": {
+    "p": "/aɪˈdentɪfaɪɪŋ/",
+    "t": "识别",
+    "en": "recognizing"
+  },
+  "midnight": {
+    "p": "/ˈmɪdnaɪt/",
+    "t": "午夜",
+    "en": "12 o'clock at night"
+  },
+  "excited": {
+    "p": "/ɪkˈsaɪtɪd/",
+    "t": "兴奋的",
+    "en": "very enthusiastic"
+  },
+  "witness": {
+    "p": "/ˈwɪtnəs/",
+    "t": "目击；见证",
+    "en": "see something happen"
+  },
+  "urged": {
+    "p": "/ɜːdʒd/",
+    "t": "敦促的",
+    "en": "strongly encouraged"
+  },
+  "microscope": {
+    "p": "/ˈmaɪkrəskəʊp/",
+    "t": "显微镜",
+    "en": "instrument for small objects"
+  },
+  "creature": {
+    "p": "/ˈkriːtʃə/",
+    "t": "生物",
+    "en": "living being"
+  },
+  "pompom": {
+    "p": "/ˈpɒmpɒm/",
+    "t": "绒球",
+    "en": "decorative ball"
+  },
+  "crustacean": {
+    "p": "/krʌˈsteɪʃən/",
+    "t": "甲壳动物",
+    "en": "animal with shell like crab"
+  },
+  "purple": {
+    "p": "/ˈpɜːpəl/",
+    "t": "紫色的",
+    "en": "color between red and blue"
+  },
+  "anemones": {
+    "p": "/əˈneməniz/",
+    "t": "海葵",
+    "en": "marine animals with tentacles"
+  },
+  "jazzed": {
+    "p": "/dʒæzd/",
+    "t": "兴奋的",
+    "en": "very excited"
+  },
+  "skeleton": {
+    "p": "/ˈskelɪtən/",
+    "t": "骨骼",
+    "en": "framework of bones"
+  },
+  "insect": {
+    "p": "/ˈɪnsekt/",
+    "t": "昆虫",
+    "en": "small arthropod"
+  },
+  "blending": {
+    "p": "/ˈblendɪŋ/",
+    "t": "混合",
+    "en": "mixing together"
+  },
+  "hydroid": {
+    "p": "/ˈhaɪdrɔɪd/",
+    "t": "水螅类",
+    "en": "small cnidarian"
+  },
+  "pulled": {
+    "p": "/pʊld/",
+    "t": "拉动的",
+    "en": "exerted force to move"
+  },
+  "frosting": {
+    "p": "/ˈfrɒstɪŋ/",
+    "t": "糖霜",
+    "en": "sweet topping"
+  },
+  "snails": {
+    "p": "/sneɪlz/",
+    "t": "蜗牛",
+    "en": "gastropod mollusks"
+  },
+  "distinguishes": {
+    "p": "/dɪˈstɪŋɡwɪʃɪz/",
+    "t": "区分",
+    "en": "recognizes differences"
+  },
+  "fuller": {
+    "p": "/ˈfʊlə/",
+    "t": "更全面的",
+    "en": "more complete"
+  },
+  "tackle": {
+    "p": "/ˈtækəl/",
+    "t": "处理；应对",
+    "en": "deal with"
+  },
+  "outstanding": {
+    "p": "/aʊtˈstændɪŋ/",
+    "t": "杰出的",
+    "en": "exceptionally good"
+  },
+  "retrieved": {
+    "p": "/rɪˈtriːvd/",
+    "t": "取回的",
+    "en": "brought back"
+  },
+  "overlap": {
+    "p": "/ˌəʊvəˈlæp/",
+    "t": "重叠",
+    "en": "partly cover"
+  },
+  "thereof": {
+    "p": "/ˌðeərˈɒv/",
+    "t": "其；由此",
+    "en": "of that"
+  },
+  "ecology": {
+    "p": "/ɪˈkɒlədʒi/",
+    "t": "生态学",
+    "en": "study of organisms' environment"
+  },
+  "vertical": {
+    "p": "/ˈvɜːtɪkəl/",
+    "t": "垂直的",
+    "en": "upright"
+  },
+  "distribution": {
+    "p": "/ˌdɪstrɪˈbjuːʃən/",
+    "t": "分布",
+    "en": "spread over area"
+  },
+  "drove": {
+    "p": "/drəʊv/",
+    "t": "驱使；驾驶",
+    "en": "past of drive; motivated"
+  },
+  "lifetimes": {
+    "p": "/ˈlaɪftaɪmz/",
+    "t": "一生",
+    "en": "durations of life"
+  },
+  "assemble": {
+    "p": "/əˈsembl/",
+    "t": "组装；聚集",
+    "en": "put together or gather"
   }
 }
