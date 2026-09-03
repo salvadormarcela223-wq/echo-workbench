@@ -35283,5 +35283,935 @@
     "p": "/əˈsembl/",
     "t": "组装；聚集",
     "en": "put together or gather"
+  },
+  "microbiome": {
+    "p": "/ˌmaɪkrəʊˈbaɪəʊm/",
+    "t": "微生物组",
+    "en": "the community of microorganisms in a particular environment"
+  },
+  "wellnourished": {
+    "p": "/ˌwelˈnʌrɪʃt/",
+    "t": "营养良好的",
+    "en": "having adequate nutrition"
+  },
+  "sugary": {
+    "p": "/ˈʃʊɡəri/",
+    "t": "含糖的",
+    "en": "containing or resembling sugar"
+  },
+  "dental": {
+    "p": "/ˈdentl/",
+    "t": "牙齿的，牙科的",
+    "en": "relating to teeth or dentistry"
+  },
+  "cavities": {
+    "p": "/ˈkævətiz/",
+    "t": "蛀牙洞",
+    "en": "holes in teeth caused by decay"
+  },
+  "harmful": {
+    "p": "/ˈhɑːmfl/",
+    "t": "有害的",
+    "en": "causing damage or injury"
+  },
+  "mouths": {
+    "p": "/maʊðz/",
+    "t": "口腔（复数）",
+    "en": "plural of mouth"
+  },
+  "fruit": {
+    "p": "/fruːt/",
+    "t": "水果",
+    "en": "the sweet fleshy product of a plant"
+  },
+  "fungi": {
+    "p": "/ˈfʌŋɡaɪ/",
+    "t": "真菌",
+    "en": "plural of fungus"
+  },
+  "microorganisms": {
+    "p": "/ˌmaɪkrəʊˈɔːɡənɪzəmz/",
+    "t": "微生物",
+    "en": "microscopic organisms"
+  },
+  "teeth": {
+    "p": "/tiːθ/",
+    "t": "牙齿（复数）",
+    "en": "plural of tooth"
+  },
+  "bustling": {
+    "p": "/ˈbʌslɪŋ/",
+    "t": "繁忙的，活跃的",
+    "en": "full of energetic activity"
+  },
+  "carve": {
+    "p": "/kɑːv/",
+    "t": "雕刻，开辟",
+    "en": "to cut into a shape or space"
+  },
+  "ecological": {
+    "p": "/ˌiːkəˈlɒdʒɪkl/",
+    "t": "生态的",
+    "en": "relating to ecology"
+  },
+  "niches": {
+    "p": "/niːʃɪz/",
+    "t": "生态位",
+    "en": "specific roles or habitats of organisms"
+  },
+  "preferring": {
+    "p": "/prɪˈfɜːrɪŋ/",
+    "t": "更喜欢",
+    "en": "present participle of prefer"
+  },
+  "inhabit": {
+    "p": "/ɪnˈhæbɪt/",
+    "t": "栖息于",
+    "en": "to live in"
+  },
+  "tongue": {
+    "p": "/tʌŋ/",
+    "t": "舌头",
+    "en": "the muscular organ in the mouth"
+  },
+  "crevices": {
+    "p": "/ˈkrevɪsɪz/",
+    "t": "裂缝",
+    "en": "narrow cracks or gaps"
+  },
+  "mutans": {
+    "p": "/ˈmjuːtænz/",
+    "t": "变形链球菌（一种细菌）",
+    "en": "a type of bacteria causing tooth decay"
+  },
+  "sugar": {
+    "p": "/ˈʃʊɡə/",
+    "t": "糖",
+    "en": "a sweet substance"
+  },
+  "sugars": {
+    "p": "/ˈʃʊɡəz/",
+    "t": "糖（复数）",
+    "en": "plural of sugar"
+  },
+  "acids": {
+    "p": "/ˈæsɪdz/",
+    "t": "酸",
+    "en": "substances that can corrode or sour"
+  },
+  "enamel": {
+    "p": "/ɪˈnæml/",
+    "t": "牙釉质",
+    "en": "hard outer layer of teeth"
+  },
+  "holes": {
+    "p": "/həʊlz/",
+    "t": "洞",
+    "en": "openings or hollows"
+  },
+  "enter": {
+    "p": "/ˈentə/",
+    "t": "进入",
+    "en": "to go into"
+  },
+  "pathogenic": {
+    "p": "/ˌpæθəˈdʒenɪk/",
+    "t": "致病的",
+    "en": "causing disease"
+  },
+  "colonising": {
+    "p": "/ˈkɒlənaɪzɪŋ/",
+    "t": "定植（细菌）",
+    "en": "forming colonies in a host"
+  },
+  "fastidiously": {
+    "p": "/fæˈstɪdiəsli/",
+    "t": "挑剔地",
+    "en": "in a very careful and exacting manner"
+  },
+  "pockets": {
+    "p": "/ˈpɒkɪts/",
+    "t": "小袋，凹处",
+    "en": "small enclosed spaces"
+  },
+  "oxygenpoor": {
+    "p": "/ˈɒksɪdʒən pʊə/",
+    "t": "缺氧的",
+    "en": "having low oxygen levels"
+  },
+  "gingivalis": {
+    "p": "/ˌdʒɪndʒɪˈvɑːlɪs/",
+    "t": "牙龈卟啉单胞菌",
+    "en": "a bacterium associated with gum disease"
+  },
+  "cardiovascular": {
+    "p": "/ˌkɑːdiəʊˈvæskjələ/",
+    "t": "心血管的",
+    "en": "relating to the heart and blood vessels"
+  },
+  "diabetes": {
+    "p": "/ˌdaɪəˈbiːtiːz/",
+    "t": "糖尿病",
+    "en": "a disease with high blood sugar"
+  },
+  "inflammatory": {
+    "p": "/ɪnˈflæmətri/",
+    "t": "炎症性的",
+    "en": "causing or relating to inflammation"
+  },
+  "bowel": {
+    "p": "/ˈbaʊəl/",
+    "t": "肠道",
+    "en": "the intestine"
+  },
+  "preterm": {
+    "p": "/ˌpriːˈtɜːm/",
+    "t": "早产的",
+    "en": "born before full term"
+  },
+  "colon": {
+    "p": "/ˈkəʊlən/",
+    "t": "结肠",
+    "en": "the large intestine"
+  },
+  "tooth": {
+    "p": "/tuːθ/",
+    "t": "牙齿（单数）",
+    "en": "a hard structure in the mouth"
+  },
+  "decay": {
+    "p": "/dɪˈkeɪ/",
+    "t": "腐烂，蛀蚀",
+    "en": "to rot or decompose"
+  },
+  "yeast": {
+    "p": "/jiːst/",
+    "t": "酵母",
+    "en": "a fungus used in fermentation"
+  },
+  "varied": {
+    "p": "/ˈveərid/",
+    "t": "多样的",
+    "en": "showing variety"
+  },
+  "crucially": {
+    "p": "/ˈkruːʃəli/",
+    "t": "关键地",
+    "en": "in a decisive or important way"
+  },
+  "brushing": {
+    "p": "/ˈbrʌʃɪŋ/",
+    "t": "刷牙",
+    "en": "the act of cleaning with a brush"
+  },
+  "microbial": {
+    "p": "/maɪˈkrəʊbiəl/",
+    "t": "微生物的",
+    "en": "relating to microorganisms"
+  },
+  "beverages": {
+    "p": "/ˈbevərɪdʒɪz/",
+    "t": "饮料",
+    "en": "drinks"
+  },
+  "gobbled": {
+    "p": "/ˈɡɒbld/",
+    "t": "狼吞虎咽",
+    "en": "ate quickly and greedily"
+  },
+  "cavitycausing": {
+    "p": "/ˈkævəti ˌkɔːzɪŋ/",
+    "t": "导致蛀牙的",
+    "en": "causing dental cavities"
+  },
+  "intake": {
+    "p": "/ˈɪnteɪk/",
+    "t": "摄入量",
+    "en": "the amount taken in"
+  },
+  "carbohydrates": {
+    "p": "/ˌkɑːbəʊˈhaɪdreɪts/",
+    "t": "碳水化合物",
+    "en": "organic compounds like sugars and starches"
+  },
+  "snacks": {
+    "p": "/snæks/",
+    "t": "零食",
+    "en": "small amounts of food eaten between meals"
+  },
+  "crackers": {
+    "p": "/ˈkrækəz/",
+    "t": "饼干（咸）",
+    "en": "thin dry biscuits"
+  },
+  "biscuits": {
+    "p": "/ˈbɪskɪts/",
+    "t": "饼干",
+    "en": "small baked cakes or cookies"
+  },
+  "cakes": {
+    "p": "/keɪks/",
+    "t": "蛋糕",
+    "en": "sweet baked foods"
+  },
+  "pretzels": {
+    "p": "/ˈpretslz/",
+    "t": "椒盐卷饼",
+    "en": "twisted salty snacks"
+  },
+  "anthropology": {
+    "p": "/ˌænθrəˈpɒlədʒi/",
+    "t": "人类学",
+    "en": "the study of human societies"
+  },
+  "bioethics": {
+    "p": "/ˌbaɪəʊˈeθɪks/",
+    "t": "生物伦理学",
+    "en": "ethics of biological research"
+  },
+  "fighters": {
+    "p": "/ˈfaɪtəz/",
+    "t": "斗士",
+    "en": "people who fight"
+  },
+  "friendly": {
+    "p": "/ˈfrendli/",
+    "t": "友好的",
+    "en": "kind and pleasant"
+  },
+  "salivarius": {
+    "p": "/ˌsælɪˈveəriəs/",
+    "t": "唾液链球菌",
+    "en": "a beneficial oral bacterium"
+  },
+  "proteins": {
+    "p": "/ˈprəʊtiːnz/",
+    "t": "蛋白质",
+    "en": "essential nutrients"
+  },
+  "leafy": {
+    "p": "/ˈliːfi/",
+    "t": "多叶的",
+    "en": "having many leaves"
+  },
+  "vegetables": {
+    "p": "/ˈvedʒtəblz/",
+    "t": "蔬菜",
+    "en": "plants eaten as food"
+  },
+  "spinach": {
+    "p": "/ˈspɪnɪtʃ/",
+    "t": "菠菜",
+    "en": "a leafy green vegetable"
+  },
+  "beetroot": {
+    "p": "/ˈbiːtruːt/",
+    "t": "甜菜根",
+    "en": "a red root vegetable"
+  },
+  "radishes": {
+    "p": "/ˈrædɪʃɪz/",
+    "t": "小萝卜",
+    "en": "small crisp root vegetables"
+  },
+  "contain": {
+    "p": "/kənˈteɪn/",
+    "t": "含有",
+    "en": "to have inside"
+  },
+  "amounts": {
+    "p": "/əˈmaʊnts/",
+    "t": "数量",
+    "en": "quantities"
+  },
+  "nitrate": {
+    "p": "/ˈnaɪtreɪt/",
+    "t": "硝酸盐",
+    "en": "a salt of nitric acid"
+  },
+  "convert": {
+    "p": "/kənˈvɜːt/",
+    "t": "转化",
+    "en": "to change into another form"
+  },
+  "nitrite": {
+    "p": "/ˈnaɪtraɪt/",
+    "t": "亚硝酸盐",
+    "en": "a salt of nitrous acid"
+  },
+  "nitric": {
+    "p": "/ˈnaɪtrɪk/",
+    "t": "氮的",
+    "en": "relating to nitrogen"
+  },
+  "circulates": {
+    "p": "/ˈsɜːkjəleɪts/",
+    "t": "循环",
+    "en": "moves around continuously"
+  },
+  "benefiting": {
+    "p": "/ˈbenɪfɪtɪŋ/",
+    "t": "有益于",
+    "en": "present participle of benefit"
+  },
+  "juice": {
+    "p": "/dʒuːs/",
+    "t": "果汁，汁液",
+    "en": "liquid from fruits or vegetables"
+  },
+  "garlic": {
+    "p": "/ˈɡɑːlɪk/",
+    "t": "大蒜",
+    "en": "a pungent bulb used in cooking"
+  },
+  "allicin": {
+    "p": "/ˈælɪsɪn/",
+    "t": "大蒜素",
+    "en": "a compound in garlic with antibacterial properties"
+  },
+  "plantbased": {
+    "p": "/ˈplɑːntbeɪst/",
+    "t": "植物性的",
+    "en": "derived from plants"
+  },
+  "compounds": {
+    "p": "/ˈkɒmpaʊndz/",
+    "t": "化合物",
+    "en": "substances formed from elements"
+  },
+  "polyphenols": {
+    "p": "/ˌpɒliˈfiːnɒlz/",
+    "t": "多酚",
+    "en": "antioxidant plant compounds"
+  },
+  "hospitable": {
+    "p": "/hɒˈspɪtəbl/",
+    "t": "好客的，适宜的",
+    "en": "welcoming; favorable for growth"
+  },
+  "antioxidants": {
+    "p": "/ˌæntiˈɒksɪdənts/",
+    "t": "抗氧化剂",
+    "en": "substances that inhibit oxidation"
+  },
+  "ultraprocessed": {
+    "p": "/ˌʌltrəˈprəʊsest/",
+    "t": "超加工的",
+    "en": "heavily processed food"
+  },
+  "regrowing": {
+    "p": "/ˌriːˈɡrəʊɪŋ/",
+    "t": "重新生长",
+    "en": "growing again"
+  },
+  "clumping": {
+    "p": "/ˈklʌmpɪŋ/",
+    "t": "结块",
+    "en": "forming lumps"
+  },
+  "attaching": {
+    "p": "/əˈtætʃɪŋ/",
+    "t": "附着",
+    "en": "fastening to a surface"
+  },
+  "inhibit": {
+    "p": "/ɪnˈhɪbɪt/",
+    "t": "抑制",
+    "en": "to hinder or restrain"
+  },
+  "enzymes": {
+    "p": "/ˈenzaɪmz/",
+    "t": "酶",
+    "en": "biological catalysts"
+  },
+  "stickiness": {
+    "p": "/ˈstɪkinəs/",
+    "t": "粘性",
+    "en": "the quality of being sticky"
+  },
+  "plaque": {
+    "p": "/plæk/",
+    "t": "牙菌斑",
+    "en": "a sticky film on teeth"
+  },
+  "paediatric": {
+    "p": "/ˌpiːdiˈætrɪk/",
+    "t": "儿科的",
+    "en": "relating to children's medicine"
+  },
+  "dentistry": {
+    "p": "/ˈdentɪstri/",
+    "t": "牙科学",
+    "en": "the profession of dental care"
+  },
+  "combat": {
+    "p": "/ˈkɒmbæt/",
+    "t": "对抗",
+    "en": "to fight against"
+  },
+  "drinking": {
+    "p": "/ˈdrɪŋkɪŋ/",
+    "t": "饮用",
+    "en": "the act of consuming liquids"
+  },
+  "fruits": {
+    "p": "/fruːts/",
+    "t": "水果（复数）",
+    "en": "plural of fruit"
+  },
+  "darkcoloured": {
+    "p": "/ˈdɑːkˌkʌləd/",
+    "t": "深色的",
+    "en": "having a dark color"
+  },
+  "berries": {
+    "p": "/ˈberiz/",
+    "t": "浆果",
+    "en": "small juicy fruits"
+  },
+  "acidrich": {
+    "p": "/ˈæsɪd rɪtʃ/",
+    "t": "富含酸的",
+    "en": "high in acid content"
+  },
+  "cranberry": {
+    "p": "/ˈkrænbəri/",
+    "t": "蔓越莓",
+    "en": "a sour red berry"
+  },
+  "periodontal": {
+    "p": "/ˌperiəˈdɒntl/",
+    "t": "牙周的",
+    "en": "relating to tissues around teeth"
+  },
+  "likewise": {
+    "p": "/ˈlaɪkwaɪz/",
+    "t": "同样地",
+    "en": "in a similar way"
+  },
+  "formation": {
+    "p": "/fɔːˈmeɪʃn/",
+    "t": "形成",
+    "en": "the act of forming"
+  },
+  "signatures": {
+    "p": "/ˈsɪɡnətʃəz/",
+    "t": "特征",
+    "en": "distinctive marks or features"
+  },
+  "sugarloving": {
+    "p": "/ˈʃʊɡə lʌvɪŋ/",
+    "t": "嗜糖的",
+    "en": "attracted to sugar"
+  },
+  "sanguinis": {
+    "p": "/ˈsæŋɡwɪnɪs/",
+    "t": "血链球菌",
+    "en": "a type of oral bacterium"
+  },
+  "counteract": {
+    "p": "/ˌkaʊntərˈækt/",
+    "t": "抵消",
+    "en": "to act against"
+  },
+  "awesome": {
+    "p": "/ˈɔːsəm/",
+    "t": "极好的",
+    "en": "extremely good"
+  },
+  "solid": {
+    "p": "/ˈsɒlɪd/",
+    "t": "固体的，可靠的",
+    "en": "firm and stable"
+  },
+  "neutral": {
+    "p": "/ˈnjuːtrəl/",
+    "t": "中性的",
+    "en": "not acidic or alkaline"
+  },
+  "buffers": {
+    "p": "/ˈbʌfəz/",
+    "t": "缓冲剂",
+    "en": "substances that resist pH changes"
+  },
+  "baddies": {
+    "p": "/ˈbædiz/",
+    "t": "坏人，有害物",
+    "en": "bad or harmful things"
+  },
+  "kefir": {
+    "p": "/ˈkefə/",
+    "t": "开菲尔",
+    "en": "a fermented milk drink"
+  },
+  "fermented": {
+    "p": "/fəˈmentɪd/",
+    "t": "发酵的",
+    "en": "processed by fermentation"
+  },
+  "biofilm": {
+    "p": "/ˈbaɪəʊfɪlm/",
+    "t": "生物膜",
+    "en": "a thin layer of microorganisms"
+  },
+  "periodontology": {
+    "p": "/ˌperiədɒnˈtɒlədʒi/",
+    "t": "牙周病学",
+    "en": "the study of gum diseases"
+  },
+  "superfood": {
+    "p": "/ˈsuːpəfuːd/",
+    "t": "超级食物",
+    "en": "a nutrient-rich food"
+  },
+  "dietary": {
+    "p": "/ˈdaɪətəri/",
+    "t": "饮食的",
+    "en": "relating to diet"
+  },
+  "refined": {
+    "p": "/rɪˈfaɪnd/",
+    "t": "精制的",
+    "en": "processed to remove impurities"
+  },
+  "fermentable": {
+    "p": "/fəˈmentəbl/",
+    "t": "可发酵的",
+    "en": "capable of fermentation"
+  },
+  "favour": {
+    "p": "/ˈfeɪvə/",
+    "t": "偏爱",
+    "en": "to prefer or support"
+  },
+  "tolerating": {
+    "p": "/ˈtɒləreɪtɪŋ/",
+    "t": "耐受",
+    "en": "enduring or allowing"
+  },
+  "imbalance": {
+    "p": "/ɪmˈbæləns/",
+    "t": "不平衡",
+    "en": "lack of balance"
+  },
+  "richer": {
+    "p": "/ˈrɪtʃə/",
+    "t": "更丰富的",
+    "en": "more abundant"
+  },
+  "fibre": {
+    "p": "/ˈfaɪbə/",
+    "t": "纤维",
+    "en": "dietary fiber"
+  },
+  "refinedsugar": {
+    "p": "/rɪˈfaɪnd ˈʃʊɡə/",
+    "t": "精制糖",
+    "en": "processed sugar"
+  },
+  "compatible": {
+    "p": "/kəmˈpætəbl/",
+    "t": "相容的",
+    "en": "able to coexist"
+  },
+  "maintaining": {
+    "p": "/meɪnˈteɪnɪŋ/",
+    "t": "维持",
+    "en": "keeping in good condition"
+  },
+  "legumes": {
+    "p": "/ˈleɡjuːmz/",
+    "t": "豆类",
+    "en": "plants like beans and peas"
+  },
+  "grains": {
+    "p": "/ɡreɪnz/",
+    "t": "谷物",
+    "en": "cereal crops"
+  },
+  "adhered": {
+    "p": "/ədˈhɪəd/",
+    "t": "粘附",
+    "en": "stuck to"
+  },
+  "tended": {
+    "p": "/ˈtendɪd/",
+    "t": "倾向于",
+    "en": "usually did"
+  },
+  "consumed": {
+    "p": "/kənˈsjuːmd/",
+    "t": "消费，食用",
+    "en": "ate or drank"
+  },
+  "favours": {
+    "p": "/ˈfeɪvəz/",
+    "t": "有利于",
+    "en": "supports or prefers"
+  },
+  "flossing": {
+    "p": "/ˈflɒsɪŋ/",
+    "t": "用牙线清洁",
+    "en": "cleaning between teeth with floss"
+  },
+  "concentrations": {
+    "p": "/ˌkɒnsənˈtreɪʃənz/",
+    "t": "浓度",
+    "en": "amounts of a substance per volume"
+  },
+  "decreases": {
+    "p": "/dɪˈkriːsɪz/",
+    "t": "减少",
+    "en": "becomes smaller"
+  },
+  "overthecounter": {
+    "p": "/ˌəʊvə ðə ˈkaʊntə/",
+    "t": "非处方的",
+    "en": "available without prescription"
+  },
+  "mouthwashes": {
+    "p": "/ˈmaʊθwɒʃɪz/",
+    "t": "漱口水",
+    "en": "liquid for rinsing the mouth"
+  },
+  "chlorhexidine": {
+    "p": "/klɔːˈheksɪdiːn/",
+    "t": "氯己定",
+    "en": "an antiseptic agent"
+  },
+  "healthier": {
+    "p": "/ˈhelθiə/",
+    "t": "更健康的",
+    "en": "more healthy"
+  },
+  "balanced": {
+    "p": "/ˈbælənst/",
+    "t": "均衡的",
+    "en": "in proper proportion"
+  },
+  "greens": {
+    "p": "/ɡriːnz/",
+    "t": "绿叶蔬菜",
+    "en": "green leafy vegetables"
+  },
+  "drinks": {
+    "p": "/drɪŋks/",
+    "t": "饮料",
+    "en": "liquids for drinking"
+  },
+  "sumptuous": {
+    "p": "/ˈsʌmptʃuəs/",
+    "t": "丰盛的",
+    "en": "luxurious and lavish"
+  },
+  "salad": {
+    "p": "/ˈsæləd/",
+    "t": "沙拉",
+    "en": "a cold dish of vegetables"
+  },
+  "cheeses": {
+    "p": "/ˈtʃiːzɪz/",
+    "t": "奶酪（复数）",
+    "en": "plural of cheese"
+  },
+  "youll": {
+    "p": "/juːl/",
+    "t": "你将（you will 缩写）",
+    "en": "contraction of you will"
+  },
+  "whiffing": {
+    "p": "/ˈwɪfɪŋ/",
+    "t": "轻吹；微嗅",
+    "en": "blowing or smelling lightly"
+  },
+  "strive": {
+    "p": "/straɪv/",
+    "t": "努力，奋斗",
+    "en": "to make great efforts to achieve something"
+  },
+  "brace": {
+    "p": "/breɪs/",
+    "t": "支撑；支架；使做好准备",
+    "en": "to support or strengthen; a device that supports; to prepare for impact"
+  },
+  "degrees": {
+    "p": "/dɪˈɡriːz/",
+    "t": "度数；程度；学位",
+    "en": "units of measurement or levels of intensity; academic titles"
+  },
+  "watchword": {
+    "p": "/ˈwɒtʃwɜːd/",
+    "t": "口号；标语",
+    "en": "a word or phrase that expresses a principle or goal"
+  },
+  "stave": {
+    "p": "/steɪv/",
+    "t": "五线谱；棍棒；防止",
+    "en": "a staff in music; a stick; to ward off"
+  },
+  "assessment": {
+    "p": "/əˈsesmənt/",
+    "t": "评估，评价",
+    "en": "the act of judging or evaluating something"
+  },
+  "concludes": {
+    "p": "/kənˈkluːdz/",
+    "t": "得出结论；结束",
+    "en": "to bring to an end; to infer from evidence"
+  },
+  "barring": {
+    "p": "/ˈbɑːrɪŋ/",
+    "t": "除…以外；不包括",
+    "en": "except for; unless something happens"
+  },
+  "celestial": {
+    "p": "/sɪˈlestiəl/",
+    "t": "天上的，天体的",
+    "en": "relating to the sky or heaven"
+  },
+  "formalizes": {
+    "p": "/ˈfɔːməlaɪzɪz/",
+    "t": "使正式化",
+    "en": "to make something official or structured"
+  },
+  "overshoot": {
+    "p": "/ˌəʊvəˈʃuːt/",
+    "t": "超过，越过",
+    "en": "to go beyond a target or limit"
+  },
+  "fixated": {
+    "p": "/ˈfɪkseɪtɪd/",
+    "t": "痴迷的；固着的",
+    "en": "obsessed with or focused on something exclusively"
+  },
+  "muchfeared": {
+    "p": "/ˈmʌtʃˈfɪəd/",
+    "t": "非常令人恐惧的",
+    "en": "greatly dreaded or feared"
+  },
+  "philanthropists": {
+    "p": "/fɪˈlænθrəpɪsts/",
+    "t": "慈善家",
+    "en": "people who donate money or time to help others"
+  },
+  "laziness": {
+    "p": "/ˈleɪzinəs/",
+    "t": "懒惰",
+    "en": "the quality of being unwilling to work or use energy"
+  },
+  "arrogant": {
+    "p": "/ˈærəɡənt/",
+    "t": "傲慢的，自大的",
+    "en": "having excessive pride in oneself and disdain for others"
+  },
+  "skins": {
+    "p": "/skɪnz/",
+    "t": "皮肤；果皮；剥皮",
+    "en": "outer coverings of bodies or fruits; to remove skin"
+  },
+  "converts": {
+    "p": "/kənˈvɜːts/",
+    "t": "转变；皈依者",
+    "en": "to change form or belief; people who change religion"
+  },
+  "welfare": {
+    "p": "/ˈwelfeə/",
+    "t": "福利；幸福",
+    "en": "health, happiness, and prosperity; government aid"
+  },
+  "warnings": {
+    "p": "/ˈwɔːnɪŋz/",
+    "t": "警告，警示",
+    "en": "statements or signs alerting to danger"
+  },
+  "villages": {
+    "p": "/ˈvɪlɪdʒɪz/",
+    "t": "村庄",
+    "en": "small communities in rural areas"
+  },
+  "loweffort": {
+    "p": "/ˌləʊˈefət/",
+    "t": "低努力的；不费力的",
+    "en": "requiring little effort or exertion"
+  },
+  "cottage": {
+    "p": "/ˈkɒtɪdʒ/",
+    "t": "小屋，村舍",
+    "en": "a small simple house, often in the countryside"
+  },
+  "meetups": {
+    "p": "/ˈmiːtʌps/",
+    "t": "聚会，见面会",
+    "en": "informal gatherings or meetings of people"
+  },
+  "kidneys": {
+    "p": "/ˈkɪdniːz/",
+    "t": "肾脏",
+    "en": "organs that filter waste from blood"
+  },
+  "transplantable": {
+    "p": "/trænsˈplɑːntəbl/",
+    "t": "可移植的",
+    "en": "able to be surgically transplanted"
+  },
+  "organs": {
+    "p": "/ˈɔːɡənz/",
+    "t": "器官；风琴",
+    "en": "body parts with specific functions; musical instruments"
+  },
+  "morally": {
+    "p": "/ˈmɒrəli/",
+    "t": "道德上",
+    "en": "in a way relating to principles of right and wrong"
+  },
+  "repugnant": {
+    "p": "/rɪˈpʌɡnənt/",
+    "t": "令人厌恶的",
+    "en": "extremely distasteful or offensive"
+  },
+  "iconic": {
+    "p": "/aɪˈkɒnɪk/",
+    "t": "标志性的",
+    "en": "widely recognized and representing an idea or era"
+  },
+  "longstanding": {
+    "p": "/ˌlɒŋˈstændɪŋ/",
+    "t": "长期存在的",
+    "en": "having existed for a long time"
+  },
+  "portal": {
+    "p": "/ˈpɔːtl/",
+    "t": "门户；入口",
+    "en": "a large doorway; a website that provides links or services"
+  },
+  "butterfly": {
+    "p": "/ˈbʌtəflaɪ/",
+    "t": "蝴蝶",
+    "en": "an insect with colorful wings"
+  },
+  "marigold": {
+    "p": "/ˈmærɪɡəʊld/",
+    "t": "万寿菊，金盏花",
+    "en": "a yellow or orange flower"
+  },
+  "mainstay": {
+    "p": "/ˈmeɪnsteɪ/",
+    "t": "支柱；中坚",
+    "en": "a central support or most important element"
+  },
+  "ofrendas": {
+    "p": "/əˈfrɛndəs/",
+    "t": "祭品（拉丁美洲传统）",
+    "en": "offerings placed on altars during Day of the Dead"
+  },
+  "celebrations": {
+    "p": "/ˌselɪˈbreɪʃənz/",
+    "t": "庆祝活动",
+    "en": "events or activities marking a special occasion"
+  },
+  "freaked": {
+    "p": "/friːkt/",
+    "t": "使惊慌；吓坏",
+    "en": "past tense of freak; to become very upset or afraid"
   }
 }
