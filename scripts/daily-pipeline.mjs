@@ -27,14 +27,28 @@ function run(cmd) {
   execSync(cmd, { cwd: ROOT, stdio: 'inherit' });
 }
 
+// 单版块独立执行：失败只跳过该版块，不影响其他版块继续抓取与最终发布
+// 根治「串跑隐患」：任一步报错（如某网站临时打不开）不再冻结整站更新
+function tryRun(cmd, label) {
+  try {
+    console.log('\n$ ' + cmd);
+    execSync(cmd, { cwd: ROOT, stdio: 'inherit' });
+    return true;
+  } catch (e) {
+    console.log(`⚠️ ${label} 执行失败（已跳过该版块，继续其余版块）：${(e && e.message) || e}`);
+    return false;
+  }
+}
+
 (async () => {
   console.log('===== Echo 每日流水线 ' + (TEST ? '(TEST 模式)' : '(发布模式)') + ' =====');
 
   // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
-  run('node scripts/fetch-news.mjs --write');
-  run('node scripts/fetch-wechat.mjs --write');   // 微信行业资讯（搜狗微信搜索，全自动、零登录）
-  run('node scripts/fetch-insights.mjs --write');
-  run('node scripts/fetch-readings.mjs --draft');
+  //    各版块独立抓取：任一块失败只跳过该块，不再因单点故障冻结整站更新
+  tryRun('node scripts/fetch-news.mjs --write', '行业资讯抓取');
+  tryRun('node scripts/fetch-wechat.mjs --write', '微信行业资讯抓取');   // 微信通道为已知死通道，失败不再拖垮全站
+  tryRun('node scripts/fetch-insights.mjs --write', '专业提升抓取');
+  tryRun('node scripts/fetch-readings.mjs --draft', '英语阅读抓取');
 
   // 2. AI 填充解读（DeepSeek）——循环补填直到全满或连续失败
   //    单轮可能因速率限制/超时漏掉部分条目（如首次跑64/86条），必须自动追补
