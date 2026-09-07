@@ -37793,5 +37793,395 @@
     "p": "/ˌiːvænˈdʒɛlɪkəl/",
     "t": "福音派的；狂热的",
     "en": "relating to Christian gospel; fervent"
+  },
+  "seafaring": {
+    "p": "/ˈsiːfeərɪŋ/",
+    "t": "航海",
+    "en": "travel by sea"
+  },
+  "instrument": {
+    "p": "/ˈɪnstrəmənt/",
+    "t": "仪器；工具",
+    "en": "a tool or device"
+  },
+  "astronauts": {
+    "p": "/ˈæstrənɔːts/",
+    "t": "宇航员",
+    "en": "people trained to travel in space"
+  },
+  "farflung": {
+    "p": "/ˈfɑːflʌŋ/",
+    "t": "遥远的；分布广的",
+    "en": "spread over a large area or distant"
+  },
+  "electronic": {
+    "p": "/ɪˌlekˈtrɒnɪk/",
+    "t": "电子的",
+    "en": "using electricity and technology"
+  },
+  "navigation": {
+    "p": "/ˌnævɪˈɡeɪʃn/",
+    "t": "导航；航行",
+    "en": "the process of finding a route"
+  },
+  "wayfinding": {
+    "p": "/ˈweɪfaɪndɪŋ/",
+    "t": "认路；导航",
+    "en": "the process of finding one's way"
+  },
+  "sextant": {
+    "p": "/ˈsekstənt/",
+    "t": "六分仪",
+    "en": "an instrument for measuring angles in navigation"
+  },
+  "seafarers": {
+    "p": "/ˈsiːfeərəz/",
+    "t": "海员；航海者",
+    "en": "people who travel by sea"
+  },
+  "sextants": {
+    "p": "/ˈsekstənts/",
+    "t": "六分仪（复数）",
+    "en": "plural of sextant"
+  },
+  "lastresort": {
+    "p": "/ˈlɑːst rɪˈzɔːt/",
+    "t": "最后的手段",
+    "en": "the final option"
+  },
+  "angle": {
+    "p": "/ˈæŋɡl/",
+    "t": "角度；角",
+    "en": "the space between two lines or surfaces"
+  },
+  "starsighting": {
+    "p": "/ˈstɑːˌsaɪtɪŋ/",
+    "t": "观星测位",
+    "en": "using stars for navigation"
+  },
+  "venture": {
+    "p": "/ˈventʃə/",
+    "t": "冒险；风险项目",
+    "en": "a risky or daring undertaking"
+  },
+  "satellites": {
+    "p": "/ˈsætəlaɪts/",
+    "t": "卫星",
+    "en": "objects orbiting a planet or star"
+  },
+  "techniques": {
+    "p": "/tekˈniːks/",
+    "t": "技术；方法",
+    "en": "methods or skills"
+  },
+  "harken": {
+    "p": "/ˈhɑːkən/",
+    "t": "倾听；追溯",
+    "en": "to listen carefully or recall"
+  },
+  "orientation": {
+    "p": "/ˌɔːriənˈteɪʃn/",
+    "t": "方向；定位",
+    "en": "the determination of position"
+  },
+  "references": {
+    "p": "/ˈrefrənsɪz/",
+    "t": "参考；参照",
+    "en": "points of comparison"
+  },
+  "nchancellor": {
+    "p": "/ˈtʃɑːnsələ/",
+    "t": "（拼写错误，应为chancellor）大臣；校长",
+    "en": "a senior official"
+  },
+  "naked": {
+    "p": "/ˈneɪkɪd/",
+    "t": "裸的；无遮蔽的",
+    "en": "without clothing or covering"
+  },
+  "steady": {
+    "p": "/ˈstedi/",
+    "t": "稳定的",
+    "en": "firm and not shaking"
+  },
+  "manual": {
+    "p": "/ˈmænjuəl/",
+    "t": "手动的；手册",
+    "en": "done by hand or a handbook"
+  },
+  "tapped": {
+    "p": "/tæpt/",
+    "t": "轻敲；利用",
+    "en": "touched lightly or accessed"
+  },
+  "navigational": {
+    "p": "/ˌnævɪˈɡeɪʃənl/",
+    "t": "导航的",
+    "en": "relating to navigation"
+  },
+  "sufficiently": {
+    "p": "/səˈfɪʃntli/",
+    "t": "足够地",
+    "en": "to an adequate degree"
+  },
+  "undemonstrated": {
+    "p": "/ˌʌnˈdemənstreɪtɪd/",
+    "t": "未证明的",
+    "en": "not shown or proven"
+  },
+  "nakedeye": {
+    "p": "/ˈneɪkɪd aɪ/",
+    "t": "肉眼",
+    "en": "the unaided eye"
+  },
+  "sighting": {
+    "p": "/ˈsaɪtɪŋ/",
+    "t": "看见；观测",
+    "en": "an act of seeing something"
+  },
+  "routinely": {
+    "p": "/ruːˈtiːnli/",
+    "t": "常规地；例行地",
+    "en": "as a regular procedure"
+  },
+  "emergencies": {
+    "p": "/ɪˈmɜːdʒənsiz/",
+    "t": "紧急情况",
+    "en": "serious unexpected situations"
+  },
+  "chart": {
+    "p": "/tʃɑːt/",
+    "t": "图表；海图",
+    "en": "a map or diagram"
+  },
+  "spaceflight": {
+    "p": "/ˈspeɪsflaɪt/",
+    "t": "航天飞行",
+    "en": "travel into space"
+  },
+  "radar": {
+    "p": "/ˈreɪdɑː/",
+    "t": "雷达",
+    "en": "a system using radio waves for detection"
+  },
+  "neardisastrous": {
+    "p": "/ˈnɪə dɪˈzɑːstrəs/",
+    "t": "近乎灾难性的",
+    "en": "almost causing disaster"
+  },
+  "prelaunch": {
+    "p": "/ˈpriːlɔːntʃ/",
+    "t": "发射前的",
+    "en": "before a launch"
+  },
+  "microgravity": {
+    "p": "/ˈmaɪkrəʊɡrævəti/",
+    "t": "微重力",
+    "en": "very weak gravity"
+  },
+  "ageold": {
+    "p": "/ˈeɪdʒəʊld/",
+    "t": "古老的",
+    "en": "very old"
+  },
+  "modifications": {
+    "p": "/ˌmɒdɪfɪˈkeɪʃnz/",
+    "t": "修改；改进",
+    "en": "changes or adjustments"
+  },
+  "scraping": {
+    "p": "/ˈskreɪpɪŋ/",
+    "t": "刮擦；摩擦声",
+    "en": "the act of rubbing against something"
+  },
+  "hookandloop": {
+    "p": "/ˈhʊk ən ˈluːp/",
+    "t": "魔术贴",
+    "en": "velcro-type fastener"
+  },
+  "fastener": {
+    "p": "/ˈfɑːsnə/",
+    "t": "紧固件",
+    "en": "a device that joins things"
+  },
+  "attach": {
+    "p": "/əˈtætʃ/",
+    "t": "附上；连接",
+    "en": "to fasten or join"
+  },
+  "spacecraft": {
+    "p": "/ˈspeɪskrɑːft/",
+    "t": "宇宙飞船",
+    "en": "a vehicle for space travel"
+  },
+  "imageprocessing": {
+    "p": "/ˈɪmɪdʒ prəˈsesɪŋ/",
+    "t": "图像处理",
+    "en": "the analysis of images"
+  },
+  "readings": {
+    "p": "/ˈriːdɪŋz/",
+    "t": "读数；指示",
+    "en": "measurements shown on instruments"
+  },
+  "automatically": {
+    "p": "/ˌɔːtəˈmætɪkli/",
+    "t": "自动地",
+    "en": "without human intervention"
+  },
+  "coursecorrections": {
+    "p": "/kɔːs kəˈrekʃnz/",
+    "t": "航向修正",
+    "en": "adjustments to the path"
+  },
+  "onboard": {
+    "p": "/ˈɒnbɔːd/",
+    "t": "机载的；在船/车上",
+    "en": "on a vehicle or vessel"
+  },
+  "groundbased": {
+    "p": "/ˈɡraʊndbeɪst/",
+    "t": "地基的",
+    "en": "located on the ground"
+  },
+  "activated": {
+    "p": "/ˈæktɪveɪtɪd/",
+    "t": "激活的；启动的",
+    "en": "made active"
+  },
+  "imagery": {
+    "p": "/ˈɪmɪdʒəri/",
+    "t": "图像；意象",
+    "en": "visual images"
+  },
+  "crosscheck": {
+    "p": "/ˈkrɒstʃek/",
+    "t": "交叉核对",
+    "en": "to verify by checking against another source"
+  },
+  "equipment": {
+    "p": "/ɪˈkwɪpmənt/",
+    "t": "设备；装备",
+    "en": "tools needed for a task"
+  },
+  "disastrous": {
+    "p": "/dɪˈzɑːstrəs/",
+    "t": "灾难性的",
+    "en": "causing great damage"
+  },
+  "launch": {
+    "p": "/lɔːntʃ/",
+    "t": "发射；发起",
+    "en": "to send off or start"
+  },
+  "timings": {
+    "p": "/ˈtaɪmɪŋz/",
+    "t": "时间安排",
+    "en": "the times at which events occur"
+  },
+  "fascination": {
+    "p": "/ˌfæsɪˈneɪʃn/",
+    "t": "迷恋；吸引力",
+    "en": "strong interest"
+  },
+  "interrelated": {
+    "p": "/ˌɪntərɪˈleɪtɪd/",
+    "t": "相互关联的",
+    "en": "connected to each other"
+  },
+  "familiarity": {
+    "p": "/fəˌmɪliˈærəti/",
+    "t": "熟悉；精通",
+    "en": "good knowledge"
+  },
+  "basics": {
+    "p": "/ˈbeɪsɪks/",
+    "t": "基础",
+    "en": "fundamental principles"
+  },
+  "maths": {
+    "p": "/mæθs/",
+    "t": "数学",
+    "en": "mathematics"
+  },
+  "geometry": {
+    "p": "/dʒiˈɒmətri/",
+    "t": "几何学",
+    "en": "the study of shapes and space"
+  },
+  "timeless": {
+    "p": "/ˈtaɪmləs/",
+    "t": "永恒的",
+    "en": "not affected by time"
+  },
+  "tricks": {
+    "p": "/trɪks/",
+    "t": "技巧；诀窍",
+    "en": "clever methods"
+  },
+  "modernday": {
+    "p": "/ˈmɒdn deɪ/",
+    "t": "现代的",
+    "en": "of the present time"
+  },
+  "recognisable": {
+    "p": "/ˈrekəɡnaɪzəbl/",
+    "t": "可辨认的",
+    "en": "able to be recognized"
+  },
+  "constellations": {
+    "p": "/ˌkɒnstəˈleɪʃnz/",
+    "t": "星座",
+    "en": "groups of stars"
+  },
+  "guided": {
+    "p": "/ˈɡaɪdɪd/",
+    "t": "指导的；引导的",
+    "en": "led or directed"
+  },
+  "abandon": {
+    "p": "/əˈbændən/",
+    "t": "放弃",
+    "en": "to give up"
+  },
+  "asteroids": {
+    "p": "/ˈæstərɔɪdz/",
+    "t": "小行星",
+    "en": "small rocky bodies orbiting the sun"
+  },
+  "asteroid": {
+    "p": "/ˈæstərɔɪd/",
+    "t": "小行星",
+    "en": "a small rocky body in space"
+  },
+  "halfway": {
+    "p": "/ˌhɑːfˈweɪ/",
+    "t": "中途的",
+    "en": "at the midpoint"
+  },
+  "earliest": {
+    "p": "/ˈɜːliɪst/",
+    "t": "最早的",
+    "en": "superlative of early"
+  },
+  "sightings": {
+    "p": "/ˈsaɪtɪŋz/",
+    "t": "看见；观测（复数）",
+    "en": "instances of seeing"
+  },
+  "manually": {
+    "p": "/ˈmænjuəli/",
+    "t": "手动地",
+    "en": "by hand"
+  },
+  "heritages": {
+    "p": "/ˈherɪtɪdʒɪz/",
+    "t": "遗产",
+    "en": "traditions or properties from the past"
+  },
+  "mathematical": {
+    "p": "/ˌmæθəˈmætɪkl/",
+    "t": "数学的",
+    "en": "relating to mathematics"
   }
 }
