@@ -36213,5 +36213,1585 @@
     "p": "/friːkt/",
     "t": "使惊慌；吓坏",
     "en": "past tense of freak; to become very upset or afraid"
+  },
+  "defining": {
+    "p": "/dɪˈfaɪnɪŋ/",
+    "t": "定义；决定性的",
+    "en": "decisive; serving to define"
+  },
+  "fixations": {
+    "p": "/fɪkˈseɪʃənz/",
+    "t": "固着；痴迷",
+    "en": "obsessive interests or preoccupations"
+  },
+  "adolescence": {
+    "p": "/ˌædəˈlesns/",
+    "t": "青春期",
+    "en": "the period of life from puberty to maturity"
+  },
+  "seared": {
+    "p": "/sɪəd/",
+    "t": "烧焦的；烙上的",
+    "en": "burned or scorched; deeply impressed"
+  },
+  "sticks": {
+    "p": "/stɪks/",
+    "t": "棍子；坚持",
+    "en": "thin pieces of wood; to remain or persist"
+  },
+  "rented": {
+    "p": "/ˈrentɪd/",
+    "t": "租用的",
+    "en": "occupied or used for payment"
+  },
+  "church": {
+    "p": "/tʃɜːtʃ/",
+    "t": "教堂；教会",
+    "en": "a building for Christian worship; religious organization"
+  },
+  "posse": {
+    "p": "/ˈpɒsi/",
+    "t": "一伙人；团伙",
+    "en": "a group of people, often with a common purpose"
+  },
+  "strode": {
+    "p": "/strəʊd/",
+    "t": "大步走（stride的过去式）",
+    "en": "walked with long, decisive steps"
+  },
+  "playground": {
+    "p": "/ˈpleɪɡraʊnd/",
+    "t": "操场；游乐场",
+    "en": "an outdoor area for children's play"
+  },
+  "peroxide": {
+    "p": "/pəˈrɒksaɪd/",
+    "t": "过氧化物；漂白剂",
+    "en": "a chemical used for bleaching"
+  },
+  "extensions": {
+    "p": "/ɪkˈstenʃənz/",
+    "t": "延长；扩展；假发",
+    "en": "parts that extend; hair additions"
+  },
+  "luminous": {
+    "p": "/ˈluːmɪnəs/",
+    "t": "发光的；明亮的",
+    "en": "emitting light; glowing"
+  },
+  "sportswear": {
+    "p": "/ˈspɔːtsweə/",
+    "t": "运动服装",
+    "en": "clothing designed for sports"
+  },
+  "froze": {
+    "p": "/frəʊz/",
+    "t": "冻结；愣住（freeze的过去式）",
+    "en": "became ice; stopped suddenly"
+  },
+  "demanded": {
+    "p": "/dɪˈmɑːndɪd/",
+    "t": "要求；询问",
+    "en": "asked forcefully; required"
+  },
+  "stutter": {
+    "p": "/ˈstʌtə/",
+    "t": "口吃；结巴",
+    "en": "speak with involuntary repetitions"
+  },
+  "marched": {
+    "p": "/mɑːtʃt/",
+    "t": "行进；游行（march的过去式）",
+    "en": "walked in a military manner or protest"
+  },
+  "murmured": {
+    "p": "/ˈmɜːməd/",
+    "t": "低语；嘟囔",
+    "en": "spoke softly and indistinctly"
+  },
+  "recollections": {
+    "p": "/ˌrekəˈlekʃənz/",
+    "t": "回忆；记忆",
+    "en": "memories or remembrances"
+  },
+  "induce": {
+    "p": "/ɪnˈdjuːs/",
+    "t": "诱导；引起",
+    "en": "to cause or bring about"
+  },
+  "corridors": {
+    "p": "/ˈkɒrɪdɔːz/",
+    "t": "走廊；过道",
+    "en": "long passageways in buildings"
+  },
+  "queen": {
+    "p": "/kwiːn/",
+    "t": "女王；王后",
+    "en": "female monarch or wife of a king"
+  },
+  "kings": {
+    "p": "/kɪŋz/",
+    "t": "国王；君主",
+    "en": "male monarchs"
+  },
+  "athletes": {
+    "p": "/ˈæθliːts/",
+    "t": "运动员",
+    "en": "people proficient in sports"
+  },
+  "remarkably": {
+    "p": "/rɪˈmɑːkəbli/",
+    "t": "显著地；非常",
+    "en": "in a way that is surprising or noticeable"
+  },
+  "template": {
+    "p": "/ˈtempleɪt/",
+    "t": "模板；样板",
+    "en": "a pattern or model used as a guide"
+  },
+  "effortlessly": {
+    "p": "/ˈefətləsli/",
+    "t": "轻松地；不费力地",
+    "en": "without effort; easily"
+  },
+  "classmates": {
+    "p": "/ˈklɑːsmeɪts/",
+    "t": "同班同学",
+    "en": "students in the same class"
+  },
+  "inclined": {
+    "p": "/ɪnˈklaɪnd/",
+    "t": "倾向于；倾斜的",
+    "en": "tending; having a disposition"
+  },
+  "gates": {
+    "p": "/ɡeɪts/",
+    "t": "大门；闸门",
+    "en": "barriers that open and close; entrances"
+  },
+  "exert": {
+    "p": "/ɪɡˈzɜːt/",
+    "t": "施加；运用",
+    "en": "to apply force or influence"
+  },
+  "wellliked": {
+    "p": "/ˌwelˈlaɪkt/",
+    "t": "受欢迎的；讨人喜欢的",
+    "en": "popular; regarded with favor"
+  },
+  "teenagers": {
+    "p": "/ˈtiːneɪdʒəz/",
+    "t": "青少年",
+    "en": "people aged 13 to 19"
+  },
+  "nowseminal": {
+    "p": "/ˈnaʊˈsiːmɪnl/",
+    "t": "现在具有开创性的",
+    "en": "currently highly influential"
+  },
+  "childish": {
+    "p": "/ˈtʃaɪldɪʃ/",
+    "t": "孩子气的；幼稚的",
+    "en": "typical of a child; immature"
+  },
+  "handwriting": {
+    "p": "/ˈhændraɪtɪŋ/",
+    "t": "笔迹；书写",
+    "en": "writing done by hand"
+  },
+  "scrawled": {
+    "p": "/skrɔːld/",
+    "t": "潦草地写",
+    "en": "wrote hastily or illegibly"
+  },
+  "scraps": {
+    "p": "/skræps/",
+    "t": "碎片；废料",
+    "en": "small pieces or bits"
+  },
+  "trace": {
+    "p": "/treɪs/",
+    "t": "痕迹；追踪",
+    "en": "a mark or sign; to follow"
+  },
+  "disliked": {
+    "p": "/dɪsˈlaɪkt/",
+    "t": "不喜欢；厌恶",
+    "en": "regarded with displeasure"
+  },
+  "celebrities": {
+    "p": "/səˈlebrətiz/",
+    "t": "名人；明星",
+    "en": "famous people"
+  },
+  "respectively": {
+    "p": "/rɪˈspektɪvli/",
+    "t": "分别地；各自地",
+    "en": "in the order given"
+  },
+  "dislikes": {
+    "p": "/dɪsˈlaɪks/",
+    "t": "不喜欢的事物",
+    "en": "things one dislikes"
+  },
+  "usefulness": {
+    "p": "/ˈjuːsfəlnəs/",
+    "t": "有用性；效用",
+    "en": "the quality of being useful"
+  },
+  "neglecteds": {
+    "p": "/nɪˈɡlektɪdz/",
+    "t": "被忽视的人（复数）",
+    "en": "people who are not given attention"
+  },
+  "withdrawn": {
+    "p": "/wɪðˈdrɔːn/",
+    "t": "孤僻的；内向的",
+    "en": "introverted; socially detached"
+  },
+  "bully": {
+    "p": "/ˈbʊli/",
+    "t": "欺凌者；恶霸",
+    "en": "a person who intimidates others"
+  },
+  "unassertive": {
+    "p": "/ˌʌnəˈsɜːtɪv/",
+    "t": "不自信的；谦让的",
+    "en": "not assertive; timid"
+  },
+  "victims": {
+    "p": "/ˈvɪktɪmz/",
+    "t": "受害者",
+    "en": "people harmed or mistreated"
+  },
+  "rarest": {
+    "p": "/reərɪst/",
+    "t": "最稀有的",
+    "en": "most uncommon"
+  },
+  "crowd": {
+    "p": "/kraʊd/",
+    "t": "人群；群众",
+    "en": "a large group of people"
+  },
+  "clowns": {
+    "p": "/klaʊnz/",
+    "t": "小丑；滑稽人物",
+    "en": "comic performers; foolish people"
+  },
+  "rebels": {
+    "p": "/ˈrebəlz/",
+    "t": "反叛者；叛逆者",
+    "en": "people who resist authority"
+  },
+  "childrens": {
+    "p": "/ˈtʃɪldrənz/",
+    "t": "儿童的（所有格）",
+    "en": "belonging to children"
+  },
+  "replicated": {
+    "p": "/ˈreplɪkeɪtɪd/",
+    "t": "复制；重复",
+    "en": "copied or reproduced"
+  },
+  "adolescents": {
+    "p": "/ˌædəˈlesnts/",
+    "t": "青少年",
+    "en": "young people in adolescence"
+  },
+  "visibly": {
+    "p": "/ˈvɪzəbli/",
+    "t": "明显地；可见地",
+    "en": "in a visible manner"
+  },
+  "pickings": {
+    "p": "/ˈpɪkɪŋz/",
+    "t": "挑选；剩余物",
+    "en": "available resources or profits"
+  },
+  "bullies": {
+    "p": "/ˈbʊliz/",
+    "t": "欺凌者（复数）",
+    "en": "people who bully others"
+  },
+  "switched": {
+    "p": "/swɪtʃt/",
+    "t": "转换；改变",
+    "en": "changed or shifted"
+  },
+  "dramatically": {
+    "p": "/drəˈmætɪkli/",
+    "t": "显著地；戏剧性地",
+    "en": "in a striking or sudden way"
+  },
+  "wellbehaved": {
+    "p": "/ˌwelbɪˈheɪvd/",
+    "t": "行为端正的",
+    "en": "behaving properly"
+  },
+  "excel": {
+    "p": "/ɪkˈsel/",
+    "t": "擅长；胜过",
+    "en": "to be very good at something"
+  },
+  "align": {
+    "p": "/əˈlaɪn/",
+    "t": "对齐；使一致",
+    "en": "to arrange in line or agreement"
+  },
+  "supervisors": {
+    "p": "/ˈsuːpəvaɪzəz/",
+    "t": "监督者；主管",
+    "en": "people who oversee work"
+  },
+  "woefully": {
+    "p": "/ˈwəʊfəli/",
+    "t": "悲哀地；糟糕地",
+    "en": "in a sad or dreadful manner"
+  },
+  "undesirable": {
+    "p": "/ˌʌndɪˈzaɪərəbl/",
+    "t": "不受欢迎的；不良的",
+    "en": "not wanted or pleasant"
+  },
+  "conscientious": {
+    "p": "/ˌkɒnʃiˈenʃəs/",
+    "t": "认真的；尽责的",
+    "en": "careful and thorough"
+  },
+  "overachiever": {
+    "p": "/ˌəʊvərəˈtʃiːvə/",
+    "t": "成绩超常者",
+    "en": "person who performs better than expected"
+  },
+  "relegated": {
+    "p": "/ˈrelɪɡeɪtɪd/",
+    "t": "降级；贬低",
+    "en": "consigned to a lower position"
+  },
+  "rowdier": {
+    "p": "/ˈraʊdɪə/",
+    "t": "更喧闹的（rowdy的比较级）",
+    "en": "more noisy and disorderly"
+  },
+  "divisive": {
+    "p": "/dɪˈvaɪsɪv/",
+    "t": "分裂的；引起分歧的",
+    "en": "causing disagreement"
+  },
+  "ascendance": {
+    "p": "/əˈsendəns/",
+    "t": "优势；支配地位",
+    "en": "state of being dominant"
+  },
+  "onetime": {
+    "p": "/ˈwʌntaɪm/",
+    "t": "曾经的；一度的",
+    "en": "former; at one time"
+  },
+  "terror": {
+    "p": "/ˈterə/",
+    "t": "恐怖；恐惧",
+    "en": "extreme fear or dread"
+  },
+  "attentionseeking": {
+    "p": "/əˈtenʃənˈsiːkɪŋ/",
+    "t": "寻求关注的",
+    "en": "behaving to attract attention"
+  },
+  "embodied": {
+    "p": "/ɪmˈbɒdɪd/",
+    "t": "体现；具体化",
+    "en": "represented in a physical form"
+  },
+  "archetype": {
+    "p": "/ˈɑːkitaɪp/",
+    "t": "原型；典型",
+    "en": "a perfect example of a type"
+  },
+  "acted": {
+    "p": "/ˈæktɪd/",
+    "t": "行动；表演",
+    "en": "behaved or performed"
+  },
+  "aggressively": {
+    "p": "/əˈɡresɪvli/",
+    "t": "侵略地；好斗地",
+    "en": "in a forceful or hostile manner"
+  },
+  "ineligible": {
+    "p": "/ɪnˈelɪdʒəbl/",
+    "t": "不合格的；无资格的",
+    "en": "not qualified or permitted"
+  },
+  "fitting": {
+    "p": "/ˈfɪtɪŋ/",
+    "t": "合适的；恰当的",
+    "en": "appropriate or suitable"
+  },
+  "sports": {
+    "p": "/spɔːts/",
+    "t": "运动（复数）",
+    "en": "physical activities involving skill"
+  },
+  "pseudomature": {
+    "p": "/ˌsjuːdəʊməˈtjʊə/",
+    "t": "假成熟的",
+    "en": "appearing mature but not actually so"
+  },
+  "teens": {
+    "p": "/tiːnz/",
+    "t": "青少年时期；十几岁",
+    "en": "the years of being a teenager"
+  },
+  "precocious": {
+    "p": "/prɪˈkəʊʃəs/",
+    "t": "早熟的",
+    "en": "developing early or prematurely"
+  },
+  "conferring": {
+    "p": "/kənˈfɜːrɪŋ/",
+    "t": "授予；商议",
+    "en": "granting or discussing"
+  },
+  "schoolers": {
+    "p": "/ˈskuːləz/",
+    "t": "学生；中小学生",
+    "en": "people attending school"
+  },
+  "overt": {
+    "p": "/əʊˈvɜːt/",
+    "t": "公开的；明显的",
+    "en": "open and observable"
+  },
+  "statusseeking": {
+    "p": "/ˈsteɪtəsˈsiːkɪŋ/",
+    "t": "追求地位的",
+    "en": "seeking social status"
+  },
+  "likeability": {
+    "p": "/ˌlaɪkəˈbɪləti/",
+    "t": "讨人喜欢；可爱",
+    "en": "quality of being liked"
+  },
+  "reassert": {
+    "p": "/ˌriːəˈsɜːt/",
+    "t": "重申；重新主张",
+    "en": "to assert again"
+  },
+  "determinant": {
+    "p": "/dɪˈtɜːmɪnənt/",
+    "t": "决定因素",
+    "en": "a factor that determines"
+  },
+  "stratification": {
+    "p": "/ˌstrætɪfɪˈkeɪʃən/",
+    "t": "分层；社会阶层化",
+    "en": "division into layers or strata"
+  },
+  "consequential": {
+    "p": "/ˌkɒnsɪˈkwenʃəl/",
+    "t": "重要的；随之发生的",
+    "en": "important; resulting"
+  },
+  "leads": {
+    "p": "/liːdz/",
+    "t": "领导；导致（lead的复数/第三人称）",
+    "en": "guides or causes"
+  },
+  "immature": {
+    "p": "/ˌɪməˈtjʊə/",
+    "t": "不成熟的",
+    "en": "not fully developed; childish"
+  },
+  "animated": {
+    "p": "/ˈænɪmeɪtɪd/",
+    "t": "生气勃勃的；动画的",
+    "en": "lively; full of energy"
+  },
+  "quixotic": {
+    "p": "/kwɪkˈsɒtɪk/",
+    "t": "不切实际的；堂吉诃德式的",
+    "en": "idealistic but impractical"
+  },
+  "fascinations": {
+    "p": "/ˌfæsɪˈneɪʃənz/",
+    "t": "魅力；迷恋",
+    "en": "strong attractions or interests"
+  },
+  "codes": {
+    "p": "/kəʊdz/",
+    "t": "代码；准则",
+    "en": "systems of symbols; rules"
+  },
+  "cliques": {
+    "p": "/kliːks/",
+    "t": "小圈子；派系",
+    "en": "small exclusive groups"
+  },
+  "recur": {
+    "p": "/rɪˈkɜː/",
+    "t": "重现；再发生",
+    "en": "to happen again"
+  },
+  "populars": {
+    "p": "/ˈpɒpjʊləz/",
+    "t": "受欢迎的人（复数）",
+    "en": "popular students"
+  },
+  "burnouts": {
+    "p": "/ˈbɜːnaʊts/",
+    "t": "倦怠者；精疲力尽的人",
+    "en": "people exhausted by stress"
+  },
+  "rejects": {
+    "p": "/rɪˈdʒekts/",
+    "t": "拒绝；被拒绝者",
+    "en": "refuses; outcasts"
+  },
+  "nerds": {
+    "p": "/nɜːdz/",
+    "t": "书呆子；极客",
+    "en": "intellectually focused but socially awkward people"
+  },
+  "clannish": {
+    "p": "/ˈklænɪʃ/",
+    "t": "排外的；小集团的",
+    "en": "exclusive; cliquish"
+  },
+  "intolerant": {
+    "p": "/ɪnˈtɒlərənt/",
+    "t": "不容忍的；偏执的",
+    "en": "not accepting of differences"
+  },
+  "cruel": {
+    "p": "/ˈkruːəl/",
+    "t": "残忍的",
+    "en": "causing pain or suffering"
+  },
+  "exclusion": {
+    "p": "/ɪkˈskluːʒən/",
+    "t": "排斥；排除",
+    "en": "the act of keeping someone out"
+  },
+  "psychoanalyst": {
+    "p": "/ˌsaɪkəʊˈænəlɪst/",
+    "t": "精神分析学家",
+    "en": "a therapist using psychoanalysis"
+  },
+  "intolerance": {
+    "p": "/ɪnˈtɒlərəns/",
+    "t": "不容忍；偏执",
+    "en": "unwillingness to accept others"
+  },
+  "contended": {
+    "p": "/kənˈtendɪd/",
+    "t": "主张；争辩",
+    "en": "argued or maintained"
+  },
+  "defence": {
+    "p": "/dɪˈfens/",
+    "t": "防御；辩护",
+    "en": "protection or justification"
+  },
+  "mystifying": {
+    "p": "/ˈmɪstɪfaɪɪŋ/",
+    "t": "令人困惑的",
+    "en": "puzzling or baffling"
+  },
+  "onslaught": {
+    "p": "/ˈɒnslɔːt/",
+    "t": "猛攻；冲击",
+    "en": "a fierce attack"
+  },
+  "hormonal": {
+    "p": "/hɔːˈməʊnəl/",
+    "t": "荷尔蒙的",
+    "en": "relating to hormones"
+  },
+  "overwhelming": {
+    "p": "/ˌəʊvəˈwelmɪŋ/",
+    "t": "压倒性的；势不可挡的",
+    "en": "very strong or great"
+  },
+  "stereotyping": {
+    "p": "/ˈsteriətaɪpɪŋ/",
+    "t": "刻板印象化",
+    "en": "forming fixed, oversimplified beliefs"
+  },
+  "selfsorting": {
+    "p": "/ˌselfˈsɔːtɪŋ/",
+    "t": "自我分类的",
+    "en": "automatically grouping oneself"
+  },
+  "dictates": {
+    "p": "/dɪkˈteɪts/",
+    "t": "规定；支配",
+    "en": "rules or commands"
+  },
+  "swathe": {
+    "p": "/sweɪð/",
+    "t": "大片；一长条",
+    "en": "a broad strip or area"
+  },
+  "subculture": {
+    "p": "/ˈsʌbkʌltʃə/",
+    "t": "亚文化",
+    "en": "a cultural group within a larger culture"
+  },
+  "highschoolers": {
+    "p": "/ˈhaɪskuːləz/",
+    "t": "高中生",
+    "en": "students in high school"
+  },
+  "partying": {
+    "p": "/ˈpɑːtɪɪŋ/",
+    "t": "参加聚会",
+    "en": "attending parties"
+  },
+  "selfdefined": {
+    "p": "/ˌselfdɪˈfaɪnd/",
+    "t": "自我定义的",
+    "en": "defined by oneself"
+  },
+  "normals": {
+    "p": "/ˈnɔːməlz/",
+    "t": "正常人（复数）",
+    "en": "typical or average people"
+  },
+  "abnormal": {
+    "p": "/æbˈnɔːməl/",
+    "t": "异常的；反常的",
+    "en": "deviating from the norm"
+  },
+  "catastrophic": {
+    "p": "/ˌkætəˈstrɒfɪk/",
+    "t": "灾难性的",
+    "en": "involving great damage"
+  },
+  "remembers": {
+    "p": "/rɪˈmembəz/",
+    "t": "记得（第三人称单数）",
+    "en": "recalls to mind"
+  },
+  "arriving": {
+    "p": "/əˈraɪvɪŋ/",
+    "t": "到达",
+    "en": "reaching a destination"
+  },
+  "foothold": {
+    "p": "/ˈfʊthəʊld/",
+    "t": "立足点",
+    "en": "a secure position"
+  },
+  "slippery": {
+    "p": "/ˈslɪpəri/",
+    "t": "滑的；棘手的",
+    "en": "hard to hold or grasp"
+  },
+  "edifice": {
+    "p": "/ˈedɪfɪs/",
+    "t": "大厦；宏伟建筑",
+    "en": "a large, imposing building"
+  },
+  "clique": {
+    "p": "/kliːk/",
+    "t": "小集团；派系",
+    "en": "a small exclusive group"
+  },
+  "nerdy": {
+    "p": "/ˈnɜːdi/",
+    "t": "书呆子气的",
+    "en": "socially awkward but intellectual"
+  },
+  "girls": {
+    "p": "/ɡɜːlz/",
+    "t": "女孩们",
+    "en": "female children or young women"
+  },
+  "bookish": {
+    "p": "/ˈbʊkɪʃ/",
+    "t": "好读书的；书呆子气的",
+    "en": "devoted to reading"
+  },
+  "homework": {
+    "p": "/ˈhəʊmwɜːk/",
+    "t": "家庭作业",
+    "en": "schoolwork done at home"
+  },
+  "trumpet": {
+    "p": "/ˈtrʌmpɪt/",
+    "t": "小号；喇叭",
+    "en": "a brass musical instrument"
+  },
+  "avail": {
+    "p": "/əˈveɪl/",
+    "t": "效用；帮助",
+    "en": "use or benefit"
+  },
+  "ignored": {
+    "p": "/ɪɡˈnɔːd/",
+    "t": "忽视",
+    "en": "paid no attention to"
+  },
+  "relaxes": {
+    "p": "/rɪˈlæksɪz/",
+    "t": "放松（第三人称单数）",
+    "en": "becomes less tense"
+  },
+  "embedded": {
+    "p": "/ɪmˈbedɪd/",
+    "t": "嵌入的；根深蒂固的",
+    "en": "firmly fixed in"
+  },
+  "rigidity": {
+    "p": "/rɪˈdʒɪdəti/",
+    "t": "僵硬；严格",
+    "en": "stiffness; inflexibility"
+  },
+  "selfreflect": {
+    "p": "/ˌselfrɪˈflekt/",
+    "t": "自我反思",
+    "en": "to think about oneself"
+  },
+  "differentiate": {
+    "p": "/ˌdɪfəˈrenʃieɪt/",
+    "t": "区分；区别",
+    "en": "to recognize or show difference"
+  },
+  "resulted": {
+    "p": "/rɪˈzʌltɪd/",
+    "t": "导致；产生结果",
+    "en": "occurred as a consequence"
+  },
+  "selffocus": {
+    "p": "/ˌselfˈfəʊkəs/",
+    "t": "自我关注",
+    "en": "concentration on oneself"
+  },
+  "paralysis": {
+    "p": "/pəˈræləsɪs/",
+    "t": "瘫痪；麻痹",
+    "en": "loss of ability to move or act"
+  },
+  "strictures": {
+    "p": "/ˈstrɪktʃəz/",
+    "t": "限制；约束",
+    "en": "restrictions or criticisms"
+  },
+  "loosen": {
+    "p": "/ˈluːsən/",
+    "t": "放松；松开",
+    "en": "to make less tight"
+  },
+  "rebellious": {
+    "p": "/rɪˈbeljəs/",
+    "t": "叛逆的",
+    "en": "resisting authority"
+  },
+  "trendies": {
+    "p": "/ˈtrendiz/",
+    "t": "时髦人士（复数）",
+    "en": "fashionable people"
+  },
+  "outrageous": {
+    "p": "/aʊtˈreɪdʒəs/",
+    "t": "惊人的；过分的",
+    "en": "shocking or extreme"
+  },
+  "appearance": {
+    "p": "/əˈpɪərəns/",
+    "t": "外表；出现",
+    "en": "the way something looks; the act of appearing"
+  },
+  "rowdy": {
+    "p": "/ˈraʊdi/",
+    "t": "喧闹的；粗暴的",
+    "en": "noisy and disorderly"
+  },
+  "schoolwide": {
+    "p": "/ˈskuːlwaɪd/",
+    "t": "全校范围的",
+    "en": "throughout the school"
+  },
+  "subtle": {
+    "p": "/ˈsʌtl/",
+    "t": "微妙的；巧妙的",
+    "en": "not obvious; delicate"
+  },
+  "disbelief": {
+    "p": "/ˌdɪsbɪˈliːf/",
+    "t": "怀疑；不信",
+    "en": "inability to believe"
+  },
+  "stoners": {
+    "p": "/ˈstəʊnəz/",
+    "t": "吸毒者；瘾君子",
+    "en": "people who use drugs, esp. marijuana"
+  },
+  "lured": {
+    "p": "/lʊəd/",
+    "t": "引诱；诱惑",
+    "en": "attracted or tempted"
+  },
+  "humiliated": {
+    "p": "/hjuːˈmɪlieɪtɪd/",
+    "t": "羞辱的",
+    "en": "made to feel ashamed"
+  },
+  "befriend": {
+    "p": "/bɪˈfrend/",
+    "t": "友好对待；结交",
+    "en": "to become friends with"
+  },
+  "sparkling": {
+    "p": "/ˈspɑːklɪŋ/",
+    "t": "闪闪发光的；活泼的",
+    "en": "shining with flashes of light; lively"
+  },
+  "charm": {
+    "p": "/tʃɑːm/",
+    "t": "魅力；迷人",
+    "en": "power to please or attract"
+  },
+  "weirdness": {
+    "p": "/ˈwɪədnəs/",
+    "t": "古怪；离奇",
+    "en": "strangeness"
+  },
+  "hesitantly": {
+    "p": "/ˈhezɪtəntli/",
+    "t": "犹豫地",
+    "en": "in a hesitant manner"
+  },
+  "quirks": {
+    "p": "/kwɜːks/",
+    "t": "怪癖；奇事",
+    "en": "peculiar behaviors or traits"
+  },
+  "outpouring": {
+    "p": "/ˈaʊtpɔːrɪŋ/",
+    "t": "倾泻；流露",
+    "en": "a large flow or expression"
+  },
+  "adulthood": {
+    "p": "/ˈædʌlthʊd/",
+    "t": "成年",
+    "en": "the state of being an adult"
+  },
+  "prison": {
+    "p": "/ˈprɪzən/",
+    "t": "监狱",
+    "en": "a place of confinement"
+  },
+  "lodged": {
+    "p": "/lɒdʒd/",
+    "t": "寄宿；卡住",
+    "en": "fixed or stuck in a place"
+  },
+  "memoryprocessing": {
+    "p": "/ˈmeməriˈprəʊsesɪŋ/",
+    "t": "记忆处理",
+    "en": "the brain's handling of memories"
+  },
+  "wondered": {
+    "p": "/ˈwʌndəd/",
+    "t": "想知道；疑惑",
+    "en": "felt curiosity or doubt"
+  },
+  "oncepopular": {
+    "p": "/ˌwʌnsˈpɒpjʊlə/",
+    "t": "曾经受欢迎的",
+    "en": "popular at an earlier time"
+  },
+  "youths": {
+    "p": "/juːðz/",
+    "t": "青年；年轻人",
+    "en": "young people"
+  },
+  "statushungry": {
+    "p": "/ˈsteɪtəsˈhʌŋɡri/",
+    "t": "渴望地位的",
+    "en": "eager for social status"
+  },
+  "abuse": {
+    "p": "/əˈbjuːs/",
+    "t": "滥用；虐待",
+    "en": "cruel treatment or misuse"
+  },
+  "sustaining": {
+    "p": "/səˈsteɪnɪŋ/",
+    "t": "维持的；持续的",
+    "en": "maintaining; supporting"
+  },
+  "scars": {
+    "p": "/skɑːz/",
+    "t": "伤疤；创伤",
+    "en": "marks left after healing; emotional damage"
+  },
+  "hypothesised": {
+    "p": "/haɪˈpɒθəsaɪzd/",
+    "t": "假设（英式拼写）",
+    "en": "assumed as a hypothesis"
+  },
+  "rejection": {
+    "p": "/rɪˈdʒekʃən/",
+    "t": "拒绝；排斥",
+    "en": "the act of refusing or excluding"
+  },
+  "begets": {
+    "p": "/bɪˈɡets/",
+    "t": "产生；引起",
+    "en": "causes or gives rise to"
+  },
+  "intensifies": {
+    "p": "/ɪnˈtensɪfaɪz/",
+    "t": "增强；加剧",
+    "en": "becomes more intense"
+  },
+  "accepted": {
+    "p": "/əkˈseptɪd/",
+    "t": "被接受的",
+    "en": "agreed to or received"
+  },
+  "predictors": {
+    "p": "/prɪˈdɪktəz/",
+    "t": "预测因素",
+    "en": "things that predict outcomes"
+  },
+  "adept": {
+    "p": "/əˈdept/",
+    "t": "熟练的；擅长的",
+    "en": "skilled or proficient"
+  },
+  "mistreated": {
+    "p": "/ˌmɪsˈtriːtɪd/",
+    "t": "虐待的",
+    "en": "treated badly"
+  },
+  "navigating": {
+    "p": "/ˈnævɪɡeɪtɪŋ/",
+    "t": "导航；应对",
+    "en": "planning and directing; coping with"
+  },
+  "highschoolhoned": {
+    "p": "/ˈhaɪskuːlˈhəʊnd/",
+    "t": "高中磨炼的",
+    "en": "sharpened during high school"
+  },
+  "scripts": {
+    "p": "/skrɪpts/",
+    "t": "剧本；脚本",
+    "en": "written texts or plans"
+  },
+  "selffulfilling": {
+    "p": "/ˌselffʊlˈfɪlɪŋ/",
+    "t": "自我实现的",
+    "en": "tending to come true because predicted"
+  },
+  "prophecy": {
+    "p": "/ˈprɒfəsi/",
+    "t": "预言",
+    "en": "a prediction of the future"
+  },
+  "frameworks": {
+    "p": "/ˈfreɪmwɜːks/",
+    "t": "框架；结构",
+    "en": "basic structures or systems"
+  },
+  "deciding": {
+    "p": "/dɪˈsaɪdɪŋ/",
+    "t": "决定性的；决定",
+    "en": "making decisions; determining"
+  },
+  "ambiguous": {
+    "p": "/æmˈbɪɡjuəs/",
+    "t": "模棱两可的",
+    "en": "open to more than one interpretation"
+  },
+  "sadness": {
+    "p": "/ˈsædnəs/",
+    "t": "悲伤",
+    "en": "the quality of being sad"
+  },
+  "younger": {
+    "p": "/ˈjʌŋɡə/",
+    "t": "较年轻的",
+    "en": "comparative of young"
+  },
+  "beaten": {
+    "p": "/ˈbiːtən/",
+    "t": "被打败的；疲惫的",
+    "en": "defeated or exhausted"
+  },
+  "invulnerability": {
+    "p": "/ɪnˌvʌlnərəˈbɪləti/",
+    "t": "无懈可击；不受伤害",
+    "en": "state of being unable to be harmed"
+  },
+  "perks": {
+    "p": "/pɜːks/",
+    "t": "额外待遇；津贴",
+    "en": "benefits or privileges"
+  },
+  "personalities": {
+    "p": "/ˌpɜːsəˈnælətiz/",
+    "t": "个性；人格",
+    "en": "distinctive characters"
+  },
+  "determined": {
+    "p": "/dɪˈtɜːmɪnd/",
+    "t": "坚定的；决定的",
+    "en": "having a firm purpose"
+  },
+  "laments": {
+    "p": "/ləˈments/",
+    "t": "哀叹；悲叹",
+    "en": "expresses grief or regret"
+  },
+  "typecast": {
+    "p": "/ˈtaɪpkɑːst/",
+    "t": "定型；模式化",
+    "en": "cast in a fixed role"
+  },
+  "shaped": {
+    "p": "/ʃeɪpt/",
+    "t": "塑造；成形",
+    "en": "formed or influenced"
+  },
+  "fierce": {
+    "p": "/fɪəs/",
+    "t": "凶猛的；强烈的",
+    "en": "violent or intense"
+  },
+  "selfsabotage": {
+    "p": "/ˌselfˈsæbətɑːʒ/",
+    "t": "自我破坏",
+    "en": "actions that hinder oneself"
+  },
+  "selfdestructive": {
+    "p": "/ˌselfdɪˈstrʌktɪv/",
+    "t": "自我毁灭的",
+    "en": "harmful to oneself"
+  },
+  "culminated": {
+    "p": "/ˈkʌlmɪneɪtɪd/",
+    "t": "达到顶点",
+    "en": "reached a climax"
+  },
+  "testament": {
+    "p": "/ˈtestəmənt/",
+    "t": "证明；遗嘱",
+    "en": "evidence or proof; a will"
+  },
+  "concurs": {
+    "p": "/kənˈkɜːz/",
+    "t": "同意；一致",
+    "en": "agrees"
+  },
+  "repeat": {
+    "p": "/rɪˈpiːt/",
+    "t": "重复",
+    "en": "to say or do again"
+  },
+  "cheat": {
+    "p": "/tʃiːt/",
+    "t": "欺骗，作弊",
+    "en": "to act dishonestly to gain an advantage"
+  },
+  "humanities": {
+    "p": "/hjuːˈmænɪtiz/",
+    "t": "人文学科",
+    "en": "academic disciplines studying human culture"
+  },
+  "classes": {
+    "p": "/ˈklɑːsɪz/",
+    "t": "课程，班级",
+    "en": "groups of students taught together; lessons"
+  },
+  "grade": {
+    "p": "/ɡreɪd/",
+    "t": "分数，年级",
+    "en": "a mark for quality of work; a level of school"
+  },
+  "assignments": {
+    "p": "/əˈsaɪnmənts/",
+    "t": "作业，任务",
+    "en": "pieces of work given to students"
+  },
+  "pedagogies": {
+    "p": "/ˈpedəɡɒdʒiz/",
+    "t": "教学法",
+    "en": "methods and practices of teaching"
+  },
+  "suspected": {
+    "p": "/səˈspektɪd/",
+    "t": "被怀疑的",
+    "en": "believed to be guilty or likely"
+  },
+  "positives": {
+    "p": "/ˈpɒzətɪvz/",
+    "t": "积极方面，正面结果",
+    "en": "good or beneficial aspects"
+  },
+  "assignment": {
+    "p": "/əˈsaɪnmənt/",
+    "t": "作业，任务",
+    "en": "a piece of work given to someone"
+  },
+  "numinous": {
+    "p": "/ˈnjuːmɪnəs/",
+    "t": "神圣的，令人敬畏的",
+    "en": "spiritually awe-inspiring"
+  },
+  "ineffable": {
+    "p": "/ɪnˈɛfəbl/",
+    "t": "难以言表的",
+    "en": "too great or extreme to be expressed in words"
+  },
+  "yearolds": {
+    "p": "/ˈjɪərəʊldz/",
+    "t": "……岁的人",
+    "en": "people of a specified age"
+  },
+  "cracking": {
+    "p": "/ˈkrækɪŋ/",
+    "t": "破解，裂开；极好的",
+    "en": "breaking; excellent"
+  },
+  "ethics": {
+    "p": "/ˈeθɪks/",
+    "t": "伦理，道德规范",
+    "en": "moral principles governing behavior"
+  },
+  "slide": {
+    "p": "/slaɪd/",
+    "t": "幻灯片；滑行",
+    "en": "a single page of a presentation; to move smoothly"
+  },
+  "classroom": {
+    "p": "/ˈklɑːsruːm/",
+    "t": "教室",
+    "en": "a room where classes are taught"
+  },
+  "circumvent": {
+    "p": "/ˌsɜːkəmˈvent/",
+    "t": "规避，绕过",
+    "en": "to find a way around an obstacle"
+  },
+  "effed": {
+    "p": "/ɛft/",
+    "t": "搞砸的（委婉语）",
+    "en": "euphemism for 'fucked'"
+  },
+  "fields": {
+    "p": "/fiːldz/",
+    "t": "领域，田野",
+    "en": "areas of study; open land"
+  },
+  "justifies": {
+    "p": "/ˈdʒʌstɪfaɪz/",
+    "t": "证明……正当",
+    "en": "shows to be right or reasonable"
+  },
+  "nowadays": {
+    "p": "/ˈnaʊədeɪz/",
+    "t": "现今",
+    "en": "at the present time"
+  },
+  "literary": {
+    "p": "/ˈlɪtərəri/",
+    "t": "文学的",
+    "en": "relating to literature"
+  },
+  "interpretations": {
+    "p": "/ɪnˌtɜːprɪˈteɪʃənz/",
+    "t": "解释，诠释",
+    "en": "explanations of meaning"
+  },
+  "films": {
+    "p": "/fɪlmz/",
+    "t": "电影",
+    "en": "movies"
+  },
+  "neoliberalization": {
+    "p": "/ˌniːəʊˌlɪbərəlaɪˈzeɪʃən/",
+    "t": "新自由主义化",
+    "en": "process of applying neoliberal policies"
+  },
+  "contortion": {
+    "p": "/kənˈtɔːʃən/",
+    "t": "扭曲，变形",
+    "en": "twisting out of shape"
+  },
+  "pursuit": {
+    "p": "/pəˈsjuːt/",
+    "t": "追求，追赶",
+    "en": "act of chasing or seeking"
+  },
+  "impart": {
+    "p": "/ɪmˈpɑːt/",
+    "t": "传授，给予",
+    "en": "to pass on knowledge or qualities"
+  },
+  "virtues": {
+    "p": "/ˈvɜːtʃuːz/",
+    "t": "美德",
+    "en": "moral excellence"
+  },
+  "courage": {
+    "p": "/ˈkʌrɪdʒ/",
+    "t": "勇气",
+    "en": "ability to face danger or difficulty"
+  },
+  "traits": {
+    "p": "/treɪts/",
+    "t": "特征",
+    "en": "distinguishing qualities"
+  },
+  "devalued": {
+    "p": "/ˌdiːˈvæljuːd/",
+    "t": "贬值的，被低估的",
+    "en": "reduced in value"
+  },
+  "hypercapitalist": {
+    "p": "/ˌhaɪpəˈkæpɪtəlɪst/",
+    "t": "极端资本主义的",
+    "en": "extremely capitalistic"
+  },
+  "productbased": {
+    "p": "/ˈprɒdʌktbeɪst/",
+    "t": "基于产品的",
+    "en": "focused on products"
+  },
+  "generative": {
+    "p": "/ˈdʒɛnərətɪv/",
+    "t": "生成的，有生产力的",
+    "en": "able to produce or create"
+  },
+  "proves": {
+    "p": "/pruːvz/",
+    "t": "证明",
+    "en": "demonstrates truth"
+  },
+  "logical": {
+    "p": "/ˈlɒdʒɪkəl/",
+    "t": "逻辑的",
+    "en": "reasoning correctly"
+  },
+  "cultivation": {
+    "p": "/ˌkʌltɪˈveɪʃən/",
+    "t": "培养，耕作",
+    "en": "nurturing growth"
+  },
+  "flourish": {
+    "p": "/ˈflʌrɪʃ/",
+    "t": "繁荣，茁壮成长",
+    "en": "to grow or develop well"
+  },
+  "phronesis": {
+    "p": "/ˈfrɒnɪsɪs/",
+    "t": "实践智慧",
+    "en": "practical wisdom"
+  },
+  "advent": {
+    "p": "/ˈædvənt/",
+    "t": "出现，到来",
+    "en": "arrival of an important thing"
+  },
+  "applying": {
+    "p": "/əˈplaɪɪŋ/",
+    "t": "应用",
+    "en": "putting into use"
+  },
+  "mechanically": {
+    "p": "/mɪˈkænɪkəli/",
+    "t": "机械地",
+    "en": "without thought, by routine"
+  },
+  "judgments": {
+    "p": "/ˈdʒʌdʒmənts/",
+    "t": "判断",
+    "en": "decisions or opinions"
+  },
+  "throws": {
+    "p": "/θrəʊz/",
+    "t": "投掷；使陷入",
+    "en": "hurls; causes to be in a state"
+  },
+  "honed": {
+    "p": "/həʊnd/",
+    "t": "磨炼，提高",
+    "en": "sharpened or refined"
+  },
+  "discern": {
+    "p": "/dɪˈsɜːn/",
+    "t": "辨别，看出",
+    "en": "to perceive or recognize clearly"
+  },
+  "salient": {
+    "p": "/ˈseɪliənt/",
+    "t": "显著的",
+    "en": "most noticeable or important"
+  },
+  "wellattuned": {
+    "p": "/ˌwɛləˈtjuːnd/",
+    "t": "高度协调的",
+    "en": "well adjusted or sensitive"
+  },
+  "breakneck": {
+    "p": "/ˈbreɪknek/",
+    "t": "极快的，危险的",
+    "en": "very fast and dangerous"
+  },
+  "wisely": {
+    "p": "/ˈwaɪzli/",
+    "t": "明智地",
+    "en": "in a wise manner"
+  },
+  "shortcircuit": {
+    "p": "/ˌʃɔːtˈsɜːkɪt/",
+    "t": "使短路；简化",
+    "en": "to cause a short circuit; to bypass"
+  },
+  "removes": {
+    "p": "/rɪˈmuːvz/",
+    "t": "移除",
+    "en": "takes away"
+  },
+  "muscles": {
+    "p": "/ˈmʌsəlz/",
+    "t": "肌肉",
+    "en": "body tissues that contract"
+  },
+  "intellectual": {
+    "p": "/ˌɪntəˈlɛktʃuəl/",
+    "t": "智力的，知识分子",
+    "en": "relating to intellect"
+  },
+  "deskilling": {
+    "p": "/ˌdiːˈskɪlɪŋ/",
+    "t": "去技能化",
+    "en": "reduction of required skills"
+  },
+  "weaker": {
+    "p": "/ˈwiːkə/",
+    "t": "更弱的",
+    "en": "less strong"
+  },
+  "retain": {
+    "p": "/rɪˈteɪn/",
+    "t": "保留",
+    "en": "to keep"
+  },
+  "automation": {
+    "p": "/ˌɔːtəˈmeɪʃən/",
+    "t": "自动化",
+    "en": "use of machines to do work"
+  },
+  "depriving": {
+    "p": "/dɪˈpraɪvɪŋ/",
+    "t": "剥夺",
+    "en": "taking away from"
+  },
+  "designing": {
+    "p": "/dɪˈzaɪnɪŋ/",
+    "t": "设计",
+    "en": "planning and creating"
+  },
+  "curriculum": {
+    "p": "/kəˈrɪkjʊləm/",
+    "t": "课程体系",
+    "en": "subjects taught in a course"
+  },
+  "adopting": {
+    "p": "/əˈdɒptɪŋ/",
+    "t": "采用",
+    "en": "taking up and using"
+  },
+  "mindless": {
+    "p": "/ˈmaɪndləs/",
+    "t": "盲目的，不用脑的",
+    "en": "lacking thought"
+  },
+  "cheating": {
+    "p": "/ˈtʃiːtɪŋ/",
+    "t": "作弊",
+    "en": "acting dishonestly"
+  },
+  "inclass": {
+    "p": "/ˌɪnˈklɑːs/",
+    "t": "课内的",
+    "en": "within a class"
+  },
+  "chatbot": {
+    "p": "/ˈtʃætbɒt/",
+    "t": "聊天机器人",
+    "en": "a computer program that converses"
+  },
+  "shorter": {
+    "p": "/ˈʃɔːtə/",
+    "t": "更短的",
+    "en": "less long"
+  },
+  "paragraph": {
+    "p": "/ˈpærəɡrɑːf/",
+    "t": "段落",
+    "en": "a section of writing"
+  },
+  "professors": {
+    "p": "/prəˈfɛsəz/",
+    "t": "教授",
+    "en": "university teachers of highest rank"
+  },
+  "wellplaced": {
+    "p": "/ˌwɛlˈpleɪst/",
+    "t": "地位有利的",
+    "en": "in a good position"
+  },
+  "debate": {
+    "p": "/dɪˈbeɪt/",
+    "t": "辩论",
+    "en": "formal discussion of opposing views"
+  },
+  "chatbots": {
+    "p": "/ˈtʃætbɒts/",
+    "t": "聊天机器人（复数）",
+    "en": "multiple chatbot programs"
+  },
+  "essays": {
+    "p": "/ˈɛseɪz/",
+    "t": "文章，论文",
+    "en": "short pieces of writing"
+  },
+  "leniency": {
+    "p": "/ˈliːniənsi/",
+    "t": "宽大，仁慈",
+    "en": "kindness in punishment"
+  },
+  "thoughtfully": {
+    "p": "/ˈθɔːtfəli/",
+    "t": "深思熟虑地",
+    "en": "in a thinking manner"
+  },
+  "educators": {
+    "p": "/ˈɛdʒʊkeɪtəz/",
+    "t": "教育工作者",
+    "en": "people who teach"
+  },
+  "arises": {
+    "p": "/əˈraɪzɪz/",
+    "t": "出现，产生",
+    "en": "comes into being"
+  },
+  "constituted": {
+    "p": "/ˈkɒnstɪtjuːtɪd/",
+    "t": "构成的",
+    "en": "formed or composed"
+  },
+  "paradigmshift": {
+    "p": "/ˈpærədaɪm ʃɪft/",
+    "t": "范式转变",
+    "en": "fundamental change in approach"
+  },
+  "perish": {
+    "p": "/ˈpɛrɪʃ/",
+    "t": "消亡",
+    "en": "to die or be destroyed"
+  },
+  "brutally": {
+    "p": "/ˈbruːtəli/",
+    "t": "残酷地",
+    "en": "in a cruel manner"
+  },
+  "preparadigmshift": {
+    "p": "/priːˈpærədaɪm ʃɪft/",
+    "t": "范式转变前",
+    "en": "before a paradigm shift"
+  },
+  "technomoral": {
+    "p": "/ˌtɛknəʊˈmɒrəl/",
+    "t": "技术道德的",
+    "en": "relating to technology and morality"
+  },
+  "atrophy": {
+    "p": "/ˈætrəfi/",
+    "t": "萎缩",
+    "en": "wasting away"
+  },
+  "titled": {
+    "p": "/ˈtaɪtld/",
+    "t": "题为",
+    "en": "having a title"
+  },
+  "conclusion": {
+    "p": "/kənˈkluːʒən/",
+    "t": "结论",
+    "en": "final judgment or decision"
+  },
+  "aversive": {
+    "p": "/əˈvɜːsɪv/",
+    "t": "厌恶的，反感的",
+    "en": "causing avoidance"
+  },
+  "weightlifting": {
+    "p": "/ˈweɪtlɪftɪŋ/",
+    "t": "举重",
+    "en": "sport of lifting heavy weights"
+  },
+  "exhilarating": {
+    "p": "/ɪɡˈzɪləreɪtɪŋ/",
+    "t": "令人兴奋的",
+    "en": "making one feel very happy and energetic"
+  },
+  "provocatively": {
+    "p": "/prəˈvɒkətɪvli/",
+    "t": "挑衅地，煽动地",
+    "en": "in a way that provokes reaction"
+  },
+  "evolution": {
+    "p": "/ˌiːvəˈluːʃən/",
+    "t": "进化，演变",
+    "en": "gradual development"
+  },
+  "lineage": {
+    "p": "/ˈlɪniɪdʒ/",
+    "t": "血统，世系",
+    "en": "direct descent from an ancestor"
+  },
+  "origin": {
+    "p": "/ˈɒrɪdʒɪn/",
+    "t": "起源",
+    "en": "point where something begins"
+  },
+  "artificially": {
+    "p": "/ˌɑːtɪˈfɪʃəli/",
+    "t": "人工地",
+    "en": "made by humans, not natural"
+  },
+  "outgrowth": {
+    "p": "/ˈaʊtɡrəʊθ/",
+    "t": "自然产物",
+    "en": "natural development or result"
+  },
+  "extension": {
+    "p": "/ɪkˈstɛnʃən/",
+    "t": "延伸，扩展",
+    "en": "part added to expand"
+  },
+  "disruption": {
+    "p": "/dɪsˈrʌpʃən/",
+    "t": "扰乱，颠覆",
+    "en": "disturbance or interruption"
+  },
+  "slaughtering": {
+    "p": "/ˈslɔːtərɪŋ/",
+    "t": "屠杀",
+    "en": "killing in large numbers"
+  },
+  "evangelical": {
+    "p": "/ˌiːvænˈdʒɛlɪkəl/",
+    "t": "福音派的；狂热的",
+    "en": "relating to Christian gospel; fervent"
   }
 }
