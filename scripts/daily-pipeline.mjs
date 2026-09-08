@@ -50,7 +50,9 @@ function tryRun(cmd, label) {
   // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
   //    各版块独立抓取：任一块失败只跳过该块，不再因单点故障冻结整站更新
   tryRun('node scripts/fetch-news.mjs --write', '行业资讯抓取');
-  tryRun('node scripts/fetch-wechat.mjs --write', '微信行业资讯抓取');   // 微信通道为已知死通道，失败不再拖垮全站
+  // 微信行业资讯通道为已知死通道（搜狗反爬全拦，永远 0 条），且每词重试等待会让整条流水线卡 50+ 分钟；
+  // 已禁用，待找到可用抓取方式再恢复。禁用不损失任何覆盖（该通道向来贡献 0 条）。
+  // tryRun('node scripts/fetch-wechat.mjs --write', '微信行业资讯抓取');
   tryRun('node scripts/fetch-insights.mjs --write', '专业提升抓取');
   tryRun('node scripts/fetch-readings.mjs --draft' + (DRY ? ' --dry' : ''), '英语阅读抓取');
 
