@@ -33711,7 +33711,7 @@
   },
   "protest": {
     "p": "/ˈprəʊtest/",
-    "t": "",
+    "t": "抗议",
     "en": "A public expression of objection or disapproval."
   },
   "divide": {
@@ -37795,14 +37795,14 @@
     "en": "relating to Christian gospel; fervent"
   },
   "seafaring": {
-    "p": "/ˈsiːfeərɪŋ/",
-    "t": "航海",
-    "en": "travel by sea"
+    "p": "/ˈsiːˌfeərɪŋ/",
+    "t": "航海；海上航行",
+    "en": "travel by sea; maritime activity"
   },
   "instrument": {
     "p": "/ˈɪnstrəmənt/",
-    "t": "仪器；工具",
-    "en": "a tool or device"
+    "t": "仪器；工具；乐器",
+    "en": "a tool or device used for a particular purpose"
   },
   "astronauts": {
     "p": "/ˈæstrənɔːts/",
@@ -37810,54 +37810,54 @@
     "en": "people trained to travel in space"
   },
   "farflung": {
-    "p": "/ˈfɑːflʌŋ/",
+    "p": "/ˈfɑːˈflʌŋ/",
     "t": "遥远的；分布广的",
-    "en": "spread over a large area or distant"
+    "en": "spread over a large area or distance"
   },
   "electronic": {
     "p": "/ɪˌlekˈtrɒnɪk/",
     "t": "电子的",
-    "en": "using electricity and technology"
+    "en": "relating to devices using electricity and microchips"
   },
   "navigation": {
-    "p": "/ˌnævɪˈɡeɪʃn/",
+    "p": "/ˌnævɪˈɡeɪʃən/",
     "t": "导航；航行",
-    "en": "the process of finding a route"
+    "en": "the process of determining and following a route"
   },
   "wayfinding": {
-    "p": "/ˈweɪfaɪndɪŋ/",
-    "t": "认路；导航",
-    "en": "the process of finding one's way"
+    "p": "/ˈweɪˌfaɪndɪŋ/",
+    "t": "寻路；定向",
+    "en": "the ability to find one's way in an environment"
   },
   "sextant": {
     "p": "/ˈsekstənt/",
     "t": "六分仪",
-    "en": "an instrument for measuring angles in navigation"
+    "en": "an instrument for measuring angular distances, used in navigation"
   },
   "seafarers": {
-    "p": "/ˈsiːfeərəz/",
+    "p": "/ˈsiːˌfeərəz/",
     "t": "海员；航海者",
     "en": "people who travel by sea"
   },
   "sextants": {
     "p": "/ˈsekstənts/",
     "t": "六分仪（复数）",
-    "en": "plural of sextant"
+    "en": "plural of sextant; instruments for navigation"
   },
   "lastresort": {
-    "p": "/ˈlɑːst rɪˈzɔːt/",
+    "p": "/ˌlɑːst rɪˈzɔːt/",
     "t": "最后的手段",
-    "en": "the final option"
+    "en": "the final option when others fail"
   },
   "angle": {
     "p": "/ˈæŋɡl/",
     "t": "角度；角",
-    "en": "the space between two lines or surfaces"
+    "en": "the space between two intersecting lines or surfaces"
   },
   "starsighting": {
     "p": "/ˈstɑːˌsaɪtɪŋ/",
     "t": "观星测位",
-    "en": "using stars for navigation"
+    "en": "observing stars to determine position"
   },
   "venture": {
     "p": "/ˈventʃə/",
@@ -37867,142 +37867,142 @@
   "satellites": {
     "p": "/ˈsætəlaɪts/",
     "t": "卫星",
-    "en": "objects orbiting a planet or star"
+    "en": "objects orbiting planets or artificial spacecraft"
   },
   "techniques": {
     "p": "/tekˈniːks/",
     "t": "技术；方法",
-    "en": "methods or skills"
+    "en": "methods or skills for performing tasks"
   },
   "harken": {
     "p": "/ˈhɑːkən/",
-    "t": "倾听；追溯",
+    "t": "倾听；回想",
     "en": "to listen carefully or recall"
   },
   "orientation": {
-    "p": "/ˌɔːriənˈteɪʃn/",
-    "t": "方向；定位",
-    "en": "the determination of position"
+    "p": "/ˌɔːriənˈteɪʃən/",
+    "t": "定位；方向；适应",
+    "en": "the act of determining one's position or direction"
   },
   "references": {
     "p": "/ˈrefrənsɪz/",
-    "t": "参考；参照",
-    "en": "points of comparison"
+    "t": "参考；参照物",
+    "en": "points of comparison or sources of information"
   },
   "nchancellor": {
-    "p": "/ˈtʃɑːnsələ/",
-    "t": "（拼写错误，应为chancellor）大臣；校长",
-    "en": "a senior official"
+    "p": "/ˌenˈtʃɑːnsələ/",
+    "t": "（非标准）校监？疑为误拼",
+    "en": "likely a misspelling; unclear"
   },
   "naked": {
     "p": "/ˈneɪkɪd/",
-    "t": "裸的；无遮蔽的",
+    "t": "裸的；无遮盖的",
     "en": "without clothing or covering"
   },
   "steady": {
     "p": "/ˈstedi/",
-    "t": "稳定的",
-    "en": "firm and not shaking"
+    "t": "稳定的；稳固的",
+    "en": "firmly fixed or constant"
   },
   "manual": {
     "p": "/ˈmænjuəl/",
-    "t": "手动的；手册",
-    "en": "done by hand or a handbook"
+    "t": "手工的；手册；用手操作的",
+    "en": "done by hand; a handbook"
   },
   "tapped": {
     "p": "/tæpt/",
-    "t": "轻敲；利用",
-    "en": "touched lightly or accessed"
+    "t": "轻拍；利用；开发",
+    "en": "struck lightly or exploited"
   },
   "navigational": {
     "p": "/ˌnævɪˈɡeɪʃənl/",
-    "t": "导航的",
+    "t": "导航的；航行的",
     "en": "relating to navigation"
   },
   "sufficiently": {
-    "p": "/səˈfɪʃntli/",
-    "t": "足够地",
+    "p": "/səˈfɪʃəntli/",
+    "t": "足够地；充分地",
     "en": "to an adequate degree"
   },
   "undemonstrated": {
     "p": "/ˌʌnˈdemənstreɪtɪd/",
-    "t": "未证明的",
+    "t": "未被证明的",
     "en": "not shown or proven"
   },
   "nakedeye": {
     "p": "/ˈneɪkɪd aɪ/",
     "t": "肉眼",
-    "en": "the unaided eye"
+    "en": "the eye without optical aids"
   },
   "sighting": {
     "p": "/ˈsaɪtɪŋ/",
     "t": "看见；观测",
-    "en": "an act of seeing something"
+    "en": "an act of seeing or observing"
   },
   "routinely": {
     "p": "/ruːˈtiːnli/",
-    "t": "常规地；例行地",
-    "en": "as a regular procedure"
+    "t": "日常地；常规地",
+    "en": "in a regular or habitual manner"
   },
   "emergencies": {
     "p": "/ɪˈmɜːdʒənsiz/",
-    "t": "紧急情况",
-    "en": "serious unexpected situations"
+    "t": "紧急情况；突发事件",
+    "en": "serious unexpected situations requiring immediate action"
   },
   "chart": {
     "p": "/tʃɑːt/",
-    "t": "图表；海图",
-    "en": "a map or diagram"
+    "t": "图表；海图；规划",
+    "en": "a map or diagram; to plan"
   },
   "spaceflight": {
     "p": "/ˈspeɪsflaɪt/",
-    "t": "航天飞行",
-    "en": "travel into space"
+    "t": "航天；太空飞行",
+    "en": "travel into outer space"
   },
   "radar": {
     "p": "/ˈreɪdɑː/",
     "t": "雷达",
-    "en": "a system using radio waves for detection"
+    "en": "system using radio waves for detection and ranging"
   },
   "neardisastrous": {
-    "p": "/ˈnɪə dɪˈzɑːstrəs/",
-    "t": "近乎灾难性的",
+    "p": "/ˌnɪə dɪˈzɑːstrəs/",
+    "t": "几乎灾难性的",
     "en": "almost causing disaster"
   },
   "prelaunch": {
-    "p": "/ˈpriːlɔːntʃ/",
+    "p": "/ˌpriːˈlɔːntʃ/",
     "t": "发射前的",
-    "en": "before a launch"
+    "en": "occurring before launch"
   },
   "microgravity": {
-    "p": "/ˈmaɪkrəʊɡrævəti/",
+    "p": "/ˌmaɪkrəʊˈɡrævəti/",
     "t": "微重力",
-    "en": "very weak gravity"
+    "en": "very weak gravity, as in space"
   },
   "ageold": {
-    "p": "/ˈeɪdʒəʊld/",
-    "t": "古老的",
-    "en": "very old"
+    "p": "/ˈeɪdʒˌəʊld/",
+    "t": "古老的；久远的",
+    "en": "very old; ancient"
   },
   "modifications": {
-    "p": "/ˌmɒdɪfɪˈkeɪʃnz/",
+    "p": "/ˌmɒdɪfɪˈkeɪʃənz/",
     "t": "修改；改进",
     "en": "changes or adjustments"
   },
   "scraping": {
     "p": "/ˈskreɪpɪŋ/",
     "t": "刮擦；摩擦声",
-    "en": "the act of rubbing against something"
+    "en": "the act of rubbing or scraping"
   },
   "hookandloop": {
-    "p": "/ˈhʊk ən ˈluːp/",
-    "t": "魔术贴",
-    "en": "velcro-type fastener"
+    "p": "/ˈhʊk ənd luːp/",
+    "t": "魔术贴（粘扣带）",
+    "en": "fastener consisting of hooks and loops"
   },
   "fastener": {
-    "p": "/ˈfɑːsnə/",
-    "t": "紧固件",
-    "en": "a device that joins things"
+    "p": "/ˈfɑːsənə/",
+    "t": "紧固件；扣件",
+    "en": "device that joins or fixes things"
   },
   "attach": {
     "p": "/əˈtætʃ/",
@@ -38011,138 +38011,138 @@
   },
   "spacecraft": {
     "p": "/ˈspeɪskrɑːft/",
-    "t": "宇宙飞船",
-    "en": "a vehicle for space travel"
+    "t": "航天器；宇宙飞船",
+    "en": "vehicle designed for space travel"
   },
   "imageprocessing": {
-    "p": "/ˈɪmɪdʒ prəˈsesɪŋ/",
+    "p": "/ˈɪmɪdʒ ˈprəʊsesɪŋ/",
     "t": "图像处理",
-    "en": "the analysis of images"
+    "en": "analysis and manipulation of images"
   },
   "readings": {
     "p": "/ˈriːdɪŋz/",
-    "t": "读数；指示",
-    "en": "measurements shown on instruments"
+    "t": "读数；测量值；读物",
+    "en": "values shown on instruments; texts"
   },
   "automatically": {
     "p": "/ˌɔːtəˈmætɪkli/",
     "t": "自动地",
-    "en": "without human intervention"
+    "en": "without manual control"
   },
   "coursecorrections": {
-    "p": "/kɔːs kəˈrekʃnz/",
+    "p": "/kɔːs kəˈrekʃənz/",
     "t": "航向修正",
-    "en": "adjustments to the path"
+    "en": "adjustments to a planned route"
   },
   "onboard": {
     "p": "/ˈɒnbɔːd/",
-    "t": "机载的；在船/车上",
-    "en": "on a vehicle or vessel"
+    "t": "在船/飞机/车上",
+    "en": "on or within a vehicle or vessel"
   },
   "groundbased": {
     "p": "/ˈɡraʊndbeɪst/",
-    "t": "地基的",
+    "t": "地基的；地面的",
     "en": "located on the ground"
   },
   "activated": {
     "p": "/ˈæktɪveɪtɪd/",
-    "t": "激活的；启动的",
-    "en": "made active"
+    "t": "启动；激活",
+    "en": "made active or operational"
   },
   "imagery": {
     "p": "/ˈɪmɪdʒəri/",
     "t": "图像；意象",
-    "en": "visual images"
+    "en": "visual images or mental pictures"
   },
   "crosscheck": {
     "p": "/ˈkrɒstʃek/",
-    "t": "交叉核对",
-    "en": "to verify by checking against another source"
+    "t": "交叉核对；复核",
+    "en": "to verify by comparing different sources"
   },
   "equipment": {
     "p": "/ɪˈkwɪpmənt/",
     "t": "设备；装备",
-    "en": "tools needed for a task"
+    "en": "tools and machinery needed for a purpose"
   },
   "disastrous": {
     "p": "/dɪˈzɑːstrəs/",
     "t": "灾难性的",
-    "en": "causing great damage"
+    "en": "causing great damage or suffering"
   },
   "launch": {
     "p": "/lɔːntʃ/",
-    "t": "发射；发起",
+    "t": "发射；启动",
     "en": "to send off or start"
   },
   "timings": {
     "p": "/ˈtaɪmɪŋz/",
-    "t": "时间安排",
-    "en": "the times at which events occur"
+    "t": "时间安排；时机",
+    "en": "the choice or control of when events occur"
   },
   "fascination": {
-    "p": "/ˌfæsɪˈneɪʃn/",
-    "t": "迷恋；吸引力",
-    "en": "strong interest"
+    "p": "/ˌfæsɪˈneɪʃən/",
+    "t": "魅力；着迷",
+    "en": "strong interest or attraction"
   },
   "interrelated": {
     "p": "/ˌɪntərɪˈleɪtɪd/",
     "t": "相互关联的",
-    "en": "connected to each other"
+    "en": "mutually connected"
   },
   "familiarity": {
     "p": "/fəˌmɪliˈærəti/",
-    "t": "熟悉；精通",
-    "en": "good knowledge"
+    "t": "熟悉；通晓",
+    "en": "close acquaintance or knowledge"
   },
   "basics": {
     "p": "/ˈbeɪsɪks/",
-    "t": "基础",
-    "en": "fundamental principles"
+    "t": "基础；基本要素",
+    "en": "fundamental principles or facts"
   },
   "maths": {
     "p": "/mæθs/",
-    "t": "数学",
+    "t": "数学（英式）",
     "en": "mathematics"
   },
   "geometry": {
     "p": "/dʒiˈɒmətri/",
     "t": "几何学",
-    "en": "the study of shapes and space"
+    "en": "branch of mathematics dealing with shapes and spaces"
   },
   "timeless": {
     "p": "/ˈtaɪmləs/",
-    "t": "永恒的",
-    "en": "not affected by time"
+    "t": "永恒的；不受时间影响的",
+    "en": "not affected by time; eternal"
   },
   "tricks": {
     "p": "/trɪks/",
-    "t": "技巧；诀窍",
-    "en": "clever methods"
+    "t": "技巧；诀窍；把戏",
+    "en": "clever actions or methods"
   },
   "modernday": {
-    "p": "/ˈmɒdn deɪ/",
-    "t": "现代的",
-    "en": "of the present time"
+    "p": "/ˈmɒdən deɪ/",
+    "t": "现代的；当代的",
+    "en": "relating to the present era"
   },
   "recognisable": {
     "p": "/ˈrekəɡnaɪzəbl/",
-    "t": "可辨认的",
+    "t": "可识别的；可辨认的",
     "en": "able to be recognized"
   },
   "constellations": {
-    "p": "/ˌkɒnstəˈleɪʃnz/",
-    "t": "星座",
-    "en": "groups of stars"
+    "p": "/ˌkɒnstəˈleɪʃənz/",
+    "t": "星座；星群",
+    "en": "groups of stars forming patterns"
   },
   "guided": {
     "p": "/ˈɡaɪdɪd/",
-    "t": "指导的；引导的",
+    "t": "引导的；指导的",
     "en": "led or directed"
   },
   "abandon": {
     "p": "/əˈbændən/",
-    "t": "放弃",
-    "en": "to give up"
+    "t": "放弃；抛弃",
+    "en": "to leave or give up completely"
   },
   "asteroids": {
     "p": "/ˈæstərɔɪdz/",
@@ -38156,32 +38156,1717 @@
   },
   "halfway": {
     "p": "/ˌhɑːfˈweɪ/",
-    "t": "中途的",
-    "en": "at the midpoint"
+    "t": "中途的；半路",
+    "en": "at an equal distance between two points"
   },
   "earliest": {
     "p": "/ˈɜːliɪst/",
     "t": "最早的",
-    "en": "superlative of early"
+    "en": "superlative of early; most early"
   },
   "sightings": {
     "p": "/ˈsaɪtɪŋz/",
-    "t": "看见；观测（复数）",
-    "en": "instances of seeing"
+    "t": "目击；观测记录",
+    "en": "instances of seeing something"
   },
   "manually": {
     "p": "/ˈmænjuəli/",
-    "t": "手动地",
-    "en": "by hand"
+    "t": "手工地；手动地",
+    "en": "by hand rather than automatically"
   },
   "heritages": {
     "p": "/ˈherɪtɪdʒɪz/",
-    "t": "遗产",
-    "en": "traditions or properties from the past"
+    "t": "遗产；传统",
+    "en": "valued traditions or properties from the past"
   },
   "mathematical": {
-    "p": "/ˌmæθəˈmætɪkl/",
+    "p": "/ˌmæθəˈmætɪkəl/",
     "t": "数学的",
     "en": "relating to mathematics"
+  },
+  "playbook": {
+    "p": "/ˈpleɪbʊk/",
+    "t": "剧本；策略手册",
+    "en": "a set of strategies or tactics used in a particular situation"
+  },
+  "betterfunded": {
+    "p": "/ˈbetərˈfʌndɪd/",
+    "t": "资金更充足的",
+    "en": "having more financial resources"
+  },
+  "victory": {
+    "p": "/ˈvɪktəri/",
+    "t": "胜利，成功",
+    "en": "the act of winning or defeating an opponent"
+  },
+  "slotted": {
+    "p": "/ˈslɒtɪd/",
+    "t": "安排时间；放入槽中",
+    "en": "placed in a scheduled position or narrow opening"
+  },
+  "insurgent": {
+    "p": "/ɪnˈsɜːdʒənt/",
+    "t": "叛乱者；起义的",
+    "en": "a rebel or revolutionary; participating in rebellion"
+  },
+  "triumphed": {
+    "p": "/ˈtraɪʌmft/",
+    "t": "取得巨大成功；战胜",
+    "en": "achieved a great victory or success"
+  },
+  "progressiveversuscentrist": {
+    "p": "/prəˈɡresɪvˈvɜːsəsˈsentrɪst/",
+    "t": "进步派与中间派之争",
+    "en": "the conflict between progressive and centrist political views"
+  },
+  "outworked": {
+    "p": "/ˌaʊtˈwɜːkt/",
+    "t": "比…工作更努力",
+    "en": "worked harder than someone else"
+  },
+  "outorganized": {
+    "p": "/ˌaʊtˈɔːɡənaɪzd/",
+    "t": "组织得比…更好",
+    "en": "organized more effectively than someone else"
+  },
+  "solidly": {
+    "p": "/ˈsɒlɪdli/",
+    "t": "稳固地；坚定地",
+    "en": "in a firm, reliable, or unanimous manner"
+  },
+  "prevails": {
+    "p": "/prɪˈveɪlz/",
+    "t": "盛行；获胜",
+    "en": "proves more powerful; becomes dominant"
+  },
+  "dollar": {
+    "p": "/ˈdɒlə/",
+    "t": "美元",
+    "en": "the basic monetary unit of the US"
+  },
+  "attributed": {
+    "p": "/əˈtrɪbjuːtɪd/",
+    "t": "归因于",
+    "en": "regarded as caused by or belonging to"
+  },
+  "oldfashioned": {
+    "p": "/ˌəʊldˈfæʃənd/",
+    "t": "老式的；守旧的",
+    "en": "traditional; not modern"
+  },
+  "grassroots": {
+    "p": "/ˈɡrɑːsruːts/",
+    "t": "基层的；草根",
+    "en": "ordinary people at a local level, not leaders"
+  },
+  "organizing": {
+    "p": "/ˈɔːɡənaɪzɪŋ/",
+    "t": "组织；组建",
+    "en": "the act of arranging or coordinating people/activities"
+  },
+  "union": {
+    "p": "/ˈjuːniən/",
+    "t": "工会；联盟",
+    "en": "an organized association of workers; a group of states or people"
+  },
+  "organizer": {
+    "p": "/ˈɔːɡənaɪzə/",
+    "t": "组织者",
+    "en": "a person who arranges or coordinates an event or activity"
+  },
+  "energized": {
+    "p": "/ˈenədʒaɪzd/",
+    "t": "使充满活力；激励",
+    "en": "given energy or enthusiasm"
+  },
+  "ascribe": {
+    "p": "/əˈskraɪb/",
+    "t": "把…归因于",
+    "en": "to attribute something to a cause or source"
+  },
+  "championed": {
+    "p": "/ˈtʃæmpiənd/",
+    "t": "支持；捍卫",
+    "en": "publicly supported or fought for"
+  },
+  "hardworking": {
+    "p": "/ˌhɑːdˈwɜːkɪŋ/",
+    "t": "勤奋的",
+    "en": "industrious; putting in great effort"
+  },
+  "fearmonger": {
+    "p": "/ˈfɪəmʌŋɡə/",
+    "t": "散布恐惧者",
+    "en": "a person who deliberately spreads fear"
+  },
+  "economies": {
+    "p": "/ɪˈkɒnəmiz/",
+    "t": "经济体；节约",
+    "en": "systems of trade and production; careful use of resources"
+  },
+  "radical": {
+    "p": "/ˈrædɪkl/",
+    "t": "激进的；根本的",
+    "en": "favoring drastic change; relating to the root"
+  },
+  "dismissing": {
+    "p": "/dɪsˈmɪsɪŋ/",
+    "t": "不予理会；解雇",
+    "en": "rejecting or ignoring; sending away"
+  },
+  "pundits": {
+    "p": "/ˈpʌndɪts/",
+    "t": "专家；评论员",
+    "en": "experts or commentators on a subject"
+  },
+  "wasted": {
+    "p": "/ˈweɪstɪd/",
+    "t": "浪费的；徒劳的",
+    "en": "used carelessly; not producing results"
+  },
+  "forecasters": {
+    "p": "/ˈfɔːkɑːstəz/",
+    "t": "预测者",
+    "en": "people who predict future events, especially weather or economics"
+  },
+  "electability": {
+    "p": "/ɪˌlektəˈbɪləti/",
+    "t": "可选举性；当选能力",
+    "en": "the likelihood of winning an election"
+  },
+  "statewide": {
+    "p": "/ˈsteɪtwaɪd/",
+    "t": "全州的",
+    "en": "extending throughout a state"
+  },
+  "skepticism": {
+    "p": "/ˈskeptɪsɪzəm/",
+    "t": "怀疑态度",
+    "en": "an attitude of doubting or questioning"
+  },
+  "outspent": {
+    "p": "/ˌaʊtˈspent/",
+    "t": "花费超过",
+    "en": "spent more money than another"
+  },
+  "outraised": {
+    "p": "/ˌaʊtˈreɪzd/",
+    "t": "筹款超过",
+    "en": "raised more funds than another"
+  },
+  "coalition": {
+    "p": "/ˌkəʊəˈlɪʃn/",
+    "t": "联盟",
+    "en": "a temporary alliance of groups or parties"
+  },
+  "independents": {
+    "p": "/ˌɪndɪˈpendənts/",
+    "t": "独立人士；无党派者",
+    "en": "voters not affiliated with a major party"
+  },
+  "crossed": {
+    "p": "/krɒst/",
+    "t": "越过；交叉",
+    "en": "went across; mixed"
+  },
+  "libertarians": {
+    "p": "/ˌlɪbəˈteəriənz/",
+    "t": "自由意志主义者",
+    "en": "people advocating maximum liberty and minimal state"
+  },
+  "stating": {
+    "p": "/ˈsteɪtɪŋ/",
+    "t": "陈述；声明",
+    "en": "expressing in words"
+  },
+  "nononsense": {
+    "p": "/ˌnəʊˈnɒnsəns/",
+    "t": "务实的；严肃的",
+    "en": "practical and direct; not tolerating foolishness"
+  },
+  "cruelty": {
+    "p": "/ˈkruːəlti/",
+    "t": "残忍",
+    "en": "behavior causing pain or suffering"
+  },
+  "corruption": {
+    "p": "/kəˈrʌpʃn/",
+    "t": "腐败",
+    "en": "dishonest or fraudulent conduct by those in power"
+  },
+  "incumbent": {
+    "p": "/ɪnˈkʌmbənt/",
+    "t": "现任者；在职的",
+    "en": "the current holder of an office; currently holding office"
+  },
+  "theft": {
+    "p": "/θeft/",
+    "t": "盗窃",
+    "en": "the act of stealing"
+  },
+  "stolen": {
+    "p": "/ˈstəʊlən/",
+    "t": "被偷的",
+    "en": "taken without permission"
+  },
+  "needy": {
+    "p": "/ˈniːdi/",
+    "t": "贫困的；需要帮助的",
+    "en": "lacking basic necessities"
+  },
+  "diverted": {
+    "p": "/daɪˈvɜːtɪd/",
+    "t": "转移；挪用",
+    "en": "changed direction or purpose"
+  },
+  "citizenled": {
+    "p": "/ˈsɪtɪzn led/",
+    "t": "由公民领导的",
+    "en": "organized or driven by ordinary citizens"
+  },
+  "frustrated": {
+    "p": "/frʌˈstreɪtɪd/",
+    "t": "沮丧的",
+    "en": "feeling annoyed or discouraged because of unmet expectations"
+  },
+  "bailing": {
+    "p": "/ˈbeɪlɪŋ/",
+    "t": "保释；放弃",
+    "en": "releasing from custody; abandoning"
+  },
+  "deescalation": {
+    "p": "/diːˌeskəˈleɪʃn/",
+    "t": "降级；缓和",
+    "en": "the reduction of intensity or severity"
+  },
+  "ceasefire": {
+    "p": "/ˈsiːsfaɪə/",
+    "t": "停火",
+    "en": "an agreement to stop fighting"
+  },
+  "ignorance": {
+    "p": "/ˈɪɡnərəns/",
+    "t": "无知",
+    "en": "lack of knowledge or information"
+  },
+  "antisemitism": {
+    "p": "/ˌæntiˈsemətɪzəm/",
+    "t": "反犹太主义",
+    "en": "hostility or prejudice against Jewish people"
+  },
+  "disservice": {
+    "p": "/dɪsˈsɜːvɪs/",
+    "t": "损害；帮倒忙",
+    "en": "an action that causes harm"
+  },
+  "regards": {
+    "p": "/rɪˈɡɑːdz/",
+    "t": "问候；关于",
+    "en": "good wishes; concerning"
+  },
+  "boycott": {
+    "p": "/ˈbɔɪkɒt/",
+    "t": "抵制",
+    "en": "withdraw from or refuse to participate as a protest"
+  },
+  "divest": {
+    "p": "/daɪˈvest/",
+    "t": "撤资；剥离",
+    "en": "to sell off assets or investments"
+  },
+  "sanction": {
+    "p": "/ˈsæŋkʃn/",
+    "t": "制裁；批准",
+    "en": "an official penalty; to authorize"
+  },
+  "descendant": {
+    "p": "/dɪˈsendənt/",
+    "t": "后代",
+    "en": "a person related to an ancestor"
+  },
+  "slaves": {
+    "p": "/sleɪvz/",
+    "t": "奴隶",
+    "en": "people owned by others and forced to work"
+  },
+  "boycotts": {
+    "p": "/ˈbɔɪkɒts/",
+    "t": "抵制行为",
+    "en": "acts of refusal to deal with as protest"
+  },
+  "demilitarizing": {
+    "p": "/diːˈmɪlɪtəraɪzɪŋ/",
+    "t": "非军事化",
+    "en": "removing military forces or weapons"
+  },
+  "cages": {
+    "p": "/keɪdʒɪz/",
+    "t": "笼子",
+    "en": "enclosures made of bars or wires"
+  },
+  "folks": {
+    "p": "/fəʊks/",
+    "t": "人们；家人",
+    "en": "people, especially those in a certain group"
+  },
+  "lessening": {
+    "p": "/ˈlesnɪŋ/",
+    "t": "减少",
+    "en": "making or becoming smaller"
+  },
+  "defund": {
+    "p": "/diːˈfʌnd/",
+    "t": "削减或取消资金",
+    "en": "to stop or reduce funding"
+  },
+  "stalking": {
+    "p": "/ˈstɔːkɪŋ/",
+    "t": "跟踪骚扰",
+    "en": "harassing or following someone obsessively"
+  },
+  "exgirlfriends": {
+    "p": "/ˈeksˌɡɜːlfrɛndz/",
+    "t": "前女友们",
+    "en": "former female romantic partners"
+  },
+  "exboyfriends": {
+    "p": "/ˈeksˌbɔɪfrɛndz/",
+    "t": "前男友们",
+    "en": "former male romantic partners"
+  },
+  "tomaytoe": {
+    "p": "/təˈmeɪtəʊ/",
+    "t": "番茄（美式发音拼写）",
+    "en": "informal spelling of tomato to indicate pronunciation"
+  },
+  "tomahtoe": {
+    "p": "/təˈmɑːtəʊ/",
+    "t": "番茄（英式发音拼写）",
+    "en": "informal spelling of tomato to indicate alternative pronunciation"
+  },
+  "clipped": {
+    "p": "/klɪpt/",
+    "t": "剪短的；快速的",
+    "en": "cut short; speaking in a brisk or curt manner"
+  },
+  "policing": {
+    "p": "/pəˈliːsɪŋ/",
+    "t": "警务；管理",
+    "en": "the enforcement of law; regulation"
+  },
+  "boards": {
+    "p": "/bɔːdz/",
+    "t": "木板；委员会",
+    "en": "flat pieces of wood; groups of officials"
+  },
+  "subsidies": {
+    "p": "/ˈsʌbsɪdiz/",
+    "t": "补贴",
+    "en": "financial support given by government"
+  },
+  "firsttime": {
+    "p": "/ˈfɜːst taɪm/",
+    "t": "首次的",
+    "en": "occurring for the first time"
+  },
+  "homebuyer": {
+    "p": "/ˈhəʊmˌbaɪə/",
+    "t": "购房者",
+    "en": "a person buying a house"
+  },
+  "trickled": {
+    "p": "/ˈtrɪkld/",
+    "t": "滴流；缓慢移动",
+    "en": "flowed slowly in drops; moved gradually"
+  },
+  "payment": {
+    "p": "/ˈpeɪmənt/",
+    "t": "付款",
+    "en": "the act of paying money"
+  },
+  "assistance": {
+    "p": "/əˈsɪstəns/",
+    "t": "帮助",
+    "en": "help or support"
+  },
+  "invested": {
+    "p": "/ɪnˈvestɪd/",
+    "t": "投资；投入",
+    "en": "put money or effort into something"
+  },
+  "streets": {
+    "p": "/striːts/",
+    "t": "街道",
+    "en": "public roads in a town or city"
+  },
+  "boxes": {
+    "p": "/ˈbɒksɪz/",
+    "t": "盒子；方框",
+    "en": "containers; square areas"
+  },
+  "ideological": {
+    "p": "/ˌaɪdiəˈlɒdʒɪkl/",
+    "t": "意识形态的",
+    "en": "relating to a system of ideas"
+  },
+  "battles": {
+    "p": "/ˈbætlz/",
+    "t": "战斗；斗争",
+    "en": "fights; struggles"
+  },
+  "neatly": {
+    "p": "/ˈniːtli/",
+    "t": "整齐地；巧妙地",
+    "en": "in an orderly or clever way"
+  },
+  "builders": {
+    "p": "/ˈbɪldəz/",
+    "t": "建筑者；建设者",
+    "en": "people or companies that construct"
+  },
+  "aggregators": {
+    "p": "/ˈæɡrɪɡeɪtəz/",
+    "t": "聚合器；汇总者",
+    "en": "entities that collect and combine content or data"
+  },
+  "straightup": {
+    "p": "/ˌstreɪt ˈʌp/",
+    "t": "直率地；确实地",
+    "en": "honestly; directly"
+  },
+  "willingly": {
+    "p": "/ˈwɪlɪŋli/",
+    "t": "愿意地",
+    "en": "in a ready or voluntary manner"
+  },
+  "paramilitary": {
+    "p": "/ˌpærəˈmɪlɪtri/",
+    "t": "准军事的",
+    "en": "organized like a military force but not official"
+  },
+  "shooting": {
+    "p": "/ˈʃuːtɪŋ/",
+    "t": "射击；枪击",
+    "en": "the act of firing a gun; an incident of gunfire"
+  },
+  "masked": {
+    "p": "/mɑːskt/",
+    "t": "戴面具的",
+    "en": "wearing a mask"
+  },
+  "slaughtered": {
+    "p": "/ˈslɔːtəd/",
+    "t": "屠杀；屠宰",
+    "en": "killed in large numbers; butchered"
+  },
+  "banking": {
+    "p": "/ˈbæŋkɪŋ/",
+    "t": "银行业务",
+    "en": "the business of managing money via banks"
+  },
+  "normalized": {
+    "p": "/ˈnɔːməlaɪzd/",
+    "t": "正常化的；标准化的",
+    "en": "made normal or standard"
+  },
+  "ruining": {
+    "p": "/ˈruːɪnɪŋ/",
+    "t": "毁坏",
+    "en": "destroying or spoiling"
+  },
+  "wrists": {
+    "p": "/rɪsts/",
+    "t": "手腕",
+    "en": "the joints connecting hands to arms"
+  },
+  "progressed": {
+    "p": "/prəˈɡrest/",
+    "t": "进展",
+    "en": "moved forward or developed"
+  },
+  "armjuddering": {
+    "p": "/ɑːm ˈdʒʌdərɪŋ/",
+    "t": "手臂颤抖",
+    "en": "shaking of the arm"
+  },
+  "radiating": {
+    "p": "/ˈreɪdieɪtɪŋ/",
+    "t": "辐射；扩散",
+    "en": "emitting or spreading out"
+  },
+  "wrist": {
+    "p": "/rɪst/",
+    "t": "手腕",
+    "en": "the joint between hand and forearm"
+  },
+  "surprisingly": {
+    "p": "/səˈpraɪzɪŋli/",
+    "t": "惊人地",
+    "en": "in an unexpected way"
+  },
+  "enable": {
+    "p": "/ɪˈneɪbl/",
+    "t": "使能够",
+    "en": "to make possible or allow"
+  },
+  "balls": {
+    "p": "/bɔːlz/",
+    "t": "球；球状物",
+    "en": "round objects; spherical bodies"
+  },
+  "racquet": {
+    "p": "/ˈrækɪt/",
+    "t": "球拍",
+    "en": "a sports bat with strings"
+  },
+  "damaged": {
+    "p": "/ˈdæmɪdʒd/",
+    "t": "受损的",
+    "en": "harmed or impaired"
+  },
+  "comprising": {
+    "p": "/kəmˈpraɪzɪŋ/",
+    "t": "包含",
+    "en": "consisting of or including"
+  },
+  "joints": {
+    "p": "/dʒɔɪnts/",
+    "t": "关节",
+    "en": "connections between bones"
+  },
+  "bones": {
+    "p": "/bəʊnz/",
+    "t": "骨骼",
+    "en": "hard parts of the body"
+  },
+  "carpal": {
+    "p": "/ˈkɑːpl/",
+    "t": "腕骨的",
+    "en": "relating to the wrist bones"
+  },
+  "forearm": {
+    "p": "/ˈfɔːrɑːm/",
+    "t": "前臂",
+    "en": "the part of arm between elbow and wrist"
+  },
+  "bases": {
+    "p": "/ˈbeɪsiːz/",
+    "t": "基部",
+    "en": "bottom parts or foundations"
+  },
+  "metacarpal": {
+    "p": "/ˌmetəˈkɑːpl/",
+    "t": "掌骨的",
+    "en": "relating to hand bones between wrist and fingers"
+  },
+  "ligament": {
+    "p": "/ˈlɪɡəmənt/",
+    "t": "韧带",
+    "en": "tissue connecting bones"
+  },
+  "finelytuned": {
+    "p": "/ˈfaɪnli tjuːnd/",
+    "t": "精心调节的",
+    "en": "precisely adjusted"
+  },
+  "equilibrium": {
+    "p": "/ˌiːkwɪˈlɪbriəm/",
+    "t": "平衡",
+    "en": "state of balance"
+  },
+  "osteoarthritis": {
+    "p": "/ˌɒstioʊɑːˈθraɪtɪs/",
+    "t": "骨关节炎",
+    "en": "degenerative joint disease"
+  },
+  "posttraumatic": {
+    "p": "/ˌpoʊsttrɔːˈmætɪk/",
+    "t": "创伤后的",
+    "en": "following an injury"
+  },
+  "cartilage": {
+    "p": "/ˈkɑːtɪlɪdʒ/",
+    "t": "软骨",
+    "en": "flexible tissue at joints"
+  },
+  "cushioning": {
+    "p": "/ˈkʊʃənɪŋ/",
+    "t": "缓冲",
+    "en": "softening impact"
+  },
+  "misaligned": {
+    "p": "/ˌmɪsəˈlaɪnd/",
+    "t": "错位的",
+    "en": "out of proper alignment"
+  },
+  "injuries": {
+    "p": "/ˈɪndʒəriz/",
+    "t": "伤害",
+    "en": "damages or wounds"
+  },
+  "ligaments": {
+    "p": "/ˈlɪɡəmənts/",
+    "t": "韧带",
+    "en": "tissues connecting bones"
+  },
+  "inflammation": {
+    "p": "/ˌɪnfləˈmeɪʃn/",
+    "t": "炎症",
+    "en": "redness, swelling, heat"
+  },
+  "overuse": {
+    "p": "/ˌoʊvərˈjuːs/",
+    "t": "过度使用",
+    "en": "using too much"
+  },
+  "repetitive": {
+    "p": "/rɪˈpetətɪv/",
+    "t": "重复的",
+    "en": "occurring again and again"
+  },
+  "trauma": {
+    "p": "/ˈtrɔːmə/",
+    "t": "创伤",
+    "en": "physical injury"
+  },
+  "twisting": {
+    "p": "/ˈtwɪstɪŋ/",
+    "t": "扭转",
+    "en": "turning or bending"
+  },
+  "tripping": {
+    "p": "/ˈtrɪpɪŋ/",
+    "t": "绊倒",
+    "en": "stumbling or falling"
+  },
+  "outstretched": {
+    "p": "/ˌaʊtˈstretʃt/",
+    "t": "伸出的",
+    "en": "extended fully"
+  },
+  "sentinel": {
+    "p": "/ˈsentɪnl/",
+    "t": "哨兵；前哨",
+    "en": "guard or indicator"
+  },
+  "declining": {
+    "p": "/dɪˈklaɪnɪŋ/",
+    "t": "下降的",
+    "en": "decreasing or worsening"
+  },
+  "progresses": {
+    "p": "/prəˈɡresɪz/",
+    "t": "进展",
+    "en": "moves forward"
+  },
+  "devotes": {
+    "p": "/dɪˈvoʊts/",
+    "t": "奉献",
+    "en": "gives time or attention to"
+  },
+  "cortex": {
+    "p": "/ˈkɔːteks/",
+    "t": "皮层",
+    "en": "outer layer of an organ"
+  },
+  "cortical": {
+    "p": "/ˈkɔːrtɪkəl/",
+    "t": "皮层的",
+    "en": "relating to the cortex"
+  },
+  "homunculus": {
+    "p": "/həˈmʌŋkjələs/",
+    "t": "侏儒；小人",
+    "en": "a miniature human figure"
+  },
+  "mapping": {
+    "p": "/ˈmæpɪŋ/",
+    "t": "映射",
+    "en": "representing or associating"
+  },
+  "fingers": {
+    "p": "/ˈfɪŋɡərz/",
+    "t": "手指",
+    "en": "digits of the hand"
+  },
+  "sixties": {
+    "p": "/ˈsɪkstiz/",
+    "t": "六十岁",
+    "en": "age between 60 and 69"
+  },
+  "assessed": {
+    "p": "/əˈsest/",
+    "t": "评估",
+    "en": "evaluated or judged"
+  },
+  "frail": {
+    "p": "/freɪl/",
+    "t": "虚弱的",
+    "en": "weak and delicate"
+  },
+  "fractures": {
+    "p": "/ˈfræktʃərz/",
+    "t": "骨折",
+    "en": "breaks in bones"
+  },
+  "orthopaedic": {
+    "p": "/ˌɔːrθəˈpiːdɪk/",
+    "t": "骨科的",
+    "en": "relating to bones and joints"
+  },
+  "surgeon": {
+    "p": "/ˈsɜːrdʒən/",
+    "t": "外科医生",
+    "en": "doctor who performs operations"
+  },
+  "calcium": {
+    "p": "/ˈkælsiəm/",
+    "t": "钙",
+    "en": "essential mineral for bones"
+  },
+  "sardines": {
+    "p": "/sɑːrˈdiːnz/",
+    "t": "沙丁鱼",
+    "en": "small oily fish"
+  },
+  "dairy": {
+    "p": "/ˈderi/",
+    "t": "乳制品",
+    "en": "milk products"
+  },
+  "shedding": {
+    "p": "/ˈʃedɪŋ/",
+    "t": "脱落",
+    "en": "losing or casting off"
+  },
+  "biomechanics": {
+    "p": "/ˌbaɪoʊməˈkænɪks/",
+    "t": "生物力学",
+    "en": "mechanics of biological systems"
+  },
+  "homebased": {
+    "p": "/ˈhoʊmbeɪst/",
+    "t": "居家进行的",
+    "en": "done at home"
+  },
+  "workouts": {
+    "p": "/ˈwɜːrkaʊts/",
+    "t": "锻炼",
+    "en": "exercise sessions"
+  },
+  "repetitions": {
+    "p": "/ˌrepɪˈtɪʃnz/",
+    "t": "重复次数",
+    "en": "counts of repeated actions"
+  },
+  "resting": {
+    "p": "/ˈrestɪŋ/",
+    "t": "休息",
+    "en": "taking a break"
+  },
+  "deltoids": {
+    "p": "/ˈdɛltoɪdz/",
+    "t": "三角肌",
+    "en": "shoulder muscles"
+  },
+  "muscle": {
+    "p": "/ˈmʌsl/",
+    "t": "肌肉",
+    "en": "body tissue that contracts"
+  },
+  "greatly": {
+    "p": "/ˈɡreɪtli/",
+    "t": "极大地",
+    "en": "to a large degree"
+  },
+  "unload": {
+    "p": "/ˌʌnˈloʊd/",
+    "t": "卸下",
+    "en": "remove load from"
+  },
+  "shoulder": {
+    "p": "/ˈʃoʊldər/",
+    "t": "肩膀",
+    "en": "joint connecting arm to trunk"
+  },
+  "sides": {
+    "p": "/saɪdz/",
+    "t": "方面，立场；侧",
+    "en": "positions or aspects in a dispute"
+  },
+  "ceiling": {
+    "p": "/ˈsiːlɪŋ/",
+    "t": "天花板",
+    "en": "upper surface of a room"
+  },
+  "conditioning": {
+    "p": "/kənˈdɪʃənɪŋ/",
+    "t": "调节；训练",
+    "en": "training or improving fitness"
+  },
+  "flexors": {
+    "p": "/ˈfleksərz/",
+    "t": "屈肌",
+    "en": "muscles that bend joints"
+  },
+  "extensors": {
+    "p": "/ɪkˈstensərz/",
+    "t": "伸肌",
+    "en": "muscles that straighten joints"
+  },
+  "pulley": {
+    "p": "/ˈpʊli/",
+    "t": "滑轮",
+    "en": "wheel with rope used to lift"
+  },
+  "therapeutic": {
+    "p": "/ˌθerəˈpjuːtɪk/",
+    "t": "治疗的",
+    "en": "having healing properties"
+  },
+  "putty": {
+    "p": "/ˈpʌti/",
+    "t": "油灰",
+    "en": "a soft material for sealing"
+  },
+  "siliconebased": {
+    "p": "/ˌsɪlɪkoʊnˈbeɪst/",
+    "t": "硅基的",
+    "en": "made with silicone"
+  },
+  "squeeze": {
+    "p": "/skwiːz/",
+    "t": "挤压",
+    "en": "press firmly"
+  },
+  "tendons": {
+    "p": "/ˈtendənz/",
+    "t": "肌腱",
+    "en": "tissues connecting muscle to bone"
+  },
+  "extend": {
+    "p": "/ɪkˈstend/",
+    "t": "延伸",
+    "en": "make longer or wider"
+  },
+  "longerterm": {
+    "p": "/ˈlɔːŋɡər tɜːrm/",
+    "t": "长期",
+    "en": "over a longer period"
+  },
+  "disuse": {
+    "p": "/ˌdɪsˈjuːs/",
+    "t": "废弃",
+    "en": "lack of use"
+  },
+  "osteopenia": {
+    "p": "/ˌɒstioʊˈpiːniə/",
+    "t": "骨量减少",
+    "en": "low bone density"
+  },
+  "loaded": {
+    "p": "/ˈloʊdɪd/",
+    "t": "负重",
+    "en": "carrying weight"
+  },
+  "remodel": {
+    "p": "/ˌriːˈmɒdl/",
+    "t": "重塑",
+    "en": "shape again or renew"
+  },
+  "flexion": {
+    "p": "/ˈflekʃn/",
+    "t": "屈曲",
+    "en": "bending a joint"
+  },
+  "lowering": {
+    "p": "/ˈloʊərɪŋ/",
+    "t": "降低",
+    "en": "moving downward"
+  },
+  "downwards": {
+    "p": "/ˈdaʊnwərdz/",
+    "t": "向下",
+    "en": "toward a lower position"
+  },
+  "weights": {
+    "p": "/weɪts/",
+    "t": "重物",
+    "en": "heavy objects for exercise"
+  },
+  "supination": {
+    "p": "/ˌsuːpɪˈneɪʃn/",
+    "t": "旋后",
+    "en": "rotation of palm upward"
+  },
+  "pronation": {
+    "p": "/proʊˈneɪʃn/",
+    "t": "旋前",
+    "en": "rotation of palm downward"
+  },
+  "functionality": {
+    "p": "/ˌfʌŋkʃəˈnæləti/",
+    "t": "功能性",
+    "en": "ability to function"
+  },
+  "thumb": {
+    "p": "/θʌm/",
+    "t": "拇指",
+    "en": "short first digit of hand"
+  },
+  "futureproof": {
+    "p": "/ˈfjuːtʃər pruːf/",
+    "t": "面向未来的",
+    "en": "unlikely to become obsolete"
+  },
+  "knees": {
+    "p": "/niːz/",
+    "t": "膝盖",
+    "en": "joints between thigh and leg"
+  },
+  "pronated": {
+    "p": "/ˈproʊneɪtɪd/",
+    "t": "旋前的",
+    "en": "turned palm downward"
+  },
+  "flexible": {
+    "p": "/ˈfleksəbl/",
+    "t": "灵活的",
+    "en": "able to bend easily"
+  },
+  "skyrocketed": {
+    "p": "/ˈskaɪˌrɒkɪtɪd/",
+    "t": "猛涨，飞涨",
+    "en": "increased rapidly"
+  },
+  "proclaiming": {
+    "p": "/prəˈkleɪmɪŋ/",
+    "t": "宣告，声明",
+    "en": "announcing publicly"
+  },
+  "epicenter": {
+    "p": "/ˈepɪsentə/",
+    "t": "震中；中心",
+    "en": "the central point of an earthquake or event"
+  },
+  "imposed": {
+    "p": "/ɪmˈpəʊzd/",
+    "t": "强加，施加",
+    "en": "forced or established by authority"
+  },
+  "audit": {
+    "p": "/ˈɔːdɪt/",
+    "t": "审计，查账",
+    "en": "official examination of accounts"
+  },
+  "reelection": {
+    "p": "/ˌriːɪˈlekʃn/",
+    "t": "连任，重选",
+    "en": "election again for another term"
+  },
+  "aboutface": {
+    "p": "/əˌbaʊtˈfeɪs/",
+    "t": "彻底转变；向后转",
+    "en": "a complete change of opinion or direction"
+  },
+  "analyzed": {
+    "p": "/ˈænəlaɪzd/",
+    "t": "分析，解析",
+    "en": "examined in detail"
+  },
+  "newsletters": {
+    "p": "/ˈnjuːzˌletəz/",
+    "t": "时事通讯，简报",
+    "en": "periodic publications with news"
+  },
+  "portrayed": {
+    "p": "/pɔːˈtreɪd/",
+    "t": "描绘，饰演",
+    "en": "depicted or represented"
+  },
+  "lieutenant": {
+    "p": "/lefˈtenənt/",
+    "t": "中尉；副官",
+    "en": "a junior officer or deputy"
+  },
+  "emblematic": {
+    "p": "/ˌembləˈmætɪk/",
+    "t": "象征的，典型的",
+    "en": "serving as a symbol"
+  },
+  "flipped": {
+    "p": "/flɪpt/",
+    "t": "翻转，急转",
+    "en": "turned over or changed suddenly"
+  },
+  "downsides": {
+    "p": "/ˈdaʊnsaɪdz/",
+    "t": "缺点，不利方面",
+    "en": "negative aspects"
+  },
+  "elites": {
+    "p": "/ɪˈliːts/",
+    "t": "精英，上层人士",
+    "en": "privileged or powerful groups"
+  },
+  "generalized": {
+    "p": "/ˈdʒenrəlaɪzd/",
+    "t": "概括的；普遍的",
+    "en": "made general or widespread"
+  },
+  "manifestation": {
+    "p": "/ˌmænɪfeˈsteɪʃn/",
+    "t": "表现，显现",
+    "en": "a visible sign or expression"
+  },
+  "anchor": {
+    "p": "/ˈæŋkə/",
+    "t": "锚；主持人；支柱",
+    "en": "a device to hold fast; a mainstay or broadcaster"
+  },
+  "tossup": {
+    "p": "/ˈtɒsʌp/",
+    "t": "难以预料的事；掷币决定",
+    "en": "an even chance or uncertain outcome"
+  },
+  "bullish": {
+    "p": "/ˈbʊlɪʃ/",
+    "t": "看涨的；乐观的",
+    "en": "expecting prices to rise; optimistic"
+  },
+  "portray": {
+    "p": "/pɔːˈtreɪ/",
+    "t": "描绘，表现",
+    "en": "depict or represent"
+  },
+  "inaugurating": {
+    "p": "/ɪˈnɔːɡjəreɪtɪŋ/",
+    "t": "开创；举行就职典礼",
+    "en": "beginning or officially installing"
+  },
+  "manufacturing": {
+    "p": "/ˌmænjuˈfæktʃərɪŋ/",
+    "t": "制造业，生产",
+    "en": "the production of goods"
+  },
+  "promoting": {
+    "p": "/prəˈməʊtɪŋ/",
+    "t": "促进，宣传",
+    "en": "supporting or advertising"
+  },
+  "prodata": {
+    "p": "/prəʊˈdeɪtə/",
+    "t": "支持数据的（非标准词）",
+    "en": "in favor of data (nonstandard)"
+  },
+  "governors": {
+    "p": "/ˈɡʌvənəz/",
+    "t": "州长；管理者",
+    "en": "elected leaders of states or institutions"
+  },
+  "district": {
+    "p": "/ˈdɪstrɪkt/",
+    "t": "地区，行政区",
+    "en": "a defined area or region"
+  },
+  "overseas": {
+    "p": "/ˌəʊvəˈsiːz/",
+    "t": "海外的，国外的",
+    "en": "in or to foreign countries"
+  },
+  "extraction": {
+    "p": "/ɪkˈstrækʃn/",
+    "t": "提取，开采；血统",
+    "en": "the act of removing; origin"
+  },
+  "jacking": {
+    "p": "/ˈdʒækɪŋ/",
+    "t": "抬高，提高",
+    "en": "raising (often prices) forcefully"
+  },
+  "sucking": {
+    "p": "/ˈsʌkɪŋ/",
+    "t": "吸，抽；糟糕",
+    "en": "drawing in; being bad (slang)"
+  },
+  "politician": {
+    "p": "/ˌpɒləˈtɪʃn/",
+    "t": "政治家，政客",
+    "en": "a person in politics"
+  },
+  "wonderful": {
+    "p": "/ˈwʌndəfl/",
+    "t": "极好的，精彩的",
+    "en": "extremely good or pleasant"
+  },
+  "tribune": {
+    "p": "/ˈtrɪbjuːn/",
+    "t": "论坛；护民官",
+    "en": "a platform or a people's advocate"
+  },
+  "thoughtful": {
+    "p": "/ˈθɔːtfl/",
+    "t": "深思的；体贴的",
+    "en": "showing careful thought or consideration"
+  },
+  "analyzing": {
+    "p": "/ˈænəlaɪzɪŋ/",
+    "t": "分析中",
+    "en": "examining in detail"
+  },
+  "mitigating": {
+    "p": "/ˈmɪtɪɡeɪtɪŋ/",
+    "t": "减轻，缓和",
+    "en": "lessening severity or harm"
+  },
+  "screw": {
+    "p": "/skruː/",
+    "t": "螺丝；拧；搞砸",
+    "en": "a fastener; to twist; to ruin (slang)"
+  },
+  "polarized": {
+    "p": "/ˈpəʊləraɪzd/",
+    "t": "两极分化的",
+    "en": "divided into opposing extremes"
+  },
+  "ought": {
+    "p": "/ɔːt/",
+    "t": "应该，应当",
+    "en": "used to indicate duty or correctness"
+  },
+  "generational": {
+    "p": "/ˌdʒenəˈreɪʃənl/",
+    "t": "世代的，代际的",
+    "en": "relating to a generation"
+  },
+  "realignment": {
+    "p": "/ˌriːəˈlaɪnmənt/",
+    "t": "重新组合，重新调整",
+    "en": "a fresh arrangement or alliance"
+  },
+  "libertarianadjacent": {
+    "p": "/ˌlɪbəˈteəriənəˈdʒeɪsnt/",
+    "t": "与自由意志主义相近的（复合词）",
+    "en": "close to libertarian views (compound)"
+  },
+  "innovative": {
+    "p": "/ˈɪnəvətɪv/",
+    "t": "创新的，革新的",
+    "en": "introducing new ideas or methods"
+  },
+  "incorrect": {
+    "p": "/ˌɪnkəˈrekt/",
+    "t": "不正确的，错误的",
+    "en": "not correct; wrong"
+  },
+  "heaviest": {
+    "p": "/ˈheviɪst/",
+    "t": "最重的",
+    "en": "most heavy"
+  },
+  "ditch": {
+    "p": "/dɪtʃ/",
+    "t": "沟渠；抛弃",
+    "en": "a narrow channel dug in the ground; to get rid of"
+  },
+  "whenever": {
+    "p": "/wenˈevə(r)/",
+    "t": "无论何时；每当",
+    "en": "at any time; every time"
+  },
+  "pouches": {
+    "p": "/ˈpaʊtʃɪz/",
+    "t": "小袋；育儿袋",
+    "en": "small bags or pockets"
+  },
+  "fridge": {
+    "p": "/frɪdʒ/",
+    "t": "冰箱",
+    "en": "refrigerator"
+  },
+  "canned": {
+    "p": "/kænd/",
+    "t": "罐装的",
+    "en": "preserved in a can"
+  },
+  "cupboard": {
+    "p": "/ˈkʌbəd/",
+    "t": "橱柜",
+    "en": "a cabinet with shelves"
+  },
+  "sellby": {
+    "p": "/ˈselbaɪ/",
+    "t": "保质期",
+    "en": "date before which food should be sold"
+  },
+  "indicates": {
+    "p": "/ˈɪndɪkeɪts/",
+    "t": "表明；指示",
+    "en": "shows or points out"
+  },
+  "pesticides": {
+    "p": "/ˈpestɪsaɪdz/",
+    "t": "杀虫剂",
+    "en": "chemicals used to kill pests"
+  },
+  "phthalates": {
+    "p": "/ˈθæleɪts/",
+    "t": "邻苯二甲酸盐",
+    "en": "chemicals used to make plastics flexible"
+  },
+  "hazardous": {
+    "p": "/ˈhæzədəs/",
+    "t": "危险的",
+    "en": "dangerous"
+  },
+  "seeping": {
+    "p": "/ˈsiːpɪŋ/",
+    "t": "渗漏",
+    "en": "leaking slowly"
+  },
+  "peerreviewed": {
+    "p": "/ˌpɪə rɪˈvjuːd/",
+    "t": "同行评审的",
+    "en": "evaluated by experts in the field"
+  },
+  "contaminate": {
+    "p": "/kənˈtæmɪneɪt/",
+    "t": "污染",
+    "en": "make impure by contact"
+  },
+  "elephant": {
+    "p": "/ˈelɪfənt/",
+    "t": "大象",
+    "en": "large mammal with trunk"
+  },
+  "nonprofit": {
+    "p": "/ˌnɒnˈprɒfɪt/",
+    "t": "非营利的",
+    "en": "not making profit"
+  },
+  "highlighting": {
+    "p": "/ˈhaɪlaɪtɪŋ/",
+    "t": "强调",
+    "en": "emphasizing"
+  },
+  "collaborated": {
+    "p": "/kəˈlæbəreɪtɪd/",
+    "t": "合作",
+    "en": "worked together"
+  },
+  "regard": {
+    "p": "/rɪˈɡɑːd/",
+    "t": "认为；关于",
+    "en": "consider; respect"
+  },
+  "proverbial": {
+    "p": "/prəˈvɜːbiəl/",
+    "t": "谚语的；众所周知的",
+    "en": "well-known; as in a proverb"
+  },
+  "lamppost": {
+    "p": "/ˈlæmppəʊst/",
+    "t": "灯柱",
+    "en": "post supporting a street light"
+  },
+  "lists": {
+    "p": "/lɪsts/",
+    "t": "列表",
+    "en": "series of items"
+  },
+  "maximize": {
+    "p": "/ˈmæksɪmaɪz/",
+    "t": "最大化",
+    "en": "increase to greatest possible"
+  },
+  "priority": {
+    "p": "/praɪˈɒrəti/",
+    "t": "优先事项",
+    "en": "thing that is more important"
+  },
+  "obtained": {
+    "p": "/əbˈteɪnd/",
+    "t": "获得",
+    "en": "got"
+  },
+  "governmental": {
+    "p": "/ˌɡʌvənˈmentl/",
+    "t": "政府的",
+    "en": "relating to government"
+  },
+  "regulatory": {
+    "p": "/ˈreɡjələtəri/",
+    "t": "监管的",
+    "en": "relating to regulation"
+  },
+  "hazards": {
+    "p": "/ˈhæzədz/",
+    "t": "危险物",
+    "en": "dangers"
+  },
+  "concentrate": {
+    "p": "/ˈkɒnsəntreɪt/",
+    "t": "集中；浓缩",
+    "en": "focus; make stronger"
+  },
+  "yielded": {
+    "p": "/jiːldɪd/",
+    "t": "产生；屈服",
+    "en": "produced; gave way"
+  },
+  "ranked": {
+    "p": "/ræŋkt/",
+    "t": "排名",
+    "en": "given a position in a scale"
+  },
+  "tiers": {
+    "p": "/tɪəz/",
+    "t": "等级；层",
+    "en": "levels or layers"
+  },
+  "foodcontact": {
+    "p": "/ˈfuːdˌkɒntækt/",
+    "t": "与食品接触的",
+    "en": "in contact with food"
+  },
+  "breast": {
+    "p": "/brest/",
+    "t": "乳房；胸部",
+    "en": "part of body; front of chest"
+  },
+  "phasing": {
+    "p": "/ˈfeɪzɪŋ/",
+    "t": "分阶段进行",
+    "en": "gradually introducing"
+  },
+  "systemdamaging": {
+    "p": "/ˈsɪstəmˌdæmɪdʒɪŋ/",
+    "t": "损害系统的",
+    "en": "harming bodily systems"
+  },
+  "wrappers": {
+    "p": "/ˈræpəz/",
+    "t": "包装纸",
+    "en": "coverings for food"
+  },
+  "grease": {
+    "p": "/ɡriːs/",
+    "t": "油脂",
+    "en": "oily substance"
+  },
+  "waterresistant": {
+    "p": "/ˈwɔːtə rɪˈzɪstənt/",
+    "t": "防水的",
+    "en": "able to resist water"
+  },
+  "carcinogen": {
+    "p": "/kɑːˈsɪnədʒən/",
+    "t": "致癌物",
+    "en": "substance causing cancer"
+  },
+  "styrene": {
+    "p": "/ˈstaɪriːn/",
+    "t": "苯乙烯",
+    "en": "chemical used in plastics"
+  },
+  "packages": {
+    "p": "/ˈpækɪdʒɪz/",
+    "t": "包装；包裹",
+    "en": "containers or parcels"
+  },
+  "refrigerated": {
+    "p": "/rɪˈfrɪdʒəreɪtɪd/",
+    "t": "冷藏的",
+    "en": "kept cold"
+  },
+  "hormonedisrupting": {
+    "p": "/ˈhɔːməʊn dɪsˈrʌptɪŋ/",
+    "t": "干扰激素的",
+    "en": "interfering with hormones"
+  },
+  "plastics": {
+    "p": "/ˈplæstɪks/",
+    "t": "塑料",
+    "en": "synthetic materials"
+  },
+  "vegetable": {
+    "p": "/ˈvedʒtəbl/",
+    "t": "蔬菜",
+    "en": "plant food"
+  },
+  "bisphenol": {
+    "p": "/ˈbɪsfənɒl/",
+    "t": "双酚",
+    "en": "chemical compound in plastics"
+  },
+  "linings": {
+    "p": "/ˈlaɪnɪŋz/",
+    "t": "内衬",
+    "en": "inner layers"
+  },
+  "poster": {
+    "p": "/ˈpəʊstə(r)/",
+    "t": "海报",
+    "en": "large printed notice"
+  },
+  "endocrine": {
+    "p": "/ˈendəkrɪn/",
+    "t": "内分泌的",
+    "en": "relating to hormone system"
+  },
+  "disruptors": {
+    "p": "/dɪsˈrʌptəz/",
+    "t": "干扰物",
+    "en": "things that disrupt"
+  },
+  "impair": {
+    "p": "/ɪmˈpeə(r)/",
+    "t": "损害",
+    "en": "weaken or damage"
+  },
+  "leaching": {
+    "p": "/liːtʃɪŋ/",
+    "t": "沥滤",
+    "en": "dissolving out"
+  },
+  "infant": {
+    "p": "/ˈɪnfənt/",
+    "t": "婴儿",
+    "en": "baby"
+  },
+  "formula": {
+    "p": "/ˈfɔːmjələ/",
+    "t": "配方奶；公式",
+    "en": "baby milk; mathematical rule"
+  },
+  "fatty": {
+    "p": "/ˈfæti/",
+    "t": "脂肪的",
+    "en": "containing fat"
+  },
+  "leach": {
+    "p": "/liːtʃ/",
+    "t": "滤出",
+    "en": "drain away"
+  },
+  "biomonitoring": {
+    "p": "/ˌbaɪəʊˈmɒnɪtərɪŋ/",
+    "t": "生物监测",
+    "en": "monitoring biological substances"
+  },
+  "synthetic": {
+    "p": "/sɪnˈθetɪk/",
+    "t": "合成的",
+    "en": "artificial"
+  },
+  "textiles": {
+    "p": "/ˈtekstaɪlz/",
+    "t": "纺织品",
+    "en": "woven fabrics"
+  },
+  "personalcare": {
+    "p": "/ˈpɜːsənl keə/",
+    "t": "个人护理",
+    "en": "products for body care"
+  },
+  "mixture": {
+    "p": "/ˈmɪkstʃə(r)/",
+    "t": "混合物",
+    "en": "combination"
+  },
+  "allocation": {
+    "p": "/ˌæləˈkeɪʃn/",
+    "t": "分配",
+    "en": "distribution"
+  },
+  "regulated": {
+    "p": "/ˈreɡjuleɪtɪd/",
+    "t": "受监管的",
+    "en": "controlled by rules"
+  },
+  "proposal": {
+    "p": "/prəˈpəʊzl/",
+    "t": "提议",
+    "en": "suggestion"
+  },
+  "escapes": {
+    "p": "/ɪˈskeɪps/",
+    "t": "逃脱",
+    "en": "gets away"
+  },
+  "toxicity": {
+    "p": "/tɒkˈsɪsəti/",
+    "t": "毒性",
+    "en": "degree of being poisonous"
+  },
+  "infertility": {
+    "p": "/ˌɪnfɜːˈtɪləti/",
+    "t": "不孕不育",
+    "en": "inability to conceive"
+  },
+  "stainless": {
+    "p": "/ˈsteɪnləs/",
+    "t": "不锈的",
+    "en": "resistant to rust"
+  },
+  "classified": {
+    "p": "/ˈklæsɪfaɪd/",
+    "t": "分类的；机密的",
+    "en": "categorized; secret"
+  },
+  "inert": {
+    "p": "/ɪˈnɜːt/",
+    "t": "惰性的",
+    "en": "chemically inactive"
+  },
+  "indepth": {
+    "p": "/ˌɪnˈdepθ/",
+    "t": "深入的",
+    "en": "thorough"
+  },
+  "reused": {
+    "p": "/ˌriːˈjuːzd/",
+    "t": "重复使用",
+    "en": "used again"
+  },
+  "proof": {
+    "p": "/pruːf/",
+    "t": "证据；防…的",
+    "en": "evidence; resistant"
+  },
+  "represent": {
+    "p": "/ˌreprɪˈzent/",
+    "t": "代表",
+    "en": "stand for"
+  },
+  "foodpacking": {
+    "p": "/ˈfuːdˌpækɪŋ/",
+    "t": "食品包装",
+    "en": "packaging for food"
+  },
+  "maintains": {
+    "p": "/meɪnˈteɪnz/",
+    "t": "维持；坚持",
+    "en": "keeps; asserts"
+  },
+  "addressed": {
+    "p": "/əˈdrest/",
+    "t": "处理；演讲",
+    "en": "dealt with; spoke to"
+  },
+  "combinations": {
+    "p": "/ˌkɒmbɪˈneɪʃnz/",
+    "t": "组合",
+    "en": "mixtures"
+  },
+  "migrate": {
+    "p": "/maɪˈɡreɪt/",
+    "t": "迁移；转移",
+    "en": "move from one place to another"
+  },
+  "nonintentionally": {
+    "p": "/ˌnɒnɪnˈtenʃənəli/",
+    "t": "非故意地",
+    "en": "not on purpose"
+  },
+  "producers": {
+    "p": "/prəˈdjuːsəz/",
+    "t": "生产者",
+    "en": "makers"
+  },
+  "proprietary": {
+    "p": "/prəˈpraɪətri/",
+    "t": "专有的",
+    "en": "privately owned"
+  },
+  "juices": {
+    "p": "/dʒuːsɪz/",
+    "t": "果汁",
+    "en": "liquids from fruits"
+  },
+  "pureed": {
+    "p": "/ˈpjʊəreɪd/",
+    "t": "泥状的",
+    "en": "mashed to smooth consistency"
+  },
+  "serving": {
+    "p": "/ˈsɜːvɪŋ/",
+    "t": "一份",
+    "en": "portion of food"
+  },
+  "sterilized": {
+    "p": "/ˈsterəlaɪzd/",
+    "t": "消毒的",
+    "en": "made free of germs"
+  },
+  "drives": {
+    "p": "/draɪvz/",
+    "t": "驱动；推动",
+    "en": "propels; motivates"
+  },
+  "microplastics": {
+    "p": "/ˈmaɪkrəʊˌplæstɪks/",
+    "t": "微塑料",
+    "en": "tiny plastic particles"
+  },
+  "packaged": {
+    "p": "/ˈpækɪdʒd/",
+    "t": "包装好的",
+    "en": "wrapped in packages"
+  },
+  "lacked": {
+    "p": "/lækt/",
+    "t": "缺乏",
+    "en": "did not have"
+  },
+  "adequate": {
+    "p": "/ˈædɪkwət/",
+    "t": "足够的",
+    "en": "sufficient"
+  },
+  "impurities": {
+    "p": "/ɪmˈpjʊərətiz/",
+    "t": "杂质",
+    "en": "unwanted substances"
+  },
+  "consuming": {
+    "p": "/kənˈsjuːmɪŋ/",
+    "t": "消耗；食用",
+    "en": "eating or using"
+  },
+  "pouched": {
+    "p": "/paʊtʃt/",
+    "t": "装在袋中的",
+    "en": "packed in pouches"
+  },
+  "delays": {
+    "p": "/dɪˈleɪz/",
+    "t": "延迟",
+    "en": "postpones"
+  },
+  "similarities": {
+    "p": "/ˌsɪməˈlærətiz/",
+    "t": "相似之处",
+    "en": "resemblances"
+  },
+  "organophosphates": {
+    "p": "/ˌɔːɡənəʊˈfɒsfeɪts/",
+    "t": "有机磷酸酯",
+    "en": "chemicals in pesticides"
+  },
+  "flame": {
+    "p": "/fleɪm/",
+    "t": "火焰",
+    "en": "burning gas"
+  },
+  "retardants": {
+    "p": "/rɪˈtɑːdənts/",
+    "t": "阻燃剂",
+    "en": "chemicals that slow fire"
+  },
+  "harms": {
+    "p": "/hɑːmz/",
+    "t": "伤害",
+    "en": "damages"
   }
 }
