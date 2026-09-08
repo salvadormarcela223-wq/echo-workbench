@@ -180,7 +180,7 @@ function parseListDate(html, base, sel) {
   }
   const seen = new Set(); const uniq = [];
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
-  return uniq.slice(0, 15);
+  return uniq;
 }
 
 function parseHTML(html, base, sel) {
@@ -202,7 +202,7 @@ function parseHTML(html, base, sel) {
   }
   const seen = new Set(); const uniq = [];
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
-  return uniq.slice(0, 15);
+  return uniq;
 }
 
 (async () => {
@@ -239,9 +239,7 @@ function parseHTML(html, base, sel) {
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) {} }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期(已回源文章页仍找不到)，已跳过`); continue; }
-            // 陈旧过滤：超过 45 天的一律不要
-            const ageDays = Math.round((Date.now() - pubDate) / 86400000);
-            if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
+            // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
               title: it.title,
               link: it.link,
@@ -257,7 +255,7 @@ function parseHTML(html, base, sel) {
             });
             seen.add(it.link);
           }
-          feed[grp] = add.concat(arr).slice(0, 60);
+          feed[grp] = add.concat(arr); // 全部留存：不再设条数上限（用户 2026-09-08 要求）
           newCount += add.length;
           if (add.length) console.log(`  >> 新增 ${add.length} 条`);
         }

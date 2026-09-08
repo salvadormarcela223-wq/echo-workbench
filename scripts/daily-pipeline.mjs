@@ -6,12 +6,13 @@
 //   5) 提交并推送（读取桌面令牌，不删除）
 // 用法：
 //   node scripts/daily-pipeline.mjs           # 完整跑（含发布+推送）
-//   node scripts/daily-pipeline.mjs --test    # 只跑 1~3（抓取+AI填充+质检），不发布不推送，用于验证
+//   node scripts/daily-pipeline.mjs --test    # 只跑 1~3（抓取+AI填充+质检），不发布不推送（⚠️ 会真实消耗 DeepSeek）
+//   node scripts/daily-pipeline.mjs --dry     # 只跑抓取，绝不调用 DeepSeek（0 token 消耗），验证抓取/编排改动首选
 import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { enrich } from './ai-enrich.mjs';
+import { enrich, buildTasks } from './ai-enrich.mjs';
 import { validate } from './validate-feed.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -21,6 +22,9 @@ const LIVE = path.join(ROOT, 'data/feed.json');
 const FEEDJS = path.join(ROOT, 'assets/js/feed.js');
 const TOKEN_FILE = 'C:/Users/VOOPOO/Desktop/GitHub pat.txt';
 const TEST = process.argv.includes('--test');
+// --dry：只跑抓取、绝不调用 DeepSeek（0 token 消耗）
+// 验证「抓取/编排」类改动一律用 --dry，别再用 --test（曾因此白烧 89 次 AI 调用）
+const DRY = process.argv.includes('--dry');
 
 function run(cmd) {
   console.log('\n$ ' + cmd);
@@ -41,21 +45,45 @@ function tryRun(cmd, label) {
 }
 
 (async () => {
-  console.log('===== Echo 每日流水线 ' + (TEST ? '(TEST 模式)' : '(发布模式)') + ' =====');
+  console.log('===== Echo 每日流水线 ' + (DRY ? '(DRY 模式：只抓取·不调用 AI)' : TEST ? '(TEST 模式)' : '(发布模式)') + ' =====');
 
   // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
   //    各版块独立抓取：任一块失败只跳过该块，不再因单点故障冻结整站更新
   tryRun('node scripts/fetch-news.mjs --write', '行业资讯抓取');
   tryRun('node scripts/fetch-wechat.mjs --write', '微信行业资讯抓取');   // 微信通道为已知死通道，失败不再拖垮全站
   tryRun('node scripts/fetch-insights.mjs --write', '专业提升抓取');
-  tryRun('node scripts/fetch-readings.mjs --draft', '英语阅读抓取');
+  tryRun('node scripts/fetch-readings.mjs --draft' + (DRY ? ' --dry' : ''), '英语阅读抓取');
 
   // 2. AI 填充解读（DeepSeek）——循环补填直到全满或连续失败
   //    单轮可能因速率限制/超时漏掉部分条目（如首次跑64/86条），必须自动追补
+  // --dry：只统计待富集条数，绝不调用 DeepSeek（0 token 消耗），验证抓取/编排改动一律用它
+  if (DRY) {
+    const dryFeed = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^\uFEFF/, ''));
+    const pend = buildTasks(dryFeed);
+    const newsPend = pend.filter((t) => t.group === 'news').length;
+    const insPend = pend.filter((t) => t.group === 'insights').length;
+    console.log('\n（--dry 模式：未调用 DeepSeek，本次 0 次 AI 调用、0 token 消耗）');
+    console.log(`[预览] 若正式发布，将向 DeepSeek 发送 ${pend.length} 条（行业资讯 ${newsPend} / 专业提升 ${insPend}）`);
+    console.log('\n✅ 抓取编排验证完成（--dry 不发布、不推送）');
+    process.exit(0);
+  }
+
+  // TEST 模式会真实调用 DeepSeek，先报个数，避免又稀里糊涂烧掉一大笔
+  if (TEST) {
+    const t = buildTasks(JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^\uFEFF/, '')));
+    console.log(`\n⚠️ TEST 模式会真实调用 DeepSeek，预计发送 ${t.length} 条（会产生 token 消耗）`);
+    console.log('   若只是验证抓取/编排，请改用 --dry（0 消耗）');
+  }
+
   const MAX_ENRICH_ROUNDS = 3;
+  // 每条最多送 2 次 AI（单次调用内部已各自重试 3 次），防止顽固条目每轮都被重发、白烧 token
+  const MAX_ATTEMPTS_PER_ITEM = 2;
+  const attempts = new Map(); // key -> 已尝试次数
   for (let round = 1; round <= MAX_ENRICH_ROUNDS; round++) {
     console.log(`\n--- AI 填充 第 ${round}/${MAX_ENRICH_ROUNDS} 轮 ---`);
-    const res = await enrich(DRAFT);
+    const skip = new Set([...attempts.entries()].filter(([, n]) => n >= MAX_ATTEMPTS_PER_ITEM).map(([k]) => k));
+    const res = await enrich(DRAFT, { skip });
+    (res.attempted || []).forEach((k) => attempts.set(k, (attempts.get(k) || 0) + 1));
     if (res.fail > 0) console.log(`⚠️ 本轮 ${res.fail} 条失败`);
 
     // 每轮结束后检查还有多少空字段
@@ -80,18 +108,7 @@ function tryRun(cmd, label) {
 
   // 3. 严格质检（impact 必须已填）
   const draft = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
-  // 3.5 发布前清理超过 45 天的旧行业资讯（保持新鲜，避免单条陈旧拦住整库发布）
-  const before = (draft.news || []).length;
-  draft.news = (draft.news || []).filter((it) => {
-    if (!it.date) return true;
-    const age = Math.round((Date.now() - new Date(it.date)) / 86400000);
-    return age <= 45;
-  });
-  const pruned = before - (draft.news || []).length;
-  if (pruned > 0) {
-    fs.writeFileSync(DRAFT, JSON.stringify(draft, null, 2));
-    console.log(`🧹 已清理 ${pruned} 条超 45 天的陈旧行业资讯`);
-  }
+  // 全部留存：按用户 2026-09-08 要求，发布前不再清理任何陈旧条目（原 45 天 prune 逻辑已移除）
   const report = validate(draft, {});
   if (!report.ok) {
     console.log('\n❌ 严格质检未通过，中止发布。致命问题：');

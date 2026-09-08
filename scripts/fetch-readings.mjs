@@ -320,10 +320,14 @@ async function main() {
     }
 
     const vocab = buildVocab(articleText, bank);
-    await enrichVocab(vocab, bank, glossary);
+    // DRY（只抓取验证）时跳过需要 DeepSeek 的生词补全 → 0 token
+    if (!DRY) await enrichVocab(vocab, bank, glossary);
     let cn = '', phrases = [];
     try {
-      if (articleText.length >= 20) {
+      // DRY（只抓取验证）时绝不调用 DeepSeek 做全文翻译 —— 那是 token 消耗大户
+      if (DRY) {
+        console.log('  · [DRY] 跳过全文翻译与地道表达提取（0 token）');
+      } else if (articleText.length >= 20) {
         cn = await translateFullText(articleText);
         phrases = await extractPhrases(articleText);
         console.log('  ✓ 已生成中文翻译(' + cn.length + '字)与地道表达(' + phrases.length + '个)');

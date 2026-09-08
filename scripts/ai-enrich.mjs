@@ -188,28 +188,43 @@ function isBadSummary(v) {
   return false;
 }
 
-export async function enrich(feedPath) {
-  if (!KEY) KEY = loadKey();
-  const feed = JSON.parse(fs.readFileSync(feedPath, 'utf-8').replace(/^\uFEFF/, ''));
+// 构建「待富集」任务清单（纯本地计算，绝不调用 DeepSeek）
+// 供正式富集与 --dry 预览共用：在花 token 之前先看清楚要发多少条
+export function buildTasks(feed) {
   const tasks = [];
   (feed.news || []).forEach((it, idx) => {
     const miss = [];
     if (isEmpty(it.impact)) miss.push('impact');
     if (isBadSummary(it.summary)) miss.push('summary');
-    if (miss.length) tasks.push({ group: 'news', idx, missing: miss });
+    if (miss.length) tasks.push({ group: 'news', idx, missing: miss, key: `news:${idx}` });
   });
   (feed.insights || []).forEach((it, idx) => {
     const miss = [];
     if (isEmpty(it.core)) miss.push('core');
     if (isEmpty(it.view)) miss.push('view');
     if (isEmpty(it.action)) miss.push('action');
-    if (miss.length) tasks.push({ group: 'insights', idx, missing: miss });
+    if (miss.length) tasks.push({ group: 'insights', idx, missing: miss, key: `insights:${idx}` });
   });
+  return tasks;
+}
+
+// opts.skip: Set<key> —— 已尝试到上限、仍填不满的条目不再重复送 AI
+// （防止顽固条目每轮都被重发，白烧 DeepSeek token）
+export async function enrich(feedPath, opts = {}) {
+  if (!KEY) KEY = loadKey();
+  const feed = JSON.parse(fs.readFileSync(feedPath, 'utf-8').replace(/^\uFEFF/, ''));
+  const skip = opts.skip || new Set();
+  const all = buildTasks(feed);
+  const tasks = all.filter((t) => !skip.has(t.key));
+  const skipped = all.length - tasks.length;
+  if (skipped > 0) console.log(`[ai-enrich] 跳过 ${skipped} 条已达尝试上限的条目（避免重复烧 token）`);
 
   let ok = 0, fail = 0;
+  const attempted = [];
   console.log(`\n[ai-enrich] 待富集条目：${tasks.length}`);
   for (const t of tasks) {
     const it = feed[t.group][t.idx];
+    attempted.push(t.key);
     try {
       const content = await askWithRetry(buildPrompt(it, t.group, t.missing));
       const obj = extractJSON(content);
@@ -225,7 +240,7 @@ export async function enrich(feedPath) {
   feed.updatedAt = new Date().toISOString();
   fs.writeFileSync(feedPath, JSON.stringify(feed, null, 2), 'utf-8');
   console.log(`[ai-enrich] 完成：成功 ${ok}，失败 ${fail}，已写回 ${feedPath}`);
-  return { total: tasks.length, ok, fail };
+  return { total: tasks.length, ok, fail, attempted };
 }
 
 // CLI

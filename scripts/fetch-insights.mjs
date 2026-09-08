@@ -66,7 +66,7 @@ function parseBrowser(html, base, articleRe) {
   }
   const seen = new Set(); const uniq = [];
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
-  return uniq.slice(0, 15);
+  return uniq;
 }
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA|About|Working at Innova|Vacancies|Global Reach|All news|Business|New product development|Download|Newsletter subscription|Careers|Media Kit|Advertise|Contact us|Terms of Use|Privacy Policy|Cookie Policy)$/i;
 // 地区导航页/平台概览页 URL 模式（不是真正的文章或报告）
@@ -188,7 +188,7 @@ function parseHTML(html, base, sel) {
   }
   const seen = new Set(); const uniq = [];
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
-  return uniq.slice(0, 15);
+  return uniq;
 }
 // 回源文章页抓真实发布日期（同 fetch-news 策略）：meta published_time / <time datetime> / 文本日期
 async function deriveDate(link) {
@@ -279,8 +279,7 @@ function readFeed() {
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(itLink); } catch (e) { } }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
-            const ageDays = Math.round((Date.now() - pubDate) / 86400000);
-            if (ageDays > 45) { rejected.push(`[${grp}] ${it.title} -> 已陈旧(${ageDays}天)，已跳过`); continue; }
+            // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
               title: it.title, source: s.name, link: itLink,
               topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
@@ -289,10 +288,10 @@ function readFeed() {
             });
             seen.add(itLink);
           }
-          const capped = add.slice(0, 3); // 深度分析，每天最多 3 篇
-          feed[grp] = capped.concat(arr).slice(0, 120); // 上限放宽到120，避免挤掉存量内容
-          newCount += capped.length;
-          if (capped.length) console.log(`  >> 新增 ${capped.length} 条`);
+          // 全部留存：去掉「每源每天 3 条」与「120 条上限」（用户 2026-09-08 要求）
+          feed[grp] = add.concat(arr);
+          newCount += add.length;
+          if (add.length) console.log(`  >> 新增 ${add.length} 条`);
         }
       } catch (e) { console.log(`\n=== [${grp}] ${s.name} 失败: ${e.message} ===`); }
     }

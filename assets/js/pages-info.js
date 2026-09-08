@@ -26,7 +26,7 @@ function tagColor(map, key) {
   const heatBar = n => '<span class="heat">' + [1, 2, 3, 4, 5].map(i => '<i class="' + (i <= (n || 3) ? 'on' : '') + '"></i>').join('') + '</span>';
 
   /* ================= 板块一 · 行业资讯 ================= */
-  let nFilter = '全部', nQuery = '';
+  let nFilter = '全部', nQuery = '', nShow = 30; // nShow：分页——每次多加载 30 条（全部留存后的性能兜底）
 
   window.Pages.news = function (view) {
     view.innerHTML = '<div class="scroll"><div class="wrap page" id="pgBody"></div></div>';
@@ -76,7 +76,7 @@ function tagColor(map, key) {
       (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
         '<thead><tr><th style="min-width:82px">日期</th><th style="min-width:230px">资讯标题</th><th style="min-width:82px">分类</th>' +
         '<th style="min-width:300px">要点摘要</th><th style="min-width:250px">影响解读</th><th style="min-width:56px">热度</th><th style="width:66px"></th></tr></thead><tbody>' +
-        list.map(n =>
+        list.slice(0, nShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
           '<td><div class="td-title">' + (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
@@ -89,12 +89,14 @@ function tagColor(map, key) {
           '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
           '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
           '</div></td></tr>').join('') +
-        '</tbody></table></div></div>'
+        '</tbody></table></div></div>' + (list.length > nShow ? '<div style="text-align:center;margin:14px 0"><button class="btn" id="nMore">加载更多 · 已显示 ' + Math.min(nShow, list.length) + ' / ' + list.length + '</button></div>' : '')
         : emptyBox('没有匹配的资讯'));
 
-    box.querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { nFilter = b.dataset.cat; paintNews(); });
+    box.querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { nFilter = b.dataset.cat; nShow = 30; paintNews(); });
     const q = document.getElementById('nQ');
-    q.oninput = () => { nQuery = q.value; const p = q.selectionStart; paintNews(); const q2 = document.getElementById('nQ'); q2.focus(); q2.setSelectionRange(p, p); };
+    q.oninput = () => { nQuery = q.value; nShow = 30; const p = q.selectionStart; paintNews(); const q2 = document.getElementById('nQ'); q2.focus(); q2.setSelectionRange(p, p); };
+    const moreN = document.getElementById('nMore');
+    if (moreN) moreN.onclick = () => { nShow += 30; paintNews(); };
     document.getElementById('nAdd').onclick = () => newsForm(null);
     box.querySelectorAll('[data-ed]').forEach(b => b.onclick = () => newsForm(S.find('news', b.dataset.ed)));
     box.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => {
@@ -130,7 +132,7 @@ function tagColor(map, key) {
   }
 
   /* ================= 板块二 · 专业提升 ================= */
-  let iFilter = '全部', iQuery = '';
+  let iFilter = '全部', iQuery = '', iShow = 30; // iShow：分页——每次多加载 30 条
 
   window.Pages.insight = function (view) {
     view.innerHTML = '<div class="scroll"><div class="wrap page" id="pgBody"></div></div>';
@@ -177,7 +179,7 @@ function tagColor(map, key) {
       (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
         '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
         '<th style="min-width:320px">核心内容</th><th style="min-width:330px">顾问视角</th><th style="min-width:220px">行动建议</th><th style="width:66px"></th></tr></thead><tbody>' +
-        list.map(n =>
+        list.slice(0, iShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
           '<td><span class="tag ' + tagColor(T_COLOR, n.topic) + '">' + esc(n.topic || '未分类') + '</span></td>' +
@@ -191,12 +193,14 @@ function tagColor(map, key) {
           '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
           '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
           '</div></td></tr>').join('') +
-        '</tbody></table></div></div>'
+        '</tbody></table></div></div>' + (list.length > iShow ? '<div style="text-align:center;margin:14px 0"><button class="btn" id="iMore">加载更多 · 已显示 ' + Math.min(iShow, list.length) + ' / ' + list.length + '</button></div>' : '')
         : emptyBox('没有匹配的情报'));
 
-    box.querySelectorAll('[data-tp]').forEach(b => b.onclick = () => { iFilter = b.dataset.tp; paintInsight(); });
+    box.querySelectorAll('[data-tp]').forEach(b => b.onclick = () => { iFilter = b.dataset.tp; iShow = 30; paintInsight(); });
     const q = document.getElementById('iQ');
-    q.oninput = () => { iQuery = q.value; const p = q.selectionStart; paintInsight(); const q2 = document.getElementById('iQ'); q2.focus(); q2.setSelectionRange(p, p); };
+    q.oninput = () => { iQuery = q.value; iShow = 30; const p = q.selectionStart; paintInsight(); const q2 = document.getElementById('iQ'); q2.focus(); q2.setSelectionRange(p, p); };
+    const moreI = document.getElementById('iMore');
+    if (moreI) moreI.onclick = () => { iShow += 30; paintInsight(); };
     document.getElementById('iAdd').onclick = () => insightForm(null);
     box.querySelectorAll('[data-ed]').forEach(b => b.onclick = () => insightForm(S.find('insights', b.dataset.ed)));
     box.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => {

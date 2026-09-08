@@ -50,23 +50,8 @@ export function validate(feed, opts = {}) {
   const report = { critical: [], warnings: [], readings: null };
   const groups = ['news', 'insights'];
   const seenLinks = new Map();
-  // —— 自检清理（根治：单条陈旧绝不卡死整库发布）——
-  // 超过 45 天的行业资讯直接丢弃（记警告，不阻断）。这样即便某次抓取/合并残留旧数据，
-  // 闸门也会自动清掉它并继续发布，无需人工干预，杜绝"又停更"。
-  const STALE_DAYS = 45;
-  for (const g of groups) {
-    if (g !== 'news') continue;            // 仅行业资讯执行保鲜清理；专业提升保留更长价值
-    if (!Array.isArray(feed[g])) continue;
-    const kept = [];
-    for (const it of feed[g]) {
-      if (it && it.date) {
-        const age = Math.round((Date.now() - new Date(it.date).getTime()) / 86400000);
-        if (age > STALE_DAYS) { report.warnings.push(`${g} 内容已陈旧(${age}天)，超过${STALE_DAYS}天上限，已自动丢弃（不阻断发布）`); continue; }
-      }
-      kept.push(it);
-    }
-    feed[g] = kept;
-  }
+  // 注意：按用户 2026-09-08 要求「全部留存」，闸门不再因时间久远而丢弃任何条目。
+  // 陈旧条目仅作信息性提示，绝不删除，避免再次卡死整库发布。
   // 先收集所有空字段，再统一判断是否超容忍度（CI 安全网）
   const emptyFields = [];
   for (const g of groups) {
