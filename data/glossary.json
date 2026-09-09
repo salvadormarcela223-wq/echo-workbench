@@ -40363,5 +40363,240 @@
     "p": "/ədˈvɑːnsɪŋ/",
     "t": "前进；推进",
     "en": "moving forward; making progress"
+  },
+  "favored": {
+    "p": "/ˈfeɪvərd/",
+    "t": "受偏爱的；有利的",
+    "en": "preferred; treated with special favor"
+  },
+  "greets": {
+    "p": "/ɡriːts/",
+    "t": "问候；迎接",
+    "en": "welcomes or addresses with a greeting"
+  },
+  "lovethyneighbor": {
+    "p": "/lʌv ðaɪ ˈneɪbər/",
+    "t": "爱邻如己（圣经训诫）",
+    "en": "the biblical command to love one's neighbor as oneself"
+  },
+  "stopthedivision": {
+    "p": "/stɒp ðə dɪˈvɪʒən/",
+    "t": "停止分裂",
+    "en": "an appeal to end political or social division"
+  },
+  "pinned": {
+    "p": "/pɪnd/",
+    "t": "钉住；固定；牵制",
+    "en": "fastened or held in place; unable to move"
+  },
+  "redblue": {
+    "p": "/red bluː/",
+    "t": "红蓝（美国两党色标）",
+    "en": "referring to red (Republican) and blue (Democratic) states in US politics"
+  },
+  "warfare": {
+    "p": "/ˈwɔːfeər/",
+    "t": "战争；斗争",
+    "en": "the activity of fighting a war, often used metaphorically"
+  },
+  "embracing": {
+    "p": "/ɪmˈbreɪsɪŋ/",
+    "t": "拥抱；欣然接受",
+    "en": "holding closely; accepting willingly"
+  },
+  "disgruntled": {
+    "p": "/dɪsˈɡrʌntld/",
+    "t": "不满的；不高兴的",
+    "en": "angry or dissatisfied"
+  },
+  "rates": {
+    "p": "/reɪts/",
+    "t": "比率；费率；评价",
+    "en": "measurements of frequency or cost; to assess or value"
+  },
+  "addressing": {
+    "p": "/əˈdresɪŋ/",
+    "t": "处理；演讲；写地址",
+    "en": "dealing with; speaking to; writing an address on"
+  },
+  "costofliving": {
+    "p": "/kɒst əv ˈlɪvɪŋ/",
+    "t": "生活成本",
+    "en": "the amount of money needed to sustain a basic standard of living"
+  },
+  "pragmatic": {
+    "p": "/præɡˈmætɪk/",
+    "t": "务实的；实用的",
+    "en": "dealing with things practically rather than theoretically"
+  },
+  "auditor": {
+    "p": "/ˈɔːdɪtər/",
+    "t": "审计员；旁听者",
+    "en": "a person who examines financial records; a listener"
+  },
+  "registration": {
+    "p": "/ˌredʒɪˈstreɪʃən/",
+    "t": "登记；注册",
+    "en": "the act of recording or enrolling officially"
+  },
+  "mansion": {
+    "p": "/ˈmænʃən/",
+    "t": "大厦；豪宅",
+    "en": "a large, impressive house"
+  },
+  "candidacy": {
+    "p": "/ˈkændɪdəsi/",
+    "t": "候选资格",
+    "en": "the state of being a candidate in an election"
+  },
+  "redder": {
+    "p": "/ˈredər/",
+    "t": "更红的",
+    "en": "more red in color or more Republican-leaning"
+  },
+  "swing": {
+    "p": "/swɪŋ/",
+    "t": "摇摆；摆动；秋千",
+    "en": "to move back and forth; a swinging movement or seat"
+  },
+  "electorate": {
+    "p": "/ɪˈlektərət/",
+    "t": "全体选民",
+    "en": "all the people entitled to vote in an election"
+  },
+  "campaigning": {
+    "p": "/kæmˈpeɪnɪŋ/",
+    "t": "竞选活动",
+    "en": "the act of running for office or promoting a cause"
+  },
+  "hammering": {
+    "p": "/ˈhæmərɪŋ/",
+    "t": "锤打；抨击",
+    "en": "striking repeatedly; harsh criticism"
+  },
+  "clinics": {
+    "p": "/ˈklɪnɪks/",
+    "t": "诊所；门诊部",
+    "en": "healthcare facilities for outpatient treatment"
+  },
+  "hospitals": {
+    "p": "/ˈhɒspɪtlz/",
+    "t": "医院",
+    "en": "institutions providing medical care and treatment"
+  },
+  "reconciliation": {
+    "p": "/ˌrekənsɪliˈeɪʃən/",
+    "t": "和解；调和",
+    "en": "restoration of friendly relations; making compatible"
+  },
+  "nominee": {
+    "p": "/ˌnɒmɪˈniː/",
+    "t": "被提名人；候选人",
+    "en": "a person officially proposed for a position or office"
+  },
+  "stamp": {
+    "p": "/stæmp/",
+    "t": "邮票；印章；踩脚",
+    "en": "a small adhesive label for postage; an imprinting tool; to strike with foot"
+  },
+  "puppet": {
+    "p": "/ˈpʌpɪt/",
+    "t": "木偶；傀儡",
+    "en": "a movable doll manipulated by strings; a person controlled by others"
+  },
+  "empower": {
+    "p": "/ɪmˈpaʊər/",
+    "t": "授权；使能够",
+    "en": "to give power or authority to someone"
+  },
+  "majorities": {
+    "p": "/məˈdʒɒrɪtiz/",
+    "t": "多数；大多数",
+    "en": "more than half of a group; larger numbers"
+  },
+  "modeling": {
+    "p": "/ˈmɒdəlɪŋ/",
+    "t": "建模；模特工作",
+    "en": "the act of representing or demonstrating; working as a model"
+  },
+  "donuts": {
+    "p": "/ˈdəʊnʌts/",
+    "t": "甜甜圈",
+    "en": "sweet fried dough pastries, typically ring-shaped"
+  },
+  "goofy": {
+    "p": "/ˈɡuːfi/",
+    "t": "傻乎乎的；滑稽的",
+    "en": "silly or foolish in an amusing way"
+  },
+  "detriment": {
+    "p": "/ˈdetrɪmənt/",
+    "t": "损害；伤害",
+    "en": "harm or damage"
+  },
+  "strike": {
+    "p": "/straɪk/",
+    "t": "罢工；打击；撞击",
+    "en": "to hit; a work stoppage; an attack"
+  },
+  "moderates": {
+    "p": "/ˈmɒdərəts/",
+    "t": "温和派；缓和",
+    "en": "people with moderate views; to make less extreme"
+  },
+  "centrists": {
+    "p": "/ˈsentrɪsts/",
+    "t": "中间派；温和派",
+    "en": "people with political views in the middle of the spectrum"
+  },
+  "commonsense": {
+    "p": "/ˌkɒmən ˈsens/",
+    "t": "常识",
+    "en": "sound practical judgment in everyday matters"
+  },
+  "sends": {
+    "p": "/sendz/",
+    "t": "发送；派遣",
+    "en": "causes to go or be carried to a destination"
+  },
+  "registered": {
+    "p": "/ˈredʒɪstərd/",
+    "t": "已注册的；登记的",
+    "en": "officially recorded or enrolled"
+  },
+  "applaud": {
+    "p": "/əˈplɔːd/",
+    "t": "鼓掌；称赞",
+    "en": "clap hands in approval; praise strongly"
+  },
+  "verse": {
+    "p": "/vɜːs/",
+    "t": "诗；韵文；一节",
+    "en": "a line of poetry; a section of a song or poem"
+  },
+  "frames": {
+    "p": "/freɪmz/",
+    "t": "框架；结构；陷害",
+    "en": "structures that support or enclose; to set in a frame; to falsely incriminate"
+  },
+  "parties": {
+    "p": "/ˈpɑːtiz/",
+    "t": "政党；聚会；当事人",
+    "en": "political groups; social gatherings; people involved in a legal matter"
+  },
+  "kumbaya": {
+    "p": "/kʊmˈbaɪə/",
+    "t": "库姆巴亚（赞美诗，象征和睦）",
+    "en": "a spiritual song often used to symbolize unity or harmony"
+  },
+  "criticizing": {
+    "p": "/ˈkrɪtɪsaɪzɪŋ/",
+    "t": "批评；指责",
+    "en": "pointing out faults; expressing disapproval"
+  },
+  "replicate": {
+    "p": "/ˈreplɪkeɪt/",
+    "t": "复制；重复",
+    "en": "to make an exact copy; to reproduce"
   }
 }
