@@ -40598,5 +40598,765 @@
     "p": "/ˈreplɪkeɪt/",
     "t": "复制；重复",
     "en": "to make an exact copy; to reproduce"
+  },
+  "attacking": {
+    "p": "/əˈtækɪŋ/",
+    "t": "攻击；抨击",
+    "en": "launching an attack; criticizing"
+  },
+  "synchronise": {
+    "p": "/ˈsɪŋkrənaɪz/",
+    "t": "使同步",
+    "en": "cause to occur at the same time"
+  },
+  "jammers": {
+    "p": "/ˈdʒæməz/",
+    "t": "干扰器",
+    "en": "devices that interfere with signals"
+  },
+  "toweringly": {
+    "p": "/ˈtaʊərɪŋli/",
+    "t": "高耸地；极其",
+    "en": "in a towering manner; extremely"
+  },
+  "pepper": {
+    "p": "/ˈpepə/",
+    "t": "胡椒；撒满",
+    "en": "a spice; to sprinkle"
+  },
+  "beard": {
+    "p": "/bɪəd/",
+    "t": "胡须",
+    "en": "facial hair on the chin"
+  },
+  "wireframed": {
+    "p": "/ˈwaɪəfreɪmd/",
+    "t": "线框的",
+    "en": "represented as a wireframe"
+  },
+  "glasses": {
+    "p": "/ˈɡlɑːsɪz/",
+    "t": "眼镜",
+    "en": "eyeglasses"
+  },
+  "impish": {
+    "p": "/ˈɪmpɪʃ/",
+    "t": "顽皮的",
+    "en": "mischievous"
+  },
+  "hivis": {
+    "p": "/ˈhaɪvɪz/",
+    "t": "高可见度的",
+    "en": "high-visibility"
+  },
+  "displayed": {
+    "p": "/dɪˈspleɪd/",
+    "t": "展示；显示",
+    "en": "shown; exhibited"
+  },
+  "rabbit": {
+    "p": "/ˈræbɪt/",
+    "t": "兔子",
+    "en": "a small burrowing mammal"
+  },
+  "metrology": {
+    "p": "/mɪˈtrɒlədʒi/",
+    "t": "计量学",
+    "en": "the science of measurement"
+  },
+  "nickname": {
+    "p": "/ˈnɪkneɪm/",
+    "t": "昵称",
+    "en": "an informal name"
+  },
+  "attendees": {
+    "p": "/əˌtenˈdiːz/",
+    "t": "出席者",
+    "en": "people who attend"
+  },
+  "openair": {
+    "p": "/ˌəʊpənˈeə/",
+    "t": "露天的",
+    "en": "outdoors"
+  },
+  "hacking": {
+    "p": "/ˈhækɪŋ/",
+    "t": "黑客行为",
+    "en": "gaining unauthorized access"
+  },
+  "festival": {
+    "p": "/ˈfestɪvl/",
+    "t": "节日",
+    "en": "a celebration or event"
+  },
+  "satellite": {
+    "p": "/ˈsætəlaɪt/",
+    "t": "卫星",
+    "en": "an object orbiting a planet"
+  },
+  "receivers": {
+    "p": "/rɪˈsiːvəz/",
+    "t": "接收器",
+    "en": "devices that receive signals"
+  },
+  "clocks": {
+    "p": "/klɒks/",
+    "t": "时钟",
+    "en": "timekeeping devices"
+  },
+  "withstand": {
+    "p": "/wɪðˈstænd/",
+    "t": "承受",
+    "en": "to resist or endure"
+  },
+  "ultraaccurate": {
+    "p": "/ˌʌltrəˈækjərət/",
+    "t": "超精确的",
+    "en": "extremely precise"
+  },
+  "telecommunications": {
+    "p": "/ˌtelikəˌmjuːnɪˈkeɪʃnz/",
+    "t": "电信",
+    "en": "communication over distance"
+  },
+  "transit": {
+    "p": "/ˈtrænzɪt/",
+    "t": "运输；过境",
+    "en": "the act of moving people or goods"
+  },
+  "synchronisation": {
+    "p": "/ˌsɪŋkrənaɪˈzeɪʃn/",
+    "t": "同步",
+    "en": "the act of synchronizing"
+  },
+  "transmissions": {
+    "p": "/trænzˈmɪʃnz/",
+    "t": "传输",
+    "en": "broadcasts or signals sent"
+  },
+  "overwhelmed": {
+    "p": "/ˌəʊvəˈwelmd/",
+    "t": "压倒",
+    "en": "overpowered or flooded"
+  },
+  "hijacked": {
+    "p": "/ˈhaɪdʒækt/",
+    "t": "劫持",
+    "en": "illegally seized or taken over"
+  },
+  "nefarious": {
+    "p": "/nɪˈfeəriəs/",
+    "t": "邪恶的",
+    "en": "wicked or criminal"
+  },
+  "fullscale": {
+    "p": "/ˈfʊlskeɪl/",
+    "t": "全尺寸的；全面的",
+    "en": "complete or full-size"
+  },
+  "invasion": {
+    "p": "/ɪnˈveɪʒn/",
+    "t": "入侵",
+    "en": "an act of invading"
+  },
+  "aviation": {
+    "p": "/ˌeɪviˈeɪʃn/",
+    "t": "航空",
+    "en": "the operation of aircraft"
+  },
+  "jamming": {
+    "p": "/ˈdʒæmɪŋ/",
+    "t": "干扰",
+    "en": "interfering with signals"
+  },
+  "border": {
+    "p": "/ˈbɔːdə/",
+    "t": "边界",
+    "en": "a boundary line"
+  },
+  "occurrence": {
+    "p": "/əˈkʌrəns/",
+    "t": "发生；事件",
+    "en": "an event or happening"
+  },
+  "picturesque": {
+    "p": "/ˌpɪktʃəˈresk/",
+    "t": "风景如画的",
+    "en": "visually charming"
+  },
+  "scenery": {
+    "p": "/ˈsiːnəri/",
+    "t": "风景",
+    "en": "natural landscape"
+  },
+  "waffle": {
+    "p": "/ˈwɒfl/",
+    "t": "华夫饼；胡扯",
+    "en": "a batter cake; to talk vaguely"
+  },
+  "buffet": {
+    "p": "/ˈbʊfeɪ/",
+    "t": "自助餐；冲击",
+    "en": "a self-serve meal; to strike"
+  },
+  "manipulated": {
+    "p": "/məˈnɪpjuleɪtɪd/",
+    "t": "操纵",
+    "en": "controlled or influenced"
+  },
+  "modelling": {
+    "p": "/ˈmɒdəlɪŋ/",
+    "t": "建模；模特工作",
+    "en": "creating models"
+  },
+  "whitehat": {
+    "p": "/ˈwaɪthæt/",
+    "t": "白帽（黑客）",
+    "en": "an ethical hacker"
+  },
+  "hackathons": {
+    "p": "/ˈhækəθɒnz/",
+    "t": "黑客马拉松",
+    "en": "coding events"
+  },
+  "hackers": {
+    "p": "/ˈhækəz/",
+    "t": "黑客",
+    "en": "people who hack computers"
+  },
+  "probe": {
+    "p": "/prəʊb/",
+    "t": "探查；探测器",
+    "en": "to investigate; a device"
+  },
+  "chinks": {
+    "p": "/tʃɪŋks/",
+    "t": "裂缝；弱点",
+    "en": "narrow openings; weaknesses"
+  },
+  "cybersecurity": {
+    "p": "/ˌsaɪbəsɪˈkjʊərəti/",
+    "t": "网络安全",
+    "en": "protection of computer systems"
+  },
+  "armour": {
+    "p": "/ˈɑːmə/",
+    "t": "盔甲；防护",
+    "en": "protective covering"
+  },
+  "software": {
+    "p": "/ˈsɒftweə/",
+    "t": "软件",
+    "en": "programs for computers"
+  },
+  "attended": {
+    "p": "/əˈtendɪd/",
+    "t": "出席",
+    "en": "was present at"
+  },
+  "cabinstyle": {
+    "p": "/ˈkæbɪnstaɪl/",
+    "t": "小木屋风格的",
+    "en": "resembling a cabin"
+  },
+  "spill": {
+    "p": "/spɪl/",
+    "t": "溢出；泄露",
+    "en": "to cause to flow out; to divulge"
+  },
+  "unleashed": {
+    "p": "/ʌnˈliːʃt/",
+    "t": "释放",
+    "en": "released from restraint"
+  },
+  "staged": {
+    "p": "/steɪdʒd/",
+    "t": "上演；分阶段的",
+    "en": "presented; arranged in stages"
+  },
+  "manipulation": {
+    "p": "/məˌnɪpjuˈleɪʃn/",
+    "t": "操纵",
+    "en": "the act of controlling"
+  },
+  "spoofing": {
+    "p": "/ˈspuːfɪŋ/",
+    "t": "欺骗；伪装",
+    "en": "faking or impersonating"
+  },
+  "hijacking": {
+    "p": "/ˈhaɪdʒækɪŋ/",
+    "t": "劫持",
+    "en": "illegal seizure"
+  },
+  "receiver": {
+    "p": "/rɪˈsiːvə/",
+    "t": "接收器",
+    "en": "a device that receives signals"
+  },
+  "wipeout": {
+    "p": "/ˈwaɪpaʊt/",
+    "t": "彻底失败；覆灭",
+    "en": "total destruction or failure"
+  },
+  "stitching": {
+    "p": "/ˈstɪtʃɪŋ/",
+    "t": "缝纫；拼接",
+    "en": "joining with stitches"
+  },
+  "synchronised": {
+    "p": "/ˈsɪŋkrənaɪzd/",
+    "t": "同步的",
+    "en": "made to occur together"
+  },
+  "installing": {
+    "p": "/ɪnˈstɔːlɪŋ/",
+    "t": "安装",
+    "en": "setting up equipment or software"
+  },
+  "precision": {
+    "p": "/prɪˈsɪʒn/",
+    "t": "精确",
+    "en": "exactness"
+  },
+  "slowburn": {
+    "p": "/ˈsləʊbɜːn/",
+    "t": "缓慢发展的",
+    "en": "developing gradually"
+  },
+  "timingbased": {
+    "p": "/ˈtaɪmɪŋbeɪst/",
+    "t": "基于时间的",
+    "en": "dependent on timing"
+  },
+  "sneak": {
+    "p": "/sniːk/",
+    "t": "偷偷地做；潜行",
+    "en": "to move stealthily"
+  },
+  "dislodge": {
+    "p": "/dɪsˈlɒdʒ/",
+    "t": "移开；驱逐",
+    "en": "to remove from a position"
+  },
+  "swoop": {
+    "p": "/swuːp/",
+    "t": "俯冲；突袭",
+    "en": "a sudden descent or raid"
+  },
+  "elaborate": {
+    "p": "/ɪˈlæbərət/",
+    "t": "精心制作的；详细阐述",
+    "en": "detailed; to explain in detail"
+  },
+  "testflights": {
+    "p": "/ˈtestflaɪts/",
+    "t": "试飞",
+    "en": "trial flights"
+  },
+  "rescue": {
+    "p": "/ˈreskjuː/",
+    "t": "救援",
+    "en": "to save from danger"
+  },
+  "flown": {
+    "p": "/fləʊn/",
+    "t": "飞行（过去分词）",
+    "en": "past participle of fly"
+  },
+  "tracks": {
+    "p": "/træks/",
+    "t": "轨道；踪迹",
+    "en": "paths or marks left behind"
+  },
+  "pilots": {
+    "p": "/ˈpaɪləts/",
+    "t": "飞行员",
+    "en": "people who fly aircraft"
+  },
+  "helicopters": {
+    "p": "/ˈhelɪkɒptəz/",
+    "t": "直升机",
+    "en": "aircraft with rotating blades"
+  },
+  "panicked": {
+    "p": "/ˈpænɪkt/",
+    "t": "惊慌的",
+    "en": "affected by panic"
+  },
+  "swirls": {
+    "p": "/swɜːlz/",
+    "t": "漩涡；盘旋",
+    "en": "twisting movements"
+  },
+  "doodle": {
+    "p": "/ˈduːdl/",
+    "t": "涂鸦",
+    "en": "to scribble absentmindedly"
+  },
+  "manoeuvres": {
+    "p": "/məˈnuːvəz/",
+    "t": "机动；策略",
+    "en": "planned movements or actions"
+  },
+  "paperclip": {
+    "p": "/ˈpeɪpəklɪp/",
+    "t": "回形针",
+    "en": "a clip for holding papers"
+  },
+  "gutchurning": {
+    "p": "/ˈɡʌttʃɜːnɪŋ/",
+    "t": "令人反胃的",
+    "en": "causing nausea or unease"
+  },
+  "graceful": {
+    "p": "/ˈɡreɪsfl/",
+    "t": "优雅的",
+    "en": "showing grace"
+  },
+  "loops": {
+    "p": "/luːps/",
+    "t": "环；循环",
+    "en": "circular shapes or repeated sequences"
+  },
+  "undertook": {
+    "p": "/ˌʌndəˈtʊk/",
+    "t": "承担",
+    "en": "past tense of undertake"
+  },
+  "decoy": {
+    "p": "/ˈdiːkɔɪ/",
+    "t": "诱饵",
+    "en": "a lure or trap"
+  },
+  "electromagnetic": {
+    "p": "/ɪˌlektrəʊmæɡˈnetɪk/",
+    "t": "电磁的",
+    "en": "relating to electromagnetism"
+  },
+  "realises": {
+    "p": "/ˈrɪəlaɪzɪz/",
+    "t": "意识到",
+    "en": "becomes aware of"
+  },
+  "boiling": {
+    "p": "/ˈbɔɪlɪŋ/",
+    "t": "沸腾的；极热的",
+    "en": "very hot; at boiling point"
+  },
+  "sneaky": {
+    "p": "/ˈsniːki/",
+    "t": "偷偷摸摸的",
+    "en": "stealthy or deceitful"
+  },
+  "antenna": {
+    "p": "/ænˈtenə/",
+    "t": "天线",
+    "en": "a device for receiving signals"
+  },
+  "ramped": {
+    "p": "/ræmpt/",
+    "t": "增加；斜坡的",
+    "en": "increased; having a ramp"
+  },
+  "monitor": {
+    "p": "/ˈmɒnɪtə/",
+    "t": "监视；显示器",
+    "en": "to observe; a display screen"
+  },
+  "mounted": {
+    "p": "/ˈmaʊntɪd/",
+    "t": "安装；骑乘",
+    "en": "attached or set up"
+  },
+  "beacon": {
+    "p": "/ˈbiːkən/",
+    "t": "信标",
+    "en": "a signal light or transmitter"
+  },
+  "marking": {
+    "p": "/ˈmɑːkɪŋ/",
+    "t": "标记",
+    "en": "a mark or indication"
+  },
+  "misleadingly": {
+    "p": "/ˌmɪsˈliːdɪŋli/",
+    "t": "误导地",
+    "en": "in a deceptive manner"
+  },
+  "uninterrupted": {
+    "p": "/ˌʌnɪntəˈrʌptɪd/",
+    "t": "不间断的",
+    "en": "continuous"
+  },
+  "fibreoptic": {
+    "p": "/ˌfaɪbərˈɒptɪk/",
+    "t": "光纤的",
+    "en": "relating to fiber optics"
+  },
+  "unspooled": {
+    "p": "/ʌnˈspuːld/",
+    "t": "展开",
+    "en": "unwound or unfolded"
+  },
+  "spoofed": {
+    "p": "/spuːft/",
+    "t": "欺骗的",
+    "en": "faked or impersonated"
+  },
+  "alsobeing": {
+    "p": "/ˈɔːlsəʊˌbiːɪŋ/",
+    "t": "同时也是",
+    "en": "also being"
+  },
+  "shirt": {
+    "p": "/ʃɜːt/",
+    "t": "衬衫",
+    "en": "a garment for the upper body"
+  },
+  "motif": {
+    "p": "/məʊˈtiːf/",
+    "t": "图案；主题",
+    "en": "a decorative design or theme"
+  },
+  "accurately": {
+    "p": "/ˈækjərətli/",
+    "t": "准确地",
+    "en": "in a precise manner"
+  },
+  "nanosecond": {
+    "p": "/ˈnænəʊsekənd/",
+    "t": "纳秒",
+    "en": "one billionth of a second"
+  },
+  "reliance": {
+    "p": "/rɪˈlaɪəns/",
+    "t": "依赖",
+    "en": "dependence on something"
+  },
+  "bullet": {
+    "p": "/ˈbʊlɪt/",
+    "t": "子弹",
+    "en": "a projectile fired from a gun"
+  },
+  "realised": {
+    "p": "/ˈrɪəlaɪzd/",
+    "t": "意识到",
+    "en": "became aware of"
+  },
+  "beamed": {
+    "p": "/biːmd/",
+    "t": "发射；微笑",
+    "en": "transmitted; smiled radiantly"
+  },
+  "offlimits": {
+    "p": "/ˌɒfˈlɪmɪts/",
+    "t": "禁止进入的",
+    "en": "not allowed to be entered"
+  },
+  "fried": {
+    "p": "/fraɪd/",
+    "t": "油炸的；烧坏的",
+    "en": "cooked in oil; damaged by heat"
+  },
+  "cyber": {
+    "p": "/ˈsaɪbə/",
+    "t": "网络的",
+    "en": "relating to computers or networks"
+  },
+  "discrete": {
+    "p": "/dɪˈskriːt/",
+    "t": "离散的；分开的",
+    "en": "separate and distinct"
+  },
+  "roads": {
+    "p": "/rəʊdz/",
+    "t": "道路",
+    "en": "paved routes for vehicles"
+  },
+  "dipped": {
+    "p": "/dɪpt/",
+    "t": "浸；下降",
+    "en": "past tense of dip; immersed or lowered briefly"
+  },
+  "baccalaureate": {
+    "p": "/ˌbækəˈlɔːriət/",
+    "t": "学士学位；毕业典礼",
+    "en": "bachelor's degree or a graduation ceremony"
+  },
+  "chorus": {
+    "p": "/ˈkɔːrəs/",
+    "t": "合唱团；副歌",
+    "en": "a group of singers or a repeated part of a song"
+  },
+  "administered": {
+    "p": "/ədˈmɪnɪstəd/",
+    "t": "管理；实施",
+    "en": "managed or put into effect"
+  },
+  "mostwatched": {
+    "p": "/ˈməʊstwɒtʃt/",
+    "t": "观看最多的",
+    "en": "watched by the largest number of people"
+  },
+  "metrics": {
+    "p": "/ˈmetrɪks/",
+    "t": "指标；度量",
+    "en": "measures or standards of measurement"
+  },
+  "milliondollar": {
+    "p": "/ˈmɪljən dɒlə/",
+    "t": "百万美元的",
+    "en": "worth one million dollars"
+  },
+  "gestures": {
+    "p": "/ˈdʒestʃəz/",
+    "t": "手势；姿态",
+    "en": "movements or signals expressing meaning"
+  },
+  "attentional": {
+    "p": "/əˈtenʃənl/",
+    "t": "注意力的",
+    "en": "relating to attention"
+  },
+  "texts": {
+    "p": "/teksts/",
+    "t": "文本；短信",
+    "en": "written messages or pieces of writing"
+  },
+  "surveyed": {
+    "p": "/səˈveɪd/",
+    "t": "调查；勘测",
+    "en": "examined or questioned systematically"
+  },
+  "takeaways": {
+    "p": "/ˈteɪkəweɪz/",
+    "t": "要点；外卖",
+    "en": "main points or food bought to eat elsewhere"
+  },
+  "disappointed": {
+    "p": "/ˌdɪsəˈpɔɪntɪd/",
+    "t": "失望的",
+    "en": "sad because expectations were not met"
+  },
+  "hurts": {
+    "p": "/hɜːts/",
+    "t": "伤害；疼痛",
+    "en": "causes pain or distress"
+  },
+  "nonusers": {
+    "p": "/ˌnɒnˈjuːzəz/",
+    "t": "非使用者",
+    "en": "people who do not use something"
+  },
+  "unsatisfying": {
+    "p": "/ʌnˈsætɪsfaɪɪŋ/",
+    "t": "不令人满意的",
+    "en": "not giving satisfaction"
+  },
+  "grunt": {
+    "p": "/ɡrʌnt/",
+    "t": "咕哝；哼声",
+    "en": "a short low sound or to make such a sound"
+  },
+  "tutoring": {
+    "p": "/ˈtjuːtərɪŋ/",
+    "t": "辅导",
+    "en": "teaching or instructing individually"
+  },
+  "upstate": {
+    "p": "/ˌʌpˈsteɪt/",
+    "t": "州的北部地区",
+    "en": "the northern part of a state"
+  },
+  "complicates": {
+    "p": "/ˈkɒmplɪkeɪts/",
+    "t": "使复杂化",
+    "en": "makes something more difficult"
+  },
+  "disallowed": {
+    "p": "/ˌdɪsəˈlaʊd/",
+    "t": "不允许；驳回",
+    "en": "refused to allow or accept"
+  },
+  "studentfacing": {
+    "p": "/ˈstjuːdənt feɪsɪŋ/",
+    "t": "面向学生的",
+    "en": "designed for or directed at students"
+  },
+  "announcing": {
+    "p": "/əˈnaʊnsɪŋ/",
+    "t": "宣布",
+    "en": "making a public statement about"
+  },
+  "evaluate": {
+    "p": "/ɪˈvæljueɪt/",
+    "t": "评估",
+    "en": "to judge or calculate the quality of"
+  },
+  "everlarger": {
+    "p": "/ˈevə ˈlɑːdʒə/",
+    "t": "越来越大的",
+    "en": "increasingly bigger"
+  },
+  "convenient": {
+    "p": "/kənˈviːniənt/",
+    "t": "方便的",
+    "en": "fitting in well with needs; easy to use"
+  },
+  "dependence": {
+    "p": "/dɪˈpendəns/",
+    "t": "依赖",
+    "en": "the state of relying on something"
+  },
+  "walkable": {
+    "p": "/ˈwɔːkəbl/",
+    "t": "适合步行的",
+    "en": "suitable for walking"
+  },
+  "urban": {
+    "p": "/ˈɜːbən/",
+    "t": "城市的",
+    "en": "relating to a city or town"
+  },
+  "denser": {
+    "p": "/ˈdensə/",
+    "t": "更密集的",
+    "en": "more closely packed together"
+  },
+  "mythology": {
+    "p": "/mɪˈθɒlədʒi/",
+    "t": "神话",
+    "en": "a collection of myths or traditional stories"
+  },
+  "archipelago": {
+    "p": "/ˌɑːkɪˈpeləɡəʊ/",
+    "t": "群岛",
+    "en": "a group of islands"
+  },
+  "landscapes": {
+    "p": "/ˈlændskeɪps/",
+    "t": "风景；景观",
+    "en": "visible features of an area of land"
+  },
+  "screenplay": {
+    "p": "/ˈskriːnpleɪ/",
+    "t": "电影剧本",
+    "en": "the script for a film"
+  },
+  "stunning": {
+    "p": "/ˈstʌnɪŋ/",
+    "t": "令人惊叹的",
+    "en": "extremely impressive or attractive"
+  },
+  "grief": {
+    "p": "/ɡriːf/",
+    "t": "悲伤",
+    "en": "deep sorrow, especially after a loss"
+  },
+  "approves": {
+    "p": "/əˈpruːvz/",
+    "t": "批准；赞成",
+    "en": "officially agrees to or accepts"
   }
 }
