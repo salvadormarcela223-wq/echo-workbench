@@ -42428,5 +42428,630 @@
     "p": "/dɪˈsaɪsɪv/",
     "t": "决定性的；果断的",
     "en": "settling a matter; showing resolve"
+  },
+  "cranes": {
+    "p": "/kreɪnz/",
+    "t": "鹤；起重机",
+    "en": "large long-legged birds; machines for lifting"
+  },
+  "wolves": {
+    "p": "/wʊlvz/",
+    "t": "狼（复数）",
+    "en": "plural of wolf; wild carnivorous mammals"
+  },
+  "piquing": {
+    "p": "/ˈpiːkɪŋ/",
+    "t": "激起，引起",
+    "en": "stimulating or arousing interest"
+  },
+  "naturelovers": {
+    "p": "/ˈneɪtʃəˌlʌvəz/",
+    "t": "自然爱好者",
+    "en": "people who love nature"
+  },
+  "southwestern": {
+    "p": "/ˌsaʊθˈwestən/",
+    "t": "西南部的",
+    "en": "relating to the southwest"
+  },
+  "craggy": {
+    "p": "/ˈkræɡi/",
+    "t": "崎岖的，多岩的",
+    "en": "rugged and rocky"
+  },
+  "headlands": {
+    "p": "/ˈhedləndz/",
+    "t": "海角，岬",
+    "en": "promontories of land jutting into the sea"
+  },
+  "blasted": {
+    "p": "/ˈblɑːstɪd/",
+    "t": "被炸毁的；该死的",
+    "en": "destroyed by explosion; damned"
+  },
+  "breathtaking": {
+    "p": "/ˈbreθˌteɪkɪŋ/",
+    "t": "令人惊叹的",
+    "en": "astonishingly beautiful or impressive"
+  },
+  "peninsula": {
+    "p": "/pəˈnɪnsjələ/",
+    "t": "半岛",
+    "en": "a piece of land surrounded by water on most sides"
+  },
+  "crooked": {
+    "p": "/ˈkrʊkɪd/",
+    "t": "弯曲的；不正当的",
+    "en": "bent or dishonest"
+  },
+  "finger": {
+    "p": "/ˈfɪŋɡə/",
+    "t": "手指",
+    "en": "one of the digits of the hand"
+  },
+  "resolutely": {
+    "p": "/ˈrezəluːtli/",
+    "t": "坚决地",
+    "en": "in a determined manner"
+  },
+  "oceanfacing": {
+    "p": "/ˈəʊʃənˌfeɪsɪŋ/",
+    "t": "面向海洋的",
+    "en": "facing the ocean"
+  },
+  "famed": {
+    "p": "/feɪmd/",
+    "t": "著名的",
+    "en": "well-known, famous"
+  },
+  "folkteller": {
+    "p": "/ˈfəʊkˌtelə/",
+    "t": "民间故事讲述者",
+    "en": "a teller of folk tales"
+  },
+  "cliff": {
+    "p": "/klɪf/",
+    "t": "悬崖",
+    "en": "a steep rock face"
+  },
+  "lifetime": {
+    "p": "/ˈlaɪftaɪm/",
+    "t": "一生，终身",
+    "en": "the duration of a person's life"
+  },
+  "mountainloving": {
+    "p": "/ˈmaʊntɪnˌlʌvɪŋ/",
+    "t": "热爱山地的",
+    "en": "loving mountains"
+  },
+  "iolar": {
+    "p": "/ˈaɪəlɑː/",
+    "t": "（爱尔兰语）鹰",
+    "en": "Irish word for eagle"
+  },
+  "whitetailed": {
+    "p": "/ˈwaɪtteɪld/",
+    "t": "白尾的",
+    "en": "having a white tail"
+  },
+  "extinct": {
+    "p": "/ɪkˈstɪŋkt/",
+    "t": "灭绝的",
+    "en": "no longer existing"
+  },
+  "swathed": {
+    "p": "/sweɪðd/",
+    "t": "包裹的，覆盖的",
+    "en": "wrapped or enveloped"
+  },
+  "richly": {
+    "p": "/ˈrɪtʃli/",
+    "t": "丰富地；华丽地",
+    "en": "in a rich manner"
+  },
+  "descriptive": {
+    "p": "/dɪˈskrɪptɪv/",
+    "t": "描述性的",
+    "en": "serving to describe"
+  },
+  "agricultural": {
+    "p": "/ˌæɡrɪˈkʌltʃərəl/",
+    "t": "农业的",
+    "en": "relating to farming"
+  },
+  "meanings": {
+    "p": "/ˈmiːnɪŋz/",
+    "t": "意义，含义",
+    "en": "significations or senses"
+  },
+  "forgotten": {
+    "p": "/fəˈɡɒtn/",
+    "t": "被遗忘的",
+    "en": "no longer remembered"
+  },
+  "plains": {
+    "p": "/pleɪnz/",
+    "t": "平原",
+    "en": "large areas of flat land"
+  },
+  "folklorist": {
+    "p": "/ˈfəʊkˌlɔːrɪst/",
+    "t": "民俗学家",
+    "en": "a scholar of folklore"
+  },
+  "spoken": {
+    "p": "/ˈspəʊkən/",
+    "t": "口头的；说",
+    "en": "oral; past participle of speak"
+  },
+  "rewritten": {
+    "p": "/ˌriːˈrɪtn/",
+    "t": "重写的",
+    "en": "written again"
+  },
+  "colonisation": {
+    "p": "/ˌkɒlənaɪˈzeɪʃn/",
+    "t": "殖民化",
+    "en": "the act of establishing colonies"
+  },
+  "grave": {
+    "p": "/ɡreɪv/",
+    "t": "严重的；坟墓",
+    "en": "serious; a burial place"
+  },
+  "lacks": {
+    "p": "/læks/",
+    "t": "缺乏",
+    "en": "is without, does not have"
+  },
+  "poetic": {
+    "p": "/pəʊˈetɪk/",
+    "t": "诗意的",
+    "en": "relating to poetry; beautiful"
+  },
+  "translations": {
+    "p": "/trænzˈleɪʃnz/",
+    "t": "翻译；译文",
+    "en": "renderings into another language"
+  },
+  "boars": {
+    "p": "/bɔːz/",
+    "t": "野猪",
+    "en": "wild pigs"
+  },
+  "murky": {
+    "p": "/ˈmɜːki/",
+    "t": "昏暗的，浑浊的",
+    "en": "dark and gloomy; unclear"
+  },
+  "prehistoric": {
+    "p": "/ˌpriːhɪˈstɒrɪk/",
+    "t": "史前的",
+    "en": "belonging to the time before written records"
+  },
+  "reintroduced": {
+    "p": "/ˌriːɪntrəˈdjuːst/",
+    "t": "重新引入的",
+    "en": "brought back into an area"
+  },
+  "medieval": {
+    "p": "/ˌmediˈiːvl/",
+    "t": "中世纪的",
+    "en": "relating to the Middle Ages"
+  },
+  "crane": {
+    "p": "/kreɪn/",
+    "t": "鹤；起重机",
+    "en": "a large long-legged bird; a lifting machine"
+  },
+  "gcorr": {
+    "p": "/ɡɔːr/",
+    "t": "（爱尔兰语）鹤",
+    "en": "Irish word for crane"
+  },
+  "gangly": {
+    "p": "/ˈɡæŋɡli/",
+    "t": "瘦长笨拙的",
+    "en": "tall, thin, and awkward"
+  },
+  "doire": {
+    "p": "/ˈdɔɪrə/",
+    "t": "（爱尔兰语）橡树林",
+    "en": "Irish word for oak wood"
+  },
+  "successive": {
+    "p": "/səkˈsesɪv/",
+    "t": "连续的",
+    "en": "following one after another"
+  },
+  "deforestation": {
+    "p": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+    "t": "森林砍伐",
+    "en": "the clearing of forests"
+  },
+  "farmland": {
+    "p": "/ˈfɑːmlænd/",
+    "t": "农田",
+    "en": "land used for farming"
+  },
+  "timber": {
+    "p": "/ˈtɪmbə/",
+    "t": "木材",
+    "en": "wood used for building"
+  },
+  "settlers": {
+    "p": "/ˈsetləz/",
+    "t": "定居者，移民",
+    "en": "people who settle in a new place"
+  },
+  "sizeable": {
+    "p": "/ˈsaɪzəbl/",
+    "t": "相当大的",
+    "en": "fairly large"
+  },
+  "reconstructed": {
+    "p": "/ˌriːkənˈstrʌktɪd/",
+    "t": "重建的；重构的",
+    "en": "built or formed again"
+  },
+  "pollen": {
+    "p": "/ˈpɒlən/",
+    "t": "花粉",
+    "en": "fine powdery substance from flowers"
+  },
+  "preserved": {
+    "p": "/prɪˈzɜːvd/",
+    "t": "保存的",
+    "en": "kept in good condition"
+  },
+  "deforested": {
+    "p": "/ˌdiːˈfɒrɪstɪd/",
+    "t": "被砍伐森林的",
+    "en": "having had forests cleared"
+  },
+  "gesturing": {
+    "p": "/ˈdʒestʃərɪŋ/",
+    "t": "做手势",
+    "en": "making gestures"
+  },
+  "leafier": {
+    "p": "/ˈliːfiə/",
+    "t": "更多叶的",
+    "en": "having more leaves"
+  },
+  "susceptible": {
+    "p": "/səˈseptəbl/",
+    "t": "易受影响的",
+    "en": "likely to be affected by"
+  },
+  "dieback": {
+    "p": "/ˈdaɪbæk/",
+    "t": "顶枯病，回枯",
+    "en": "progressive death of shoots or roots"
+  },
+  "rewilding": {
+    "p": "/ˌriːˈwaɪldɪŋ/",
+    "t": "再野化",
+    "en": "restoring land to a wild state"
+  },
+  "gabhar": {
+    "p": "/ˈɡaʊər/",
+    "t": "（爱尔兰语）山羊",
+    "en": "Irish word for goat"
+  },
+  "horse": {
+    "p": "/hɔːs/",
+    "t": "马",
+    "en": "a large four-legged animal used for riding and pulling loads"
+  },
+  "subsoil": {
+    "p": "/ˈsʌbsɔɪl/",
+    "t": "底土，下层土",
+    "en": "the layer of soil beneath the topsoil"
+  },
+  "rewetted": {
+    "p": "/ˌriːˈwetɪd/",
+    "t": "重新湿润的",
+    "en": "made wet again"
+  },
+  "floodwater": {
+    "p": "/ˈflʌdˌwɔːtə/",
+    "t": "洪水",
+    "en": "water from a flood"
+  },
+  "grows": {
+    "p": "/ɡrəʊz/",
+    "t": "生长；种植",
+    "en": "increases in size; cultivates"
+  },
+  "placenameinformed": {
+    "p": "/ˈpleɪsneɪmɪnˌfɔːmd/",
+    "t": "以地名为依据的",
+    "en": "based on place-name evidence"
+  },
+  "mentioning": {
+    "p": "/ˈmenʃənɪŋ/",
+    "t": "提及",
+    "en": "referring to briefly"
+  },
+  "treeplanting": {
+    "p": "/ˈtriːˌplɑːntɪŋ/",
+    "t": "植树",
+    "en": "the planting of trees"
+  },
+  "mentions": {
+    "p": "/ˈmenʃənz/",
+    "t": "提及（第三人称单数）",
+    "en": "refers to briefly"
+  },
+  "symbol": {
+    "p": "/ˈsɪmbl/",
+    "t": "象征，符号",
+    "en": "a mark or sign representing something"
+  },
+  "submerged": {
+    "p": "/səbˈmɜːdʒd/",
+    "t": "淹没的",
+    "en": "under water"
+  },
+  "mucmara": {
+    "p": "/mʊkˈmɑːrə/",
+    "t": "（爱尔兰语）海猪",
+    "en": "Irish word for sea pig"
+  },
+  "seapigs": {
+    "p": "/ˈsiːpɪɡz/",
+    "t": "海猪（海豚的旧称）",
+    "en": "archaic term for dolphins or porpoises"
+  },
+  "whales": {
+    "p": "/weɪlz/",
+    "t": "鲸",
+    "en": "large marine mammals"
+  },
+  "landroaming": {
+    "p": "/ˈlændˌrəʊmɪŋ/",
+    "t": "在陆地上漫游的",
+    "en": "roaming on land"
+  },
+  "partnerships": {
+    "p": "/ˈpɑːtnəʃɪps/",
+    "t": "伙伴关系，合作",
+    "en": "relationships of cooperation"
+  },
+  "charity": {
+    "p": "/ˈtʃærəti/",
+    "t": "慈善机构；慈善",
+    "en": "an organization helping those in need"
+  },
+  "recreate": {
+    "p": "/ˌriːkriˈeɪt/",
+    "t": "重现，再创造",
+    "en": "create again; reproduce"
+  },
+  "capable": {
+    "p": "/ˈkeɪpəbl/",
+    "t": "有能力的",
+    "en": "having the ability to do something"
+  },
+  "woods": {
+    "p": "/wʊdz/",
+    "t": "树林",
+    "en": "small forests"
+  },
+  "eagle": {
+    "p": "/ˈiːɡl/",
+    "t": "鹰",
+    "en": "a large bird of prey"
+  },
+  "reintroductions": {
+    "p": "/ˌriːɪntrəˈdʌkʃnz/",
+    "t": "重新引入",
+    "en": "acts of bringing species back"
+  },
+  "reborn": {
+    "p": "/ˌriːˈbɔːn/",
+    "t": "重生的",
+    "en": "born again; revived"
+  },
+  "antimuslim": {
+    "p": "/ˌæntiˈmʊslɪm/",
+    "t": "反穆斯林的",
+    "en": "opposed to or hostile toward Muslims"
+  },
+  "commemoration": {
+    "p": "/kəˌmeməˈreɪʃn/",
+    "t": "纪念",
+    "en": "a ceremony or act of remembering and honoring someone or something"
+  },
+  "ceremony": {
+    "p": "/ˈserəməni/",
+    "t": "仪式，典礼",
+    "en": "a formal act or series of acts performed on a special occasion"
+  },
+  "survivors": {
+    "p": "/səˈvaɪvəz/",
+    "t": "幸存者",
+    "en": "people who continue to live after an event that killed others"
+  },
+  "grieve": {
+    "p": "/ɡriːv/",
+    "t": "悲伤，哀悼",
+    "en": "to feel intense sorrow, especially after someone's death"
+  },
+  "commemorate": {
+    "p": "/kəˈmeməreɪt/",
+    "t": "纪念",
+    "en": "to remember and honor someone or something by a ceremony or action"
+  },
+  "singled": {
+    "p": "/ˈsɪŋɡld/",
+    "t": "挑选出，单独挑出",
+    "en": "picked or separated out from a group for special attention"
+  },
+  "screed": {
+    "p": "/skriːd/",
+    "t": "长篇大论，冗长的演说或文章",
+    "en": "a long, tiresome speech or piece of writing"
+  },
+  "mayor": {
+    "p": "/meə(r)/",
+    "t": "市长",
+    "en": "the elected head of a city or town government"
+  },
+  "disbarred": {
+    "p": "/dɪsˈbɑːd/",
+    "t": "被取消律师资格",
+    "en": "deprived of the right to practice law"
+  },
+  "disgraced": {
+    "p": "/dɪsˈɡreɪst/",
+    "t": "名誉扫地的，丢脸的",
+    "en": "having lost honor or respect because of shameful behavior"
+  },
+  "shaking": {
+    "p": "/ˈʃeɪkɪŋ/",
+    "t": "颤抖，震动",
+    "en": "trembling or moving quickly back and forth"
+  },
+  "inflame": {
+    "p": "/ɪnˈfleɪm/",
+    "t": "激怒，使加剧",
+    "en": "to provoke or intensify strong feelings, especially anger"
+  },
+  "impunity": {
+    "p": "/ɪmˈpjuːnəti/",
+    "t": "免受惩罚，免责",
+    "en": "freedom from punishment or unpleasant consequences"
+  },
+  "institutionalized": {
+    "p": "/ˌɪnstɪˈtjuːʃənəlaɪzd/",
+    "t": "制度化；使习惯于机构生活",
+    "en": "established as part of an official system, or made dependent on an institution"
+  },
+  "prejudice": {
+    "p": "/ˈpredʒudɪs/",
+    "t": "偏见，成见",
+    "en": "an unfair opinion formed without enough knowledge or reason"
+  },
+  "marginalized": {
+    "p": "/ˈmɑːdʒɪnəlaɪzd/",
+    "t": "被边缘化的",
+    "en": "treated as insignificant or pushed to the edge of society"
+  },
+  "showcase": {
+    "p": "/ˈʃəʊkeɪs/",
+    "t": "展示，展出",
+    "en": "to display or present something prominently"
+  },
+  "communism": {
+    "p": "/ˈkɒmjənɪzəm/",
+    "t": "共产主义",
+    "en": "a political and economic system where property is owned communally"
+  },
+  "allying": {
+    "p": "/əˈlaɪɪŋ/",
+    "t": "结盟，联合",
+    "en": "joining or uniting with others for a common purpose"
+  },
+  "enemies": {
+    "p": "/ˈenəmiz/",
+    "t": "敌人",
+    "en": "people who are hostile to or oppose another"
+  },
+  "capitalism": {
+    "p": "/ˈkæpɪtəlɪzəm/",
+    "t": "资本主义",
+    "en": "an economic system based on private ownership and profit"
+  },
+  "screamed": {
+    "p": "/skriːmd/",
+    "t": "尖叫，大声喊叫",
+    "en": "uttered a loud, high-pitched cry"
+  },
+  "namechecked": {
+    "p": "/ˈneɪmtʃekt/",
+    "t": "点名提及",
+    "en": "mentioned someone by name, especially in a song or speech"
+  },
+  "vitriol": {
+    "p": "/ˈvɪtriəl/",
+    "t": "尖酸刻薄的话，恶毒言辞",
+    "en": "bitter, harsh, and abusive language or criticism"
+  },
+  "republic": {
+    "p": "/rɪˈpʌblɪk/",
+    "t": "共和国",
+    "en": "a state in which power is held by elected representatives"
+  },
+  "distract": {
+    "p": "/dɪˈstrækt/",
+    "t": "分散注意力，使分心",
+    "en": "to take someone's attention away from something"
+  },
+  "allin": {
+    "p": "/ɔːl ˈɪn/",
+    "t": "全押，全力以赴",
+    "en": "putting all of one's resources or effort into something"
+  },
+  "intros": {
+    "p": "/ˈɪntrəʊz/",
+    "t": "介绍，开场白",
+    "en": "introductory remarks or the opening parts of something"
+  },
+  "prolific": {
+    "p": "/prəˈlɪfɪk/",
+    "t": "多产的，富有创造力的",
+    "en": "producing a great deal of something, especially works"
+  },
+  "middlegrade": {
+    "p": "/ˈmɪdl ɡreɪd/",
+    "t": "中年级的；中档的",
+    "en": "relating to intermediate school levels or medium quality"
+  },
+  "reverse": {
+    "p": "/rɪˈvɜːs/",
+    "t": "逆转，颠倒；相反的",
+    "en": "to change to the opposite direction or decision"
+  },
+  "restarting": {
+    "p": "/ˌriːˈstɑːtɪŋ/",
+    "t": "重新开始",
+    "en": "beginning again after stopping"
+  },
+  "membership": {
+    "p": "/ˈmembəʃɪp/",
+    "t": "会员资格，成员身份",
+    "en": "the state of being a member of a group or organization"
+  },
+  "oldestknown": {
+    "p": "/ˈəʊldɪst nəʊn/",
+    "t": "已知最古老的",
+    "en": "the most ancient among those currently known"
+  },
+  "archaeologists": {
+    "p": "/ˌɑːkiˈɒlədʒɪsts/",
+    "t": "考古学家",
+    "en": "scientists who study human history through remains and artifacts"
+  },
+  "dated": {
+    "p": "/ˈdeɪtɪd/",
+    "t": "注明日期的；过时的",
+    "en": "marked with a date, or old-fashioned"
+  },
+  "roast": {
+    "p": "/rəʊst/",
+    "t": "烤；烤肉",
+    "en": "to cook meat or other food in an oven or over a fire"
+  },
+  "woolly": {
+    "p": "/ˈwʊli/",
+    "t": "毛茸茸的，羊毛的",
+    "en": "covered with wool or having a soft, fuzzy texture"
+  },
+  "mammoths": {
+    "p": "/ˈmæməθs/",
+    "t": "猛犸象",
+    "en": "extinct large hairy elephants of the prehistoric era"
   }
 }
