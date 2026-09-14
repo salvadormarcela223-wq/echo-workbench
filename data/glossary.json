@@ -43278,5 +43278,630 @@
     "p": "/ˈfriːkaʊt/",
     "t": "崩溃；极度激动",
     "en": "a sudden extreme emotional reaction"
+  },
+  "seals": {
+    "p": "/siːlz/",
+    "t": "海豹（复数）",
+    "en": "plural of seal; marine mammals with flippers"
+  },
+  "seahorse": {
+    "p": "/ˈsiːhɔːs/",
+    "t": "海马",
+    "en": "a small fish with a horse-like head that swims upright"
+  },
+  "fathers": {
+    "p": "/ˈfɑːðəz/",
+    "t": "父亲（复数）",
+    "en": "plural of father; male parents"
+  },
+  "deepsea": {
+    "p": "/ˈdiːp siː/",
+    "t": "深海的",
+    "en": "relating to the deep parts of the sea"
+  },
+  "upsetting": {
+    "p": "/ʌpˈsetɪŋ/",
+    "t": "令人不安的",
+    "en": "causing distress or worry"
+  },
+  "photographers": {
+    "p": "/fəˈtɒɡrəfəz/",
+    "t": "摄影师（复数）",
+    "en": "plural of photographer; people who take photographs"
+  },
+  "pools": {
+    "p": "/puːlz/",
+    "t": "水池（复数）",
+    "en": "plural of pool; small areas of water"
+  },
+  "seahorses": {
+    "p": "/ˈsiːhɔːsɪz/",
+    "t": "海马（复数）",
+    "en": "plural of seahorse; small upright-swimming fish"
+  },
+  "males": {
+    "p": "/meɪlz/",
+    "t": "雄性（复数）",
+    "en": "plural of male; male animals or persons"
+  },
+  "undergo": {
+    "p": "/ˌʌndəˈɡəʊ/",
+    "t": "经历，经受",
+    "en": "to experience or be subjected to something"
+  },
+  "offspring": {
+    "p": "/ˈɒfsprɪŋ/",
+    "t": "后代，子孙",
+    "en": "the young produced by an animal or plant"
+  },
+  "shallows": {
+    "p": "/ˈʃæləʊz/",
+    "t": "浅水处，浅滩",
+    "en": "shallow areas of water"
+  },
+  "parasitic": {
+    "p": "/ˌpærəˈsɪtɪk/",
+    "t": "寄生的",
+    "en": "living on or in another organism and feeding off it"
+  },
+  "crustaceans": {
+    "p": "/krʌˈsteɪʃənz/",
+    "t": "甲壳类动物（复数）",
+    "en": "plural of crustacean; aquatic animals with hard shells"
+  },
+  "copepods": {
+    "p": "/ˈkəʊpəpɒdz/",
+    "t": "桡足类（复数）",
+    "en": "plural of copepod; tiny aquatic crustaceans"
+  },
+  "photographed": {
+    "p": "/ˈfəʊtəɡrɑːft/",
+    "t": "拍摄了照片的",
+    "en": "taken a photograph of"
+  },
+  "recovering": {
+    "p": "/rɪˈkʌvərɪŋ/",
+    "t": "恢复中的",
+    "en": "returning to a normal state of health"
+  },
+  "scorpionfish": {
+    "p": "/ˈskɔːpiənfɪʃ/",
+    "t": "鲉鱼",
+    "en": "a venomous fish with spiny fins that resembles a scorpion"
+  },
+  "clamping": {
+    "p": "/ˈklæmpɪŋ/",
+    "t": "夹紧，固定",
+    "en": "holding tightly with a clamp or grip"
+  },
+  "lizardfish": {
+    "p": "/ˈlɪzədfɪʃ/",
+    "t": "蜥鱼",
+    "en": "a slender predatory fish with a lizard-like head"
+  },
+  "scorpionfishs": {
+    "p": "/ˈskɔːpiənfɪʃɪz/",
+    "t": "鲉鱼（复数）",
+    "en": "plural of scorpionfish; venomous spiny fish"
+  },
+  "stealthy": {
+    "p": "/ˈstelθi/",
+    "t": "悄悄的，隐蔽的",
+    "en": "moving or acting quietly and secretly"
+  },
+  "sardine": {
+    "p": "/ˌsɑːˈdiːn/",
+    "t": "沙丁鱼",
+    "en": "a small oily fish often canned as food"
+  },
+  "oceanic": {
+    "p": "/ˌəʊʃiˈænɪk/",
+    "t": "海洋的",
+    "en": "relating to the ocean"
+  },
+  "sunfish": {
+    "p": "/ˈsʌnfɪʃ/",
+    "t": "翻车鱼",
+    "en": "a large heavy-bodied ocean fish with a flattened body"
+  },
+  "oddly": {
+    "p": "/ˈɒdli/",
+    "t": "奇怪地",
+    "en": "in a strange or unusual way"
+  },
+  "blackwater": {
+    "p": "/ˈblækwɔːtə/",
+    "t": "黑水（现象）",
+    "en": "dark-coloured water, often rich in organic matter"
+  },
+  "ribbonfish": {
+    "p": "/ˈrɪbənfɪʃ/",
+    "t": "带鱼",
+    "en": "a long thin ribbon-like marine fish"
+  },
+  "centimetres": {
+    "p": "/ˈsentɪmiːtəz/",
+    "t": "厘米（复数）",
+    "en": "plural of centimetre; units of length equal to one hundredth of a metre"
+  },
+  "artistic": {
+    "p": "/ɑːˈtɪstɪk/",
+    "t": "艺术的，有艺术感的",
+    "en": "relating to or showing skill in art"
+  },
+  "spotted": {
+    "p": "/ˈspɒtɪd/",
+    "t": "有斑点的",
+    "en": "marked with spots"
+  },
+  "gliding": {
+    "p": "/ˈɡlaɪdɪŋ/",
+    "t": "滑行，滑翔",
+    "en": "moving smoothly and effortlessly"
+  },
+  "sandy": {
+    "p": "/ˈsændi/",
+    "t": "沙质的",
+    "en": "covered with or consisting of sand"
+  },
+  "seabed": {
+    "p": "/ˈsiːbed/",
+    "t": "海床",
+    "en": "the floor of the sea"
+  },
+  "electroreceptors": {
+    "p": "/ɪˌlektrəʊrɪˈseptəz/",
+    "t": "电感受器（复数）",
+    "en": "plural of electroreceptor; organs that detect electric fields"
+  },
+  "molluscs": {
+    "p": "/ˈmɒləskz/",
+    "t": "软体动物（复数）",
+    "en": "plural of mollusc; invertebrates with soft bodies and often shells"
+  },
+  "buried": {
+    "p": "/ˈberid/",
+    "t": "埋藏的，被埋的",
+    "en": "placed or hidden under the ground or another substance"
+  },
+  "cardinalfish": {
+    "p": "/ˈkɑːdɪnəlfɪʃ/",
+    "t": "天竺鲷",
+    "en": "a small reddish tropical fish"
+  },
+  "newly": {
+    "p": "/ˈnjuːli/",
+    "t": "新近，最近",
+    "en": "recently or freshly"
+  },
+  "hatched": {
+    "p": "/hætʃt/",
+    "t": "孵化的",
+    "en": "emerged from an egg"
+  },
+  "specialised": {
+    "p": "/ˈspeʃəlaɪzd/",
+    "t": "专门的，特化的",
+    "en": "adapted for a particular purpose or function"
+  },
+  "brooding": {
+    "p": "/ˈbruːdɪŋ/",
+    "t": "孵卵的，沉思的",
+    "en": "sitting on eggs to hatch them; or deep in thought"
+  },
+  "lobsters": {
+    "p": "/ˈlɒbstəz/",
+    "t": "龙虾（复数）",
+    "en": "plural of lobster; large marine crustaceans with claws"
+  },
+  "nurtured": {
+    "p": "/ˈnɜːtʃəd/",
+    "t": "养育的，培育的",
+    "en": "cared for and encouraged to grow"
+  },
+  "hatchery": {
+    "p": "/ˈhætʃəri/",
+    "t": "孵化场",
+    "en": "a place where eggs are hatched and young animals raised"
+  },
+  "selfgoverning": {
+    "p": "/ˌself ˈɡʌvənɪŋ/",
+    "t": "自治的",
+    "en": "having the right to govern oneself"
+  },
+  "whale": {
+    "p": "/weɪl/",
+    "t": "鲸",
+    "en": "a very large marine mammal that breathes air"
+  },
+  "hunter": {
+    "p": "/ˈhʌntə/",
+    "t": "猎人，捕食者",
+    "en": "a person or animal that hunts"
+  },
+  "grindadr": {
+    "p": "/ˈɡrɪndədr/",
+    "t": "（法罗群岛）捕鲸活动",
+    "en": "a traditional Faroese whale hunt"
+  },
+  "beaches": {
+    "p": "/ˈbiːtʃɪz/",
+    "t": "海滩（复数）",
+    "en": "plural of beach; sandy or pebbly shores"
+  },
+  "slaughter": {
+    "p": "/ˈslɔːtə/",
+    "t": "屠杀，宰杀",
+    "en": "the killing of animals or people"
+  },
+  "smallscale": {
+    "p": "/ˈsmɔːl skeɪl/",
+    "t": "小规模的",
+    "en": "involving limited size or extent"
+  },
+  "acquaintances": {
+    "p": "/əˈkweɪntənsɪz/",
+    "t": "熟人",
+    "en": "people one knows slightly"
+  },
+  "gossiping": {
+    "p": "/ˈɡɒsɪpɪŋ/",
+    "t": "说闲话",
+    "en": "talking about others' private affairs"
+  },
+  "confronted": {
+    "p": "/kənˈfrʌntɪd/",
+    "t": "面对；对抗",
+    "en": "faced or challenged directly"
+  },
+  "punishment": {
+    "p": "/ˈpʌnɪʃmənt/",
+    "t": "惩罚",
+    "en": "a penalty imposed for an offense"
+  },
+  "bridle": {
+    "p": "/ˈbraɪdl/",
+    "t": "马笼头；约束",
+    "en": "a horse's headgear; to restrain"
+  },
+  "muzzle": {
+    "p": "/ˈmʌzl/",
+    "t": "口套；封口",
+    "en": "a device over an animal's snout; to silence"
+  },
+  "punitive": {
+    "p": "/ˈpjuːnɪtɪv/",
+    "t": "惩罚性的",
+    "en": "inflicting or intended as punishment"
+  },
+  "gendered": {
+    "p": "/ˈdʒendəd/",
+    "t": "有性别区分的",
+    "en": "relating to or differentiated by gender"
+  },
+  "directive": {
+    "p": "/dəˈrektɪv/",
+    "t": "指令",
+    "en": "an official instruction or order"
+  },
+  "femininity": {
+    "p": "/ˌfeməˈnɪnəti/",
+    "t": "女性气质",
+    "en": "qualities traditionally associated with women"
+  },
+  "deserving": {
+    "p": "/dɪˈzɜːvɪŋ/",
+    "t": "值得的",
+    "en": "worthy of something"
+  },
+  "acknowledges": {
+    "p": "/əkˈnɒlɪdʒɪz/",
+    "t": "承认",
+    "en": "admits or recognizes as true"
+  },
+  "darker": {
+    "p": "/ˈdɑːkə/",
+    "t": "更暗的；更黑暗的",
+    "en": "having less light; more sinister"
+  },
+  "lubricates": {
+    "p": "/ˈluːbrɪkeɪts/",
+    "t": "润滑",
+    "en": "makes smooth or slippery"
+  },
+  "wrecks": {
+    "p": "/reks/",
+    "t": "残骸；毁坏",
+    "en": "destroys; wrecked remains"
+  },
+  "truthful": {
+    "p": "/ˈtruːθfl/",
+    "t": "诚实的",
+    "en": "telling the truth; honest"
+  },
+  "swore": {
+    "p": "/swɔː/",
+    "t": "发誓；咒骂（过去式）",
+    "en": "past tense of swear; made an oath"
+  },
+  "mutual": {
+    "p": "/ˈmjuːtʃuəl/",
+    "t": "相互的",
+    "en": "shared or felt by both sides"
+  },
+  "acquaintance": {
+    "p": "/əˈkweɪntəns/",
+    "t": "熟人；认识",
+    "en": "a person one knows slightly"
+  },
+  "definitionally": {
+    "p": "/ˌdefɪˈnɪʃənəli/",
+    "t": "按定义地",
+    "en": "by definition"
+  },
+  "dignity": {
+    "p": "/ˈdɪɡnəti/",
+    "t": "尊严",
+    "en": "the state of being worthy of respect"
+  },
+  "accord": {
+    "p": "/əˈkɔːd/",
+    "t": "一致；协议",
+    "en": "agreement or harmony"
+  },
+  "personhood": {
+    "p": "/ˈpɜːsnhuːd/",
+    "t": "人格；做人",
+    "en": "the state of being a person"
+  },
+  "denigrates": {
+    "p": "/ˈdenɪɡreɪts/",
+    "t": "贬低",
+    "en": "criticizes unfairly; disparages"
+  },
+  "aspired": {
+    "p": "/əˈspaɪəd/",
+    "t": "渴望；立志",
+    "en": "had a strong desire or ambition"
+  },
+  "draconian": {
+    "p": "/drəˈkəʊniən/",
+    "t": "严苛的",
+    "en": "excessively harsh and severe"
+  },
+  "fuzzier": {
+    "p": "/ˈfʌziə/",
+    "t": "更模糊的",
+    "en": "less clear or distinct"
+  },
+  "metaphysician": {
+    "p": "/ˌmetəfɪˈzɪʃn/",
+    "t": "形而上学家",
+    "en": "a person who studies metaphysics"
+  },
+  "morals": {
+    "p": "/ˈmɒrəlz/",
+    "t": "道德",
+    "en": "principles concerning right and wrong"
+  },
+  "divulged": {
+    "p": "/daɪˈvʌldʒd/",
+    "t": "泄露",
+    "en": "revealed private information"
+  },
+  "slosh": {
+    "p": "/slɒʃ/",
+    "t": "泼溅；液体晃动",
+    "en": "to splash or move liquid about"
+  },
+  "apologists": {
+    "p": "/əˈpɒlədʒɪsts/",
+    "t": "辩护者",
+    "en": "people who defend a controversial cause"
+  },
+  "aspect": {
+    "p": "/ˈæspekt/",
+    "t": "方面",
+    "en": "a particular part or feature"
+  },
+  "hominids": {
+    "p": "/ˈhɒmɪnɪdz/",
+    "t": "人科动物",
+    "en": "members of the primate family Hominidae"
+  },
+  "gossiped": {
+    "p": "/ˈɡɒsɪpt/",
+    "t": "说闲话（过去式）",
+    "en": "talked about others' private affairs"
+  },
+  "feminist": {
+    "p": "/ˈfemənɪst/",
+    "t": "女权主义者",
+    "en": "a supporter of women's rights"
+  },
+  "disenfranchised": {
+    "p": "/ˌdɪsɪnˈfræntʃaɪzd/",
+    "t": "被剥夺权利的",
+    "en": "deprived of rights or privileges"
+  },
+  "sealed": {
+    "p": "/siːld/",
+    "t": "密封的",
+    "en": "closed tightly; made secure"
+  },
+  "disempowered": {
+    "p": "/ˌdɪsɪmˈpaʊəd/",
+    "t": "被削权的",
+    "en": "deprived of power or influence"
+  },
+  "besties": {
+    "p": "/ˈbestiz/",
+    "t": "闺蜜；最好的朋友",
+    "en": "close friends; best friends"
+  },
+  "sustain": {
+    "p": "/səˈsteɪn/",
+    "t": "维持；支撑",
+    "en": "to support or keep going over time"
+  },
+  "disrespect": {
+    "p": "/ˌdɪsrɪˈspekt/",
+    "t": "不尊重",
+    "en": "lack of respect or courtesy"
+  },
+  "dissecting": {
+    "p": "/daɪˈsektɪŋ/",
+    "t": "解剖；剖析",
+    "en": "cutting apart; analyzing in detail"
+  },
+  "malicious": {
+    "p": "/məˈlɪʃəs/",
+    "t": "恶意的",
+    "en": "intending to do harm"
+  },
+  "unkind": {
+    "p": "/ˌʌnˈkaɪnd/",
+    "t": "不友善的",
+    "en": "not kind; harsh"
+  },
+  "nuanced": {
+    "p": "/ˈnjuːɑːnst/",
+    "t": "细致入微的",
+    "en": "showing subtle distinctions"
+  },
+  "modes": {
+    "p": "/məʊdz/",
+    "t": "模式；方式",
+    "en": "ways or manners of doing something"
+  },
+  "interact": {
+    "p": "/ˌɪntərˈækt/",
+    "t": "互动",
+    "en": "to communicate or act together"
+  },
+  "entity": {
+    "p": "/ˈentəti/",
+    "t": "实体",
+    "en": "a thing with distinct existence"
+  },
+  "fundamentally": {
+    "p": "/ˌfʌndəˈmentəli/",
+    "t": "根本上",
+    "en": "in a basic and essential way"
+  },
+  "objectify": {
+    "p": "/əbˈdʒektɪfaɪ/",
+    "t": "物化",
+    "en": "to treat as an object rather than a person"
+  },
+  "quasispiritual": {
+    "p": "/ˌkweɪzaɪˈspɪrɪtʃuəl/",
+    "t": "准精神的",
+    "en": "seemingly but not truly spiritual"
+  },
+  "forget": {
+    "p": "/fəˈɡet/",
+    "t": "忘记",
+    "en": "to fail to remember"
+  },
+  "breathing": {
+    "p": "/ˈbriːðɪŋ/",
+    "t": "呼吸",
+    "en": "the process of taking in air"
+  },
+  "entirety": {
+    "p": "/ɪnˈtaɪərəti/",
+    "t": "全部；整体",
+    "en": "the whole of something"
+  },
+  "struggles": {
+    "p": "/ˈstrʌɡlz/",
+    "t": "挣扎；斗争",
+    "en": "difficult efforts or conflicts"
+  },
+  "disrespecting": {
+    "p": "/ˌdɪsrɪˈspektɪŋ/",
+    "t": "不尊重（进行式）",
+    "en": "showing a lack of respect"
+  },
+  "dialogue": {
+    "p": "/ˈdaɪəlɒɡ/",
+    "t": "对话",
+    "en": "a conversation between people"
+  },
+  "blinders": {
+    "p": "/ˈblaɪndəz/",
+    "t": "眼罩；偏见",
+    "en": "devices that limit vision; narrow perspective"
+  },
+  "facetiously": {
+    "p": "/fəˈsiːʃəsli/",
+    "t": "开玩笑地",
+    "en": "in a joking or flippant manner"
+  },
+  "movie": {
+    "p": "/ˈmuːvi/",
+    "t": "电影",
+    "en": "a motion picture"
+  },
+  "gossipfree": {
+    "p": "/ˈɡɒsɪpfriː/",
+    "t": "无闲话的",
+    "en": "free from gossip"
+  },
+  "dunking": {
+    "p": "/ˈdʌŋkɪŋ/",
+    "t": "扣篮；浸泡",
+    "en": "dipping into liquid; scoring a dunk"
+  },
+  "juicy": {
+    "p": "/ˈdʒuːsi/",
+    "t": "多汁的；有趣的",
+    "en": "full of juice; exciting or scandalous"
+  },
+  "tidbits": {
+    "p": "/ˈtɪdbɪts/",
+    "t": "趣闻；小块美食",
+    "en": "small pieces of interesting news or food"
+  },
+  "richness": {
+    "p": "/ˈrɪtʃnəs/",
+    "t": "丰富；富饶",
+    "en": "the quality of being rich or abundant"
+  },
+  "enticing": {
+    "p": "/ɪnˈtaɪsɪŋ/",
+    "t": "诱人的",
+    "en": "attractive or tempting"
+  },
+  "communal": {
+    "p": "/kəˈmjuːnl/",
+    "t": "公共的；社区的",
+    "en": "shared by a community"
+  },
+  "spills": {
+    "p": "/spɪlz/",
+    "t": "洒出；泄露",
+    "en": "causes liquid to flow over; reveals"
+  },
+  "ordinary": {
+    "p": "/ˈɔːdnri/",
+    "t": "普通的",
+    "en": "normal; not special"
+  },
+  "anonymized": {
+    "p": "/əˈnɒnɪmaɪzd/",
+    "t": "匿名的",
+    "en": "made anonymous"
+  },
+  "enjoyable": {
+    "p": "/ɪnˈdʒɔɪəbl/",
+    "t": "令人愉快的",
+    "en": "giving pleasure or enjoyment"
+  },
+  "considerations": {
+    "p": "/kənˌsɪdəˈreɪʃnz/",
+    "t": "考虑；因素",
+    "en": "factors taken into account"
   }
 }
