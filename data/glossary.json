@@ -44298,5 +44298,375 @@
     "p": "/ˈdedliest/",
     "t": "最致命的",
     "en": "most deadly or lethal"
+  },
+  "micropractices": {
+    "p": "/ˈmaɪkrəʊˌpræktɪsɪz/",
+    "t": "微练习",
+    "en": "small, brief practices"
+  },
+  "uncontrollably": {
+    "p": "/ˌʌnkənˈtrəʊləbli/",
+    "t": "无法控制地",
+    "en": "in a manner that cannot be controlled"
+  },
+  "belly": {
+    "p": "/ˈbeli/",
+    "t": "腹部",
+    "en": "the front part of the body below the chest"
+  },
+  "emitting": {
+    "p": "/ɪˈmɪtɪŋ/",
+    "t": "发出，散发",
+    "en": "sending out or giving off"
+  },
+  "meditation": {
+    "p": "/ˌmedɪˈteɪʃn/",
+    "t": "冥想",
+    "en": "the practice of focusing the mind for relaxation"
+  },
+  "sessions": {
+    "p": "/ˈseʃnz/",
+    "t": "时段，场次",
+    "en": "periods of time devoted to an activity"
+  },
+  "swims": {
+    "p": "/swɪmz/",
+    "t": "游泳",
+    "en": "acts of propelling oneself through water"
+  },
+  "selfcare": {
+    "p": "/ˌselfˈkeə/",
+    "t": "自我照顾",
+    "en": "the practice of taking care of one's own health"
+  },
+  "initiating": {
+    "p": "/ɪˈnɪʃieɪtɪŋ/",
+    "t": "发起，开始",
+    "en": "causing something to begin"
+  },
+  "nonhumorous": {
+    "p": "/ˌnɒnˈhjuːmərəs/",
+    "t": "非幽默的",
+    "en": "not funny or humorous"
+  },
+  "giggles": {
+    "p": "/ˈɡɪɡlz/",
+    "t": "咯咯笑",
+    "en": "light, silly laughs"
+  },
+  "jovial": {
+    "p": "/ˈdʒəʊviəl/",
+    "t": "快乐的，愉快的",
+    "en": "cheerful and friendly"
+  },
+  "flowed": {
+    "p": "/fləʊd/",
+    "t": "流动，顺畅进行",
+    "en": "moved or proceeded smoothly"
+  },
+  "seamlessly": {
+    "p": "/ˈsiːmləsli/",
+    "t": "无缝地，顺畅地",
+    "en": "smoothly and without interruption"
+  },
+  "metaanalysis": {
+    "p": "/ˌmetəˈnæləsɪs/",
+    "t": "元分析",
+    "en": "a statistical analysis combining results of multiple studies"
+  },
+  "humourrelated": {
+    "p": "/ˈhjuːmərɪleɪtɪd/",
+    "t": "与幽默相关的",
+    "en": "related to humour"
+  },
+  "breaths": {
+    "p": "/breθs/",
+    "t": "呼吸",
+    "en": "inhalations and exhalations of air"
+  },
+  "imitating": {
+    "p": "/ˈɪmɪteɪtɪŋ/",
+    "t": "模仿",
+    "en": "copying the actions of someone or something"
+  },
+  "tickle": {
+    "p": "/ˈtɪkl/",
+    "t": "呵痒，使发痒",
+    "en": "to touch lightly causing laughter or twitching"
+  },
+  "micro": {
+    "p": "/ˈmaɪkrəʊ/",
+    "t": "微小的",
+    "en": "very small in scale"
+  },
+  "hunched": {
+    "p": "/hʌntʃt/",
+    "t": "弓着背的",
+    "en": "bent forward with the back curved"
+  },
+  "guides": {
+    "p": "/ɡaɪdz/",
+    "t": "指导，引导",
+    "en": "people or things that show the way"
+  },
+  "gentle": {
+    "p": "/ˈdʒentl/",
+    "t": "温和的，轻柔的",
+    "en": "mild and not harsh"
+  },
+  "eases": {
+    "p": "/ˈiːzɪz/",
+    "t": "减轻，缓解",
+    "en": "makes less severe or difficult"
+  },
+  "tension": {
+    "p": "/ˈtenʃn/",
+    "t": "紧张，张力",
+    "en": "a state of being stretched tight or strained"
+  },
+  "posture": {
+    "p": "/ˈpɒstʃə/",
+    "t": "姿势，体态",
+    "en": "the position in which someone holds their body"
+  },
+  "stretching": {
+    "p": "/ˈstretʃɪŋ/",
+    "t": "伸展，拉伸",
+    "en": "extending limbs or muscles"
+  },
+  "inherent": {
+    "p": "/ɪnˈhɪərənt/",
+    "t": "固有的，内在的",
+    "en": "existing as a natural or permanent quality"
+  },
+  "inhale": {
+    "p": "/ɪnˈheɪl/",
+    "t": "吸气",
+    "en": "to breathe in"
+  },
+  "chest": {
+    "p": "/tʃest/",
+    "t": "胸部",
+    "en": "the front part of the body between neck and abdomen"
+  },
+  "exhale": {
+    "p": "/eksˈheɪl/",
+    "t": "呼气",
+    "en": "to breathe out"
+  },
+  "soften": {
+    "p": "/ˈsɒfn/",
+    "t": "使变软，缓和",
+    "en": "to make or become less hard or severe"
+  },
+  "abundant": {
+    "p": "/əˈbʌndənt/",
+    "t": "丰富的，充足的",
+    "en": "existing in large quantities"
+  },
+  "parasympathetic": {
+    "p": "/ˌpærəˌsɪmpəˈθetɪk/",
+    "t": "副交感的",
+    "en": "relating to the part of the nervous system that calms the body"
+  },
+  "digest": {
+    "p": "/daɪˈdʒest/",
+    "t": "消化",
+    "en": "to break down food in the body"
+  },
+  "boosted": {
+    "p": "/ˈbuːstɪd/",
+    "t": "增强，提升",
+    "en": "increased or improved"
+  },
+  "alpha": {
+    "p": "/ˈælfə/",
+    "t": "阿尔法（脑波）",
+    "en": "relating to a type of brain wave"
+  },
+  "focussed": {
+    "p": "/ˈfəʊkəst/",
+    "t": "集中的，专注的",
+    "en": "concentrated on a particular thing"
+  },
+  "theta": {
+    "p": "/ˈθiːtə/",
+    "t": "西塔（脑波）",
+    "en": "relating to a type of brain wave"
+  },
+  "relaxation": {
+    "p": "/ˌriːlækˈseɪʃn/",
+    "t": "放松",
+    "en": "the state of being free from tension"
+  },
+  "advises": {
+    "p": "/ədˈvaɪzɪz/",
+    "t": "建议",
+    "en": "gives recommendations"
+  },
+  "breathwork": {
+    "p": "/ˈbreθwɜːk/",
+    "t": "呼吸练习",
+    "en": "breathing techniques used for relaxation or health"
+  },
+  "sensation": {
+    "p": "/senˈseɪʃn/",
+    "t": "感觉，知觉",
+    "en": "a physical feeling or perception"
+  },
+  "selfsoothing": {
+    "p": "/ˌselfˈsuːðɪŋ/",
+    "t": "自我安抚",
+    "en": "the act of calming oneself"
+  },
+  "practiced": {
+    "p": "/ˈpræktɪst/",
+    "t": "练习过的，熟练的",
+    "en": "performed repeatedly to gain skill"
+  },
+  "hormone": {
+    "p": "/ˈhɔːməʊn/",
+    "t": "激素",
+    "en": "a chemical substance produced in the body"
+  },
+  "warmth": {
+    "p": "/wɔːmθ/",
+    "t": "温暖",
+    "en": "the quality of being warm"
+  },
+  "washing": {
+    "p": "/ˈwɒʃɪŋ/",
+    "t": "洗涤，冲洗",
+    "en": "the act of cleaning with water"
+  },
+  "recovered": {
+    "p": "/rɪˈkʌvəd/",
+    "t": "恢复的，康复的",
+    "en": "returned to a normal state of health"
+  },
+  "melissa": {
+    "p": "/məˈlɪsə/",
+    "t": "梅丽莎（人名）；香蜂草",
+    "en": "a female name; also a plant of the mint family"
+  },
+  "hogenboom": {
+    "p": "/ˈhəʊɡənbuːm/",
+    "t": "霍根布姆（姓氏）",
+    "en": "a surname"
+  },
+  "shortly": {
+    "p": "/ˈʃɔːtli/",
+    "t": "不久，很快；简短地",
+    "en": "soon; in a few words"
+  },
+  "rebuked": {
+    "p": "/rɪˈbjuːkt/",
+    "t": "斥责，指责",
+    "en": "criticized sharply; reprimanded"
+  },
+  "engrave": {
+    "p": "/ɪnˈɡreɪv/",
+    "t": "雕刻，镌刻",
+    "en": "to cut or carve a design into a surface"
+  },
+  "disrepair": {
+    "p": "/ˌdɪsrɪˈpeə/",
+    "t": "失修，破损",
+    "en": "a state of being in bad condition"
+  },
+  "obsessed": {
+    "p": "/əbˈsest/",
+    "t": "着迷的，痴迷的",
+    "en": "unable to stop thinking about something"
+  },
+  "assassinated": {
+    "p": "/əˈsæsɪneɪtɪd/",
+    "t": "暗杀，刺杀",
+    "en": "killed by a sudden violent attack, usually for political reasons"
+  },
+  "cachet": {
+    "p": "/ˈkæʃeɪ/",
+    "t": "威望，声望",
+    "en": "prestige or distinction"
+  },
+  "complied": {
+    "p": "/kəmˈplaɪd/",
+    "t": "遵从，服从",
+    "en": "acted in accordance with a rule or request"
+  },
+  "obscuring": {
+    "p": "/əbˈskjʊərɪŋ/",
+    "t": "使模糊，遮蔽",
+    "en": "making unclear or difficult to see"
+  },
+  "removal": {
+    "p": "/rɪˈmuːvl/",
+    "t": "移除，去除",
+    "en": "the act of taking something away"
+  },
+  "demolition": {
+    "p": "/ˌdeməˈlɪʃn/",
+    "t": "拆除，毁坏",
+    "en": "the destruction of a building or structure"
+  },
+  "sounded": {
+    "p": "/ˈsaʊndɪd/",
+    "t": "听起来；发出声音",
+    "en": "seemed; produced a sound"
+  },
+  "destined": {
+    "p": "/ˈdestɪnd/",
+    "t": "注定的，预定的",
+    "en": "certain to happen or be; intended for a particular purpose"
+  },
+  "destitute": {
+    "p": "/ˈdestɪtjuːt/",
+    "t": "贫困的，一无所有的",
+    "en": "extremely poor; lacking basic necessities"
+  },
+  "plummeted": {
+    "p": "/ˈplʌmɪtɪd/",
+    "t": "暴跌，骤降",
+    "en": "fell or dropped steeply"
+  },
+  "resulting": {
+    "p": "/rɪˈzʌltɪŋ/",
+    "t": "由此产生的，作为结果的",
+    "en": "caused by or following as a consequence"
+  },
+  "shortfall": {
+    "p": "/ˈʃɔːtfɔːl/",
+    "t": "不足，缺口",
+    "en": "a deficit; an amount by which something is less than expected"
+  },
+  "monument": {
+    "p": "/ˈmɒnjumənt/",
+    "t": "纪念碑，纪念物",
+    "en": "a structure erected to commemorate a person or event"
+  },
+  "astrophysicist": {
+    "p": "/ˌæstrəʊˈfɪzɪsɪst/",
+    "t": "天体物理学家",
+    "en": "a scientist who studies the physics of celestial objects"
+  },
+  "beluga": {
+    "p": "/bəˈluːɡə/",
+    "t": "白鲸",
+    "en": "a white whale found in Arctic waters"
+  },
+  "toprated": {
+    "p": "/ˌtɒpˈreɪtɪd/",
+    "t": "顶级评价的，评分最高的",
+    "en": "having the highest rating or ranking"
+  },
+  "aquariums": {
+    "p": "/əˈkweəriəmz/",
+    "t": "水族馆；水族箱",
+    "en": "places or tanks where aquatic animals and plants are kept"
+  },
+  "steal": {
+    "p": "/stiːl/",
+    "t": "偷，窃取",
+    "en": "to take something without permission or illegally"
   }
 }
