@@ -41323,5 +41323,640 @@
     "p": "/ˈtɜːkiz/",
     "t": "火鸡（复数）；失败之作",
     "en": "large birds of the genus Meleagris; (slang) failures or flops"
+  },
+  "overwhelmed": {
+    "p": "/ˌəʊvəˈwelmd/",
+    "t": "不堪重负的；被压倒的",
+    "en": "feeling buried or overpowered by too much of something"
+  },
+  "micropractices": {
+    "p": "/ˈmaɪkrəʊˌpræktɪsɪz/",
+    "t": "微练习",
+    "en": "small, brief practices done regularly"
+  },
+  "uncontrollably": {
+    "p": "/ˌʌnkənˈtrəʊləbli/",
+    "t": "无法控制地",
+    "en": "in a way that cannot be controlled"
+  },
+  "belly": {
+    "p": "/ˈbeli/",
+    "t": "腹部；肚子",
+    "en": "the front part of the body below the chest"
+  },
+  "hurts": {
+    "p": "/hɜːts/",
+    "t": "疼痛；感到痛",
+    "en": "feels pain or causes pain"
+  },
+  "breathing": {
+    "p": "/ˈbriːðɪŋ/",
+    "t": "呼吸",
+    "en": "the process of taking air into and out of the lungs"
+  },
+  "emitting": {
+    "p": "/ɪˈmɪtɪŋ/",
+    "t": "发出；散发",
+    "en": "sending out or giving off something"
+  },
+  "meditation": {
+    "p": "/ˌmedɪˈteɪʃn/",
+    "t": "冥想",
+    "en": "the practice of focusing the mind to achieve calm"
+  },
+  "swims": {
+    "p": "/swɪmz/",
+    "t": "游泳；游动",
+    "en": "moves through water using the body"
+  },
+  "selfcare": {
+    "p": "/ˌselfˈkeə(r)/",
+    "t": "自我关怀",
+    "en": "the practice of taking care of one's own health and wellbeing"
+  },
+  "initiating": {
+    "p": "/ɪˈnɪʃieɪtɪŋ/",
+    "t": "发起；开始",
+    "en": "starting or beginning something"
+  },
+  "nonhumorous": {
+    "p": "/ˌnɒnˈhjuːmərəs/",
+    "t": "非幽默的；不滑稽的",
+    "en": "not funny or humorous"
+  },
+  "giggles": {
+    "p": "/ˈɡɪɡlz/",
+    "t": "咯咯笑",
+    "en": "light, silly laughs"
+  },
+  "jovial": {
+    "p": "/ˈdʒəʊviəl/",
+    "t": "快活的；愉快的",
+    "en": "cheerful and friendly"
+  },
+  "flowed": {
+    "p": "/fləʊd/",
+    "t": "流动；顺畅进行",
+    "en": "moved smoothly and continuously"
+  },
+  "seamlessly": {
+    "p": "/ˈsiːmləsli/",
+    "t": "无缝地；顺畅地",
+    "en": "smoothly and without interruption"
+  },
+  "metaanalysis": {
+    "p": "/ˌmetəˈnæləsɪs/",
+    "t": "元分析",
+    "en": "a statistical analysis combining results of multiple studies"
+  },
+  "humourrelated": {
+    "p": "/ˈhjuːmə rɪˌleɪtɪd/",
+    "t": "与幽默相关的",
+    "en": "connected with humour"
+  },
+  "breaths": {
+    "p": "/breθs/",
+    "t": "呼吸（复数）",
+    "en": "instances of air taken into the lungs"
+  },
+  "imitating": {
+    "p": "/ˈɪmɪteɪtɪŋ/",
+    "t": "模仿",
+    "en": "copying the actions or sounds of someone"
+  },
+  "tickle": {
+    "p": "/ˈtɪkl/",
+    "t": "呵痒；使发痒",
+    "en": "to touch lightly causing laughter or itching"
+  },
+  "micro": {
+    "p": "/ˈmaɪkrəʊ/",
+    "t": "微小的；微",
+    "en": "very small; prefix meaning small"
+  },
+  "hunched": {
+    "p": "/hʌntʃt/",
+    "t": "弓着背的",
+    "en": "bent forward with the back curved"
+  },
+  "guides": {
+    "p": "/ɡaɪdz/",
+    "t": "引导；指导",
+    "en": "shows the way or directs"
+  },
+  "gentle": {
+    "p": "/ˈdʒentl/",
+    "t": "温柔的；轻柔的",
+    "en": "mild, kind, or not harsh"
+  },
+  "eases": {
+    "p": "/ˈiːzɪz/",
+    "t": "减轻；缓和",
+    "en": "makes less severe or relieves"
+  },
+  "tension": {
+    "p": "/ˈtenʃn/",
+    "t": "紧张；张力",
+    "en": "mental or physical strain"
+  },
+  "posture": {
+    "p": "/ˈpɒstʃə(r)/",
+    "t": "姿势；体态",
+    "en": "the way one holds one's body"
+  },
+  "stretching": {
+    "p": "/ˈstretʃɪŋ/",
+    "t": "伸展；拉伸",
+    "en": "extending the body or limbs"
+  },
+  "inherent": {
+    "p": "/ɪnˈhɪərənt/",
+    "t": "固有的；内在的",
+    "en": "existing as a natural part of something"
+  },
+  "inhale": {
+    "p": "/ɪnˈheɪl/",
+    "t": "吸气",
+    "en": "to breathe in"
+  },
+  "chest": {
+    "p": "/tʃest/",
+    "t": "胸部",
+    "en": "the front part of the body between neck and abdomen"
+  },
+  "exhale": {
+    "p": "/eksˈheɪl/",
+    "t": "呼气",
+    "en": "to breathe out"
+  },
+  "soften": {
+    "p": "/ˈsɒfn/",
+    "t": "使变软；缓和",
+    "en": "to make or become less hard or severe"
+  },
+  "abundant": {
+    "p": "/əˈbʌndənt/",
+    "t": "丰富的；充足的",
+    "en": "existing in large quantities"
+  },
+  "parasympathetic": {
+    "p": "/ˌpærəˌsɪmpəˈθetɪk/",
+    "t": "副交感（神经）的",
+    "en": "relating to the part of the nervous system that calms the body"
+  },
+  "digest": {
+    "p": "/daɪˈdʒest/",
+    "t": "消化",
+    "en": "to break down food in the body"
+  },
+  "boosted": {
+    "p": "/ˈbuːstɪd/",
+    "t": "增强的；提升的",
+    "en": "increased or improved"
+  },
+  "alpha": {
+    "p": "/ˈælfə/",
+    "t": "阿尔法（脑波）",
+    "en": "relating to a type of brain wave"
+  },
+  "focussed": {
+    "p": "/ˈfəʊkəst/",
+    "t": "专注的",
+    "en": "giving full attention to something"
+  },
+  "theta": {
+    "p": "/ˈθiːtə/",
+    "t": "西塔（脑波）",
+    "en": "relating to a type of brain wave"
+  },
+  "relaxation": {
+    "p": "/ˌriːlækˈseɪʃn/",
+    "t": "放松",
+    "en": "the state of being free from tension"
+  },
+  "advises": {
+    "p": "/ədˈvaɪzɪz/",
+    "t": "建议",
+    "en": "gives recommendations or suggestions"
+  },
+  "breathwork": {
+    "p": "/ˈbreθwɜːk/",
+    "t": "呼吸练习",
+    "en": "breathing exercises for health or relaxation"
+  },
+  "sensation": {
+    "p": "/senˈseɪʃn/",
+    "t": "感觉；知觉",
+    "en": "a physical feeling or perception"
+  },
+  "selfsoothing": {
+    "p": "/ˌselfˈsuːðɪŋ/",
+    "t": "自我安抚",
+    "en": "calming oneself"
+  },
+  "practiced": {
+    "p": "/ˈpræktɪst/",
+    "t": "练习过的；熟练的",
+    "en": "done repeatedly or skilled through practice"
+  },
+  "hormone": {
+    "p": "/ˈhɔːməʊn/",
+    "t": "激素；荷尔蒙",
+    "en": "a chemical substance regulating body functions"
+  },
+  "warmth": {
+    "p": "/wɔːmθ/",
+    "t": "温暖",
+    "en": "the quality of being warm"
+  },
+  "washing": {
+    "p": "/ˈwɒʃɪŋ/",
+    "t": "洗涤；清洗",
+    "en": "the act of cleaning with water"
+  },
+  "melissa": {
+    "p": "/məˈlɪsə/",
+    "t": "梅利莎（人名）",
+    "en": "a female given name"
+  },
+  "hogenboom": {
+    "p": "/ˈhəʊɡənbuːm/",
+    "t": "霍根布姆（姓氏）",
+    "en": "a surname"
+  },
+  "insulin": {
+    "p": "/ˈɪnsjʊlɪn/",
+    "t": "胰岛素",
+    "en": "A hormone that regulates blood sugar levels."
+  },
+  "shocking": {
+    "p": "/ˈʃɒkɪŋ/",
+    "t": "令人震惊的",
+    "en": "Causing great surprise or disgust."
+  },
+  "rationing": {
+    "p": "/ˈræʃənɪŋ/",
+    "t": "配给制",
+    "en": "The controlled distribution of scarce resources."
+  },
+  "outofcontrol": {
+    "p": "/ˌaʊtəv kənˈtrəʊl/",
+    "t": "失控的",
+    "en": "No longer manageable or restrained."
+  },
+  "hikes": {
+    "p": "/haɪks/",
+    "t": "涨价；远足",
+    "en": "Sharp increases, especially in prices; long walks."
+  },
+  "patent": {
+    "p": "/ˈpeɪtnt/",
+    "t": "专利",
+    "en": "An exclusive right to an invention for a set period."
+  },
+  "exploited": {
+    "p": "/ɪkˈsplɔɪtɪd/",
+    "t": "被剥削的；被利用的",
+    "en": "Taken advantage of unfairly for profit."
+  },
+  "outrage": {
+    "p": "/ˈaʊtreɪdʒ/",
+    "t": "愤怒；暴行",
+    "en": "A strong feeling of anger and shock."
+  },
+  "unaffordable": {
+    "p": "/ˌʌnəˈfɔːdəbl/",
+    "t": "负担不起的",
+    "en": "Too expensive to be afforded."
+  },
+  "capping": {
+    "p": "/ˈkæpɪŋ/",
+    "t": "设定上限",
+    "en": "Setting an upper limit on something."
+  },
+  "outofpocket": {
+    "p": "/ˌaʊtəv ˈpɒkɪt/",
+    "t": "自付的",
+    "en": "Paid directly by the person rather than by insurance."
+  },
+  "prescriptions": {
+    "p": "/prɪˈskrɪpʃnz/",
+    "t": "处方",
+    "en": "Written orders from a doctor for medicine."
+  },
+  "drugmakers": {
+    "p": "/ˈdrʌɡmeɪkəz/",
+    "t": "制药公司",
+    "en": "Companies that manufacture pharmaceutical drugs."
+  },
+  "splashy": {
+    "p": "/ˈsplæʃi/",
+    "t": "引人注目的",
+    "en": "Attracting attention in a showy way."
+  },
+  "announcements": {
+    "p": "/əˈnaʊnsmənts/",
+    "t": "公告；声明",
+    "en": "Public or formal statements about something."
+  },
+  "uninsured": {
+    "p": "/ˌʌnɪnˈʃʊəd/",
+    "t": "无保险的",
+    "en": "Not covered by insurance."
+  },
+  "forgiven": {
+    "p": "/fəˈɡɪvn/",
+    "t": "被免除的",
+    "en": "Pardoned or cancelled, as of a debt."
+  },
+  "bluntly": {
+    "p": "/ˈblʌntli/",
+    "t": "直率地",
+    "en": "In a direct and frank manner."
+  },
+  "shockingly": {
+    "p": "/ˈʃɒkɪŋli/",
+    "t": "令人震惊地",
+    "en": "In a way that causes great surprise."
+  },
+  "frustratingly": {
+    "p": "/frʌˈstreɪtɪŋli/",
+    "t": "令人沮丧地",
+    "en": "In a way that causes annoyance or discouragement."
+  },
+  "monstrous": {
+    "p": "/ˈmɒnstrəs/",
+    "t": "骇人的；巨大的",
+    "en": "Outrageously wrong or huge."
+  },
+  "pricing": {
+    "p": "/ˈpraɪsɪŋ/",
+    "t": "定价",
+    "en": "The act of setting prices for goods or services."
+  },
+  "mandates": {
+    "p": "/ˈmændeɪts/",
+    "t": "强制要求",
+    "en": "Official orders or requirements."
+  },
+  "rationed": {
+    "p": "/ˈræʃənd/",
+    "t": "配给的",
+    "en": "Distributed in limited amounts."
+  },
+  "endocrinologist": {
+    "p": "/ˌendəkrɪˈnɒlədʒɪst/",
+    "t": "内分泌学家",
+    "en": "A doctor specializing in hormones and glands."
+  },
+  "advocating": {
+    "p": "/ˈædvəkeɪtɪŋ/",
+    "t": "倡导",
+    "en": "Publicly supporting or recommending something."
+  },
+  "protections": {
+    "p": "/prəˈtekʃnz/",
+    "t": "保护措施",
+    "en": "Measures that keep someone or something safe."
+  },
+  "pharmacy": {
+    "p": "/ˈfɑːməsi/",
+    "t": "药房",
+    "en": "A shop where medicines are prepared and sold."
+  },
+  "sticker": {
+    "p": "/ˈstɪkə/",
+    "t": "标签；贴纸",
+    "en": "A small adhesive label showing price or information."
+  },
+  "starters": {
+    "p": "/ˈstɑːtəz/",
+    "t": "开胃菜；起步者",
+    "en": "First courses of a meal; things that begin something."
+  },
+  "flashy": {
+    "p": "/ˈflæʃi/",
+    "t": "花哨的",
+    "en": "Attracting attention by being showy."
+  },
+  "enrolling": {
+    "p": "/ɪnˈrəʊlɪŋ/",
+    "t": "注册；加入",
+    "en": "Signing up to join a program or institution."
+  },
+  "cards": {
+    "p": "/kɑːdz/",
+    "t": "卡片",
+    "en": "Small pieces of stiff paper or plastic."
+  },
+  "pledge": {
+    "p": "/pledʒ/",
+    "t": "承诺",
+    "en": "A solemn promise or undertaking."
+  },
+  "generic": {
+    "p": "/dʒəˈnerɪk/",
+    "t": "仿制药；通用的",
+    "en": "A drug sold under its chemical name, not a brand."
+  },
+  "geography": {
+    "p": "/dʒiˈɒɡrəfi/",
+    "t": "地理",
+    "en": "The study of the earth's physical features."
+  },
+  "insulins": {
+    "p": "/ˈɪnsjʊlɪnz/",
+    "t": "胰岛素（复数）",
+    "en": "Various types or brands of insulin."
+  },
+  "voluntary": {
+    "p": "/ˈvɒləntri/",
+    "t": "自愿的",
+    "en": "Done by choice and without compulsion."
+  },
+  "prescription": {
+    "p": "/prɪˈskrɪpʃn/",
+    "t": "处方",
+    "en": "A doctor's written order for medicine."
+  },
+  "loopholes": {
+    "p": "/ˈluːphəʊlz/",
+    "t": "漏洞",
+    "en": "Gaps in rules allowing evasion of obligations."
+  },
+  "smallgroup": {
+    "p": "/ˈsmɔːl ɡruːp/",
+    "t": "小团体",
+    "en": "A small number of people grouped together."
+  },
+  "selffunded": {
+    "p": "/ˌself ˈfʌndɪd/",
+    "t": "自筹资金的",
+    "en": "Financed by one's own money rather than outside funds."
+  },
+  "enforced": {
+    "p": "/ɪnˈfɔːst/",
+    "t": "强制执行的",
+    "en": "Compelled to be obeyed or carried out."
+  },
+  "insured": {
+    "p": "/ɪnˈʃʊəd/",
+    "t": "有保险的",
+    "en": "Covered by an insurance policy."
+  },
+  "wellness": {
+    "p": "/ˈwelnəs/",
+    "t": "健康；保健",
+    "en": "The state of being healthy in body and mind."
+  },
+  "contradictory": {
+    "p": "/ˌkɒntrəˈdɪktəri/",
+    "t": "矛盾的",
+    "en": "Mutually opposed or inconsistent."
+  },
+  "debates": {
+    "p": "/dɪˈbeɪts/",
+    "t": "辩论",
+    "en": "Formal discussions of opposing arguments."
+  },
+  "contextualize": {
+    "p": "/kənˈtekstʃuəlaɪz/",
+    "t": "置于语境中",
+    "en": "To place something in its proper context."
+  },
+  "instituted": {
+    "p": "/ˈɪnstɪtjuːtɪd/",
+    "t": "建立的；实施的",
+    "en": "Established or put into effect."
+  },
+  "permonth": {
+    "p": "/pə ˈmʌnθ/",
+    "t": "每月",
+    "en": "For each month."
+  },
+  "substitutions": {
+    "p": "/ˌsʌbstɪˈtjuːʃnz/",
+    "t": "替代品",
+    "en": "Things used in place of others."
+  },
+  "frustrate": {
+    "p": "/frʌˈstreɪt/",
+    "t": "使沮丧；挫败",
+    "en": "To make someone feel annoyed or discouraged."
+  },
+  "consequence": {
+    "p": "/ˈkɒnsɪkwəns/",
+    "t": "后果",
+    "en": "A result or effect of an action."
+  },
+  "legislative": {
+    "p": "/ˈledʒɪslətɪv/",
+    "t": "立法的",
+    "en": "Relating to the making of laws."
+  },
+  "selfcongratulations": {
+    "p": "/ˌself kənˌɡrætʃuˈleɪʃnz/",
+    "t": "自我祝贺",
+    "en": "Praising oneself for an achievement."
+  },
+  "worstcase": {
+    "p": "/ˈwɜːst keɪs/",
+    "t": "最坏情况",
+    "en": "The most unfavorable possible scenario."
+  },
+  "diabetics": {
+    "p": "/ˌdaɪəˈbiːtɪks/",
+    "t": "糖尿病患者",
+    "en": "People suffering from diabetes."
+  },
+  "spike": {
+    "p": "/spaɪk/",
+    "t": "急剧上升",
+    "en": "A sharp increase in amount or rate."
+  },
+  "diabetic": {
+    "p": "/ˌdaɪəˈbiːtɪk/",
+    "t": "糖尿病的；糖尿病患者",
+    "en": "Relating to diabetes; a person with diabetes."
+  },
+  "ketoacidosis": {
+    "p": "/ˌkiːtəʊˌæsɪˈdəʊsɪs/",
+    "t": "酮酸中毒",
+    "en": "A dangerous buildup of acids in the blood due to diabetes."
+  },
+  "comprehensive": {
+    "p": "/ˌkɒmprɪˈhensɪv/",
+    "t": "全面的",
+    "en": "Including all or nearly all elements."
+  },
+  "placing": {
+    "p": "/ˈpleɪsɪŋ/",
+    "t": "放置",
+    "en": "Putting something in a particular position."
+  },
+  "procuring": {
+    "p": "/prəˈkjʊərɪŋ/",
+    "t": "采购；获得",
+    "en": "Obtaining or acquiring something."
+  },
+  "medicines": {
+    "p": "/ˈmedsnz/",
+    "t": "药物",
+    "en": "Substances used to treat or prevent disease."
+  },
+  "catching": {
+    "p": "/ˈkætʃɪŋ/",
+    "t": "捕捉；传染性的",
+    "en": "Grasping something; easily transmitted."
+  },
+  "governmentowned": {
+    "p": "/ˈɡʌvənmənt əʊnd/",
+    "t": "国有的",
+    "en": "Owned by the government."
+  },
+  "owned": {
+    "p": "/əʊnd/",
+    "t": "拥有的",
+    "en": "Having something as one's property."
+  },
+  "production": {
+    "p": "/prəˈdʌkʃn/",
+    "t": "生产",
+    "en": "The process of making or growing goods."
+  },
+  "forprofit": {
+    "p": "/fɔː ˈprɒfɪt/",
+    "t": "以营利为目的的",
+    "en": "Operated primarily to make money."
+  },
+  "corporations": {
+    "p": "/ˌkɔːpəˈreɪʃnz/",
+    "t": "公司",
+    "en": "Large companies or business entities."
+  },
+  "monopoly": {
+    "p": "/məˈnɒpəli/",
+    "t": "垄断",
+    "en": "Exclusive control of a commodity or market."
+  },
+  "gouging": {
+    "p": "/ˈɡaʊdʒɪŋ/",
+    "t": "哄抬价格",
+    "en": "Charging excessively high prices."
+  },
+  "ordinary": {
+    "p": "/ˈɔːdnri/",
+    "t": "普通的",
+    "en": "Normal or usual; not special."
+  },
+  "complacency": {
+    "p": "/kəmˈpleɪsnsi/",
+    "t": "自满",
+    "en": "Smug satisfaction with oneself, unaware of dangers."
+  },
+  "copay": {
+    "p": "/ˈkəʊpeɪ/",
+    "t": "共付额",
+    "en": "A fixed amount paid by a patient for a service."
   }
 }
