@@ -40913,5 +40913,415 @@
     "p": "/stiːl/",
     "t": "偷窃；便宜货",
     "en": "to take without permission; a bargain"
+  },
+  "household": {
+    "p": "/ˈhaʊshəʊld/",
+    "t": "家庭，住户",
+    "en": "a group of people living together in one home"
+  },
+  "landfill": {
+    "p": "/ˈlændfɪl/",
+    "t": "垃圾填埋场",
+    "en": "a site where waste is buried in the ground"
+  },
+  "collects": {
+    "p": "/kəˈlekts/",
+    "t": "收集",
+    "en": "gathers things together"
+  },
+  "trimmings": {
+    "p": "/ˈtrɪmɪŋz/",
+    "t": "修剪下来的碎料",
+    "en": "small pieces cut off from something"
+  },
+  "leftover": {
+    "p": "/ˈleftəʊvə/",
+    "t": "剩余的，剩饭",
+    "en": "remaining after the rest has been used"
+  },
+  "downstairs": {
+    "p": "/ˌdaʊnˈsteəz/",
+    "t": "楼下",
+    "en": "on or to a lower floor of a building"
+  },
+  "disposal": {
+    "p": "/dɪˈspəʊzl/",
+    "t": "处理，处置",
+    "en": "the act of getting rid of something"
+  },
+  "scanner": {
+    "p": "/ˈskænə/",
+    "t": "扫描仪",
+    "en": "a device that reads or examines something"
+  },
+  "displayed": {
+    "p": "/dɪˈspleɪd/",
+    "t": "展示，显示",
+    "en": "shown or presented visibly"
+  },
+  "transaction": {
+    "p": "/trænˈzækʃn/",
+    "t": "交易",
+    "en": "an instance of buying or selling something"
+  },
+  "ambitious": {
+    "p": "/æmˈbɪʃəs/",
+    "t": "有雄心的，宏大的",
+    "en": "having a strong desire for success"
+  },
+  "committing": {
+    "p": "/kəˈmɪtɪŋ/",
+    "t": "承诺，投入",
+    "en": "pledging or dedicating oneself to something"
+  },
+  "solve": {
+    "p": "/sɒlv/",
+    "t": "解决",
+    "en": "find an answer to a problem"
+  },
+  "replicating": {
+    "p": "/ˈreplɪkeɪtɪŋ/",
+    "t": "复制，重复",
+    "en": "making an exact copy of something"
+  },
+  "wastes": {
+    "p": "/weɪsts/",
+    "t": "废物，浪费",
+    "en": "unwanted or unusable materials"
+  },
+  "climatewarming": {
+    "p": "/ˈklaɪmət ˈwɔːmɪŋ/",
+    "t": "气候变暖",
+    "en": "the gradual increase in global temperature"
+  },
+  "sparked": {
+    "p": "/spɑːkt/",
+    "t": "引发，激起",
+    "en": "caused something to start or happen"
+  },
+  "urbanisation": {
+    "p": "/ˌɜːbənaɪˈzeɪʃn/",
+    "t": "城市化",
+    "en": "the process of towns and cities growing"
+  },
+  "abounded": {
+    "p": "/əˈbaʊndɪd/",
+    "t": "大量存在",
+    "en": "existed in large numbers"
+  },
+  "recycling": {
+    "p": "/ˌriːˈsaɪklɪŋ/",
+    "t": "回收利用",
+    "en": "processing waste into reusable material"
+  },
+  "almostzero": {
+    "p": "/ˈɔːlməʊst ˈzɪərəʊ/",
+    "t": "几乎为零",
+    "en": "very close to nothing"
+  },
+  "introduces": {
+    "p": "/ˌɪntrəˈdjuːsɪz/",
+    "t": "引入，介绍",
+    "en": "brings something into use or operation"
+  },
+  "volumebased": {
+    "p": "/ˈvɒljuːm beɪst/",
+    "t": "基于体积的",
+    "en": "calculated according to volume"
+  },
+  "separation": {
+    "p": "/ˌsepəˈreɪʃn/",
+    "t": "分离，分类",
+    "en": "the act of dividing things apart"
+  },
+  "dumping": {
+    "p": "/ˈdʌmpɪŋ/",
+    "t": "倾倒，丢弃",
+    "en": "depositing waste carelessly"
+  },
+  "leachate": {
+    "p": "/ˈliːtʃeɪt/",
+    "t": "渗滤液",
+    "en": "liquid that drains from waste"
+  },
+  "radiofrequency": {
+    "p": "/ˌreɪdiəʊ ˈfriːkwənsi/",
+    "t": "射频",
+    "en": "a frequency used for radio signals"
+  },
+  "scanners": {
+    "p": "/ˈskænəz/",
+    "t": "扫描仪（复数）",
+    "en": "devices that read or examine things"
+  },
+  "households": {
+    "p": "/ˈhaʊshəʊldz/",
+    "t": "家庭（复数）",
+    "en": "groups of people living together in homes"
+  },
+  "climatefriendly": {
+    "p": "/ˈklaɪmət ˈfrendli/",
+    "t": "气候友好的",
+    "en": "not harmful to the climate"
+  },
+  "buried": {
+    "p": "/ˈberid/",
+    "t": "埋藏的",
+    "en": "placed under the ground"
+  },
+  "heattrapping": {
+    "p": "/ˈhiːt ˌtræpɪŋ/",
+    "t": "吸热的，保温的",
+    "en": "keeping heat from escaping"
+  },
+  "potency": {
+    "p": "/ˈpəʊtnsi/",
+    "t": "效力，强度",
+    "en": "the strength or power of something"
+  },
+  "dioxide": {
+    "p": "/daɪˈɒksaɪd/",
+    "t": "二氧化物",
+    "en": "a compound containing two oxygen atoms"
+  },
+  "noxious": {
+    "p": "/ˈnɒkʃəs/",
+    "t": "有害的，有毒的",
+    "en": "harmful or poisonous"
+  },
+  "percolate": {
+    "p": "/ˈpɜːkəleɪt/",
+    "t": "渗透，渗滤",
+    "en": "filter gradually through a porous surface"
+  },
+  "groundwater": {
+    "p": "/ˈɡraʊndwɔːtə/",
+    "t": "地下水",
+    "en": "water held underground in the soil"
+  },
+  "bioreactor": {
+    "p": "/ˌbaɪəʊriˈæktə/",
+    "t": "生物反应器",
+    "en": "a vessel that supports a biological reaction"
+  },
+  "burned": {
+    "p": "/bɜːnd/",
+    "t": "燃烧的",
+    "en": "destroyed or consumed by fire"
+  },
+  "recycles": {
+    "p": "/ˌriːˈsaɪklz/",
+    "t": "回收利用",
+    "en": "processes waste into reusable material"
+  },
+  "receives": {
+    "p": "/rɪˈsiːvz/",
+    "t": "接收",
+    "en": "takes in or accepts something"
+  },
+  "approximately": {
+    "p": "/əˈprɒksɪmətli/",
+    "t": "大约",
+    "en": "roughly, about"
+  },
+  "reduces": {
+    "p": "/rɪˈdjuːsɪz/",
+    "t": "减少",
+    "en": "makes smaller or less"
+  },
+  "displace": {
+    "p": "/dɪsˈpleɪs/",
+    "t": "取代，置换",
+    "en": "take over the place of"
+  },
+  "valued": {
+    "p": "/ˈvæljuːd/",
+    "t": "有价值的，受重视的",
+    "en": "considered important or valuable"
+  },
+  "municipal": {
+    "p": "/mjuːˈnɪsɪpl/",
+    "t": "市政的",
+    "en": "relating to a town or city government"
+  },
+  "designated": {
+    "p": "/ˈdezɪɡneɪtɪd/",
+    "t": "指定的",
+    "en": "officially chosen for a purpose"
+  },
+  "container": {
+    "p": "/kənˈteɪnə/",
+    "t": "容器",
+    "en": "an object used to hold something"
+  },
+  "curbside": {
+    "p": "/ˈkɜːbsaɪd/",
+    "t": "路边的",
+    "en": "at the edge of a street"
+  },
+  "organics": {
+    "p": "/ɔːˈɡænɪks/",
+    "t": "有机物",
+    "en": "organic matter such as food waste"
+  },
+  "separating": {
+    "p": "/ˈsepəreɪtɪŋ/",
+    "t": "分离，分类",
+    "en": "dividing things apart"
+  },
+  "doortodoor": {
+    "p": "/ˌdɔː tə ˈdɔː/",
+    "t": "挨家挨户的",
+    "en": "going from one house to another"
+  },
+  "boroughs": {
+    "p": "/ˈbʌrəz/",
+    "t": "行政区",
+    "en": "towns or districts with their own government"
+  },
+  "notices": {
+    "p": "/ˈnəʊtɪsɪz/",
+    "t": "通知，告示",
+    "en": "written announcements"
+  },
+  "composting": {
+    "p": "/ˈkɒmpɒstɪŋ/",
+    "t": "堆肥",
+    "en": "making decayed organic material as fertiliser"
+  },
+  "solarpowered": {
+    "p": "/ˈsəʊlə ˌpaʊəd/",
+    "t": "太阳能驱动的",
+    "en": "operated using energy from the sun"
+  },
+  "convenient": {
+    "p": "/kənˈviːniənt/",
+    "t": "方便的",
+    "en": "easy and suitable to use"
+  },
+  "rodents": {
+    "p": "/ˈrəʊdnts/",
+    "t": "啮齿动物",
+    "en": "small animals such as rats and mice"
+  },
+  "cleanouts": {
+    "p": "/ˈkliːnaʊts/",
+    "t": "清理",
+    "en": "acts of emptying or clearing out"
+  },
+  "generated": {
+    "p": "/ˈdʒenəreɪtɪd/",
+    "t": "产生的",
+    "en": "produced or created"
+  },
+  "uptick": {
+    "p": "/ˈʌptɪk/",
+    "t": "小幅增加",
+    "en": "a small increase"
+  },
+  "fertiliser": {
+    "p": "/ˈfɜːtəlaɪzə/",
+    "t": "肥料",
+    "en": "a substance added to soil to help plants grow"
+  },
+  "codigested": {
+    "p": "/ˌkəʊdaɪˈdʒestɪd/",
+    "t": "共同消化的",
+    "en": "broken down together by bacteria"
+  },
+  "sewage": {
+    "p": "/ˈsuːɪdʒ/",
+    "t": "污水",
+    "en": "waste water and human waste"
+  },
+  "sludge": {
+    "p": "/slʌdʒ/",
+    "t": "污泥",
+    "en": "thick, soft waste material"
+  },
+  "biogas": {
+    "p": "/ˈbaɪəʊɡæs/",
+    "t": "沼气",
+    "en": "gas produced from organic waste"
+  },
+  "biosolids": {
+    "p": "/ˈbaɪəʊsɒlɪdz/",
+    "t": "生物固体",
+    "en": "treated organic matter from sewage"
+  },
+  "apartments": {
+    "p": "/əˈpɑːtmənts/",
+    "t": "公寓",
+    "en": "sets of rooms for living in a building"
+  },
+  "recycled": {
+    "p": "/ˌriːˈsaɪkld/",
+    "t": "回收的",
+    "en": "processed to be used again"
+  },
+  "properly": {
+    "p": "/ˈprɒpəli/",
+    "t": "正确地，适当地",
+    "en": "in a correct or suitable way"
+  },
+  "upstairs": {
+    "p": "/ˌʌpˈsteəz/",
+    "t": "楼上",
+    "en": "on or to a higher floor of a building"
+  },
+  "hitting": {
+    "p": "/ˈhɪtɪŋ/",
+    "t": "打击；击打",
+    "en": "striking or dealing a blow to"
+  },
+  "trail": {
+    "p": "/treɪl/",
+    "t": "小径；踪迹；拖曳",
+    "en": "a path or track; to drag or follow behind"
+  },
+  "postprimary": {
+    "p": "/ˌpəʊstˈpraɪməri/",
+    "t": "初选后的；小学后的",
+    "en": "relating to the period after a primary election or after primary education"
+  },
+  "convention": {
+    "p": "/kənˈvenʃn/",
+    "t": "大会；惯例；公约",
+    "en": "a large formal meeting; a customary practice; an agreement"
+  },
+  "pretend": {
+    "p": "/prɪˈtend/",
+    "t": "假装；伪装",
+    "en": "to behave as if something is true when it is not"
+  },
+  "entities": {
+    "p": "/ˈentətiz/",
+    "t": "实体；存在物",
+    "en": "things that exist independently; beings or organizations"
+  },
+  "booked": {
+    "p": "/bʊkt/",
+    "t": "预订的；已订的",
+    "en": "reserved or scheduled in advance"
+  },
+  "favors": {
+    "p": "/ˈfeɪvəz/",
+    "t": "恩惠；帮助；赞成",
+    "en": "acts of kindness; approvals or preferences"
+  },
+  "tilcayo": {
+    "p": "/tɪlˈkaɪəʊ/",
+    "t": "（无通用释义，疑似专有名词/地名）",
+    "en": "a proper noun or place name; no standard English meaning"
+  },
+  "apocalypse": {
+    "p": "/əˈpɒkəlɪps/",
+    "t": "启示录；大灾难",
+    "en": "a catastrophic event; the end of the world as described in Revelation"
+  },
+  "turkeys": {
+    "p": "/ˈtɜːkiz/",
+    "t": "火鸡（复数）；失败之作",
+    "en": "large birds of the genus Meleagris; (slang) failures or flops"
   }
 }
