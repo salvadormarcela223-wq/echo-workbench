@@ -41958,5 +41958,700 @@
     "p": "/ˈkəʊpeɪ/",
     "t": "共付额",
     "en": "A fixed amount paid by a patient for a service."
+  },
+  "whale": {
+    "p": "/weɪl/",
+    "t": "鲸",
+    "en": "a very large marine mammal"
+  },
+  "sonar": {
+    "p": "/ˈsəʊnɑː/",
+    "t": "声呐",
+    "en": "a system using sound waves to detect objects underwater"
+  },
+  "submarines": {
+    "p": "/ˈsʌbməriːnz/",
+    "t": "潜艇",
+    "en": "vessels that can operate underwater"
+  },
+  "hydrophone": {
+    "p": "/ˈhaɪdrəfəʊn/",
+    "t": "水听器",
+    "en": "a microphone designed to listen underwater"
+  },
+  "microphone": {
+    "p": "/ˈmaɪkrəfəʊn/",
+    "t": "麦克风",
+    "en": "a device that converts sound into electrical signals"
+  },
+  "mournful": {
+    "p": "/ˈmɔːnfʊl/",
+    "t": "悲伤的",
+    "en": "feeling or expressing sadness"
+  },
+  "disconcerting": {
+    "p": "/ˌdɪskənˈsɜːtɪŋ/",
+    "t": "令人不安的",
+    "en": "causing unease or confusion"
+  },
+  "fascinated": {
+    "p": "/ˈfæsɪneɪtɪd/",
+    "t": "着迷的",
+    "en": "extremely interested or attracted"
+  },
+  "humpback": {
+    "p": "/ˈhʌmpbæk/",
+    "t": "座头鲸",
+    "en": "a large whale with a humped back and long fins"
+  },
+  "recordings": {
+    "p": "/rɪˈkɔːdɪŋz/",
+    "t": "录音",
+    "en": "audio or video material that has been recorded"
+  },
+  "soundtrack": {
+    "p": "/ˈsaʊndtræk/",
+    "t": "配乐",
+    "en": "the music accompanying a film or recording"
+  },
+  "fortunes": {
+    "p": "/ˈfɔːtʃuːnz/",
+    "t": "命运；财富",
+    "en": "chances or luck; large amounts of money"
+  },
+  "humpbacks": {
+    "p": "/ˈhʌmpbæks/",
+    "t": "座头鲸（复数）",
+    "en": "plural of humpback, large whales"
+  },
+  "locals": {
+    "p": "/ˈləʊklz/",
+    "t": "当地人",
+    "en": "people who live in a particular area"
+  },
+  "biologists": {
+    "p": "/baɪˈɒlədʒɪsts/",
+    "t": "生物学家",
+    "en": "scientists who study living organisms"
+  },
+  "exminesweeper": {
+    "p": "/ˌeksˈmaɪnswiːpə/",
+    "t": "前扫雷舰",
+    "en": "a former naval vessel used to clear mines"
+  },
+  "generator": {
+    "p": "/ˈdʒenəreɪtə/",
+    "t": "发电机",
+    "en": "a machine that converts energy into electricity"
+  },
+  "roared": {
+    "p": "/rɔːd/",
+    "t": "咆哮",
+    "en": "made a loud, deep sound"
+  },
+  "impossibly": {
+    "p": "/ɪmˈpɒsəbli/",
+    "t": "不可能地",
+    "en": "in a way that cannot be done or is hard to believe"
+  },
+  "awful": {
+    "p": "/ˈɔːfʊl/",
+    "t": "糟糕的",
+    "en": "very bad or unpleasant"
+  },
+  "amazed": {
+    "p": "/əˈmeɪzd/",
+    "t": "惊讶的",
+    "en": "greatly surprised or impressed"
+  },
+  "variable": {
+    "p": "/ˈveəriəbl/",
+    "t": "可变的",
+    "en": "not consistent; likely to change"
+  },
+  "recording": {
+    "p": "/rɪˈkɔːdɪŋ/",
+    "t": "录音",
+    "en": "the act or result of capturing sound or images"
+  },
+  "collaborators": {
+    "p": "/kəˈlæbəreɪtəz/",
+    "t": "合作者",
+    "en": "people who work together on a project"
+  },
+  "mathematician": {
+    "p": "/ˌmæθəməˈtɪʃn/",
+    "t": "数学家",
+    "en": "an expert in mathematics"
+  },
+  "decipher": {
+    "p": "/dɪˈsaɪfə/",
+    "t": "破译",
+    "en": "to interpret or decode something difficult"
+  },
+  "scattered": {
+    "p": "/ˈskætəd/",
+    "t": "分散的",
+    "en": "spread out irregularly over an area"
+  },
+  "whalers": {
+    "p": "/ˈweɪləz/",
+    "t": "捕鲸者",
+    "en": "people who hunt whales"
+  },
+  "faded": {
+    "p": "/ˈfeɪdɪd/",
+    "t": "褪色的；消退的",
+    "en": "lost brightness or gradually disappeared"
+  },
+  "obscurity": {
+    "p": "/əbˈskjʊərəti/",
+    "t": "默默无闻",
+    "en": "the state of being unknown or unclear"
+  },
+  "realised": {
+    "p": "/ˈriːəlaɪzd/",
+    "t": "意识到",
+    "en": "became fully aware of something"
+  },
+  "realising": {
+    "p": "/ˈriːəlaɪzɪŋ/",
+    "t": "意识到",
+    "en": "becoming aware of something"
+  },
+  "rhythmic": {
+    "p": "/ˈrɪðmɪk/",
+    "t": "有节奏的",
+    "en": "having a regular repeated pattern of sound"
+  },
+  "repeats": {
+    "p": "/rɪˈpiːts/",
+    "t": "重复",
+    "en": "does or says something again"
+  },
+  "conceptual": {
+    "p": "/kənˈseptʃuəl/",
+    "t": "概念上的",
+    "en": "relating to ideas or concepts"
+  },
+  "elaborate": {
+    "p": "/ɪˈlæbərət/",
+    "t": "精心制作的",
+    "en": "involving many carefully arranged parts; detailed"
+  },
+  "environmentalist": {
+    "p": "/ɪnˌvaɪrənˈmentəlɪst/",
+    "t": "环保主义者",
+    "en": "a person who works to protect the natural world"
+  },
+  "refer": {
+    "p": "/rɪˈfɜː/",
+    "t": "提及",
+    "en": "to mention or allude to something"
+  },
+  "tracks": {
+    "p": "/træks/",
+    "t": "音轨；足迹",
+    "en": "recorded pieces of music; marks left by movement"
+  },
+  "antiwhaling": {
+    "p": "/ˌæntiˈweɪlɪŋ/",
+    "t": "反捕鲸的",
+    "en": "opposed to the hunting of whales"
+  },
+  "parties": {
+    "p": "/ˈpɑːtiz/",
+    "t": "党派；团体",
+    "en": "groups or organizations involved in an activity"
+  },
+  "catalyst": {
+    "p": "/ˈkætəlɪst/",
+    "t": "催化剂；促进因素",
+    "en": "something that speeds up or causes change"
+  },
+  "singerpoets": {
+    "p": "/ˈsɪŋəˌpəʊɪts/",
+    "t": "歌手诗人",
+    "en": "performers who both sing and write poetry"
+  },
+  "composers": {
+    "p": "/kəmˈpəʊzəz/",
+    "t": "作曲家",
+    "en": "people who write music"
+  },
+  "resonated": {
+    "p": "/ˈrezəneɪtɪd/",
+    "t": "引起共鸣",
+    "en": "produced a deep sound or had a strong emotional effect"
+  },
+  "mammal": {
+    "p": "/ˈmæml/",
+    "t": "哺乳动物",
+    "en": "a warm-blooded animal that feeds its young milk"
+  },
+  "containing": {
+    "p": "/kənˈteɪnɪŋ/",
+    "t": "包含",
+    "en": "holding or including something inside"
+  },
+  "resounding": {
+    "p": "/rɪˈzaʊndɪŋ/",
+    "t": "响亮的；巨大的",
+    "en": "very loud or emphatic"
+  },
+  "haunting": {
+    "p": "/ˈhɔːntɪŋ/",
+    "t": "萦绕心头的",
+    "en": "beautiful but sad, lingering in the mind"
+  },
+  "copies": {
+    "p": "/ˈkɒpiz/",
+    "t": "副本；拷贝",
+    "en": "duplicates or reproductions of something"
+  },
+  "albums": {
+    "p": "/ˈælbəmz/",
+    "t": "专辑",
+    "en": "collections of recorded music released together"
+  },
+  "rescuing": {
+    "p": "/ˈreskjuːɪŋ/",
+    "t": "营救",
+    "en": "saving someone or something from danger"
+  },
+  "phonograph": {
+    "p": "/ˈfəʊnəɡrɑːf/",
+    "t": "留声机",
+    "en": "an early device for recording and playing sound"
+  },
+  "historian": {
+    "p": "/hɪˈstɔːriən/",
+    "t": "历史学家",
+    "en": "a person who studies and writes about the past"
+  },
+  "cartoons": {
+    "p": "/kɑːˈtuːnz/",
+    "t": "动画片；漫画",
+    "en": "animated films or humorous drawings"
+  },
+  "fictional": {
+    "p": "/ˈfɪkʃənl/",
+    "t": "虚构的",
+    "en": "invented or imagined rather than real"
+  },
+  "beastly": {
+    "p": "/ˈbiːstli/",
+    "t": "野兽般的；恶劣的",
+    "en": "like a beast; very unpleasant"
+  },
+  "growling": {
+    "p": "/ˈɡraʊlɪŋ/",
+    "t": "低吼",
+    "en": "making a low, threatening sound"
+  },
+  "grunting": {
+    "p": "/ˈɡrʌntɪŋ/",
+    "t": "咕哝",
+    "en": "making short, low sounds"
+  },
+  "publics": {
+    "p": "/ˈpʌblɪks/",
+    "t": "公众（复数）",
+    "en": "groups of people in society"
+  },
+  "commodity": {
+    "p": "/kəˈmɒdəti/",
+    "t": "商品",
+    "en": "a raw material or product that can be traded"
+  },
+  "echelon": {
+    "p": "/ˈeʃəlɒn/",
+    "t": "阶层；梯队",
+    "en": "a level or rank in an organization"
+  },
+  "ambergris": {
+    "p": "/ˈæmbəɡriːs/",
+    "t": "龙涎香",
+    "en": "a waxy substance from sperm whales used in perfumes"
+  },
+  "perfumes": {
+    "p": "/ˈpɜːfjuːmz/",
+    "t": "香水",
+    "en": "fragrant liquids used for scent"
+  },
+  "brink": {
+    "p": "/brɪŋk/",
+    "t": "边缘",
+    "en": "the point at which something is about to happen"
+  },
+  "prewhaling": {
+    "p": "/ˌpriːˈweɪlɪŋ/",
+    "t": "捕鲸前",
+    "en": "the period before commercial whaling began"
+  },
+  "males": {
+    "p": "/meɪlz/",
+    "t": "雄性",
+    "en": "male animals"
+  },
+  "mating": {
+    "p": "/ˈmeɪtɪŋ/",
+    "t": "交配",
+    "en": "the act of pairing for reproduction"
+  },
+  "females": {
+    "p": "/ˈfiːmeɪlz/",
+    "t": "雌性",
+    "en": "female animals"
+  },
+  "warding": {
+    "p": "/ˈwɔːdɪŋ/",
+    "t": "驱避",
+    "en": "keeping away or deflecting"
+  },
+  "competing": {
+    "p": "/kəmˈpiːtɪŋ/",
+    "t": "竞争",
+    "en": "striving to gain something against others"
+  },
+  "longrange": {
+    "p": "/ˌlɒŋˈreɪndʒ/",
+    "t": "远程的",
+    "en": "covering a great distance"
+  },
+  "echolocation": {
+    "p": "/ˌekəʊləʊˈkeɪʃn/",
+    "t": "回声定位",
+    "en": "using sound waves to locate objects"
+  },
+  "havent": {
+    "p": "/ˈhævnt/",
+    "t": "没有（缩写）",
+    "en": "contraction of have not"
+  },
+  "recognised": {
+    "p": "/ˈrekəɡnaɪzd/",
+    "t": "认出；承认",
+    "en": "identified or acknowledged"
+  },
+  "harpooned": {
+    "p": "/hɑːˈpuːnd/",
+    "t": "用鱼叉刺中",
+    "en": "struck with a barbed spear"
+  },
+  "newlyformed": {
+    "p": "/ˌnjuːliˈfɔːmd/",
+    "t": "新成立的",
+    "en": "recently created or established"
+  },
+  "galvanised": {
+    "p": "/ˈɡælvənaɪzd/",
+    "t": "激励； galvanized",
+    "en": "shocked or stimulated into action"
+  },
+  "fledgling": {
+    "p": "/ˈfledʒlɪŋ/",
+    "t": "初出茅庐的",
+    "en": "new and inexperienced"
+  },
+  "legally": {
+    "p": "/ˈliːɡəli/",
+    "t": "法律上",
+    "en": "in accordance with the law"
+  },
+  "binding": {
+    "p": "/ˈbaɪndɪŋ/",
+    "t": "有约束力的",
+    "en": "imposing a legal obligation"
+  },
+  "whaling": {
+    "p": "/ˈweɪlɪŋ/",
+    "t": "捕鲸",
+    "en": "the hunting of whales"
+  },
+  "supergroups": {
+    "p": "/ˈsuːpəɡruːps/",
+    "t": "超级团体",
+    "en": "large or influential groups"
+  },
+  "environmentalism": {
+    "p": "/ɪnˌvaɪrənˈmentəlɪzəm/",
+    "t": "环保主义",
+    "en": "concern for and action to protect the environment"
+  },
+  "examining": {
+    "p": "/ɪɡˈzæmɪnɪŋ/",
+    "t": "检查",
+    "en": "inspecting or studying closely"
+  },
+  "mobilised": {
+    "p": "/ˈməʊbəlaɪzd/",
+    "t": "动员",
+    "en": "organized people for action"
+  },
+  "transforming": {
+    "p": "/trænsˈfɔːmɪŋ/",
+    "t": "改变",
+    "en": "changing completely in form or nature"
+  },
+  "primates": {
+    "p": "/ˈpraɪmeɪts/",
+    "t": "灵长类动物",
+    "en": "mammals including humans, apes, and monkeys"
+  },
+  "symbol": {
+    "p": "/ˈsɪmbl/",
+    "t": "象征",
+    "en": "a thing that represents something else"
+  },
+  "crises": {
+    "p": "/ˈkraɪsiːz/",
+    "t": "危机（复数）",
+    "en": "times of great difficulty or danger"
+  },
+  "pleas": {
+    "p": "/pliːz/",
+    "t": "恳求",
+    "en": "earnest requests"
+  },
+  "symbols": {
+    "p": "/ˈsɪmblz/",
+    "t": "象征（复数）",
+    "en": "things that represent ideas or qualities"
+  },
+  "earnest": {
+    "p": "/ˈɜːnɪst/",
+    "t": "认真的",
+    "en": "sincere and serious in intention"
+  },
+  "relaxant": {
+    "p": "/rɪˈlæksənt/",
+    "t": "放松剂",
+    "en": "a substance that relaxes muscles"
+  },
+  "whitecollar": {
+    "p": "/ˌwaɪtˈkɒlə/",
+    "t": "白领的",
+    "en": "relating to office or professional work"
+  },
+  "kickstart": {
+    "p": "/ˈkɪkstɑːt/",
+    "t": "启动",
+    "en": "to start something with a strong initial push"
+  },
+  "evolves": {
+    "p": "/ɪˈvɒlvz/",
+    "t": "进化；发展",
+    "en": "develops gradually over time"
+  },
+  "hallmarks": {
+    "p": "/ˈhɔːlmɑːks/",
+    "t": "特征",
+    "en": "distinctive features or characteristics"
+  },
+  "astonished": {
+    "p": "/əˈstɒnɪʃt/",
+    "t": "震惊的",
+    "en": "greatly surprised or amazed"
+  },
+  "converse": {
+    "p": "/kənˈvɜːs/",
+    "t": "交谈",
+    "en": "to talk with someone"
+  },
+  "codelike": {
+    "p": "/ˈkəʊdlaɪk/",
+    "t": "类似密码的",
+    "en": "resembling a code or cipher"
+  },
+  "sequences": {
+    "p": "/ˈsiːkwənsɪz/",
+    "t": "序列",
+    "en": "ordered sets of related things"
+  },
+  "codas": {
+    "p": "/ˈkəʊdəz/",
+    "t": "尾声；尾音",
+    "en": "concluding parts, especially of sound patterns"
+  },
+  "dialects": {
+    "p": "/ˈdaɪəlekts/",
+    "t": "方言",
+    "en": "forms of a language specific to a region or group"
+  },
+  "slower": {
+    "p": "/ˈsləʊə/",
+    "t": "更慢的",
+    "en": "at a lower speed"
+  },
+  "pleasing": {
+    "p": "/ˈpliːzɪŋ/",
+    "t": "令人愉快的",
+    "en": "giving satisfaction or enjoyment"
+  },
+  "harmony": {
+    "p": "/ˈhɑːməni/",
+    "t": "和谐",
+    "en": "a pleasing combination of sounds or elements"
+  },
+  "enchanting": {
+    "p": "/ɪnˈtʃɑːntɪŋ/",
+    "t": "迷人的",
+    "en": "delightful and charming"
+  },
+  "crackling": {
+    "p": "/ˈkræklɪŋ/",
+    "t": "噼啪声",
+    "en": "a series of small sharp sounds"
+  },
+  "digitising": {
+    "p": "/ˈdɪdʒɪtaɪzɪŋ/",
+    "t": "数字化",
+    "en": "converting into digital form"
+  },
+  "archiving": {
+    "p": "/ˈɑːkaɪvɪŋ/",
+    "t": "存档",
+    "en": "storing records or data for preservation"
+  },
+  "archive": {
+    "p": "/ˈɑːkaɪv/",
+    "t": "档案",
+    "en": "a collection of historical records"
+  },
+  "humanlike": {
+    "p": "/ˈhjuːmənlaɪk/",
+    "t": "类人的",
+    "en": "resembling a human"
+  },
+  "alphabet": {
+    "p": "/ˈælfəbet/",
+    "t": "字母表",
+    "en": "a set of letters used for writing a language"
+  },
+  "elusive": {
+    "p": "/ɪˈluːsɪv/",
+    "t": "难以捉摸的",
+    "en": "difficult to find, catch, or understand"
+  },
+  "soundscape": {
+    "p": "/ˈsaʊndskeɪp/",
+    "t": "声景",
+    "en": "the overall sound environment of a place"
+  },
+  "anthropogenic": {
+    "p": "/ˌænθrəpəˈdʒenɪk/",
+    "t": "人为的",
+    "en": "caused or produced by human activity"
+  },
+  "noise": {
+    "p": "/nɔɪz/",
+    "t": "噪音",
+    "en": "unwanted or unpleasant sound"
+  },
+  "unquestionably": {
+    "p": "/ʌnˈkwestʃənəbli/",
+    "t": "毫无疑问地",
+    "en": "without doubt; certainly"
+  },
+  "catalysts": {
+    "p": "/ˈkætəlɪsts/",
+    "t": "催化剂（复数）",
+    "en": "things that speed up or cause change"
+  },
+  "walks": {
+    "p": "/wɔːks/",
+    "t": "行走；散步（walk 的第三人称单数）",
+    "en": "moves at a regular pace by lifting and setting down each foot; walks"
+  },
+  "alleging": {
+    "p": "/əˈledʒɪŋ/",
+    "t": "断言，指称（allege 的现在分词）",
+    "en": "claiming or asserting something without proof"
+  },
+  "longrunning": {
+    "p": "/ˌlɒŋˈrʌnɪŋ/",
+    "t": "长期上演的；持续时间长的",
+    "en": "continuing for a long time"
+  },
+  "unfavorable": {
+    "p": "/ʌnˈfeɪvərəbl/",
+    "t": "不利的；不赞成的",
+    "en": "not favorable; adverse or disapproving"
+  },
+  "journalists": {
+    "p": "/ˈdʒɜːnəlɪsts/",
+    "t": "记者（journalist 的复数）",
+    "en": "people who write for newspapers, magazines, or news websites"
+  },
+  "dustup": {
+    "p": "/ˈdʌstʌp/",
+    "t": "争吵；打斗",
+    "en": "a quarrel or fight"
+  },
+  "appointee": {
+    "p": "/əˌpɔɪnˈtiː/",
+    "t": "被任命者",
+    "en": "a person who is appointed to a job or position"
+  },
+  "viewpoints": {
+    "p": "/ˈvjuːpɔɪnts/",
+    "t": "观点（viewpoint 的复数）",
+    "en": "points of view; perspectives"
+  },
+  "flinging": {
+    "p": "/ˈflɪŋɪŋ/",
+    "t": "扔，掷（fling 的现在分词）",
+    "en": "throwing or hurling with force"
+  },
+  "latenight": {
+    "p": "/ˌleɪtˈnaɪt/",
+    "t": "深夜的",
+    "en": "happening late at night"
+  },
+  "banned": {
+    "p": "/bænd/",
+    "t": "被禁止的（ban 的过去分词）",
+    "en": "officially prohibited"
+  },
+  "broadcast": {
+    "p": "/ˈbrɔːdkɑːst/",
+    "t": "广播，播送",
+    "en": "to transmit by radio or television"
+  },
+  "adfree": {
+    "p": "/ˌædˈfriː/",
+    "t": "无广告的",
+    "en": "without advertisements"
+  },
+  "viewing": {
+    "p": "/ˈvjuːɪŋ/",
+    "t": "观看；收看",
+    "en": "the act of watching television or a film"
+  },
+  "sheepdog": {
+    "p": "/ˈʃiːpdɒɡ/",
+    "t": "牧羊犬",
+    "en": "a dog bred to herd sheep"
+  },
+  "delighted": {
+    "p": "/dɪˈlaɪtɪd/",
+    "t": "高兴的，愉快的",
+    "en": "feeling or showing great pleasure"
+  },
+  "documentary": {
+    "p": "/ˌdɒkjuˈmentri/",
+    "t": "纪录片",
+    "en": "a film or television program presenting facts about real events"
+  },
+  "furious": {
+    "p": "/ˈfjʊəriəs/",
+    "t": "狂怒的；激烈的",
+    "en": "extremely angry; violent"
+  },
+  "adviser": {
+    "p": "/ədˈvaɪzə/",
+    "t": "顾问",
+    "en": "a person who gives advice"
   }
 }
