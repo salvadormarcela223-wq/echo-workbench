@@ -42039,15 +42039,20 @@
     "t": "悲痛，悲伤",
     "en": "deep sorrow, especially caused by loss"
   },
-  "whale": {
-    "p": "/weɪl/",
-    "t": "鲸",
-    "en": "a very large marine mammal with a streamlined body and a blowhole"
+  "overturned": {
+    "p": "/ˌəʊvəˈtɜːnd/",
+    "t": "被推翻的；翻转的",
+    "en": "reversed or turned upside down"
+  },
+  "propelling": {
+    "p": "/prəˈpelɪŋ/",
+    "t": "推进的",
+    "en": "driving or pushing forward"
   },
   "sonar": {
     "p": "/ˈsəʊnɑː/",
     "t": "声呐",
-    "en": "a system for detecting objects underwater using sound waves"
+    "en": "a system using sound waves to detect objects underwater"
   },
   "submarines": {
     "p": "/ˌsʌbməˈriːnz/",
@@ -42057,52 +42062,57 @@
   "hydrophone": {
     "p": "/ˈhaɪdrəfəʊn/",
     "t": "水听器",
-    "en": "a microphone designed to listen to underwater sound"
+    "en": "a microphone designed to listen to underwater sounds"
   },
   "microphone": {
     "p": "/ˈmaɪkrəfəʊn/",
     "t": "麦克风",
-    "en": "an instrument for converting sound waves into electrical signals"
+    "en": "a device that converts sound into electrical signals"
   },
   "mournful": {
     "p": "/ˈmɔːnfʊl/",
-    "t": "哀伤的",
-    "en": "feeling or expressing sadness or sorrow"
+    "t": "悲伤的",
+    "en": "feeling or expressing sadness"
   },
   "disconcerting": {
     "p": "/ˌdɪskənˈsɜːtɪŋ/",
     "t": "令人不安的",
-    "en": "causing one to feel unsettled or uneasy"
+    "en": "causing unease or confusion"
   },
   "fascinated": {
     "p": "/ˈfæsɪneɪtɪd/",
     "t": "着迷的",
-    "en": "strongly attracted and interested"
+    "en": "strongly attracted or interested"
   },
   "humpback": {
     "p": "/ˈhʌmpbæk/",
     "t": "座头鲸",
-    "en": "a large whale with a humped back and long pectoral fins"
+    "en": "a large whale with a humped back and long fins"
   },
   "recordings": {
     "p": "/rɪˈkɔːdɪŋz/",
     "t": "录音",
-    "en": "sound or video that has been recorded"
+    "en": "audio or video material that has been recorded"
+  },
+  "whale": {
+    "p": "/weɪl/",
+    "t": "鲸",
+    "en": "a very large marine mammal"
   },
   "soundtrack": {
     "p": "/ˈsaʊndtræk/",
-    "t": "配乐",
-    "en": "the music accompanying a film or other recording"
+    "t": "配乐；声轨",
+    "en": "the sound accompanying a film or recording"
   },
   "fortunes": {
     "p": "/ˈfɔːtʃuːnz/",
     "t": "命运；财富",
-    "en": "chance events affecting a person; wealth"
+    "en": "chances, luck, or wealth"
   },
   "humpbacks": {
     "p": "/ˈhʌmpbæks/",
     "t": "座头鲸（复数）",
-    "en": "large whales with humped backs and long pectoral fins"
+    "en": "large whales with humped backs"
   },
   "locals": {
     "p": "/ˈləʊklz/",
@@ -42117,62 +42127,62 @@
   "exminesweeper": {
     "p": "/ˌeksˈmaɪnswiːpə/",
     "t": "前扫雷舰",
-    "en": "a former naval vessel used to clear mines"
+    "en": "a former minesweeping vessel"
   },
   "generator": {
     "p": "/ˈdʒenəreɪtə/",
     "t": "发电机",
-    "en": "a machine that converts mechanical energy into electrical energy"
+    "en": "a machine that converts energy into electricity"
   },
   "roared": {
     "p": "/rɔːd/",
-    "t": "吼叫",
-    "en": "made a loud, deep sound"
+    "t": "咆哮；轰鸣",
+    "en": "made a loud deep sound"
   },
   "impossibly": {
     "p": "/ɪmˈpɒsəbli/",
     "t": "不可能地",
-    "en": "in a way that is impossible or very difficult"
+    "en": "in a way that seems impossible"
   },
   "awful": {
     "p": "/ˈɔːfʊl/",
-    "t": "糟糕的",
+    "t": "糟糕的；可怕的",
     "en": "very bad or unpleasant"
   },
   "amazed": {
     "p": "/əˈmeɪzd/",
     "t": "惊讶的",
-    "en": "greatly surprised or impressed"
+    "en": "filled with great surprise or wonder"
   },
   "variable": {
     "p": "/ˈveəriəbl/",
-    "t": "可变的",
-    "en": "not consistent or having a fixed pattern"
+    "t": "可变的；变量",
+    "en": "liable to change; not constant"
   },
   "recording": {
     "p": "/rɪˈkɔːdɪŋ/",
     "t": "录音",
-    "en": "the action or process of recording sound or images"
+    "en": "the act or result of capturing sound or images"
   },
   "collaborators": {
     "p": "/kəˈlæbəreɪtəz/",
     "t": "合作者",
-    "en": "people who work jointly on an activity or project"
+    "en": "people who work together on a project"
   },
   "mathematician": {
-    "p": "/ˌmæθəməˈtɪʃən/",
+    "p": "/ˌmæθəməˈtɪʃn/",
     "t": "数学家",
-    "en": "an expert in mathematics"
+    "en": "a person who studies or is skilled in mathematics"
   },
   "decipher": {
     "p": "/dɪˈsaɪfə/",
-    "t": "破译",
-    "en": "to convert a coded message into intelligible form"
+    "t": "破译；解读",
+    "en": "to decode or interpret something difficult"
   },
   "scattered": {
     "p": "/ˈskætəd/",
     "t": "分散的",
-    "en": "occurring or found at intervals rather than clustered"
+    "en": "spread out over a wide area"
   },
   "whalers": {
     "p": "/ˈweɪləz/",
@@ -42181,33 +42191,33 @@
   },
   "faded": {
     "p": "/ˈfeɪdɪd/",
-    "t": "消退的",
-    "en": "gradually grew faint or disappeared"
+    "t": "褪色的；逐渐消失的",
+    "en": "gradually lost brightness or became less distinct"
   },
   "obscurity": {
     "p": "/əbˈskjʊərəti/",
-    "t": "默默无闻",
-    "en": "the state of being unknown or inconspicuous"
+    "t": "默默无闻；晦涩",
+    "en": "the state of being unknown or unclear"
   },
   "realised": {
     "p": "/ˈriːəlaɪzd/",
-    "t": "意识到",
-    "en": "became fully aware of something"
+    "t": "意识到；实现",
+    "en": "became aware of or achieved something"
   },
   "realising": {
     "p": "/ˈriːəlaɪzɪŋ/",
-    "t": "意识到",
-    "en": "becoming fully aware of something"
+    "t": "意识到；实现中",
+    "en": "becoming aware of or achieving"
   },
   "rhythmic": {
     "p": "/ˈrɪðmɪk/",
     "t": "有节奏的",
-    "en": "having a regular repeated pattern of movement or sound"
+    "en": "having a regular pattern of sounds or movements"
   },
   "repeats": {
     "p": "/rɪˈpiːts/",
     "t": "重复",
-    "en": "does or says something again"
+    "en": "says or does something again"
   },
   "conceptual": {
     "p": "/kənˈseptʃuəl/",
@@ -42216,23 +42226,23 @@
   },
   "elaborate": {
     "p": "/ɪˈlæbərət/",
-    "t": "精心制作的",
-    "en": "involving many carefully arranged parts; detailed"
+    "t": "精心制作的；详尽的",
+    "en": "detailed and complicated in design"
   },
   "environmentalist": {
     "p": "/ɪnˌvaɪrənˈmentəlɪst/",
     "t": "环保主义者",
-    "en": "a person who works to protect the natural environment"
+    "en": "a person who advocates for protecting the environment"
   },
   "refer": {
     "p": "/rɪˈfɜː/",
-    "t": "提及",
-    "en": "to mention or allude to something"
+    "t": "提到；参考",
+    "en": "to mention or direct attention to"
   },
   "tracks": {
     "p": "/træks/",
-    "t": "音轨",
-    "en": "individual recorded pieces of music or sound"
+    "t": "轨道；踪迹；音轨",
+    "en": "paths, marks, or recorded pieces of music"
   },
   "antiwhaling": {
     "p": "/ˌæntiˈweɪlɪŋ/",
@@ -42241,18 +42251,18 @@
   },
   "parties": {
     "p": "/ˈpɑːtiz/",
-    "t": "政党；当事方",
-    "en": "groups or organizations involved in an activity"
+    "t": "聚会，派对；政党（复数）",
+    "en": "social gatherings for enjoyment; political organizations (plural)"
   },
   "catalyst": {
     "p": "/ˈkætəlɪst/",
-    "t": "催化剂",
-    "en": "something that speeds up a reaction or change"
+    "t": "催化剂；促因",
+    "en": "something that causes or speeds up change"
   },
   "singerpoets": {
-    "p": "/ˈsɪŋəˌpəʊɪts/",
+    "p": "/ˈsɪŋəpəʊɪts/",
     "t": "歌手诗人",
-    "en": "people who are both singers and poets"
+    "en": "performers who are both singers and poets"
   },
   "composers": {
     "p": "/kəmˈpəʊzəz/",
@@ -42261,23 +42271,23 @@
   },
   "resonated": {
     "p": "/ˈrezəneɪtɪd/",
-    "t": "产生共鸣",
-    "en": "evoked a feeling or memory; produced a deep sound"
+    "t": "共鸣；回响",
+    "en": "produced a deep, full sound or evoked a strong response"
   },
   "mammal": {
     "p": "/ˈmæml/",
     "t": "哺乳动物",
-    "en": "a warm-blooded vertebrate that feeds its young milk"
+    "en": "a warm-blooded animal that feeds its young with milk"
   },
   "containing": {
     "p": "/kənˈteɪnɪŋ/",
     "t": "包含",
-    "en": "having something within"
+    "en": "holding or including something"
   },
   "resounding": {
     "p": "/rɪˈzaʊndɪŋ/",
-    "t": "响亮的",
-    "en": "making a loud, echoing sound"
+    "t": "响亮的；巨大的",
+    "en": "producing a loud echoing sound; emphatic"
   },
   "haunting": {
     "p": "/ˈhɔːntɪŋ/",
@@ -42286,18 +42296,18 @@
   },
   "copies": {
     "p": "/ˈkɒpiz/",
-    "t": "副本；拷贝",
+    "t": "副本；复制品",
     "en": "duplicates or reproductions"
   },
   "albums": {
     "p": "/ˈælbəmz/",
-    "t": "专辑",
-    "en": "collections of recorded music released together"
+    "t": "专辑；相册",
+    "en": "collections of recorded music or photos"
   },
   "rescuing": {
     "p": "/ˈreskjuːɪŋ/",
     "t": "营救",
-    "en": "saving from danger or harm"
+    "en": "saving someone or something from danger"
   },
   "phonograph": {
     "p": "/ˈfəʊnəɡrɑːf/",
@@ -42307,67 +42317,67 @@
   "historian": {
     "p": "/hɪˈstɔːriən/",
     "t": "历史学家",
-    "en": "a person who studies and writes about history"
+    "en": "a person who studies or writes about history"
   },
   "cartoons": {
     "p": "/kɑːˈtuːnz/",
-    "t": "动画片；漫画",
-    "en": "animated films or humorous drawings"
+    "t": "卡通；漫画",
+    "en": "animated shows or humorous drawings"
   },
   "fictional": {
     "p": "/ˈfɪkʃənl/",
     "t": "虚构的",
-    "en": "invented or imagined rather than real"
+    "en": "invented or not real"
   },
   "beastly": {
     "p": "/ˈbiːstli/",
-    "t": "野兽般的",
-    "en": "like a beast; savage or unpleasant"
+    "t": "野兽般的；恶劣的",
+    "en": "like a beast; unpleasant"
   },
   "growling": {
     "p": "/ˈɡraʊlɪŋ/",
-    "t": "低吼",
-    "en": "making a low, guttural sound"
+    "t": "低吼的",
+    "en": "making a low, threatening sound"
   },
   "grunting": {
     "p": "/ˈɡrʌntɪŋ/",
-    "t": "咕哝",
+    "t": "咕哝的",
     "en": "making short, low sounds"
   },
   "publics": {
     "p": "/ˈpʌblɪks/",
-    "t": "公众",
-    "en": "groups of people regarded collectively"
+    "t": "公众（复数）",
+    "en": "groups of people in society"
   },
   "commodity": {
     "p": "/kəˈmɒdəti/",
     "t": "商品",
-    "en": "a raw material or product that can be bought and sold"
+    "en": "a raw material or product that can be traded"
   },
   "echelon": {
     "p": "/ˈeʃəlɒn/",
-    "t": "梯队；层级",
-    "en": "a level or rank in an organization or society"
+    "t": "梯队；阶层",
+    "en": "a level or rank in an organization"
   },
   "ambergris": {
-    "p": "/ˈæmbəɡrɪs/",
+    "p": "/ˈæmbəɡriːs/",
     "t": "龙涎香",
     "en": "a waxy substance from sperm whales used in perfumes"
   },
   "perfumes": {
     "p": "/ˈpɜːfjuːmz/",
     "t": "香水",
-    "en": "fragrant liquids used to give a pleasant smell"
+    "en": "fragrant liquids used for scent"
   },
   "brink": {
     "p": "/brɪŋk/",
     "t": "边缘",
-    "en": "the extreme edge of something; verge"
+    "en": "the edge or verge of something"
   },
   "prewhaling": {
     "p": "/ˌpriːˈweɪlɪŋ/",
     "t": "捕鲸前的",
-    "en": "occurring before the era of whaling"
+    "en": "before the era of whaling"
   },
   "males": {
     "p": "/meɪlz/",
@@ -42386,23 +42396,23 @@
   },
   "warding": {
     "p": "/ˈwɔːdɪŋ/",
-    "t": "防护；驱避",
-    "en": "protecting or keeping away"
+    "t": "防护；抵挡",
+    "en": "protecting or fending off"
   },
   "competing": {
     "p": "/kəmˈpiːtɪŋ/",
     "t": "竞争的",
-    "en": "striving to gain something or outdo others"
+    "en": "striving against others"
   },
   "longrange": {
     "p": "/ˌlɒŋˈreɪndʒ/",
     "t": "远程的",
-    "en": "covering a great distance or period"
+    "en": "covering a long distance"
   },
   "echolocation": {
     "p": "/ˌekəʊləʊˈkeɪʃn/",
     "t": "回声定位",
-    "en": "using reflected sound to determine the location of objects"
+    "en": "using sound waves to locate objects"
   },
   "havent": {
     "p": "/ˈhævnt/",
@@ -42411,8 +42421,8 @@
   },
   "harpooned": {
     "p": "/hɑːˈpuːnd/",
-    "t": "被鱼叉捕获",
-    "en": "struck or caught with a harpoon"
+    "t": "用鱼叉刺",
+    "en": "struck with a harpoon"
   },
   "newlyformed": {
     "p": "/ˌnjuːliˈfɔːmd/",
@@ -42421,22 +42431,22 @@
   },
   "galvanised": {
     "p": "/ˈɡælvənaɪzd/",
-    "t": "激起行动的",
-    "en": "shocked or excited into action"
+    "t": "激励；电镀",
+    "en": "shocked or stimulated into action"
   },
   "fledgling": {
     "p": "/ˈfledʒlɪŋ/",
-    "t": "羽翼未丰的",
+    "t": "刚起步的；雏鸟",
     "en": "new and inexperienced"
   },
   "ordinary": {
     "p": "/ˈɔːdnri/",
     "t": "普通的",
-    "en": "with no special or distinctive features"
+    "en": "normal or usual"
   },
   "legally": {
     "p": "/ˈliːɡəli/",
-    "t": "合法地",
+    "t": "法律上",
     "en": "in accordance with the law"
   },
   "binding": {
@@ -42452,42 +42462,42 @@
   "supergroups": {
     "p": "/ˈsuːpəɡruːps/",
     "t": "超级组合",
-    "en": "large or prominent alliances of groups"
+    "en": "large or prominent musical groups"
   },
   "environmentalism": {
     "p": "/ɪnˌvaɪrənˈmentəlɪzəm/",
     "t": "环保主义",
-    "en": "concern about and action to protect the natural environment"
+    "en": "advocacy for protecting the environment"
   },
   "examining": {
     "p": "/ɪɡˈzæmɪnɪŋ/",
-    "t": "检查",
+    "t": "检查；审查",
     "en": "inspecting or studying closely"
   },
   "mobilised": {
-    "p": "/ˈməʊbɪlaɪzd/",
+    "p": "/ˈməʊbəlaɪzd/",
     "t": "动员",
     "en": "organized or made ready for action"
   },
   "transforming": {
     "p": "/trænsˈfɔːmɪŋ/",
-    "t": "改变",
+    "t": "转变",
     "en": "changing completely in form or nature"
   },
   "primates": {
     "p": "/ˈpraɪmeɪts/",
     "t": "灵长类动物",
-    "en": "mammals of the order including humans and apes"
+    "en": "mammals including humans, apes, and monkeys"
   },
   "symbol": {
     "p": "/ˈsɪmbl/",
-    "t": "象征",
+    "t": "象征；符号",
     "en": "a thing that represents something else"
   },
   "crises": {
     "p": "/ˈkraɪsiːz/",
-    "t": "危机",
-    "en": "times of intense difficulty or danger"
+    "t": "危机（复数）",
+    "en": "times of great difficulty or danger"
   },
   "pleas": {
     "p": "/pliːz/",
@@ -42496,63 +42506,63 @@
   },
   "symbols": {
     "p": "/ˈsɪmblz/",
-    "t": "象征（复数）",
+    "t": "象征；符号（复数）",
     "en": "things that represent something else"
   },
   "earnest": {
     "p": "/ˈɜːnɪst/",
-    "t": "认真的",
-    "en": "sincere and serious in intention"
+    "t": "认真的；诚挚的",
+    "en": "serious and sincere"
   },
   "relaxant": {
     "p": "/rɪˈlæksənt/",
-    "t": "放松剂",
-    "en": "a substance that relaxes muscles or nerves"
+    "t": "松弛剂",
+    "en": "a substance that relaxes muscles"
   },
   "whitecollar": {
     "p": "/ˌwaɪtˈkɒlə/",
     "t": "白领的",
-    "en": "relating to professional or office work"
+    "en": "relating to office or professional work"
   },
   "kickstart": {
     "p": "/ˈkɪkstɑːt/",
-    "t": "启动",
-    "en": "to give an impetus to; to start"
+    "t": "启动；推动",
+    "en": "to start or boost something"
   },
   "evolves": {
     "p": "/ɪˈvɒlvz/",
-    "t": "进化",
-    "en": "develops gradually over time"
+    "t": "进化；发展",
+    "en": "develops gradually"
   },
   "hallmarks": {
     "p": "/ˈhɔːlmɑːks/",
-    "t": "标志",
+    "t": "标志；特征",
     "en": "distinctive features or characteristics"
   },
   "astonished": {
     "p": "/əˈstɒnɪʃt/",
     "t": "震惊的",
-    "en": "greatly surprised or amazed"
+    "en": "greatly surprised"
   },
   "converse": {
     "p": "/kənˈvɜːs/",
     "t": "交谈",
-    "en": "to engage in conversation"
+    "en": "to talk with someone"
   },
   "codelike": {
     "p": "/ˈkəʊdlaɪk/",
     "t": "类似密码的",
-    "en": "resembling a code or system of symbols"
+    "en": "resembling a code or cipher"
   },
   "sequences": {
     "p": "/ˈsiːkwənsɪz/",
-    "t": "序列",
-    "en": "ordered arrangements of biological molecules"
+    "t": "序列；顺序",
+    "en": "ordered series of things"
   },
   "codas": {
     "p": "/ˈkəʊdəz/",
-    "t": "尾声；密码尾",
-    "en": "concluding passages; patterned sound endings"
+    "t": "尾声；尾音",
+    "en": "concluding passages or sounds"
   },
   "dialects": {
     "p": "/ˈdaɪəlekts/",
@@ -42561,8 +42571,8 @@
   },
   "slower": {
     "p": "/ˈsləʊə/",
-    "t": "较慢的",
-    "en": "at a lower speed"
+    "t": "更慢的",
+    "en": "more slow in speed"
   },
   "pleasing": {
     "p": "/ˈpliːzɪŋ/",
@@ -42577,12 +42587,12 @@
   "enchanting": {
     "p": "/ɪnˈtʃɑːntɪŋ/",
     "t": "迷人的",
-    "en": "delightfully charming or attractive"
+    "en": "delightfully charming"
   },
   "crackling": {
     "p": "/ˈkræklɪŋ/",
     "t": "噼啪声",
-    "en": "a series of small, sharp sounds"
+    "en": "a series of small sharp sounds"
   },
   "digitising": {
     "p": "/ˈdɪdʒɪtaɪzɪŋ/",
@@ -42592,37 +42602,37 @@
   "archiving": {
     "p": "/ˈɑːkaɪvɪŋ/",
     "t": "归档",
-    "en": "storing records or data for long-term preservation"
+    "en": "storing records or data for preservation"
   },
   "archive": {
     "p": "/ˈɑːkaɪv/",
-    "t": "档案",
-    "en": "a collection of historical records or data"
+    "t": "档案馆；存档",
+    "en": "a collection of historical documents; to store records"
   },
   "humanlike": {
     "p": "/ˈhjuːmənlaɪk/",
-    "t": "类人的",
+    "t": "类似人类的",
     "en": "resembling a human"
   },
   "alphabet": {
     "p": "/ˈælfəbet/",
     "t": "字母表",
-    "en": "a set of letters used to write a language"
+    "en": "a set of letters used for writing"
   },
   "elusive": {
     "p": "/ɪˈluːsɪv/",
     "t": "难以捉摸的",
-    "en": "difficult to find, catch, or describe"
+    "en": "difficult to find or define"
   },
   "soundscape": {
     "p": "/ˈsaʊndskeɪp/",
     "t": "声景",
-    "en": "the sound environment of a particular area"
+    "en": "the overall sound environment of a place"
   },
   "anthropogenic": {
     "p": "/ˌænθrəpəˈdʒenɪk/",
     "t": "人为的",
-    "en": "originating from human activity"
+    "en": "caused by human activity"
   },
   "noise": {
     "p": "/nɔɪz/",
@@ -42632,1006 +42642,261 @@
   "unquestionably": {
     "p": "/ʌnˈkwestʃənəbli/",
     "t": "毫无疑问地",
-    "en": "in a way that cannot be doubted"
+    "en": "without doubt"
   },
   "catalysts": {
     "p": "/ˈkætəlɪsts/",
-    "t": "催化剂（复数）",
-    "en": "things that speed up reactions or change"
-  },
-  "bioweapon": {
-    "p": "/ˈbaɪoʊˌwɛpən/",
-    "t": "生物武器",
-    "en": "a weapon that uses biological agents to cause harm"
-  },
-  "nerveracking": {
-    "p": "/ˈnɜːrvˌrækɪŋ/",
-    "t": "极其紧张的",
-    "en": "causing extreme stress or anxiety"
-  },
-  "forecast": {
-    "p": "/ˈfɔːrkæst/",
-    "t": "预测",
-    "en": "a prediction of future events"
-  },
-  "cyberattacks": {
-    "p": "/ˈsaɪbərəˌtæks/",
-    "t": "网络攻击",
-    "en": "attacks carried out through computer networks"
-  },
-  "subsequently": {
-    "p": "/ˈsʌbsɪkwəntli/",
-    "t": "随后",
-    "en": "after something else happened"
-  },
-  "embraced": {
-    "p": "/ɪmˈbreɪst/",
-    "t": "接受，拥抱",
-    "en": "accepted or adopted willingly"
-  },
-  "prophets": {
-    "p": "/ˈprɒfɪts/",
-    "t": "先知",
-    "en": "people who predict or proclaim future events"
-  },
-  "reminiscent": {
-    "p": "/ˌrɛmɪˈnɪsənt/",
-    "t": "使人想起的",
-    "en": "reminding one of something"
-  },
-  "superintelligent": {
-    "p": "/ˌsuːpərɪnˈtɛlɪdʒənt/",
-    "t": "超级智能的",
-    "en": "having intelligence far beyond human level"
-  },
-  "conspire": {
-    "p": "/kənˈspaɪər/",
-    "t": "密谋",
-    "en": "to secretly plan to do something harmful"
-  },
-  "exterminate": {
-    "p": "/ɪkˈstɜːrmɪneɪt/",
-    "t": "消灭",
-    "en": "to destroy completely"
-  },
-  "notquiteintentional": {
-    "p": "/nɒt kwaɪt ɪnˈtɛnʃənəl/",
-    "t": "并非完全故意的",
-    "en": "not entirely done on purpose"
-  },
-  "passenger": {
-    "p": "/ˈpæsɪndʒər/",
-    "t": "乘客",
-    "en": "a person traveling in a vehicle"
-  },
-  "pigeon": {
-    "p": "/ˈpɪdʒɪn/",
-    "t": "鸽子",
-    "en": "a common bird of the dove family"
-  },
-  "pandemics": {
-    "p": "/pænˈdɛmɪks/",
-    "t": "大流行病",
-    "en": "outbreaks of disease affecting many people worldwide"
-  },
-  "preparedness": {
-    "p": "/prɪˈpɛərɪdnəs/",
-    "t": "准备状态",
-    "en": "the state of being ready for something"
-  },
-  "biotechnology": {
-    "p": "/ˌbaɪoʊtɛkˈnɒlədʒi/",
-    "t": "生物技术",
-    "en": "the use of living systems to develop products"
-  },
-  "alarmed": {
-    "p": "/əˈlɑːrmd/",
-    "t": "惊恐的",
-    "en": "frightened or worried by a danger"
-  },
-  "synthesis": {
-    "p": "/ˈsɪnθɪsɪs/",
-    "t": "合成",
-    "en": "the combination of parts into a whole"
-  },
-  "bioengineers": {
-    "p": "/ˌbaɪoʊˌɛndʒɪˈnɪərz/",
-    "t": "生物工程师",
-    "en": "people who apply engineering to biology"
-  },
-  "diligent": {
-    "p": "/ˈdɪlɪdʒənt/",
-    "t": "勤勉的",
-    "en": "showing careful and persistent effort"
-  },
-  "psychopath": {
-    "p": "/ˈsaɪkəpæθ/",
-    "t": "精神病患者",
-    "en": "a person with a severe personality disorder"
-  },
-  "custom": {
-    "p": "/ˈkʌstəm/",
-    "t": "定制的",
-    "en": "made specially for a particular purpose"
-  },
-  "supervirus": {
-    "p": "/ˈsuːpərˌvaɪrəs/",
-    "t": "超级病毒",
-    "en": "an exceptionally dangerous or engineered virus"
-  },
-  "credence": {
-    "p": "/ˈkriːdəns/",
-    "t": "信任",
-    "en": "belief in or acceptance of something as true"
-  },
-  "dispense": {
-    "p": "/dɪˈspɛns/",
-    "t": "分发",
-    "en": "to distribute or provide something"
-  },
-  "detailed": {
-    "p": "/ˈdiːteɪld/",
-    "t": "详细的",
-    "en": "having many specific details"
-  },
-  "treatmentresistant": {
-    "p": "/ˈtriːtmənt rɪˌzɪstənt/",
-    "t": "抗治疗的",
-    "en": "not responding to medical treatment"
-  },
-  "stepbystep": {
-    "p": "/stɛp baɪ stɛp/",
-    "t": "逐步的",
-    "en": "proceeding gradually through stages"
-  },
-  "recreating": {
-    "p": "/ˌriːkriˈeɪtɪŋ/",
-    "t": "重建，再现",
-    "en": "creating again or reproducing"
-  },
-  "oncepandemic": {
-    "p": "/wʌns pænˈdɛmɪk/",
-    "t": "曾经的流行病",
-    "en": "a pandemic that occurred in the past"
-  },
-  "dispersing": {
-    "p": "/dɪˈspɜːrsɪŋ/",
-    "t": "散布",
-    "en": "spreading over a wide area"
-  },
-  "payloads": {
-    "p": "/ˈpeɪloʊdz/",
-    "t": "有效载荷",
-    "en": "the harmful or useful content carried by a delivery system"
-  },
-  "blueprints": {
-    "p": "/ˈbluːprɪnts/",
-    "t": "蓝图",
-    "en": "detailed plans or designs"
-  },
-  "thwarted": {
-    "p": "/θwɔːrtɪd/",
-    "t": "挫败的",
-    "en": "prevented from succeeding"
-  },
-  "bioengineering": {
-    "p": "/ˌbaɪoʊˌɛndʒɪˈnɪərɪŋ/",
-    "t": "生物工程",
-    "en": "the application of engineering to biology"
-  },
-  "superviruses": {
-    "p": "/ˈsuːpərˌvaɪrəsɪz/",
-    "t": "超级病毒",
-    "en": "exceptionally dangerous or engineered viruses"
-  },
-  "biosecurity": {
-    "p": "/ˌbaɪoʊsɪˈkjʊərɪti/",
-    "t": "生物安全",
-    "en": "measures to protect against biological threats"
-  },
-  "worstcase": {
-    "p": "/ˈwɜːrstkeɪs/",
-    "t": "最坏情况",
-    "en": "the most severe possible scenario"
-  },
-  "spelling": {
-    "p": "/ˈspɛlɪŋ/",
-    "t": "拼写",
-    "en": "the way letters are arranged to form a word"
-  },
-  "prospect": {
-    "p": "/ˈprɒspɛkt/",
-    "t": "前景",
-    "en": "the possibility of a future event"
-  },
-  "unnerving": {
-    "p": "/ʌnˈnɜːrvɪŋ/",
-    "t": "令人不安的",
-    "en": "causing fear or anxiety"
-  },
-  "credibly": {
-    "p": "/ˈkrɛdɪbli/",
-    "t": "可信地",
-    "en": "in a believable manner"
-  },
-  "civilization": {
-    "p": "/ˌsɪvɪlaɪˈzeɪʃən/",
-    "t": "文明",
-    "en": "an advanced human society"
-  },
-  "wiped": {
-    "p": "/waɪpt/",
-    "t": "消灭",
-    "en": "completely destroyed or erased"
-  },
-  "rolled": {
-    "p": "/roʊld/",
-    "t": "滚动",
-    "en": "moved by turning over and over"
-  },
-  "catastrophes": {
-    "p": "/kəˈtæstrəfiz/",
-    "t": "灾难",
-    "en": "events causing great damage or suffering"
-  },
-  "bioterrorist": {
-    "p": "/ˌbaɪoʊˈtɛrərɪst/",
-    "t": "生物恐怖分子",
-    "en": "someone who uses biological agents to cause terror"
-  },
-  "consciously": {
-    "p": "/ˈkɒnʃəsli/",
-    "t": "有意识地",
-    "en": "with awareness and intention"
-  },
-  "theoretically": {
-    "p": "/ˌθiəˈrɛtɪkli/",
-    "t": "理论上",
-    "en": "in theory rather than practice"
-  },
-  "handiwork": {
-    "p": "/ˈhændiˌwɜːrk/",
-    "t": "手工制品",
-    "en": "work done by hand or the result of someone's actions"
-  },
-  "biotech": {
-    "p": "/ˈbaɪoʊtɛk/",
-    "t": "生物技术",
-    "en": "short for biotechnology"
-  },
-  "genomes": {
-    "p": "/ˈdʒiːnoʊmz/",
-    "t": "基因组",
-    "en": "complete sets of genetic material"
-  },
-  "transmissibility": {
-    "p": "/trænzˌmɪsɪˈbɪlɪti/",
-    "t": "传播性",
-    "en": "the ability to be transmitted"
-  },
-  "lethality": {
-    "p": "/lɪˈθælɪti/",
-    "t": "致死性",
-    "en": "the capacity to cause death"
-  },
-  "malicious": {
-    "p": "/məˈlɪʃəs/",
-    "t": "恶意的",
-    "en": "intending to do harm"
-  },
-  "actor": {
-    "p": "/ˈæktər/",
-    "t": "行动者",
-    "en": "a person or entity that takes action"
-  },
-  "manufacture": {
-    "p": "/ˌmænjuˈfæktʃər/",
-    "t": "制造",
-    "en": "to produce something on a large scale"
-  },
-  "contagious": {
-    "p": "/kənˈteɪdʒəs/",
-    "t": "传染性的",
-    "en": "spreading easily from person to person"
-  },
-  "disfavors": {
-    "p": "/dɪsˈfeɪvərz/",
-    "t": "不利于",
-    "en": "puts at a disadvantage"
-  },
-  "transmissible": {
-    "p": "/trænzˈmɪsɪbəl/",
-    "t": "可传播的",
-    "en": "able to be passed from one to another"
-  },
-  "hosts": {
-    "p": "/hoʊsts/",
-    "t": "宿主",
-    "en": "organisms that harbor a parasite or virus"
-  },
-  "asymptomatic": {
-    "p": "/ˌeɪsɪmptəˈmætɪk/",
-    "t": "无症状的",
-    "en": "showing no signs of disease"
-  },
-  "noticeable": {
-    "p": "/ˈnoʊtɪsəbəl/",
-    "t": "明显的",
-    "en": "easily seen or noticed"
-  },
-  "bioterrorists": {
-    "p": "/ˌbaɪoʊˈtɛrərɪsts/",
-    "t": "生物恐怖分子",
-    "en": "people who use biological agents for terrorism"
-  },
-  "unleash": {
-    "p": "/ʌnˈliːʃ/",
-    "t": "释放",
-    "en": "to set free or release suddenly"
-  },
-  "transmitted": {
-    "p": "/trænzˈmɪtɪd/",
-    "t": "传播的",
-    "en": "passed from one to another"
-  },
-  "shake": {
-    "p": "/ʃeɪk/",
-    "t": "动摇",
-    "en": "to disturb or weaken"
-  },
-  "fatality": {
-    "p": "/fəˈtælɪti/",
-    "t": "死亡",
-    "en": "a death caused by accident or disease"
-  },
-  "primeage": {
-    "p": "/praɪm eɪdʒ/",
-    "t": "壮年期",
-    "en": "the period of life when one is at peak ability"
-  },
-  "heroes": {
-    "p": "/ˈhɪəroʊz/",
-    "t": "英雄",
-    "en": "people admired for their courage or achievements"
-  },
-  "technicians": {
-    "p": "/tɛkˈnɪʃənz/",
-    "t": "技术员",
-    "en": "people skilled in the practical aspects of a job"
-  },
-  "laborers": {
-    "p": "/ˈleɪbərərz/",
-    "t": "劳动者",
-    "en": "people who do manual work"
-  },
-  "wiping": {
-    "p": "/ˈwaɪpɪŋ/",
-    "t": "消灭",
-    "en": "completely destroying or erasing"
-  },
-  "sheltered": {
-    "p": "/ˈʃɛltərd/",
-    "t": "受保护的",
-    "en": "protected from danger or difficulty"
-  },
-  "distributing": {
-    "p": "/dɪˈstrɪbjʊtɪŋ/",
-    "t": "分发",
-    "en": "giving out or spreading something"
-  },
-  "swiftly": {
-    "p": "/ˈswɪftli/",
-    "t": "迅速地",
-    "en": "quickly and promptly"
-  },
-  "jeopardize": {
-    "p": "/ˈdʒɛpərdaɪz/",
-    "t": "危及",
-    "en": "to put at risk of harm"
-  },
-  "bioterror": {
-    "p": "/ˌbaɪoʊˈtɛrər/",
-    "t": "生物恐怖主义",
-    "en": "terrorism using biological agents"
-  },
-  "mailings": {
-    "p": "/ˈmeɪlɪŋz/",
-    "t": "邮件",
-    "en": "items sent by post"
-  },
-  "reply": {
-    "p": "/rɪˈplaɪ/",
-    "t": "回复",
-    "en": "to answer in speech or writing"
-  },
-  "quote": {
-    "p": "/kwoʊt/",
-    "t": "引用",
-    "en": "to repeat words from a source"
-  },
-  "shooters": {
-    "p": "/ˈʃuːtərz/",
-    "t": "射手",
-    "en": "people who shoot guns"
-  },
-  "forfeit": {
-    "p": "/ˈfɔːrfɪt/",
-    "t": "丧失",
-    "en": "to lose as a penalty"
-  },
-  "random": {
-    "p": "/ˈrændəm/",
-    "t": "随机的",
-    "en": "made or occurring without a pattern"
-  },
-  "iconoclasts": {
-    "p": "/aɪˈkɒnəklæsts/",
-    "t": "反传统者",
-    "en": "people who challenge established beliefs"
-  },
-  "periodically": {
-    "p": "/ˌpɪəriˈɒdɪkli/",
-    "t": "周期性地",
-    "en": "at regular intervals"
-  },
-  "murderous": {
-    "p": "/ˈmɜːrdərəs/",
-    "t": "凶残的",
-    "en": "capable of or intending to murder"
-  },
-  "ideologies": {
-    "p": "/ˌaɪdiˈɒlədʒiz/",
-    "t": "意识形态",
-    "en": "systems of beliefs and ideas"
-  },
-  "wished": {
-    "p": "/wɪʃt/",
-    "t": "希望",
-    "en": "desired or wanted something"
-  },
-  "aspiring": {
-    "p": "/əˈspaɪərɪŋ/",
-    "t": "有抱负的",
-    "en": "hoping to become something"
-  },
-  "supervillain": {
-    "p": "/ˈsuːpərˌvɪlən/",
-    "t": "超级反派",
-    "en": "a very powerful fictional villain"
-  },
-  "virology": {
-    "p": "/vaɪˈrɒlədʒi/",
-    "t": "病毒学",
-    "en": "the study of viruses"
-  },
-  "weaponize": {
-    "p": "/ˈwɛpənaɪz/",
-    "t": "武器化",
-    "en": "to adapt for use as a weapon"
-  },
-  "botulinum": {
-    "p": "/ˌbɒtʃəˈlaɪnəm/",
-    "t": "肉毒杆菌毒素",
-    "en": "a potent toxin produced by bacteria"
-  },
-  "nonbelievers": {
-    "p": "/ˌnɒnbɪˈliːvərz/",
-    "t": "不信者",
-    "en": "people who do not believe"
-  },
-  "psychopaths": {
-    "p": "/ˈsaɪkəpæθs/",
-    "t": "精神病患者",
-    "en": "people with severe personality disorders"
-  },
-  "voiced": {
-    "p": "/vɔɪst/",
-    "t": "表达",
-    "en": "expressed in words"
-  },
-  "plummeted": {
-    "p": "/ˈplʌmɪtɪd/",
-    "t": "骤降",
-    "en": "fell steeply and quickly"
-  },
-  "modify": {
-    "p": "/ˈmɒdɪfaɪ/",
-    "t": "修改",
-    "en": "to change or alter"
-  },
-  "genome": {
-    "p": "/ˈdʒiːnoʊm/",
-    "t": "基因组",
-    "en": "the complete set of genetic material"
-  },
-  "customengineered": {
-    "p": "/ˈkʌstəm ˌɛndʒɪˈnɪərd/",
-    "t": "定制设计的",
-    "en": "specially designed for a particular purpose"
-  },
-  "upward": {
-    "p": "/ˈʌpwərd/",
-    "t": "向上的",
-    "en": "toward a higher place or level"
-  },
-  "modification": {
-    "p": "/ˌmɒdɪfɪˈkeɪʃən/",
-    "t": "修改",
-    "en": "a change made to something"
-  },
-  "pseudonym": {
-    "p": "/ˈsuːdənɪm/",
-    "t": "化名",
-    "en": "a fictitious name used by an author"
-  },
-  "applicant": {
-    "p": "/ˈæplɪkənt/",
-    "t": "申请人",
-    "en": "a person who applies for something"
-  },
-  "rudimentary": {
-    "p": "/ˌruːdɪˈmɛntəri/",
-    "t": "基本的",
-    "en": "involving basic principles"
-  },
-  "fixing": {
-    "p": "/ˈfɪksɪŋ/",
-    "t": "修理",
-    "en": "repairing or mending"
-  },
-  "dishwasher": {
-    "p": "/ˈdɪʃwɒʃər/",
-    "t": "洗碗机",
-    "en": "a machine for washing dishes"
-  },
-  "synthesizing": {
-    "p": "/ˈsɪnθɪsaɪzɪŋ/",
-    "t": "合成",
-    "en": "combining parts into a whole"
-  },
-  "trove": {
-    "p": "/troʊv/",
-    "t": "宝库",
-    "en": "a valuable collection of things"
-  },
-  "unfamiliar": {
-    "p": "/ˌʌnfəˈmɪliər/",
-    "t": "不熟悉的",
-    "en": "not known or recognized"
-  },
-  "fielding": {
-    "p": "/ˈfiːldɪŋ/",
-    "t": "应对",
-    "en": "dealing with questions or situations"
-  },
-  "troubleshooting": {
-    "p": "/ˈtrʌblˌʃuːtɪŋ/",
-    "t": "故障排除",
-    "en": "solving problems"
-  },
-  "arise": {
-    "p": "/əˈraɪz/",
-    "t": "出现",
-    "en": "to come into being"
-  },
-  "wouldbe": {
-    "p": "/ˈwʊdbi/",
-    "t": "想要成为的",
-    "en": "aspiring or hoping to be"
-  },
-  "advised": {
-    "p": "/ədˈvaɪzd/",
-    "t": "建议",
-    "en": "gave advice to"
-  },
-  "virologists": {
-    "p": "/vaɪˈrɒlədʒɪsts/",
-    "t": "病毒学家",
-    "en": "scientists who study viruses"
-  },
-  "laboratory": {
-    "p": "/ˈlæbrətɔːri/",
-    "t": "实验室",
-    "en": "a room for scientific experiments"
-  },
-  "tasked": {
-    "p": "/tæskt/",
-    "t": "分配任务",
-    "en": "assigned a job or duty"
-  },
-  "amateurs": {
-    "p": "/ˈæmətərz/",
-    "t": "业余爱好者",
-    "en": "people who do something without professional training"
-  },
-  "acquisition": {
-    "p": "/ˌækwɪˈzɪʃən/",
-    "t": "获取",
-    "en": "the act of obtaining something"
-  },
-  "safeguards": {
-    "p": "/ˈseɪfɡɑːrdz/",
-    "t": "保障措施",
-    "en": "measures taken to prevent harm"
-  },
-  "biodefense": {
-    "p": "/ˌbaɪoʊdɪˈfɛns/",
-    "t": "生物防御",
-    "en": "defense against biological threats"
-  },
-  "scrutinized": {
-    "p": "/ˈskruːtɪnaɪzd/",
-    "t": "仔细审查",
-    "en": "examined closely"
-  },
-  "proposals": {
-    "p": "/prəˈpoʊzəlz/",
-    "t": "提案",
-    "en": "plans or suggestions put forward"
-  },
-  "genomic": {
-    "p": "/dʒiˈnoʊmɪk/",
-    "t": "基因组的",
-    "en": "relating to genomes"
-  },
-  "bloodthirsty": {
-    "p": "/ˈblʌdˌθɜːrsti/",
-    "t": "嗜血的",
-    "en": "eager to shed blood"
-  },
-  "nihilist": {
-    "p": "/ˈnaɪɪlɪst/",
-    "t": "虚无主义者",
-    "en": "someone who rejects all moral principles"
-  },
-  "ideologue": {
-    "p": "/ˈaɪdiəloʊɡ/",
-    "t": "理论家",
-    "en": "a person devoted to a particular ideology"
-  },
-  "smallpox": {
-    "p": "/ˈsmɔːlpɒks/",
-    "t": "天花",
-    "en": "a contagious viral disease"
-  },
-  "reckless": {
-    "p": "/ˈrɛkləs/",
-    "t": "鲁莽的",
-    "en": "acting without thought of consequences"
-  },
-  "customdesigned": {
-    "p": "/ˈkʌstəm dɪˈzaɪnd/",
-    "t": "定制设计的",
-    "en": "specially designed for a particular purpose"
-  },
-  "circulating": {
-    "p": "/ˈsɜːrkjʊleɪtɪŋ/",
-    "t": "传播的",
-    "en": "moving or spreading through a system"
-  },
-  "gainoffunction": {
-    "p": "/ɡeɪn ɒv ˈfʌŋkʃən/",
-    "t": "功能获得",
-    "en": "a mutation that enhances a gene's function"
-  },
-  "altering": {
-    "p": "/ˈɔːltərɪŋ/",
-    "t": "改变",
-    "en": "changing or modifying"
-  },
-  "detect": {
-    "p": "/dɪˈtɛkt/",
-    "t": "检测",
-    "en": "to discover or identify"
-  },
-  "epidemiologists": {
-    "p": "/ˌɛpɪdiːmiˈɒlədʒɪsts/",
-    "t": "流行病学家",
-    "en": "scientists who study disease spread"
-  },
-  "anticipate": {
-    "p": "/ænˈtɪsɪpeɪt/",
-    "t": "预期",
-    "en": "to expect or predict"
-  },
-  "epidemiological": {
-    "p": "/ˌɛpɪdiːmiəˈlɒdʒɪkəl/",
-    "t": "流行病学的",
-    "en": "relating to the study of disease spread"
-  },
-  "inadvertently": {
-    "p": "/ˌɪnədˈvɜːrtəntli/",
-    "t": "无意中",
-    "en": "without intention"
-  },
-  "recipes": {
-    "p": "/ˈrɛsɪpiz/",
-    "t": "配方",
-    "en": "sets of instructions for making something"
-  },
-  "masscasualty": {
-    "p": "/mæs ˈkæʒuəlti/",
-    "t": "大规模伤亡",
-    "en": "involving a large number of victims"
-  },
-  "apocalyptic": {
-    "p": "/əˌpɒkəˈlɪptɪk/",
-    "t": "世界末日的",
-    "en": "involving widespread destruction"
-  },
-  "bacteriophages": {
-    "p": "/bækˈtɪəriəˌfeɪdʒɪz/",
-    "t": "噬菌体",
-    "en": "viruses that infect bacteria"
-  },
-  "genomiclanguage": {
-    "p": "/dʒiˈnoʊmɪk ˈlæŋɡwɪdʒ/",
-    "t": "基因组语言",
-    "en": "the information encoded in genomes"
-  },
-  "vaccineresistant": {
-    "p": "/vækˈsiːn rɪˌzɪstənt/",
-    "t": "抗疫苗的",
-    "en": "not responding to vaccines"
-  },
-  "filter": {
-    "p": "/ˈfɪltər/",
-    "t": "过滤",
-    "en": "to pass through a device that removes unwanted parts"
-  },
-  "statesponsored": {
-    "p": "/steɪt ˈspɒnsərd/",
-    "t": "国家支持的",
-    "en": "funded or supported by a government"
-  },
-  "improbably": {
-    "p": "/ɪmˈprɒbəbli/",
-    "t": "不太可能地",
-    "en": "in an unlikely manner"
-  },
-  "precedent": {
-    "p": "/ˈprɛsɪdənt/",
-    "t": "先例",
-    "en": "an earlier event serving as an example"
-  },
-  "omnicidal": {
-    "p": "/ˌɒmnɪˈsaɪdəl/",
-    "t": "灭绝一切的",
-    "en": "destroying all life"
-  },
-  "aspirations": {
-    "p": "/ˌæspɪˈreɪʃənz/",
-    "t": "抱负",
-    "en": "hopes or ambitions"
-  },
-  "undertaking": {
-    "p": "/ˌʌndərˈteɪkɪŋ/",
-    "t": "任务",
-    "en": "a task or project"
-  },
-  "tacit": {
-    "p": "/ˈtæsɪt/",
-    "t": "心照不宣的",
-    "en": "understood without being stated"
-  },
-  "understandings": {
-    "p": "/ˌʌndərˈstændɪŋz/",
-    "t": "共识",
-    "en": "mutual agreements or comprehensions"
-  },
-  "tremors": {
-    "p": "/ˈtrɛmərz/",
-    "t": "震动",
-    "en": "involuntary shaking movements"
-  },
-  "strands": {
-    "p": "/strændz/",
-    "t": "链",
-    "en": "long thin pieces or sequences"
-  },
-  "contaminated": {
-    "p": "/kənˈtæmɪneɪtɪd/",
-    "t": "被污染的",
-    "en": "made impure by contact with something harmful"
-  },
-  "randomized": {
-    "p": "/ˈrændəmaɪzd/",
-    "t": "随机的",
-    "en": "arranged in a random order"
-  },
-  "nonscientists": {
-    "p": "/nɒnˈsaɪəntɪsts/",
-    "t": "非科学家",
-    "en": "people who are not scientists"
-  },
-  "multistep": {
-    "p": "/ˈmʌlti stɛp/",
-    "t": "多步骤的",
-    "en": "involving several stages"
-  },
-  "graduatetrained": {
-    "p": "/ˈɡrædʒuət treɪnd/",
-    "t": "受过研究生训练的",
-    "en": "trained at the graduate level"
-  },
-  "malcontent": {
-    "p": "/ˈmælkəntɛnt/",
-    "t": "不满分子",
-    "en": "a person who is dissatisfied"
-  },
-  "virologist": {
-    "p": "/vaɪˈrɒlədʒɪst/",
-    "t": "病毒学家",
-    "en": "a scientist who studies viruses"
-  },
-  "frontiers": {
-    "p": "/ˈfrʌntɪərz/",
-    "t": "前沿",
-    "en": "the limits of knowledge or exploration"
-  },
-  "arduously": {
-    "p": "/ˈɑːrdʒuəsli/",
-    "t": "艰难地",
-    "en": "with great effort and difficulty"
-  },
-  "bacteriophage": {
-    "p": "/bækˈtɪəriəfeɪdʒ/",
-    "t": "噬菌体",
-    "en": "a virus that infects bacteria"
-  },
-  "fearsome": {
-    "p": "/ˈfɪərsəm/",
-    "t": "可怕的",
-    "en": "frightening or alarming"
-  },
-  "devised": {
-    "p": "/dɪˈvaɪzd/",
-    "t": "设计",
-    "en": "invented or planned"
-  },
-  "strained": {
-    "p": "/streɪnd/",
-    "t": "紧张的",
-    "en": "showing tension or anxiety"
-  },
-  "analogy": {
-    "p": "/əˈnælədʒi/",
-    "t": "类比",
-    "en": "a comparison between similar things"
-  },
-  "resists": {
-    "p": "/rɪˈzɪsts/",
-    "t": "抵抗",
-    "en": "opposes or withstands"
-  },
-  "modeling": {
-    "p": "/ˈmɒdəlɪŋ/",
-    "t": "建模",
-    "en": "creating representations of systems"
-  },
-  "modifying": {
-    "p": "/ˈmɒdɪfaɪɪŋ/",
-    "t": "修改",
-    "en": "changing or altering"
-  },
-  "unpredictable": {
-    "p": "/ˌʌnprɪˈdɪktəbəl/",
-    "t": "不可预测的",
-    "en": "not able to be foreseen"
-  },
-  "inconsistent": {
-    "p": "/ˌɪnkənˈsɪstənt/",
-    "t": "不一致的",
-    "en": "not staying the same"
-  },
-  "varying": {
-    "p": "/ˈvɛəriɪŋ/",
-    "t": "变化的",
-    "en": "changing or differing"
-  },
-  "churning": {
-    "p": "/ˈtʃɜːrnɪŋ/",
-    "t": "搅动",
-    "en": "moving with a vigorous swirling action"
-  },
-  "befuddle": {
-    "p": "/bɪˈfʌdəl/",
-    "t": "使困惑",
-    "en": "to confuse or perplex"
+    "t": "催化剂；促因（复数）",
+    "en": "things that cause or speed up change"
+  },
+  "midst": {
+    "p": "/mɪdst/",
+    "t": "中间，当中",
+    "en": "the middle of a place or situation"
+  },
+  "epidemic": {
+    "p": "/ˌepɪˈdemɪk/",
+    "t": "流行病；（坏事）迅速蔓延",
+    "en": "a widespread occurrence of an infectious disease; a rapid spread of something bad"
+  },
+  "nightlife": {
+    "p": "/ˈnaɪtlaɪf/",
+    "t": "夜生活",
+    "en": "entertainment and social activities available at night"
+  },
+  "hedonism": {
+    "p": "/ˈhiːdənɪzəm/",
+    "t": "享乐主义",
+    "en": "the belief that pleasure is the most important thing in life"
+  },
+  "allencompassing": {
+    "p": "/ˌɔːlɪnˈkʌmpəsɪŋ/",
+    "t": "包罗万象的，无所不包的",
+    "en": "including everything; comprehensive"
+  },
+  "ingrained": {
+    "p": "/ɪnˈɡreɪnd/",
+    "t": "根深蒂固的",
+    "en": "firmly established and difficult to change"
+  },
+  "turnups": {
+    "p": "/ˈtɜːnʌps/",
+    "t": "卷起部分，翻边（裤脚等）；意外结果",
+    "en": "folded-up parts of clothing; unexpected outcomes"
+  },
+  "hedonistic": {
+    "p": "/ˌhiːdəˈnɪstɪk/",
+    "t": "享乐主义的",
+    "en": "devoted to the pursuit of pleasure"
+  },
+  "churchgoing": {
+    "p": "/ˈtʃɜːtʃˌɡəʊɪŋ/",
+    "t": "经常去教堂的",
+    "en": "regularly attending church services"
+  },
+  "medieval": {
+    "p": "/ˌmediˈiːvl/",
+    "t": "中世纪的",
+    "en": "relating to the Middle Ages"
+  },
+  "raucous": {
+    "p": "/ˈrɔːkəs/",
+    "t": "喧闹的，沙哑的",
+    "en": "making a loud, harsh noise; disorderly"
+  },
+  "feast": {
+    "p": "/fiːst/",
+    "t": "盛宴；尽情享受",
+    "en": "a large, elaborate meal; to eat and enjoy abundantly"
+  },
+  "subdue": {
+    "p": "/səbˈdjuː/",
+    "t": "制服，压制，减轻",
+    "en": "to bring under control; to overcome or quieten"
+  },
+  "scenes": {
+    "p": "/siːnz/",
+    "t": "场景，场面；现场（复数）",
+    "en": "places where events occur; views or sequences (plural)"
+  },
+  "concert": {
+    "p": "/ˈkɒnsət/",
+    "t": "音乐会，演唱会",
+    "en": "a musical performance given in public"
+  },
+  "stadium": {
+    "p": "/ˈsteɪdiəm/",
+    "t": "体育场",
+    "en": "a large sports ground with seats for spectators"
+  },
+  "effervescence": {
+    "p": "/ˌefəˈvesns/",
+    "t": "冒泡；兴奋，活力",
+    "en": "the quality of bubbling; vivacity and excitement"
+  },
+  "spectacle": {
+    "p": "/ˈspektəkl/",
+    "t": "壮观场面，景象；奇观",
+    "en": "a visually striking performance or display"
+  },
+  "monarchical": {
+    "p": "/məˈnɑːkɪkl/",
+    "t": "君主制的",
+    "en": "relating to a monarch or monarchy"
+  },
+  "outskirts": {
+    "p": "/ˈaʊtskɜːts/",
+    "t": "郊区，外围",
+    "en": "the outer parts of a town or city"
+  },
+  "dance": {
+    "p": "/dɑːns/",
+    "t": "跳舞；舞蹈",
+    "en": "to move rhythmically to music; a series of rhythmic movements"
+  },
+  "wonderfully": {
+    "p": "/ˈwʌndəfəli/",
+    "t": "极好地，令人惊叹地",
+    "en": "in a way that inspires delight or admiration"
+  },
+  "essence": {
+    "p": "/ˈesns/",
+    "t": "本质，精髓",
+    "en": "the intrinsic nature or indispensable quality of something"
+  },
+  "communal": {
+    "p": "/kəˈmjuːnl/",
+    "t": "公共的，共有的",
+    "en": "shared by all members of a community"
+  },
+  "sensation": {
+    "p": "/senˈseɪʃn/",
+    "t": "感觉，知觉；轰动",
+    "en": "a physical feeling; a widespread reaction of interest or excitement"
   },
   "societies": {
     "p": "/səˈsaɪətiz/",
-    "t": "社会",
-    "en": "organized communities of people"
+    "t": "社会；社团（复数）",
+    "en": "communities of people; organized groups (plural)"
   },
-  "irrespective": {
-    "p": "/ˌɪrɪˈspɛktɪv/",
-    "t": "不论",
-    "en": "without regard to"
+  "atheist": {
+    "p": "/ˈeɪθiɪst/",
+    "t": "无神论者",
+    "en": "a person who does not believe in the existence of God"
   },
-  "plausibly": {
-    "p": "/ˈplɔːzɪbli/",
-    "t": "似乎合理地",
-    "en": "in a believable manner"
+  "euphoric": {
+    "p": "/juːˈfɒrɪk/",
+    "t": "极度兴奋的，欣快的",
+    "en": "feeling intense excitement and happiness"
   },
-  "contagions": {
-    "p": "/kənˈteɪdʒənz/",
-    "t": "传染病",
-    "en": "diseases spread by contact"
+  "societal": {
+    "p": "/səˈsaɪətl/",
+    "t": "社会的",
+    "en": "relating to society or social relations"
   },
-  "broadspectrum": {
-    "p": "/brɔːd ˈspɛktrəm/",
-    "t": "广谱的",
-    "en": "effective against a wide range of organisms"
+  "experimentation": {
+    "p": "/ɪkˌsperɪmenˈteɪʃn/",
+    "t": "实验，试验",
+    "en": "the process of performing tests or trials"
   },
-  "antivirals": {
-    "p": "/ˌæntiˈvaɪrəlz/",
-    "t": "抗病毒药物",
-    "en": "medications that treat viral infections"
+  "transgression": {
+    "p": "/trænzˈɡreʃn/",
+    "t": "违反，越界",
+    "en": "an act that goes against a law, rule, or code of conduct"
   },
-  "outbreaks": {
-    "p": "/ˈaʊtbreɪks/",
-    "t": "爆发",
-    "en": "sudden occurrences of disease"
+  "abstract": {
+    "p": "/ˈæbstrækt/",
+    "t": "抽象的；摘要",
+    "en": "existing as an idea rather than a physical thing; a summary"
   },
-  "meticulous": {
-    "p": "/məˈtɪkjʊləs/",
-    "t": "细致的",
-    "en": "showing great attention to detail"
+  "expressionist": {
+    "p": "/ɪkˈspreʃənɪst/",
+    "t": "表现主义的；表现主义者",
+    "en": "relating to expressionism; an artist who uses expressionism"
   },
-  "wastewater": {
-    "p": "/ˈweɪstwɔːtər/",
-    "t": "废水",
-    "en": "water that has been used and contains waste"
+  "scene": {
+    "p": "/siːn/",
+    "t": "场景，现场；景象",
+    "en": "a place where an event occurs; a view or setting"
   },
-  "stockpiling": {
-    "p": "/ˈstɒkpaɪlɪŋ/",
-    "t": "囤积",
-    "en": "accumulating a large supply"
+  "midcentury": {
+    "p": "/ˌmɪdˈsentʃəri/",
+    "t": "世纪中叶的",
+    "en": "relating to the middle of a century"
   },
-  "foolproof": {
-    "p": "/ˈfuːlpruːf/",
-    "t": "万无一失的",
-    "en": "incapable of going wrong"
+  "clubbing": {
+    "p": "/ˈklʌbɪŋ/",
+    "t": "泡夜店，去俱乐部",
+    "en": "the activity of going to nightclubs"
   },
-  "indoor": {
-    "p": "/ˈɪndɔːr/",
-    "t": "室内的",
-    "en": "located inside a building"
+  "cancan": {
+    "p": "/ˈkænkæn/",
+    "t": "康康舞",
+    "en": "a lively high-kicking dance performed by a group of women"
   },
-  "upgrading": {
-    "p": "/ˈʌpɡreɪdɪŋ/",
-    "t": "升级",
-    "en": "improving to a higher standard"
+  "techno": {
+    "p": "/ˈteknəʊ/",
+    "t": "泰克诺音乐（电子舞曲）",
+    "en": "a style of fast electronic dance music"
   },
-  "ventilation": {
-    "p": "/ˌvɛntɪˈleɪʃən/",
-    "t": "通风",
-    "en": "the provision of fresh air to a space"
+  "propulsion": {
+    "p": "/prəˈpʌlʃn/",
+    "t": "推进，推动力",
+    "en": "the action of driving or pushing forward"
   },
-  "filtration": {
-    "p": "/fɪlˈtreɪʃən/",
-    "t": "过滤",
-    "en": "the process of passing through a filter"
+  "turnofthecentury": {
+    "p": "/ˌtɜːnəvðəˈsentʃəri/",
+    "t": "世纪之交",
+    "en": "the period around the end of a century"
   },
-  "mandating": {
-    "p": "/ˈmændeɪtɪŋ/",
-    "t": "强制要求",
-    "en": "officially requiring"
+  "fries": {
+    "p": "/fraɪz/",
+    "t": "炸薯条",
+    "en": "potatoes cut into strips and deep-fried"
   },
-  "syntheticdna": {
-    "p": "/sɪnˈθɛtɪk ˌdiːɛnˈeɪ/",
-    "t": "合成DNA",
-    "en": "DNA produced artificially"
+  "bands": {
+    "p": "/bændz/",
+    "t": "乐队；带子（复数）",
+    "en": "groups of musicians; strips of material (plural)"
   },
-  "galvanizing": {
-    "p": "/ˈɡælvənaɪzɪŋ/",
-    "t": "激励的",
-    "en": "stimulating action or excitement"
+  "cabarets": {
+    "p": "/ˈkæbəreɪz/",
+    "t": "卡巴莱歌舞表演（复数）",
+    "en": "entertainment venues or shows with music, dance, and comedy (plural)"
   },
-  "adversaries": {
-    "p": "/ˈædvərsɛriz/",
-    "t": "对手",
-    "en": "opponents or enemies"
+  "collecting": {
+    "p": "/kəˈlektɪŋ/",
+    "t": "收集，收藏",
+    "en": "the activity of gathering items of interest"
+  },
+  "hairdressers": {
+    "p": "/ˈheəˌdresəz/",
+    "t": "理发师；理发店（复数）",
+    "en": "people who cut and style hair; hair salons (plural)"
+  },
+  "randomly": {
+    "p": "/ˈrændəmli/",
+    "t": "随机地，任意地",
+    "en": "in a way that lacks a definite pattern or plan"
+  },
+  "upturned": {
+    "p": "/ˌʌpˈtɜːnd/",
+    "t": "向上翻的，翻转的",
+    "en": "turned upwards or upside down"
+  },
+  "gloomy": {
+    "p": "/ˈɡluːmi/",
+    "t": "阴暗的，忧郁的",
+    "en": "dark or poorly lit; feeling depressed"
+  },
+  "cocktail": {
+    "p": "/ˈkɒkteɪl/",
+    "t": "鸡尾酒",
+    "en": "an alcoholic drink made by mixing various spirits and other ingredients"
+  },
+  "slight": {
+    "p": "/slaɪt/",
+    "t": "轻微的，细小的；轻视",
+    "en": "small in degree; to insult by treating as unimportant"
   }
 }
