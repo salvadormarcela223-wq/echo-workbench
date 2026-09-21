@@ -42898,5 +42898,995 @@
     "p": "/slaɪt/",
     "t": "轻微的，细小的；轻视",
     "en": "small in degree; to insult by treating as unimportant"
+  },
+  "bioweapon": {
+    "p": "/ˈbaɪəʊˌwepən/",
+    "t": "生物武器",
+    "en": "a weapon that uses biological agents"
+  },
+  "nerveracking": {
+    "p": "/ˈnɜːvˌrækɪŋ/",
+    "t": "令人紧张的",
+    "en": "causing great anxiety or stress"
+  },
+  "forecast": {
+    "p": "/ˈfɔːkɑːst/",
+    "t": "预测",
+    "en": "a prediction of future events"
+  },
+  "cyberattacks": {
+    "p": "/ˈsaɪbərəˌtæks/",
+    "t": "网络攻击",
+    "en": "attacks carried out via computer networks"
+  },
+  "subsequently": {
+    "p": "/ˈsʌbsɪkwəntli/",
+    "t": "随后",
+    "en": "after a particular event; later"
+  },
+  "embraced": {
+    "p": "/ɪmˈbreɪst/",
+    "t": "接受；拥抱",
+    "en": "accepted enthusiastically; held closely"
+  },
+  "prophets": {
+    "p": "/ˈprɒfɪts/",
+    "t": "先知",
+    "en": "people who foretell the future"
+  },
+  "reminiscent": {
+    "p": "/ˌremɪˈnɪsnt/",
+    "t": "令人想起的",
+    "en": "reminding one of something"
+  },
+  "superintelligent": {
+    "p": "/ˌsuːpərɪnˈtelɪdʒənt/",
+    "t": "超级智能的",
+    "en": "having intelligence far beyond human"
+  },
+  "conspire": {
+    "p": "/kənˈspaɪə/",
+    "t": "密谋",
+    "en": "to plot secretly together"
+  },
+  "exterminate": {
+    "p": "/ɪkˈstɜːmɪneɪt/",
+    "t": "消灭",
+    "en": "to destroy completely"
+  },
+  "notquiteintentional": {
+    "p": "/nɒt kwaɪt ɪnˈtenʃənl/",
+    "t": "并非完全故意的",
+    "en": "not entirely on purpose"
+  },
+  "passenger": {
+    "p": "/ˈpæsɪndʒə/",
+    "t": "乘客",
+    "en": "a person travelling in a vehicle"
+  },
+  "pigeon": {
+    "p": "/ˈpɪdʒɪn/",
+    "t": "鸽子",
+    "en": "a common grey bird"
+  },
+  "pandemics": {
+    "p": "/pænˈdemɪks/",
+    "t": "大流行病",
+    "en": "global outbreaks of disease"
+  },
+  "preparedness": {
+    "p": "/prɪˈpeərɪdnəs/",
+    "t": "准备状态",
+    "en": "the state of being ready"
+  },
+  "biotechnology": {
+    "p": "/ˌbaɪəʊtekˈnɒlədʒi/",
+    "t": "生物技术",
+    "en": "use of living systems to make products"
+  },
+  "alarmed": {
+    "p": "/əˈlɑːmd/",
+    "t": "惊恐的",
+    "en": "frightened or worried"
+  },
+  "synthesis": {
+    "p": "/ˈsɪnθəsɪs/",
+    "t": "合成",
+    "en": "the combining of parts into a whole"
+  },
+  "bioengineers": {
+    "p": "/ˌbaɪəʊˌendʒɪˈnɪəz/",
+    "t": "生物工程师",
+    "en": "people who engineer biological systems"
+  },
+  "diligent": {
+    "p": "/ˈdɪlɪdʒənt/",
+    "t": "勤勉的",
+    "en": "showing careful and persistent effort"
+  },
+  "psychopath": {
+    "p": "/ˈsaɪkəpæθ/",
+    "t": "精神病态者",
+    "en": "a person with a personality disorder"
+  },
+  "custom": {
+    "p": "/ˈkʌstəm/",
+    "t": "定制的；习俗",
+    "en": "made to order; a traditional practice"
+  },
+  "supervirus": {
+    "p": "/ˈsuːpəˌvaɪrəs/",
+    "t": "超级病毒",
+    "en": "an exceptionally dangerous virus"
+  },
+  "credence": {
+    "p": "/ˈkriːdns/",
+    "t": "相信",
+    "en": "belief in something as true"
+  },
+  "dispense": {
+    "p": "/dɪˈspens/",
+    "t": "分发；免除",
+    "en": "to distribute; to do without"
+  },
+  "detailed": {
+    "p": "/ˈdiːteɪld/",
+    "t": "详细的",
+    "en": "having many facts or details"
+  },
+  "treatmentresistant": {
+    "p": "/ˈtriːtmənt rɪˌzɪstənt/",
+    "t": "抗治疗的",
+    "en": "not responding to medical treatment"
+  },
+  "stepbystep": {
+    "p": "/step baɪ step/",
+    "t": "逐步的",
+    "en": "proceeding gradually in stages"
+  },
+  "recreating": {
+    "p": "/ˌriːkriˈeɪtɪŋ/",
+    "t": "重建；再现",
+    "en": "creating again; reproducing"
+  },
+  "oncepandemic": {
+    "p": "/wʌns pænˈdemɪk/",
+    "t": "曾经大流行的",
+    "en": "formerly pandemic"
+  },
+  "dispersing": {
+    "p": "/dɪˈspɜːsɪŋ/",
+    "t": "散布",
+    "en": "spreading over a wide area"
+  },
+  "payloads": {
+    "p": "/ˈpeɪləʊdz/",
+    "t": "有效载荷",
+    "en": "the carrying part of a weapon or missile"
+  },
+  "blueprints": {
+    "p": "/ˈbluːprɪnts/",
+    "t": "蓝图",
+    "en": "detailed plans or designs"
+  },
+  "thwarted": {
+    "p": "/ˈθwɔːtɪd/",
+    "t": "挫败的",
+    "en": "prevented from succeeding"
+  },
+  "bioengineering": {
+    "p": "/ˌbaɪəʊˌendʒɪˈnɪərɪŋ/",
+    "t": "生物工程",
+    "en": "engineering applied to biology"
+  },
+  "superviruses": {
+    "p": "/ˈsuːpəˌvaɪrəsɪz/",
+    "t": "超级病毒",
+    "en": "exceptionally dangerous viruses"
+  },
+  "biosecurity": {
+    "p": "/ˌbaɪəʊsɪˈkjʊərəti/",
+    "t": "生物安全",
+    "en": "protection against harmful biological agents"
+  },
+  "worstcase": {
+    "p": "/ˈwɜːst keɪs/",
+    "t": "最坏情况",
+    "en": "the most serious possible scenario"
+  },
+  "spelling": {
+    "p": "/ˈspelɪŋ/",
+    "t": "拼写",
+    "en": "the way letters form a word"
+  },
+  "prospect": {
+    "p": "/ˈprɒspekt/",
+    "t": "前景",
+    "en": "the possibility of a future event"
+  },
+  "unnerving": {
+    "p": "/ʌnˈnɜːvɪŋ/",
+    "t": "令人不安的",
+    "en": "causing unease or fear"
+  },
+  "credibly": {
+    "p": "/ˈkredəbli/",
+    "t": "可信地",
+    "en": "in a believable manner"
+  },
+  "civilization": {
+    "p": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "t": "文明",
+    "en": "an advanced human society"
+  },
+  "wiped": {
+    "p": "/waɪpt/",
+    "t": "抹去",
+    "en": "erased or destroyed completely"
+  },
+  "rolled": {
+    "p": "/rəʊld/",
+    "t": "滚动；卷起",
+    "en": "moved by turning over; wrapped"
+  },
+  "catastrophes": {
+    "p": "/kəˈtæstrəfiz/",
+    "t": "大灾难",
+    "en": "events causing great damage"
+  },
+  "bioterrorist": {
+    "p": "/ˌbaɪəʊˈterərɪst/",
+    "t": "生物恐怖分子",
+    "en": "one who uses biological agents to terrorize"
+  },
+  "consciously": {
+    "p": "/ˈkɒnʃəsli/",
+    "t": "有意识地",
+    "en": "with awareness and intention"
+  },
+  "theoretically": {
+    "p": "/ˌθɪəˈretɪkli/",
+    "t": "理论上",
+    "en": "in principle rather than practice"
+  },
+  "handiwork": {
+    "p": "/ˈhændiwɜːk/",
+    "t": "作品；手工",
+    "en": "something made by a person"
+  },
+  "biotech": {
+    "p": "/ˈbaɪəʊtek/",
+    "t": "生物技术",
+    "en": "biotechnology"
+  },
+  "genomes": {
+    "p": "/ˈdʒiːnəʊmz/",
+    "t": "基因组",
+    "en": "complete sets of genetic material"
+  },
+  "transmissibility": {
+    "p": "/trænzˌmɪsəˈbɪləti/",
+    "t": "传播性",
+    "en": "the ability to be transmitted"
+  },
+  "lethality": {
+    "p": "/liˈθæləti/",
+    "t": "致死性",
+    "en": "the capacity to cause death"
+  },
+  "malicious": {
+    "p": "/məˈlɪʃəs/",
+    "t": "恶意的",
+    "en": "intending to do harm"
+  },
+  "actor": {
+    "p": "/ˈæktə/",
+    "t": "行为者；演员",
+    "en": "a person who acts; a participant"
+  },
+  "manufacture": {
+    "p": "/ˌmænjuˈfæktʃə/",
+    "t": "制造",
+    "en": "to make on a large scale"
+  },
+  "contagious": {
+    "p": "/kənˈteɪdʒəs/",
+    "t": "传染性的",
+    "en": "spreading by contact"
+  },
+  "disfavors": {
+    "p": "/dɪsˈfeɪvəz/",
+    "t": "不赞成",
+    "en": "regards with disapproval"
+  },
+  "transmissible": {
+    "p": "/trænzˈmɪsəbl/",
+    "t": "可传播的",
+    "en": "able to be passed on"
+  },
+  "hosts": {
+    "p": "/həʊsts/",
+    "t": "宿主",
+    "en": "organisms harbouring a parasite"
+  },
+  "asymptomatic": {
+    "p": "/ˌeɪsɪmptəˈmætɪk/",
+    "t": "无症状的",
+    "en": "showing no symptoms"
+  },
+  "noticeable": {
+    "p": "/ˈnəʊtɪsəbl/",
+    "t": "显著的",
+    "en": "easily seen or noticed"
+  },
+  "bioterrorists": {
+    "p": "/ˌbaɪəʊˈterərɪsts/",
+    "t": "生物恐怖分子",
+    "en": "those who use biological agents to terrorize"
+  },
+  "unleash": {
+    "p": "/ʌnˈliːʃ/",
+    "t": "释放",
+    "en": "to set free from restraint"
+  },
+  "transmitted": {
+    "p": "/trænzˈmɪtɪd/",
+    "t": "传播",
+    "en": "passed on from one to another"
+  },
+  "shake": {
+    "p": "/ʃeɪk/",
+    "t": "摇动",
+    "en": "to move quickly back and forth"
+  },
+  "fatality": {
+    "p": "/fəˈtæləti/",
+    "t": "死亡",
+    "en": "a death caused by disease or accident"
+  },
+  "primeage": {
+    "p": "/praɪm eɪdʒ/",
+    "t": "壮年",
+    "en": "the most active period of life"
+  },
+  "heroes": {
+    "p": "/ˈhɪərəʊz/",
+    "t": "英雄",
+    "en": "people admired for courage"
+  },
+  "technicians": {
+    "p": "/tekˈnɪʃnz/",
+    "t": "技术员",
+    "en": "people skilled in practical techniques"
+  },
+  "laborers": {
+    "p": "/ˈleɪbərəz/",
+    "t": "劳动者",
+    "en": "people who do manual work"
+  },
+  "wiping": {
+    "p": "/ˈwaɪpɪŋ/",
+    "t": "擦拭；消灭",
+    "en": "cleaning by rubbing; erasing"
+  },
+  "sheltered": {
+    "p": "/ˈʃeltəd/",
+    "t": "受保护的",
+    "en": "protected from harm"
+  },
+  "distributing": {
+    "p": "/dɪˈstrɪbjuːtɪŋ/",
+    "t": "分发",
+    "en": "giving out to various recipients"
+  },
+  "swiftly": {
+    "p": "/ˈswɪftli/",
+    "t": "迅速地",
+    "en": "quickly"
+  },
+  "jeopardize": {
+    "p": "/ˈdʒepədaɪz/",
+    "t": "危及",
+    "en": "to put at risk"
+  },
+  "bioterror": {
+    "p": "/ˌbaɪəʊˈterə/",
+    "t": "生物恐怖主义",
+    "en": "terrorism using biological agents"
+  },
+  "mailings": {
+    "p": "/ˈmeɪlɪŋz/",
+    "t": "邮件",
+    "en": "items sent by post"
+  },
+  "reply": {
+    "p": "/rɪˈplaɪ/",
+    "t": "回复",
+    "en": "to answer"
+  },
+  "quote": {
+    "p": "/kwəʊt/",
+    "t": "引用",
+    "en": "to repeat words from a source"
+  },
+  "shooters": {
+    "p": "/ˈʃuːtəz/",
+    "t": "射手",
+    "en": "people who shoot"
+  },
+  "forfeit": {
+    "p": "/ˈfɔːfɪt/",
+    "t": "丧失",
+    "en": "to lose as a penalty"
+  },
+  "random": {
+    "p": "/ˈrændəm/",
+    "t": "随机的",
+    "en": "chosen without method"
+  },
+  "iconoclasts": {
+    "p": "/aɪˈkɒnəklæsts/",
+    "t": "打破传统者",
+    "en": "those who attack established beliefs"
+  },
+  "periodically": {
+    "p": "/ˌpɪəriˈɒdɪkli/",
+    "t": "定期地",
+    "en": "at regular intervals"
+  },
+  "murderous": {
+    "p": "/ˈmɜːdərəs/",
+    "t": "凶残的",
+    "en": "capable of murder"
+  },
+  "ideologies": {
+    "p": "/ˌaɪdiˈɒlədʒiz/",
+    "t": "意识形态",
+    "en": "systems of ideas and beliefs"
+  },
+  "wished": {
+    "p": "/wɪʃt/",
+    "t": "希望",
+    "en": "desired"
+  },
+  "aspiring": {
+    "p": "/əˈspaɪərɪŋ/",
+    "t": "有抱负的",
+    "en": "hoping to become"
+  },
+  "supervillain": {
+    "p": "/ˈsuːpəˌvɪlən/",
+    "t": "超级反派",
+    "en": "a powerful fictional villain"
+  },
+  "virology": {
+    "p": "/vaɪˈrɒlədʒi/",
+    "t": "病毒学",
+    "en": "the study of viruses"
+  },
+  "weaponize": {
+    "p": "/ˈwepənaɪz/",
+    "t": "武器化",
+    "en": "to adapt for use as a weapon"
+  },
+  "botulinum": {
+    "p": "/ˌbɒtjʊˈlaɪnəm/",
+    "t": "肉毒杆菌",
+    "en": "a bacterium producing a potent toxin"
+  },
+  "nonbelievers": {
+    "p": "/ˌnɒnbɪˈliːvəz/",
+    "t": "不信者",
+    "en": "those who do not believe"
+  },
+  "psychopaths": {
+    "p": "/ˈsaɪkəpæθs/",
+    "t": "精神病态者",
+    "en": "people with psychopathic traits"
+  },
+  "voiced": {
+    "p": "/vɔɪst/",
+    "t": "表达",
+    "en": "expressed in words"
+  },
+  "plummeted": {
+    "p": "/ˈplʌmɪtɪd/",
+    "t": "暴跌",
+    "en": "fell steeply"
+  },
+  "modify": {
+    "p": "/ˈmɒdɪfaɪ/",
+    "t": "修改",
+    "en": "to change slightly"
+  },
+  "genome": {
+    "p": "/ˈdʒiːnəʊm/",
+    "t": "基因组",
+    "en": "the complete genetic material of an organism"
+  },
+  "customengineered": {
+    "p": "/ˈkʌstəm ˌendʒɪˈnɪəd/",
+    "t": "定制设计的",
+    "en": "engineered to specific requirements"
+  },
+  "upward": {
+    "p": "/ˈʌpwəd/",
+    "t": "向上的",
+    "en": "towards a higher place"
+  },
+  "modification": {
+    "p": "/ˌmɒdɪfɪˈkeɪʃn/",
+    "t": "修改",
+    "en": "a change made to something"
+  },
+  "pseudonym": {
+    "p": "/ˈsjuːdənɪm/",
+    "t": "假名",
+    "en": "a fictitious name"
+  },
+  "applicant": {
+    "p": "/ˈæplɪkənt/",
+    "t": "申请人",
+    "en": "a person who applies for something"
+  },
+  "rudimentary": {
+    "p": "/ˌruːdɪˈmentri/",
+    "t": "基本的",
+    "en": "basic or undeveloped"
+  },
+  "fixing": {
+    "p": "/ˈfɪksɪŋ/",
+    "t": "修理",
+    "en": "repairing"
+  },
+  "dishwasher": {
+    "p": "/ˈdɪʃwɒʃə/",
+    "t": "洗碗机",
+    "en": "a machine for washing dishes"
+  },
+  "synthesizing": {
+    "p": "/ˈsɪnθəsaɪzɪŋ/",
+    "t": "合成",
+    "en": "producing by chemical synthesis"
+  },
+  "trove": {
+    "p": "/trəʊv/",
+    "t": "宝库",
+    "en": "a valuable collection"
+  },
+  "unfamiliar": {
+    "p": "/ˌʌnfəˈmɪliə/",
+    "t": "不熟悉的",
+    "en": "not known or recognized"
+  },
+  "fielding": {
+    "p": "/ˈfiːldɪŋ/",
+    "t": "应对",
+    "en": "dealing with questions or problems"
+  },
+  "troubleshooting": {
+    "p": "/ˈtrʌblʃuːtɪŋ/",
+    "t": "故障排除",
+    "en": "solving problems"
+  },
+  "arise": {
+    "p": "/əˈraɪz/",
+    "t": "出现",
+    "en": "to come into being"
+  },
+  "wouldbe": {
+    "p": "/ˈwʊdbi/",
+    "t": "想要成为的",
+    "en": "aspiring to be"
+  },
+  "advised": {
+    "p": "/ədˈvaɪzd/",
+    "t": "建议",
+    "en": "gave advice to"
+  },
+  "virologists": {
+    "p": "/vaɪˈrɒlədʒɪsts/",
+    "t": "病毒学家",
+    "en": "scientists who study viruses"
+  },
+  "laboratory": {
+    "p": "/ləˈbɒrətri/",
+    "t": "实验室",
+    "en": "a room for scientific experiments"
+  },
+  "tasked": {
+    "p": "/tɑːskt/",
+    "t": "被指派",
+    "en": "assigned a task"
+  },
+  "amateurs": {
+    "p": "/ˈæmətəz/",
+    "t": "业余爱好者",
+    "en": "people who do something without professional training"
+  },
+  "acquisition": {
+    "p": "/ˌækwɪˈzɪʃn/",
+    "t": "获取",
+    "en": "the act of obtaining"
+  },
+  "safeguards": {
+    "p": "/ˈseɪfɡɑːdz/",
+    "t": "保障措施",
+    "en": "measures to prevent harm"
+  },
+  "biodefense": {
+    "p": "/ˌbaɪəʊdɪˈfens/",
+    "t": "生物防御",
+    "en": "defence against biological threats"
+  },
+  "scrutinized": {
+    "p": "/ˈskruːtənaɪzd/",
+    "t": "仔细审查",
+    "en": "examined closely"
+  },
+  "proposals": {
+    "p": "/prəˈpəʊzlz/",
+    "t": "提议",
+    "en": "plans put forward"
+  },
+  "genomic": {
+    "p": "/dʒiˈnəʊmɪk/",
+    "t": "基因组的",
+    "en": "relating to genomes"
+  },
+  "bloodthirsty": {
+    "p": "/ˈblʌdθɜːsti/",
+    "t": "嗜血的",
+    "en": "eager for violence"
+  },
+  "nihilist": {
+    "p": "/ˈnaɪɪlɪst/",
+    "t": "虚无主义者",
+    "en": "one who rejects all values"
+  },
+  "ideologue": {
+    "p": "/ˈaɪdiəlɒɡ/",
+    "t": "理论家",
+    "en": "a committed advocate of an ideology"
+  },
+  "smallpox": {
+    "p": "/ˈsmɔːlpɒks/",
+    "t": "天花",
+    "en": "a contagious viral disease"
+  },
+  "reckless": {
+    "p": "/ˈrekləs/",
+    "t": "鲁莽的",
+    "en": "acting without care for consequences"
+  },
+  "customdesigned": {
+    "p": "/ˈkʌstəm dɪˈzaɪnd/",
+    "t": "定制设计的",
+    "en": "designed for a specific purpose"
+  },
+  "circulating": {
+    "p": "/ˈsɜːkjəleɪtɪŋ/",
+    "t": "传播",
+    "en": "moving around a system"
+  },
+  "gainoffunction": {
+    "p": "/ɡeɪn əv ˈfʌŋkʃn/",
+    "t": "功能获得",
+    "en": "research giving an organism new abilities"
+  },
+  "altering": {
+    "p": "/ˈɔːltərɪŋ/",
+    "t": "改变",
+    "en": "changing"
+  },
+  "detect": {
+    "p": "/dɪˈtekt/",
+    "t": "检测",
+    "en": "to discover or notice"
+  },
+  "epidemiologists": {
+    "p": "/ˌepɪdiːmiˈɒlədʒɪsts/",
+    "t": "流行病学家",
+    "en": "scientists who study disease spread"
+  },
+  "anticipate": {
+    "p": "/ænˈtɪsɪpeɪt/",
+    "t": "预期",
+    "en": "to expect or foresee"
+  },
+  "epidemiological": {
+    "p": "/ˌepɪdiːmiəˈlɒdʒɪkl/",
+    "t": "流行病学的",
+    "en": "relating to epidemiology"
+  },
+  "inadvertently": {
+    "p": "/ˌɪnədˈvɜːtəntli/",
+    "t": "无意中",
+    "en": "without intending to"
+  },
+  "recipes": {
+    "p": "/ˈresəpiz/",
+    "t": "配方",
+    "en": "instructions for making something"
+  },
+  "masscasualty": {
+    "p": "/mæs ˈkæʒuəlti/",
+    "t": "大规模伤亡",
+    "en": "involving many deaths or injuries"
+  },
+  "apocalyptic": {
+    "p": "/əˌpɒkəˈlɪptɪk/",
+    "t": "灾难性的",
+    "en": "resembling the end of the world"
+  },
+  "bacteriophages": {
+    "p": "/bækˈtɪəriəfeɪdʒɪz/",
+    "t": "噬菌体",
+    "en": "viruses that infect bacteria"
+  },
+  "genomiclanguage": {
+    "p": "/dʒiˈnəʊmɪk ˈlæŋɡwɪdʒ/",
+    "t": "基因组语言",
+    "en": "the language of genetic information"
+  },
+  "vaccineresistant": {
+    "p": "/ˈvæksiːn rɪˌzɪstənt/",
+    "t": "抗疫苗的",
+    "en": "not affected by vaccines"
+  },
+  "filter": {
+    "p": "/ˈfɪltə/",
+    "t": "过滤",
+    "en": "to pass through a device to remove particles"
+  },
+  "statesponsored": {
+    "p": "/steɪt ˈspɒnsəd/",
+    "t": "国家支持的",
+    "en": "funded by a government"
+  },
+  "improbably": {
+    "p": "/ɪmˈprɒbəbli/",
+    "t": "不太可能地",
+    "en": "unlikely to happen"
+  },
+  "precedent": {
+    "p": "/ˈpresɪdənt/",
+    "t": "先例",
+    "en": "an earlier example serving as a guide"
+  },
+  "omnicidal": {
+    "p": "/ˈɒmnɪsaɪdl/",
+    "t": "灭绝一切的",
+    "en": "destroying all life"
+  },
+  "aspirations": {
+    "p": "/ˌæspəˈreɪʃnz/",
+    "t": "抱负",
+    "en": "hopes or ambitions"
+  },
+  "undertaking": {
+    "p": "/ˌʌndəˈteɪkɪŋ/",
+    "t": "任务",
+    "en": "a task or project"
+  },
+  "tacit": {
+    "p": "/ˈtæsɪt/",
+    "t": "心照不宣的",
+    "en": "understood without being stated"
+  },
+  "understandings": {
+    "p": "/ˌʌndəˈstændɪŋz/",
+    "t": "谅解",
+    "en": "mutual agreements or interpretations"
+  },
+  "tremors": {
+    "p": "/ˈtreməz/",
+    "t": "震颤",
+    "en": "involuntary shaking movements"
+  },
+  "strands": {
+    "p": "/strændz/",
+    "t": "链；股",
+    "en": "long thin pieces or fibres"
+  },
+  "contaminated": {
+    "p": "/kənˈtæmɪneɪtɪd/",
+    "t": "被污染的",
+    "en": "made impure or infected"
+  },
+  "randomized": {
+    "p": "/ˈrændəmaɪzd/",
+    "t": "随机的",
+    "en": "arranged randomly"
+  },
+  "nonscientists": {
+    "p": "/ˌnɒnˈsaɪəntɪsts/",
+    "t": "非科学家",
+    "en": "people who are not scientists"
+  },
+  "multistep": {
+    "p": "/ˈmʌlti step/",
+    "t": "多步骤的",
+    "en": "involving several stages"
+  },
+  "graduatetrained": {
+    "p": "/ˈɡrædʒuət treɪnd/",
+    "t": "受过研究生训练的",
+    "en": "trained to graduate level"
+  },
+  "malcontent": {
+    "p": "/ˈmælkəntent/",
+    "t": "不满者",
+    "en": "a person who is dissatisfied"
+  },
+  "virologist": {
+    "p": "/vaɪˈrɒlədʒɪst/",
+    "t": "病毒学家",
+    "en": "a scientist who studies viruses"
+  },
+  "frontiers": {
+    "p": "/ˈfrʌntɪəz/",
+    "t": "前沿",
+    "en": "the limits of knowledge or territory"
+  },
+  "arduously": {
+    "p": "/ˈɑːdʒuəsli/",
+    "t": "艰难地",
+    "en": "with great effort"
+  },
+  "bacteriophage": {
+    "p": "/bækˈtɪəriəfeɪdʒ/",
+    "t": "噬菌体",
+    "en": "a virus that infects bacteria"
+  },
+  "fearsome": {
+    "p": "/ˈfɪəsəm/",
+    "t": "可怕的",
+    "en": "causing fear"
+  },
+  "devised": {
+    "p": "/dɪˈvaɪzd/",
+    "t": "设计",
+    "en": "invented or planned"
+  },
+  "strained": {
+    "p": "/streɪnd/",
+    "t": "紧张的",
+    "en": "showing tension or effort"
+  },
+  "analogy": {
+    "p": "/əˈnælədʒi/",
+    "t": "类比",
+    "en": "a comparison between similar things"
+  },
+  "resists": {
+    "p": "/rɪˈzɪsts/",
+    "t": "抵抗",
+    "en": "opposes or withstands"
+  },
+  "modeling": {
+    "p": "/ˈmɒdəlɪŋ/",
+    "t": "建模",
+    "en": "creating representations of systems"
+  },
+  "modifying": {
+    "p": "/ˈmɒdɪfaɪɪŋ/",
+    "t": "修改",
+    "en": "changing slightly"
+  },
+  "unpredictable": {
+    "p": "/ˌʌnprɪˈdɪktəbl/",
+    "t": "不可预测的",
+    "en": "not able to be foreseen"
+  },
+  "inconsistent": {
+    "p": "/ˌɪnkənˈsɪstənt/",
+    "t": "不一致的",
+    "en": "not staying the same"
+  },
+  "varying": {
+    "p": "/ˈveəriɪŋ/",
+    "t": "变化的",
+    "en": "differing or changing"
+  },
+  "churning": {
+    "p": "/ˈtʃɜːnɪŋ/",
+    "t": "翻腾",
+    "en": "moving with a vigorous swirling action"
+  },
+  "befuddle": {
+    "p": "/bɪˈfʌdl/",
+    "t": "使困惑",
+    "en": "to confuse"
+  },
+  "irrespective": {
+    "p": "/ˌɪrɪˈspektɪv/",
+    "t": "不论",
+    "en": "regardless of"
+  },
+  "plausibly": {
+    "p": "/ˈplɔːzəbli/",
+    "t": "似乎合理地",
+    "en": "in a believable manner"
+  },
+  "contagions": {
+    "p": "/kənˈteɪdʒənz/",
+    "t": "传染病",
+    "en": "contagious diseases"
+  },
+  "broadspectrum": {
+    "p": "/brɔːd ˈspektrəm/",
+    "t": "广谱的",
+    "en": "effective against many types"
+  },
+  "antivirals": {
+    "p": "/ˌæntiˈvaɪrəlz/",
+    "t": "抗病毒药物",
+    "en": "drugs that treat viral infections"
+  },
+  "outbreaks": {
+    "p": "/ˈaʊtbreɪks/",
+    "t": "爆发",
+    "en": "sudden occurrences of disease"
+  },
+  "meticulous": {
+    "p": "/məˈtɪkjələs/",
+    "t": "一丝不苟的",
+    "en": "showing great attention to detail"
+  },
+  "wastewater": {
+    "p": "/ˈweɪstwɔːtə/",
+    "t": "废水",
+    "en": "used water carried away in sewers"
+  },
+  "stockpiling": {
+    "p": "/ˈstɒkpaɪlɪŋ/",
+    "t": "囤积",
+    "en": "accumulating a large supply"
+  },
+  "foolproof": {
+    "p": "/ˈfuːlpruːf/",
+    "t": "万无一失的",
+    "en": "incapable of going wrong"
+  },
+  "indoor": {
+    "p": "/ˈɪndɔː/",
+    "t": "室内的",
+    "en": "inside a building"
+  },
+  "upgrading": {
+    "p": "/ˌʌpˈɡreɪdɪŋ/",
+    "t": "升级",
+    "en": "improving to a higher standard"
+  },
+  "ventilation": {
+    "p": "/ˌventɪˈleɪʃn/",
+    "t": "通风",
+    "en": "the supply of fresh air"
+  },
+  "filtration": {
+    "p": "/fɪlˈtreɪʃn/",
+    "t": "过滤",
+    "en": "the process of passing through a filter"
+  },
+  "mandating": {
+    "p": "/ˈmændeɪtɪŋ/",
+    "t": "强制规定",
+    "en": "officially requiring"
+  },
+  "syntheticdna": {
+    "p": "/sɪnˈθetɪk ˌdiː en ˈeɪ/",
+    "t": "合成DNA",
+    "en": "artificially made genetic material"
+  },
+  "galvanizing": {
+    "p": "/ˈɡælvənaɪzɪŋ/",
+    "t": "激励",
+    "en": "stimulating to action"
+  },
+  "adversaries": {
+    "p": "/ˈædvəsəriz/",
+    "t": "对手",
+    "en": "opponents or enemies"
   }
 }
