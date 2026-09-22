@@ -43888,5 +43888,425 @@
     "p": "/ˈædvəsəriz/",
     "t": "对手",
     "en": "opponents or enemies"
+  },
+  "beside": {
+    "p": "/bɪˈsaɪd/",
+    "t": "在…旁边",
+    "en": "next to or at the side of"
+  },
+  "inhale": {
+    "p": "/ɪnˈheɪl/",
+    "t": "吸入",
+    "en": "to breathe in"
+  },
+  "exhaust": {
+    "p": "/ɪɡˈzɔːst/",
+    "t": "废气；耗尽",
+    "en": "waste gases; to use up completely"
+  },
+  "cyclist": {
+    "p": "/ˈsaɪklɪst/",
+    "t": "骑自行车者",
+    "en": "a person who rides a bicycle"
+  },
+  "runner": {
+    "p": "/ˈrʌnə/",
+    "t": "跑步者",
+    "en": "a person who runs"
+  },
+  "cough": {
+    "p": "/kɒf/",
+    "t": "咳嗽",
+    "en": "to expel air from the lungs suddenly"
+  },
+  "polluted": {
+    "p": "/pəˈluːtɪd/",
+    "t": "受污染的",
+    "en": "contaminated with harmful substances"
+  },
+  "exercising": {
+    "p": "/ˈeksəsaɪzɪŋ/",
+    "t": "锻炼",
+    "en": "doing physical activity"
+  },
+  "roads": {
+    "p": "/rəʊdz/",
+    "t": "道路",
+    "en": "paved ways for vehicles"
+  },
+  "urban": {
+    "p": "/ˈɜːbən/",
+    "t": "城市的",
+    "en": "relating to a city or town"
+  },
+  "breathing": {
+    "p": "/ˈbriːðɪŋ/",
+    "t": "呼吸",
+    "en": "the process of taking air into the lungs"
+  },
+  "breathes": {
+    "p": "/briːðz/",
+    "t": "呼吸",
+    "en": "takes air into and out of the lungs"
+  },
+  "micrometres": {
+    "p": "/ˈmaɪkrəʊmiːtəz/",
+    "t": "微米",
+    "en": "units of length equal to one millionth of a metre"
+  },
+  "specks": {
+    "p": "/speks/",
+    "t": "微粒",
+    "en": "very small marks or particles"
+  },
+  "bloodstream": {
+    "p": "/ˈblʌd striːm/",
+    "t": "血流",
+    "en": "the blood flowing through the body"
+  },
+  "particle": {
+    "p": "/ˈpɑːtɪkl/",
+    "t": "颗粒",
+    "en": "a very small piece of matter"
+  },
+  "accumulation": {
+    "p": "/əˌkjuːmjəˈleɪʃn/",
+    "t": "积聚",
+    "en": "the gradual gathering of something"
+  },
+  "analysed": {
+    "p": "/ˈænəlaɪzd/",
+    "t": "分析",
+    "en": "examined in detail"
+  },
+  "vessels": {
+    "p": "/ˈveslz/",
+    "t": "血管",
+    "en": "tubes carrying blood in the body"
+  },
+  "epidemiologist": {
+    "p": "/ˌepɪdiːmiˈɒlədʒɪst/",
+    "t": "流行病学家",
+    "en": "a scientist who studies diseases in populations"
+  },
+  "pollutants": {
+    "p": "/pəˈluːtənts/",
+    "t": "污染物",
+    "en": "harmful substances that pollute the environment"
+  },
+  "nitrogen": {
+    "p": "/ˈnaɪtrədʒən/",
+    "t": "氮",
+    "en": "a chemical element, a gas forming most of the air"
+  },
+  "sulphur": {
+    "p": "/ˈsʌlfə/",
+    "t": "硫",
+    "en": "a yellow chemical element"
+  },
+  "ammonia": {
+    "p": "/əˈməʊniə/",
+    "t": "氨",
+    "en": "a colourless gas with a strong smell"
+  },
+  "monoxide": {
+    "p": "/mɒˈnɒksaɪd/",
+    "t": "一氧化物",
+    "en": "a compound containing one oxygen atom"
+  },
+  "groundlevel": {
+    "p": "/ˈɡraʊnd ˌlevl/",
+    "t": "地面水平的",
+    "en": "at the level of the ground"
+  },
+  "ozone": {
+    "p": "/ˈəʊzəʊn/",
+    "t": "臭氧",
+    "en": "a form of oxygen, a pollutant at ground level"
+  },
+  "vigorously": {
+    "p": "/ˈvɪɡərəsli/",
+    "t": "剧烈地",
+    "en": "with great energy or force"
+  },
+  "toxic": {
+    "p": "/ˈtɒksɪk/",
+    "t": "有毒的",
+    "en": "poisonous"
+  },
+  "exposures": {
+    "p": "/ɪkˈspəʊʒəz/",
+    "t": "暴露",
+    "en": "instances of being exposed to something harmful"
+  },
+  "metalrich": {
+    "p": "/ˈmetl rɪtʃ/",
+    "t": "富含金属的",
+    "en": "containing a high amount of metal"
+  },
+  "wheels": {
+    "p": "/wiːlz/",
+    "t": "车轮",
+    "en": "circular objects that turn to move vehicles"
+  },
+  "rails": {
+    "p": "/reɪlz/",
+    "t": "铁轨",
+    "en": "metal bars forming a track for trains"
+  },
+  "brakes": {
+    "p": "/breɪks/",
+    "t": "刹车",
+    "en": "devices for slowing or stopping a vehicle"
+  },
+  "modelling": {
+    "p": "/ˈmɒdəlɪŋ/",
+    "t": "建模",
+    "en": "using computer models to simulate something"
+  },
+  "reduction": {
+    "p": "/rɪˈdʌkʃn/",
+    "t": "减少",
+    "en": "the act of making something smaller"
+  },
+  "mortality": {
+    "p": "/mɔːˈtæləti/",
+    "t": "死亡率",
+    "en": "the number of deaths in a population"
+  },
+  "inactivity": {
+    "p": "/ˌɪnækˈtɪvəti/",
+    "t": "不活动",
+    "en": "lack of physical activity"
+  },
+  "preferrable": {
+    "p": "/ˈprefrəbl/",
+    "t": "更可取的",
+    "en": "more desirable or suitable"
+  },
+  "improves": {
+    "p": "/ɪmˈpruːvz/",
+    "t": "改善",
+    "en": "makes or becomes better"
+  },
+  "lowers": {
+    "p": "/ˈləʊəz/",
+    "t": "降低",
+    "en": "makes less in amount or degree"
+  },
+  "volunteers": {
+    "p": "/ˌvɒlənˈtɪəz/",
+    "t": "志愿者",
+    "en": "people who offer to do something willingly"
+  },
+  "obstructive": {
+    "p": "/əbˈstrʌktɪv/",
+    "t": "阻塞性的",
+    "en": "causing blockage, as in lung disease"
+  },
+  "pulmonary": {
+    "p": "/ˈpʌlmənəri/",
+    "t": "肺的",
+    "en": "relating to the lungs"
+  },
+  "coronary": {
+    "p": "/ˈkɒrənəri/",
+    "t": "冠状动脉的",
+    "en": "relating to the heart's arteries"
+  },
+  "offsets": {
+    "p": "/ˈɒfsets/",
+    "t": "抵消",
+    "en": "counterbalances or compensates for"
+  },
+  "blunts": {
+    "p": "/blʌnts/",
+    "t": "减弱",
+    "en": "makes less sharp or effective"
+  },
+  "ideal": {
+    "p": "/aɪˈdiːəl/",
+    "t": "理想的",
+    "en": "perfect or most suitable"
+  },
+  "countryside": {
+    "p": "/ˈkʌntrisaɪd/",
+    "t": "乡村",
+    "en": "rural land outside cities"
+  },
+  "greenest": {
+    "p": "/ˈɡriːnɪst/",
+    "t": "最环保的",
+    "en": "most environmentally friendly"
+  },
+  "congested": {
+    "p": "/kənˈdʒestɪd/",
+    "t": "拥堵的",
+    "en": "overcrowded, especially with traffic"
+  },
+  "slashes": {
+    "p": "/ˈslæʃɪz/",
+    "t": "大幅削减",
+    "en": "cuts drastically"
+  },
+  "hotspots": {
+    "p": "/ˈhɒtspɒts/",
+    "t": "热点地区",
+    "en": "places of intense activity or pollution"
+  },
+  "afternoons": {
+    "p": "/ˌɑːftəˈnuːnz/",
+    "t": "下午",
+    "en": "the times between noon and evening"
+  },
+  "advises": {
+    "p": "/ədˈvaɪzɪz/",
+    "t": "建议",
+    "en": "gives recommendations"
+  },
+  "abundant": {
+    "p": "/əˈbʌndənt/",
+    "t": "充足的",
+    "en": "existing in large quantities"
+  },
+  "sunlight": {
+    "p": "/ˈsʌnlaɪt/",
+    "t": "阳光",
+    "en": "light from the sun"
+  },
+  "exacerbates": {
+    "p": "/ɪɡˈzæsəbeɪts/",
+    "t": "加剧",
+    "en": "makes worse"
+  },
+  "monitor": {
+    "p": "/ˈmɒnɪtə/",
+    "t": "监测",
+    "en": "to observe and check over time"
+  },
+  "indexes": {
+    "p": "/ˈɪndeksɪz/",
+    "t": "指数",
+    "en": "indicators or measures of something"
+  },
+  "parks": {
+    "p": "/pɑːks/",
+    "t": "公园",
+    "en": "public green areas"
+  },
+  "melissa": {
+    "p": "/məˈlɪsə/",
+    "t": "梅丽莎（人名）",
+    "en": "a female given name"
+  },
+  "hogenboom": {
+    "p": "/ˈhəʊɡənbuːm/",
+    "t": "霍根布姆（人名）",
+    "en": "a surname"
+  },
+  "snipers": {
+    "p": "/ˈsnaɪpəz/",
+    "t": "狙击手（复数）",
+    "en": "plural of sniper; people who shoot from a concealed position"
+  },
+  "rendering": {
+    "p": "/ˈrɛndərɪŋ/",
+    "t": "演绎；表现；渲染",
+    "en": "a performance, interpretation, or translation of something"
+  },
+  "triumphal": {
+    "p": "/traɪˈʌmfəl/",
+    "t": "凯旋的；庆祝胜利的",
+    "en": "celebrating or commemorating a victory"
+  },
+  "briefing": {
+    "p": "/ˈbriːfɪŋ/",
+    "t": "简报；情况介绍会",
+    "en": "a meeting or document giving instructions or information"
+  },
+  "sniper": {
+    "p": "/ˈsnaɪpə/",
+    "t": "狙击手",
+    "en": "a person who shoots at people from a hidden position"
+  },
+  "foottall": {
+    "p": "/ˌfʊtˈtɔːl/",
+    "t": "一英尺高的",
+    "en": "measuring one foot in height"
+  },
+  "plaza": {
+    "p": "/ˈplɑːzə/",
+    "t": "广场；购物中心",
+    "en": "a public square or shopping center"
+  },
+  "storage": {
+    "p": "/ˈstɔːrɪdʒ/",
+    "t": "储存；仓库",
+    "en": "the keeping of things until needed; space for storing"
+  },
+  "requested": {
+    "p": "/rɪˈkwɛstɪd/",
+    "t": "被请求的；被要求的",
+    "en": "asked for or demanded politely"
+  },
+  "determination": {
+    "p": "/dɪˌtɜːmɪˈneɪʃən/",
+    "t": "决心；确定",
+    "en": "firmness of purpose; the act of deciding"
+  },
+  "acquired": {
+    "p": "/əˈkwaɪəd/",
+    "t": "获得的；已取得的",
+    "en": "obtained or gained through effort or purchase"
+  },
+  "bunker": {
+    "p": "/ˈbʌŋkə/",
+    "t": "地堡；掩体",
+    "en": "a reinforced underground shelter, especially for protection"
+  },
+  "unifying": {
+    "p": "/ˈjuːnɪfaɪɪŋ/",
+    "t": "统一的；使团结的",
+    "en": "making people or things come together as one"
+  },
+  "cudgel": {
+    "p": "/ˈkʌdʒəl/",
+    "t": "短棍；用棍打",
+    "en": "a short thick stick used as a weapon; to beat with such a stick"
+  },
+  "thrilled": {
+    "p": "/θrɪld/",
+    "t": "非常激动的；兴奋的",
+    "en": "feeling very excited and pleased"
+  },
+  "declaring": {
+    "p": "/dɪˈklɛərɪŋ/",
+    "t": "宣布；声明",
+    "en": "announcing or stating something formally"
+  },
+  "muchneeded": {
+    "p": "/ˌmʌtʃˈniːdɪd/",
+    "t": "急需的；非常需要的",
+    "en": "needed very much; essential"
+  },
+  "nowvenerable": {
+    "p": "/ˌnaʊˈvɛnərəbl/",
+    "t": "如今受人尊敬的",
+    "en": "now deserving respect due to age or wisdom"
+  },
+  "resonate": {
+    "p": "/ˈrɛzəneɪt/",
+    "t": "共鸣；产生回响",
+    "en": "to produce a deep sound or to have a strong emotional effect"
+  },
+  "upending": {
+    "p": "/ʌpˈɛndɪŋ/",
+    "t": "颠倒；颠覆",
+    "en": "turning upside down; overturning completely"
+  },
+  "scariest": {
+    "p": "/ˈskɛəriɪst/",
+    "t": "最可怕的",
+    "en": "superlative of scary; most frightening"
   }
 }
