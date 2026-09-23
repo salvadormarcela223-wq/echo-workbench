@@ -44308,5 +44308,560 @@
     "p": "/ˈskɛəriɪst/",
     "t": "最可怕的",
     "en": "superlative of scary; most frightening"
+  },
+  "anaesthetics": {
+    "p": "/ˌænəsˈθɛtɪks/",
+    "t": "麻醉剂",
+    "en": "substances that cause loss of sensation"
+  },
+  "naval": {
+    "p": "/ˈneɪvəl/",
+    "t": "海军的",
+    "en": "relating to a navy or ships"
+  },
+  "commander": {
+    "p": "/kəˈmɑːndə/",
+    "t": "指挥官",
+    "en": "a person in authority, especially in the navy"
+  },
+  "amputated": {
+    "p": "/ˈæmpjʊteɪtɪd/",
+    "t": "被截肢的",
+    "en": "having had a limb cut off surgically"
+  },
+  "legend": {
+    "p": "/ˈlɛdʒənd/",
+    "t": "传奇",
+    "en": "a famous or celebrated person or story"
+  },
+  "anaesthetic": {
+    "p": "/ˌænəsˈθɛtɪk/",
+    "t": "麻醉剂",
+    "en": "a drug that causes insensitivity to pain"
+  },
+  "removal": {
+    "p": "/rɪˈmuːvəl/",
+    "t": "移除",
+    "en": "the action of taking something away"
+  },
+  "limbs": {
+    "p": "/lɪmz/",
+    "t": "四肢",
+    "en": "arms and legs of a person or animal"
+  },
+  "awake": {
+    "p": "/əˈweɪk/",
+    "t": "醒着的",
+    "en": "not asleep; conscious"
+  },
+  "gamechanging": {
+    "p": "/ˈɡeɪmˌtʃeɪndʒɪŋ/",
+    "t": "改变格局的",
+    "en": "having a major impact on how something is done"
+  },
+  "skipped": {
+    "p": "/skɪpt/",
+    "t": "跳过",
+    "en": "omitted or passed over"
+  },
+  "amputation": {
+    "p": "/ˌæmpjʊˈteɪʃən/",
+    "t": "截肢",
+    "en": "surgical removal of a limb"
+  },
+  "breakfast": {
+    "p": "/ˈbrɛkfəst/",
+    "t": "早餐",
+    "en": "the first meal of the day"
+  },
+  "surgeries": {
+    "p": "/ˈsɜːdʒəriz/",
+    "t": "手术",
+    "en": "medical operations"
+  },
+  "anaesthesia": {
+    "p": "/ˌænəsˈθiːziə/",
+    "t": "麻醉",
+    "en": "loss of sensation, especially induced by drugs"
+  },
+  "medicines": {
+    "p": "/ˈmɛdsɪnz/",
+    "t": "药物",
+    "en": "substances used to treat illness"
+  },
+  "hinting": {
+    "p": "/ˈhɪntɪŋ/",
+    "t": "暗示",
+    "en": "suggesting indirectly"
+  },
+  "sleepy": {
+    "p": "/ˈsliːpi/",
+    "t": "困倦的",
+    "en": "feeling tired and wanting to sleep"
+  },
+  "relaxed": {
+    "p": "/rɪˈlækst/",
+    "t": "放松的",
+    "en": "free from tension; calm"
+  },
+  "whatsoever": {
+    "p": "/ˌwɒtsəʊˈɛvə/",
+    "t": "丝毫",
+    "en": "at all; used for emphasis"
+  },
+  "plethora": {
+    "p": "/ˈplɛθərə/",
+    "t": "过多",
+    "en": "an excess or large amount"
+  },
+  "unconsciousness": {
+    "p": "/ʌnˈkɒnʃəsnəs/",
+    "t": "无意识",
+    "en": "the state of being unconscious"
+  },
+  "xenon": {
+    "p": "/ˈzɛnɒn/",
+    "t": "氙",
+    "en": "a chemical element, a noble gas"
+  },
+  "propofol": {
+    "p": "/ˈprəʊpəfɒl/",
+    "t": "丙泊酚",
+    "en": "a drug used for anaesthesia"
+  },
+  "interfere": {
+    "p": "/ˌɪntəˈfɪə/",
+    "t": "干扰",
+    "en": "to get involved or disrupt"
+  },
+  "magnetic": {
+    "p": "/mæɡˈnɛtɪk/",
+    "t": "磁性的",
+    "en": "relating to magnetism"
+  },
+  "resonance": {
+    "p": "/ˈrɛzənəns/",
+    "t": "共振",
+    "en": "a vibration of large amplitude at a specific frequency"
+  },
+  "scans": {
+    "p": "/skænz/",
+    "t": "扫描",
+    "en": "medical imaging procedures"
+  },
+  "induced": {
+    "p": "/ɪnˈdjuːst/",
+    "t": "诱发的",
+    "en": "brought about by an external cause"
+  },
+  "shutdown": {
+    "p": "/ˈʃʌtdaʊn/",
+    "t": "关闭",
+    "en": "a cessation of operation"
+  },
+  "shuts": {
+    "p": "/ʃʌts/",
+    "t": "关闭",
+    "en": "closes or stops operating"
+  },
+  "interconnected": {
+    "p": "/ˌɪntəkəˈnɛktɪd/",
+    "t": "互相关联的",
+    "en": "linked or connected with each other"
+  },
+  "dissect": {
+    "p": "/dɪˈsɛkt/",
+    "t": "解剖",
+    "en": "to cut apart for examination"
+  },
+  "biophysics": {
+    "p": "/ˌbaɪəʊˈfɪzɪks/",
+    "t": "生物物理学",
+    "en": "the physics of biological processes"
+  },
+  "thalamus": {
+    "p": "/ˈθæləməs/",
+    "t": "丘脑",
+    "en": "a brain region relaying sensory signals"
+  },
+  "eggshaped": {
+    "p": "/ˈɛɡʃeɪpt/",
+    "t": "蛋形的",
+    "en": "having the shape of an egg"
+  },
+  "initiating": {
+    "p": "/ɪˈnɪʃieɪtɪŋ/",
+    "t": "启动",
+    "en": "causing something to begin"
+  },
+  "hijacking": {
+    "p": "/ˈhaɪdʒækɪŋ/",
+    "t": "劫持",
+    "en": "taking control of something illegally or forcefully"
+  },
+  "circuitry": {
+    "p": "/ˈsɜːkɪtri/",
+    "t": "电路系统",
+    "en": "the system of circuits in a device or the brain"
+  },
+  "anaesthetise": {
+    "p": "/əˈniːsθətaɪz/",
+    "t": "麻醉",
+    "en": "to make unconscious or insensible to pain"
+  },
+  "selective": {
+    "p": "/sɪˈlɛktɪv/",
+    "t": "选择性的",
+    "en": "affecting only certain things"
+  },
+  "woken": {
+    "p": "/ˈwəʊkən/",
+    "t": "唤醒",
+    "en": "past participle of wake; roused from sleep"
+  },
+  "thalamic": {
+    "p": "/θəˈlæmɪk/",
+    "t": "丘脑的",
+    "en": "relating to the thalamus"
+  },
+  "arousal": {
+    "p": "/əˈraʊzəl/",
+    "t": "唤醒",
+    "en": "the state of being awake or alert"
+  },
+  "cerebral": {
+    "p": "/ˈsɛrɪbrəl/",
+    "t": "大脑的",
+    "en": "relating to the brain"
+  },
+  "wrinkly": {
+    "p": "/ˈrɪŋkli/",
+    "t": "有皱纹的",
+    "en": "having wrinkles"
+  },
+  "implicated": {
+    "p": "/ˈɪmplɪkeɪtɪd/",
+    "t": "涉及的",
+    "en": "shown to be involved in something"
+  },
+  "frontal": {
+    "p": "/ˈfrʌntəl/",
+    "t": "额叶的",
+    "en": "relating to the front part, especially of the brain"
+  },
+  "parietal": {
+    "p": "/pəˈraɪɪtəl/",
+    "t": "顶叶的",
+    "en": "relating to the parietal lobe of the brain"
+  },
+  "lobes": {
+    "p": "/ləʊbz/",
+    "t": "叶",
+    "en": "divisions of an organ, especially the brain"
+  },
+  "forehead": {
+    "p": "/ˈfɔːhɛd/",
+    "t": "前额",
+    "en": "the part of the face above the eyes"
+  },
+  "higherlevel": {
+    "p": "/ˌhaɪəˈlɛvəl/",
+    "t": "高层次的",
+    "en": "more complex or advanced"
+  },
+  "inbetween": {
+    "p": "/ˌɪnbɪˈtwiːn/",
+    "t": "中间的",
+    "en": "situated between two things"
+  },
+  "asleep": {
+    "p": "/əˈsliːp/",
+    "t": "睡着的",
+    "en": "in a state of sleep"
+  },
+  "undergoing": {
+    "p": "/ˌʌndəˈɡəʊɪŋ/",
+    "t": "经历",
+    "en": "experiencing or being subjected to"
+  },
+  "waking": {
+    "p": "/ˈweɪkɪŋ/",
+    "t": "醒着的",
+    "en": "related to being awake"
+  },
+  "accidental": {
+    "p": "/ˌæksɪˈdɛntəl/",
+    "t": "意外的",
+    "en": "happening by chance or unintentionally"
+  },
+  "anaesthetist": {
+    "p": "/əˈniːsθətɪst/",
+    "t": "麻醉师",
+    "en": "a doctor who administers anaesthesia"
+  },
+  "tourniquet": {
+    "p": "/ˈtʊənɪkeɪ/",
+    "t": "止血带",
+    "en": "a device to stop bleeding by compression"
+  },
+  "paralysing": {
+    "p": "/ˈpærəlaɪzɪŋ/",
+    "t": "使瘫痪的",
+    "en": "causing loss of movement"
+  },
+  "experimenters": {
+    "p": "/ɪkˈspɛrɪmɛntəz/",
+    "t": "实验者",
+    "en": "people who conduct experiments"
+  },
+  "mysteries": {
+    "p": "/ˈmɪstəriz/",
+    "t": "谜团",
+    "en": "things that are difficult to understand"
+  },
+  "unlock": {
+    "p": "/ʌnˈlɒk/",
+    "t": "解锁",
+    "en": "to open or reveal"
+  },
+  "uniqueness": {
+    "p": "/juːˈniːknəs/",
+    "t": "独特性",
+    "en": "the quality of being unique"
+  },
+  "subjective": {
+    "p": "/səbˈdʒɛktɪv/",
+    "t": "主观的",
+    "en": "based on personal feelings or opinions"
+  },
+  "investigated": {
+    "p": "/ɪnˈvɛstɪɡeɪtɪd/",
+    "t": "调查",
+    "en": "examined or studied systematically"
+  },
+  "connectivity": {
+    "p": "/ˌkɒnɛkˈtɪvɪti/",
+    "t": "连通性",
+    "en": "the state of being connected"
+  },
+  "anaesthetised": {
+    "p": "/əˈniːsθətaɪzd/",
+    "t": "被麻醉的",
+    "en": "made unconscious or insensible to pain"
+  },
+  "distinguishable": {
+    "p": "/dɪˈstɪŋɡwɪʃəbəl/",
+    "t": "可区分的",
+    "en": "able to be recognized as different"
+  },
+  "evolutionarily": {
+    "p": "/ˌiːvəˈluːʃənərɪli/",
+    "t": "从进化角度",
+    "en": "in terms of evolution"
+  },
+  "disparate": {
+    "p": "/ˈdɪspərət/",
+    "t": "不同的",
+    "en": "essentially different in kind"
+  },
+  "wakefulness": {
+    "p": "/ˈweɪkfəlnəs/",
+    "t": "清醒",
+    "en": "the state of being awake"
+  },
+  "guides": {
+    "p": "/ɡaɪdz/",
+    "t": "引导",
+    "en": "directs or leads"
+  },
+  "commentary": {
+    "p": "/ˈkɒməntəri/",
+    "t": "评论",
+    "en": "a spoken or written explanation"
+  },
+  "rudderless": {
+    "p": "/ˈrʌdələs/",
+    "t": "无舵的",
+    "en": "lacking direction or control"
+  },
+  "shine": {
+    "p": "/ʃaɪn/",
+    "t": "发光",
+    "en": "to give off light"
+  },
+  "psychedelics": {
+    "p": "/ˌsaɪkəˈdɛlɪks/",
+    "t": "迷幻药",
+    "en": "drugs that alter perception and mood"
+  },
+  "psilocybin": {
+    "p": "/ˌsaɪləˈsaɪbɪn/",
+    "t": "裸盖菇素",
+    "en": "a hallucinogenic compound found in some mushrooms"
+  },
+  "magic": {
+    "p": "/ˈmædʒɪk/",
+    "t": "魔法",
+    "en": "a mysterious or supernatural power"
+  },
+  "mushrooms": {
+    "p": "/ˈmʌʃruːmz/",
+    "t": "蘑菇",
+    "en": "fungi with a stem and cap"
+  },
+  "dampen": {
+    "p": "/ˈdæmpən/",
+    "t": "抑制",
+    "en": "to reduce or lessen"
+  },
+  "resides": {
+    "p": "/rɪˈzaɪdz/",
+    "t": "存在于",
+    "en": "exists or is located in"
+  },
+  "anaesthesiology": {
+    "p": "/ˌænəsθiːziˈɒlədʒi/",
+    "t": "麻醉学",
+    "en": "the branch of medicine dealing with anaesthesia"
+  },
+  "perioperative": {
+    "p": "/ˌpɛriˈɒpərətɪv/",
+    "t": "围手术期的",
+    "en": "relating to the period around surgery"
+  },
+  "trilateral": {
+    "p": "/ˌtraɪˈlætərəl/",
+    "t": "三边的；三方的",
+    "en": "involving three parties or sides"
+  },
+  "sidelines": {
+    "p": "/ˈsaɪdlaɪnz/",
+    "t": " sidelines；边线；旁观者的位置",
+    "en": "the lines marking the sides of a playing area; positions of observation rather than participation"
+  },
+  "peaceful": {
+    "p": "/ˈpiːsfl/",
+    "t": "和平的；平静的",
+    "en": "free from disturbance; tranquil"
+  },
+  "outlining": {
+    "p": "/ˈaʊtlaɪnɪŋ/",
+    "t": "概述；勾勒轮廓",
+    "en": "giving a summary or drawing the outer shape of something"
+  },
+  "monthslong": {
+    "p": "/ˈmʌnθslɒŋ/",
+    "t": "持续数月的",
+    "en": "lasting for several months"
+  },
+  "semiautonomous": {
+    "p": "/ˌsemiɔːˈtɒnəməs/",
+    "t": "半自治的",
+    "en": "partially self-governing"
+  },
+  "reaffirms": {
+    "p": "/ˌriːəˈfɜːmz/",
+    "t": "重申；再次确认",
+    "en": "states or confirms again"
+  },
+  "sovereignty": {
+    "p": "/ˈsɒvrənti/",
+    "t": "主权",
+    "en": "supreme authority or power to govern"
+  },
+  "territorial": {
+    "p": "/ˌterəˈtɔːriəl/",
+    "t": "领土的",
+    "en": "relating to territory"
+  },
+  "integrity": {
+    "p": "/ɪnˈteɡrəti/",
+    "t": "完整；正直",
+    "en": "the state of being whole or honest"
+  },
+  "sweep": {
+    "p": "/swiːp/",
+    "t": "扫；席卷；范围",
+    "en": "to clean or move with a brush; a wide extent or movement"
+  },
+  "necessity": {
+    "p": "/nəˈsesəti/",
+    "t": "必要性；必需品",
+    "en": "the state of being necessary; something essential"
+  },
+  "escalated": {
+    "p": "/ˈeskəleɪtɪd/",
+    "t": "升级；加剧",
+    "en": "increased in intensity or extent"
+  },
+  "bribing": {
+    "p": "/ˈbraɪbɪŋ/",
+    "t": "贿赂",
+    "en": "giving money or gifts to influence someone dishonestly"
+  },
+  "secede": {
+    "p": "/sɪˈsiːd/",
+    "t": "脱离；退出",
+    "en": "to withdraw formally from a union or alliance"
+  },
+  "seizing": {
+    "p": "/ˈsiːzɪŋ/",
+    "t": "抓住；夺取",
+    "en": "taking hold of suddenly or by force"
+  },
+  "fundamentally": {
+    "p": "/ˌfʌndəˈmentəli/",
+    "t": "根本上",
+    "en": "in a basic or essential way"
+  },
+  "professed": {
+    "p": "/prəˈfest/",
+    "t": "声称的；自称的",
+    "en": "claimed or declared openly"
+  },
+  "justifications": {
+    "p": "/ˌdʒʌstɪfɪˈkeɪʃnz/",
+    "t": "理由；辩护",
+    "en": "reasons or explanations that justify something"
+  },
+  "approaching": {
+    "p": "/əˈprəʊtʃɪŋ/",
+    "t": "接近；即将到来",
+    "en": "coming near or closer in time or space"
+  },
+  "clamoring": {
+    "p": "/ˈklæmərɪŋ/",
+    "t": "大声要求；喧嚷",
+    "en": "demanding something loudly and insistently"
+  },
+  "equinox": {
+    "p": "/ˈiːkwɪnɒks/",
+    "t": "春分或秋分；昼夜平分点",
+    "en": "either of two times when day and night are equal"
+  },
+  "rigidly": {
+    "p": "/ˈrɪdʒɪdli/",
+    "t": "僵硬地；严格地",
+    "en": "in a stiff or inflexible manner"
+  },
+  "gridded": {
+    "p": "/ˈɡrɪdɪd/",
+    "t": "有网格的；格状的",
+    "en": "marked or arranged in a grid pattern"
+  },
+  "vernal": {
+    "p": "/ˈvɜːnl/",
+    "t": "春天的",
+    "en": "relating to spring"
+  },
+  "autumnal": {
+    "p": "/ɔːˈtʌmnəl/",
+    "t": "秋天的",
+    "en": "relating to autumn"
+  },
+  "equinoxes": {
+    "p": "/ˈiːkwɪnɒksɪz/",
+    "t": "春分或秋分（复数）",
+    "en": "the two times of year when day and night are equal"
   }
 }
