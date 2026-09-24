@@ -47,6 +47,23 @@ function tryRun(cmd, label) {
 (async () => {
   console.log('===== Echo 每日流水线 ' + (DRY ? '(DRY 模式：只抓取·不调用 AI)' : TEST ? '(TEST 模式)' : '(发布模式)') + ' =====');
 
+  // 0. 根因修复（2026-09-24 暴露）：先同步线上最新版本，
+  //    否则本机停留在旧提交、会在旧底子上重复抓取并重复调用 DeepSeek（曾导致一天白烧 244 次 AI 调用）。
+  //    仅当「本机落后远程 且 无未提交改动」时对齐远程；有未提交改动则跳过并警告（绝不动用户手头工作）。
+  try {
+    execSync('git fetch origin', { cwd: ROOT, stdio: 'inherit' });
+    const behind = execSync('git rev-list --count HEAD..origin/master', { cwd: ROOT }).toString().trim();
+    const dirty = execSync('git status --porcelain', { cwd: ROOT }).toString().trim();
+    if (behind !== '0' && dirty === '') {
+      execSync('git reset --hard origin/master', { cwd: ROOT, stdio: 'inherit' });
+      console.log('✅ 已对齐线上最新版本（避免旧底子重复调用 DeepSeek）');
+    } else if (behind !== '0' && dirty !== '') {
+      console.log('⚠️ 本地落后远程但存在未提交改动，跳过自动对齐（将在当前底子运行，可能重复富集——建议先处理改动）');
+    }
+  } catch (e) {
+    console.log('⚠️ 同步线上版本失败（不影响抓取，但可能在本机旧底子运行）：' + ((e && e.message) || e));
+  }
+
   // 1. 三版块一起抓取 → 暂存草稿（news 行业资讯 / insights 专业提升 / readings 英语阅读，均每日更新）
   //    各版块独立抓取：任一块失败只跳过该块，不再因单点故障冻结整站更新
   tryRun('node scripts/fetch-news.mjs --write', '行业资讯抓取');
