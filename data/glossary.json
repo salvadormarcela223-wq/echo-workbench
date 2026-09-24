@@ -44863,5 +44863,260 @@
     "p": "/ˈiːkwɪnɒksɪz/",
     "t": "春分或秋分（复数）",
     "en": "the two times of year when day and night are equal"
+  },
+  "barred": {
+    "p": "/bɑːd/",
+    "t": "被禁止的；被阻挡的",
+    "en": "prevented from entering or participating; blocked"
+  },
+  "skeptical": {
+    "p": "/ˈskeptɪkl/",
+    "t": "怀疑的",
+    "en": "not easily convinced; having doubts"
+  },
+  "anticlimactic": {
+    "p": "/ˌæntiklaɪˈmæktɪk/",
+    "t": "令人失望的；虎头蛇尾的",
+    "en": "causing disappointment after a promising build-up"
+  },
+  "arguments": {
+    "p": "/ˈɑːɡjumənts/",
+    "t": "论点；争论",
+    "en": "reasons or sets of reasons given to support an idea; disputes"
+  },
+  "feeble": {
+    "p": "/ˈfiːbl/",
+    "t": "虚弱的；无力的",
+    "en": "lacking physical strength or effectiveness"
+  },
+  "jeopardized": {
+    "p": "/ˈdʒepədaɪzd/",
+    "t": "危及；使处于危险中",
+    "en": "put at risk of harm or loss"
+  },
+  "singled": {
+    "p": "/ˈsɪŋɡld/",
+    "t": "挑出；单独选出",
+    "en": "picked out or separated from a group"
+  },
+  "characterized": {
+    "p": "/ˈkærəktəraɪzd/",
+    "t": "以…为特征；描述为",
+    "en": "described as having a particular quality; typified"
+  },
+  "inaccurate": {
+    "p": "/ɪnˈækjərət/",
+    "t": "不准确的",
+    "en": "not correct or exact"
+  },
+  "boycotted": {
+    "p": "/ˈbɔɪkɒtɪd/",
+    "t": "抵制",
+    "en": "refused to buy, use, or participate in as a protest"
+  },
+  "insulting": {
+    "p": "/ɪnˈsʌltɪŋ/",
+    "t": "侮辱性的",
+    "en": "causing offence or disrespect"
+  },
+  "demeaning": {
+    "p": "/dɪˈmiːnɪŋ/",
+    "t": "贬低人的；有辱人格的",
+    "en": "causing a loss of dignity or respect"
+  },
+  "weaponizing": {
+    "p": "/ˈwepənaɪzɪŋ/",
+    "t": "武器化；把…当作武器",
+    "en": "using something as a weapon or means of attack"
+  },
+  "neutralseeming": {
+    "p": "/ˈnjuːtrəl ˈsiːmɪŋ/",
+    "t": "看似中立的",
+    "en": "appearing to be neutral"
+  },
+  "regulate": {
+    "p": "/ˈreɡjuleɪt/",
+    "t": "管理；管制",
+    "en": "to control or supervise by means of rules"
+  },
+  "travels": {
+    "p": "/ˈtrævlz/",
+    "t": "旅行；行程",
+    "en": "journeys or trips, especially to distant places"
+  },
+  "disfavored": {
+    "p": "/dɪsˈfeɪvəd/",
+    "t": "不受欢迎的；被冷落的",
+    "en": "regarded with disapproval or less favor"
+  },
+  "insidiously": {
+    "p": "/ɪnˈsɪdiəsli/",
+    "t": "暗中为害地；潜伏地",
+    "en": "in a way that is subtle but harmful"
+  },
+  "mobilized": {
+    "p": "/ˈməʊbɪlaɪzd/",
+    "t": "动员；组织",
+    "en": "organized or prepared for action"
+  },
+  "revoke": {
+    "p": "/rɪˈvəʊk/",
+    "t": "撤销；废除",
+    "en": "to cancel officially"
+  },
+  "stations": {
+    "p": "/ˈsteɪʃnz/",
+    "t": "车站；台；站",
+    "en": "places where trains stop or broadcasters operate"
+  },
+  "disagrees": {
+    "p": "/ˌdɪsəˈɡriːz/",
+    "t": "不同意",
+    "en": "has a different opinion"
+  },
+  "unscheduled": {
+    "p": "/ˌʌnˈʃedjuːld/",
+    "t": "未安排的；计划外的",
+    "en": "not arranged or planned in advance"
+  },
+  "retaliation": {
+    "p": "/rɪˌtæliˈeɪʃn/",
+    "t": "报复",
+    "en": "the action of harming someone in return for harm done"
+  },
+  "latenight": {
+    "p": "/ˌleɪt ˈnaɪt/",
+    "t": "深夜的",
+    "en": "happening late at night"
+  },
+  "comedy": {
+    "p": "/ˈkɒmədi/",
+    "t": "喜剧",
+    "en": "a humorous entertainment or genre"
+  },
+  "broadcast": {
+    "p": "/ˈbrɔːdkɑːst/",
+    "t": "广播；播出",
+    "en": "to transmit by radio or television"
+  },
+  "favored": {
+    "p": "/ˈfeɪvəd/",
+    "t": "受青睐的；有利的",
+    "en": "preferred or given special treatment"
+  },
+  "strongman": {
+    "p": "/ˈstrɒŋmæn/",
+    "t": "铁腕人物；强人",
+    "en": "a leader who uses force or coercion"
+  },
+  "licensing": {
+    "p": "/ˈlaɪsnsɪŋ/",
+    "t": "许可；发放许可证",
+    "en": "the granting of official permits"
+  },
+  "technicalities": {
+    "p": "/ˌteknɪˈkælətiz/",
+    "t": "技术细节；程序细节",
+    "en": "small details of rules or procedures"
+  },
+  "submission": {
+    "p": "/səbˈmɪʃn/",
+    "t": "提交；屈服",
+    "en": "the act of submitting something or yielding"
+  },
+  "revoking": {
+    "p": "/rɪˈvəʊkɪŋ/",
+    "t": "撤销；废除",
+    "en": "officially cancelling something"
+  },
+  "tactic": {
+    "p": "/ˈtæktɪk/",
+    "t": "策略；战术",
+    "en": "an action or strategy intended to achieve a goal"
+  },
+  "liberties": {
+    "p": "/ˈlɪbətiz/",
+    "t": "自由；特权",
+    "en": "freedoms or rights, often taken without permission"
+  },
+  "emulate": {
+    "p": "/ˈemjuleɪt/",
+    "t": "效仿；努力赶上",
+    "en": "to try to equal or surpass by imitation"
+  },
+  "comparisons": {
+    "p": "/kəmˈpærɪsnz/",
+    "t": "比较",
+    "en": "acts of comparing or instances of being compared"
+  },
+  "defenses": {
+    "p": "/dɪˈfensɪz/",
+    "t": "防御；辩护",
+    "en": "means of protection or arguments in support"
+  },
+  "imagination": {
+    "p": "/ɪˌmædʒɪˈneɪʃn/",
+    "t": "想象力",
+    "en": "the ability to form new ideas or images"
+  },
+  "antagonistic": {
+    "p": "/ænˌtæɡəˈnɪstɪk/",
+    "t": "敌对的；对抗的",
+    "en": "showing hostility or opposition"
+  },
+  "singles": {
+    "p": "/ˈsɪŋɡlz/",
+    "t": "单打；单身者",
+    "en": "individuals or matches involving one person per side"
+  },
+  "musthave": {
+    "p": "/ˈmʌst hæv/",
+    "t": "必备的；必不可少的",
+    "en": "essential or highly desirable"
+  },
+  "guard": {
+    "p": "/ɡɑːd/",
+    "t": "守卫；防护",
+    "en": "to protect or watch over"
+  },
+  "crossings": {
+    "p": "/ˈkrɒsɪŋz/",
+    "t": "交叉口；人行横道",
+    "en": "places where people or roads cross"
+  },
+  "overpasses": {
+    "p": "/ˈəʊvəpɑːsɪz/",
+    "t": "立交桥；高架桥",
+    "en": "bridges that carry a road over another"
+  },
+  "highways": {
+    "p": "/ˈhaɪweɪz/",
+    "t": "公路；高速公路",
+    "en": "main public roads"
+  },
+  "musician": {
+    "p": "/mjuˈzɪʃn/",
+    "t": "音乐家",
+    "en": "a person who plays or writes music"
+  },
+  "secondlargest": {
+    "p": "/ˌsekənd ˈlɑːdʒɪst/",
+    "t": "第二大的",
+    "en": "the second in size or rank"
+  },
+  "landlocked": {
+    "p": "/ˈlændlɒkt/",
+    "t": "内陆的；被陆地包围的",
+    "en": "surrounded by land, with no coastline"
+  },
+  "combative": {
+    "p": "/ˈkɒmbətɪv/",
+    "t": "好斗的；好战的",
+    "en": "ready or eager to fight or argue"
+  },
+  "lately": {
+    "p": "/ˈleɪtli/",
+    "t": "最近；近来",
+    "en": "recently"
   }
 }
