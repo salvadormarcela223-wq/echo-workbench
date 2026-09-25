@@ -45118,5 +45118,685 @@
     "p": "/ˈleɪtli/",
     "t": "最近；近来",
     "en": "recently"
+  },
+  "huntergatherer": {
+    "p": "/ˈhʌntəˌɡæðərə/",
+    "t": "狩猎采集者",
+    "en": "a person who lives by hunting and gathering food"
+  },
+  "slept": {
+    "p": "/slept/",
+    "t": "睡觉（sleep的过去式和过去分词）",
+    "en": "past tense and past participle of sleep"
+  },
+  "belief": {
+    "p": "/bɪˈliːf/",
+    "t": "信念；信仰",
+    "en": "a feeling of certainty that something exists or is true"
+  },
+  "discredited": {
+    "p": "/dɪsˈkredɪtɪd/",
+    "t": "不可信的；名誉扫地的",
+    "en": "no longer believed or trusted"
+  },
+  "todays": {
+    "p": "/təˈdeɪz/",
+    "t": "今天的（today的所有格）",
+    "en": "belonging to or relating to the present day"
+  },
+  "foraging": {
+    "p": "/ˈfɒrɪdʒɪŋ/",
+    "t": "觅食",
+    "en": "searching for food or provisions"
+  },
+  "huntergatherers": {
+    "p": "/ˈhʌntəˌɡæðərəz/",
+    "t": "狩猎采集者（复数）",
+    "en": "people who live by hunting and gathering food"
+  },
+  "nonindustrial": {
+    "p": "/ˌnɒnɪnˈdʌstriəl/",
+    "t": "非工业的",
+    "en": "not relating to or characterized by industry"
+  },
+  "industrialised": {
+    "p": "/ɪnˈdʌstriəlaɪzd/",
+    "t": "工业化的",
+    "en": "having developed industry extensively"
+  },
+  "circadian": {
+    "p": "/sɜːˈkeɪdiən/",
+    "t": "昼夜节律的",
+    "en": "relating to biological cycles of about 24 hours"
+  },
+  "rhythms": {
+    "p": "/ˈrɪðəmz/",
+    "t": "节律；节奏（复数）",
+    "en": "regular repeated patterns of movement or occurrence"
+  },
+  "clocks": {
+    "p": "/klɒks/",
+    "t": "钟；时钟（复数）",
+    "en": "instruments for measuring and indicating time"
+  },
+  "inputs": {
+    "p": "/ˈɪnpʊts/",
+    "t": "输入；投入（复数）",
+    "en": "things put in or contributed"
+  },
+  "zeitgebers": {
+    "p": "/ˈtsaɪtɡeɪbəz/",
+    "t": "授时因子（复数）",
+    "en": "external cues that entrain biological rhythms"
+  },
+  "sixpart": {
+    "p": "/ˈsɪkspɑːt/",
+    "t": "六部分的",
+    "en": "consisting of six parts"
+  },
+  "dysregulate": {
+    "p": "/dɪsˈreɡjʊleɪt/",
+    "t": "使失调",
+    "en": "to impair the regulation of a bodily process"
+  },
+  "zeitgeber": {
+    "p": "/ˈtsaɪtɡeɪbə/",
+    "t": "授时因子",
+    "en": "an external cue that entrains a biological rhythm"
+  },
+  "giver": {
+    "p": "/ˈɡɪvə/",
+    "t": "给予者",
+    "en": "a person who gives something"
+  },
+  "bedtime": {
+    "p": "/ˈbedtaɪm/",
+    "t": "就寝时间",
+    "en": "the time at which one goes to bed"
+  },
+  "onset": {
+    "p": "/ˈɒnset/",
+    "t": "开始；发作",
+    "en": "the beginning or start of something"
+  },
+  "disappeared": {
+    "p": "/ˌdɪsəˈpɪəd/",
+    "t": "消失了",
+    "en": "ceased to be visible or exist"
+  },
+  "darker": {
+    "p": "/ˈdɑːkə/",
+    "t": "更暗的",
+    "en": "having less light; comparative of dark"
+  },
+  "climes": {
+    "p": "/klaɪmz/",
+    "t": "气候带；地区（复数）",
+    "en": "regions with particular weather conditions"
+  },
+  "spells": {
+    "p": "/spelz/",
+    "t": "一段时间；咒语（复数）",
+    "en": "periods of time; also magical incantations"
+  },
+  "climates": {
+    "p": "/ˈklaɪməts/",
+    "t": "气候（复数）",
+    "en": "weather conditions prevailing in an area"
+  },
+  "sunrise": {
+    "p": "/ˈsʌnraɪz/",
+    "t": "日出",
+    "en": "the time when the sun appears above the horizon"
+  },
+  "thermostat": {
+    "p": "/ˈθɜːməstæt/",
+    "t": "恒温器",
+    "en": "a device that regulates temperature automatically"
+  },
+  "durations": {
+    "p": "/djʊˈreɪʃənz/",
+    "t": "持续时间（复数）",
+    "en": "lengths of time during which something continues"
+  },
+  "colder": {
+    "p": "/ˈkəʊldə/",
+    "t": "更冷的",
+    "en": "having a lower temperature; comparative of cold"
+  },
+  "reentrain": {
+    "p": "/ˌriːɪnˈtreɪn/",
+    "t": "重新同步",
+    "en": "to reset or synchronize a biological rhythm again"
+  },
+  "nonworkcentred": {
+    "p": "/ˌnɒnˈwɜːkˌsentəd/",
+    "t": "非以工作为中心的",
+    "en": "not focused or centred on work"
+  },
+  "campfires": {
+    "p": "/ˈkæmpfaɪəz/",
+    "t": "营火（复数）",
+    "en": "outdoor fires made at a campsite"
+  },
+  "revolve": {
+    "p": "/rɪˈvɒlv/",
+    "t": "旋转；围绕",
+    "en": "to move in a circle around a central point"
+  },
+  "logistics": {
+    "p": "/ləˈdʒɪstɪks/",
+    "t": "后勤；物流",
+    "en": "the organization of moving and supplying resources"
+  },
+  "workoriented": {
+    "p": "/ˈwɜːkˌɔːrientɪd/",
+    "t": "工作导向的",
+    "en": "focused on or directed towards work"
+  },
+  "nighttime": {
+    "p": "/ˈnaɪttaɪm/",
+    "t": "夜间",
+    "en": "the time during the night"
+  },
+  "nonworkrelated": {
+    "p": "/ˌnɒnˈwɜːkrɪˌleɪtɪd/",
+    "t": "与工作无关的",
+    "en": "not connected with work"
+  },
+  "cohesion": {
+    "p": "/kəʊˈhiːʒən/",
+    "t": "凝聚力；团结",
+    "en": "the state of sticking together or being united"
+  },
+  "cooperative": {
+    "p": "/kəʊˈɒpərətɪv/",
+    "t": "合作的",
+    "en": "involving mutual assistance; willing to help"
+  },
+  "partners": {
+    "p": "/ˈpɑːtnəz/",
+    "t": "伙伴；搭档（复数）",
+    "en": "people who share an activity or relationship"
+  },
+  "neighbours": {
+    "p": "/ˈneɪbəz/",
+    "t": "邻居（复数）",
+    "en": "people living next to or near another"
+  },
+  "communality": {
+    "p": "/ˌkɒmjʊˈnæləti/",
+    "t": "共同性；社群性",
+    "en": "the state of being shared or communal"
+  },
+  "incorporating": {
+    "p": "/ɪnˈkɔːpəreɪtɪŋ/",
+    "t": "纳入；包含",
+    "en": "including something as part of a whole"
+  },
+  "sociality": {
+    "p": "/ˌsəʊʃiˈæləti/",
+    "t": "社会性；群居性",
+    "en": "the tendency to associate in social groups"
+  },
+  "attain": {
+    "p": "/əˈteɪn/",
+    "t": "达到；获得",
+    "en": "to achieve or reach something through effort"
+  },
+  "partaking": {
+    "p": "/pɑːˈteɪkɪŋ/",
+    "t": "参与；分享",
+    "en": "taking part in or sharing something"
+  },
+  "catchup": {
+    "p": "/ˈkætʃʌp/",
+    "t": "追赶；补上",
+    "en": "an act of reaching the same level as others"
+  },
+  "uninterrupted": {
+    "p": "/ˌʌnɪntəˈrʌptɪd/",
+    "t": "不间断的",
+    "en": "continuing without interruption"
+  },
+  "physiologically": {
+    "p": "/ˌfɪziəˈlɒdʒɪkli/",
+    "t": "生理上地",
+    "en": "in a manner relating to the functions of living organisms"
+  },
+  "fantasy": {
+    "p": "/ˈfæntəsi/",
+    "t": "幻想",
+    "en": "an imagined or unrealistic idea or desire"
+  },
+  "obsessed": {
+    "p": "/əbˈsest/",
+    "t": "着迷的；痴迷的",
+    "en": "unable to stop thinking about something"
+  },
+  "quantifying": {
+    "p": "/ˈkwɒntɪfaɪɪŋ/",
+    "t": "量化",
+    "en": "expressing or measuring as a quantity"
+  },
+  "optimal": {
+    "p": "/ˈɒptɪməl/",
+    "t": "最佳的",
+    "en": "best or most favourable"
+  },
+  "energised": {
+    "p": "/ˈenədʒaɪzd/",
+    "t": "精力充沛的",
+    "en": "made lively or full of energy"
+  },
+  "clinician": {
+    "p": "/klɪˈnɪʃən/",
+    "t": "临床医生",
+    "en": "a doctor or other healthcare professional working with patients"
+  },
+  "insomnia": {
+    "p": "/ɪnˈsɒmniə/",
+    "t": "失眠",
+    "en": "habitual inability to sleep"
+  },
+  "dismissed": {
+    "p": "/dɪsˈmɪst/",
+    "t": "不予理会；解雇",
+    "en": "treated as unworthy of consideration; sent away"
+  },
+  "variation": {
+    "p": "/ˌveəriˈeɪʃən/",
+    "t": "变化；变异",
+    "en": "a change or difference from the usual form"
+  },
+  "embracing": {
+    "p": "/ɪmˈbreɪsɪŋ/",
+    "t": "拥抱；接受",
+    "en": "accepting or supporting something willingly"
+  },
+  "dinnertable": {
+    "p": "/ˈdɪnəteɪbl/",
+    "t": "餐桌",
+    "en": "a table used for eating meals"
+  },
+  "freakout": {
+    "p": "/ˈfriːkaʊt/",
+    "t": "极度激动；崩溃",
+    "en": "a wildly irrational reaction or panic"
+  },
+  "hacking": {
+    "p": "/ˈhækɪŋ/",
+    "t": "黑客攻击；非法入侵",
+    "en": "gaining unauthorized access to computer systems"
+  },
+  "competitors": {
+    "p": "/kəmˈpetɪtəz/",
+    "t": "竞争者",
+    "en": "people or organizations competing against others"
+  },
+  "crying": {
+    "p": "/ˈkraɪɪŋ/",
+    "t": "哭泣",
+    "en": "shedding tears"
+  },
+  "oncewonky": {
+    "p": "/wʌns ˈwɒŋki/",
+    "t": "曾经不稳定的",
+    "en": "formerly unsteady or unreliable"
+  },
+  "frontline": {
+    "p": "/ˈfrʌntlaɪn/",
+    "t": "前线；第一线",
+    "en": "the most advanced or important position"
+  },
+  "outlined": {
+    "p": "/ˈaʊtlaɪnd/",
+    "t": "概述了；勾勒出",
+    "en": "described the main points of something"
+  },
+  "massively": {
+    "p": "/ˈmæsɪvli/",
+    "t": "大规模地；极其",
+    "en": "to a very large extent or degree"
+  },
+  "brake": {
+    "p": "/breɪk/",
+    "t": "刹车",
+    "en": "a device for slowing or stopping a vehicle"
+  },
+  "loath": {
+    "p": "/ləʊθ/",
+    "t": "不情愿的",
+    "en": "unwilling or reluctant"
+  },
+  "sauce": {
+    "p": "/sɔːs/",
+    "t": "酱汁",
+    "en": "a liquid or semi-liquid food served with other food"
+  },
+  "domination": {
+    "p": "/ˌdɒmɪˈneɪʃn/",
+    "t": "支配；统治",
+    "en": "the exercise of control or power over others"
+  },
+  "threeday": {
+    "p": "/ˌθriːˈdeɪ/",
+    "t": "三天的",
+    "en": "lasting three days"
+  },
+  "bluntly": {
+    "p": "/ˈblʌntli/",
+    "t": "直率地",
+    "en": "in a direct and uncompromising manner"
+  },
+  "hearings": {
+    "p": "/ˈhɪərɪŋz/",
+    "t": "听证会",
+    "en": "official meetings where evidence is taken"
+  },
+  "convened": {
+    "p": "/kənˈviːnd/",
+    "t": "召集；召开",
+    "en": "called together for a meeting"
+  },
+  "outlines": {
+    "p": "/ˈaʊtlaɪnz/",
+    "t": "概述；大纲",
+    "en": "general descriptions without details"
+  },
+  "quasiplanetary": {
+    "p": "/ˌkweɪzaɪˈplænɪtəri/",
+    "t": "准行星的",
+    "en": "resembling or almost like a planet"
+  },
+  "runaway": {
+    "p": "/ˈrʌnəweɪ/",
+    "t": "失控的；逃跑的",
+    "en": "out of control; having escaped"
+  },
+  "fastmoving": {
+    "p": "/ˌfɑːstˈmuːvɪŋ/",
+    "t": "快速发展的",
+    "en": "developing or changing rapidly"
+  },
+  "techsavvy": {
+    "p": "/ˈtekˌsævi/",
+    "t": "精通技术的",
+    "en": "well informed about or proficient in technology"
+  },
+  "capitals": {
+    "p": "/ˈkæpɪtlz/",
+    "t": "首都；资本",
+    "en": "cities that are seats of government; also wealth"
+  },
+  "institutes": {
+    "p": "/ˈɪnstɪtjuːts/",
+    "t": "研究所；学会",
+    "en": "organizations for research or education"
+  },
+  "governmentfunded": {
+    "p": "/ˈɡʌvənmənt ˈfʌndɪd/",
+    "t": "政府资助的",
+    "en": "financed by the government"
+  },
+  "tires": {
+    "p": "/ˈtaɪəz/",
+    "t": "轮胎",
+    "en": "rubber coverings around wheels"
+  },
+  "loose": {
+    "p": "/luːs/",
+    "t": "松的；宽松的",
+    "en": "not firmly fixed; not tight"
+  },
+  "voluntary": {
+    "p": "/ˈvɒləntri/",
+    "t": "自愿的",
+    "en": "done by choice and without compulsion"
+  },
+  "pledges": {
+    "p": "/ˈpledʒɪz/",
+    "t": "承诺；保证",
+    "en": "solemn promises or commitments"
+  },
+  "governmentcorporate": {
+    "p": "/ˌɡʌvənmənt ˈkɔːpərət/",
+    "t": "政府与企业的",
+    "en": "relating to both government and corporations"
+  },
+  "mechanisms": {
+    "p": "/ˈmekənɪzəmz/",
+    "t": "机制",
+    "en": "systems or processes by which something works"
+  },
+  "crude": {
+    "p": "/kruːd/",
+    "t": "粗糙的；原油的",
+    "en": "in a natural or raw state; rough"
+  },
+  "firstresponder": {
+    "p": "/ˌfɜːst rɪˈspɒndə/",
+    "t": "急救人员",
+    "en": "someone who arrives first at an emergency"
+  },
+  "balked": {
+    "p": "/bɔːkt/",
+    "t": "畏缩；拒绝",
+    "en": "refused to proceed; hesitated"
+  },
+  "oversight": {
+    "p": "/ˈəʊvəsaɪt/",
+    "t": "监督；疏忽",
+    "en": "supervision; also an unintentional failure to notice"
+  },
+  "powers": {
+    "p": "/ˈpaʊəz/",
+    "t": "权力；能力",
+    "en": "abilities or authorities to act"
+  },
+  "activate": {
+    "p": "/ˈæktɪveɪt/",
+    "t": "激活；启动",
+    "en": "to make something start working"
+  },
+  "highthreat": {
+    "p": "/ˌhaɪˈθret/",
+    "t": "高威胁的",
+    "en": "involving a serious danger or risk"
+  },
+  "terribly": {
+    "p": "/ˈterəbli/",
+    "t": "非常；糟糕地",
+    "en": "very; in a bad manner"
+  },
+  "optin": {
+    "p": "/ˌɒptˈɪn/",
+    "t": "选择加入",
+    "en": "to choose to participate in something"
+  },
+  "pieced": {
+    "p": "/piːst/",
+    "t": "拼凑；组合",
+    "en": "put together from parts"
+  },
+  "outline": {
+    "p": "/ˈaʊtlaɪn/",
+    "t": "概述；轮廓",
+    "en": "a general description or the outer shape"
+  },
+  "plausible": {
+    "p": "/ˈplɔːzəbl/",
+    "t": "似乎合理的",
+    "en": "seeming reasonable or probable"
+  },
+  "negotiate": {
+    "p": "/nɪˈɡəʊʃieɪt/",
+    "t": "谈判；协商",
+    "en": "to discuss in order to reach an agreement"
+  },
+  "derived": {
+    "p": "/dɪˈraɪvd/",
+    "t": "源自；派生",
+    "en": "obtained or originated from a source"
+  },
+  "bandaid": {
+    "p": "/ˈbænd eɪd/",
+    "t": "创可贴；权宜之计",
+    "en": "a temporary solution; an adhesive bandage"
+  },
+  "durable": {
+    "p": "/ˈdjʊərəbl/",
+    "t": "耐用的；持久的",
+    "en": "able to withstand wear or lasting a long time"
+  },
+  "confidential": {
+    "p": "/ˌkɒnfɪˈdenʃl/",
+    "t": "机密的",
+    "en": "intended to be kept secret"
+  },
+  "responder": {
+    "p": "/rɪˈspɒndə/",
+    "t": "响应者；急救人员",
+    "en": "a person who responds, especially to an emergency"
+  },
+  "secretariat": {
+    "p": "/ˌsekrəˈteəriət/",
+    "t": "秘书处",
+    "en": "an administrative office or department"
+  },
+  "multistakeholder": {
+    "p": "/ˌmʌltiˈsteɪkhəʊldə/",
+    "t": "多方利益相关者的",
+    "en": "involving multiple parties with an interest"
+  },
+  "anonymized": {
+    "p": "/əˈnɒnɪmaɪzd/",
+    "t": "匿名的",
+    "en": "made anonymous to protect identity"
+  },
+  "lessonslearned": {
+    "p": "/ˈlesnz lɜːnd/",
+    "t": "经验教训",
+    "en": "knowledge gained from past experiences"
+  },
+  "escalation": {
+    "p": "/ˌeskəˈleɪʃn/",
+    "t": "升级；加剧",
+    "en": "an increase in intensity or severity"
+  },
+  "thresholds": {
+    "p": "/ˈθreʃhəʊldz/",
+    "t": "门槛；阈值",
+    "en": "levels at which something begins or changes"
+  },
+  "auditing": {
+    "p": "/ˈɔːdɪtɪŋ/",
+    "t": "审计",
+    "en": "officially examining accounts or processes"
+  },
+  "nextgeneration": {
+    "p": "/ˌnekst dʒenəˈreɪʃn/",
+    "t": "下一代",
+    "en": "the following generation of products or people"
+  },
+  "hodgepodge": {
+    "p": "/ˈhɒdʒpɒdʒ/",
+    "t": "大杂烩",
+    "en": "a confused mixture of different things"
+  },
+  "disclosure": {
+    "p": "/dɪsˈkləʊʒə/",
+    "t": "披露；公开",
+    "en": "the act of making information known"
+  },
+  "outsiders": {
+    "p": "/ˌaʊtˈsaɪdəz/",
+    "t": "局外人",
+    "en": "people not belonging to a particular group"
+  },
+  "determining": {
+    "p": "/dɪˈtɜːmɪnɪŋ/",
+    "t": "决定；确定",
+    "en": "deciding or establishing something"
+  },
+  "technicallyinformed": {
+    "p": "/ˈteknɪkli ɪnˈfɔːmd/",
+    "t": "技术上有依据的",
+    "en": "based on technical knowledge"
+  },
+  "remit": {
+    "p": "/ˈriːmɪt/",
+    "t": "职责范围；汇款",
+    "en": "the area of responsibility; also to send money"
+  },
+  "misunderstandings": {
+    "p": "/ˌmɪsʌndəˈstændɪŋz/",
+    "t": "误解",
+    "en": "failures to understand correctly"
+  },
+  "breaches": {
+    "p": "/ˈbriːtʃɪz/",
+    "t": "违反；漏洞",
+    "en": "acts of breaking a law or agreement; gaps"
+  },
+  "legitimately": {
+    "p": "/lɪˈdʒɪtɪmətli/",
+    "t": "合法地；正当地",
+    "en": "in a lawful or reasonable manner"
+  },
+  "unenforceable": {
+    "p": "/ˌʌnɪnˈfɔːsəbl/",
+    "t": "无法执行的",
+    "en": "not able to be enforced"
+  },
+  "corralling": {
+    "p": "/kəˈrɑːlɪŋ/",
+    "t": "聚集；圈拢",
+    "en": "gathering or bringing together"
+  },
+  "geopolitical": {
+    "p": "/ˌdʒiːəʊpəˈlɪtɪkl/",
+    "t": "地缘政治的",
+    "en": "relating to politics influenced by geography"
+  },
+  "prerelease": {
+    "p": "/ˌpriːrɪˈliːs/",
+    "t": "预发布",
+    "en": "made available before official release"
+  },
+  "quibble": {
+    "p": "/ˈkwɪbl/",
+    "t": "吹毛求疵；小争论",
+    "en": "to argue about trivial matters"
+  },
+  "creations": {
+    "p": "/kriˈeɪʃnz/",
+    "t": "创造物；作品",
+    "en": "things that have been made or invented"
+  },
+  "assuage": {
+    "p": "/əˈsweɪdʒ/",
+    "t": "缓和；减轻",
+    "en": "to make less intense or severe"
+  },
+  "tension": {
+    "p": "/ˈtenʃn/",
+    "t": "紧张；张力",
+    "en": "a state of strain or nervousness"
+  },
+  "sinkhole": {
+    "p": "/ˈsɪŋkhəʊl/",
+    "t": "天坑；污水坑",
+    "en": "a hole in the ground caused by collapse"
+  },
+  "swallowed": {
+    "p": "/ˈswɒləʊd/",
+    "t": "吞下；淹没",
+    "en": "caused to pass down the throat; engulfed"
+  },
+  "driveway": {
+    "p": "/ˈdraɪvweɪ/",
+    "t": "车道",
+    "en": "a private road leading to a house"
   }
 }
