@@ -45798,5 +45798,405 @@
     "p": "/ˈdraɪvweɪ/",
     "t": "车道",
     "en": "a private road leading to a house"
+  },
+  "therapists": {
+    "p": "/ˈθerəpɪsts/",
+    "t": "治疗师",
+    "en": "people trained to treat illness or disorders"
+  },
+  "downhill": {
+    "p": "/ˌdaʊnˈhɪl/",
+    "t": "下坡的；向下的",
+    "en": "sloping downward; becoming worse"
+  },
+  "heartache": {
+    "p": "/ˈhɑːteɪk/",
+    "t": "心痛，悲伤",
+    "en": "emotional pain or sorrow"
+  },
+  "lifespan": {
+    "p": "/ˈlaɪfspæn/",
+    "t": "寿命，生命周期",
+    "en": "the length of time something or someone lives"
+  },
+  "chipping": {
+    "p": "/ˈtʃɪpɪŋ/",
+    "t": "削片；破裂",
+    "en": "breaking off small pieces from a surface"
+  },
+  "poorquality": {
+    "p": "/ˌpɔː ˈkwɒləti/",
+    "t": "劣质的",
+    "en": "of low or inferior quality"
+  },
+  "metaphorical": {
+    "p": "/ˌmetəˈfɒrɪkl/",
+    "t": "隐喻的",
+    "en": "used figuratively, not literally"
+  },
+  "unravelling": {
+    "p": "/ʌnˈrævlɪŋ/",
+    "t": "解开；崩溃",
+    "en": "coming apart or being solved gradually"
+  },
+  "turnaround": {
+    "p": "/ˈtɜːnəraʊnd/",
+    "t": "好转；转变",
+    "en": "a complete change from bad to good"
+  },
+  "dishes": {
+    "p": "/ˈdɪʃɪz/",
+    "t": "餐具；菜肴",
+    "en": "plates and bowls used for meals; prepared foods"
+  },
+  "glimpse": {
+    "p": "/ɡlɪmps/",
+    "t": "一瞥",
+    "en": "a quick or brief look"
+  },
+  "perpetual": {
+    "p": "/pəˈpetʃuəl/",
+    "t": "永久的，不断的",
+    "en": "never ending or changing"
+  },
+  "gridlocked": {
+    "p": "/ˈɡrɪdlɒkt/",
+    "t": "交通堵塞的；僵持的",
+    "en": "unable to move due to blockage or deadlock"
+  },
+  "finances": {
+    "p": "/ˈfaɪnænsɪz/",
+    "t": "财务状况",
+    "en": "the management of money and funds"
+  },
+  "neatness": {
+    "p": "/ˈniːtnəs/",
+    "t": "整洁",
+    "en": "the quality of being tidy and orderly"
+  },
+  "longitudinal": {
+    "p": "/ˌlɒŋɡɪˈtjuːdɪnl/",
+    "t": "纵向的",
+    "en": "relating to lengthwise direction or long-term study"
+  },
+  "debated": {
+    "p": "/dɪˈbeɪtɪd/",
+    "t": "辩论的；有争议的",
+    "en": "discussed or argued about"
+  },
+  "housework": {
+    "p": "/ˈhaʊswɜːk/",
+    "t": "家务",
+    "en": "routine tasks done to maintain a home"
+  },
+  "likelihood": {
+    "p": "/ˈlaɪklihʊd/",
+    "t": "可能性",
+    "en": "the chance that something will happen"
+  },
+  "disagreement": {
+    "p": "/ˌdɪsəˈɡriːmənt/",
+    "t": "分歧，争执",
+    "en": "a lack of agreement or a quarrel"
+  },
+  "breakup": {
+    "p": "/ˈbreɪkʌp/",
+    "t": "分手；破裂",
+    "en": "the end of a relationship or the separation of parts"
+  },
+  "contempt": {
+    "p": "/kənˈtempt/",
+    "t": "轻蔑，蔑视",
+    "en": "a feeling that someone is worthless or inferior"
+  },
+  "defensiveness": {
+    "p": "/dɪˈfensɪvnəs/",
+    "t": "防御性，戒备",
+    "en": "the tendency to defend oneself against criticism"
+  },
+  "stonewalling": {
+    "p": "/ˈstəʊnwɔːlɪŋ/",
+    "t": "石墙化；拒绝沟通",
+    "en": "refusing to communicate or cooperate"
+  },
+  "predicts": {
+    "p": "/prɪˈdɪkts/",
+    "t": "预测",
+    "en": "says what will happen in the future"
+  },
+  "aggression": {
+    "p": "/əˈɡreʃn/",
+    "t": "攻击性，侵略",
+    "en": "hostile or violent behavior"
+  },
+  "constructive": {
+    "p": "/kənˈstrʌktɪv/",
+    "t": "建设性的",
+    "en": "helpful and intended to improve something"
+  },
+  "resolving": {
+    "p": "/rɪˈzɒlvɪŋ/",
+    "t": "解决",
+    "en": "finding a solution to a problem"
+  },
+  "responsiveness": {
+    "p": "/rɪˈspɒnsɪvnəs/",
+    "t": "响应性，反应力",
+    "en": "the quality of reacting quickly and positively"
+  },
+  "listens": {
+    "p": "/ˈlɪsnz/",
+    "t": "倾听",
+    "en": "gives attention to sounds or words"
+  },
+  "responsive": {
+    "p": "/rɪˈspɒnsɪv/",
+    "t": "反应灵敏的",
+    "en": "reacting quickly and positively"
+  },
+  "marital": {
+    "p": "/ˈmærɪtl/",
+    "t": "婚姻的",
+    "en": "relating to marriage"
+  },
+  "buffer": {
+    "p": "/ˈbʌfə(r)/",
+    "t": "缓冲；缓冲物",
+    "en": "something that reduces the impact of a shock"
+  },
+  "longevity": {
+    "p": "/lɒnˈdʒevəti/",
+    "t": "长寿，持久",
+    "en": "long life or lasting duration"
+  },
+  "cooperation": {
+    "p": "/kəʊˌɒpəˈreɪʃn/",
+    "t": "合作",
+    "en": "working together toward a common goal"
+  },
+  "yearstudy": {
+    "p": "/ˈjɪə ˈstʌdi/",
+    "t": "多年研究",
+    "en": "a study conducted over one or more years"
+  },
+  "nearimpossible": {
+    "p": "/ˌnɪər ɪmˈpɒsəbl/",
+    "t": "几乎不可能的",
+    "en": "almost impossible"
+  },
+  "bitter": {
+    "p": "/ˈbɪtə(r)/",
+    "t": "苦的；怨恨的",
+    "en": "having a sharp taste; feeling resentment"
+  },
+  "eaten": {
+    "p": "/ˈiːtn/",
+    "t": "吃过的；被吃",
+    "en": "past participle of eat; consumed"
+  },
+  "clients": {
+    "p": "/ˈklaɪənts/",
+    "t": "客户，委托人",
+    "en": "people who pay for services"
+  },
+  "distressed": {
+    "p": "/dɪˈstrest/",
+    "t": "痛苦的，忧虑的",
+    "en": "suffering from extreme anxiety or pain"
+  },
+  "dreams": {
+    "p": "/driːmz/",
+    "t": "梦；梦想",
+    "en": "images during sleep; aspirations"
+  },
+  "wifes": {
+    "p": "/waɪfs/",
+    "t": "妻子的（非标准拼写）",
+    "en": "nonstandard spelling of wives"
+  },
+  "budgeting": {
+    "p": "/ˈbʌdʒɪtɪŋ/",
+    "t": "编制预算",
+    "en": "planning how to spend money"
+  },
+  "blindside": {
+    "p": "/ˈblaɪndsaɪd/",
+    "t": "出其不意地打击",
+    "en": "to surprise someone with an unexpected attack"
+  },
+  "crush": {
+    "p": "/krʌʃ/",
+    "t": "迷恋；压碎",
+    "en": "a strong but temporary infatuation; to press hard"
+  },
+  "obsessive": {
+    "p": "/əbˈsesɪv/",
+    "t": "痴迷的，强迫性的",
+    "en": "thinking about something constantly and excessively"
+  },
+  "eying": {
+    "p": "/ˈaɪɪŋ/",
+    "t": "注视，盯视",
+    "en": "watching or observing closely"
+  },
+  "clearest": {
+    "p": "/ˈklɪərɪst/",
+    "t": "最清晰的",
+    "en": "most clear or easy to understand"
+  },
+  "tentatively": {
+    "p": "/ˈtɛntətɪvli/",
+    "t": "试探性地，暂时地",
+    "en": "in a provisional or hesitant manner"
+  },
+  "antitrans": {
+    "p": "/ˌæntiˈtrænz/",
+    "t": "反跨性别的",
+    "en": "opposed to transgender people or issues"
+  },
+  "addressing": {
+    "p": "/əˈdrɛsɪŋ/",
+    "t": "处理，应对；致辞",
+    "en": "dealing with or speaking to"
+  },
+  "criticizing": {
+    "p": "/ˈkrɪtɪsaɪzɪŋ/",
+    "t": "批评，指责",
+    "en": "expressing disapproval of"
+  },
+  "incumbents": {
+    "p": "/ɪnˈkʌmbənts/",
+    "t": "现任者，在职者",
+    "en": "current holders of an office"
+  },
+  "hardhit": {
+    "p": "/ˌhɑːdˈhɪt/",
+    "t": "受到严重打击的",
+    "en": "severely affected or damaged"
+  },
+  "diesel": {
+    "p": "/ˈdiːzəl/",
+    "t": "柴油；柴油机",
+    "en": "a type of heavy fuel oil or engine"
+  },
+  "gestures": {
+    "p": "/ˈdʒɛstʃəz/",
+    "t": "手势，姿态",
+    "en": "movements or actions conveying meaning"
+  },
+  "moderation": {
+    "p": "/ˌmɒdəˈreɪʃən/",
+    "t": "适度，节制",
+    "en": "the quality of being moderate; avoidance of extremes"
+  },
+  "unquestioning": {
+    "p": "/ʌnˈkwɛstʃənɪŋ/",
+    "t": "不加质疑的，盲从的",
+    "en": "accepting without doubt or question"
+  },
+  "fealty": {
+    "p": "/ˈfiːəlti/",
+    "t": "效忠，忠诚",
+    "en": "loyalty or allegiance, especially to a lord"
+  },
+  "reflective": {
+    "p": "/rɪˈflɛktɪv/",
+    "t": "反思的；反射的",
+    "en": "thoughtful; or capable of reflecting light"
+  },
+  "reclaiming": {
+    "p": "/rɪˈkleɪmɪŋ/",
+    "t": "收回，开垦，回收",
+    "en": "retrieving or recovering something"
+  },
+  "chamber": {
+    "p": "/ˈtʃeɪmbə/",
+    "t": "房间；议院",
+    "en": "a room, especially a private one; or a legislative assembly"
+  },
+  "uphill": {
+    "p": "/ˌʌpˈhɪl/",
+    "t": "上坡的；艰难的",
+    "en": "sloping upward; difficult"
+  },
+  "considers": {
+    "p": "/kənˈsɪdəz/",
+    "t": "考虑，认为",
+    "en": "thinks about or regards as"
+  },
+  "tossups": {
+    "p": "/ˈtɒsʌps/",
+    "t": "难以决定的事；掷硬币",
+    "en": "situations with an uncertain outcome; coin tosses"
+  },
+  "defending": {
+    "p": "/dɪˈfɛndɪŋ/",
+    "t": "保卫，辩护",
+    "en": "protecting or arguing in favor of"
+  },
+  "retiring": {
+    "p": "/rɪˈtaɪərɪŋ/",
+    "t": "退休的；害羞的",
+    "en": "withdrawing from work; or shy"
+  },
+  "scandalplagued": {
+    "p": "/ˈskændəlpleɪɡd/",
+    "t": "丑闻缠身的",
+    "en": "troubled by scandals"
+  },
+  "defeated": {
+    "p": "/dɪˈfiːtɪd/",
+    "t": "被击败的",
+    "en": "having been beaten or overcome"
+  },
+  "pickup": {
+    "p": "/ˈpɪkʌp/",
+    "t": "皮卡车；拾起",
+    "en": "a small truck; or the act of picking up"
+  },
+  "megachurch": {
+    "p": "/ˈmɛɡətʃɜːtʃ/",
+    "t": "巨型教会",
+    "en": "a very large church, typically Protestant"
+  },
+  "pastor": {
+    "p": "/ˈpɑːstə/",
+    "t": "牧师",
+    "en": "a minister or priest in a Christian church"
+  },
+  "debts": {
+    "p": "/dɛts/",
+    "t": "债务",
+    "en": "amounts of money owed"
+  },
+  "manifested": {
+    "p": "/ˈmænɪfɛstɪd/",
+    "t": "显现，表明",
+    "en": "displayed or revealed clearly"
+  },
+  "societally": {
+    "p": "/səˈsaɪətəli/",
+    "t": "在社会层面上",
+    "en": "in a societal manner; relating to society"
+  },
+  "culturally": {
+    "p": "/ˈkʌltʃərəli/",
+    "t": "文化上",
+    "en": "in a cultural manner"
+  },
+  "adjective": {
+    "p": "/ˈædʒɪktɪv/",
+    "t": "形容词",
+    "en": "a word describing a noun"
+  },
+  "saxophone": {
+    "p": "/ˈsæksəfəʊn/",
+    "t": "萨克斯管",
+    "en": "a metal wind instrument with a reed"
+  },
+  "clarinet": {
+    "p": "/ˌklærɪˈnɛt/",
+    "t": "单簧管，黑管",
+    "en": "a woodwind instrument with a single reed"
   }
 }
