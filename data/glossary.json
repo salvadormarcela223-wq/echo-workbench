@@ -46198,5 +46198,520 @@
     "p": "/ˌklærɪˈnɛt/",
     "t": "单簧管，黑管",
     "en": "a woodwind instrument with a single reed"
+  },
+  "survivor": {
+    "p": "/səˈvaɪvə/",
+    "t": "幸存者",
+    "en": "a person who survives a disaster or difficult situation"
+  },
+  "shipwreck": {
+    "p": "/ˈʃɪprek/",
+    "t": "海难；沉船",
+    "en": "the destruction of a ship at sea; a wrecked ship"
+  },
+  "escaped": {
+    "p": "/ɪˈskeɪpt/",
+    "t": "逃脱的",
+    "en": "having broken free from confinement or danger"
+  },
+  "punching": {
+    "p": "/ˈpʌntʃɪŋ/",
+    "t": "用拳猛击",
+    "en": "hitting with a closed fist"
+  },
+  "companions": {
+    "p": "/kəmˈpænjənz/",
+    "t": "同伴们",
+    "en": "people who accompany or spend time with others"
+  },
+  "whaleship": {
+    "p": "/ˈweɪlʃɪp/",
+    "t": "捕鲸船",
+    "en": "a ship used for hunting whales"
+  },
+  "speeding": {
+    "p": "/ˈspiːdɪŋ/",
+    "t": "快速移动；超速",
+    "en": "moving quickly; exceeding the speed limit"
+  },
+  "shouting": {
+    "p": "/ˈʃaʊtɪŋ/",
+    "t": "喊叫",
+    "en": "speaking loudly and forcefully"
+  },
+  "tremendous": {
+    "p": "/trɪˈmendəs/",
+    "t": "巨大的；极好的",
+    "en": "very great in amount, scale, or intensity"
+  },
+  "utmost": {
+    "p": "/ˈʌtməʊst/",
+    "t": "极度的；最大程度",
+    "en": "most extreme; greatest in degree"
+  },
+  "superpower": {
+    "p": "/ˈsuːpəpaʊə/",
+    "t": "超级大国；超能力",
+    "en": "a very powerful nation or an extraordinary ability"
+  },
+  "boast": {
+    "p": "/bəʊst/",
+    "t": "吹嘘；自夸",
+    "en": "to talk with excessive pride about oneself"
+  },
+  "squishy": {
+    "p": "/ˈskwɪʃi/",
+    "t": "湿软的；黏糊糊的",
+    "en": "soft and moist; easily squashed"
+  },
+  "organ": {
+    "p": "/ˈɔːɡən/",
+    "t": "器官",
+    "en": "a part of an organism with a specific function"
+  },
+  "spermaceti": {
+    "p": "/ˌspɜːməˈsiːti/",
+    "t": "鲸蜡",
+    "en": "a waxy substance obtained from the head of sperm whales"
+  },
+  "filled": {
+    "p": "/fɪld/",
+    "t": "填满的",
+    "en": "made full; containing as much as possible"
+  },
+  "gained": {
+    "p": "/ɡeɪnd/",
+    "t": "获得",
+    "en": "obtained or acquired something"
+  },
+  "semen": {
+    "p": "/ˈsiːmən/",
+    "t": "精液",
+    "en": "the reproductive fluid of male animals"
+  },
+  "highquality": {
+    "p": "/ˌhaɪˈkwɒləti/",
+    "t": "高质量的",
+    "en": "of a superior or excellent standard"
+  },
+  "congealed": {
+    "p": "/kənˈdʒiːld/",
+    "t": "凝结的",
+    "en": "having become solid or semi-solid, especially from cooling"
+  },
+  "soaps": {
+    "p": "/səʊps/",
+    "t": "肥皂",
+    "en": "substances used for washing and cleaning"
+  },
+  "candles": {
+    "p": "/ˈkændlz/",
+    "t": "蜡烛",
+    "en": "cylinders of wax with a wick, burned to give light"
+  },
+  "harvesting": {
+    "p": "/ˈhɑːvɪstɪŋ/",
+    "t": "收割；采集",
+    "en": "gathering crops or resources"
+  },
+  "uncovering": {
+    "p": "/ʌnˈkʌvərɪŋ/",
+    "t": "揭示；揭开",
+    "en": "revealing or discovering something hidden"
+  },
+  "whaler": {
+    "p": "/ˈweɪlə/",
+    "t": "捕鲸者；捕鲸船",
+    "en": "a person or ship engaged in whaling"
+  },
+  "graveyards": {
+    "p": "/ˈɡreɪvjɑːdz/",
+    "t": "墓地",
+    "en": "places where dead people are buried"
+  },
+  "enlarged": {
+    "p": "/ɪnˈlɑːdʒd/",
+    "t": "扩大的",
+    "en": "made larger in size or scale"
+  },
+  "melon": {
+    "p": "/ˈmelən/",
+    "t": "瓜；鲸脑油器",
+    "en": "a large juicy fruit; also a fatty organ in toothed whales"
+  },
+  "toothed": {
+    "p": "/tuːθt/",
+    "t": "有齿的",
+    "en": "having teeth, especially of a specified kind"
+  },
+  "rival": {
+    "p": "/ˈraɪvl/",
+    "t": "竞争对手",
+    "en": "a person or thing competing with another"
+  },
+  "hippo": {
+    "p": "/ˈhɪpəʊ/",
+    "t": "河马",
+    "en": "a large African mammal that lives in rivers"
+  },
+  "ramming": {
+    "p": "/ˈræmɪŋ/",
+    "t": "猛撞",
+    "en": "striking or driving with great force"
+  },
+  "inherited": {
+    "p": "/ɪnˈherɪtɪd/",
+    "t": "继承的；遗传的",
+    "en": "received from ancestors or predecessors"
+  },
+  "ecophysiologist": {
+    "p": "/ˌiːkəʊˌfɪziˈɒlədʒɪst/",
+    "t": "生态生理学家",
+    "en": "a scientist studying the physiology of organisms in relation to their environment"
+  },
+  "headbutting": {
+    "p": "/ˈhedbʌtɪŋ/",
+    "t": "用头撞击",
+    "en": "hitting with the head"
+  },
+  "coincidence": {
+    "p": "/kəʊˈɪnsɪdəns/",
+    "t": "巧合",
+    "en": "a remarkable concurrence of events without apparent causal connection"
+  },
+  "endanger": {
+    "p": "/ɪnˈdeɪndʒə/",
+    "t": "危及",
+    "en": "to put at risk of harm or extinction"
+  },
+  "adversary": {
+    "p": "/ˈædvəsəri/",
+    "t": "对手；敌手",
+    "en": "an opponent or enemy"
+  },
+  "buffering": {
+    "p": "/ˈbʌfərɪŋ/",
+    "t": "缓冲",
+    "en": "lessening the impact of something; protecting against shock"
+  },
+  "risking": {
+    "p": "/ˈrɪskɪŋ/",
+    "t": "冒险",
+    "en": "exposing to the possibility of loss or danger"
+  },
+  "fullygrown": {
+    "p": "/ˌfʊliˈɡrəʊn/",
+    "t": "完全长大的",
+    "en": "having reached full adult size or maturity"
+  },
+  "logbooks": {
+    "p": "/ˈlɒɡbʊks/",
+    "t": "航海日志",
+    "en": "official records of a ship's voyage"
+  },
+  "artefacts": {
+    "p": "/ˈɑːtɪfækts/",
+    "t": "人工制品；文物",
+    "en": "objects made by human beings, especially of historical interest"
+  },
+  "boats": {
+    "p": "/bəʊts/",
+    "t": "小船",
+    "en": "small vessels for travelling on water"
+  },
+  "spotted": {
+    "p": "/ˈspɒtɪd/",
+    "t": "发现的；有斑点的",
+    "en": "seen or noticed; marked with spots"
+  },
+  "attacker": {
+    "p": "/əˈtækə/",
+    "t": "攻击者",
+    "en": "a person or thing that attacks"
+  },
+  "sailing": {
+    "p": "/ˈseɪlɪŋ/",
+    "t": "航行",
+    "en": "travelling on water using sails or engine"
+  },
+  "ordeal": {
+    "p": "/ɔːˈdiːl/",
+    "t": "严峻考验",
+    "en": "a painful or horrific experience"
+  },
+  "maritime": {
+    "p": "/ˈmærɪtaɪm/",
+    "t": "海事的；海洋的",
+    "en": "connected with the sea, especially in seafaring"
+  },
+  "sinking": {
+    "p": "/ˈsɪŋkɪŋ/",
+    "t": "下沉",
+    "en": "going down below the surface of water"
+  },
+  "clambered": {
+    "p": "/ˈklæmbəd/",
+    "t": "攀爬",
+    "en": "climbed awkwardly using hands and feet"
+  },
+  "whaleboats": {
+    "p": "/ˈweɪlbəʊts/",
+    "t": "捕鲸小艇",
+    "en": "small boats used in whaling"
+  },
+  "gruesome": {
+    "p": "/ˈɡruːsəm/",
+    "t": "可怕的；令人毛骨悚然的",
+    "en": "causing horror or disgust"
+  },
+  "inspiration": {
+    "p": "/ˌɪnspəˈreɪʃn/",
+    "t": "灵感；鼓舞",
+    "en": "the process of being mentally stimulated to do something"
+  },
+  "phonic": {
+    "p": "/ˈfɒnɪk/",
+    "t": "声音的；语音的",
+    "en": "relating to sound or the voice"
+  },
+  "forwards": {
+    "p": "/ˈfɔːwədz/",
+    "t": "向前",
+    "en": "in the direction that one is facing or travelling"
+  },
+  "hears": {
+    "p": "/hɪəz/",
+    "t": "听见",
+    "en": "perceives sound with the ears"
+  },
+  "specimen": {
+    "p": "/ˈspesɪmən/",
+    "t": "样本；标本",
+    "en": "an individual animal, plant, or piece of material used as an example"
+  },
+  "prioritise": {
+    "p": "/praɪˈɒrətaɪz/",
+    "t": "优先处理",
+    "en": "to treat something as more important than other things"
+  },
+  "activist": {
+    "p": "/ˈæktɪvɪst/",
+    "t": "活动家；积极分子",
+    "en": "a person who campaigns for political or social change"
+  },
+  "millennial": {
+    "p": "/mɪˈleniəl/",
+    "t": "千禧一代的；千禧一代",
+    "en": "relating to or a person born between the early 1980s and mid-1990s"
+  },
+  "pivoted": {
+    "p": "/ˈpɪvətɪd/",
+    "t": "转向；以…为中心旋转",
+    "en": "turned or shifted to a new direction or strategy"
+  },
+  "antiai": {
+    "p": "/ˌæntiˌeɪˈaɪ/",
+    "t": "反人工智能的",
+    "en": "opposed to artificial intelligence"
+  },
+  "unraveling": {
+    "p": "/ʌnˈrævəlɪŋ/",
+    "t": "解开；瓦解",
+    "en": "coming apart or becoming undone"
+  },
+  "compact": {
+    "p": "/kəmˈpækt/",
+    "t": "紧凑的；压缩",
+    "en": "closely and neatly packed together; small"
+  },
+  "renegotiated": {
+    "p": "/ˌriːnɪˈɡəʊʃieɪtɪd/",
+    "t": "重新谈判",
+    "en": "negotiated again to change terms"
+  },
+  "regularvoter": {
+    "p": "/ˈreɡjələ ˈvəʊtə/",
+    "t": "经常投票的选民",
+    "en": "a person who votes consistently in elections"
+  },
+  "disengaged": {
+    "p": "/ˌdɪsɪnˈɡeɪdʒd/",
+    "t": "脱离的；不参与的",
+    "en": "emotionally or mentally detached; not involved"
+  },
+  "regaining": {
+    "p": "/rɪˈɡeɪnɪŋ/",
+    "t": "重新获得；恢复",
+    "en": "getting something back again"
+  },
+  "forefront": {
+    "p": "/ˈfɔːfrʌnt/",
+    "t": "前沿；最前列",
+    "en": "the leading or most important position"
+  },
+  "embrace": {
+    "p": "/ɪmˈbreɪs/",
+    "t": "拥抱；欣然接受",
+    "en": "to accept willingly and enthusiastically"
+  },
+  "votes": {
+    "p": "/vəʊts/",
+    "t": "选票；投票",
+    "en": "formal expressions of choice in elections"
+  },
+  "negotiating": {
+    "p": "/nɪˈɡəʊʃieɪtɪŋ/",
+    "t": "谈判；协商",
+    "en": "discussing to reach an agreement"
+  },
+  "tremendously": {
+    "p": "/trɪˈmendəsli/",
+    "t": "极大地；非常",
+    "en": "to a very great extent"
+  },
+  "sustainability": {
+    "p": "/səˌsteɪnəˈbɪləti/",
+    "t": "可持续性",
+    "en": "the ability to be maintained over time without depleting resources"
+  },
+  "volatile": {
+    "p": "/ˈvɒlətaɪl/",
+    "t": "不稳定的；易变的",
+    "en": "liable to change rapidly and unpredictably"
+  },
+  "dependent": {
+    "p": "/dɪˈpendənt/",
+    "t": "依赖的；取决于…的",
+    "en": "relying on or determined by something else"
+  },
+  "pocketbooks": {
+    "p": "/ˈpɒkɪtbʊks/",
+    "t": "钱包；经济状况",
+    "en": "financial resources or personal budgets"
+  },
+  "midair": {
+    "p": "/ˌmɪdˈeə/",
+    "t": "半空中",
+    "en": "a point or region in the air, not on the ground"
+  },
+  "protections": {
+    "p": "/prəˈtekʃənz/",
+    "t": "保护措施",
+    "en": "measures taken to keep someone or something safe"
+  },
+  "bumped": {
+    "p": "/bʌmpt/",
+    "t": "碰撞；颠簸",
+    "en": "knocked or collided against something"
+  },
+  "slowmoving": {
+    "p": "/ˌsləʊ ˈmuːvɪŋ/",
+    "t": "缓慢移动的；进展慢的",
+    "en": "moving or progressing at a slow pace"
+  },
+  "looming": {
+    "p": "/ˈluːmɪŋ/",
+    "t": "逼近的；隐现的",
+    "en": "appearing as a threatening or large shape in the distance"
+  },
+  "gotta": {
+    "p": "/ˈɡɒtə/",
+    "t": "必须（口语）",
+    "en": "have got to (informal)"
+  },
+  "towns": {
+    "p": "/taʊnz/",
+    "t": "城镇",
+    "en": "populated areas smaller than cities"
+  },
+  "unfold": {
+    "p": "/ʌnˈfəʊld/",
+    "t": "展开；逐渐显现",
+    "en": "to open out or develop gradually"
+  },
+  "relieve": {
+    "p": "/rɪˈliːv/",
+    "t": "减轻；缓解",
+    "en": "to ease or reduce pain or distress"
+  },
+  "blank": {
+    "p": "/blæŋk/",
+    "t": "空白的；茫然的",
+    "en": "empty of writing or marks; showing no emotion"
+  },
+  "unfolding": {
+    "p": "/ʌnˈfəʊldɪŋ/",
+    "t": "展开的；逐渐发展的",
+    "en": "developing or being revealed gradually"
+  },
+  "slowmotion": {
+    "p": "/ˌsləʊ ˈməʊʃən/",
+    "t": "慢动作",
+    "en": "action shown at a slower speed than normal"
+  },
+  "wreck": {
+    "p": "/rek/",
+    "t": "毁坏；残骸",
+    "en": "to destroy or ruin; something badly damaged"
+  },
+  "locally": {
+    "p": "/ˈləʊkəli/",
+    "t": "在当地；局部地",
+    "en": "in or relating to a particular area"
+  },
+  "crossideological": {
+    "p": "/ˌkrɒsˌaɪdiəˈlɒdʒɪkəl/",
+    "t": "跨意识形态的",
+    "en": "spanning different political ideologies"
+  },
+  "polycrisis": {
+    "p": "/ˈpɒlikraɪsɪs/",
+    "t": "多重危机",
+    "en": "a situation of multiple simultaneous crises"
+  },
+  "agreements": {
+    "p": "/əˈɡriːmənts/",
+    "t": "协议；一致意见",
+    "en": "arrangements or understandings reached between parties"
+  },
+  "chopped": {
+    "p": "/tʃɒpt/",
+    "t": "切碎的；砍伐的",
+    "en": "cut into pieces with a sharp tool"
+  },
+  "doomering": {
+    "p": "/ˈduːmərɪŋ/",
+    "t": "末日论；悲观预测",
+    "en": "the practice of predicting catastrophic outcomes"
+  },
+  "powerless": {
+    "p": "/ˈpaʊələs/",
+    "t": "无力的；无权的",
+    "en": "lacking power or ability to act"
+  },
+  "participating": {
+    "p": "/pɑːˈtɪsɪpeɪtɪŋ/",
+    "t": "参与的",
+    "en": "taking part in an activity or event"
+  },
+  "afoot": {
+    "p": "/əˈfʊt/",
+    "t": "在进行中；酝酿中",
+    "en": "in progress or being planned"
+  },
+  "kinda": {
+    "p": "/ˈkaɪndə/",
+    "t": "有点；稍微（口语）",
+    "en": "kind of; somewhat (informal)"
+  },
+  "campaigning": {
+    "p": "/kæmˈpeɪnɪŋ/",
+    "t": "竞选；开展运动",
+    "en": "working to achieve a political or social goal"
+  },
+  "miracles": {
+    "p": "/ˈmɪrəklz/",
+    "t": "奇迹",
+    "en": "extraordinary events that defy natural explanation"
   }
 }
