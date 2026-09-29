@@ -47823,5 +47823,550 @@
     "p": "/ˈetɪket/",
     "t": "礼仪",
     "en": "rules of polite behavior"
+  },
+  "fatloss": {
+    "p": "/ˈfæt lɒs/",
+    "t": "减脂",
+    "en": "the loss of body fat"
+  },
+  "unhealthy": {
+    "p": "/ʌnˈhelθi/",
+    "t": "不健康的",
+    "en": "not good for one's health"
+  },
+  "demonised": {
+    "p": "/ˈdiːmənaɪzd/",
+    "t": "被妖魔化",
+    "en": "portrayed as evil or bad"
+  },
+  "lowfat": {
+    "p": "/ˌləʊ ˈfæt/",
+    "t": "低脂的",
+    "en": "containing little fat"
+  },
+  "forums": {
+    "p": "/ˈfɔːrəmz/",
+    "t": "论坛",
+    "en": "places for online discussion"
+  },
+  "shredded": {
+    "p": "/ˈʃredɪd/",
+    "t": "肌肉线条分明的",
+    "en": "having very defined muscles"
+  },
+  "sinewy": {
+    "p": "/ˈsɪnjuːi/",
+    "t": "肌肉发达的",
+    "en": "lean and muscular"
+  },
+  "physique": {
+    "p": "/fɪˈziːk/",
+    "t": "体格",
+    "en": "the form and size of a person's body"
+  },
+  "welldefined": {
+    "p": "/ˌwel dɪˈfaɪnd/",
+    "t": "轮廓分明的",
+    "en": "clearly visible in shape"
+  },
+  "skinny": {
+    "p": "/ˈskɪni/",
+    "t": "极瘦的",
+    "en": "very thin"
+  },
+  "resurfacing": {
+    "p": "/ˌriːˈsɜːfɪsɪŋ/",
+    "t": "重新出现",
+    "en": "appearing again"
+  },
+  "fuelled": {
+    "p": "/ˈfjuːəld/",
+    "t": "被激发的",
+    "en": "stimulated or driven"
+  },
+  "obesity": {
+    "p": "/əʊˈbiːsəti/",
+    "t": "肥胖症",
+    "en": "the condition of being very overweight"
+  },
+  "ridding": {
+    "p": "/ˈrɪdɪŋ/",
+    "t": "摆脱",
+    "en": "freeing oneself from"
+  },
+  "endocrinologist": {
+    "p": "/ˌendəkrɪˈnɒlədʒɪst/",
+    "t": "内分泌学家",
+    "en": "a doctor specializing in hormones"
+  },
+  "natures": {
+    "p": "/ˈneɪtʃəz/",
+    "t": "本性",
+    "en": "basic qualities or characters"
+  },
+  "blocks": {
+    "p": "/blɒks/",
+    "t": "阻碍",
+    "en": "prevents or obstructs"
+  },
+  "glucose": {
+    "p": "/ˈɡluːkəʊs/",
+    "t": "葡萄糖",
+    "en": "a simple sugar used for energy"
+  },
+  "amino": {
+    "p": "/əˈmiːnəʊ/",
+    "t": "氨基的",
+    "en": "relating to amino acids"
+  },
+  "adipocytes": {
+    "p": "/ˈædɪpəʊsaɪts/",
+    "t": "脂肪细胞",
+    "en": "fat-storing cells"
+  },
+  "lipids": {
+    "p": "/ˈlɪpɪdz/",
+    "t": "脂质",
+    "en": "fats and fat-like substances"
+  },
+  "passively": {
+    "p": "/ˈpæsɪvli/",
+    "t": "被动地",
+    "en": "without active involvement"
+  },
+  "regulates": {
+    "p": "/ˈreɡjuleɪts/",
+    "t": "调节",
+    "en": "controls or maintains"
+  },
+  "bodys": {
+    "p": "/ˈbɒdiz/",
+    "t": "身体的",
+    "en": "belonging to the body"
+  },
+  "specialised": {
+    "p": "/ˈspeʃəlaɪzd/",
+    "t": "专门的",
+    "en": "designed for a particular purpose"
+  },
+  "vault": {
+    "p": "/vɔːlt/",
+    "t": "宝库",
+    "en": "a secure store or repository"
+  },
+  "scarcity": {
+    "p": "/ˈskeəsəti/",
+    "t": "稀缺",
+    "en": "shortage or lack"
+  },
+  "leptin": {
+    "p": "/ˈleptɪn/",
+    "t": "瘦素",
+    "en": "a hormone regulating appetite"
+  },
+  "reproduction": {
+    "p": "/ˌriːprəˈdʌkʃn/",
+    "t": "生殖",
+    "en": "the process of producing offspring"
+  },
+  "deprioritised": {
+    "p": "/diːpraɪˈɒrətaɪzd/",
+    "t": "被降级处理",
+    "en": "treated as less important"
+  },
+  "stores": {
+    "p": "/stɔːz/",
+    "t": "储备",
+    "en": "reserves kept for future use"
+  },
+  "insulation": {
+    "p": "/ˌɪnsjuˈleɪʃn/",
+    "t": "保温",
+    "en": "protection against heat loss"
+  },
+  "brown": {
+    "p": "/braʊn/",
+    "t": "棕色的",
+    "en": "of a colour like chocolate"
+  },
+  "beige": {
+    "p": "/beɪʒ/",
+    "t": "米色的",
+    "en": "a pale sandy colour"
+  },
+  "cancers": {
+    "p": "/ˈkænsəz/",
+    "t": "癌症",
+    "en": "diseases of abnormal cell growth"
+  },
+  "calorie": {
+    "p": "/ˈkæləri/",
+    "t": "卡路里",
+    "en": "a unit of energy from food"
+  },
+  "restriction": {
+    "p": "/rɪˈstrɪkʃn/",
+    "t": "限制",
+    "en": "a limiting rule or condition"
+  },
+  "physiology": {
+    "p": "/ˌfɪziˈɒlədʒi/",
+    "t": "生理学",
+    "en": "the study of body functions"
+  },
+  "metabolic": {
+    "p": "/ˌmetəˈbɒlɪk/",
+    "t": "代谢的",
+    "en": "relating to metabolism"
+  },
+  "adipose": {
+    "p": "/ˈædɪpəʊs/",
+    "t": "脂肪的",
+    "en": "relating to fat tissue"
+  },
+  "bodily": {
+    "p": "/ˈbɒdɪli/",
+    "t": "身体的",
+    "en": "relating to the body"
+  },
+  "starvation": {
+    "p": "/stɑːˈveɪʃn/",
+    "t": "饥饿",
+    "en": "suffering from extreme lack of food"
+  },
+  "reserves": {
+    "p": "/rɪˈzɜːvz/",
+    "t": "储备",
+    "en": "supplies kept for future use"
+  },
+  "repaired": {
+    "p": "/rɪˈpeəd/",
+    "t": "修复的",
+    "en": "mended or restored"
+  },
+  "frailty": {
+    "p": "/ˈfreɪlti/",
+    "t": "虚弱",
+    "en": "the condition of being weak"
+  },
+  "chronically": {
+    "p": "/ˈkrɒnɪkli/",
+    "t": "长期地",
+    "en": "over a long period"
+  },
+  "underfuelling": {
+    "p": "/ˌʌndəˈfjuːəlɪŋ/",
+    "t": "能量摄入不足",
+    "en": "not eating enough fuel"
+  },
+  "testosterone": {
+    "p": "/teˈstɒstərəʊn/",
+    "t": "睾酮",
+    "en": "a male sex hormone"
+  },
+  "irregular": {
+    "p": "/ɪˈreɡjələ/",
+    "t": "不规律的",
+    "en": "not regular in pattern"
+  },
+  "leaner": {
+    "p": "/ˈliːnə/",
+    "t": "更瘦的",
+    "en": "having less fat"
+  },
+  "cushion": {
+    "p": "/ˈkʊʃn/",
+    "t": "缓冲",
+    "en": "to protect against impact"
+  },
+  "withstand": {
+    "p": "/wɪðˈstænd/",
+    "t": "承受",
+    "en": "to endure or resist"
+  },
+  "cardiac": {
+    "p": "/ˈkɑːdiæk/",
+    "t": "心脏的",
+    "en": "relating to the heart"
+  },
+  "strokes": {
+    "p": "/strəʊks/",
+    "t": "中风",
+    "en": "sudden attacks caused by blocked blood flow to the brain"
+  },
+  "anorexia": {
+    "p": "/ˌænəˈreksiə/",
+    "t": "厌食症",
+    "en": "an eating disorder causing food avoidance"
+  },
+  "nervosa": {
+    "p": "/nɜːˈvəʊsə/",
+    "t": "神经性",
+    "en": "relating to a nervous disorder"
+  },
+  "differ": {
+    "p": "/ˈdɪfə/",
+    "t": "不同",
+    "en": "to be unlike"
+  },
+  "ethnicities": {
+    "p": "/eθˈnɪsətiz/",
+    "t": "种族",
+    "en": "groups sharing cultural or racial traits"
+  },
+  "scanned": {
+    "p": "/skænd/",
+    "t": "扫描的",
+    "en": "examined with a scanner"
+  },
+  "athlete": {
+    "p": "/ˈæθliːt/",
+    "t": "运动员",
+    "en": "a person trained in sports"
+  },
+  "belly": {
+    "p": "/ˈbeli/",
+    "t": "腹部",
+    "en": "the front part of the body below the chest"
+  },
+  "visceral": {
+    "p": "/ˈvɪsərəl/",
+    "t": "内脏的",
+    "en": "relating to internal organs"
+  },
+  "wraps": {
+    "p": "/ræps/",
+    "t": "包裹物",
+    "en": "coverings that wrap around"
+  },
+  "insulin": {
+    "p": "/ˈɪnsjulɪn/",
+    "t": "胰岛素",
+    "en": "a hormone controlling blood sugar"
+  },
+  "skinfold": {
+    "p": "/ˈskɪnfəʊld/",
+    "t": "皮褶",
+    "en": "a fold of skin and fat"
+  },
+  "pinching": {
+    "p": "/ˈpɪntʃɪŋ/",
+    "t": "捏",
+    "en": "squeezing between fingers"
+  },
+  "specially": {
+    "p": "/ˈspeʃəli/",
+    "t": "专门地",
+    "en": "for a particular purpose"
+  },
+  "callipers": {
+    "p": "/ˈkælɪpəz/",
+    "t": "卡尺",
+    "en": "instruments for measuring thickness"
+  },
+  "folds": {
+    "p": "/fəʊldz/",
+    "t": "褶皱",
+    "en": "bends or layers of material"
+  },
+  "misleadingly": {
+    "p": "/ˌmɪsˈliːdɪŋli/",
+    "t": "误导性地",
+    "en": "in a way that gives a wrong impression"
+  },
+  "athome": {
+    "p": "/ət ˈhəʊm/",
+    "t": "在家",
+    "en": "in one's own home"
+  },
+  "influenced": {
+    "p": "/ˈɪnfluənst/",
+    "t": "受影响的",
+    "en": "affected by something"
+  },
+  "fluid": {
+    "p": "/ˈfluːɪd/",
+    "t": "液体",
+    "en": "a substance that flows"
+  },
+  "waisttoheight": {
+    "p": "/ˌweɪst tə ˈhaɪt/",
+    "t": "腰高比",
+    "en": "ratio of waist to height"
+  },
+  "abdominal": {
+    "p": "/æbˈdɒmɪnl/",
+    "t": "腹部的",
+    "en": "relating to the abdomen"
+  },
+  "waist": {
+    "p": "/weɪst/",
+    "t": "腰围",
+    "en": "the narrow part around the middle"
+  },
+  "circumference": {
+    "p": "/səˈkʌmfərəns/",
+    "t": "周长",
+    "en": "the distance around something"
+  },
+  "calculator": {
+    "p": "/ˈkælkjuleɪtə/",
+    "t": "计算器",
+    "en": "a device for calculating"
+  },
+  "waisttohip": {
+    "p": "/ˌweɪst tə ˈhɪp/",
+    "t": "腰臀比",
+    "en": "ratio of waist to hip"
+  },
+  "widest": {
+    "p": "/ˈwaɪdɪst/",
+    "t": "最宽的",
+    "en": "having the greatest width"
+  },
+  "index": {
+    "p": "/ˈɪndeks/",
+    "t": "指数",
+    "en": "a numerical measure"
+  },
+  "adverse": {
+    "p": "/ˈædvɜːs/",
+    "t": "不利的",
+    "en": "unfavourable or harmful"
+  },
+  "strengthtraining": {
+    "p": "/ˈstreŋθ treɪnɪŋ/",
+    "t": "力量训练",
+    "en": "exercise to increase muscle strength"
+  },
+  "obsess": {
+    "p": "/əbˈses/",
+    "t": "着迷",
+    "en": "to think about constantly"
+  },
+  "fatrelated": {
+    "p": "/ˈfæt rɪleɪtɪd/",
+    "t": "与脂肪相关的",
+    "en": "connected with fat"
+  },
+  "striving": {
+    "p": "/ˈstraɪvɪŋ/",
+    "t": "努力",
+    "en": "making great efforts"
+  },
+  "taxpayerfunded": {
+    "p": "/ˈtækspeɪəˌfʌndɪd/",
+    "t": "由纳税人资助的",
+    "en": "funded by taxpayers' money"
+  },
+  "propaganda": {
+    "p": "/ˌprɒpəˈɡændə/",
+    "t": "宣传",
+    "en": "information, often biased or misleading, used to promote a cause"
+  },
+  "blitz": {
+    "p": "/blɪts/",
+    "t": "闪电战；突击",
+    "en": "a sudden, intense military attack or campaign"
+  },
+  "stroke": {
+    "p": "/strəʊk/",
+    "t": "中风；一击；笔画",
+    "en": "a sudden illness caused by blood flow to the brain; a blow or mark"
+  },
+  "disembarking": {
+    "p": "/ˌdɪsɪmˈbɑːkɪŋ/",
+    "t": "下船；下飞机",
+    "en": "leaving a ship, aircraft, or other vehicle"
+  },
+  "taxpayer": {
+    "p": "/ˈtækspeɪə/",
+    "t": "纳税人",
+    "en": "a person who pays taxes"
+  },
+  "aired": {
+    "p": "/eəd/",
+    "t": "播出的；晾晒的",
+    "en": "broadcast or exposed to air"
+  },
+  "expel": {
+    "p": "/ɪkˈspel/",
+    "t": "驱逐；开除",
+    "en": "to force someone to leave a place or organization"
+  },
+  "warmongers": {
+    "p": "/ˈwɔːmʌŋɡəz/",
+    "t": "好战分子",
+    "en": "people who encourage or advocate for war"
+  },
+  "communists": {
+    "p": "/ˈkɒmjʊnɪsts/",
+    "t": "共产主义者",
+    "en": "people who support communism"
+  },
+  "fascists": {
+    "p": "/ˈfæʃɪsts/",
+    "t": "法西斯主义者",
+    "en": "people who support fascism"
+  },
+  "blackandwhite": {
+    "p": "/ˌblækəndˈwaɪt/",
+    "t": "黑白的；非黑即白的",
+    "en": "in black and white; or oversimplified, absolute"
+  },
+  "hallway": {
+    "p": "/ˈhɔːlweɪ/",
+    "t": "走廊",
+    "en": "a corridor or passage in a building"
+  },
+  "promote": {
+    "p": "/prəˈməʊt/",
+    "t": "促进；晋升；宣传",
+    "en": "to support or encourage; to raise in rank; to advertise"
+  },
+  "clips": {
+    "p": "/klɪps/",
+    "t": "夹子；片段",
+    "en": "small fasteners; short excerpts from a film or video"
+  },
+  "taxpayers": {
+    "p": "/ˈtækspeɪəz/",
+    "t": "纳税人（复数）",
+    "en": "people who pay taxes"
+  },
+  "defended": {
+    "p": "/dɪˈfendɪd/",
+    "t": "辩护；防御",
+    "en": "protected or argued in favor of"
+  },
+  "announcements": {
+    "p": "/əˈnaʊnsmənts/",
+    "t": "公告；宣布",
+    "en": "public or formal statements about something"
+  },
+  "duplicate": {
+    "p": "/ˈdjuːplɪkeɪt/",
+    "t": "复制；副本",
+    "en": "to make an exact copy; a copy"
+  },
+  "substancelight": {
+    "p": "/ˈsʌbstənslaɪt/",
+    "t": "无实质内容的；空洞的",
+    "en": "lacking substance or meaningful content"
+  },
+  "audacious": {
+    "p": "/ɔːˈdeɪʃəs/",
+    "t": "大胆的；无畏的",
+    "en": "showing a willingness to take bold risks"
+  },
+  "bedrooms": {
+    "p": "/ˈbedruːmz/",
+    "t": "卧室",
+    "en": "rooms for sleeping"
+  },
+  "creepy": {
+    "p": "/ˈkriːpi/",
+    "t": "令人毛骨悚然的",
+    "en": "causing an unpleasant feeling of fear or unease"
   }
 }
