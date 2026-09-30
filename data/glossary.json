@@ -48583,5 +48583,570 @@
     "p": "/ˌʌnrɪˈkwaɪtɪd/",
     "t": "（爱情）单方面的，得不到回报的",
     "en": "not returned or rewarded, especially of love"
+  },
+  "outages": {
+    "p": "/ˈaʊtɪdʒɪz/",
+    "t": "停电；中断",
+    "en": "periods when power or a service is unavailable"
+  },
+  "verge": {
+    "p": "/vɜːdʒ/",
+    "t": "边缘；濒临",
+    "en": "the edge or brink of something"
+  },
+  "electrician": {
+    "p": "/ɪˌlekˈtrɪʃn/",
+    "t": "电工",
+    "en": "a person who installs and repairs electrical equipment"
+  },
+  "installs": {
+    "p": "/ɪnˈstɔːlz/",
+    "t": "安装",
+    "en": "sets up equipment or software for use"
+  },
+  "lease": {
+    "p": "/liːs/",
+    "t": "租赁；租约",
+    "en": "a contract to rent property or equipment"
+  },
+  "mimics": {
+    "p": "/ˈmɪmɪks/",
+    "t": "模仿；模拟",
+    "en": "copies or imitates something"
+  },
+  "unlocked": {
+    "p": "/ˌʌnˈlɒkt/",
+    "t": "解锁的；未锁的",
+    "en": "not locked; made accessible"
+  },
+  "aggregation": {
+    "p": "/ˌæɡrɪˈɡeɪʃn/",
+    "t": "聚合；汇集",
+    "en": "the collection or combining of multiple things"
+  },
+  "rooftop": {
+    "p": "/ˈruːftɒp/",
+    "t": "屋顶",
+    "en": "the top surface of a building's roof"
+  },
+  "thermostats": {
+    "p": "/ˈθɜːməstæts/",
+    "t": "恒温器",
+    "en": "devices that regulate temperature automatically"
+  },
+  "incorporated": {
+    "p": "/ɪnˈkɔːpəreɪtɪd/",
+    "t": "合并的；股份有限的",
+    "en": "combined into a whole; formed as a legal corporation"
+  },
+  "fuelpowered": {
+    "p": "/ˈfjuːəlˌpaʊəd/",
+    "t": "燃料驱动的",
+    "en": "operated or driven by fuel"
+  },
+  "firsthand": {
+    "p": "/ˌfɜːstˈhænd/",
+    "t": "第一手的；直接的",
+    "en": "directly experienced or obtained from the original source"
+  },
+  "snowstorms": {
+    "p": "/ˈsnəʊstɔːmz/",
+    "t": "暴风雪",
+    "en": "storms with heavy snowfall and strong winds"
+  },
+  "damages": {
+    "p": "/ˈdæmɪdʒɪz/",
+    "t": "损害；破坏",
+    "en": "harms or causes damage to something"
+  },
+  "outage": {
+    "p": "/ˈaʊtɪdʒ/",
+    "t": "停电；中断",
+    "en": "a period when power or a service is unavailable"
+  },
+  "lifeanddeath": {
+    "p": "/ˌlaɪfənˈdeθ/",
+    "t": "生死攸关的",
+    "en": "extremely serious, involving survival"
+  },
+  "usage": {
+    "p": "/ˈjuːsɪdʒ/",
+    "t": "使用；用量",
+    "en": "the act or amount of using something"
+  },
+  "dishwashing": {
+    "p": "/ˈdɪʃwɒʃɪŋ/",
+    "t": "洗碗",
+    "en": "the act of washing dishes"
+  },
+  "laundry": {
+    "p": "/ˈlɔːndri/",
+    "t": "洗衣；待洗衣物",
+    "en": "clothes and linens that need washing, or the act of washing them"
+  },
+  "windstorm": {
+    "p": "/ˈwɪndstɔːm/",
+    "t": "风暴",
+    "en": "a storm with strong winds but little or no rain"
+  },
+  "houses": {
+    "p": "/ˈhaʊzɪz/",
+    "t": "房屋；容纳",
+    "en": "buildings for living in; contains or accommodates"
+  },
+  "flicker": {
+    "p": "/ˈflɪkə/",
+    "t": "闪烁；闪动",
+    "en": "to shine unsteadily or waver briefly"
+  },
+  "enrolments": {
+    "p": "/ɪnˈrəʊlmənts/",
+    "t": "注册；入学人数",
+    "en": "the act or numbers of registering for something"
+  },
+  "steadily": {
+    "p": "/ˈstedɪli/",
+    "t": "稳定地；持续地",
+    "en": "in a regular, continuous manner"
+  },
+  "enrolled": {
+    "p": "/ɪnˈrəʊld/",
+    "t": "注册的；入学的",
+    "en": "officially registered or signed up"
+  },
+  "undergrounding": {
+    "p": "/ˌʌndəˈɡraʊndɪŋ/",
+    "t": "地下化；地下铺设",
+    "en": "the practice of placing cables or lines underground"
+  },
+  "outageprone": {
+    "p": "/ˈaʊtɪdʒprəʊn/",
+    "t": "易停电的",
+    "en": "likely or susceptible to power outages"
+  },
+  "consultancy": {
+    "p": "/kənˈsʌltənsi/",
+    "t": "咨询公司；咨询服务",
+    "en": "a company or practice providing expert advice"
+  },
+  "reserve": {
+    "p": "/rɪˈzɜːv/",
+    "t": "储备；保留",
+    "en": "a supply kept for future use; to keep for a purpose"
+  },
+  "links": {
+    "p": "/lɪŋks/",
+    "t": "连接；联系",
+    "en": "connections or relationships between things"
+  },
+  "utilityscale": {
+    "p": "/juːˈtɪlətiˌskeɪl/",
+    "t": "公用事业规模的",
+    "en": "large-scale, as in power plants serving the grid"
+  },
+  "smalltoaveragesized": {
+    "p": "/ˌsmɔːltuˈævərɪdʒsaɪzd/",
+    "t": "中小型的",
+    "en": "of small to average size"
+  },
+  "software": {
+    "p": "/ˈsɒftweə/",
+    "t": "软件",
+    "en": "programs and operating information used by a computer"
+  },
+  "conserve": {
+    "p": "/kənˈsɜːv/",
+    "t": "节约；保护",
+    "en": "to protect from harm or use sparingly"
+  },
+  "utilities": {
+    "p": "/juːˈtɪlətiz/",
+    "t": "公用事业；公共设施",
+    "en": "companies or services supplying water, gas, or electricity"
+  },
+  "supplied": {
+    "p": "/səˈplaɪd/",
+    "t": "供应的；提供的",
+    "en": "provided or furnished with something"
+  },
+  "twoway": {
+    "p": "/ˌtuːˈweɪ/",
+    "t": "双向的",
+    "en": "operating or moving in two directions"
+  },
+  "companys": {
+    "p": "/ˈkʌmpəniz/",
+    "t": "公司的（所有格）",
+    "en": "belonging to a company (possessive)"
+  },
+  "headquarters": {
+    "p": "/ˌhedˈkwɔːtəz/",
+    "t": "总部",
+    "en": "the main office or center of an organization"
+  },
+  "decentralised": {
+    "p": "/ˌdiːˈsentrəlaɪzd/",
+    "t": "分散的；去中心化的",
+    "en": "distributed away from a central authority"
+  },
+  "conventionally": {
+    "p": "/kənˈvenʃənəli/",
+    "t": "传统上；按惯例",
+    "en": "in a traditional or usual manner"
+  },
+  "peaker": {
+    "p": "/ˈpiːkə/",
+    "t": "调峰电厂",
+    "en": "a power plant used during periods of peak demand"
+  },
+  "polluting": {
+    "p": "/pəˈluːtɪŋ/",
+    "t": "污染的",
+    "en": "causing contamination of the environment"
+  },
+  "decommission": {
+    "p": "/ˌdiːkəˈmɪʃn/",
+    "t": "退役；关闭",
+    "en": "to officially stop using and dismantle equipment or a facility"
+  },
+  "endoflife": {
+    "p": "/ˌendəvˈlaɪf/",
+    "t": "寿命终止；报废",
+    "en": "the stage when something is no longer usable or supported"
+  },
+  "operator": {
+    "p": "/ˈɒpəreɪtə/",
+    "t": "操作员；运营商",
+    "en": "a person or company that operates equipment or a service"
+  },
+  "impactful": {
+    "p": "/ɪmˈpæktfʊl/",
+    "t": "有影响力的",
+    "en": "having a strong effect or influence"
+  },
+  "maximise": {
+    "p": "/ˈmæksɪmaɪz/",
+    "t": "最大化",
+    "en": "to increase to the greatest possible amount"
+  },
+  "dissuades": {
+    "p": "/dɪˈsweɪdz/",
+    "t": "劝阻",
+    "en": "persuades someone not to do something"
+  },
+  "hindrances": {
+    "p": "/ˈhɪndrənsɪz/",
+    "t": "障碍；妨碍",
+    "en": "things that cause delay or difficulty"
+  },
+  "enrolling": {
+    "p": "/ɪnˈrəʊlɪŋ/",
+    "t": "注册；报名",
+    "en": "registering or signing up for something"
+  },
+  "integrating": {
+    "p": "/ˈɪntɪɡreɪtɪŋ/",
+    "t": "整合；融入",
+    "en": "combining or incorporating into a whole"
+  },
+  "procure": {
+    "p": "/prəˈkjʊə/",
+    "t": "采购；获得",
+    "en": "to obtain or purchase something"
+  },
+  "warping": {
+    "p": "/ˈwɔːpɪŋ/",
+    "t": "扭曲；变形",
+    "en": "becoming twisted or distorted out of shape"
+  },
+  "plugging": {
+    "p": "/ˈplʌɡɪŋ/",
+    "t": "插入；堵塞",
+    "en": "inserting a plug; blocking or filling a hole"
+  },
+  "vehicletogrid": {
+    "p": "/ˈviːɪkltəɡrɪd/",
+    "t": "车辆到电网",
+    "en": "technology allowing electric vehicles to supply power to the grid"
+  },
+  "costeffective": {
+    "p": "/ˌkɒstɪˈfektɪv/",
+    "t": "划算的；成本效益高的",
+    "en": "giving good value relative to the cost"
+  },
+  "sexual": {
+    "p": "/ˈsekʃuəl/",
+    "t": "性的；性欲的",
+    "en": "relating to sex or sexuality"
+  },
+  "uproar": {
+    "p": "/ˈʌprɔː(r)/",
+    "t": "喧嚣；骚动",
+    "en": "a loud and impassioned noise or disturbance"
+  },
+  "scourge": {
+    "p": "/skɜːdʒ/",
+    "t": "灾祸；鞭笞",
+    "en": "a cause of great trouble or suffering"
+  },
+  "undergraduate": {
+    "p": "/ˌʌndəˈɡrædʒuət/",
+    "t": "本科生",
+    "en": "a university student who has not yet taken a first degree"
+  },
+  "alleges": {
+    "p": "/əˈledʒɪz/",
+    "t": "声称；指控",
+    "en": "claims or asserts without proof"
+  },
+  "pressured": {
+    "p": "/ˈpreʃəd/",
+    "t": "被施压的",
+    "en": "subjected to pressure or coercion"
+  },
+  "snorting": {
+    "p": "/ˈsnɔːtɪŋ/",
+    "t": "用鼻吸（毒品）；喷鼻息",
+    "en": "inhaling a drug through the nose"
+  },
+  "ketamine": {
+    "p": "/ˈkiːtəmiːn/",
+    "t": "氯胺酮",
+    "en": "a synthetic anesthetic drug used recreationally"
+  },
+  "anesthetic": {
+    "p": "/ˌænəsˈθetɪk/",
+    "t": "麻醉剂",
+    "en": "a substance that induces insensitivity to pain"
+  },
+  "dissociation": {
+    "p": "/dɪˌsəʊsiˈeɪʃn/",
+    "t": " dissociation；分离",
+    "en": "a disconnection between a person's thoughts and identity"
+  },
+  "raping": {
+    "p": "/ˈreɪpɪŋ/",
+    "t": "强奸",
+    "en": "the act of forcing someone into sexual intercourse"
+  },
+  "fraternity": {
+    "p": "/frəˈtɜːnəti/",
+    "t": "兄弟会",
+    "en": "a male students' society in a university"
+  },
+  "disciplinary": {
+    "p": "/ˈdɪsəplɪnəri/",
+    "t": "纪律的；惩戒的",
+    "en": "relating to discipline or punishment"
+  },
+  "meted": {
+    "p": "/ˈmiːtɪd/",
+    "t": "给予（惩罚）",
+    "en": "administered or dealt out (punishment)"
+  },
+  "noncriminal": {
+    "p": "/ˌnɒnˈkrɪmɪnl/",
+    "t": "非刑事的",
+    "en": "not relating to or constituting a crime"
+  },
+  "punishments": {
+    "p": "/ˈpʌnɪʃmənts/",
+    "t": "惩罚",
+    "en": "penalties imposed for an offense"
+  },
+  "suspensions": {
+    "p": "/səˈspenʃnz/",
+    "t": "停学；暂时停职",
+    "en": "temporary removals from a position or school"
+  },
+  "expulsions": {
+    "p": "/ɪkˈspʌlʃnz/",
+    "t": "开除；驱逐",
+    "en": "the process of forcing someone to leave"
+  },
+  "shuttered": {
+    "p": "/ˈʃʌtəd/",
+    "t": "关闭的；停业的",
+    "en": "closed or ceased operation"
+  },
+  "horrified": {
+    "p": "/ˈhɒrɪfaɪd/",
+    "t": "惊恐的",
+    "en": "filled with shock and disgust"
+  },
+  "reopening": {
+    "p": "/ˌriːˈəʊpənɪŋ/",
+    "t": "重新开放",
+    "en": "the act of opening again"
+  },
+  "ninepage": {
+    "p": "/naɪn peɪdʒ/",
+    "t": "九页的",
+    "en": "consisting of nine pages"
+  },
+  "incapacitated": {
+    "p": "/ˌɪnkəˈpæsɪteɪtɪd/",
+    "t": "失去能力的",
+    "en": "deprived of strength or ability to act"
+  },
+  "nonconsensual": {
+    "p": "/ˌnɒnkənˈsensjuəl/",
+    "t": "未经同意的",
+    "en": "not agreed to by all parties involved"
+  },
+  "survivors": {
+    "p": "/səˈvaɪvəz/",
+    "t": "幸存者；生还者",
+    "en": "people who survive a traumatic event"
+  },
+  "consensual": {
+    "p": "/kənˈsenʃuəl/",
+    "t": "双方同意的",
+    "en": "agreed to by all parties involved"
+  },
+  "reopened": {
+    "p": "/ˌriːˈəʊpənd/",
+    "t": "重新开放的",
+    "en": "opened again after being closed"
+  },
+  "appallingly": {
+    "p": "/əˈpɔːlɪŋli/",
+    "t": "骇人听闻地",
+    "en": "in a shockingly bad manner"
+  },
+  "weighty": {
+    "p": "/ˈweɪti/",
+    "t": "重大的；沉重的",
+    "en": "of great importance or seriousness"
+  },
+  "assaulted": {
+    "p": "/əˈsɔːltɪd/",
+    "t": "袭击；侵犯",
+    "en": "attacked physically or sexually"
+  },
+  "highprofile": {
+    "p": "/ˌhaɪˈprəʊfaɪl/",
+    "t": "高调的；引人注目的",
+    "en": "attracting much public attention"
+  },
+  "worsening": {
+    "p": "/ˈwɜːsənɪŋ/",
+    "t": "恶化的",
+    "en": "becoming worse"
+  },
+  "universities": {
+    "p": "/ˌjuːnɪˈvɜːsətiz/",
+    "t": "大学",
+    "en": "institutions of higher education"
+  },
+  "disclose": {
+    "p": "/dɪsˈkləʊz/",
+    "t": "披露；透露",
+    "en": "make secret information known"
+  },
+  "channels": {
+    "p": "/ˈtʃænlz/",
+    "t": "渠道；频道",
+    "en": "means of communication or transmission"
+  },
+  "colleges": {
+    "p": "/ˈkɒlɪdʒɪz/",
+    "t": "学院；大学",
+    "en": "institutions of higher or further education"
+  },
+  "prerequisite": {
+    "p": "/ˌpriːˈrekwəzɪt/",
+    "t": "先决条件",
+    "en": "a required condition before something else"
+  },
+  "slowwalked": {
+    "p": "/ˈsləʊwɔːkt/",
+    "t": "故意拖延",
+    "en": "deliberately delayed or obstructed progress"
+  },
+  "investigations": {
+    "p": "/ɪnˌvestɪˈɡeɪʃnz/",
+    "t": "调查",
+    "en": "formal inquiries to discover facts"
+  },
+  "rescinded": {
+    "p": "/rɪˈsɪndɪd/",
+    "t": "撤销；废除",
+    "en": "revoked or cancelled officially"
+  },
+  "revert": {
+    "p": "/rɪˈvɜːt/",
+    "t": "恢复；回归",
+    "en": "return to a previous state or practice"
+  },
+  "latitude": {
+    "p": "/ˈlætɪtjuːd/",
+    "t": "自由度；纬度",
+    "en": "freedom of action or scope"
+  },
+  "allegations": {
+    "p": "/ˌæləˈɡeɪʃnz/",
+    "t": "指控；主张",
+    "en": "claims made without proof"
+  },
+  "rollbacks": {
+    "p": "/ˈrəʊlbæks/",
+    "t": "削减；回退",
+    "en": "reductions or reversals of previous changes"
+  },
+  "outrage": {
+    "p": "/ˈaʊtreɪdʒ/",
+    "t": "愤怒；暴行",
+    "en": "a strong feeling of shock and anger"
+  },
+  "museumgoer": {
+    "p": "/mjuːˈziːəmɡəʊə(r)/",
+    "t": "博物馆参观者",
+    "en": "a person who visits museums"
+  },
+  "daunting": {
+    "p": "/ˈdɔːntɪŋ/",
+    "t": "令人生畏的",
+    "en": "seeming difficult to deal with"
+  },
+  "laboring": {
+    "p": "/ˈleɪbərɪŋ/",
+    "t": "努力工作的；艰难行进的",
+    "en": "working hard or struggling"
+  },
+  "interpret": {
+    "p": "/ɪnˈtɜːprɪt/",
+    "t": "解释；理解",
+    "en": "explain the meaning of something"
+  },
+  "viewer": {
+    "p": "/ˈvjuːə(r)/",
+    "t": "观众；观看者",
+    "en": "a person who watches something"
+  },
+  "paintings": {
+    "p": "/ˈpeɪntɪŋz/",
+    "t": "绘画；油画",
+    "en": "works of art created with paint"
+  },
+  "poles": {
+    "p": "/pəʊlz/",
+    "t": "极；杆",
+    "en": "the ends of the earth's axis"
+  },
+  "auroras": {
+    "p": "/ɔːˈrɔːrəz/",
+    "t": "极光",
+    "en": "natural light displays in the sky"
+  },
+  "movie": {
+    "p": "/ˈmuːvi/",
+    "t": "电影",
+    "en": "a motion picture"
+  },
+  "vegan": {
+    "p": "/ˈviːɡən/",
+    "t": "纯素食者",
+    "en": "a person who does not eat any animal products"
   }
 }
