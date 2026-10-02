@@ -49588,5 +49588,485 @@
     "p": "/ˈsləʊɪst ˈbɪldɪŋ/",
     "t": "建造最慢的",
     "en": "the building that takes the longest to construct"
+  },
+  "redesign": {
+    "p": "/ˌriːdɪˈzaɪn/",
+    "t": "重新设计",
+    "en": "to design again or differently"
+  },
+  "hovered": {
+    "p": "/ˈhɒvəd/",
+    "t": "悬停；徘徊",
+    "en": "stayed in one place in the air; lingered"
+  },
+  "download": {
+    "p": "/ˌdaʊnˈləʊd/",
+    "t": "下载",
+    "en": "to copy data from a network to a device"
+  },
+  "unsupervised": {
+    "p": "/ˌʌnˈsuːpəvaɪzd/",
+    "t": "无人监督的",
+    "en": "not watched or managed by someone"
+  },
+  "membership": {
+    "p": "/ˈmembəʃɪp/",
+    "t": "会员资格",
+    "en": "the state of being a member of a group"
+  },
+  "haggle": {
+    "p": "/ˈhæɡl/",
+    "t": "讨价还价",
+    "en": "to negotiate a price"
+  },
+  "fullfeatured": {
+    "p": "/ˌfʊlˈfiːtʃəd/",
+    "t": "功能齐全的",
+    "en": "having all the usual features"
+  },
+  "downloaded": {
+    "p": "/ˌdaʊnˈləʊdɪd/",
+    "t": "已下载的",
+    "en": "copied from a network to a device"
+  },
+  "frustrating": {
+    "p": "/frʌˈstreɪtɪŋ/",
+    "t": "令人沮丧的",
+    "en": "causing annoyance or discouragement"
+  },
+  "cascading": {
+    "p": "/kæˈskeɪdɪŋ/",
+    "t": "层叠的；倾泻的",
+    "en": "falling or flowing in a cascade"
+  },
+  "restraints": {
+    "p": "/rɪˈstreɪnts/",
+    "t": "限制；约束",
+    "en": "limits or controls placed on something"
+  },
+  "robots": {
+    "p": "/ˈrəʊbɒts/",
+    "t": "机器人",
+    "en": "machines capable of carrying out tasks automatically"
+  },
+  "tickets": {
+    "p": "/ˈtɪkɪts/",
+    "t": "票",
+    "en": "printed pieces of paper giving admission or rights"
+  },
+  "machinemade": {
+    "p": "/məˈʃiːnmeɪd/",
+    "t": "机器制造的",
+    "en": "made by a machine rather than by hand"
+  },
+  "pestering": {
+    "p": "/ˈpestərɪŋ/",
+    "t": "纠缠；烦扰",
+    "en": "bothering someone persistently"
+  },
+  "websites": {
+    "p": "/ˈwebsaɪts/",
+    "t": "网站",
+    "en": "sets of related web pages on the internet"
+  },
+  "crumbling": {
+    "p": "/ˈkrʌmblɪŋ/",
+    "t": "崩塌的；破碎的",
+    "en": "breaking into small pieces; falling apart"
+  },
+  "loops": {
+    "p": "/luːps/",
+    "t": "循环；环",
+    "en": "circular shapes or repeated sequences"
+  },
+  "betray": {
+    "p": "/bɪˈtreɪ/",
+    "t": "背叛",
+    "en": "to be disloyal to someone"
+  },
+  "playgrounds": {
+    "p": "/ˈpleɪɡraʊndz/",
+    "t": "游乐场",
+    "en": "outdoor areas for children to play"
+  },
+  "pivotal": {
+    "p": "/ˈpɪvətl/",
+    "t": "关键的",
+    "en": "of crucial importance"
+  },
+  "empire": {
+    "p": "/ˈempaɪə/",
+    "t": "帝国",
+    "en": "a large group of states ruled by one authority"
+  },
+  "cutesy": {
+    "p": "/ˈkjuːtsi/",
+    "t": "矫揉可爱的",
+    "en": "cute in an affected or sentimental way"
+  },
+  "begged": {
+    "p": "/beɡd/",
+    "t": "恳求",
+    "en": "asked earnestly or humbly"
+  },
+  "uninstall": {
+    "p": "/ˌʌnɪnˈstɔːl/",
+    "t": "卸载",
+    "en": "to remove software from a device"
+  },
+  "builtin": {
+    "p": "/ˌbɪltˈɪn/",
+    "t": "内置的",
+    "en": "included as a permanent part"
+  },
+  "resell": {
+    "p": "/ˌriːˈsel/",
+    "t": "转售",
+    "en": "to sell something one has bought"
+  },
+  "markup": {
+    "p": "/ˈmɑːkʌp/",
+    "t": "加价；标记语言",
+    "en": "an increase in price; text with formatting tags"
+  },
+  "concerts": {
+    "p": "/ˈkɒnsəts/",
+    "t": "音乐会",
+    "en": "public performances of music"
+  },
+  "scalper": {
+    "p": "/ˈskælpə/",
+    "t": "黄牛；倒卖者",
+    "en": "someone who resells tickets at high prices"
+  },
+  "goodbye": {
+    "p": "/ˌɡʊdˈbaɪ/",
+    "t": "再见",
+    "en": "a word said when parting"
+  },
+  "license": {
+    "p": "/ˈlaɪsns/",
+    "t": "许可证",
+    "en": "an official permit to do something"
+  },
+  "renewals": {
+    "p": "/rɪˈnjuːəlz/",
+    "t": "续订；更新",
+    "en": "acts of extending something's validity"
+  },
+  "effortless": {
+    "p": "/ˈefətləs/",
+    "t": "毫不费力的",
+    "en": "requiring no effort"
+  },
+  "flagship": {
+    "p": "/ˈflæɡʃɪp/",
+    "t": "旗舰；主打产品",
+    "en": "the most important product or store of a company"
+  },
+  "abandons": {
+    "p": "/əˈbændənz/",
+    "t": "抛弃",
+    "en": "gives up or leaves completely"
+  },
+  "lottery": {
+    "p": "/ˈlɒtəri/",
+    "t": "抽奖；彩票",
+    "en": "a game of chance with prizes"
+  },
+  "instances": {
+    "p": "/ˈɪnstənsɪz/",
+    "t": "实例",
+    "en": "examples or occurrences"
+  },
+  "refresh": {
+    "p": "/rɪˈfreʃ/",
+    "t": "刷新；使恢复",
+    "en": "to update or renew"
+  },
+  "seller": {
+    "p": "/ˈselə/",
+    "t": "卖家",
+    "en": "a person who sells something"
+  },
+  "floss": {
+    "p": "/flɒs/",
+    "t": "牙线；用牙线清洁",
+    "en": "dental floss; to clean teeth with floss"
+  },
+  "subscription": {
+    "p": "/səbˈskrɪpʃn/",
+    "t": "订阅",
+    "en": "an arrangement to receive something regularly"
+  },
+  "decimating": {
+    "p": "/ˈdesɪmeɪtɪŋ/",
+    "t": "大量毁灭",
+    "en": "destroying a large proportion of"
+  },
+  "subscriptions": {
+    "p": "/səbˈskrɪpʃnz/",
+    "t": "订阅（复数）",
+    "en": "regular payments for services"
+  },
+  "supercharge": {
+    "p": "/ˈsuːpətʃɑːdʒ/",
+    "t": "增强；增压",
+    "en": "to make more powerful or intense"
+  },
+  "spiked": {
+    "p": "/spaɪkt/",
+    "t": "急剧上升的；有尖刺的",
+    "en": "rose sharply; having spikes"
+  },
+  "respecting": {
+    "p": "/rɪˈspektɪŋ/",
+    "t": "尊重；关于",
+    "en": "showing respect for; concerning"
+  },
+  "empowering": {
+    "p": "/ɪmˈpaʊərɪŋ/",
+    "t": "赋予权力",
+    "en": "giving power or confidence to"
+  },
+  "exploited": {
+    "p": "/ɪkˈsplɔɪtɪd/",
+    "t": "被剥削的；被利用的",
+    "en": "taken advantage of unfairly"
+  },
+  "inked": {
+    "p": "/ɪŋkt/",
+    "t": "签署的；着墨的",
+    "en": "signed; marked with ink"
+  },
+  "behaves": {
+    "p": "/bɪˈheɪvz/",
+    "t": "表现；运转",
+    "en": "acts in a particular way"
+  },
+  "guarantee": {
+    "p": "/ˌɡærənˈtiː/",
+    "t": "保证",
+    "en": "a promise that something will happen"
+  },
+  "cohort": {
+    "p": "/ˈkəʊhɔːt/",
+    "t": "群体；一群",
+    "en": "a group of people with a shared characteristic"
+  },
+  "windshields": {
+    "p": "/ˈwɪndʃiːldz/",
+    "t": "挡风玻璃",
+    "en": "front windows of vehicles"
+  },
+  "steer": {
+    "p": "/stɪə/",
+    "t": "驾驶；引导",
+    "en": "to guide the direction of"
+  },
+  "scrape": {
+    "p": "/skreɪp/",
+    "t": "刮；擦",
+    "en": "to remove or damage by rubbing"
+  },
+  "banned": {
+    "p": "/bænd/",
+    "t": "被禁止的",
+    "en": "officially prohibited"
+  },
+  "misuse": {
+    "p": "/ˌmɪsˈjuːz/",
+    "t": "滥用",
+    "en": "to use wrongly or improperly"
+  },
+  "unfair": {
+    "p": "/ˌʌnˈfeə/",
+    "t": "不公平的",
+    "en": "not just or impartial"
+  },
+  "bumpy": {
+    "p": "/ˈbʌmpi/",
+    "t": "颠簸的；崎岖的",
+    "en": "not smooth; uneven"
+  },
+  "login": {
+    "p": "/ˈlɒɡɪn/",
+    "t": "登录",
+    "en": "the act of entering a username and password"
+  },
+  "receipts": {
+    "p": "/rɪˈsiːts/",
+    "t": "收据",
+    "en": "written proofs of payment"
+  },
+  "exgirlfriend": {
+    "p": "/ˌeksˈɡɜːlfrend/",
+    "t": "前女友",
+    "en": "a former female romantic partner"
+  },
+  "romance": {
+    "p": "/rəʊˈmæns/",
+    "t": "浪漫；恋情",
+    "en": "a feeling of love; a love affair"
+  },
+  "privacy": {
+    "p": "/ˈprɪvəsi/",
+    "t": "隐私",
+    "en": "the state of being free from public attention"
+  },
+  "passwords": {
+    "p": "/ˈpɑːswɜːdz/",
+    "t": "密码",
+    "en": "secret strings of characters for access"
+  },
+  "tricked": {
+    "p": "/trɪkt/",
+    "t": "欺骗",
+    "en": "deceived or cheated"
+  },
+  "sanitised": {
+    "p": "/ˈsænɪtaɪzd/",
+    "t": "消毒的；净化过的",
+    "en": "cleaned; made less offensive"
+  },
+  "identifiable": {
+    "p": "/aɪˌdentɪˈfaɪəbl/",
+    "t": "可识别的",
+    "en": "able to be recognized"
+  },
+  "optout": {
+    "p": "/ˌɒptˈaʊt/",
+    "t": "退出；选择不参与",
+    "en": "to choose not to participate"
+  },
+  "hijacked": {
+    "p": "/ˈhaɪdʒækt/",
+    "t": "被劫持的",
+    "en": "illegally seized or taken over"
+  },
+  "vetted": {
+    "p": "/ˈvetɪd/",
+    "t": "审查过的",
+    "en": "carefully examined for suitability"
+  },
+  "revoked": {
+    "p": "/rɪˈvəʊkt/",
+    "t": "撤销的",
+    "en": "officially cancelled"
+  },
+  "erase": {
+    "p": "/ɪˈreɪz/",
+    "t": "擦除",
+    "en": "to remove completely"
+  },
+  "crypto": {
+    "p": "/ˈkrɪptəʊ/",
+    "t": "加密货币；加密的",
+    "en": "cryptocurrency; relating to cryptography or digital currency"
+  },
+  "bidder": {
+    "p": "/ˈbɪdə/",
+    "t": "出价者，投标人",
+    "en": "a person or group that offers a price for something"
+  },
+  "reprise": {
+    "p": "/rɪˈpriːz/",
+    "t": "重演，重复；重新开始",
+    "en": "a repetition or resumption of a performance or role"
+  },
+  "investors": {
+    "p": "/ɪnˈvestəz/",
+    "t": "投资者",
+    "en": "people who put money into something to gain profit"
+  },
+  "memecoin": {
+    "p": "/ˈmiːmkɔɪn/",
+    "t": "模因币",
+    "en": "a cryptocurrency inspired by internet memes"
+  },
+  "holders": {
+    "p": "/ˈhəʊldəz/",
+    "t": "持有者",
+    "en": "people who own or possess something"
+  },
+  "reception": {
+    "p": "/rɪˈsepʃn/",
+    "t": "接待；反响",
+    "en": "the way something is received; a formal welcome"
+  },
+  "memecoins": {
+    "p": "/ˈmiːmkɔɪnz/",
+    "t": "模因币（复数）",
+    "en": "cryptocurrencies inspired by internet memes"
+  },
+  "makebelieve": {
+    "p": "/ˈmeɪkbɪliːv/",
+    "t": "虚构，假装",
+    "en": "imaginary or pretended"
+  },
+  "token": {
+    "p": "/ˈtəʊkən/",
+    "t": "代币；象征",
+    "en": "a digital asset; a sign or symbol of something"
+  },
+  "cryptocurrency": {
+    "p": "/ˈkrɪptəʊkʌrənsi/",
+    "t": "加密货币",
+    "en": "a digital currency using cryptography"
+  },
+  "blockchain": {
+    "p": "/ˈblɒktʃeɪn/",
+    "t": "区块链",
+    "en": "a digital ledger of transactions"
+  },
+  "bitcoin": {
+    "p": "/ˈbɪtkɔɪn/",
+    "t": "比特币",
+    "en": "a decentralized digital currency"
+  },
+  "hosted": {
+    "p": "/ˈhəʊstɪd/",
+    "t": "主办的，主持的",
+    "en": "organized or provided by a host"
+  },
+  "buyers": {
+    "p": "/ˈbaɪəz/",
+    "t": "买家",
+    "en": "people who purchase goods or services"
+  },
+  "keynote": {
+    "p": "/ˈkiːnəʊt/",
+    "t": "主题演讲",
+    "en": "a main speech at a conference or event"
+  },
+  "enrich": {
+    "p": "/ɪnˈrɪtʃ/",
+    "t": "使富有，充实",
+    "en": "to improve the quality or value of something"
+  },
+  "minting": {
+    "p": "/ˈmɪntɪŋ/",
+    "t": "铸造（货币、NFT）",
+    "en": "producing coins or tokens"
+  },
+  "handsomely": {
+    "p": "/ˈhænsəmli/",
+    "t": "慷慨地；可觀地",
+    "en": "generously; to a considerable degree"
+  },
+  "journaling": {
+    "p": "/ˈdʒɜːnəlɪŋ/",
+    "t": "写日记",
+    "en": "the practice of keeping a journal"
+  },
+  "malaise": {
+    "p": "/məˈleɪz/",
+    "t": "不适；萎靡",
+    "en": "a general feeling of unease or depression"
+  },
+  "puppies": {
+    "p": "/ˈpʌpiz/",
+    "t": "小狗（复数）",
+    "en": "young dogs"
   }
 }
