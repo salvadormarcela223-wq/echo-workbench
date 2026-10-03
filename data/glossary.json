@@ -50068,5 +50068,570 @@
     "p": "/ˈpʌpiz/",
     "t": "小狗（复数）",
     "en": "young dogs"
+  },
+  "breed": {
+    "p": "/briːd/",
+    "t": "繁殖；品种",
+    "en": "to produce offspring; a particular type of animal"
+  },
+  "superdog": {
+    "p": "/ˈsuːpədɒɡ/",
+    "t": "超级狗",
+    "en": "an exceptionally talented or enhanced dog"
+  },
+  "millennia": {
+    "p": "/mɪˈleniə/",
+    "t": "数千年",
+    "en": "plural of millennium; periods of a thousand years"
+  },
+  "darkest": {
+    "p": "/ˈdɑːkɪst/",
+    "t": "最黑暗的",
+    "en": "superlative of dark; most lacking in light or most gloomy"
+  },
+  "chapters": {
+    "p": "/ˈtʃæptəz/",
+    "t": "章节",
+    "en": "divisions of a book or organization"
+  },
+  "cocker": {
+    "p": "/ˈkɒkə/",
+    "t": "可卡犬",
+    "en": "a breed of small dog, especially the cocker spaniel"
+  },
+  "spaniels": {
+    "p": "/ˈspænjəlz/",
+    "t": "猎鹬犬",
+    "en": "breeds of dog with long silky ears, used in hunting"
+  },
+  "beagles": {
+    "p": "/ˈbiːɡəlz/",
+    "t": "比格犬",
+    "en": "small hounds with short legs and drooping ears, used for hunting"
+  },
+  "sheep": {
+    "p": "/ʃiːp/",
+    "t": "绵羊",
+    "en": "a domesticated ruminant animal kept for wool and meat"
+  },
+  "basenjis": {
+    "p": "/bəˈsɛndʒiz/",
+    "t": "巴仙吉犬",
+    "en": "a breed of small dog from Africa that does not bark"
+  },
+  "haired": {
+    "p": "/heəd/",
+    "t": "有毛的",
+    "en": "having hair of a specified kind"
+  },
+  "terriers": {
+    "p": "/ˈteriəz/",
+    "t": "梗犬",
+    "en": "small active dogs originally bred to hunt vermin"
+  },
+  "puppys": {
+    "p": "/ˈpʌpiz/",
+    "t": "小狗（复数）",
+    "en": "young dogs (nonstandard plural of puppy)"
+  },
+  "exhaustive": {
+    "p": "/ɪɡˈzɔːstɪv/",
+    "t": "详尽的",
+    "en": "including all possibilities; thorough"
+  },
+  "startle": {
+    "p": "/ˈstɑːtl/",
+    "t": "使惊吓",
+    "en": "to cause a sudden shock or surprise"
+  },
+  "playfight": {
+    "p": "/ˈpleɪfaɪt/",
+    "t": "嬉戏打斗",
+    "en": "to engage in mock fighting for fun"
+  },
+  "reactivity": {
+    "p": "/riːækˈtɪvəti/",
+    "t": "反应性",
+    "en": "the quality of reacting to stimuli"
+  },
+  "litter": {
+    "p": "/ˈlɪtə/",
+    "t": "一窝幼崽",
+    "en": "a group of young animals born at one time"
+  },
+  "investigators": {
+    "p": "/ɪnˈvestɪɡeɪtəz/",
+    "t": "调查人员",
+    "en": "people who carry out investigations"
+  },
+  "smarter": {
+    "p": "/ˈsmɑːtə/",
+    "t": "更聪明的",
+    "en": "comparative of smart; more intelligent"
+  },
+  "canine": {
+    "p": "/ˈkeɪnaɪn/",
+    "t": "犬的；犬科动物",
+    "en": "relating to dogs; a dog or related animal"
+  },
+  "hyperintelligent": {
+    "p": "/ˌhaɪpərɪnˈtelɪdʒənt/",
+    "t": "超级聪明的",
+    "en": "extremely intelligent"
+  },
+  "decoding": {
+    "p": "/diːˈkəʊdɪŋ/",
+    "t": "解码",
+    "en": "converting coded information into understandable form"
+  },
+  "doggie": {
+    "p": "/ˈdɒɡi/",
+    "t": "狗狗（儿语）",
+    "en": "childish term for a dog"
+  },
+  "eugenics": {
+    "p": "/juːˈdʒenɪks/",
+    "t": "优生学",
+    "en": "the study of improving a population by controlled breeding"
+  },
+  "sizeable": {
+    "p": "/ˈsaɪzəbl/",
+    "t": "相当大的",
+    "en": "fairly large in size"
+  },
+  "funnelled": {
+    "p": "/ˈfʌnld/",
+    "t": "被引导；漏斗状的",
+    "en": "directed through a narrow channel"
+  },
+  "affectionately": {
+    "p": "/əˈfekʃənətli/",
+    "t": "深情地",
+    "en": "in a loving or fond manner"
+  },
+  "beneficiaries": {
+    "p": "/ˌbenɪˈfɪʃəriz/",
+    "t": "受益人",
+    "en": "people who receive benefits"
+  },
+  "unimaginable": {
+    "p": "/ˌʌnɪˈmædʒɪnəbl/",
+    "t": "难以想象的",
+    "en": "impossible to imagine"
+  },
+  "breeding": {
+    "p": "/ˈbriːdɪŋ/",
+    "t": "繁殖；教养",
+    "en": "the process of producing offspring"
+  },
+  "superiority": {
+    "p": "/suːˌpɪəriˈɒrəti/",
+    "t": "优越性",
+    "en": "the state of being better than others"
+  },
+  "atrocities": {
+    "p": "/əˈtrɒsətiz/",
+    "t": "暴行",
+    "en": "extremely cruel acts"
+  },
+  "postwar": {
+    "p": "/ˌpəʊstˈwɔː/",
+    "t": "战后的",
+    "en": "occurring after a war"
+  },
+  "academics": {
+    "p": "/ˌækəˈdemɪks/",
+    "t": "学者；学术",
+    "en": "scholars; academic subjects"
+  },
+  "thrall": {
+    "p": "/θrɔːl/",
+    "t": "奴役；束缚",
+    "en": "the state of being under someone's control"
+  },
+  "eugenicist": {
+    "p": "/juːˈdʒenɪsɪst/",
+    "t": "优生学家",
+    "en": "a supporter of eugenics"
+  },
+  "allocating": {
+    "p": "/ˈæləkeɪtɪŋ/",
+    "t": "分配",
+    "en": "distributing resources for a purpose"
+  },
+  "modernising": {
+    "p": "/ˈmɒdənaɪzɪŋ/",
+    "t": "现代化",
+    "en": "adapting to modern needs"
+  },
+  "emotionally": {
+    "p": "/ɪˈməʊʃənəli/",
+    "t": "情感上",
+    "en": "in a way relating to emotions"
+  },
+  "unstable": {
+    "p": "/ʌnˈsteɪbl/",
+    "t": "不稳定的",
+    "en": "not stable; liable to change"
+  },
+  "psychopathic": {
+    "p": "/ˌsaɪkəˈpæθɪk/",
+    "t": "精神变态的",
+    "en": "suffering from a severe personality disorder"
+  },
+  "genes": {
+    "p": "/dʒiːnz/",
+    "t": "基因",
+    "en": "units of heredity"
+  },
+  "expenditure": {
+    "p": "/ɪkˈspendɪtʃə/",
+    "t": "支出",
+    "en": "the amount of money spent"
+  },
+  "realisation": {
+    "p": "/ˌriːəlaɪˈzeɪʃn/",
+    "t": "认识；实现",
+    "en": "becoming aware of something; achievement"
+  },
+  "matings": {
+    "p": "/ˈmeɪtɪŋz/",
+    "t": "交配",
+    "en": "acts of pairing for breeding"
+  },
+  "flies": {
+    "p": "/flaɪz/",
+    "t": "苍蝇；飞（动词）",
+    "en": "insects; moves through the air"
+  },
+  "alighted": {
+    "p": "/əˈlaɪtɪd/",
+    "t": "降落；下车",
+    "en": "descended and settled"
+  },
+  "hereditary": {
+    "p": "/həˈredɪtri/",
+    "t": "遗传的",
+    "en": "passed from parent to offspring"
+  },
+  "stump": {
+    "p": "/stʌmp/",
+    "t": "难住；树桩",
+    "en": "to baffle; the base of a tree"
+  },
+  "geneticists": {
+    "p": "/dʒəˈnetɪsɪsts/",
+    "t": "遗传学家",
+    "en": "scientists who study genetics"
+  },
+  "physiologist": {
+    "p": "/ˌfɪziˈɒlədʒɪst/",
+    "t": "生理学家",
+    "en": "a scientist who studies physiology"
+  },
+  "geneticist": {
+    "p": "/dʒəˈnetɪsɪst/",
+    "t": "遗传学家",
+    "en": "a scientist who studies genes"
+  },
+  "captivated": {
+    "p": "/ˈkæptɪveɪtɪd/",
+    "t": "迷住",
+    "en": "attracted and held the interest of"
+  },
+  "studys": {
+    "p": "/ˈstʌdiz/",
+    "t": "研究（非标准拼写）",
+    "en": "nonstandard spelling of studies"
+  },
+  "diverged": {
+    "p": "/daɪˈvɜːdʒd/",
+    "t": "分歧；偏离",
+    "en": "separated and went in different directions"
+  },
+  "benefactor": {
+    "p": "/ˈbenɪfæktə/",
+    "t": "恩人；捐助者",
+    "en": "a person who gives financial help"
+  },
+  "subjected": {
+    "p": "/səbˈdʒektɪd/",
+    "t": "使遭受",
+    "en": "caused to undergo something"
+  },
+  "labyrinthine": {
+    "p": "/ˌlæbəˈrɪnθaɪn/",
+    "t": "迷宫般的",
+    "en": "complicated and confusing like a maze"
+  },
+  "exhibited": {
+    "p": "/ɪɡˈzɪbɪtɪd/",
+    "t": "展示；表现",
+    "en": "displayed or showed"
+  },
+  "eugenicists": {
+    "p": "/juːˈdʒenɪsɪsts/",
+    "t": "优生学家（复数）",
+    "en": "supporters of eugenics"
+  },
+  "notions": {
+    "p": "/ˈnəʊʃnz/",
+    "t": "观念",
+    "en": "ideas or beliefs"
+  },
+  "superdogs": {
+    "p": "/ˈsuːpədɒɡz/",
+    "t": "超级狗（复数）",
+    "en": "exceptionally talented or enhanced dogs"
+  },
+  "godlike": {
+    "p": "/ˈɡɒdlaɪk/",
+    "t": "如神的",
+    "en": "resembling or befitting a god"
+  },
+  "gorilla": {
+    "p": "/ɡəˈrɪlə/",
+    "t": "大猩猩",
+    "en": "a large powerful ape"
+  },
+  "musical": {
+    "p": "/ˈmjuːzɪkl/",
+    "t": "音乐的；音乐剧",
+    "en": "relating to music or a musical play"
+  },
+  "boldness": {
+    "p": "/ˈbəʊldnəs/",
+    "t": "大胆",
+    "en": "willingness to take risks"
+  },
+  "timid": {
+    "p": "/ˈtɪmɪd/",
+    "t": "胆小的",
+    "en": "lacking courage; shy"
+  },
+  "superman": {
+    "p": "/ˈsuːpəmæn/",
+    "t": "超人",
+    "en": "a man with superhuman powers"
+  },
+  "welldeveloped": {
+    "p": "/ˌwel dɪˈveləpt/",
+    "t": "发育良好的",
+    "en": "fully grown or advanced"
+  },
+  "spawning": {
+    "p": "/ˈspɔːnɪŋ/",
+    "t": "产卵；产生",
+    "en": "producing eggs; generating"
+  },
+  "plucky": {
+    "p": "/ˈplʌki/",
+    "t": "勇敢的",
+    "en": "showing courage in difficult situations"
+  },
+  "attachment": {
+    "p": "/əˈtætʃmənt/",
+    "t": "依恋；附件",
+    "en": "a bond of affection; an extra part"
+  },
+  "caregiving": {
+    "p": "/ˈkeəɡɪvɪŋ/",
+    "t": "照料",
+    "en": "the act of providing care"
+  },
+  "seals": {
+    "p": "/siːlz/",
+    "t": "海豹；密封",
+    "en": "marine mammals; closes tightly"
+  },
+  "rewilding": {
+    "p": "/riːˈwaɪldɪŋ/",
+    "t": "再野化",
+    "en": "restoring natural wilderness to an area"
+  },
+  "reared": {
+    "p": "/rɪəd/",
+    "t": "抚养；饲养",
+    "en": "brought up or raised"
+  },
+  "eightfoothigh": {
+    "p": "/ˌeɪt fuːt ˈhaɪ/",
+    "t": "八英尺高的",
+    "en": "measuring eight feet in height"
+  },
+  "fences": {
+    "p": "/ˈfensɪz/",
+    "t": "栅栏",
+    "en": "barriers enclosing an area"
+  },
+  "socialised": {
+    "p": "/ˈsəʊʃəlaɪzd/",
+    "t": "社交化的",
+    "en": "trained to behave in society; made social"
+  },
+  "attachments": {
+    "p": "/əˈtætʃmənts/",
+    "t": "依恋；附件（复数）",
+    "en": "bonds of affection; extra parts"
+  },
+  "satisfactory": {
+    "p": "/ˌsætɪsˈfæktəri/",
+    "t": "令人满意的",
+    "en": "fulfilling expectations or needs"
+  },
+  "archivist": {
+    "p": "/ˈɑːkɪvɪst/",
+    "t": "档案管理员",
+    "en": "a person who maintains archives"
+  },
+  "dispersed": {
+    "p": "/dɪˈspɜːst/",
+    "t": "分散",
+    "en": "scattered over a wide area"
+  },
+  "untameable": {
+    "p": "/ʌnˈteɪməbl/",
+    "t": "无法驯服的",
+    "en": "impossible to tame"
+  },
+  "borrow": {
+    "p": "/ˈbɒrəʊ/",
+    "t": "借",
+    "en": "to take and use temporarily"
+  },
+  "foolish": {
+    "p": "/ˈfuːlɪʃ/",
+    "t": "愚蠢的",
+    "en": "lacking good sense"
+  },
+  "selfcontrol": {
+    "p": "/ˌself kənˈtrəʊl/",
+    "t": "自制力",
+    "en": "the ability to control one's emotions and actions"
+  },
+  "assertion": {
+    "p": "/əˈsɜːʃn/",
+    "t": "断言",
+    "en": "a confident statement of fact or belief"
+  },
+  "definitively": {
+    "p": "/dɪˈfɪnətɪvli/",
+    "t": "决定性地",
+    "en": "in a conclusive and authoritative manner"
+  },
+  "grappling": {
+    "p": "/ˈɡræplɪŋ/",
+    "t": "搏斗；努力应对",
+    "en": "the act of struggling or wrestling with something"
+  },
+  "encyclical": {
+    "p": "/ɪnˈsɪklɪkl/",
+    "t": "通谕",
+    "en": "a letter from the Pope to the whole Church"
+  },
+  "emphasize": {
+    "p": "/ˈemfəsaɪz/",
+    "t": "强调",
+    "en": "to give special importance to something"
+  },
+  "ontological": {
+    "p": "/ˌɒntəˈlɒdʒɪkl/",
+    "t": "本体论的",
+    "en": "relating to the nature of existence"
+  },
+  "statistical": {
+    "p": "/stəˈtɪstɪkl/",
+    "t": "统计的",
+    "en": "relating to statistics"
+  },
+  "companionable": {
+    "p": "/kəmˈpænjənəbl/",
+    "t": "友好的；适合做伴的",
+    "en": "friendly and pleasant to be with"
+  },
+  "alwaysthere": {
+    "p": "/ˌɔːlweɪz ˈðeə/",
+    "t": "总在那里的",
+    "en": "always present or available"
+  },
+  "companionship": {
+    "p": "/kəmˈpænjənʃɪp/",
+    "t": "陪伴；友谊",
+    "en": "the state of having a companion"
+  },
+  "pushandpull": {
+    "p": "/ˌpʊʃ ənd ˈpʊl/",
+    "t": "推拉；相互作用",
+    "en": "a situation of opposing forces or influences"
+  },
+  "sycophantic": {
+    "p": "/ˌsɪkəˈfæntɪk/",
+    "t": "谄媚的",
+    "en": "behaving in an excessively flattering way"
+  },
+  "agreeable": {
+    "p": "/əˈɡriːəbl/",
+    "t": "令人愉快的；同意的",
+    "en": "pleasant or willing to agree"
+  },
+  "anthropomorphized": {
+    "p": "/ˌænθrəpəˈmɔːfaɪzd/",
+    "t": "拟人化的",
+    "en": "attributed with human characteristics"
+  },
+  "interactive": {
+    "p": "/ˌɪntərˈæktɪv/",
+    "t": "互动的",
+    "en": "allowing mutual communication or action"
+  },
+  "horror": {
+    "p": "/ˈhɒrə/",
+    "t": "恐怖",
+    "en": "an intense feeling of fear or shock"
+  },
+  "marathon": {
+    "p": "/ˈmærəθən/",
+    "t": "马拉松",
+    "en": "a long-distance running race"
+  },
+  "haunted": {
+    "p": "/ˈhɔːntɪd/",
+    "t": "闹鬼的；萦绕心头的",
+    "en": "inhabited by ghosts or troubled by memories"
+  },
+  "intuitively": {
+    "p": "/ɪnˈtjuːɪtɪvli/",
+    "t": "直觉地",
+    "en": "by instinct rather than reasoning"
+  },
+  "frights": {
+    "p": "/fraɪts/",
+    "t": "惊吓",
+    "en": "sudden feelings of fear"
+  },
+  "pipes": {
+    "p": "/paɪps/",
+    "t": "管道；管乐器",
+    "en": "tubes for conveying fluids or musical instruments"
+  },
+  "constellation": {
+    "p": "/ˌkɒnstəˈleɪʃn/",
+    "t": "星座",
+    "en": "a group of stars forming a pattern"
+  },
+  "insidious": {
+    "p": "/ɪnˈsɪdiəs/",
+    "t": "暗中为害的",
+    "en": "proceeding in a gradual, harmful way"
+  },
+  "utterly": {
+    "p": "/ˈʌtəli/",
+    "t": "完全地",
+    "en": "completely and absolutely"
+  },
+  "infuriating": {
+    "p": "/ɪnˈfjʊərieɪtɪŋ/",
+    "t": "令人愤怒的",
+    "en": "making someone extremely angry"
   }
 }
