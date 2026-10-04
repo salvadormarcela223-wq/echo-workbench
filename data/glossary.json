@@ -50633,5 +50633,665 @@
     "p": "/ɪnˈfjʊərieɪtɪŋ/",
     "t": "令人愤怒的",
     "en": "making someone extremely angry"
+  },
+  "liking": {
+    "p": "/ˈlaɪkɪŋ/",
+    "t": "喜爱，爱好",
+    "en": "a feeling of regard or fondness for someone or something"
+  },
+  "chilly": {
+    "p": "/ˈtʃɪli/",
+    "t": "寒冷的；冷淡的",
+    "en": "unpleasantly cold; unfriendly in manner"
+  },
+  "noteworthy": {
+    "p": "/ˈnəʊtwɜːði/",
+    "t": "值得注意的",
+    "en": "worthy of attention or notice; remarkable"
+  },
+  "guidebooktoting": {
+    "p": "/ˈɡaɪdbʊkˌtəʊtɪŋ/",
+    "t": "带着旅游指南的",
+    "en": "carrying a guidebook"
+  },
+  "tripper": {
+    "p": "/ˈtrɪpə/",
+    "t": "短途旅行者，游客",
+    "en": "a person who goes on a short trip or excursion"
+  },
+  "ftlong": {
+    "p": "/ˌeftˈlɒŋ/",
+    "t": "英尺长的",
+    "en": "measuring a specified number of feet in length"
+  },
+  "patrolling": {
+    "p": "/pəˈtrəʊlɪŋ/",
+    "t": "巡逻",
+    "en": "the act of moving around an area to guard or monitor it"
+  },
+  "provinces": {
+    "p": "/ˈprɒvɪnsɪz/",
+    "t": "省份；外省",
+    "en": "administrative divisions of a country; regions outside the capital"
+  },
+  "rebounding": {
+    "p": "/rɪˈbaʊndɪŋ/",
+    "t": "反弹；回升",
+    "en": "recovering or bouncing back after a setback"
+  },
+  "hotspot": {
+    "p": "/ˈhɒtspɒt/",
+    "t": "热点；热门地点",
+    "en": "a place of significant activity or interest"
+  },
+  "unwelcome": {
+    "p": "/ʌnˈwelkəm/",
+    "t": "不受欢迎的",
+    "en": "not gladly received or accepted"
+  },
+  "diver": {
+    "p": "/ˈdaɪvə/",
+    "t": "潜水员",
+    "en": "a person who dives underwater, especially using special equipment"
+  },
+  "murky": {
+    "p": "/ˈmɜːki/",
+    "t": "浑浊的；昏暗的",
+    "en": "dark and gloomy, especially due to thick mist or dirt"
+  },
+  "ranging": {
+    "p": "/ˈreɪndʒɪŋ/",
+    "t": "范围从…到…；变动",
+    "en": "varying between specified limits"
+  },
+  "seaboard": {
+    "p": "/ˈsiːbɔːd/",
+    "t": "沿海地区，海岸线",
+    "en": "the part of a country that borders the sea"
+  },
+  "noticeably": {
+    "p": "/ˈnəʊtɪsəbli/",
+    "t": "明显地",
+    "en": "in a way that is easily seen or noticed"
+  },
+  "quicker": {
+    "p": "/ˈkwɪkə/",
+    "t": "更快的",
+    "en": "more rapid; comparative of quick"
+  },
+  "climatechangeinduced": {
+    "p": "/ˈklaɪmət tʃeɪndʒ ɪnˌdjuːst/",
+    "t": "气候变化引起的",
+    "en": "caused by climate change"
+  },
+  "warmed": {
+    "p": "/wɔːmd/",
+    "t": "变暖的；加热的",
+    "en": "made or become warm"
+  },
+  "seafloor": {
+    "p": "/ˈsiːflɔː/",
+    "t": "海底",
+    "en": "the floor of the sea; the bottom of the ocean"
+  },
+  "whites": {
+    "p": "/waɪts/",
+    "t": "白种人；白色部分",
+    "en": "white people collectively; white parts of something"
+  },
+  "instructor": {
+    "p": "/ɪnˈstrʌktə/",
+    "t": "教练，导师",
+    "en": "a person who teaches or instructs, especially a skill"
+  },
+  "province": {
+    "p": "/ˈprɒvɪns/",
+    "t": "省；领域",
+    "en": "an administrative division of a country; a sphere of activity"
+  },
+  "unheard": {
+    "p": "/ʌnˈhɜːd/",
+    "t": "未 heard 的；前所未闻的",
+    "en": "not heard; unprecedented"
+  },
+  "sharky": {
+    "p": "/ˈʃɑːki/",
+    "t": "鲨鱼多的；像鲨鱼的",
+    "en": "full of sharks; resembling a shark"
+  },
+  "summertime": {
+    "p": "/ˈsʌmətaɪm/",
+    "t": "夏季",
+    "en": "the season of summer"
+  },
+  "visibility": {
+    "p": "/ˌvɪzəˈbɪləti/",
+    "t": "能见度",
+    "en": "the state of being able to see or be seen"
+  },
+  "lobsters": {
+    "p": "/ˈlɒbstəz/",
+    "t": "龙虾",
+    "en": "large marine crustaceans with long bodies and claws"
+  },
+  "cliff": {
+    "p": "/klɪf/",
+    "t": "悬崖",
+    "en": "a steep rock face, especially at the edge of the sea"
+  },
+  "spooked": {
+    "p": "/spuːkt/",
+    "t": "受惊的；吓唬",
+    "en": "frightened or scared; past tense of spook"
+  },
+  "characterised": {
+    "p": "/ˈkærəktəraɪzd/",
+    "t": "以…为特征的",
+    "en": "described by distinctive qualities or features"
+  },
+  "wetsuited": {
+    "p": "/ˈwetsuːtɪd/",
+    "t": "穿着潜水服的",
+    "en": "wearing a wetsuit"
+  },
+  "silhouetted": {
+    "p": "/ˌsɪluˈetɪd/",
+    "t": "呈剪影的",
+    "en": "seen as a dark shape against a lighter background"
+  },
+  "surfboard": {
+    "p": "/ˈsɜːfbɔːd/",
+    "t": "冲浪板",
+    "en": "a long narrow board used for surfing"
+  },
+  "predatory": {
+    "p": "/ˈpredətəri/",
+    "t": "掠食的；掠夺性的",
+    "en": "relating to or denoting an animal that preys on others"
+  },
+  "cruise": {
+    "p": "/kruːz/",
+    "t": "巡航；乘船游览",
+    "en": "to sail about, especially for pleasure"
+  },
+  "snorkeller": {
+    "p": "/ˈsnɔːkələ/",
+    "t": "浮潜者",
+    "en": "a person who swims using a snorkel"
+  },
+  "preface": {
+    "p": "/ˈprefəs/",
+    "t": "前言，序言",
+    "en": "an introduction to a book, typically stating its subject"
+  },
+  "frequenting": {
+    "p": "/frɪˈkwentɪŋ/",
+    "t": "常去，常光顾",
+    "en": "visiting a place frequently"
+  },
+  "cagediving": {
+    "p": "/ˈkeɪdʒdaɪvɪŋ/",
+    "t": "笼中潜水",
+    "en": "diving in a protective cage, especially to observe sharks"
+  },
+  "tunas": {
+    "p": "/ˈtjuːnəz/",
+    "t": "金枪鱼",
+    "en": "large marine fishes of the mackerel family, valued as food"
+  },
+  "gauge": {
+    "p": "/ɡeɪdʒ/",
+    "t": "测量；估计",
+    "en": "to measure or estimate the extent of something"
+  },
+  "wildly": {
+    "p": "/ˈwaɪldli/",
+    "t": "疯狂地；极其",
+    "en": "in an uncontrolled or extreme manner"
+  },
+  "expeditions": {
+    "p": "/ˌekspəˈdɪʃənz/",
+    "t": "探险，远征",
+    "en": "journeys undertaken for a particular purpose, especially exploration"
+  },
+  "reassuring": {
+    "p": "/ˌriːəˈʃʊərɪŋ/",
+    "t": "令人安心的",
+    "en": "serving to remove doubt or fear; comforting"
+  },
+  "populous": {
+    "p": "/ˈpɒpjələs/",
+    "t": "人口稠密的",
+    "en": "having a large population"
+  },
+  "ranges": {
+    "p": "/ˈreɪndʒɪz/",
+    "t": "范围；山脉",
+    "en": "varieties or extents; mountain chains"
+  },
+  "caution": {
+    "p": "/ˈkɔːʃən/",
+    "t": "谨慎；警告",
+    "en": "care taken to avoid danger; a warning"
+  },
+  "indigenous": {
+    "p": "/ɪnˈdɪdʒɪnəs/",
+    "t": "本土的，土著的",
+    "en": "originating or occurring naturally in a particular place"
+  },
+  "canoes": {
+    "p": "/kəˈnuːz/",
+    "t": "独木舟",
+    "en": "narrow boats propelled by paddles"
+  },
+  "harpooning": {
+    "p": "/hɑːˈpuːnɪŋ/",
+    "t": "用鱼叉捕杀",
+    "en": "spearing with a harpoon"
+  },
+  "spruce": {
+    "p": "/spruːs/",
+    "t": "云杉；整洁的",
+    "en": "a coniferous tree; neat and stylish"
+  },
+  "trick": {
+    "p": "/trɪk/",
+    "t": "诡计；技巧",
+    "en": "a cunning act; a skillful technique"
+  },
+  "eelgrass": {
+    "p": "/ˈiːlɡrɑːs/",
+    "t": "大叶藻",
+    "en": "a marine plant with long ribbon-like leaves"
+  },
+  "softer": {
+    "p": "/ˈsɒftə/",
+    "t": "更柔软的",
+    "en": "more soft; comparative of soft"
+  },
+  "sharkiest": {
+    "p": "/ˈʃɑːkiɪst/",
+    "t": "鲨鱼最多的；最像鲨鱼的",
+    "en": "superlative of sharky; most full of sharks"
+  },
+  "chillier": {
+    "p": "/ˈtʃɪliə/",
+    "t": "更寒冷的",
+    "en": "more chilly; comparative of chilly"
+  },
+  "lurking": {
+    "p": "/ˈlɜːkɪŋ/",
+    "t": "潜伏，埋伏",
+    "en": "remaining hidden while waiting to ambush"
+  },
+  "relearning": {
+    "p": "/ˌriːˈlɜːnɪŋ/",
+    "t": "重新学习",
+    "en": "learning again"
+  },
+  "hangover": {
+    "p": "/ˈhæŋəʊvə/",
+    "t": "宿醉；遗留问题",
+    "en": "a feeling of illness after drinking too much alcohol; a lingering effect"
+  },
+  "coding": {
+    "p": "/ˈkəʊdɪŋ/",
+    "t": "编码；编程",
+    "en": "the process of writing computer programs"
+  },
+  "reluctantly": {
+    "p": "/rɪˈlʌktəntli/",
+    "t": "不情愿地",
+    "en": "in an unwilling or hesitant manner"
+  },
+  "relented": {
+    "p": "/rɪˈlentɪd/",
+    "t": "让步了；变宽容了",
+    "en": "gave in; became less severe or strict"
+  },
+  "lightened": {
+    "p": "/ˈlaɪtnd/",
+    "t": "减轻了；变亮了",
+    "en": "made or became lighter in weight, color, or mood"
+  },
+  "workload": {
+    "p": "/ˈwɜːkləʊd/",
+    "t": "工作量",
+    "en": "the amount of work to be done"
+  },
+  "dulling": {
+    "p": "/ˈdʌlɪŋ/",
+    "t": "使迟钝；使变暗",
+    "en": "making less sharp, intense, or interesting"
+  },
+  "nonfiction": {
+    "p": "/ˌnɒnˈfɪkʃn/",
+    "t": "非虚构作品",
+    "en": "writing that is based on facts, not imagination"
+  },
+  "recalling": {
+    "p": "/rɪˈkɔːlɪŋ/",
+    "t": "回忆起；召回",
+    "en": "remembering; calling back"
+  },
+  "offloading": {
+    "p": "/ˌɒfˈləʊdɪŋ/",
+    "t": "卸下；转移",
+    "en": "getting rid of or transferring something to someone else"
+  },
+  "presentations": {
+    "p": "/ˌpreznˈteɪʃnz/",
+    "t": "演示；报告",
+    "en": "talks or demonstrations to an audience"
+  },
+  "outsource": {
+    "p": "/ˈaʊtsɔːs/",
+    "t": "外包",
+    "en": "to have work done by an outside company or person"
+  },
+  "forgetful": {
+    "p": "/fəˈɡetfl/",
+    "t": "健忘的",
+    "en": "often forgetting things"
+  },
+  "buzzword": {
+    "p": "/ˈbʌzwɜːd/",
+    "t": "流行术语",
+    "en": "a word or phrase that becomes popular in a particular field"
+  },
+  "competency": {
+    "p": "/ˈkɒmpɪtənsi/",
+    "t": "能力；胜任",
+    "en": "the ability to do something well"
+  },
+  "accompanied": {
+    "p": "/əˈkʌmpənid/",
+    "t": "陪伴；伴随",
+    "en": "went along with; occurred together with"
+  },
+  "proliferation": {
+    "p": "/prəˌlɪfəˈreɪʃn/",
+    "t": "激增；扩散",
+    "en": "rapid increase or spread"
+  },
+  "tedious": {
+    "p": "/ˈtiːdiəs/",
+    "t": "乏味的；冗长的",
+    "en": "too long, slow, or dull"
+  },
+  "mindnumbing": {
+    "p": "/ˈmaɪndnʌmɪŋ/",
+    "t": "令人头脑麻木的",
+    "en": "extremely boring or dull"
+  },
+  "dumber": {
+    "p": "/ˈdʌmə/",
+    "t": "更笨的",
+    "en": "more stupid or less intelligent"
+  },
+  "intentional": {
+    "p": "/ɪnˈtenʃənl/",
+    "t": "故意的",
+    "en": "done on purpose"
+  },
+  "frictionless": {
+    "p": "/ˈfrɪkʃənləs/",
+    "t": "无摩擦的；顺畅的",
+    "en": "without resistance or difficulty"
+  },
+  "skillbuilding": {
+    "p": "/ˈskɪlbɪldɪŋ/",
+    "t": "技能培养",
+    "en": "the process of developing abilities"
+  },
+  "surveyed": {
+    "p": "/səˈveɪd/",
+    "t": "调查了；勘测了",
+    "en": "examined or questioned systematically"
+  },
+  "discourages": {
+    "p": "/dɪsˈkʌrɪdʒɪz/",
+    "t": "使泄气；阻止",
+    "en": "makes less confident or less likely to do something"
+  },
+  "hardwired": {
+    "p": "/ˌhɑːdˈwaɪəd/",
+    "t": "天生的；硬连线的",
+    "en": "innate or fixed; physically connected"
+  },
+  "taxing": {
+    "p": "/ˈtæksɪŋ/",
+    "t": "费力的；繁重的",
+    "en": "physically or mentally demanding"
+  },
+  "protects": {
+    "p": "/prəˈtekts/",
+    "t": "保护",
+    "en": "keeps safe from harm"
+  },
+  "diminishing": {
+    "p": "/dɪˈmɪnɪʃɪŋ/",
+    "t": "减少的；递减的",
+    "en": "becoming less or smaller"
+  },
+  "forgetting": {
+    "p": "/fəˈɡetɪŋ/",
+    "t": "忘记",
+    "en": "failing to remember"
+  },
+  "classrooms": {
+    "p": "/ˈklɑːsruːmz/",
+    "t": "教室",
+    "en": "rooms where classes are taught"
+  },
+  "textbased": {
+    "p": "/ˈtekstbeɪst/",
+    "t": "基于文本的",
+    "en": "relying on or consisting of text"
+  },
+  "offline": {
+    "p": "/ˌɒfˈlaɪn/",
+    "t": "离线的",
+    "en": "not connected to the internet"
+  },
+  "foundational": {
+    "p": "/faʊnˈdeɪʃənl/",
+    "t": "基础的",
+    "en": "forming the basis or foundation"
+  },
+  "imperfect": {
+    "p": "/ɪmˈpɜːfɪkt/",
+    "t": "不完美的",
+    "en": "not perfect; having faults"
+  },
+  "downside": {
+    "p": "/ˈdaʊnsaɪd/",
+    "t": "缺点；不利方面",
+    "en": "the negative aspect of something"
+  },
+  "compromising": {
+    "p": "/ˈkɒmprəmaɪzɪŋ/",
+    "t": "妥协的；有损名誉的",
+    "en": "making concessions; damaging to reputation"
+  },
+  "arithmetic": {
+    "p": "/əˈrɪθmətɪk/",
+    "t": "算术",
+    "en": "the branch of mathematics dealing with numbers"
+  },
+  "retention": {
+    "p": "/rɪˈtenʃn/",
+    "t": "保持；记忆力",
+    "en": "the act of keeping or remembering something"
+  },
+  "realizing": {
+    "p": "/ˈriːəlaɪzɪŋ/",
+    "t": "意识到；实现",
+    "en": "becoming aware of; achieving"
+  },
+  "decaying": {
+    "p": "/dɪˈkeɪɪŋ/",
+    "t": "腐烂的；衰退的",
+    "en": "rotting or declining in quality"
+  },
+  "output": {
+    "p": "/ˈaʊtpʊt/",
+    "t": "产出；输出",
+    "en": "the amount produced or the result"
+  },
+  "unavailable": {
+    "p": "/ˌʌnəˈveɪləbl/",
+    "t": "不可用的；无法获得的",
+    "en": "not able to be used or obtained"
+  },
+  "preserving": {
+    "p": "/prɪˈzɜːvɪŋ/",
+    "t": "保存；保护",
+    "en": "keeping in good condition; maintaining"
+  },
+  "accomplish": {
+    "p": "/əˈkʌmplɪʃ/",
+    "t": "完成；实现",
+    "en": "to succeed in doing something"
+  },
+  "humanai": {
+    "p": "/ˌhjuːmən eɪ ˈaɪ/",
+    "t": "人类与人工智能",
+    "en": "human and artificial intelligence"
+  },
+  "outsourcing": {
+    "p": "/ˈaʊtsɔːsɪŋ/",
+    "t": "外包",
+    "en": "the practice of having work done externally"
+  },
+  "counterintuitive": {
+    "p": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+    "t": "反直觉的",
+    "en": "contrary to what intuition suggests"
+  },
+  "patent": {
+    "p": "/ˈpætnt/",
+    "t": "专利",
+    "en": "a legal right to an invention"
+  },
+  "undergraduates": {
+    "p": "/ˌʌndəˈɡrædʒuəts/",
+    "t": "本科生",
+    "en": "university students who have not yet earned a degree"
+  },
+  "offtheshelf": {
+    "p": "/ˌɒf ðə ˈʃelf/",
+    "t": "现成的；非定制的",
+    "en": "readily available; not customized"
+  },
+  "augmentation": {
+    "p": "/ˌɔːɡmenˈteɪʃn/",
+    "t": "增强；增加",
+    "en": "the act of making something greater"
+  },
+  "rabbit": {
+    "p": "/ˈræbɪt/",
+    "t": "兔子",
+    "en": "a small furry animal with long ears"
+  },
+  "blankly": {
+    "p": "/ˈblæŋkli/",
+    "t": "茫然地",
+    "en": "without expression or understanding"
+  },
+  "confused": {
+    "p": "/kənˈfjuːzd/",
+    "t": "困惑的",
+    "en": "unable to think clearly; bewildered"
+  },
+  "digest": {
+    "p": "/daɪˈdʒest/",
+    "t": "消化；理解",
+    "en": "to break down food; to absorb information"
+  },
+  "accessing": {
+    "p": "/ˈæksesɪŋ/",
+    "t": "访问；获取",
+    "en": "gaining access to or retrieving"
+  },
+  "drowning": {
+    "p": "/ˈdraʊnɪŋ/",
+    "t": "溺水的；淹没的",
+    "en": "dying under water; being overwhelmed"
+  },
+  "offload": {
+    "p": "/ˌɒfˈləʊd/",
+    "t": "卸下；转移",
+    "en": "to get rid of or transfer a burden"
+  },
+  "instruct": {
+    "p": "/ɪnˈstrʌkt/",
+    "t": "指导；指示",
+    "en": "to teach or give directions"
+  },
+  "personalization": {
+    "p": "/ˌpɜːsənəlaɪˈzeɪʃn/",
+    "t": "个性化",
+    "en": "the process of making something suited to an individual"
+  },
+  "tutors": {
+    "p": "/ˈtjuːtəz/",
+    "t": "导师；家教",
+    "en": "people who teach individuals or small groups"
+  },
+  "transactional": {
+    "p": "/trænˈzækʃənl/",
+    "t": "交易型的；事务性的",
+    "en": "relating to exchange or transactions"
+  },
+  "hints": {
+    "p": "/hɪnts/",
+    "t": "提示；暗示",
+    "en": "slight suggestions or clues"
+  },
+  "explanations": {
+    "p": "/ˌekspləˈneɪʃnz/",
+    "t": "解释；说明",
+    "en": "statements that make something clear"
+  },
+  "comparing": {
+    "p": "/kəmˈpeərɪŋ/",
+    "t": "比较",
+    "en": "examining similarities and differences"
+  },
+  "stimulates": {
+    "p": "/ˈstɪmjuleɪts/",
+    "t": "刺激；激发",
+    "en": "encourages activity or development"
+  },
+  "metacognition": {
+    "p": "/ˌmetəkɒɡˈnɪʃn/",
+    "t": "元认知",
+    "en": "awareness and understanding of one's own thought processes"
+  },
+  "echoed": {
+    "p": "/ˈekəʊd/",
+    "t": "回响；附和",
+    "en": "repeated or reflected a sound or idea"
+  },
+  "judging": {
+    "p": "/ˈdʒʌdʒɪŋ/",
+    "t": "判断；评判",
+    "en": "forming an opinion or evaluation"
+  },
+  "skillset": {
+    "p": "/ˈskɪlset/",
+    "t": "技能组合",
+    "en": "a person's range of abilities"
+  },
+  "fluent": {
+    "p": "/ˈfluːənt/",
+    "t": "流利的",
+    "en": "able to express oneself easily and accurately"
+  },
+  "troubled": {
+    "p": "/ˈtrʌbld/",
+    "t": "困扰的；忧虑的",
+    "en": "worried or experiencing problems"
   }
 }
