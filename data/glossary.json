@@ -51293,5 +51293,630 @@
     "p": "/ˈtrʌbld/",
     "t": "困扰的；忧虑的",
     "en": "worried or experiencing problems"
+  },
+  "fitnessobsessed": {
+    "p": "/ˈfɪtnəsəbˌsest/",
+    "t": "痴迷健身的",
+    "en": "obsessed with fitness"
+  },
+  "orangutan": {
+    "p": "/ɔːˈræŋuːtæn/",
+    "t": "猩猩",
+    "en": "a large ape with reddish-brown hair"
+  },
+  "kingdom": {
+    "p": "/ˈkɪŋdəm/",
+    "t": "王国",
+    "en": "a country ruled by a king or queen"
+  },
+  "scowling": {
+    "p": "/ˈskaʊlɪŋ/",
+    "t": "皱眉的",
+    "en": "looking angry or frowning"
+  },
+  "leisurely": {
+    "p": "/ˈleʒəli/",
+    "t": "悠闲地",
+    "en": "acting in a relaxed, unhurried way"
+  },
+  "praying": {
+    "p": "/ˈpreɪɪŋ/",
+    "t": "祈祷",
+    "en": "speaking to a god in worship"
+  },
+  "mantis": {
+    "p": "/ˈmæntɪs/",
+    "t": "螳螂",
+    "en": "an insect that holds its front legs as if praying"
+  },
+  "finalists": {
+    "p": "/ˈfaɪnəlɪsts/",
+    "t": "决赛选手",
+    "en": "competitors in the final round"
+  },
+  "photo": {
+    "p": "/ˈfəʊtəʊ/",
+    "t": "照片",
+    "en": "a picture made with a camera"
+  },
+  "bicycle": {
+    "p": "/ˈbaɪsɪkl/",
+    "t": "自行车",
+    "en": "a two-wheeled vehicle powered by pedals"
+  },
+  "squirrel": {
+    "p": "/ˈskwɪrəl/",
+    "t": "松鼠",
+    "en": "a small bushy-tailed tree rodent"
+  },
+  "redhanded": {
+    "p": "/ˌredˈhændɪd/",
+    "t": "当场（抓获）",
+    "en": "caught in the act of doing something wrong"
+  },
+  "biting": {
+    "p": "/ˈbaɪtɪŋ/",
+    "t": "咬；刺骨的",
+    "en": "cutting with teeth; sharply cold"
+  },
+  "chomp": {
+    "p": "/tʃɒmp/",
+    "t": "大声咀嚼",
+    "en": "to chew noisily"
+  },
+  "mouthful": {
+    "p": "/ˈmaʊθfʊl/",
+    "t": "一口",
+    "en": "the amount of food taken into the mouth at once"
+  },
+  "whitetailed": {
+    "p": "/ˈwaɪtteɪld/",
+    "t": "白尾的",
+    "en": "having a white tail"
+  },
+  "eagle": {
+    "p": "/ˈiːɡl/",
+    "t": "鹰",
+    "en": "a large bird of prey"
+  },
+  "watery": {
+    "p": "/ˈwɔːtəri/",
+    "t": "含水的；湿的",
+    "en": "containing or resembling water"
+  },
+  "photographing": {
+    "p": "/ˈfəʊtəɡrɑːfɪŋ/",
+    "t": "拍照",
+    "en": "taking a photograph of"
+  },
+  "award": {
+    "p": "/əˈwɔːd/",
+    "t": "奖；授予",
+    "en": "a prize given for achievement"
+  },
+  "visual": {
+    "p": "/ˈvɪʒuəl/",
+    "t": "视觉的",
+    "en": "relating to seeing or sight"
+  },
+  "safeguard": {
+    "p": "/ˈseɪfɡɑːd/",
+    "t": "保护",
+    "en": "to protect from harm"
+  },
+  "headwaters": {
+    "p": "/ˈhedwɔːtəz/",
+    "t": "源头（河流上游）",
+    "en": "the source streams of a river"
+  },
+  "scops": {
+    "p": "/skɒps/",
+    "t": "角鸮",
+    "en": "a small owl of the genus Otus"
+  },
+  "touched": {
+    "p": "/tʌtʃt/",
+    "t": "感动；触摸",
+    "en": "moved emotionally; made contact with"
+  },
+  "birders": {
+    "p": "/ˈbɜːdəz/",
+    "t": "观鸟者",
+    "en": "people who watch birds"
+  },
+  "flurry": {
+    "p": "/ˈflʌri/",
+    "t": "一阵（活动或雪）",
+    "en": "a sudden brief burst of activity or snow"
+  },
+  "spadefish": {
+    "p": "/ˈspeɪdfɪʃ/",
+    "t": "白鲳",
+    "en": "a deep-bodied marine fish"
+  },
+  "silhouette": {
+    "p": "/ˌsɪluˈet/",
+    "t": "剪影",
+    "en": "the dark outline of something against light"
+  },
+  "shutter": {
+    "p": "/ˈʃʌtə/",
+    "t": "快门；百叶窗",
+    "en": "a camera's light-controlling device; a window cover"
+  },
+  "spadefishs": {
+    "p": "/ˈspeɪdfɪʃs/",
+    "t": "白鲳（复数）",
+    "en": "plural of spadefish"
+  },
+  "apparent": {
+    "p": "/əˈpærənt/",
+    "t": "明显的",
+    "en": "clearly visible or understood"
+  },
+  "horned": {
+    "p": "/hɔːnd/",
+    "t": "有角的",
+    "en": "having horns"
+  },
+  "snapping": {
+    "p": "/ˈsnæpɪŋ/",
+    "t": "猛咬；拍快照",
+    "en": "biting suddenly; taking quick photos"
+  },
+  "midflight": {
+    "p": "/ˌmɪdˈflaɪt/",
+    "t": "飞行途中",
+    "en": "during flight"
+  },
+  "owlet": {
+    "p": "/ˈaʊlɪt/",
+    "t": "幼鸮",
+    "en": "a small or young owl"
+  },
+  "unharmed": {
+    "p": "/ʌnˈhɑːmd/",
+    "t": "未受伤的",
+    "en": "not injured"
+  },
+  "meerkats": {
+    "p": "/ˈmɪəkæts/",
+    "t": "狐獴",
+    "en": "small burrowing mammals of southern Africa"
+  },
+  "portrait": {
+    "p": "/ˈpɔːtrət/",
+    "t": "肖像",
+    "en": "a picture of a person"
+  },
+  "accustomed": {
+    "p": "/əˈkʌstəmd/",
+    "t": "习惯的",
+    "en": "familiar with or used to"
+  },
+  "grooming": {
+    "p": "/ˈɡruːmɪŋ/",
+    "t": "梳理（毛发）",
+    "en": "cleaning the fur or appearance"
+  },
+  "inspections": {
+    "p": "/ɪnˈspekʃənz/",
+    "t": "检查",
+    "en": "careful examinations"
+  },
+  "endangered": {
+    "p": "/ɪnˈdeɪndʒəd/",
+    "t": "濒危的",
+    "en": "at risk of extinction"
+  },
+  "orangutans": {
+    "p": "/ɔːˈræŋuːtænz/",
+    "t": "猩猩（复数）",
+    "en": "plural of orangutan"
+  },
+  "teenage": {
+    "p": "/ˈtiːneɪdʒ/",
+    "t": "青少年的",
+    "en": "relating to people aged 13 to 19"
+  },
+  "playfully": {
+    "p": "/ˈpleɪfəli/",
+    "t": "顽皮地",
+    "en": "in a fun, lighthearted manner"
+  },
+  "sparring": {
+    "p": "/ˈspɑːrɪŋ/",
+    "t": "（拳击）对打；争论",
+    "en": "boxing practice; arguing"
+  },
+  "facial": {
+    "p": "/ˈfeɪʃl/",
+    "t": "面部的",
+    "en": "relating to the face"
+  },
+  "expressions": {
+    "p": "/ɪkˈspreʃənz/",
+    "t": "表情；表达",
+    "en": "looks on the face showing feelings"
+  },
+  "smiles": {
+    "p": "/smaɪlz/",
+    "t": "微笑",
+    "en": "happy facial expressions"
+  },
+  "eugenicsy": {
+    "p": "/juːˈdʒenɪksi/",
+    "t": "优生学的（形容词变体）",
+    "en": "relating to or characteristic of eugenics"
+  },
+  "superbabies": {
+    "p": "/ˈsuːpəbeɪbiz/",
+    "t": "超级婴儿",
+    "en": "babies with genetically enhanced traits"
+  },
+  "luckily": {
+    "p": "/ˈlʌkɪli/",
+    "t": "幸运地",
+    "en": "by good fortune"
+  },
+  "embryos": {
+    "p": "/ˈembriəʊz/",
+    "t": "胚胎（复数）",
+    "en": "developing organisms in early stages"
+  },
+  "implanted": {
+    "p": "/ɪmˈplɑːntɪd/",
+    "t": "植入的",
+    "en": "inserted into tissue or a body"
+  },
+  "embryo": {
+    "p": "/ˈembriəʊ/",
+    "t": "胚胎",
+    "en": "an organism in its early developmental stage"
+  },
+  "whichever": {
+    "p": "/wɪtʃˈevə/",
+    "t": "无论哪个",
+    "en": "any one of a set, regardless of which"
+  },
+  "tinkering": {
+    "p": "/ˈtɪŋkərɪŋ/",
+    "t": "修修补补",
+    "en": "making small experimental changes"
+  },
+  "overmedicalizing": {
+    "p": "/ˌəʊvəˈmedɪkəlaɪzɪŋ/",
+    "t": "过度医疗化",
+    "en": "treating normal conditions as medical problems"
+  },
+  "newer": {
+    "p": "/ˈnjuːə/",
+    "t": "更新的",
+    "en": "more recent"
+  },
+  "polygenic": {
+    "p": "/ˌpɒliˈdʒenɪk/",
+    "t": "多基因的",
+    "en": "relating to or determined by many genes"
+  },
+  "screens": {
+    "p": "/skriːnz/",
+    "t": "筛查（复数/动词）",
+    "en": "tests or examinations for disease or traits"
+  },
+  "screenings": {
+    "p": "/ˈskriːnɪŋz/",
+    "t": "筛查（复数）",
+    "en": "medical tests to detect conditions"
+  },
+  "enhancement": {
+    "p": "/ɪnˈhɑːnsmənt/",
+    "t": "增强",
+    "en": "the act of improving or augmenting"
+  },
+  "taller": {
+    "p": "/ˈtɔːlə/",
+    "t": "更高的",
+    "en": "of greater height"
+  },
+  "misled": {
+    "p": "/ˌmɪsˈled/",
+    "t": "误导了",
+    "en": "led to a wrong conclusion or belief"
+  },
+  "prediabetes": {
+    "p": "/ˌpriːdaɪəˈbiːtiːz/",
+    "t": "糖尿病前期",
+    "en": "a condition preceding type 2 diabetes"
+  },
+  "overstate": {
+    "p": "/ˌəʊvəˈsteɪt/",
+    "t": "夸大",
+    "en": "to exaggerate or express too strongly"
+  },
+  "straightforwardly": {
+    "p": "/ˌstreɪtˈfɔːwədli/",
+    "t": "直截了当地",
+    "en": "in a direct and uncomplicated manner"
+  },
+  "manifestations": {
+    "p": "/ˌmænɪfeˈsteɪʃənz/",
+    "t": "表现（复数）",
+    "en": "visible forms or signs of something"
+  },
+  "extremes": {
+    "p": "/ɪkˈstriːmz/",
+    "t": "极端（复数）",
+    "en": "the most distant or intense points"
+  },
+  "continuous": {
+    "p": "/kənˈtɪnjuəs/",
+    "t": "连续的",
+    "en": "forming an unbroken whole; without interruption"
+  },
+  "tendencies": {
+    "p": "/ˈtendənsiz/",
+    "t": "倾向（复数）",
+    "en": "inclinations or predispositions"
+  },
+  "creativity": {
+    "p": "/ˌkriːeɪˈtɪvəti/",
+    "t": "创造力",
+    "en": "the use of imagination or original ideas"
+  },
+  "propels": {
+    "p": "/prəˈpelz/",
+    "t": "推动",
+    "en": "drives or pushes forward"
+  },
+  "pleiotropy": {
+    "p": "/plaɪˈɒtrəpi/",
+    "t": "基因多效性",
+    "en": "one gene affecting multiple traits"
+  },
+  "correlated": {
+    "p": "/ˈkɒrəleɪtɪd/",
+    "t": "相关的",
+    "en": "having a mutual relationship"
+  },
+  "iceberg": {
+    "p": "/ˈaɪsbɜːɡ/",
+    "t": "冰山",
+    "en": "a large floating mass of ice; a small visible part of a larger issue"
+  },
+  "commodifying": {
+    "p": "/kəˈmɒdɪfaɪɪŋ/",
+    "t": "商品化",
+    "en": "treating something as a commodity"
+  },
+  "selectable": {
+    "p": "/sɪˈlektəbl/",
+    "t": "可选择的",
+    "en": "able to be chosen or selected"
+  },
+  "grows": {
+    "p": "/ɡrəʊz/",
+    "t": "增长",
+    "en": "increases in size or amount"
+  },
+  "conforming": {
+    "p": "/kənˈfɔːmɪŋ/",
+    "t": "遵从不违",
+    "en": "complying with rules or standards"
+  },
+  "unequal": {
+    "p": "/ˌʌnˈiːkwəl/",
+    "t": "不平等的",
+    "en": "not equal in status or opportunity"
+  },
+  "specter": {
+    "p": "/ˈspektə/",
+    "t": "幽灵；恐惧",
+    "en": "a ghost; a haunting threat"
+  },
+  "entrenching": {
+    "p": "/ɪnˈtrentʃɪŋ/",
+    "t": "根深蒂固的",
+    "en": "establishing firmly and making hard to change"
+  },
+  "caste": {
+    "p": "/kɑːst/",
+    "t": "种姓",
+    "en": "a rigid social class system"
+  },
+  "expands": {
+    "p": "/ɪkˈspændz/",
+    "t": "扩大",
+    "en": "becomes larger or more extensive"
+  },
+  "condemnation": {
+    "p": "/ˌkɒndemˈneɪʃən/",
+    "t": "谴责",
+    "en": "strong disapproval or criticism"
+  },
+  "suboptimal": {
+    "p": "/ˌsʌbˈɒptɪməl/",
+    "t": "次优的",
+    "en": "below the best possible standard"
+  },
+  "optimization": {
+    "p": "/ˌɒptɪmaɪˈzeɪʃən/",
+    "t": "优化",
+    "en": "the process of making something as effective as possible"
+  },
+  "accommodations": {
+    "p": "/əˌkɒməˈdeɪʃənz/",
+    "t": "便利设施；调整",
+    "en": "adjustments or facilities to meet needs"
+  },
+  "disabilities": {
+    "p": "/ˌdɪsəˈbɪlətiz/",
+    "t": "残疾（复数）",
+    "en": "conditions limiting physical or mental abilities"
+  },
+  "nonenhanced": {
+    "p": "/ˌnɒnɪnˈhɑːnst/",
+    "t": "未增强的",
+    "en": "not genetically or otherwise improved"
+  },
+  "utilitarians": {
+    "p": "/ˌjuːtɪlɪˈteəriənz/",
+    "t": "功利主义者（复数）",
+    "en": "those who believe in the greatest good for the greatest number"
+  },
+  "maximizes": {
+    "p": "/ˈmæksɪmaɪzɪz/",
+    "t": "最大化",
+    "en": "makes as large or effective as possible"
+  },
+  "maximizing": {
+    "p": "/ˈmæksɪmaɪzɪŋ/",
+    "t": "最大化",
+    "en": "making as large or effective as possible"
+  },
+  "laserfocused": {
+    "p": "/ˈleɪzəˌfəʊkəst/",
+    "t": "极度专注的",
+    "en": "extremely focused on a single goal"
+  },
+  "noble": {
+    "p": "/ˈnəʊbl/",
+    "t": "高尚的",
+    "en": "having or showing fine personal qualities"
+  },
+  "schizophrenia": {
+    "p": "/ˌskɪtsəˈfriːniə/",
+    "t": "精神分裂症",
+    "en": "a severe mental disorder"
+  },
+  "dizzying": {
+    "p": "/ˈdɪziɪŋ/",
+    "t": "令人眼花缭乱的",
+    "en": "causing confusion or amazement"
+  },
+  "patientreported": {
+    "p": "/ˈpeɪʃənt rɪˌpɔːtɪd/",
+    "t": "患者报告的",
+    "en": "reported by the patient rather than measured objectively"
+  },
+  "optimizing": {
+    "p": "/ˈɒptɪmaɪzɪŋ/",
+    "t": "优化",
+    "en": "making something as effective as possible"
+  },
+  "laureate": {
+    "p": "/ˈlɒriət/",
+    "t": "获奖者",
+    "en": "a person awarded a prize for achievement"
+  },
+  "feasible": {
+    "p": "/ˈfiːzəbl/",
+    "t": "可行的",
+    "en": "possible to do easily or conveniently"
+  },
+  "desirable": {
+    "p": "/dɪˈzaɪərəbl/",
+    "t": "可取的",
+    "en": "worth having or wanting"
+  },
+  "satisficing": {
+    "p": "/ˈsætɪsfaɪsɪŋ/",
+    "t": "满意化决策",
+    "en": "choosing an adequate option rather than the optimal one"
+  },
+  "portmanteau": {
+    "p": "/pɔːtˈmæntəʊ/",
+    "t": "混成词",
+    "en": "a word blending the sounds of two others"
+  },
+  "sufficing": {
+    "p": "/səˈfaɪsɪŋ/",
+    "t": "足够",
+    "en": "being enough or adequate"
+  },
+  "markedly": {
+    "p": "/ˈmɑːkɪdli/",
+    "t": "显著地",
+    "en": "in a noticeable and significant way"
+  },
+  "constructs": {
+    "p": "/ˈkɒnstrʌkts/",
+    "t": "概念构念（复数）",
+    "en": "abstract ideas or theoretical concepts"
+  },
+  "optimized": {
+    "p": "/ˈɒptɪmaɪzd/",
+    "t": "优化的",
+    "en": "made as effective or perfect as possible"
+  },
+  "boiled": {
+    "p": "/bɔɪld/",
+    "t": "简化的；煮沸的",
+    "en": "reduced to a simple form; heated to boiling"
+  },
+  "objective": {
+    "p": "/əbˈdʒektɪv/",
+    "t": "客观的",
+    "en": "not influenced by personal feelings; unbiased"
+  },
+  "manageable": {
+    "p": "/ˈmænɪdʒəbl/",
+    "t": "可管理的",
+    "en": "able to be handled or controlled"
+  },
+  "crushingly": {
+    "p": "/ˈkrʌʃɪŋli/",
+    "t": "压倒性地",
+    "en": "in an overwhelming or devastating manner"
+  },
+  "shamed": {
+    "p": "/ʃeɪmd/",
+    "t": "使感到羞耻",
+    "en": "made to feel shame"
+  },
+  "preys": {
+    "p": "/preɪz/",
+    "t": "捕食；折磨",
+    "en": "hunts and kills for food; exploits"
+  },
+  "pretending": {
+    "p": "/prɪˈtendɪŋ/",
+    "t": "假装",
+    "en": "acting as if something is true when it is not"
+  },
+  "weigh": {
+    "p": "/weɪ/",
+    "t": "权衡",
+    "en": "consider carefully; measure weight"
+  },
+  "execs": {
+    "p": "/ɪɡˈzekjʊtɪvz/",
+    "t": "高管（复数）",
+    "en": "executives; senior managers"
+  },
+  "supersmart": {
+    "p": "/ˈsuːpəsmɑːt/",
+    "t": "超级聪明的",
+    "en": "extremely intelligent"
+  },
+  "cancels": {
+    "p": "/ˈkænslz/",
+    "t": "取消",
+    "en": "decides that something will not happen"
+  },
+  "prenatal": {
+    "p": "/ˌpriːˈneɪtl/",
+    "t": "产前的",
+    "en": "before birth"
+  },
+  "bogeyman": {
+    "p": "/ˈbəʊɡimæn/",
+    "t": "可怕的假想敌",
+    "en": "an imaginary evil figure used to frighten"
+  },
+  "expectant": {
+    "p": "/ɪkˈspektənt/",
+    "t": "期待的；怀孕的",
+    "en": "hopeful; pregnant"
   }
 }
