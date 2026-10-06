@@ -51918,5 +51918,355 @@
     "p": "/ɪkˈspektənt/",
     "t": "期待的；怀孕的",
     "en": "hopeful; pregnant"
+  },
+  "necks": {
+    "p": "/neks/",
+    "t": "脖子（复数）",
+    "en": "plural of neck; the part of the body connecting head and torso"
+  },
+  "upright": {
+    "p": "/ˈʌpraɪt/",
+    "t": "直立的，垂直的",
+    "en": "vertical; erect in posture"
+  },
+  "pounds": {
+    "p": "/paʊndz/",
+    "t": "磅（复数）；猛击",
+    "en": "plural of pound; units of weight, or hits heavily"
+  },
+  "neurosurgeon": {
+    "p": "/ˌnjʊərəʊˈsɜːdʒən/",
+    "t": "神经外科医生",
+    "en": "a surgeon specializing in the nervous system"
+  },
+  "hunched": {
+    "p": "/hʌntʃt/",
+    "t": "弓着背的",
+    "en": "bent forward with the back curved"
+  },
+  "stoop": {
+    "p": "/stuːp/",
+    "t": "弯腰，驼背",
+    "en": "to bend the body forward and downward"
+  },
+  "laptops": {
+    "p": "/ˈlæptɒps/",
+    "t": "笔记本电脑（复数）",
+    "en": "plural of laptop; portable computers"
+  },
+  "smartphones": {
+    "p": "/ˈsmɑːtfəʊnz/",
+    "t": "智能手机（复数）",
+    "en": "plural of smartphone; mobile phones with advanced features"
+  },
+  "downwardlooking": {
+    "p": "/ˈdaʊnwədˌlʊkɪŋ/",
+    "t": "向下看的",
+    "en": "looking downward"
+  },
+  "consequence": {
+    "p": "/ˈkɒnsɪkwəns/",
+    "t": "后果，结果",
+    "en": "a result or effect of an action"
+  },
+  "musculoskeletal": {
+    "p": "/ˌmʌskjʊləʊˈskelɪtl/",
+    "t": "肌肉骨骼的",
+    "en": "relating to muscles and skeleton"
+  },
+  "elasticity": {
+    "p": "/ˌiːlæˈstɪsəti/",
+    "t": "弹性",
+    "en": "the quality of being elastic; flexibility"
+  },
+  "stiffness": {
+    "p": "/ˈstɪfnəs/",
+    "t": "僵硬",
+    "en": "the quality of being stiff; rigidity"
+  },
+  "discs": {
+    "p": "/dɪsks/",
+    "t": "椎间盘（复数）；圆盘",
+    "en": "plural of disc; flat circular objects, esp. spinal discs"
+  },
+  "cushions": {
+    "p": "/ˈkʊʃnz/",
+    "t": "垫子；缓冲（复数）",
+    "en": "plural of cushion; soft pads that absorb shock"
+  },
+  "vertebrae": {
+    "p": "/ˈvɜːtɪbreɪ/",
+    "t": "椎骨（复数）",
+    "en": "plural of vertebra; bones of the spine"
+  },
+  "thicken": {
+    "p": "/ˈθɪkən/",
+    "t": "变厚，加厚",
+    "en": "to make or become thick"
+  },
+  "stiff": {
+    "p": "/stɪf/",
+    "t": "僵硬的",
+    "en": "not easily bent; rigid"
+  },
+  "flexed": {
+    "p": "/flekst/",
+    "t": "弯曲的",
+    "en": "bent, as a joint or limb"
+  },
+  "posture": {
+    "p": "/ˈpɒstʃə/",
+    "t": "姿势，体态",
+    "en": "the position of the body"
+  },
+  "rounds": {
+    "p": "/raʊndz/",
+    "t": "圆形的；巡诊（复数）",
+    "en": "plural of round; circular shapes or routine visits"
+  },
+  "hunch": {
+    "p": "/hʌntʃ/",
+    "t": "弓起，耸肩",
+    "en": "to bend or arch forward"
+  },
+  "aligning": {
+    "p": "/əˈlaɪnɪŋ/",
+    "t": "使对齐",
+    "en": "placing in a straight line"
+  },
+  "lifetime": {
+    "p": "/ˈlaɪftaɪm/",
+    "t": "一生，终生",
+    "en": "the duration of a person's life"
+  },
+  "backrelated": {
+    "p": "/ˈbækrɪleɪtɪd/",
+    "t": "与背部相关的",
+    "en": "related to the back"
+  },
+  "prevalence": {
+    "p": "/ˈprevələns/",
+    "t": "流行程度，普遍性",
+    "en": "the fact of being common or widespread"
+  },
+  "scoliosis": {
+    "p": "/ˌskɒliˈəʊsɪs/",
+    "t": "脊柱侧弯",
+    "en": "abnormal lateral curvature of the spine"
+  },
+  "chairs": {
+    "p": "/tʃeəz/",
+    "t": "椅子（复数）",
+    "en": "plural of chair; seats for one person"
+  },
+  "ergonomic": {
+    "p": "/ˌɜːɡəˈnɒmɪk/",
+    "t": "人体工学的",
+    "en": "designed for efficiency and comfort in the working environment"
+  },
+  "consult": {
+    "p": "/kənˈsʌlt/",
+    "t": "咨询，请教",
+    "en": "to seek advice or information from"
+  },
+  "rounding": {
+    "p": "/ˈraʊndɪŋ/",
+    "t": "使变圆；拱起",
+    "en": "making round or curving"
+  },
+  "twisted": {
+    "p": "/ˈtwɪstɪd/",
+    "t": "扭曲的",
+    "en": "bent or turned out of shape"
+  },
+  "tilted": {
+    "p": "/ˈtɪltɪd/",
+    "t": "倾斜的",
+    "en": "sloping or leaning"
+  },
+  "corrected": {
+    "p": "/kəˈrektɪd/",
+    "t": "纠正的",
+    "en": "put right; rectified"
+  },
+  "lengthen": {
+    "p": "/ˈleŋθən/",
+    "t": "加长，延长",
+    "en": "to make or become longer"
+  },
+  "peach": {
+    "p": "/piːtʃ/",
+    "t": "桃子",
+    "en": "a round juicy fruit with a fuzzy skin"
+  },
+  "squash": {
+    "p": "/skwɒʃ/",
+    "t": "压扁；南瓜",
+    "en": "to crush or squeeze; a gourd vegetable"
+  },
+  "tucking": {
+    "p": "/ˈtʌkɪŋ/",
+    "t": "塞入，收起",
+    "en": "pushing or folding into a confined space"
+  },
+  "blades": {
+    "p": "/bleɪdz/",
+    "t": "肩胛骨；刀片（复数）",
+    "en": "plural of blade; flat bones or cutting parts"
+  },
+  "centrally": {
+    "p": "/ˈsentrəli/",
+    "t": "在中心地",
+    "en": "in a central position"
+  },
+  "tummy": {
+    "p": "/ˈtʌmi/",
+    "t": "肚子",
+    "en": "informal for stomach or abdomen"
+  },
+  "curve": {
+    "p": "/kɜːv/",
+    "t": "曲线，弯曲",
+    "en": "a continuously bending line"
+  },
+  "slanted": {
+    "p": "/ˈslɑːntɪd/",
+    "t": "倾斜的",
+    "en": "sloping; at an angle"
+  },
+  "desks": {
+    "p": "/desks/",
+    "t": "书桌（复数）",
+    "en": "plural of desk; tables for writing or working"
+  },
+  "poring": {
+    "p": "/ˈpɔːrɪŋ/",
+    "t": "专心阅读",
+    "en": "studying or reading intently"
+  },
+  "manuscripts": {
+    "p": "/ˈmænjuskrɪpts/",
+    "t": "手稿（复数）",
+    "en": "plural of manuscript; handwritten or unpublished documents"
+  },
+  "depictions": {
+    "p": "/dɪˈpɪkʃnz/",
+    "t": "描绘（复数）",
+    "en": "plural of depiction; representations in art or words"
+  },
+  "lecterns": {
+    "p": "/ˈlektənz/",
+    "t": "讲台（复数）",
+    "en": "plural of lectern; stands for holding a book while reading"
+  },
+  "angled": {
+    "p": "/ˈæŋɡld/",
+    "t": "成角度的",
+    "en": "placed at an angle"
+  },
+  "quills": {
+    "p": "/kwɪlz/",
+    "t": "羽毛笔（复数）",
+    "en": "plural of quill; pens made from feathers"
+  },
+  "dipped": {
+    "p": "/dɪpt/",
+    "t": "浸，蘸",
+    "en": "put briefly into a liquid"
+  },
+  "blotch": {
+    "p": "/blɒtʃ/",
+    "t": "斑点，污渍",
+    "en": "a large irregular spot or stain"
+  },
+  "typewriters": {
+    "p": "/ˈtaɪpraɪtəz/",
+    "t": "打字机（复数）",
+    "en": "plural of typewriter; machines for typing text"
+  },
+  "endurance": {
+    "p": "/ɪnˈdjʊərəns/",
+    "t": "耐力，忍耐力",
+    "en": "the ability to endure; stamina"
+  },
+  "contributes": {
+    "p": "/kənˈtrɪbjuːts/",
+    "t": "贡献，促成",
+    "en": "gives or adds to something"
+  },
+  "chest": {
+    "p": "/tʃest/",
+    "t": "胸部",
+    "en": "the front part of the body between neck and abdomen"
+  },
+  "headrest": {
+    "p": "/ˈhedrest/",
+    "t": "头枕",
+    "en": "a support for the head"
+  },
+  "elastic": {
+    "p": "/ɪˈlæstɪk/",
+    "t": "有弹性的",
+    "en": "able to stretch and return to shape"
+  },
+  "repeating": {
+    "p": "/rɪˈpiːtɪŋ/",
+    "t": "重复的",
+    "en": "happening or done again"
+  },
+  "stcentury": {
+    "p": "/ˌesˈtiː ˈsentʃəri/",
+    "t": "（缩写）世纪",
+    "en": "abbreviation for a numbered century (e.g. 21st century)"
+  },
+  "bribe": {
+    "p": "/braɪb/",
+    "t": "贿赂",
+    "en": "a sum of money or gift given to persuade someone to act dishonestly"
+  },
+  "nonrecurring": {
+    "p": "/ˌnɒnrɪˈkɜːrɪŋ/",
+    "t": "非经常性的",
+    "en": "not occurring repeatedly; happening only once"
+  },
+  "redirect": {
+    "p": "/ˌriːdəˈrekt/",
+    "t": "使改变方向；重定向",
+    "en": "to send in a new direction or to a different destination"
+  },
+  "refunds": {
+    "p": "/ˈriːfʌndz/",
+    "t": "退款",
+    "en": "sums of money returned to a buyer"
+  },
+  "reelect": {
+    "p": "/ˌriːɪˈlekt/",
+    "t": "再次选举",
+    "en": "to elect again to the same position"
+  },
+  "continuing": {
+    "p": "/kənˈtɪnjuɪŋ/",
+    "t": "持续的；继续的",
+    "en": "ongoing; persisting without interruption"
+  },
+  "propagandistic": {
+    "p": "/ˌprɒpəɡænˈdɪstɪk/",
+    "t": "宣传的；带有宣传性质的",
+    "en": "relating to or characteristic of propaganda"
+  },
+  "partial": {
+    "p": "/ˈpɑːʃl/",
+    "t": "部分的；偏袒的",
+    "en": "existing only in part; favoring one side over another"
+  },
+  "transcript": {
+    "p": "/ˈtrænskrɪpt/",
+    "t": "文字记录；成绩单",
+    "en": "a written or printed version of material originally presented in another form"
+  },
+  "socialism": {
+    "p": "/ˈsəʊʃəlɪzəm/",
+    "t": "社会主义",
+    "en": "a political and economic theory advocating collective or state ownership of the means of production"
   }
 }
