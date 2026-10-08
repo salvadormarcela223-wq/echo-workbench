@@ -52563,5 +52563,450 @@
     "p": "/ˈtɔːlɪst/",
     "t": "最高的",
     "en": "superlative of tall; having the greatest height"
+  },
+  "technician": {
+    "p": "/tekˈnɪʃn/",
+    "t": "技术员，技师",
+    "en": "a person skilled in the practical aspects of a particular field"
+  },
+  "eerily": {
+    "p": "/ˈɪərəli/",
+    "t": "怪异地，神秘地",
+    "en": "in a strange and frightening manner"
+  },
+  "undetermined": {
+    "p": "/ˌʌndɪˈtɜːmɪnd/",
+    "t": "未确定的，未解决的",
+    "en": "not yet established or decided"
+  },
+  "speculation": {
+    "p": "/ˌspekjuˈleɪʃn/",
+    "t": "猜测，推测",
+    "en": "the forming of a theory without firm evidence"
+  },
+  "pneumonialike": {
+    "p": "/njuːˈməʊniəlaɪk/",
+    "t": "类似肺炎的",
+    "en": "resembling pneumonia"
+  },
+  "endemic": {
+    "p": "/enˈdemɪk/",
+    "t": "地方性的，特有的",
+    "en": "regularly found among particular people or in a certain area"
+  },
+  "septicaemic": {
+    "p": "/ˌseptɪˈsiːmɪk/",
+    "t": "败血病的",
+    "en": "relating to blood poisoning caused by bacteria"
+  },
+  "variant": {
+    "p": "/ˈveəriənt/",
+    "t": "变体，变异株",
+    "en": "a form or version that differs from others"
+  },
+  "lymph": {
+    "p": "/lɪmf/",
+    "t": "淋巴",
+    "en": "a colourless fluid containing white blood cells"
+  },
+  "nodes": {
+    "p": "/nəʊdz/",
+    "t": "结节，淋巴结",
+    "en": "small masses of tissue, especially lymph nodes"
+  },
+  "sores": {
+    "p": "/sɔːz/",
+    "t": "溃疡，疮",
+    "en": "painful places on the body where the skin is broken"
+  },
+  "buboes": {
+    "p": "/ˈbjuːbəʊz/",
+    "t": "腹股沟淋巴结炎",
+    "en": "swollen inflamed lymph nodes, especially in the groin or armpit"
+  },
+  "groin": {
+    "p": "/ɡrɔɪn/",
+    "t": "腹股沟",
+    "en": "the area between the abdomen and the thigh"
+  },
+  "armpits": {
+    "p": "/ˈɑːmpɪts/",
+    "t": "腋窝",
+    "en": "the hollow under the arm at the shoulder"
+  },
+  "coughs": {
+    "p": "/kɒfs/",
+    "t": "咳嗽",
+    "en": "acts of expelling air from the lungs suddenly and noisily"
+  },
+  "sneezes": {
+    "p": "/sniːzɪz/",
+    "t": "喷嚏",
+    "en": "sudden involuntary expulsions of air from the nose and mouth"
+  },
+  "newly": {
+    "p": "/ˈnjuːli/",
+    "t": "新近地，最近",
+    "en": "recently or just before"
+  },
+  "importing": {
+    "p": "/ɪmˈpɔːtɪŋ/",
+    "t": "进口，输入",
+    "en": "bringing goods or something into a country"
+  },
+  "flour": {
+    "p": "/ˈflaʊə/",
+    "t": "面粉",
+    "en": "powder obtained by grinding grain, used to make bread"
+  },
+  "povertyrelated": {
+    "p": "/ˈpɒvəti rɪleɪtɪd/",
+    "t": "与贫困相关的",
+    "en": "connected with or caused by poverty"
+  },
+  "tracing": {
+    "p": "/ˈtreɪsɪŋ/",
+    "t": "追踪，溯源",
+    "en": "the act of finding or tracking something or someone"
+  },
+  "contacts": {
+    "p": "/ˈkɒntækts/",
+    "t": "接触者，联系",
+    "en": "people who have been in touch with an infected person"
+  },
+  "hospitals": {
+    "p": "/ˈhɒspɪtlz/",
+    "t": "医院",
+    "en": "institutions providing medical treatment"
+  },
+  "sourcing": {
+    "p": "/ˈsɔːsɪŋ/",
+    "t": "采购，获取来源",
+    "en": "obtaining something from a particular place"
+  },
+  "corpses": {
+    "p": "/ˈkɔːpsɪz/",
+    "t": "尸体",
+    "en": "dead bodies of human beings"
+  },
+  "enemies": {
+    "p": "/ˈenəmiz/",
+    "t": "敌人",
+    "en": "people who are hostile to or oppose another"
+  },
+  "civilians": {
+    "p": "/səˈvɪliənz/",
+    "t": "平民",
+    "en": "people not in the armed forces"
+  },
+  "randomised": {
+    "p": "/ˈrændəmaɪzd/",
+    "t": "随机的，随机化的",
+    "en": "arranged in a random order, especially in a trial"
+  },
+  "ciprofloxacin": {
+    "p": "/ˌsɪprəʊˈflɒksəsɪn/",
+    "t": "环丙沙星",
+    "en": "a broad-spectrum antibiotic used to treat various infections"
+  },
+  "injectable": {
+    "p": "/ɪnˈdʒektəbl/",
+    "t": "可注射的",
+    "en": "capable of being administered by injection"
+  },
+  "aminoglycoside": {
+    "p": "/əˌmiːnəʊˈɡlaɪkəsaɪd/",
+    "t": "氨基糖苷类",
+    "en": "a class of antibiotics used to treat bacterial infections"
+  },
+  "monitored": {
+    "p": "/ˈmɒnɪtəd/",
+    "t": "监测的，监控的",
+    "en": "observed and checked over a period of time"
+  },
+  "quarantined": {
+    "p": "/ˈkwɒrəntiːnd/",
+    "t": "被隔离的",
+    "en": "kept in isolation to prevent the spread of disease"
+  },
+  "biosafety": {
+    "p": "/ˌbaɪəʊˈseɪfti/",
+    "t": "生物安全",
+    "en": "the protection of people and the environment from biological hazards"
+  },
+  "cabinets": {
+    "p": "/ˈkæbɪnəts/",
+    "t": "橱柜，安全柜",
+    "en": "pieces of furniture or equipment with shelves or drawers"
+  },
+  "inwards": {
+    "p": "/ˈɪnwədz/",
+    "t": "向内",
+    "en": "towards the inside"
+  },
+  "cabinet": {
+    "p": "/ˈkæbɪnət/",
+    "t": "橱柜，柜子",
+    "en": "a piece of furniture with shelves or drawers"
+  },
+  "transporting": {
+    "p": "/trænˈspɔːtɪŋ/",
+    "t": "运输，运送",
+    "en": "carrying or moving from one place to another"
+  },
+  "housed": {
+    "p": "/haʊzd/",
+    "t": "被安置的，收容的",
+    "en": "provided with accommodation or shelter"
+  },
+  "containment": {
+    "p": "/kənˈteɪnmənt/",
+    "t": "遏制，控制",
+    "en": "the action of keeping something harmful under control"
+  },
+  "undergo": {
+    "p": "/ˌʌndəˈɡəʊ/",
+    "t": "经历，接受",
+    "en": "to experience or be subjected to something"
+  },
+  "vigorous": {
+    "p": "/ˈvɪɡərəs/",
+    "t": "强有力的，剧烈的",
+    "en": "strong, healthy, and full of energy"
+  },
+  "laboratories": {
+    "p": "/ləˈbɒrətriz/",
+    "t": "实验室",
+    "en": "rooms or buildings equipped for scientific experiments"
+  },
+  "littered": {
+    "p": "/ˈlɪtəd/",
+    "t": "散落着，布满",
+    "en": "scattered with untidy objects"
+  },
+  "diseasebearing": {
+    "p": "/dɪˈziːz beərɪŋ/",
+    "t": "携带疾病的",
+    "en": "carrying or transmitting disease"
+  },
+  "traders": {
+    "p": "/ˈtreɪdəz/",
+    "t": "商人，交易者",
+    "en": "people who buy and sell goods"
+  },
+  "cramped": {
+    "p": "/kræmpt/",
+    "t": "狭窄的，拥挤的",
+    "en": "uncomfortably small or restricted in space"
+  },
+  "rewired": {
+    "p": "/ˌriːˈwaɪəd/",
+    "t": "重新接线的",
+    "en": "fitted with new electrical wiring"
+  },
+  "quirk": {
+    "p": "/kwɜːk/",
+    "t": "怪癖，奇特之处",
+    "en": "a peculiar habit or characteristic"
+  },
+  "norovirus": {
+    "p": "/ˈnɔːrəʊvaɪrəs/",
+    "t": "诺如病毒",
+    "en": "a virus that causes gastroenteritis"
+  },
+  "rodent": {
+    "p": "/ˈrəʊdnt/",
+    "t": "啮齿动物",
+    "en": "a mammal with gnawing teeth, such as a rat or mouse"
+  },
+  "forget": {
+    "p": "/fəˈɡet/",
+    "t": "忘记",
+    "en": "to fail to remember"
+  },
+  "festival": {
+    "p": "/ˈfestɪvl/",
+    "t": "节日；节庆",
+    "en": "a day or period of celebration"
+  },
+  "marking": {
+    "p": "/ˈmɑːkɪŋ/",
+    "t": "标记；标志",
+    "en": "a mark or marks made on something"
+  },
+  "installation": {
+    "p": "/ˌɪnstəˈleɪʃn/",
+    "t": "安装；装置",
+    "en": "the act of installing or something installed"
+  },
+  "commemorated": {
+    "p": "/kəˈmeməreɪtɪd/",
+    "t": "纪念",
+    "en": "remembered and honored solemnly"
+  },
+  "hostages": {
+    "p": "/ˈhɒstɪdʒɪz/",
+    "t": "人质",
+    "en": "people held captive as security"
+  },
+  "deceased": {
+    "p": "/dɪˈsiːst/",
+    "t": "已故的；死者",
+    "en": "dead; a dead person"
+  },
+  "captive": {
+    "p": "/ˈkæptɪv/",
+    "t": "俘虏；被俘的",
+    "en": "a person held prisoner; kept in confinement"
+  },
+  "undoing": {
+    "p": "/ʌnˈduːɪŋ/",
+    "t": "毁灭；祸根",
+    "en": "a cause of ruin or downfall"
+  },
+  "deadliest": {
+    "p": "/ˈdedliest/",
+    "t": "最致命的",
+    "en": "most causing death"
+  },
+  "massacre": {
+    "p": "/ˈmæsəkə(r)/",
+    "t": "屠杀",
+    "en": "the killing of many people"
+  },
+  "retaliatory": {
+    "p": "/rɪˈtæliətri/",
+    "t": "报复性的",
+    "en": "done in return for an injury"
+  },
+  "horrors": {
+    "p": "/ˈhɒrəz/",
+    "t": "恐怖；惨状",
+    "en": "intense feelings of fear or shock"
+  },
+  "unforeseeable": {
+    "p": "/ˌʌnfɔːˈsiːəbl/",
+    "t": "无法预见的",
+    "en": "unable to be predicted"
+  },
+  "predicting": {
+    "p": "/prɪˈdɪktɪŋ/",
+    "t": "预测",
+    "en": "saying what will happen in the future"
+  },
+  "rubble": {
+    "p": "/ˈrʌbl/",
+    "t": "瓦砾",
+    "en": "broken stones or bricks from ruins"
+  },
+  "displaced": {
+    "p": "/dɪsˈpleɪst/",
+    "t": "流离失所的",
+    "en": "forced to leave one's home"
+  },
+  "makeshift": {
+    "p": "/ˈmeɪkʃɪft/",
+    "t": "临时的；凑合的",
+    "en": "used as a temporary substitute"
+  },
+  "refugee": {
+    "p": "/ˌrefjuˈdʒiː/",
+    "t": "难民",
+    "en": "a person who has fled from danger"
+  },
+  "riddled": {
+    "p": "/ˈrɪdld/",
+    "t": "布满的；充斥的",
+    "en": "filled with; full of holes"
+  },
+  "intensified": {
+    "p": "/ɪnˈtensɪfaɪd/",
+    "t": "加剧",
+    "en": "made or became more intense"
+  },
+  "ensuing": {
+    "p": "/ɪnˈsjuːɪŋ/",
+    "t": "随后的",
+    "en": "happening after something else"
+  },
+  "weakened": {
+    "p": "/ˈwiːkənd/",
+    "t": "削弱的",
+    "en": "made less strong"
+  },
+  "median": {
+    "p": "/ˈmiːdiən/",
+    "t": "中位数；中间的",
+    "en": "the middle value in a set; middle"
+  },
+  "disapproval": {
+    "p": "/ˌdɪsəˈpruːvl/",
+    "t": "不赞成",
+    "en": "a feeling of not approving"
+  },
+  "statehood": {
+    "p": "/ˈsteɪthʊd/",
+    "t": "国家地位",
+    "en": "the status of being a state"
+  },
+  "favorable": {
+    "p": "/ˈfeɪvərəbl/",
+    "t": "有利的；赞同的",
+    "en": "expressing approval or advantageous"
+  },
+  "deteriorated": {
+    "p": "/dɪˈtɪəriəreɪtɪd/",
+    "t": "恶化",
+    "en": "became worse"
+  },
+  "cascade": {
+    "p": "/kæˈskeɪd/",
+    "t": "倾泻；瀑布",
+    "en": "a process of falling or flowing rapidly"
+  },
+  "naive": {
+    "p": "/naɪˈiːv/",
+    "t": "天真的",
+    "en": "lacking experience or judgment"
+  },
+  "pointless": {
+    "p": "/ˈpɔɪntləs/",
+    "t": "无意义的",
+    "en": "having no purpose or meaning"
+  },
+  "turtles": {
+    "p": "/ˈtɜːtlz/",
+    "t": "乌龟",
+    "en": "reptiles with a shell"
+  },
+  "tears": {
+    "p": "/tɪəz/",
+    "t": "眼泪",
+    "en": "drops of liquid from the eyes"
+  },
+  "omega": {
+    "p": "/ˈəʊmɪɡə/",
+    "t": "欧米伽；终局",
+    "en": "the last letter of the Greek alphabet"
+  },
+  "verse": {
+    "p": "/vɜːs/",
+    "t": "诗句；诗节",
+    "en": "writing arranged in lines; a stanza"
+  },
+  "nutritional": {
+    "p": "/njuˈtrɪʃənl/",
+    "t": "营养的",
+    "en": "relating to nutrition"
+  },
+  "supplement": {
+    "p": "/ˈsʌplɪmənt/",
+    "t": "补充；补充剂",
+    "en": "something added to complete or enhance"
+  },
+  "pastime": {
+    "p": "/ˈpɑːstaɪm/",
+    "t": "消遣；娱乐",
+    "en": "an activity done for enjoyment"
   }
 }
