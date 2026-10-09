@@ -163,6 +163,13 @@ function tryRun(cmd, label) {
 
   if (isCI) {
     // 服务器环境：用 GitHub 自带的 GITHUB_TOKEN 推送（无需桌面令牌，网站自行更新）
+    // 推送前先合并远端（避免与本机/另一条工作流的提交撞车，non-fast-forward 推不上去）；
+    // 冲突时以「刚生成的最新 feed.json」为准（-X ours），因为那是本流水线刚产出的最新内容。
+    try {
+      execSync('git pull --no-rebase --no-edit -X ours origin master', { cwd: ROOT, stdio: 'inherit' });
+    } catch (e) {
+      console.log('（同步远端时提示，可忽略：' + ((e && e.message) || e) + '）');
+    }
     run('git push origin HEAD:master');
     console.log('✅ 已推送到线上（GitHub Actions 自动运行，无需你的电脑）');
   } else {

@@ -33,11 +33,29 @@ function clean(s) {
 
 // —— 浏览器渲染抓取（type:"browser"）：针对 JS 动态站（WHO / Bain / NielsenIQ 等），
 // 普通 fetch 拿不到内容，改用本机 Chrome 渲染后再抽取文章链接。仅当源配置为 browser 时才加载 puppeteer。
-const _require = createRequire('C:/Users/VOOPOO/.workbuddy/binaries/node/workspace/');
+// 跨平台加载 puppeteer（关键修复）：
+//   本机(Windows) 装在 WorkBuddy 的 Node 工作区；云端(Linux/CI) 用项目内 node_modules。
+//   原写法 createRequire('C:/Users/...') 在 Linux 上不是绝对路径 → 脚本一启动就抛错 →
+//   整个「专业提升抓取」被 daily-pipeline 的 tryRun 静默跳过 → 云端每天 0 新增、线上专业提升停更。
+function loadPuppeteer() {
+  const bases = [
+    'C:/Users/VOOPOO/.workbuddy/binaries/node/workspace/', // 本机已装 Chrome 缓存的 Node 工作区
+    path.join(ROOT, 'node_modules'),                       // CI/云端 `npm i puppeteer` 后的位置
+    ROOT,
+  ];
+  const tried = [];
+  for (const b of bases) {
+    try { return createRequire(path.resolve(b, '__probe__.js'))('puppeteer'); }
+    catch (e) { tried.push(`${b} (${e.code || e.message})`); }
+  }
+  try { return createRequire(import.meta.url)('puppeteer'); }
+  catch (e) { tried.push(`self (${e.code || e.message})`); }
+  throw new Error('puppeteer 不可用，已尝试: ' + tried.join(' | '));
+}
 async function fetchBrowserHTML(url, waitMs = 7000) {
   let browser;
   try {
-    const puppeteer = _require('puppeteer');
+    const puppeteer = loadPuppeteer();
     browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     await page.setUserAgent(UA);
