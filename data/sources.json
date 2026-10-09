@@ -142,16 +142,6 @@
       "region": "全球"
     },
     {
-      "name": "199IT 互联网数据",
-      "url": "https://www.199it.com/feed",
-      "type": "rss"
-    },
-    {
-      "name": "36氪",
-      "url": "https://www.36kr.com/feed",
-      "type": "rss"
-    },
-    {
       "name": "GB 感官分析标准",
       "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=%E6%84%9F%E5%AE%98",
       "type": "gbstd"
