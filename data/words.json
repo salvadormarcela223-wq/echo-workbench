@@ -1,8 +1,8 @@
 {
   "when": {
-    "ph": "/ʍɛn/",
+    "ph": "/wen/",
     "en": "The time at which something happens.",
-    "zh": ""
+    "zh": "adv. 什么时候；什么情况下；什么场合下；（用于时间的表达方式之后）在那时，其时；当时，当场；pron. 什么时候；何时（多用于 since、till、until 等之后）；conj. 当……时，在……时候；在………"
   },
   "researchers": {
     "ph": "",
@@ -12,7 +12,7 @@
   "in": {
     "ph": "/ɪn/",
     "en": "A position of power or influence, or a way to get it.",
-    "zh": ""
+    "zh": "prep. 在……内，在……里（面），在（某地）；进……里；在……期间；在……以后；在……之内（表示将来时间）；在……岁时；当……时；穿着，戴着，覆盖着……；带……颜色的；在……状态中；在……方面，关于；用……（语言…"
   },
   "asked": {
     "ph": "/ˈɑːskt/",
@@ -25,9 +25,9 @@
     "zh": ""
   },
   "to": {
-    "ph": "/tʉː/",
+    "ph": "/tuː/",
     "en": "Toward a closed, touching or engaging position.",
-    "zh": ""
+    "zh": "prep. 朝；位于……；到某处；到某状态；差；给；对于；比；连着；对着；等于；向……表示敬意；伴随；为了给……；适合；按……的看法；（结算账目时）记入；adv. （门等）关上；n. （To）（汤霍特、丹）多（人名）"
   },
   "describe": {
     "ph": "/dəˈskɹaɪb/",
@@ -42,7 +42,7 @@
   "they": {
     "ph": "/ðeɪ/",
     "en": "(the third-person plural) A group of people, animals, plants or objects previously mentioned.",
-    "zh": ""
+    "zh": "pron. 第三人称复数主格代词：他们（男性或男女混合群体），她们（全女性群体），它们（动物、事物等）；也用作单数第三人称主格代词，指代性别未知、不愿指明性别或认同非二元性别的人，相当于 he or she；泛指人们…"
   },
   "expected": {
     "ph": "/ɪkˈspektɪd/",
@@ -50,9 +50,9 @@
     "en": "believed that something will happen"
   },
   "the": {
-    "ph": "/ði/",
+    "ph": "/ðə/",
     "en": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
-    "zh": ""
+    "zh": "art. 这；那；adv. 更加（用于比较级，最高级前）"
   },
   "usual": {
     "ph": "/ˈjuːʒʊəl/",
@@ -95,9 +95,9 @@
     "zh": ""
   },
   "that": {
-    "ph": "/ˈðæt/",
+    "ph": "/ðæt/",
     "en": "Something being indicated that is there; one of those.",
-    "zh": ""
+    "zh": "det. 那，那个；那，那种；pron. 那，那个；那，那种；（非正式，用于 that's that 等）就这样，就那样；（正式，用于 that of、that which 等结构）……的；（关系代词，引导定语从句）…"
   },
   "lasts": {
     "ph": "/lasts/",
@@ -105,9 +105,9 @@
     "zh": ""
   },
   "had": {
-    "ph": "",
+    "ph": "/hæd/",
     "en": "To possess, own.",
-    "zh": ""
+    "zh": "aux. 已经（用于过去完成时态）；v. 拥有；有（想法、主意、观点等）；吃，喝（have 的过去式和过去分词）"
   },
   "precisely": {
     "ph": "/pɹɪˈsaɪsli/",
@@ -120,14 +120,14 @@
     "zh": "n. 问题"
   },
   "with": {
-    "ph": "",
+    "ph": "/wɪð/",
     "en": "Along, together with others, in a group, etc.",
-    "zh": ""
+    "zh": "prep. 和……在一起，与……一同；用，以；具有；带着，携带；穿着；患（病）；关于，对于，在……方面；反对（与……争斗、争论或竞争时）；支持，拥护；由于，因为；受……影响；随着，随；顺着，沿着；包括，包含；虽然，尽…"
   },
   "how": {
-    "ph": "/hæŏ/",
+    "ph": "/haʊ/",
     "en": "The means by which something is accomplished.",
-    "zh": ""
+    "zh": "adv. 怎样，如何；（指状况、情况）好否，怎么样；（用于询问数量、程度）多少，怎么；（强调程度）多么，何等；（用于引出想要谈及的事实）；conj. 怎样，如何；以任何方式，无论用什么方法"
   },
   "industry": {
     "ph": "/ˈɪndəstɹi/",
@@ -135,9 +135,9 @@
     "zh": ""
   },
   "has": {
-    "ph": "",
+    "ph": "/hæz/",
     "en": "To possess, own.",
-    "zh": ""
+    "zh": "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到"
   },
   "measured": {
     "ph": "/ˈmɛʒəd/",
@@ -150,9 +150,9 @@
     "zh": ""
   },
   "past": {
-    "ph": "/pɑːst/",
+    "ph": "/pæst/",
     "en": "To change place.",
-    "zh": ""
+    "zh": "adj. 过去的，昔日的；刚过去的，刚结束的；完成的，结束的；（语法）过去时的；n. 过去，昔日（the past）；往事，经历；（语法）过去时，（动词的）过去式（the past）"
   },
   "forty": {
     "ph": "/ˈfɔɹti/",
@@ -195,9 +195,9 @@
     "zh": ""
   },
   "into": {
-    "ph": "/ˈɪn.tuː/",
+    "ph": "/ˈɪntuː/",
     "en": "To or towards the inside of.",
-    "zh": ""
+    "zh": "prep. 到……里面；触及，碰撞；朝，向；转向；关于；转变成；造成（某种结果）；除；<非正式>对……很有兴趣；从事（某职业等）；被迫做，被说服做；成为……的一部分；持续到，直到；【名】 （Into）（美）因托（人名）"
   },
   "attributes": {
     "ph": "",
@@ -210,9 +210,9 @@
     "zh": ""
   },
   "each": {
-    "ph": "/iːt͡ʃ/",
+    "ph": "/iːtʃ/",
     "en": "(operations) An individual item: the least quantitative unit in a grouping.",
-    "zh": ""
+    "zh": "det. 每，各，每一；pron. 每个，各个；adj. 每个的，各自的；adv. 给每个，对各个"
   },
   "scale": {
     "ph": "/skeɪl/",
@@ -257,7 +257,7 @@
   "say": {
     "ph": "/seɪ/",
     "en": "A chance to speak; the right or power to influence or make a decision.",
-    "zh": ""
+    "zh": "vt. 说，讲；宣称，说明；认为，据说；发音，读；确信，确定（事实）；（对某人）意味着；表达，传达；指明，表明；假设，比如说；让某人做（某事）；复述，诵念；念，背诵；替（某人或某事）说好话（坏话）"
   },
   "texture": {
     "ph": "/ˈtɛkstʃə(ɹ)/",
@@ -280,9 +280,9 @@
     "zh": ""
   },
   "well": {
-    "ph": "/wɛl/",
+    "ph": "/wel/",
     "en": "In good health.",
-    "zh": ""
+    "zh": "adv. 顺利地，令人满意地；熟练地，技术好地；妥善地，恰当地；赞扬地，赞许地；有益地，有利地；容易地；友善地；有充分理由，合理地；很，非常；富裕地，舒适地；完全地，充分地；大大地，远远地；（程度或标准）多少，怎样"
   },
   "works": {
     "ph": "/wɜːks/",
@@ -290,9 +290,9 @@
     "zh": ""
   },
   "read": {
-    "ph": "/ɹiːd/",
+    "ph": "/riːd/",
     "en": "A reading or an act of reading, especially an actor's part of a play.",
-    "zh": ""
+    "zh": "v. 阅读，读懂；朗读；（在书籍、报纸等中）读到，看到；解读，（按某种方式）理解；看透（想法或心思）；读起来（给人以某种印象）；有……的字样，写着；换用，改作（用于订正讹误）；读取（磁盘中的信息）；（通过无线电）收听…"
   },
   "second": {
     "ph": "/ˈsekənd/",
@@ -310,14 +310,14 @@
     "zh": ""
   },
   "are": {
-    "ph": "/ɛə/",
+    "ph": "/ɑːr/",
     "en": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
-    "zh": ""
+    "zh": "v. 是；be 的现在时复数形式及第二人称单数形式（there are 表示“有、存在”；口语中常缩略为 -'re）；n. 公亩（面积单位，等于 100 平方米，符号为 a）；Are（阿雷）人名或姓氏，多见于意大利语…"
   },
   "not": {
-    "ph": "/nɒt/",
+    "ph": "/nɑːt/",
     "en": "A unary operation on logical values that changes true to false, and false to true.",
-    "zh": ""
+    "zh": "adv. 表示否定，不（常与动词或助动词连用构成否定句，也可表示部分否定或代替前面已出现的否定内容）；n. “非”（计算机、逻辑学中逻辑运算的一种，即逻辑非）"
   },
   "merely": {
     "ph": "/ˈmɪəli/",
@@ -335,9 +335,9 @@
     "zh": ""
   },
   "as": {
-    "ph": "",
+    "ph": "/æz/",
     "en": "To such an extent or degree; to the same extent or degree.",
-    "zh": ""
+    "zh": "prep. 作为；以……身份；当作；像，如同；当……时；adv. （程度或数量上）同样，一样；例如，诸如；conj. 像……一样；（说明某事应完成的时间或发生的频率）；照……方式，和……一样；正如，如同；当……时候，…"
   },
   "evidence": {
     "ph": "[ˈɛvəɾəns]",
@@ -345,9 +345,9 @@
     "zh": "n. 证据"
   },
   "because": {
-    "ph": "/bɪˈkɒz/",
+    "ph": "/bɪˈkəz, bɪˈkɔːz/",
     "en": "For the reason (that).",
-    "zh": ""
+    "zh": "conj. （说明原因）因为，由于；（作出解释）因为"
   },
   "efficacy": {
     "ph": "/ˈɛf.ɪ.kə.si/",
@@ -365,9 +365,9 @@
     "zh": ""
   },
   "most": {
-    "ph": "/ˈməʊst/",
+    "ph": "/moʊst/",
     "en": "The greatest amount.",
-    "zh": ""
+    "zh": "det. （数量上）最多，最大（ much, a lot of, many 的最高级）；大多数；pron. （数量上）最多，最大（ much, a lot of, many 的最高级）；大多数"
   },
   "brands": {
     "ph": "",
@@ -377,7 +377,7 @@
   "still": {
     "ph": "/stɪl/",
     "en": "A period of calm or silence.",
-    "zh": ""
+    "zh": "adv. 还，依旧；仍然，还是（会或可能）；尽管那样，尽管如此；更加，还要（用于表示强调）；还有（更多）；静止地，不动地；adj. 静止的，不动的；宁静的，寂静的；无风的；不含碳酸气的，不起泡的；（照片）静态的，（画…"
   },
   "design": {
     "ph": "/dɪˈzaɪn/",
@@ -385,14 +385,14 @@
     "zh": ""
   },
   "them": {
-    "ph": "/ðʌm/",
+    "ph": "/ðem/",
     "en": "(plural) Those ones.",
-    "zh": ""
+    "zh": "pron. 他们，她们，它们；他/她（代替 him 或 her，指性别不明或无需指明性别的单数人；有人认为此用法不规范）"
   },
   "by": {
     "ph": "/baɪ/",
     "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-    "zh": ""
+    "zh": "prep.  由，被；通过，凭借……；相差；在……旁边；到……之前；抓着（身体或东西某个部位）；按照，依据；以……计；在……期间；在（某处）短暂停留；乘以，除以；以……名义（发誓）；就（本性、职业或出身）而言"
   },
   "instinct": {
     "ph": "/ˈɪn.stɪŋkt/",
@@ -400,19 +400,19 @@
     "zh": ""
   },
   "which": {
-    "ph": "/wɪt͡ʃ/",
+    "ph": "/wɪtʃ/",
     "en": "(interrogative) What one or ones (of those mentioned or implied).",
-    "zh": ""
+    "zh": "pron. 哪一个，哪一些；（指明事物）……的那个，……的那些；（进一步提供有关某事物的信息）那个，那些；哪个是哪个（用于 cannot tell/know which is which）"
   },
   "we": {
     "ph": "/wiː/",
     "en": "(personal) The speakers/writers, or the speaker/writer and at least one other person (not the person being addressed). (This is the exclusive we.)",
-    "zh": ""
+    "zh": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人；n. （We）人名；（缅）韦"
   },
   "mean": {
     "ph": "/miːn/",
     "en": "To lament.",
-    "zh": ""
+    "zh": "v. 意味着；表示……的意思，作……的解释；打算，意欲；使专门用于；导致，结果是；十分熟识；当真，说到做到；对某人重要；adj. 吝啬的，小气的；不善良的，刻薄的；要发怒的；熟练的，出色的；平均的；简陋的，破旧的；微…"
   },
   "instincts": {
     "ph": "/ˈɪn.stɪŋkts/",
@@ -447,17 +447,17 @@
   "team": {
     "ph": "/tiːm/",
     "en": "A set of draught animals, such as two horses in front of a carriage.",
-    "zh": ""
+    "zh": "n. （游戏或体育运动的）队，小组；工作队，工作组；（套在一起拉车的）一组牲口（尤指马）；v. 协作，合作；使（颜色、布料、衣服）相配；（套在一起拉车的）一组牲口（尤指马）"
   },
   "used": {
-    "ph": "/juːzd/",
+    "ph": "/juːst/",
     "en": "To utilize or employ.",
-    "zh": ""
+    "zh": "adj. 用过的，旧的；二手的；习惯于，适应于；v. 使用，利用；消耗；说，写，使用（词语或语言）（use 的过去式和过去分词）"
   },
   "ai": {
-    "ph": "/ˈɑ.i/",
+    "ph": "/ˌeɪ ˈaɪ/",
     "en": "A type of three-toed sloth, Bradypus tridactylus, endemic to forests of southern Venezuela, the Guianas, and northern Brazil.",
-    "zh": ""
+    "zh": "n. 三趾树懒；安圭拉岛；安圭拉的国家及地区顶级域名 .ai；abbr. （AI）人工智能（Artificial Intelligence）；人工授精（Artificial Insemination）"
   },
   "speak": {
     "ph": "/spiːk/",
@@ -487,12 +487,12 @@
   "than": {
     "ph": "/ðæn/",
     "en": "At that time; then.",
-    "zh": ""
+    "zh": "conj. （用以引出比较的第二部分）比；（比较数量、距离等）多于；（表示一事紧跟另一事发生）就；除……（外）；prep. （用以引出比较的第二部分）比；（比较数量、距离等）多于；（表示一事紧跟另一事发生）就；除………"
   },
   "rate": {
-    "ph": "/ɹeɪt/",
+    "ph": "/reɪt/",
     "en": "The worth of something; value.",
-    "zh": ""
+    "zh": "n. 速度，速率；比率，率；费用，价格；费率；（英国）地方税，房地产税（rates）；<罕>等级；v. 评价，评定；被认为，被列为；<英，非正式> 看好； 对（影片、视频游戏等）分级；划分等级，分等；值得，应得；<英…"
   },
   "change": {
     "ph": "/tʃeɪndʒ/",
@@ -527,7 +527,7 @@
   "if": {
     "ph": "/ɪf/",
     "en": "An uncertainty, possibility, condition, doubt etc.",
-    "zh": ""
+    "zh": "conj. 如果，假如，要是；每当，无论何时；即使，虽然，尽管；（用于间接问句或礼貌问询）是否；〔if only〕要是…多好；〔as if〕好像，仿佛；〔if not〕如果不；即便不；或许不；（常与 can、coul…"
   },
   "model": {
     "ph": "/ˈmɒdl̩/",
@@ -542,7 +542,7 @@
   "will": {
     "ph": "/wɪl/",
     "en": "(now uncommon or literary) To wish, desire (something).",
-    "zh": ""
+    "zh": "v. 将，将要；请（请求某人做某事）；总是，惯于；（表示对习惯性发生行为不满）老是，一直；可能，大概；愿意，乐意；必须，一定；表示能力、容量能；（表示承诺或威胁）会，要；希望，想要；立定志向，决意；立遗嘱遗赠"
   },
   "reliably": {
     "ph": "",
@@ -565,9 +565,9 @@
     "zh": ""
   },
   "never": {
-    "ph": "/ˈnɛv.ə(ɹ)/",
+    "ph": "/ˈnevər/",
     "en": "At no time; on no occasion; in no circumstance.",
-    "zh": ""
+    "zh": "adv. 决不，永不；不会，不可能（表示惊讶或震惊）"
   },
   "surprise": {
     "ph": "/səˈpɹaɪz/",
@@ -575,9 +575,9 @@
     "zh": ""
   },
   "us": {
-    "ph": "/əs/",
+    "ph": "/ʌs/",
     "en": "(personal) Me and at least one other person; the objective case of we.",
-    "zh": ""
+    "zh": "pron. 我们"
   },
   "valuable": {
     "ph": "/ˈvæljuəbl̩/",
@@ -585,9 +585,9 @@
     "zh": ""
   },
   "ten": {
-    "ph": "/tɛn/",
+    "ph": "/ten/",
     "en": "A set or group with ten elements.",
-    "zh": ""
+    "zh": "num. 十个，十；adj. 十的；det. 十个；十个（东西）；n. （Ten）（美、俄、加、德、荷、西、英）登（人名）"
   },
   "seconds": {
     "ph": "/ˈsɛkəndz/",
@@ -595,9 +595,9 @@
     "zh": ""
   },
   "any": {
-    "ph": "/ˈæni/",
+    "ph": "/ˈeni/",
     "en": "To even the slightest extent, at all.",
-    "zh": ""
+    "zh": "det. 任何的，任一的；一点，些许；不寻常的；尽可能多的，所有的；pron. 任何一个；任何数量，任一数额；adv. 一点，丝毫；<美，非正式>压根儿；adj. 任何的，任一的；一点，一些"
   },
   "interview": {
     "ph": "/ˈɪntəvjuː/",
@@ -620,9 +620,9 @@
     "zh": ""
   },
   "question": {
-    "ph": "/ˈkwɛstjən/",
+    "ph": "/ˈkwestʃən/",
     "en": "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
-    "zh": ""
+    "zh": "n. 问题，疑问；试题，题目；（待讨论或处理的）事情，议题；不确定，怀疑；v. 向……提出问题，盘问；对……提出质疑（异议），怀疑"
   },
   "misunderstanding": {
     "ph": "",
@@ -632,7 +632,7 @@
   "gap": {
     "ph": "/ɡæp/",
     "en": "An opening in anything made by breaking or parting.",
-    "zh": ""
+    "zh": "n. 缝隙，缺口；（时间上的）间隔；空白，缺漏；隔阂，差距"
   },
   "between": {
     "ph": "/bɪˈtwiːn/",
@@ -645,9 +645,9 @@
     "zh": ""
   },
   "none": {
-    "ph": "/nɒn/",
+    "ph": "/nʌn/",
     "en": "A person without religious affiliation.",
-    "zh": ""
+    "zh": "pron. 全无；adv. 毫无，绝不（none the）；（与 too 加形容词或副词连用）绝不；n. 申初经（天主教七段祈祷时间中的一部分，通常在一天中的第九个小时 下午3点）；【名】 （None）（葡、罗）诺内…"
   },
   "means": {
     "ph": "/miːnz/",
@@ -685,34 +685,34 @@
     "zh": ""
   },
   "end": {
-    "ph": "/ɛnd/",
+    "ph": "/end/",
     "en": "The terminal point of something in space or time.",
-    "zh": ""
+    "zh": "n. 最后部分，末尾；结束，结局；端点；目的；剩余物，残余；过世；部分，方面；半边球场；城区；边锋；v. 结束，终止；【名】 （End）（英、德）恩德（人名）"
   },
   "test": {
     "ph": "/test/",
     "en": "A challenge, trial.",
-    "zh": ""
+    "zh": "n. （书面或口头的）测验，考试；（医疗上的）检查，化验，检验；（对机器或武器等的）试验，检验；（对水、土壤、空气等的）检测，检验；（衡量能力或技能等的）测试，考验；医疗检查设备；化验结果；（常指板球、橄榄球的）国际…"
   },
   "ask": {
-    "ph": "/ˈask/",
+    "ph": "/æsk/",
     "en": "An act or instance of asking.",
-    "zh": ""
+    "zh": "v. 询问，打听；要求，请求；邀请，约请 ；指望，期待；【名】 （Ask）（芬、瑞典）阿斯克（人名）"
   },
   "tell": {
-    "ph": "/tɛl/",
+    "ph": "/tel/",
     "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
-    "zh": ""
+    "zh": "v. 告诉，告知；说，讲述；吐露，显示；看出，确切地判断；辨别，区别；命令，吩咐；告诉自己，暗自叮嘱；表明，说明；（不快的或令人疲倦的经历）产生效果，产生影响；泄密；数，计算；（通常指小孩）告状；警告，告诫；（某种因…"
   },
   "you": {
-    "ph": "/jʉː/",
+    "ph": "/juː/",
     "en": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
-    "zh": ""
+    "zh": "pron. 你；你们；（口语或非正式书面语）泛指任何人；n. （You）人名；（柬）尤；（东南亚国家华语）猷"
   },
   "story": {
-    "ph": "/ˈstɔː.ɹi/",
+    "ph": "/ˈstɔːri/",
     "en": "A sequence of real or fictional events; or, an account of such a sequence.",
-    "zh": ""
+    "zh": "n. （真实或虚构的）故事，叙述；新闻报道；（尤指口头的）叙述，描述；谎言，虚假的借口；（书籍、电影、戏剧等的）情节；纪事，史话；楼层；情况；（公司的）商业前景，商业现状；谣言，传闻；一种测量单位（1 story 等…"
   },
   "giving": {
     "ph": "/ˈɡɪvɪŋ/",
@@ -732,17 +732,17 @@
   "things": {
     "ph": "/θɪŋz/",
     "en": "That which is considered to exist as a separate entity, object, quality or concept.",
-    "zh": ""
+    "zh": "n. 事物，东西（thing 的复数形式）；形势，情况，状况；随身物品，财物，行李；用品，用具"
   },
   "no": {
-    "ph": "/nəʊ/",
+    "ph": "/noʊ/",
     "en": "A negating expression; an answer that shows disagreement or disapproval",
-    "zh": ""
+    "zh": "adv. 不，完全不（也常用于比较级前，表示并不、一点也不）；int. （用于否定的回答或陈述）不，没有，不行；（纠正刚说的话）不对；（感到惊讶）不会吧；adj. 没有；不是；det. 没有，无；不准，禁止；没有可能…"
   },
   "could": {
     "ph": "/kʊd/",
     "en": "(auxiliary verb, defective) To know how to; to be able to.",
-    "zh": ""
+    "zh": "v. （礼貌地请求许可）可以，能；（礼貌地请求别人做事）能，能否；（表示可能）可能，也许；（表示未发生的事情）差点就，本能够；（用于提出建议）可以，能；本该，应该（用于对做过或未做某事表示恼怒）；（强调感觉）真想；好…"
   },
   "caught": {
     "ph": "[k̠ʰoːt]",
@@ -775,9 +775,9 @@
     "zh": ""
   },
   "do": {
-    "ph": "/dʉː/",
+    "ph": "/duː/",
     "en": "A party, celebration, social function.",
-    "zh": ""
+    "zh": "v. 做，干，办（某事）；行动，表现；顺利进行，进展；从事（工作）；执行（任务）；学习，研究；解答，解决，算出；制作，做出；演出，编排（戏剧等）；仿效，模仿；完成，做好；处理；供给，提供；适合，足够；参观，游览，旅行…"
   },
   "fit": {
     "ph": "/fɪt/",
@@ -840,9 +840,9 @@
     "zh": "adj. 内部的"
   },
   "first": {
-    "ph": "/fɪrst/",
+    "ph": "/fɜːrst/",
     "en": "The person or thing in the first position.",
-    "zh": ""
+    "zh": "det. 第一位的，最先的；首（次）的；（某一时间或某事后的）紧接着来到的；（一列中）最前面的；最重要的；（用于工作或职位的头衔中）最高的；最迫切的，最合适的；adv. 第一，最初；起初；第一次；（列举时用）首先；（…"
   },
   "convince": {
     "ph": "/kənˈvɪns/",
@@ -872,12 +872,12 @@
   "would": {
     "ph": "/wʊd/",
     "en": "Something that would happen, or would be the case, under different circumstances; a potentiality.",
-    "zh": ""
+    "zh": "v. 将，将会（will 的过去式，用于转述）；会......（用于提出意见或征求建议时）；会，就（表示预期或设想）；会（表示不曾发生或不可能存在的事）；才会，就会（说明动机）；想（表示某人想要某物或想做某事）；就（…"
   },
   "need": {
     "ph": "/niːd/",
     "en": "A requirement for something; something needed.",
-    "zh": ""
+    "zh": "v. 需要；（表示应该或不得不做）有必要；<古>需要；n. 需要，必须； 特别需要，迫切要求；需要的事物，欲望；（食物、钱或生活来源的）短缺，缺乏；aux. 必要（用于劝告或建议）"
   },
   "tactile": {
     "ph": "/ˈtæktaɪl/",
@@ -890,9 +890,9 @@
     "zh": ""
   },
   "terms": {
-    "ph": "/tɜːmz/",
+    "ph": "/tɜːrmz/",
     "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
-    "zh": ""
+    "zh": "n. 地位，关系；[法]条款；术语；措辞；价钱（term 的复数形式）；v. 把……称为（term 的三单形式）"
   },
   "deliver": {
     "ph": "/dɪˈlɪvə(ɹ)/",
@@ -937,7 +937,7 @@
   "done": {
     "ph": "/dʌn/",
     "en": "(auxiliary) A syntactic marker.",
-    "zh": ""
+    "zh": "adj. 完成的；煮熟的；不再发生的；为社会所接受的，得体的；上当受骗的；筋疲力尽的；int. 行，好；v. 做（do 的过去分词形式）；【名】 （Done）（美、英、罗马尼亚）多恩（人名）"
   },
   "earlier": {
     "ph": "/ˈɜː.lɪə/",
@@ -957,7 +957,7 @@
   "all": {
     "ph": "/ɔːl/",
     "en": "(with a possessive pronoun) Everything that one is capable of.",
-    "zh": ""
+    "zh": "det. 全部；每一个；极度，尽量；无论什么，任何；唯一，仅仅；adj. 全部的；每一个的；任何的；尽可能多的；全然是……的，完全表现出……的；（某一体征）显著突出的；adv. 完全地；各方，各选手；非常，太"
   },
   "reasons": {
     "ph": "/ˈɹiːzənz/",
@@ -975,9 +975,9 @@
     "zh": ""
   },
   "home": {
-    "ph": "/(h)əʊm/",
+    "ph": "/hoʊm/",
     "en": "A dwelling.",
-    "zh": ""
+    "zh": "n. 家，住宅；（可买卖的）房子，寓所；家庭；养育院，收容所；适于存放……的地方；发源地，发祥地；栖息地，生息地；家乡，祖国；（组织、公司等的）本部，基地；（比赛的）主场；adj. 家庭的，家用的；在家里做（或进行）…"
   },
   "contribution": {
     "ph": "/ˌkɒntɹɪˈbjuːʃən/",
@@ -990,9 +990,9 @@
     "zh": ""
   },
   "once": {
-    "ph": "/wɒn(t)s/",
+    "ph": "/wʌns/",
     "en": "(frequency) One and only one time.",
-    "zh": ""
+    "zh": "adv. 一次， 一回；曾经，一度；任何一次，从来；乘以一；conj. 一.....就， 一旦；n.  一次"
   },
   "adopted": {
     "ph": "/əˈdɒptɪd/",
@@ -1015,9 +1015,9 @@
     "zh": "n. 陪伴"
   },
   "able": {
-    "ph": "/ˈeɪ.bl̩/",
+    "ph": "/ˈeɪb(ə)l/",
     "en": "Easy to use.",
-    "zh": ""
+    "zh": "adj. 能够，有能力的；聪明能干的，精通（某事）的；【名】 （Able）（英）埃布尔，（伊朗）阿布勒（人名）"
   },
   "community": {
     "ph": "/k(ə)ˈmjunəti/",
@@ -1035,9 +1035,9 @@
     "zh": ""
   },
   "use": {
-    "ph": "",
+    "ph": "/juːz/",
     "en": "The act of using.",
-    "zh": ""
+    "zh": "v. 用，使用；使用（词语）；耗费，消费；利用（他人或某种情形）；服（药，尤指毒品）；需要；用（名字），自称；对待；用（洗手间或卫生间）（礼貌说法）；n. 使用；用途，用法；词义，说法；使用机会，使用权；（尤指思想，…"
   },
   "point": {
     "ph": "/pɔɪnt/",
@@ -1055,9 +1055,9 @@
     "zh": ""
   },
   "era": {
-    "ph": "/ˈɪə̯ɹ.ə/",
+    "ph": "/ˈɪrə/",
     "en": "A time period of indeterminate length, generally more than one year.",
-    "zh": ""
+    "zh": "n. 时代，年代，纪元；【名】 （Era）（意、芬、印）埃拉（人名）"
   },
   "products": {
     "ph": "/ˈpɹɒd.əkts/",
@@ -1122,7 +1122,7 @@
   "quit": {
     "ph": "/kwɪt/",
     "en": "To pay (a debt, fine etc.).",
-    "zh": ""
+    "zh": "v. <美，非正式>停止，戒掉；<非正式>离开（工作岗位、学校等），离任；搬离（租住的房子），离开（某地）；关闭，退出（计算机程序等）；使解除，使摆脱；adj. 摆脱了……的，已经了结的（quit of）"
   },
   "recruiters": {
     "ph": "",
@@ -1155,9 +1155,9 @@
     "zh": ""
   },
   "jobs": {
-    "ph": "/d͡ʒɒbz/",
+    "ph": "/dʒɑːbz/",
     "en": "A task.",
-    "zh": ""
+    "zh": "n. 工作（job 的复数形式）"
   },
   "switching": {
     "ph": "/swɪtʃɪŋ/",
@@ -1187,17 +1187,17 @@
   "pay": {
     "ph": "/peɪ/",
     "en": "Money given in return for work; salary or wages.",
-    "zh": ""
+    "zh": "v. 支付，付；偿还，缴纳；给予，致以；给……付工资；（投资等）产生……利润，（工作等）有……报酬；划算，有好处；付出代价；盈利；用沥青（或焦油）填塞（甲板或木船接缝）以防止漏水；（政府或机构通过提高价格、税率等使某…"
   },
   "sometimes": {
     "ph": "/ˈsʌmtaɪmz/",
     "en": "Former; sometime.",
-    "zh": ""
+    "zh": "adv. 有时，间或"
   },
   "same": {
     "ph": "/seɪm/",
     "en": "Not different or other; not another or others; not different as regards self; selfsame; identical.",
-    "zh": ""
+    "zh": "adj. 同一的；一模一样的；没有变化的；独一无二的人（或物）；上述的（this/that same）；pron. 同样的人，同样的事物；（数目、颜色、大小、质量等）相同；（与前述之事）同样的事（the same）；…"
   },
   "sentence": {
     "ph": "[ˈsɛntn̩t͡s]",
@@ -1212,7 +1212,7 @@
   "went": {
     "ph": "/went/",
     "en": "To move:",
-    "zh": ""
+    "zh": "v. 去，过去（go 的过去式）；进展，进行；变为（均作 go 的过去式，亦用于 go 加介词/副词的短语动词，如 went on、went through）；n. （Went）人名，又译（德、匈、荷）文特、（英）温特"
   },
   "broken": {
     "ph": "/ˈbɹəʊkən/",
@@ -1220,9 +1220,9 @@
     "zh": ""
   },
   "old": {
-    "ph": "/ˈɒʊld/",
+    "ph": "/oʊld/",
     "en": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
-    "zh": ""
+    "zh": "adj. （人）……岁的，（事物）存在……久的；年老的，年纪大的；衰老的；古老的，历史悠久的；陈旧的；过去的，从前的；原来（属于自己的）的；结识久的；<非正式>（表示亲昵）老……；（语言形式）古的，早期的；老派的，守…"
   },
   "contract": {
     "ph": "/ˈkɒntɹækt/",
@@ -1245,14 +1245,14 @@
     "zh": "adj. 更安静"
   },
   "many": {
-    "ph": "/ˈmæni/",
+    "ph": "/ˈmeni/",
     "en": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
-    "zh": ""
+    "zh": "det. 许多；（与单数名词及动词连用）许多，大量；pron. 许多；许多人；adj. 许多的；n. 大多数人（the many）；adv. 多；【名】 （Many）（美、法、加、印）马尼（人名）"
   },
   "ways": {
     "ph": "/weɪz/",
     "en": "(heading) To do with a place or places.",
-    "zh": ""
+    "zh": "n. 方法，方式，途径（way 的复数）；方面（常用于 in many ways、in some ways 等短语）；习俗，习惯，惯常行为方式；（造船）滑道，滑路；（Ways）人名，瓦伊斯（音译）"
   },
   "globally": {
     "ph": "/ˈɡləʊbəli/",
@@ -1275,9 +1275,9 @@
     "zh": ""
   },
   "post": {
-    "ph": "/pəʊst/",
+    "ph": "/poʊst/",
     "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
-    "zh": ""
+    "zh": "n. <英>邮政，邮递；<英>邮件，包裹；<英>收集（或投递）邮件，邮班；职位，要职；岗位，哨所；柱，杆，桩；（赛马的）终点；球门柱；邮报（用于某些报纸名称中）；帖子，在线留言板上的信息；篮球场上篮筐附近的区域；策应…"
   },
   "role": {
     "ph": "/ɹəʊl/",
@@ -1307,7 +1307,7 @@
   "pays": {
     "ph": "/peɪz/",
     "en": "Money given in return for work; salary or wages.",
-    "zh": ""
+    "zh": "v. 支付；偿还，缴纳；付给（某人）工资或报酬；赢利，产生收益；划算，值得；付出代价，受到惩罚（pay 的第三人称单数）；n. 工资，报酬；雇工（pay 的复数）；Pays（法、英、美等地的人名或姓氏）佩伊"
   },
   "course": {
     "ph": "/kɔːs/",
@@ -1340,14 +1340,14 @@
     "zh": ""
   },
   "often": {
-    "ph": "/ˈɑf(t)ən/",
+    "ph": "/ˈɔːf(ə)n/",
     "en": "Frequent.",
-    "zh": ""
+    "zh": "adv. 常常，时常；在许多情况下"
   },
   "paid": {
-    "ph": "/ˈpeɪd/",
+    "ph": "/peɪd/",
     "en": "To give money or other compensation to in exchange for goods or services.",
-    "zh": ""
+    "zh": "adj. （工作等）有偿的，付费的；有报酬的，领取薪金的；（用在复合词中）报酬……的；（休假）带薪的；v. 支付，付费；交纳，偿还；付出代价（pay 的过去式和过去分词形式）；【名】 （Paid）（美）排德（人名）"
   },
   "permanent": {
     "ph": "/ˈpɜːmənənt/",
@@ -1377,7 +1377,7 @@
   "full": {
     "ph": "/fʊl/",
     "en": "Containing the maximum possible amount that can fit in the space available.",
-    "zh": ""
+    "zh": "adj. 满的，满是……的；饱的；最大量的；完整的，详尽的；足足的；圆润的，浓郁的；充实的；正式的；宽松的；丰满的；（书面装订材料）用于全书面装订的；（头发）过肩的，披肩的；adv. 充分地，完全地；恰好，直接地；非…"
   },
   "external": {
     "ph": "/əksˈtɜːnəl/",
@@ -1385,9 +1385,9 @@
     "zh": "adj. 外部的"
   },
   "hire": {
-    "ph": "/haɪə/",
+    "ph": "/ˈhaɪər/",
     "en": "Payment for the temporary use of something.",
-    "zh": ""
+    "zh": "v. <英>租用，租借；聘用，录用；n. 租借，租金；<美>被雇用的人；【名】 （Hire）（美、印）希尔（人名）"
   },
   "outside": {
     "ph": "",
@@ -1490,9 +1490,9 @@
     "zh": "n. 工作场所"
   },
   "institute": {
-    "ph": "/ˈɪnstɪt(j)uːt/",
+    "ph": "/ˈɪnstɪtuːt/",
     "en": "An organization founded to promote a cause",
-    "zh": ""
+    "zh": "n. 研究所，学院，协会；（尤指与法律相关的）注释，论述；v. 制定（制度、规则等）；提出（诉讼）；任命，授予……职位（尤指圣职）"
   },
   "who": {
     "ph": "/huː/",
@@ -1512,7 +1512,7 @@
   "two": {
     "ph": "/tuː/",
     "en": "The digit/figure 2.",
-    "zh": ""
+    "zh": "num. 二；两个；adj. 两个的；n. 两个；数字二；两个一组"
   },
   "diagnostic": {
     "ph": "/daɪəˈɡnɒstɪk/",
@@ -1555,9 +1555,9 @@
     "zh": ""
   },
   "clear": {
-    "ph": "/klɪə(ɹ)/",
+    "ph": "/klɪr/",
     "en": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
-    "zh": ""
+    "zh": "adj. 易懂的，明白的；明显的，明确的；完全了解的，清楚的；透明的，清澈的；易看清的，听得清的；（颜色）明亮的，鲜明的；（皮肤）光洁的；没有问题的，健康的；晴朗的；畅通的，无阻碍的；（时间）空闲的；完整的；问心无愧…"
   },
   "timeline": {
     "ph": "/ˈtaɪmˌlaɪn/",
@@ -1570,9 +1570,9 @@
     "zh": ""
   },
   "held": {
-    "ph": "/ˈhɛld/",
+    "ph": "/held/",
     "en": "To grasp or grip.",
-    "zh": ""
+    "zh": "v. hold 的过去式和过去分词，可译为“抓住，托住”“按住，捂住”“拥抱”“举行”等；用于一般过去时、完成时及被动语态；adj. 被控制的，被占领的，被持有的（常作定语并用于复合词，如 enemy-held te…"
   },
   "accountable": {
     "ph": "/ə.ˈkaʊn.tə.bəl/",
@@ -1647,7 +1647,7 @@
   "keep": {
     "ph": "/kiːp/",
     "en": "The main tower of a castle or fortress, located within the castle walls.",
-    "zh": ""
+    "zh": "v. （使）保持，（使）留在；继续，重复；耽搁，延误；保有，留下；存放，储存；经营，管理；保鲜；保守（秘密）；遵守；记录，记载；饲养；供养；保护；（按规定）纪念，庆祝；守门；尊重（法律或习俗）"
   },
   "volunteer": {
     "ph": "/vɒl.ənˈtɪə/",
@@ -1675,9 +1675,9 @@
     "zh": ""
   },
   "part": {
-    "ph": "/pɐːt/",
+    "ph": "/pɑːrt/",
     "en": "A portion; a component.",
-    "zh": ""
+    "zh": "n. 部分；某物的部分（局部）；（书、戏剧、电视剧等的）部，篇，集；（动植物的）器官，部位；部件，零件；成员，参与人员；（世界、国家或城镇等的）区域，地区；（头发的）分缝；（角色的）台词和动作，角色；（在活动或事件中…"
   },
   "break": {
     "ph": "/bɹeɪk/",
@@ -1720,9 +1720,9 @@
     "zh": "n. 离开、退出"
   },
   "know": {
-    "ph": "/nəʊ/",
+    "ph": "/noʊ/",
     "en": "Knowledge; the state of knowing.",
-    "zh": ""
+    "zh": "v. 知道；认识到，懂得；熟悉，了解；确信，确定；把……看作是；将……称为；认出，辨认出；能区分；精通，掌握；经历，体验"
   },
   "until": {
     "ph": "/ənˈtɪl/",
@@ -1785,9 +1785,9 @@
     "zh": ""
   },
   "next": {
-    "ph": "/nɛkst/",
+    "ph": "/nekst/",
     "en": "The one that follows after this one.",
-    "zh": ""
+    "zh": "adj. 下一个的，接下来的；（时间）紧接着来到的，下次的；紧邻的；其他的；adv. 紧接着，随后；仅次于；下次，再次；（用于询问，表示吃惊或困惑）；n. 下一个人或事件；det. 下一（年、月、星期等）"
   },
   "recession": {
     "ph": "/ɹɪˈsɛʃn̩/",
@@ -1837,7 +1837,7 @@
   "system": {
     "ph": "/ˈsɪstəm/",
     "en": "A collection of organized things; a whole composed of relationships among its members.",
-    "zh": ""
+    "zh": "n. （协同工作的）系统；（计算机、警报器等的）系统；体制，制度，方式，方法；现行体制，既成制度（the system）；身体，（器官）系统；人体的活动方式（尤指消化和排泄方式）；（度量，分类中的）方法（或规则）；条…"
   },
   "future": {
     "ph": "/ˈfjuːt͡ʃə/",
@@ -1897,7 +1897,7 @@
   "plan": {
     "ph": "/plæn/",
     "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
-    "zh": ""
+    "zh": "n. （详细）规划；（养老金、储蓄、保险）方案；计划，打算；平面图，详图；分布图，示意图；（卫理公会教堂）巡回传教士名单；（手机流量、话费等）套餐；v. 计划，筹划；打算；设计；期望，预料"
   },
   "opportunistic": {
     "ph": "/ˌɑpəɹˌtuːˈnɪstɪk/",
@@ -1975,19 +1975,19 @@
     "zh": ""
   },
   "transfer": {
-    "ph": "/ˈtɹænzfɜː/",
+    "ph": "/trænsˈfɜːr/",
     "en": "The act of conveying or removing something from one place, person or thing to another.",
-    "zh": ""
+    "zh": "v. （使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）；转接（电话）；将（钱）转到（另一个账户上）；转让（财产，权利），…"
   },
   "risk": {
-    "ph": "/ɹɪsk/",
+    "ph": "/rɪsk/",
     "en": "A possible adverse event or outcome",
-    "zh": ""
+    "zh": "n. 危险，风险；危险的人（或事物），隐患；（按风险大小评估的）被保险对象，受贷者；（保险业承保的）险；金融风险；v. 使遭受（失去、毁坏或伤害的）危险；冒......的危险，担......的风险；冒险做，（明知结果…"
   },
   "firm": {
-    "ph": "/fɜːm/",
+    "ph": "/fɜːrm/",
     "en": "A business partnership; the name under which it trades.",
-    "zh": ""
+    "zh": "n. 公司，商行；（以顾问医师为首的）医务小组；<英，非正式>（敌视敌对球队球迷的）球迷俱乐部，球迷联盟；adj. 结实的，坚硬的；牢固的，稳固的；坚定的，坚决的；强有力的；牢牢掌控的；坚挺的；确切的，可靠的；严厉的…"
   },
   "worker": {
     "ph": "/ˈwɜː.kə/",
@@ -2002,7 +2002,7 @@
   "statistics": {
     "ph": "/stəˈtɪstɪks/",
     "en": "A mathematical science concerned with data collection, presentation, analysis, and interpretation.",
-    "zh": ""
+    "zh": "n. 统计学；统计数字（statistic 的复数形式）"
   },
   "reason": {
     "ph": "/ˈɹiːzən/",
@@ -2047,7 +2047,7 @@
   "may": {
     "ph": "/meɪ/",
     "en": "To be strong; to have power (over).",
-    "zh": ""
+    "zh": "aux. 可能，也许（表示某情况是可能的）；可以（征求同意或表示允许）；可能（表示某情况属实，另一情况也属实）；祝，愿（用于表达愿望）；可以，能够（表明目的）；可以，也许（用于提出礼貌的建议）"
   },
   "simply": {
     "ph": "/ˈsɪmpli/",
@@ -2085,9 +2085,9 @@
     "zh": ""
   },
   "year": {
-    "ph": "/jɪə/",
+    "ph": "/jɪr/",
     "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
-    "zh": ""
+    "zh": "n. 年，日历年；年，一年时间；与某事相关的一年，年度；学年；年级，某年级的学生；年龄，年纪，岁；很久，好长时间；年代，时代"
   },
   "architecture": {
     "ph": "/ˈɑː.kɪ.ˌtɛk.tʃə/",
@@ -2125,9 +2125,9 @@
     "zh": ""
   },
   "help": {
-    "ph": "/hɛlp/",
+    "ph": "/help/",
     "en": "Action given to provide assistance; aid.",
-    "zh": ""
+    "zh": "v. 帮助，援助；改善状况，对……有益；给（自己或某人）食物或饮料；擅自拿走，窃取；搀扶，带领；n. 帮助，协助；有助益的东西（如忠告、钱等）；有用；救助；有帮助的人（或事物）；佣人；（计算机程序提供使用说明的）求助程序"
   },
   "process": {
     "ph": "/ˈpɹoʊsɛs/",
@@ -2200,9 +2200,9 @@
     "zh": ""
   },
   "out": {
-    "ph": "/æɔt/",
+    "ph": "/aʊt/",
     "en": "A means of exit, escape, reprieve, etc.",
-    "zh": ""
+    "zh": "adv. 出现；向外；在室外；出狱；遥远地；出海；退潮；指离球门线或终点线的距离；在公共娱乐场所；公开；出声地；殆尽；直至完成；完全；熄灭；除去；出局；prep. 从……里面出去，离开"
   },
   "places": {
     "ph": "/ˈpleɪsɪz/",
@@ -2280,9 +2280,9 @@
     "zh": ""
   },
   "updated": {
-    "ph": "",
+    "ph": "/ˌʌpˈdeɪtɪd/",
     "en": "To bring (a thing) up to date.",
-    "zh": ""
+    "zh": "adj. 更新的，现代化的；v. update 的过去式和过去分词：更新，使现代化，为……增加最新信息；向……提供最新信息"
   },
   "since": {
     "ph": "/sɪns/",
@@ -2295,14 +2295,14 @@
     "zh": ""
   },
   "service": {
-    "ph": "/ˈsɜːvɪs/",
+    "ph": "/ˈsɜːrvɪs/",
     "en": "An act of being of assistance to someone.",
-    "zh": ""
+    "zh": "n. 公共服务系统，公共事业；（服务性行业或机构所提供的）服务；（对顾客的）接待，招待；工作，效劳；服务费；政府机构，公务部门；兵役，军队；（机器的）使用；<旧>仆人，佣人；<英> 服务站；宗教仪式；检修，保养；整套…"
   },
   "own": {
-    "ph": "/ˈəʊn/",
+    "ph": "/oʊn/",
     "en": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
-    "zh": ""
+    "zh": "v. 有，拥有；<旧> 承认；为（某事）承担全责，承认为（某事）负全责；<美，非正式> 彻底击败，彻底羞辱；adj. 自己的，属于自己的；自己做的，为自己的；具有自己特点的，特有的；pronoun. 自己的，属于自己…"
   },
   "neighbourhood": {
     "ph": "",
@@ -2322,7 +2322,7 @@
   "see": {
     "ph": "/siː/",
     "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
-    "zh": ""
+    "zh": "v. 看见，看到；有视力，看得见；看（电影或电视节目）；注意到，看出；了解，发现；设想，预测；考虑，定夺；理解，认识到；参阅，参见；阅读；认为，看待；看望，探访；遇见，碰见；会见，会晤；交往；确保，查明；经历，遭受；…"
   },
   "shift": {
     "ph": "/ʃɪft/",
@@ -2340,9 +2340,9 @@
     "zh": ""
   },
   "asks": {
-    "ph": "/ɑːsks/",
+    "ph": "/æsks/",
     "en": "To request (information, or an answer to a question).",
-    "zh": ""
+    "zh": "vt. （ask 的第三人称单数）问，询问；要求，请求；需要；邀请；要价，讨价；vi. （ask 的第三人称单数）问，询问；要求；问候（ask after）"
   },
   "older": {
     "ph": "/ˈəʊldə/",
@@ -2400,9 +2400,9 @@
     "zh": "adj. 残障的"
   },
   "child": {
-    "ph": "/t͡ʃaɪld/",
+    "ph": "/tʃaɪld/",
     "en": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
-    "zh": ""
+    "zh": "n. 儿童，小孩；子女；深受（某时期思想）影响的人；孩子气的人，幼稚的人；缺乏经验的人"
   },
   "whose": {
     "ph": "/huːz/",
@@ -2465,9 +2465,9 @@
     "zh": ""
   },
   "gets": {
-    "ph": "/ɡɛts/",
+    "ph": "/ɡets/",
     "en": "Offspring.",
-    "zh": ""
+    "zh": "v. 得到，获得（get 的第三人称单数）；变得（与形容词连用）；抓住，逮住；到达，抵达；使，说服（某人做某事）；受到，遭到（惩罚、待遇等）；被（与过去分词连用构成被动）；<非正式>明白，理解"
   },
   "decide": {
     "ph": "/dɪˈsaɪd/",
@@ -2565,9 +2565,9 @@
     "zh": ""
   },
   "after": {
-    "ph": "/ˈæf.tə(ɹ)/",
+    "ph": "/ˈæftər/",
     "en": "Later; second (of two); next, following, subsequent",
-    "zh": ""
+    "zh": "prep. 在……之后；紧接着；一次接着一次，持续不断地；跟随，在……身后；（按顺序、重要性）在……后面，仅次于；与……对照，对比；鉴于，由于；尽管；寻找，追捕；关于；模仿，依照；以……命名；（表示时间）（…点）过（…"
   },
   "reading": {
     "ph": "/ˈriːdɪŋ/",
@@ -2585,9 +2585,9 @@
     "zh": ""
   },
   "innovation": {
-    "ph": "/ˌɪnəˈveɪʃən/",
+    "ph": "/ˌɪnəˈveɪʃ(ə)n/",
     "en": "The act of innovating; the introduction of something new, in customs, rites, etc.",
-    "zh": ""
+    "zh": "n. 新事物，新方法；革新，创新"
   },
   "applied": {
     "ph": "/əˈplaɪd/",
@@ -2612,7 +2612,7 @@
   "live": {
     "ph": "/lɪv/",
     "en": "To be alive; to have life.",
-    "zh": ""
+    "zh": "v. 生存，活着；生活在；居住；生长，栖息；（以某种方式）生活，过日子；为……而生活；以……为生；继续存在，铭记；过精彩的生活，享受生活；<非正式>（物）搁置在（某处）；恪守（规则、信念、理想等）；<古>（船）逃过劫…"
   },
   "matters": {
     "ph": "/ˈmætəz/",
@@ -2712,7 +2712,7 @@
   "difficult": {
     "ph": "/ˈdɪfɪkəlt/",
     "en": "To make difficult; to impede; to perplex.",
-    "zh": ""
+    "zh": "adj. 困难的，费力的；不友好的，难对付的"
   },
   "anxiety": {
     "ph": "/ˌæŋ(ɡ)ˈzaɪ.ə.ti/",
@@ -2797,7 +2797,7 @@
   "feel": {
     "ph": "/fiːl/",
     "en": "A quality of an object experienced by touch.",
-    "zh": ""
+    "zh": "v. 感受到，体会到；觉得，相信；使人感觉……；察觉到，意识到；触摸；受到；摸索；有知觉，能感知……；n. 感觉，气氛；触觉，手感；触摸；感知，理解；熟练使用；特性，特质"
   },
   "quoted": {
     "ph": "/ˈkwəʊtɪd/",
@@ -2807,12 +2807,12 @@
   "line": {
     "ph": "/laɪn/",
     "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
-    "zh": ""
+    "zh": "n. 线，线条；（运动场地的）场界，场地线；皱纹，褶子；分界线，边界线；（思想或行为等的）界限；轮廓，外形；排，行，列；队列，队伍；一系列（类似事物），家族；各级人员；字行，诗行；（戏剧或电影的）台词，对白；<英>罚…"
   },
   "his": {
-    "ph": "/ˈhɪz/",
+    "ph": "/hɪz/",
     "en": "Honorific alternative letter-case form of his, sometimes used when referring to God or another important figure who is understood from context.",
-    "zh": ""
+    "zh": "det. 他的，它的（指雄性动物）；pron. 他的"
   },
   "lectures": {
     "ph": "/ˈlɛkt͡ʃəz/",
@@ -2837,7 +2837,7 @@
   "pain": {
     "ph": "/peɪn/",
     "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
-    "zh": ""
+    "zh": "n. 疼痛，伤痛；苦恼，悲痛；<非正式>讨厌的人（或事）（=pain in the neck）；努力，苦心（pains）；v. <正式>使痛苦，使苦恼；<正式>使疼痛；<美>（身体某一部分）感到疼痛"
   },
   "treatment": {
     "ph": "/ˈtɹiːtmənt/",
@@ -2875,9 +2875,9 @@
     "zh": ""
   },
   "pass": {
-    "ph": "[pʰäːs]",
+    "ph": "/pæs/",
     "en": "To change place.",
-    "zh": ""
+    "zh": "v. 经过，穿过；传递，传送；传（球）；（所有权）转移，转让；（状态）转变；（数量上）超过，突破；（时间）流逝；度过，消磨；通过（考试、课程等）；批准（法律或议案）；发生，说过；略过（问题）；排泄；使（货币等）流通；…"
   },
   "treating": {
     "ph": "/ˈtɹiːtɪŋ/",
@@ -2950,9 +2950,9 @@
     "zh": "n. 耐心"
   },
   "friend": {
-    "ph": "/fɹɛnd/",
+    "ph": "/frend/",
     "en": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
-    "zh": ""
+    "zh": "n. 朋友，友人；（社交网站上的）好友；（与……是） 朋友，朋友关系（friends）；（组织或政治运动等的）支持者，（尤指）赞助者；自己人，同盟者；熟悉（或有帮助）的事物；相识的人，（偶然遇见的）陌生人（常作礼貌称…"
   },
   "deadline": {
     "ph": "/ˈdɛdˌlaɪn/",
@@ -3015,9 +3015,9 @@
     "zh": "n. 演讲、讲座"
   },
   "term": {
-    "ph": "/tɜːm/",
+    "ph": "/tɜːrm/",
     "en": "That which limits the extent of anything; limit, extremity, bound, boundary.",
-    "zh": ""
+    "zh": "n. 词语，术语；措辞（terms）；学期，开庭期；期限，任期；到期，期满；方面，角度（terms）；条件，条款（terms）；（人们之间的）关系（terms）；（数列、方程等的）项；（三段论中的）项；（建筑）界标"
   },
   "coined": {
     "ph": "/kɔɪnd/",
@@ -3035,9 +3035,9 @@
     "zh": ""
   },
   "book": {
-    "ph": "/buːk/",
+    "ph": "/bʊk/",
     "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
-    "zh": ""
+    "zh": "n. 书，书籍；本子，簿册；（长篇作品的）篇，卷，部；装订成册之物；赌局，打赌；账册，账簿；v. 预订，预约；（警方）将……记录在案；（裁判）记名警告；【名】 （Book）（英）布克，（瑞典）博克，（朝）北（人名）"
   },
   "exist": {
     "ph": "/ɪɡˈzɪst/",
@@ -3057,7 +3057,7 @@
   "life": {
     "ph": "/laɪf/",
     "en": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
-    "zh": ""
+    "zh": "n. 生命；人命，性命；生物，活物；寿命，一生；（某事物的）存在期；生活，人生；生活方式；（某种）生活；生气，活力；（绘画的）模特儿，实物；（游戏中的）一次机会，命；传记；无期徒刑，终身监禁；今生，来世"
   },
   "barber": {
     "ph": "/ˈbɑː.bə/",
@@ -3090,9 +3090,9 @@
     "zh": ""
   },
   "pub": {
-    "ph": "/pʊb/",
+    "ph": "/pʌb/",
     "en": "A public house where beverages, primarily alcoholic, may be bought and consumed, also providing food and sometimes entertainment such as live music or television.",
-    "zh": ""
+    "zh": "n. 酒吧，酒馆；酒店，旅馆；路人局（游戏术语）；abbr.  公众的；公开的（public 的缩写）；出版，发行；出版物，发行物；（信息的） 刊登，公布 （publication 的缩写）；（媒体的）关注，报道；宣…"
   },
   "argument": {
     "ph": "/ˈɑːɡjʊmənt/",
@@ -3175,9 +3175,9 @@
     "zh": ""
   },
   "much": {
-    "ph": "/mʌt͡ʃ/",
+    "ph": "/mʌtʃ/",
     "en": "Large, great.",
-    "zh": ""
+    "zh": "det. 许多；pron. 许多；优秀的事物；adv. 非常；<非正式>用在否定句末表示相反的意思；优秀的事物；经常；很大程度上；长时间地；多达（强调数量大得惊人）；【名】 【名】（Much）人名；（德）穆赫；（英）…"
   },
   "predict": {
     "ph": "/pɹɪˈdɪkt/",
@@ -3272,7 +3272,7 @@
   "play": {
     "ph": "/pleɪ/",
     "en": "Activity for amusement only, especially among the young.",
-    "zh": ""
+    "zh": "v. 玩，玩耍；捉弄，戏弄；摆弄，玩弄；耍弄，愚弄；不认真地干，闹（play at）；参加（游戏、比赛等）；与……比赛；击，踢（球）；出（牌），走（棋子）；派（某人）上场；（在球队中）打（某位置）；扮演，演出；佯装，…"
   },
   "club": {
     "ph": "/klʌb/",
@@ -3317,7 +3317,7 @@
   "down": {
     "ph": "/daʊn/",
     "en": "A negative aspect; a downer.",
-    "zh": ""
+    "zh": "adv. 朝下，向下；（坐）下，（躺）下；倒，垮，塌；（写）下，（记）下；在下方，在低处；在南部，向南方；传下去（的）；在较低水平，下降；减到更小，变得更弱；失利，落后；不能动弹地，不能移动地；到，去，在；完全地，彻…"
   },
   "ambient": {
     "ph": "/ˈæm.biː.ənt/",
@@ -3330,14 +3330,14 @@
     "zh": "n. 在场"
   },
   "near": {
-    "ph": "/nɪə(ɹ)/",
+    "ph": "/nɪr/",
     "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
-    "zh": ""
+    "zh": "adv. 距离不远，在附近；不久，很快；差不多，几乎；prep. 在......附近，靠近；接近（某时间、某事件）；（用于数字前）接近；与......相似；近乎（一种状态），就要；adj. 近，在附近；差不多的；与……"
   },
   "come": {
     "ph": "/kʌm/",
     "en": "Coming, arrival; approach.",
-    "zh": ""
+    "zh": "v. 来；来到，到达；来做，来取；同行，同去；行进（一定距离）来；赶走（某人）；变成，成为；达到，进入（某种状态或境地）；（事件）发生，（时间）到来；<非正式>（提及的时间）到来；（如何）发生，出现；备有，可提供；达…"
   },
   "welcome": {
     "ph": "/ˈwɛlkəm/",
@@ -3392,7 +3392,7 @@
   "away": {
     "ph": "/əˈweɪ/",
     "en": "To depart; to go to another place.",
-    "zh": ""
+    "zh": "adv. 距离……有多远，距离……有多久；朝另一个方向；不在，离开；（放）在安全的地方；逐渐消失；一直，继续不断地；移走；（比赛）在客场；adj. （球队比赛）客场的；n. 客场比赛，客场获胜"
   },
   "generations": {
     "ph": "/ˌdʒɛnəˈɹeɪʃənz/",
@@ -3402,12 +3402,12 @@
   "came": {
     "ph": "/keɪm/",
     "en": "Used to indicate that the following event, period, or change in state occurred in the past, after a time of waiting, enduring, or anticipation",
-    "zh": ""
+    "zh": "v. come 的过去式；n. （连接彩色玻璃窗或铅条玻璃窗玻璃片的）有槽铅条"
   },
   "age": {
-    "ph": "/eɪd͡ʒ/",
+    "ph": "/eɪdʒ/",
     "en": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
-    "zh": ""
+    "zh": "n. 年龄，年纪；寿命，（物的）年代；法定年龄；时代，时期；年龄段；<非正式>很长时间；成长，年老，陈年；（地质）代；v. 变老，老化；（使）显老，（使）苍老；（使）变陈，（使）成熟；<英>推算年龄"
   },
   "discovering": {
     "ph": "/dɪsˈkʌvəɹɪŋ/",
@@ -3432,7 +3432,7 @@
   "back": {
     "ph": "/bæk/",
     "en": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
-    "zh": ""
+    "zh": "n. 后面，后部；背部；（文件等的）背面；（书等的）末尾；椅背，靠背；后卫；（the Backs）（背向剑河的）剑桥大学后园；adj. 后面的，位于后部的；偏远的，偏僻的；到期未付的，拖欠的；早期出版的，过期的；向后…"
   },
   "unexpectedly": {
     "ph": "/ʌnɪkˈspɛktɪdli/",
@@ -3467,7 +3467,7 @@
   "me": {
     "ph": "/miː/",
     "en": "As the direct object of a verb.",
-    "zh": ""
+    "zh": "pron. 我（宾格）；n. 自我；极端自私的人；自我的一部分"
   },
   "wants": {
     "ph": "/wɒnts/",
@@ -3530,9 +3530,9 @@
     "zh": ""
   },
   "rent": {
-    "ph": "/ɹɛnt/",
+    "ph": "/rent/",
     "en": "A payment made by a tenant at intervals in order to occupy a property.",
-    "zh": ""
+    "zh": "n. 租金，租用费；（布等上面的）破洞，裂口；vt. 租用，租借；出租，将……租给； 可租用，租金为；v. 撕裂，扯碎；（声音）响彻，刺破；<文>使心碎（rend 的过去式和过去分词形式）"
   },
   "increases": {
     "ph": "",
@@ -3645,9 +3645,9 @@
     "zh": ""
   },
   "a": {
-    "ph": "/æɪ/",
+    "ph": "/ə/",
     "en": "The name of the Latin script letter A/a.",
-    "zh": ""
+    "zh": "art. 一；任一；每一"
   },
   "structured": {
     "ph": "",
@@ -3670,14 +3670,14 @@
     "zh": ""
   },
   "of": {
-    "ph": "/ɔv/",
+    "ph": "/ʌv/",
     "en": "Expressing distance or motion.",
-    "zh": ""
+    "zh": "prep. ……的，属于；……的一部分；（用于数量词或容器名词后）表示计量；住在（某地）；关于，有关；由……制成或组成的；因为，由于；用于动作名词后表示动作的执行者或承受者；（用于同位结构）即，也就是；（表示人或事物…"
   },
   "code": {
-    "ph": "/kəʊd/",
+    "ph": "/koʊd/",
     "en": "A short symbol, often with little relation to the item it represents.",
-    "zh": ""
+    "zh": "n. 密码，暗码；（邮政）编码，（电话）区号；（计算机）编码；道德准则，行为规范；法典，法规；v. 把……编码（或编号）；把……译成密码；（给计算机）编写指令；【名】 （Code）（英、法、西）科德（人名）"
   },
   "responses": {
     "ph": "",
@@ -3700,9 +3700,9 @@
     "zh": ""
   },
   "people": {
-    "ph": "/ˈpiːpəl/",
+    "ph": "/ˈpiːp(ə)l/",
     "en": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
-    "zh": ""
+    "zh": "n. 人，人类；人们，大家（the people）；平民，老百姓（the people）；民族，种族（peoples）；（具有共同品质、兴趣等的）人员，团体；与某人有联系的人们（one's people）；<美，非正…"
   },
   "talked": {
     "ph": "[tʰɔːkt]",
@@ -3710,14 +3710,14 @@
     "zh": ""
   },
   "can": {
-    "ph": "/ˈkæn/",
+    "ph": "/kæn/",
     "en": "(auxiliary verb, defective) To know how to; to be able to.",
-    "zh": ""
+    "zh": "v. （表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；<美，非正式>解雇，开除；<美，非…"
   },
   "only": {
-    "ph": "/ˈəʊn.li/",
+    "ph": "/ˈoʊnli/",
     "en": "An only child.",
-    "zh": ""
+    "zh": "adv. 只，只有；仅在……情况下（或地方等）；只是，不过（表示不重要、不严重等）；（强调数量少或时间段）仅仅，才；不早于，直到……才；（除此之外别无可为）只能；（用于说明事情的恶果）只会；不料，竟然；只能（希望或愿…"
   },
   "measure": {
     "ph": "/ˈmɛʒə/",
@@ -3725,9 +3725,9 @@
     "zh": ""
   },
   "what": {
-    "ph": "/wɔt/",
+    "ph": "/wʌt/",
     "en": "(Singlish) Used to contradict an underlying assumption held by the interlocutor.",
-    "zh": ""
+    "zh": "det. 什么，什么样的；（指数量的全部）所……的；全部的，所有的；多么（好或坏）的，何等的；pron. 什么；（感叹）多么；无论什么；……的事物；conj. （用于动词和形容词后引导名词性关系从句）什么，所……的事…"
   },
   "somebody": {
     "ph": "/ˈsʌmbədɪ/",
@@ -3747,7 +3747,7 @@
   "an": {
     "ph": "/æn/",
     "en": "One",
-    "zh": ""
+    "zh": "det. 一个（用于元音前）；art. 一（在元音音素前）"
   },
   "extremely": {
     "ph": "/ɪksˈtɹiːmli/",
@@ -3755,14 +3755,14 @@
     "zh": ""
   },
   "good": {
-    "ph": "/ɡʊ(d)/",
+    "ph": "/ɡʊd/",
     "en": "(of people)",
-    "zh": ""
+    "zh": "adj. 优良的；能干的，擅长的；令人愉快的，满意的；合适的，方便的；有益的；乖的；虔诚的；健康的；善良的；正直的；相当大的，相当多的；至少；彻底的；明智的，合理的；划算的，收益可观的；赢得赞许的，令人尊敬的；（用于…"
   },
   "at": {
-    "ph": "",
+    "ph": "/æt/",
     "en": "To reply to or talk to someone, either online or face-to-face. (from the practice of targeting a message or reply to someone online by writing @name)",
-    "zh": ""
+    "zh": "prep. 在（表示存在或出现的地点、场所、位置、空间）；在……岁时；在……远；以（某种价格、速度等）；向，朝；处于……状态；处于最佳（或最差等）状态；达；因为；在……方面；响应；忙于；（武器）瞄准；用，以；（抓）住…"
   },
   "dimensions": {
     "ph": "/daɪˈmɛnʃənz/",
@@ -3790,14 +3790,14 @@
     "zh": ""
   },
   "else": {
-    "ph": "/ɛls/",
+    "ph": "/els/",
     "en": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
-    "zh": ""
+    "zh": "adv. 此外，其他；否则，要不然；adj. 其他的，另外的；【名】 （Else）（英）埃尔斯，（德）埃尔泽，（芬、丹）埃尔塞（人名）"
   },
   "this": {
-    "ph": "/ðəs/",
+    "ph": "/ðɪs/",
     "en": "Something being indicated that is here; one of these.",
-    "zh": ""
+    "zh": "pron. 这，这个；这样；今，本；……的这个；有个；adj. 这，这个（离说话人较近的）；adv. 这样地，这么；det. 这（指前面曾提及或暗指的人或物）； 这（指当前所处的地方或时间）；这（指即将要发生某事的时…"
   },
   "framing": {
     "ph": "/ˈfɹeɪmɪŋ/",
@@ -3827,7 +3827,7 @@
   "these": {
     "ph": "/ðiːz/",
     "en": "The thing, item, etc. being indicated.",
-    "zh": ""
+    "zh": "det. 这些（this 的复数）；pron. 这些（this 的复数）；adj. 这些的（this 的复数）"
   },
   "learned": {
     "ph": "/ˈlɜːnɪd/",
@@ -3845,9 +3845,9 @@
     "zh": "adv. 完全地"
   },
   "yet": {
-    "ph": "/jɛt/",
+    "ph": "/jet/",
     "en": "(usually with negative) Thus far; up to the present; up to some specified time; still",
-    "zh": ""
+    "zh": "adv. 仍然，还；现在，此刻；迄今为止，到目前为止；还需，还差；终归，迟早；又，甚至（强调增加或重复）；然而，尽管；conj. 然而，但是；【名】 （Yet）（东南亚国家华语）一（人名）"
   },
   "copywriter": {
     "ph": "/ˈkɒpiˌɹaɪtə/",
@@ -3912,7 +3912,7 @@
   "being": {
     "ph": "/ˈbiːɪŋ/",
     "en": "A living creature.",
-    "zh": ""
+    "zh": "n. 生物；存在；本质，本性；v. 因为，由于（用于非限定分句）；v. 存在，生存；位于（be 的现在分词形式）"
   },
   "cared": {
     "ph": "/kɛəd/",
@@ -3925,9 +3925,9 @@
     "zh": ""
   },
   "tube": {
-    "ph": "/tjuːb/",
+    "ph": "/tuːb/",
     "en": "Anything that is hollow and cylindrical in shape.",
-    "zh": ""
+    "zh": "n. （金属、塑料、玻璃等材料制的）管，管子；管状物；（装柔软物质的）软管；管状器官；<英>（伦敦）地铁；<美>电视机（the tube）；紧身女衣；<澳，非正式>一听（或一罐）啤酒；阴极射线管，电视显像管；<美>热…"
   },
   "likely": {
     "ph": "/ˈlaɪkli/",
@@ -3950,9 +3950,9 @@
     "zh": ""
   },
   "work": {
-    "ph": "/wɜːk/",
+    "ph": "/wɜːrk/",
     "en": "(heading) Employment.",
-    "zh": ""
+    "zh": "n. 工作，职业；劳动，活计；职责，工作内容；作品，著作；工作成果，作为；工作地点，工作时间；工作所需的材料（或档案等）；（机器的）活动部件（the works）；<非正式>所有东西，全套物品（the works）；…"
   },
   "where": {
     "ph": "/wɛə(ɹ)/",
@@ -3965,9 +3965,9 @@
     "zh": ""
   },
   "data": {
-    "ph": "/ˈdaetə/",
+    "ph": "/ˈdeɪtə/",
     "en": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
-    "zh": ""
+    "zh": "n. 数据，资料；（储存在计算机中的）数据资料；【名】 （Data）（日）驮太，（印、葡）达塔（人名）"
   },
   "breaks": {
     "ph": "/bɹeɪks/",
@@ -3975,14 +3975,14 @@
     "zh": ""
   },
   "more": {
-    "ph": "/ˈmɔː/",
+    "ph": "/mɔːr/",
     "en": "To a greater degree or extent.",
-    "zh": ""
+    "zh": "det. （数、量等）更多的，更大的（much、a lot of 和 many 的比较级）；另外的，附加的；pron. （数、量等）更多的，更大的（much、a lot of 和 many 的比较级）；多了的部分"
   },
   "rest": {
-    "ph": "/ɹɛst/",
+    "ph": "/rest/",
     "en": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
-    "zh": ""
+    "zh": "v. 休息，歇息；使（运动员）暂时离队； （问题，事情）被搁置；（被）支撑，（使）倚靠；安息，长眠；在于，存放于；（目光）停留（rest on）；依靠，仰仗（rest on/upon）；寄（希望）于，相信；让（土地）…"
   },
   "combined": {
     "ph": "/kəmˈbaɪnd/",
@@ -3990,9 +3990,9 @@
     "zh": ""
   },
   "always": {
-    "ph": "/ˈɔː(l).weɪz/",
+    "ph": "/ˈɔːlweɪz/",
     "en": "At all times; throughout all time; since the beginning.",
-    "zh": ""
+    "zh": "adv. 总是，每次都是；一直，长久以来；永远；老是，一再；总还有（表示有另一种可能）"
   },
   "finally": {
     "ph": "/ˈfaɪ.nəl.i/",
@@ -4005,9 +4005,9 @@
     "zh": "n. 谦逊"
   },
   "notice": {
-    "ph": "/ˈnəʊtɪs/",
+    "ph": "/ˈnoʊtɪs/",
     "en": "The act of observing; perception.",
-    "zh": ""
+    "zh": "n. 注意，察觉；通告，布告；公告牌，警示牌；通知；事先声明，警告；预先通知期；剧评，书评；辞职信，搬迁通知；（报纸、杂志上的）小型广告，简短通告；警告书，说明书；v. 意识，注意；留意；正式通知；简评；客气对待；<…"
   },
   "matter": {
     "ph": "/ˈmætə/",
@@ -4015,9 +4015,9 @@
     "zh": ""
   },
   "job": {
-    "ph": "/d͡ʒɒb/",
+    "ph": "/dʒɑːb/",
     "en": "A task.",
-    "zh": ""
+    "zh": "n. 工作，职业；零工，任务；职责，责任；<非正式>罪行，（尤指）盗窃；<非正式> 东西，物件；费力的事；幸运的事；刺，捅；<非正式>东西，物件；v. 刺，捅；（尤指经纪人小规模操作）买卖股票；<非正式>欺骗，出卖；…"
   },
   "researcher": {
     "ph": "",
@@ -4032,12 +4032,12 @@
   "make": {
     "ph": "/meɪk/",
     "en": "Brand or kind; model.",
-    "zh": ""
+    "zh": "v. 制造；制定，拟定；使变得，使处于；造成，引起；整理（床铺）；做，作出；强迫；挑选，任命；成为，适合；合计，等于；计算，估算；安排，组织；表现，描绘；挣钱，赚钱；（体育比赛）得分；（尽力）赶往，到达；排成 （某图…"
   },
   "way": {
     "ph": "/weɪ/",
     "en": "(heading) To do with a place or places.",
-    "zh": ""
+    "zh": "n. 方法，手段；习俗，习惯，行为方式；（行事）作风，（某事发生的）方式；道路，路线；行进路线，通路；方向；……路（用于道路的名称）；出入通道，门口；距离，时段；方面；（两种之一的）选择；情况，状态；（某人居住的）地…"
   },
   "intention": {
     "ph": "/ɪnˈtɛnʃən/",
@@ -4047,12 +4047,12 @@
   "give": {
     "ph": "/ɡɪv/",
     "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
-    "zh": ""
+    "zh": "v. 给，交给；赠送，赠与，送给；提供，供给；捐赠；支付，付款；将（时间、精力等）用于；举办，举行；表演，公开进行；允许；使产生（某种感觉）；使拥有（某一特性）；生产，引起；给（某人）打（电话）；告诉，说出，说明；给…"
   },
   "name": {
     "ph": "/neɪm/",
     "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
-    "zh": ""
+    "zh": "n. 名字，名称；名声，名誉；<非正式>名人，有名的事物；（侮辱人的）绰号，别称；（英国）属劳埃德保险社辛迪加的承保人；v. 命名，给……取名；说出……的名称，叫出……的名字；说定，确定；任命，委任；<英>（下议院议…"
   },
   "teams": {
     "ph": "",
@@ -4087,7 +4087,7 @@
   "sat": {
     "ph": "/sæt/",
     "en": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
-    "zh": ""
+    "zh": "v. 坐（sit 的过去式和过去分词）；n. （Sat）（中、柬）萨；（印）萨特（人名）"
   },
   "comfortably": {
     "ph": "/ˈkʌmf(ə)təbli/",
@@ -4150,14 +4150,14 @@
     "zh": ""
   },
   "so": {
-    "ph": "/səʊ/",
+    "ph": "/soʊ/",
     "en": "True, accurate.",
-    "zh": ""
+    "zh": "adv. （表程度）如此，这么；也一样（用于倒装）；（口语）那么（引出新话题）；确是如此；conj. 所以，因此；以便，为了（表目的）；pron. 这样，如此（指代前述内容、情况或方式）"
   },
   "even": {
-    "ph": "/ˈiːvən/",
+    "ph": "/ˈiːv(ə)n/",
     "en": "(diminutive) An even number.",
-    "zh": ""
+    "zh": "adj. 平坦的，水平的；平静的，平和的；平齐的，挨着的；无变化的，平稳的；势均力敌的，不相上下的；双数的，偶数的；平等的，公平的；不变的，恒定的；（某事发生的概率）对半的，各半的；扯平的，互不相欠的；匀称的，同样大…"
   },
   "discovered": {
     "ph": "/dɪsˈkʌvəd/",
@@ -4225,19 +4225,19 @@
     "zh": ""
   },
   "or": {
-    "ph": "/ɔː(ɹ)/",
+    "ph": "/ɔːr/",
     "en": "Connects at least two alternative words, phrases, clauses, sentences, etc. each of which could make a passage true. In English, this is the \"inclusive or.\" The \"exclusive or\" is formed by \"either [...] or\".",
-    "zh": ""
+    "zh": "conj. （用以引出另一种可能性）或，或者，还是；（用于否定动词后）也不；（用于警告或忠告）否则，不然；（用于两个数字之间表示约略数目）大约；（用于引出解释性词语）或者说；（用于说明原因）不然，否则；（用于引出对比…"
   },
   "show": {
-    "ph": "/ʃəʊ/",
+    "ph": "/ʃoʊ/",
     "en": "A play, dance, or other entertainment.",
-    "zh": ""
+    "zh": "v. 显示，表明；给……看，出示；演示，教；带领，引领；表露出，显示出；（对某人）表现出，对待；容易显出，容易看到；标示，标明；描绘，描述；放映，播出；展示，展出；露面，出现；证明，证实；替（动物）报名参加比赛；<非…"
   },
   "up": {
-    "ph": "/ap/",
+    "ph": "/ʌp/",
     "en": "The direction opposed to the pull of gravity.",
-    "zh": ""
+    "zh": "adv. 向上，由低向高；到楼上；（太阳）升起；在高处；面朝上，面朝天；从地下到表面，向水面；向北方，朝北方；往（较高或较远的）某处；去，在（更重要的地方，如大城市或大学）；到……的近处，靠近；到前面，朝前面；处于（…"
   },
   "headline": {
     "ph": "/ˈhɛd.laɪn/",
@@ -4275,14 +4275,14 @@
     "zh": ""
   },
   "told": {
-    "ph": "/tɔʊld/",
+    "ph": "/toʊld/",
     "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
-    "zh": ""
+    "zh": "vt. 告诉，说；辨别；吩咐；断定（tell的过去式和过去分词）；vi. 讲述；告发，泄密；识别（tell的过去式和过去分词）"
   },
   "why": {
     "ph": "/waɪ/",
     "en": "Reason",
-    "zh": ""
+    "zh": "adv. （用于问句）为什么，为何；（反问，表示不必）何必；……的原因；为什么（不）；为什么（表生气或恼火）；n. 理由，原因；int. 哎呀"
   },
   "rewards": {
     "ph": "",
@@ -4290,9 +4290,9 @@
     "zh": ""
   },
   "get": {
-    "ph": "/ɡɛt/",
+    "ph": "/ɡet/",
     "en": "Offspring.",
-    "zh": ""
+    "zh": "v. 收到，接到；获得，得到；挣得，赚得；去取，去带来；买；得（病），患（病）；遭受……之苦；变成，变得；形成（想法、感觉）；促使，使得；使开始，使进展；得以做，有机会做；到达；达到（某一点或某一阶段）；移动，去；理…"
   },
   "return": {
     "ph": "/ɹɪˈtɜːn/",
@@ -4315,19 +4315,19 @@
     "zh": ""
   },
   "street": {
-    "ph": "/stɹiːt/",
+    "ph": "/striːt/",
     "en": "A paved part of road, usually in a village or a town.",
-    "zh": ""
+    "zh": "n. 街道，街；马路，车行道；街头，户外（公共场合）；（用于街道名称或地址）…街，…大街"
   },
   "portfolio": {
-    "ph": "/-əʊl.jəʊ/",
+    "ph": "/pɔːrtˈfoʊlioʊ/",
     "en": "A case for carrying papers, drawings, photographs, maps and other flat documents.",
-    "zh": ""
+    "zh": "n. 公文包，画夹；（成册展示的）作品集，照片集；（个人或机构的）投资组合；（部长或大臣的）职责，职务；（公司或机构提供的）系列产品，成套物品；adj. （职业类型）短期合同制的，兼职的"
   },
   "am": {
-    "ph": "[e̞m]",
+    "ph": "/æm/",
     "en": "Before noon.",
-    "zh": ""
+    "zh": "v. 是（be 的第一人称单数现在时）；abbr. 上午（同 a.m.）；abbr. （AM）调幅（Amplitude Modulation）；威尔士国民议会（assembly member）"
   },
   "countries": {
     "ph": "/ˈkʌntɹiz/",
@@ -4340,9 +4340,9 @@
     "zh": ""
   },
   "time": {
-    "ph": "/tɑem/",
+    "ph": "/taɪm/",
     "en": "The inevitable progression into the future with the passing of present and past events.",
-    "zh": ""
+    "zh": "n. （以分钟、小时、天等计量的）时间；（钟表上的）时刻；（世界各地不同的）计时体系；（某事发生或应该发生的）时候；一段时间，某段日子；规定时间，可用时间；时代，时期；时光，岁月；生命（期），期限；次，回；倍（tim…"
   },
   "received": {
     "ph": "/ɹɪˈsiːvd/",
@@ -4432,12 +4432,12 @@
   "kind": {
     "ph": "/kaɪnd/",
     "en": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
-    "zh": ""
+    "zh": "n. 种类；同类的人；特征，性质；圣餐的圣体（指面包或葡萄酒）；adj. 宽容的，体贴的，亲切友好的；温和的，无害的；关爱的，好心的（尤用于答谢语中）；【名】 （Kind）（德、法、俄、捷）金德，（瑞典）欣德（人名）"
   },
   "run": {
-    "ph": "/ɹʊn/",
+    "ph": "/rʌn/",
     "en": "To run.",
-    "zh": ""
+    "zh": "v. 跑，奔跑；参加（赛跑），举行（比赛）；跑垒，持球跑动进攻；奔忙，赶快去；管理，经营，使用（车辆）；（使）运转，操作；刊登，播放；（使）行驶；（使）移动，揉擦；闯红灯；（使）流动，流淌；掉色，渗色；变成，变得；达…"
   },
   "through": {
     "ph": "/θɹuː/",
@@ -4482,7 +4482,7 @@
   "six": {
     "ph": "/sɪks/",
     "en": "The digit or figure 6.",
-    "zh": ""
+    "zh": "num. 六，数字 6；六个；六个人（或物）一组；六岁；六点钟；n. （Six）<美，德>西克斯（人名）"
   },
   "adjust": {
     "ph": "/əˈdʒʌst/",
@@ -4502,17 +4502,17 @@
   "list": {
     "ph": "/lɪst/",
     "en": "A strip of fabric, especially from the edge of a piece of cloth.",
-    "zh": ""
+    "zh": "n. 列表，清单；（船）倾侧；围栏；（织物的）镶边；<旧>渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场；v. 列清单，拟订清单；把……列入名单；（使）（公司）上市；标价；（船）倾斜；<旧>征召（士兵）；<…"
   },
   "open": {
-    "ph": "/ˈəʊ.pən/",
+    "ph": "/ˈoʊpən/",
     "en": "Not closed",
-    "zh": ""
+    "zh": "adj. 开放的，营业的；开着的，敞开的；（身体部位）张开的；露天的，无遮盖的；开阔的，未围上的；可通行的，畅通的；伸开的，展开的；坦率的；不保密的，公开的；易受影响的，易受攻击的；人人可以参加的；（对特定群体）开放…"
   },
   "said": {
-    "ph": "/sɛd/",
+    "ph": "/sed/",
     "en": "Mentioned earlier; aforesaid.",
-    "zh": ""
+    "zh": "adj. <法律>上述的，该……；v. 说，讲；宣称，说明；认为，据说（say 的过去式和过去分词）；【名】 （Said）（乌兹、阿拉伯）赛义德（人名）"
   },
   "effect": {
     "ph": "/ɪˈfɛkt/",
@@ -4540,9 +4540,9 @@
     "zh": "adj. 政治的"
   },
   "john": {
-    "ph": "/ˈdʒɒn/",
+    "ph": "/dʒɑːn/",
     "en": "A prostitute's client.",
-    "zh": ""
+    "zh": "n. <美，非正式>厕所；<美，非正式>嫖客；【名】 （John）约翰（人名）"
   },
   "veil": {
     "ph": "/veɪl/",
@@ -4637,12 +4637,12 @@
   "take": {
     "ph": "/teɪk/",
     "en": "The or an act of taking.",
-    "zh": ""
+    "zh": "v. 携带，拿走；带去，引领；使达到，提升；拿，取；移走，拿开；偷走，误拿；取材于，收集；攻占，控制；选中，买下；订阅（报纸等）；吃，服用；减去；记录，摘录；照相，摄影；量取，测定；就（座）；以…...为例；接受，收…"
   },
   "submit": {
     "ph": "/səbˈmɪt/",
     "en": "To yield or give way to another.",
-    "zh": ""
+    "zh": "v. 呈递，提交；屈服，不得已接受；建议，主张；使经受，使受到"
   },
   "trivial": {
     "ph": "/ˈtɹɪ.vi.əl/",
@@ -4670,9 +4670,9 @@
     "zh": ""
   },
   "certainly": {
-    "ph": "/ˈsɜːtn̩li/",
+    "ph": "/ˈsɜːrt(ə)nli/",
     "en": "In a way which is certain; with certainty.",
-    "zh": ""
+    "zh": "adv. 无疑，确定；当然，行（用于回答）"
   },
   "deploy": {
     "ph": "/dɪˈplɔɪ/",
@@ -4685,9 +4685,9 @@
     "zh": ""
   },
   "says": {
-    "ph": "",
+    "ph": "/sez/",
     "en": "A chance to speak; the right or power to influence or make a decision.",
-    "zh": ""
+    "zh": "v. 说；讲（动词 say 的第三人称单数现在时形式）"
   },
   "lazy": {
     "ph": "/ˈleɪzi/",
@@ -4695,9 +4695,9 @@
     "zh": "adj. 懒惰的"
   },
   "lack": {
-    "ph": "/lak/",
+    "ph": "/læk/",
     "en": "A defect or failing; moral or spiritual degeneracy.",
-    "zh": ""
+    "zh": "n. 缺乏，不足；v. 缺乏，不足；需要；【名】 （Lack）（美、德）拉克（人名）"
   },
   "self-discipline": {
     "ph": "",
@@ -4715,9 +4715,9 @@
     "zh": ""
   },
   "morning": {
-    "ph": "/ˈmɔːnɪŋ/",
+    "ph": "/ˈmɔːrnɪŋ/",
     "en": "The part of the day from dawn to noon.",
-    "zh": ""
+    "zh": "n. 早晨，上午，早上；黎明，破晓，清早；初期，开端（多用于文学或比喻）"
   },
   "routine": {
     "ph": "/ɹuːˈtiːn/",
@@ -4777,7 +4777,7 @@
   "adds": {
     "ph": "/ædz/",
     "en": "An act or instance of adding.",
-    "zh": ""
+    "zh": "v. add 的第三人称单数现在时：加，添加；增加，增添；补充说；adds up 合计，加起来；（口语）说得通；abbr. ADDS 的缩写：高级数据显示系统（Advanced Data Display System…"
   },
   "guilt": {
     "ph": "/ɡɪlt/",
@@ -4785,14 +4785,14 @@
     "zh": "n. 内疚"
   },
   "top": {
-    "ph": "/tɒp/",
+    "ph": "/tɑːp/",
     "en": "The highest or uppermost part of something.",
-    "zh": ""
+    "zh": "n. 顶部，顶端，上端；上层表面；最高的级别，最重要的职位；尽头，远端；帽，盖，塞；上衣，上装；（根菜作物的）茎叶；陀螺；<非正式>特别好的人（或事）（tops）；<英>（用于款额后）最高额（tops）；开始，开端；…"
   },
   "find": {
     "ph": "/faɪnd/",
     "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
-    "zh": ""
+    "zh": "v. 找到，找回；发现，发觉；（经过研究）找出，查明；感到，认为；生长在某处，存在于某地；设法获得；开始有……；裁决，判决；自然到达，达到；鼓起（勇气），振作（精神）；（猎人，猎犬）发现猎物（尤指发现狐狸）"
   },
   "yourself": {
     "ph": "/jɔːˈsɛlf/",
@@ -4807,7 +4807,7 @@
   "should": {
     "ph": "/ʃʊd/",
     "en": "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
-    "zh": ""
+    "zh": "v. （用于纠正别人）应该；（用于建议）该，可以；（表示预期）应该会；（表示与预期相反）本应；（与 I 或 we 连用代替 would，表示虚拟结果）就将；（用于 that 从句，表示建议或安排）可以；（用于 tha…"
   },
   "avoiding": {
     "ph": "/əˈvɔɪdɪŋ/",
@@ -4825,9 +4825,9 @@
     "zh": ""
   },
   "fear": {
-    "ph": "/fɪə/",
+    "ph": "/fɪr/",
     "en": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
-    "zh": ""
+    "zh": "v. 害怕，畏惧；担心，忧虑；敬畏；n. 恐惧；担心；（坏事发生的）可能性；敬畏"
   },
   "judgement": {
     "ph": "/dʒʌdʒmənt/",
@@ -4840,9 +4840,9 @@
     "zh": "n. 失败"
   },
   "want": {
-    "ph": "/wɔnt/",
+    "ph": "/wɑːnt/",
     "en": "A desire, wish, longing.",
-    "zh": ""
+    "zh": "v. 想要，希望；需要；（用于提出建议）应该；缺少；搜捕，追捕；想见（某人），想与（某人）谈话；（用于疑问句中表示提议或邀请）想要，需要；照料，爱护（小孩）；想要进去，想要出去；应受"
   },
   "primordial": {
     "ph": "/pɹaɪˈmɔː.di.əl/",
@@ -4860,9 +4860,9 @@
     "zh": "n. 元分析"
   },
   "journal": {
-    "ph": "/ˈd͡ʒɜːnəl/",
+    "ph": "/ˈdʒɜːrn(ə)l/",
     "en": "A diary or daily record of a person, organization, vessel etc.; daybook.",
-    "zh": ""
+    "zh": "n. 杂志，期刊，报纸；日记，日志；（会计）日记账"
   },
   "bulletin": {
     "ph": "/ˈbʊlətɪn/",
@@ -4885,9 +4885,9 @@
     "zh": "v. 隐藏"
   },
   "lets": {
-    "ph": "/lɛts/",
+    "ph": "/lets/",
     "en": "The allowing of possession of a property etc. in exchange for rent.",
-    "zh": ""
+    "zh": "abbr. 地方交易系统（Local Exchange Trading System）"
   },
   "start": {
     "ph": "/stɑːt/",
@@ -4965,9 +4965,9 @@
     "zh": ""
   },
   "stop": {
-    "ph": "/stɒp/",
+    "ph": "/stɑːp/",
     "en": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
-    "zh": ""
+    "zh": "v. （使）停止，结束；（使）中断；（机器等）停止运转；（汽车或火车）停靠；暂时中断（以便做某事）；防止，阻拦；堵塞；短暂停留；停付，扣除；处于，表现；n. 停止，终止；车站；<美>停车路口；（旅行中的）逗留，停留；…"
   },
   "chronic": {
     "ph": "/ˈkɹɒnɪk/",
@@ -4980,9 +4980,9 @@
     "zh": ""
   },
   "united": {
-    "ph": "/juːˈnaɪtɪd/",
+    "ph": "/juˈnaɪtɪd/",
     "en": "To bring together as one.",
-    "zh": ""
+    "zh": "adj. 团结的，统一的；共同的，一致的；联队（用于某些足球队名）；（国家）统一的，合并的；v. （使）联合，（使）团结（unite 的过去式和过去分词形式）"
   },
   "states": {
     "ph": "/steɪts/",
@@ -5002,7 +5002,7 @@
   "game": {
     "ph": "/ɡeɪm/",
     "en": "A playful or competitive activity.",
-    "zh": ""
+    "zh": "n. 游戏，比赛；一局，一场；运动会；体育课，体育活动；儿戏；诡计，花招；猎物，野味；行当，行业；玩耍，消遣；比赛技巧；adj. 愿意尝试的，有冒险精神的；<旧>（腿）残疾的，瘸的；v. 操纵；玩视频（或电视、电脑）…"
   },
   "category": {
     "ph": "/ˈkætəˌɡɔɹi/",
@@ -5010,19 +5010,19 @@
     "zh": "n. 类别"
   },
   "really": {
-    "ph": "/ˈɹɪəli/",
+    "ph": "/ˈriːəli/",
     "en": "In a way or manner that is real, not unreal.",
-    "zh": ""
+    "zh": "adv. 真正地，事实上；确实的，的确（用于加强语气）；很，十分；（用于带有隐含的否定回答的疑问句和感叹句）真的，是吗；用于缓和否定语气；int. 真的（用来表示兴趣、惊奇或疑惑）；真是的！（用于表示生气或不赞成）；…"
   },
   "number": {
-    "ph": "/ˈnʌmbə/",
+    "ph": "/ˈnʌmbər/",
     "en": "An abstract entity used to describe quantity.",
-    "zh": ""
+    "zh": "n. 数字；编号，序数；电话号码；总量，数量；大量（numbers）；一群人；（杂志的）期，号；（演出中的）一首歌，一段舞蹈；<非正式>有吸引力的人（或事物）；数，单复数；历史数据（numbers）；数字彩票（num…"
   },
   "four": {
-    "ph": "/foː/",
+    "ph": "/fɔːr/",
     "en": "The digit or figure 4; an occurrence thereof.",
-    "zh": ""
+    "zh": "num. 四，四个；n. 四个人（或事）的一组；（板球）四分的一击；（衣服等）四号；四点的纸牌；四桨赛艇，四人划船队；（Four）（法、美）福尔（人名）；adj. 四的，四个的"
   },
   "north": {
     "ph": "/noːθ/",
@@ -5090,14 +5090,14 @@
     "zh": "v. 撞到"
   },
   "chair": {
-    "ph": "/t͡ʃɛə(ɹ)/",
+    "ph": "/tʃer/",
     "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
-    "zh": ""
+    "zh": "n. 椅子；主席，委员长；电椅；大学教授的职位；v. 主席，主持；用椅子把某人高高抬起；使……入座；使就任要职；【名】 （Chair）（法）谢尔 （人名）"
   },
   "eye": {
     "ph": "/aɪ/",
     "en": "An organ through which animals see (perceive surroundings via light).",
-    "zh": ""
+    "zh": "n. 眼睛；目光，所看之处；眼力，鉴赏力；眼光，视角；观点，态度；（钩）环，扣眼；（马铃薯上的）芽眼，芽；（飓风等风暴的）风眼；拍摄对象，取景器；（电）眼，（红外）眼，眼状探测装置；针眼，针鼻儿"
   },
   "table": {
     "ph": "/ˈteɪbəl/",
@@ -5140,9 +5140,9 @@
     "zh": ""
   },
   "price": {
-    "ph": "/pɹaɪs/",
+    "ph": "/praɪs/",
     "en": "The cost required to gain possession of something.",
-    "zh": ""
+    "zh": "n. 价格；代价；开价，价码；投注赔率；<古> 价值；v. 为……定价；给（商店中的产品）标价；比较……的价格；问……的价格；【名】 （Price）（英）普赖斯，（法）普里斯，（葡、瑞典）普里塞（人名）"
   },
   "trade-offs": {
     "ph": "",
@@ -5160,14 +5160,14 @@
     "zh": ""
   },
   "go": {
-    "ph": "/ɡəʉ/",
+    "ph": "/ɡoʊ/",
     "en": "The act of going.",
-    "zh": ""
+    "zh": "v. 去，走；（尤指与某人）去（某处或出席某项活动）；可能要，打算做；移动，行走；在移动中做；做某个动作；离开；（为某目的）去（某处）；去做（某事）；被发送，被传递；参加（电视或电台节目）；通向，延伸到；上升；放在（…"
   },
   "my": {
-    "ph": "/mi/",
+    "ph": "/maɪ/",
     "en": "Used to express surprise, shock or amazement.",
-    "zh": ""
+    "zh": "pron. 我的；int. 哎呀（表示惊奇等）；喔唷；n. （My）人名；（越）美；（老、柬）米"
   },
   "apartment": {
     "ph": "/əˈpɑːt.mənt/",
@@ -5192,7 +5192,7 @@
   "case": {
     "ph": "/keɪs/",
     "en": "An actual event, situation, or fact.",
-    "zh": ""
+    "zh": "n. 具体情况，实例；病例，病案；诉讼，官司；案件，案子；容器，箱子；事实，论据；（特定处境或品性的）人；（语法的）格；v. 围绕，包盖；（盗抢前）探察，踩点儿；装入保护容器内；【名】 （Case）（英）凯斯，（西）…"
   },
   "historical": {
     "ph": "/hɪˈstɒɹɪkəl/",
@@ -5252,7 +5252,7 @@
   "walk": {
     "ph": "/wɔːk/",
     "en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
-    "zh": ""
+    "zh": "v. 走，步行；徒步旅行，散步；陪（某人）走，护送（某人）；带（宠物）散步，遛；把（某物）移走，使（某物）移动；<非正式>消失，被偷；轻易做成（某事）；<非正式>放弃，突然退出；出现，显灵；（使）上一垒；被无罪释放，…"
   },
   "supermarket": {
     "ph": "/ˌsuːpəˈmɑːkɪt/",
@@ -5267,7 +5267,7 @@
   "sits": {
     "ph": "/sɪts/",
     "en": "Subsidence of the roof of a coal mine.",
-    "zh": ""
+    "zh": "v. 坐（sit 的第三人称单数形式）；n. 一段坐着的时间（sit 的复数）"
   },
   "level": {
     "ph": "/ˈlɛv.əl/",
@@ -5385,9 +5385,9 @@
     "zh": ""
   },
   "word": {
-    "ph": "/wɜːd/",
+    "ph": "/wɜːrd/",
     "en": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
-    "zh": ""
+    "zh": "n. 字，词，单词；（某人说的）话，言语（words）；简短的交谈，谈话；命令，指示；消息，信息；诺言，承诺；口角，吵架（words）；（警告、建议、赞扬的）话，话语；歌词（words）；一个字（所说或所写的最小量）…"
   },
   "package": {
     "ph": "/ˈpækɪdʒ/",
@@ -5410,9 +5410,9 @@
     "zh": ""
   },
   "hour": {
-    "ph": "/ˈaʊɚ/",
+    "ph": "/ˈaʊər/",
     "en": "A time period of sixty minutes; one twenty-fourth of a day.",
-    "zh": ""
+    "zh": "n. 小时；一小时的路程；（工作，办公等的）固定时间；某个时间；长时间；整点，正点；（西派教会中）固定时分短礼拜；（天文）黄经（或赤经）15°；【名】 （Hour）（法）乌尔，（柬）胡（人名）"
   },
   "breakthrough": {
     "ph": "/ˈbɹeɪkθɹuː/",
@@ -5432,7 +5432,7 @@
   "think": {
     "ph": "/θɪŋk/",
     "en": "An act of thinking; consideration (of something).",
-    "zh": ""
+    "zh": "v. 认为，以为；明白（用于问句表气愤、吃惊）；觉得；考虑，思考；想出，想象；料想，预料；想要，打算；想起，记得；琢磨，寻思；对……评价（很高）；为……着想；想来，想想看；所指的是；具有某种思维方式；只想，对……着迷…"
   },
   "answers": {
     "ph": "/ˈɑːn.səz/",
@@ -5440,9 +5440,9 @@
     "zh": ""
   },
   "left": {
-    "ph": "/lɛft/",
+    "ph": "/left/",
     "en": "The left side or direction.",
-    "zh": ""
+    "zh": "adj. 左边的；剩余的；左派的，左翼的；adv. 在左面，向左；n. 左侧，左方（the left）；左边的道路，左侧的通道；（认为应将财产、金钱和权力更平等地分配的）左翼人士，左派组织（the Left）；（尤指…"
   },
   "field": {
     "ph": "/fiːld/",
@@ -5480,9 +5480,9 @@
     "zh": ""
   },
   "about": {
-    "ph": "/əˈbɛʊt/",
+    "ph": "/əˈbaʊt/",
     "en": "Moving around; astir.",
-    "zh": ""
+    "zh": "adv. 大约；几乎；到处，各处；无所事事；周围，在……附近；无序地，凌乱地；朝相反方向；prep. 关于，对于；目的是；针对（问题）；忙于，从事于；对……表示（情绪或心态）；各处，四下；在……附近；（某人或某事物）…"
   },
   "click": {
     "ph": "/klɪk/",
@@ -5492,12 +5492,12 @@
   "it": {
     "ph": "/ɪt/",
     "en": "One who is neither a he nor a she; a creature; a dehumanized being.",
-    "zh": ""
+    "zh": "pron. 它，这，那（指已提到或将提及的事物、无生命的东西、动物、植物、活动、经验、抽象观念等）；用于指某人，尤指性别不详或情况不详时（如婴儿、小孩、电话中的对方）；作无人称动词的主语，表示天气、时间、日期、距离、…"
   },
   "made": {
     "ph": "/meɪd/",
     "en": "A grub or maggot.",
-    "zh": ""
+    "zh": "adj. （由……）构成的，（由……）制成的；（指人）天生的，（指事物）生就的；特制的，成型的；必定会成功的；v. 制造；铺床；造成（动词make 的过去式和过去分词形式）；【名】 （Made）（爱）马德（人名）"
   },
   "closed": {
     "ph": "/kləʊzd/",
@@ -5505,9 +5505,9 @@
     "zh": ""
   },
   "one": {
-    "ph": "/wan/",
+    "ph": "/wʌn/",
     "en": "The digit or figure 1.",
-    "zh": ""
+    "zh": "num. 一；一个；一岁；一点钟；pron. 一个人；任何人，人们（表泛指）；那个人；（特指的）那种人；det. 一个（强调某人或某事）；一个（用于比较相似的人或物）；某个（用于不认识的人的名字前）"
   },
   "participant": {
     "ph": "/pɑːˈtɪsɪpənt/",
@@ -5530,9 +5530,9 @@
     "zh": ""
   },
   "been": {
-    "ph": "/biːn/",
+    "ph": "/bɪn/",
     "en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-    "zh": ""
+    "zh": "v. 是，有（be 的过去分词）；用于 have been to 结构，去过，到过；n. （Been）<美>贝恩（人名）"
   },
   "carefully": {
     "ph": "/ˈkɛːfli/",
@@ -5540,9 +5540,9 @@
     "zh": ""
   },
   "her": {
-    "ph": "/ə(ɹ)/",
+    "ph": "/hɜːr/",
     "en": "A female person or animal.",
-    "zh": ""
+    "zh": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）；n. （法）埃尔（人名）"
   },
   "words": {
     "ph": "/wɜːdz/",
@@ -5555,14 +5555,14 @@
     "zh": ""
   },
   "fast": {
-    "ph": "/fɑːst/",
+    "ph": "/fæst/",
     "en": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations",
-    "zh": ""
+    "zh": "adj. 快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的；adv. 快速地；坚定地，牢固地；v. 斋戒，禁食；n. 斋戒，斋戒期；【名】 （Fast）（英、德、俄、芬、捷、瑞典）法斯特（人名）"
   },
   "light": {
-    "ph": "/lʌɪt/",
+    "ph": "/laɪt/",
     "en": "Visible electromagnetic radiation. The human eye can typically detect radiation (light) in the wavelength range of about 400 to 750 nanometers. Nearby shorter and longer wavelength ranges, although not visible, are commonly called ultraviolet and infrared light.",
-    "zh": ""
+    "zh": "n. 光，光线；光源（如电灯）；某种光亮；交通信号灯；车灯；打火机，点火器； 角度，（事物呈现的）状态；眼光，处世标准（lights）；（对问题的）了解，启迪；眼神；亮色，浅色；窗，天窗，采光口；直棂窗窗玻璃上的竖框…"
   },
   "absorption": {
     "ph": "/əbˈsɔːp.ʃn̩/",
@@ -5580,14 +5580,14 @@
     "zh": ""
   },
   "just": {
-    "ph": "/d͡ʒʌst/",
+    "ph": "/dʒʌst/",
     "en": "Factually right, correct; factual.",
-    "zh": ""
+    "zh": "adv. 正好，恰好；正当……时；不少于，同样；差一点就不，勉强；刚才，刚刚；正在，正要；只是，仅仅是；确实，完全；请，就；可能，也许；表示赞同；adj. 正义的，公平的；应得的，合理的；正确的，精确的"
   },
   "long": {
-    "ph": "/ˈlɔːŋ/",
+    "ph": "/lɔːŋ/",
     "en": "A long vowel.",
-    "zh": ""
+    "zh": "adj. 长的；长久的，长期的；漫长的；长篇的；长音的；出界的；（面部表情）不高兴的，愁苦的；记得牢的，记得久的；（可能性，机会）小的，渺茫的；远期（获利）的；（酒与凉饮料）混合的，大量的；（运动中的球）长传的，远距离的"
   },
   "enough": {
     "ph": "/iˈnʌf/",
@@ -5607,12 +5607,12 @@
   "hand": {
     "ph": "/hænd/",
     "en": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
-    "zh": ""
+    "zh": "n. 手；（钟表的）指针；一局牌，一手牌；帮助，援手；工人；船员，水手；支配，掌管；作用，影响；鼓掌，拍手喝彩；<文>字迹；一手之宽（用来测量马匹的高度）；<旧>（女方的）允婚；表演艺人，制作工匠"
   },
   "there": {
-    "ph": "/ðeː(ɹ)/",
+    "ph": "/ðer/",
     "en": "That place.",
-    "zh": ""
+    "zh": "adv. 在那里；在那边；在那点上；int. 你瞧；n. 那个地方"
   },
   "broader": {
     "ph": "",
@@ -5625,9 +5625,9 @@
     "zh": ""
   },
   "here": {
-    "ph": "/hiːɹ/",
+    "ph": "/hɪr/",
     "en": "(abstract) This place; this location.",
-    "zh": ""
+    "zh": "adv. 在这里，此处；到这里，朝这里（常与 come、go 等连用）；此时，此刻；在这一点上，在这方面；给，这就是（用于句首或给予时引出）；int. 嘿，喂！（用于引起注意或应答）"
   },
   "current": {
     "ph": "/ˈkʌɹənt/",
@@ -5695,9 +5695,9 @@
     "zh": ""
   },
   "half": {
-    "ph": "/hɑːf/",
+    "ph": "/hæf/",
     "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
-    "zh": ""
+    "zh": "n. 一半，二分之一；半场，半局；（足球、橄榄球等的）中场队员；<英，非正式>半品脱；<英，非正式>儿童半票；<英>半学年，一学期；（高尔夫）一穴击球得分与对手相等；pron. 一半；（时间）……点半（=half p…"
   },
   "analyst": {
     "ph": "/ˈænəlɪst/",
@@ -5745,14 +5745,14 @@
     "zh": "adj. 透明的"
   },
   "development": {
-    "ph": "/dɪˈvɛləpmənt/",
+    "ph": "/dɪˈveləpmənt/",
     "en": "The process of developing; growth, directed change.",
-    "zh": ""
+    "zh": "n. 发育，成长，发达；发展，进步；动态，进展；开发，研制；研制成果；（土地）开发；新建住宅区，新开发区；开始，出现；显影；出子布局"
   },
   "person": {
-    "ph": "/ˈpɜːsən/",
+    "ph": "/ˈpɜːrs(ə)n/",
     "en": "An individual; usually a human being.",
-    "zh": ""
+    "zh": "n. 人；自然人，法人；（用于不知其人是谁时）某人，家伙；（语法）人称；（用于复合词）从事……工作（或担任……职务）的人；人品，为人；身体，人身；喜爱（某事物）的人；（戏剧或故事中的）人物，角色；（基督教神学）（圣父…"
   },
   "requiring": {
     "ph": "/ɹɪˈkwaɪ(ə)ɹɪŋ/",
@@ -5770,9 +5770,9 @@
     "zh": ""
   },
   "must": {
-    "ph": "",
+    "ph": "/mʌst/",
     "en": "Something that is mandatory or required.",
-    "zh": ""
+    "zh": "aux. （表示必要或很重要）必须；（用于表示肯定推测）一定，谅必；（提出建议）应该；（用于表示意图）一定要，坚持要；（用于表示同情）必定；（用于问句中表示生气）非要 ；（用于感叹句，表示惊讶或震惊）一定是"
   },
   "loud": {
     "ph": "/laʊd/",
@@ -5820,14 +5820,14 @@
     "zh": ""
   },
   "call": {
-    "ph": "/kɔːɫ/",
+    "ph": "/kɔːl/",
     "en": "A telephone conversation.",
-    "zh": ""
+    "zh": "v. 给……命名，称呼；认为……是，把……看作；喊，叫；召开，召集；召唤，呼唤；传唤（证人）；打电话；打电话叫……来；点（名），从（清单上）读出；（动物）啼叫，鸣叫；（模仿动物的叫声）把……引过来；短暂拜访；（火车、…"
   },
   "sure": {
-    "ph": "/ʃoː/",
+    "ph": "/ʃʊr/",
     "en": "Physically secure and certain, non-failing, reliable.",
-    "zh": ""
+    "zh": "adj. 确信的，有把握的；肯定的，一定的；可靠的，准确的；一定会（发生或出现某种结果）的；紧紧的，坚定的；沉着自信的，胸有成竹的；adv. （表示同意）当然；确实，的确，诚然（用于肯定前半部分）；（回答他人的感谢）…"
   },
   "operational": {
     "ph": "",
@@ -5872,12 +5872,12 @@
   "seem": {
     "ph": "/siːm/",
     "en": "To appear; to look outwardly; to be perceived as.",
-    "zh": ""
+    "zh": "v. （涉及推断）似乎，看来；（用于表示谨慎、礼貌或委婉）好像，可能；【名】 （Seem）（英）西姆（人名）"
   },
   "city": {
-    "ph": "/sɪtɪ/",
+    "ph": "/ˈsɪti/",
     "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
-    "zh": ""
+    "zh": "n. 城市，都市；市民，全市居民；市政府；<非正式>充满……的地方；<英>伦敦金融、商业区；<英>（国王或女王授权的）特许市；<美>（由州政府划定市界并授予特权的）特权市"
   },
   "anything": {
     "ph": "/ˈɛ.nə.θɪŋ/",
@@ -5890,9 +5890,9 @@
     "zh": ""
   },
   "world": {
-    "ph": "/wɝld/",
+    "ph": "/wɜːrld/",
     "en": "(with \"the\") Human collective existence; existence in general.",
-    "zh": ""
+    "zh": "n. 世界，地球，天下；星球，天体；地区，国家，时代；社会，生活；领域，界，圈子；生物界，自然界；人生，生活圈子，阅历；人世，今生，来世；世俗；（有某种特色的）地方，情景；大量，无数；一切，重要性（the world）"
   },
   "under": {
     "ph": "/ˈʊndə/",
@@ -5920,9 +5920,9 @@
     "zh": ""
   },
   "area": {
-    "ph": "/ˈɛə̯ɹɪə̯/",
+    "ph": "/ˈeriə/",
     "en": "A measure of the extent of a surface; it is measured in square units.",
-    "zh": ""
+    "zh": "n. 地区，区域；场地，地方；领域；面积；部位；罚球区；【名】 （Area）（西）阿雷亚（人名）"
   },
   "existed": {
     "ph": "/ɪɡˈzɪstɪd/",
@@ -6020,9 +6020,9 @@
     "zh": ""
   },
   "poor": {
-    "ph": "/poː/",
+    "ph": "/pʊr/",
     "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
-    "zh": ""
+    "zh": "adj. 贫穷的；可怜的，不幸的；（身体）虚弱的，衰弱的；不擅长的，不熟练的；劣质的，差的，次的；贫乏的；（数量、比率等）不理想的，不合理的；【名】 （Poor）（美）普尔（人名）"
   },
   "louder": {
     "ph": "/ˈlaʊdə/",
@@ -6140,9 +6140,9 @@
     "zh": ""
   },
   "other": {
-    "ph": "/ˈɐðə/",
+    "ph": "/ˈʌðər/",
     "en": "An other, another (person, etc), more often rendered as another.",
-    "zh": ""
+    "zh": "adj. （表示与已知的人或事物不同）别的，另外的；（表示在与已知的人或事物同一类中）别的，另外的；（两个中）另一的；（一组人或事物中）其余的；（用于列举之后）其他的；对面的，相反方向的；（泛指）别（人）的，他（人）…"
   },
   "needing": {
     "ph": "",
@@ -6297,7 +6297,7 @@
   "food": {
     "ph": "/fuːd/",
     "en": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.",
-    "zh": ""
+    "zh": "n. （植物生长的）养料；食物，食品"
   },
   "science": {
     "ph": "/ˈsaɪəns/",
@@ -6442,17 +6442,17 @@
   "put": {
     "ph": "/pʊt/",
     "en": "A right to sell something at a predetermined price.",
-    "zh": ""
+    "zh": "v. 放，放置；猛推，用力插入；将……送往，安置；使与……连接，安装；写下；使处于（某状态或情况）；使受到……的影响，把……施加给；给予（重视、信任、价值等）；把……视为（或列为）；表述，提出；使工作，使用；投掷（铁…"
   },
   "on": {
-    "ph": "/ɒn/",
+    "ph": "/ɑːn/",
     "en": "To switch on",
-    "zh": ""
+    "zh": "prep. 在……上（表示接触、附着、由……支撑或移动到……上）；向，朝，对着；关于；在（某一天、日期或特定时间）；根据，依据，凭；带在……身上；一……就；以……为食（或燃料、收入来源等）；吃，喝；服用（药物）；以……"
   },
   "and": {
-    "ph": "",
+    "ph": "/ænd/",
     "en": "In rhythm, the second half of a divided beat.",
-    "zh": ""
+    "zh": "conj. （用于并列连接）和，与，及；（表示结果）于是，就；（表示先后）然后，接着；（表示转折）但是，然而；（用于句首引出补充）而且，此外；（连接同一词）表示程度加深或持续，如 more and more（越来越）…"
   },
   "argue": {
     "ph": "/ˈɑː.ɡjuː/",
@@ -6467,7 +6467,7 @@
   "study": {
     "ph": "/ˈstʌdi/",
     "en": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
-    "zh": ""
+    "zh": "n. （专题）研究，调查；（尤指通过书本的）学习，攻读；用于某些学科名称（studies）；功课，课业，学业（studies）；学术专著，专题论文；<美>学习者；学习对象，研究对象；（绘画的）试画， 习作；书房，书斋…"
   },
   "university": {
     "ph": "/juːnɪˈvɜːsətiː/",
@@ -6477,7 +6477,7 @@
   "high": {
     "ph": "/haɪ/",
     "en": "A high point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven.",
-    "zh": ""
+    "zh": "adj. 高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏…"
   },
   "speed": {
     "ph": "/spiːd/",
@@ -6500,9 +6500,9 @@
     "en": "the possibility of harm or injury"
   },
   "earth": {
-    "ph": "/ɜːθ/",
+    "ph": "/ɜːrθ/",
     "en": "The third planet of the Solar System; the world upon which humans live.",
-    "zh": ""
+    "zh": "n. 地球，世界；陆地，地面；泥土，土壤；地线，电线；<英，非正式>一大笔钱；尘世；兽穴；v. 把（电线）接地；用土掩盖；追赶入洞穴"
   },
   "blast": {
     "ph": "/blɑːst/",
@@ -6562,12 +6562,12 @@
   "she": {
     "ph": "/ʃiː/",
     "en": "A female.",
-    "zh": ""
+    "zh": "pron. 她（主格，指女性或女孩；亦泛指未标明性别的人）；它（用于指雌性动物，或国家、船舶、汽车、机器、地球、月亮等拟人化事物，也可译“她”）；n. 女人；雌性动物（复数 shes）；（She）人名，尤指中文姓氏“…"
   },
   "fled": {
-    "ph": "/ˈflɛd/",
+    "ph": "/fled/",
     "en": "To run away; to escape.",
-    "zh": ""
+    "zh": "v. 逃走（flee 的过去式和过去分词）；消逝"
   },
   "helicopter": {
     "ph": "/ˈhelɪkɒptə/",
@@ -7223,5 +7223,4360 @@
     "ph": "/ˈprəʊtests/",
     "zh": "抗议（复数）",
     "en": "plural of protest; public demonstrations of objection"
+  },
+  "october": {
+    "ph": "/ɑːkˈtoʊbər/",
+    "en": "",
+    "zh": "n. [天] 十月"
+  },
+  "dewey": {
+    "ph": "/ˈduːi/",
+    "en": "",
+    "zh": "n. 杜威（男子名）"
+  },
+  "caitlin": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 凯特琳（女子名）"
+  },
+  "pm": {
+    "ph": "/ˌpiː ˈem/",
+    "en": "",
+    "zh": "abbr. 下午（post meridiem）"
+  },
+  "utc": {
+    "ph": "/ˌjuː tiː ˈsiː/",
+    "en": "",
+    "zh": "abbr. 美国联合技术公司（United Technology Corporation）；世界时间代码（Univer-sal Time Code）；世界调整时间（Universal Time Coordinated…"
+  },
+  "oct": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 十月（October）"
+  },
+  "gift": {
+    "ph": "/ɡɪft/",
+    "en": "",
+    "zh": "n. 礼物，赠品；恩赐，授予；轻而易举的事，绝对不会错失的机会；才能，天赋；v. 赠送；（无意中）让（对手）获得；【名】 （Gift）（英）吉夫特（人名）"
+  },
+  "nova": {
+    "ph": "/ˈnoʊvə/",
+    "en": "",
+    "zh": "n. [天]新星（一种爆发变星，复数形式为 novae 或 novas）；（Nova）人名；（意、西、塞、葡）诺娃（女名），诺瓦；（英）诺瓦"
+  },
+  "music": {
+    "ph": "/ˈmjuːzɪk/",
+    "en": "",
+    "zh": "n. 音乐，乐曲；乐谱；悦耳的声音；音乐（学），音乐创作（或演奏）技能"
+  },
+  "site": {
+    "ph": "/saɪt/",
+    "en": "",
+    "zh": "n. （建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位；（城镇、建筑物或纪念碑的）地基，选址；遗址，原址；（帐篷或大篷车内）歇脚的地方"
+  },
+  "mark": {
+    "ph": "/mɑːrk/",
+    "en": "",
+    "zh": "n. 痕迹，污点；标识，记号；印记，特征；（品质或情感的）标志，迹象；分数；水平，标准点；（后接数词）型号；<英>燃气挡，温度刻度；（代替签名的）画押；目标，靶子；（比赛的）起点；<美>容易受骗的人；（赛马）附加重量…"
+  },
+  "anadolu": {
+    "ph": "/,ɑ:nədəu'lu:/",
+    "en": "",
+    "zh": "n. 安纳托利亚（亚洲西南部的半岛）；WASP-52（位于飞马座的一颗主序星）"
+  },
+  "via": {
+    "ph": "/ˈvaɪə/",
+    "en": "",
+    "zh": "prep. 经由，经过（某一地方）；通过，借助于（某种手段或人）"
+  },
+  "israelis": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 以色列人，以色列国民（Israeli 的复数）"
+  },
+  "images": {
+    "ph": "/ˈɪmɪdʒɪz/",
+    "en": "",
+    "zh": "n. 图像，影像，图片；（头脑中的）形象，意象，想象；（公众）形象，声誉；肖像，雕像，圣像；文学意象，生动的描绘（image 的复数）；v. 想象，设想，幻想；描绘……的形象，作……的像（image 的第三人称单数）"
+  },
+  "is": {
+    "ph": "/ɪz/",
+    "en": "",
+    "zh": "v. 是（be 的第三人称单数）"
+  },
+  "saeed": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 萨伊德（男子名）"
+  },
+  "vox": {
+    "ph": "/vɑːks/",
+    "en": "",
+    "zh": "n. 声音，嗓音（源自拉丁语）；（Vox）人名/姓氏，多见于英、法、德，译作沃克斯"
+  },
+  "getty": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 盖提（姓氏）"
+  },
+  "news": {
+    "ph": "/nuːz/",
+    "en": "",
+    "zh": "n. 消息，新情况；新闻（报道）；新闻人物，新闻事件；电视新闻节目（the news）；（用于报纸名）新闻"
+  },
+  "day": {
+    "ph": "/deɪ/",
+    "en": "",
+    "zh": "n. 一天；白昼，白天；工作日，一天的活动时间；时期，时代；如今，现在；（过去或将来的）一天；重大日子；太阳日；恒星日；（天体）白昼；<古>日光；adj. 白昼的，日间的；（人）日间工作的，上白班的"
+  },
+  "subscribe": {
+    "ph": "/səbˈskraɪb/",
+    "en": "",
+    "zh": "v. 订阅，订购；定期缴纳会员费; 定期捐款赞助；认购（股票）；赞成，同意；〈正式〉签署（遗嘱、合同或其他文件）；申请，注册，报名；购买（一系列演出的）联票"
+  },
+  "jewish": {
+    "ph": "/ˈdʒuːɪʃ/",
+    "en": "",
+    "zh": "adj. 犹太人的；犹太族的；犹太教的"
+  },
+  "israel": {
+    "ph": "/ˈɪzrɪəl/",
+    "en": "",
+    "zh": "n. 以色列（亚洲国家）；犹太人，以色列人"
+  },
+  "war": {
+    "ph": "/wɔːr/",
+    "en": "",
+    "zh": "n. 战争，战争状态；竞争，斗争，对抗；（为消灭有害事物的）长期斗争，顽强抵御；舌战，论战；军事，战术；v. 进行战争，斗争"
+  },
+  "gaza": {
+    "ph": "/ˈɡɑːzə/",
+    "en": "",
+    "zh": "n. 加沙（即加沙城，地中海东岸港市，巴勒斯坦加沙地带的主要城市）；加沙地带（即 Gaza Strip，地中海东南岸沿海地区，毗邻以色列和埃及，属巴勒斯坦地区）"
+  },
+  "tel": {
+    "ph": "/tel/",
+    "en": "",
+    "zh": "abbr. 试验仪器清单（Test Equipment List）；n. （Tel）人名；（土）泰尔；（阿拉伯）塔勒"
+  },
+  "aviv": {
+    "ph": "/ɑ:'viv/",
+    "en": "",
+    "zh": "n. 春天，春季（源自希伯来语，也指大自然的重生）；阿维夫（人名，通常大写为 Aviv）"
+  },
+  "for": {
+    "ph": "/fɔːr/",
+    "en": "",
+    "zh": "prep. （表示对象、用途等）给，对；为了，以帮助；为了（表示目的、用途）；（表示感情的对象）对于；代表；受雇于；意思是，表示；支持，拥护；因为，由于；为得到，为获取；换取；就……而言；对（某人）来说；……后（更好…"
+  },
+  "both": {
+    "ph": "/boʊθ/",
+    "en": "",
+    "zh": "det. 双方，两者；pron. 两者；conj. …和…都；……和……都；adj. 两…，双…"
+  },
+  "art": {
+    "ph": "/ɑːrt/",
+    "en": "",
+    "zh": "n. 美术，艺术；艺术品；技术，技巧；人文学科；艺术活动（the arts）；adj. 艺术性的；v. <古>be 的第二人称单数现在式"
+  },
+  "ago": {
+    "ph": "/əˈɡoʊ/",
+    "en": "",
+    "zh": "adv. 以前，从前；adj. 以前的；【名】 （Ago）（美）阿戈（人名）"
+  },
+  "hamas": {
+    "ph": "/ˈhɑːmɑːs/",
+    "en": "",
+    "zh": "n. 伊斯兰抵抗运动"
+  },
+  "sign": {
+    "ph": "/saɪn/",
+    "en": "",
+    "zh": "n. 指示牌，标志；迹象，征兆；示意动作，手势；手语动作；符号，记号；踪迹，踪影；（医）征，体征；神迹（主要用于《圣经》和文学作品中）；<美>（野生动物的）足迹，臭迹；（占星）（黄道12宫中的）宫，星座；（数）正负号…"
+  },
+  "your": {
+    "ph": "/jʊr/",
+    "en": "",
+    "zh": "det. 你的，你们的；<口语>泛指任何人的；<口语>（用于 typical、normal 等形容词前）通常所说的，典型的；<正式>（用于尊称头衔前）您的"
+  },
+  "our": {
+    "ph": "/ˈaʊər/",
+    "en": "",
+    "zh": "det. 我们的，我方的；（泛指）我们（人类、一般人）的"
+  },
+  "privacy": {
+    "ph": "/ˈpraɪvəsi/",
+    "en": "",
+    "zh": "n. 隐私，秘密；清静，（不受干扰的）独处；<古>隐居处"
+  },
+  "google": {
+    "ph": "/ˈɡuːɡl/",
+    "en": "",
+    "zh": "v. 用谷歌搜索引擎搜索（某人、某事物或信息）；n. 谷歌（美国科技公司及同名网络搜索引擎）"
+  },
+  "last": {
+    "ph": "/læst/",
+    "en": "",
+    "zh": "adj. 最后的；最近的，上一个的；最后剩下的；最不可能的；最末的；仅存的；最不重要的，最无关紧要的；最后遇见的；v. 持续；持久；维持，够用；坚持，支撑下去；n. 鞋楦；仅剩下的部分（或事项）；最后来的人（或发生的…"
+  },
+  "were": {
+    "ph": "/wɜːr/",
+    "en": "",
+    "zh": "v. 是，在（are 的过去式）；n. （Were）人名；（英、肯）沃尔"
+  },
+  "january": {
+    "ph": "/ˈdʒænjueri/",
+    "en": "",
+    "zh": "n. 一月"
+  },
+  "there's": {
+    "ph": "/ðεəz/",
+    "en": "",
+    "zh": "abbr. <非正式>there is 的缩约形式，表示“有、存在”；there has 的缩约形式，多用于 there's been 等现在完成时结构"
+  },
+  "but": {
+    "ph": "/bʌt/",
+    "en": "",
+    "zh": "conj. 而，相反；（用于表示歉意）但是；可是（用来提出异议）；除了；（与重复词连用，表示强调）；prep. 除了，除……外；adv. 仅仅，只是；n. 借口，托词；【名】 （But）（俄、罗）布特，（越）笔（人名）"
+  },
+  "holocaust": {
+    "ph": "/ˈhoʊləkɔːstˌˈhɑːləkɔːst/",
+    "en": "",
+    "zh": "n. 毁灭，浩劫，大屠杀（指战争、火灾或核灾难等造成的大规模毁灭和大量死亡）；纳粹大屠杀（第二次世界大战期间纳粹对犹太人等的系统性屠杀）"
+  },
+  "east": {
+    "ph": "/iːst/",
+    "en": "",
+    "zh": "n. 东，东方（the east）；（世界或某个国家、地区或城市的）东部；东方（指亚洲南部和东部，包括印度、中国和日本）（the East）；（旧时）东欧共产主义国家（the East）；（桥牌）坐在东首位置的人（E…"
+  },
+  "we're": {
+    "ph": "/wɪr/",
+    "en": "",
+    "zh": "abbr. 我们是（we are）"
+  },
+  "very": {
+    "ph": "/ˈveri/",
+    "en": "",
+    "zh": "adv. （用于强调形容词或副词）很，非常；极其，完全地；<非正式>显著的，典型的；显然，确实，真正地；adj. 同一的，恰好的，正是的；（加强名词的语气）仅仅的，唯独的，甚至于；（强调极限的地点或时间）最……的，极…"
+  },
+  "look": {
+    "ph": "/lʊk/",
+    "en": "",
+    "zh": "v. 看；寻找；与……外表相似；看似，显得；注意；面向；检查，查看；打算（look to）；预料，期待；浏览；研究，考虑；看待（look at/on）；（用于唤起他人注意）瞧；看上去精神好（look oneself）…"
+  },
+  "zack": {
+    "ph": "/zæk/",
+    "en": "",
+    "zh": "n. 旧时对六便士硬币的非正式称呼；英语男子名（Zack），常作 Zachary 的昵称，中文译名“扎克”，瑞典译名“萨克”"
+  },
+  "memorials": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （memorial 的复数形式）纪念碑，纪念馆，纪念像；纪念物，纪念品；纪念活动；（正式）呈文，请愿书；（旧）记录，记载，回忆录"
+  },
+  "might": {
+    "ph": "/maɪt/",
+    "en": "",
+    "zh": "v. 可能，可以（may 的过去式）；（表示可能性）可能，也许；（用于礼貌地建议）可以，也许；（对某人未做某事表示不满）应该；也许，可能（表示某情况属实，另一情况也属实）；可以，能（用于说明目的）；究竟，到底；可以，…"
+  },
+  "hurt": {
+    "ph": "/hɜːrt/",
+    "en": "",
+    "zh": "v. 使受伤，使疼痛；感到受伤，感到疼痛；损害；处于困境，手头拮据；伤心；adj. （身体上）受伤的；（感情上）痛苦的；n. 心灵创伤，委屈；（身体上的）伤，痛；【名】 （Hurt）（英）赫特，（德、匈、捷）胡特 (…"
+  },
+  "he": {
+    "ph": "/hiː/",
+    "en": "",
+    "zh": "pron. 他；（泛指的）人；上帝；n. 男性，男子；雄性动物；n. （He）（中、美、丹）赫（人名）"
+  },
+  "be": {
+    "ph": "/biː/",
+    "en": "",
+    "zh": "aux. 被（用于被动语态）；正，正在（用于进行时）；v. 是；有，存在；做，成为；发生；n. （Be）（缅）拜；（日）部（姓）；（朝）培；（中非）贝（人名）"
+  },
+  "strip": {
+    "ph": "/strɪp/",
+    "en": "",
+    "zh": "v. 除去，撕掉（外皮或表层）；夺去，剥夺（地位，权力，财产）；脱衣服，脱光……的衣服；表演脱衣舞；为（奶牛）收奶；拆卸，拆开（机器、车辆或引擎 ）；<美>拆散（汽车等）卖零件；使空无一物，搬光（家具、设备等）；（使…"
+  },
+  "palestinians": {
+    "ph": "/,pælis'tiniənz/",
+    "en": "",
+    "zh": "n. 巴勒斯坦人（palestinian 的复数）"
+  },
+  "also": {
+    "ph": "/ˈɔːlsoʊ/",
+    "en": "",
+    "zh": "adv. 此外，而且；也，同样；conj. 另外，又；【名】 （Also）（罗）阿尔索（人名）"
+  },
+  "from": {
+    "ph": "/frʌm/",
+    "en": "",
+    "zh": "prep. 从，从……起，从……开始；从……（到……）；来自，出自，寄自，得自；由……（制成）；（两地的距离）离；从……（离开、取出、扣除）；由于，因为，出于；根据，从……来看；与……（不同）；防，使免受，免遭，防止…"
+  },
+  "their": {
+    "ph": "/ðer/",
+    "en": "",
+    "zh": "det. 他们的；她们的；它们的；n. （Their）（英）蒂尔；（芬、瑞典）泰尔（人名）"
+  },
+  "settler": {
+    "ph": "/ˈsetlər/",
+    "en": "",
+    "zh": "n. 移居者，定居者；殖民者，殖民地定居者"
+  },
+  "west": {
+    "ph": "/west/",
+    "en": "",
+    "zh": "n. 西，西方；（某个国家、地区或地方的）西部；西方国家 (指美国、加拿大以及西欧、北欧和南欧诸国)（the West)；（美国）西部（尤指密西西比河以西诸州）(the West, the west)；<史>西方（国…"
+  },
+  "beauchamp": {
+    "ph": "",
+    "en": "",
+    "zh": "比彻姆"
+  },
+  "bank": {
+    "ph": "/bæŋk/",
+    "en": "",
+    "zh": "n. 银行；储蓄罐；库存，库；河岸；斜坡；云团，雾团；一排，一组；庄家的赌本；（泥）滩，沙洲；v. 把（钱）存入银行，把……储存入库；与银行有业务往来；（飞机）倾斜飞行；使反弹；（把某物）堆积起来，聚集起来；（用煤等…"
+  },
+  "iran": {
+    "ph": "/ɪˈrɑːn/",
+    "en": "",
+    "zh": "n. 伊朗（亚洲西部国家）；（美国、巴基斯坦）伊朗（人名）"
+  },
+  "that's": {
+    "ph": "/ðæts/",
+    "en": "",
+    "zh": "contr. 那是（that is）"
+  },
+  "its": {
+    "ph": "/ɪts/",
+    "en": "",
+    "zh": "pron. 它的，其（it 的所有格形式）"
+  },
+  "hezbollah": {
+    "ph": "/,hezbə'lɑ:/",
+    "en": "",
+    "zh": "n. （黎巴嫩）真主党（等于 Hizbollah）"
+  },
+  "lebanon": {
+    "ph": "/ˈlebənɑːn/",
+    "en": "",
+    "zh": "n. 黎巴嫩（西南亚国家，位于地中海东岸）"
+  },
+  "pew": {
+    "ph": "/pjuː/",
+    "en": "",
+    "zh": "n. 教堂长椅；<英，非正式>座位；会众；v. <旧>排座位；int. <美，非正式>呸！（用于表示气味非常难闻）；【名】 （Pew）（英）皮尤（人名）"
+  },
+  "like": {
+    "ph": "/laɪk/",
+    "en": "",
+    "zh": "prep. 像，如同；符合……的方式；（指某人常做的事）符合……的特点，像……才会；（用于询问）……怎么样；例如，好比；（用于否定式短语中）比得上；大约，左右；v. 喜欢，喜爱；希望，想要；（用于请求）想要，希望得到…"
+  },
+  "such": {
+    "ph": "/sʌtʃ/",
+    "en": "",
+    "zh": "det. 如此的，这等的；如此（……以致）；这种的，那样的；pron. 这种人（或事物），这类的；（上文提到的）那样的情况，那件事；adv. 这么，如此（用于加强叙述语气）；如此程度"
+  },
+  "kingdom": {
+    "ph": "/ˈkɪŋdəm/",
+    "en": "",
+    "zh": "n. 王国；自然三界之一；（神统治的）天国；管辖范围，领域；界（生物的五大类别之一）；【名】 （Kingdom）（英）金德姆（人名）"
+  },
+  "canada": {
+    "ph": "/ˈkænədə/",
+    "en": "",
+    "zh": "n. 加拿大（北美洲国家）"
+  },
+  "australia": {
+    "ph": "/ɔːˈstreɪliə/",
+    "en": "",
+    "zh": "n. 澳大利亚，澳洲"
+  },
+  "palestinian": {
+    "ph": "/ˌpæləˈstɪniən/",
+    "en": "",
+    "zh": "adj. 巴勒斯坦的；巴勒斯坦人的；n. 巴勒斯坦人"
+  },
+  "doesn't": {
+    "ph": "/ˈdʌznt/",
+    "en": "",
+    "zh": "aux. 表示否定（等于 does not）"
+  },
+  "now": {
+    "ph": "/naʊ/",
+    "en": "",
+    "zh": "adv. 现在，此刻；马上，立刻；（用于引起注意或用于转换话题）好了；到现在为止，迄今；这样一来；（用于婉转地强调请求或命令）好了；你要知道（用于信息承上启下）；然而；用于叙述过去的事当时，那时；现在到了这个地步；嗯…"
+  },
+  "huge": {
+    "ph": "/hjuːdʒ/",
+    "en": "",
+    "zh": "adj. 庞大的，极大的；<非正式>很受欢迎的，著名的；【名】 （Huge）（英）休奇（人名）"
+  },
+  "real": {
+    "ph": "/ˈriːəl/",
+    "en": "",
+    "zh": "adj. 实际存在的，非想象的；名副其实的；真正的，真实的；真的，非人工的；真诚的；强烈的；确实重大的；十足的，绝对的（用来加强语气）；（数量、数字）真实的，实际的；（光学）（图像）实的；（书或电影中的场景）逼真的，…"
+  },
+  "view": {
+    "ph": "/vjuː/",
+    "en": "",
+    "zh": "n. 观点，看法；（理解或思维的）方法，方式；景象，视野；风景，景色；风景画，风景照；图像，视图；（一次）观看，一睹，一览；（文本或图表在计算机屏幕上的）显示方式；v. 看待，考虑；观看；查看，观察；（在计算机屏幕上…"
+  },
+  "country": {
+    "ph": "/ˈkʌntri/",
+    "en": "",
+    "zh": "n. 国，国家；全国人民，全体国民（the country）；乡下，乡村；地区，区域；乡村音乐；故乡；adj. 乡下的，农村的；乡村音乐的；祖国的，故乡的；粗鲁的"
+  },
+  "some": {
+    "ph": "/sʌm/",
+    "en": "",
+    "zh": "det. 若干，一些；某个，某种；相当多，大量；少量的，不多的；了不起的，很不错的；不怎么样的，算不上……的；pron. 有些，一部分；adv. <美>有些，稍微；大约；【名】 （Some）（美、印）索梅（人名）"
+  },
+  "michigan": {
+    "ph": "/ˈmɪʃɪɡən/",
+    "en": "",
+    "zh": "n. 密歇根（美国中西部州）；密歇根湖（北美五大湖之一）"
+  },
+  "key": {
+    "ph": "/kiː/",
+    "en": "",
+    "zh": "n. 钥匙；（电脑、打字机或乐器的）键；关键，要诀；答案；音调，声调；图例，符号说明；低岛，礁；扳手；销子，楔；（文章、形势等）主调，基调；（梣树、枫树或无花果树的）翼果；板条间首层灰泥；（有助于石膏等黏附的）粗糙表…"
+  },
+  "senate": {
+    "ph": "/ˈsenət/",
+    "en": "",
+    "zh": "n. 参议院；大学理事会，大学评议会；（古罗马的）元老院"
+  },
+  "democrat": {
+    "ph": "/ˈdeməkræt/",
+    "en": "",
+    "zh": "n. （美国）民主党党员；民主主义者"
+  },
+  "abdul": {
+    "ph": "/ˈɑːbdʊl/",
+    "en": "",
+    "zh": "n. 阿卜杜勒（人名）"
+  },
+  "aid": {
+    "ph": "/eɪd/",
+    "en": "",
+    "zh": "n. 帮助；援助，救助；辅助物，辅助设施；助手；特别津贴，国库税；v. 帮助，援助；促进，有助于；【名】 （Aid）（英、阿拉伯、印）艾德（人名）"
+  },
+  "house": {
+    "ph": "/haʊs/",
+    "en": "",
+    "zh": "n. 房子，住宅；一家人，同住一幢房子的人们；（有特定用途的）大楼，大厦；公司，商业机构；观众席，观众；演出场次；餐馆，餐厅；豪斯音乐；王室，皇族（House）；（某些英国学校学生为进行比赛而分的）组；动物的笼舍；议…"
+  },
+  "democrats": {
+    "ph": "/ˈdeməkræts/",
+    "en": "",
+    "zh": "n. 民主党员（democrat 的复数）；民主主义者"
+  },
+  "cut": {
+    "ph": "/kʌt/",
+    "en": "",
+    "zh": "v. 切，割，剪；削减，缩减；删节，删减；停止，切断；抄近路，穿过；切（牌），倒（牌）；灌制（唱片），录制（讲话）；划伤，割伤；剪裁；开始长（新牙）；<美>逃学，逃课；停止做不好的事情；切下；切开，把……切碎；凿，挖…"
+  },
+  "off": {
+    "ph": "/ɔːf/",
+    "en": "",
+    "zh": "adv. 离开（某处），（在时间或空间上）距，离；从……移开，从……脱离；不再会发生，被取消；关掉，切断；没有，不再供应；不上课，不工作，休息；削价，减价；入睡；做完，光；获得，拥有；<英>（接在数词后）一次的产量；…"
+  },
+  "isn't": {
+    "ph": "/ˈɪz(ə)nt/",
+    "en": "",
+    "zh": "v. is not 的缩略形式，意为“不是”"
+  },
+  "right": {
+    "ph": "/raɪt/",
+    "en": "",
+    "zh": "adj. 符合道德的，正当的；正确的，真实的；（人、物）合适的，般配的；（意见，判断）对的；右边的，右侧的；（状态或情况）健康的，正常的；<英，非正式> 十足的，真正的（用于强调某人或某物多么糟糕）；正面的，外面的；…"
+  },
+  "american": {
+    "ph": "/əˈmerɪkən/",
+    "en": "",
+    "zh": "n. （American）美国人；美国英语；美洲人；adj. （American）美国的；美国人的；美洲的"
+  },
+  "small": {
+    "ph": "/smɔːl/",
+    "en": "",
+    "zh": "adj. 小型的；（数量）少的；小规模的；无关紧要的，不重要的；幼小的，年幼的；（字母）小写的；（嗓音）微弱的，轻柔的；一般的，非极端的；出丑的，羞愧的；n. <英，非正式>小件衣服（尤指内衣）（smalls）；后腰…"
+  },
+  "israeli": {
+    "ph": "/ɪzˈreɪli/",
+    "en": "",
+    "zh": "adj. 以色列的；以色列人的；n. 以色列人"
+  },
+  "far": {
+    "ph": "/fɑːr/",
+    "en": "",
+    "zh": "adv. 远，遥远地；久远地；非常，很大程度上；发展，进展（到）；过分地；adj. 遥远的，久远的；另一边的，较远的；偏远的，极端的；【名】 （Far）（德、西、塞）法尔（人名）"
+  },
+  "americans": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 花旗布"
+  },
+  "hope": {
+    "ph": "/hoʊp/",
+    "en": "",
+    "zh": "v. 希望；n. 希望；期盼的东西，盼望的事；（发生好事的）可能性；被寄予希望的人（或物）；<古>信赖感；【名】 （Hope）（美）奥普（人名）"
+  },
+  "face": {
+    "ph": "/feɪs/",
+    "en": "",
+    "zh": "n. 脸，面部；面部表情，脸色；人；初看，初听；尊严，威信；面貌；（物体的）正面，表面；斜坡，山坡；钟面，表盘；采掘面，工作面；（球拍的）拍面；（尤指足球的）球门；v. 面临，遭遇；正视，面对；与……交往，与……交谈…"
+  },
+  "stanford": {
+    "ph": "/ˈstænfərd/",
+    "en": "",
+    "zh": "n. 斯坦福（英语姓氏，也用作男子名）；斯坦福大学（美国加利福尼亚州的一所大学）；斯坦福（美国加利福尼亚州地名，斯坦福大学所在地）；利兰·斯坦福（美国铁路企业家、政治家，斯坦福大学的创建人）"
+  },
+  "lab": {
+    "ph": "/læb/",
+    "en": "",
+    "zh": "n. 实验室 (=laboratory)；实验课；abbr. 工党 (Lab)；工党；拉布拉多寻回犬"
+  },
+  "tact": {
+    "ph": "/tækt/",
+    "en": "",
+    "zh": "n. 得体，乖巧，机敏；鉴赏力"
+  },
+  "lean": {
+    "ph": "/liːn/",
+    "en": "",
+    "zh": "v. （身体）倾斜；倾向于做；倚靠，靠在；adj. 瘦且健康的；（肉）瘦的，脂肪少的；不景气的，贫乏的；精简的，效率高的；（混合汽化燃料）空气所占比例高的，稀化的；n. 倾斜，歪曲；瘦肉"
+  },
+  "turn": {
+    "ph": "/tɜːrn/",
+    "en": "",
+    "zh": "v. 旋转，转动；转身，扭转（身体部位）；翻转；旋动，拧动；翻动（书页）；转向，拐（弯）；（路或河流）转弯；对准；（潮）涨落；（使）松开，释放；表演，做；（使）扭转局势；（使）变成，成为；转移（思考、处理、观察等的对…"
+  },
+  "care": {
+    "ph": "/ker/",
+    "en": "",
+    "zh": "n. 照料，护理；小心，谨慎；忧虑，烦恼；收养，监护；v. 照顾，照料；在意，担忧；喜欢，想要；【名】 （Care）（英）凯尔，（塞）察蕾（人名）"
+  },
+  "did": {
+    "ph": "/dɪd/",
+    "en": "",
+    "zh": "v. 做（do 的过去式）；用作助动词，构成一般过去时的疑问句、否定句和强调结构（后接动词原形）"
+  },
+  "sea": {
+    "ph": "/siː/",
+    "en": "",
+    "zh": "n. 海洋；内海；海（指月球或火星表面的一片广阔平原）；海面情况，海浪状况；大量，茫茫一片；（用于海名）海（Sea）；巨浪（seas）"
+  },
+  "cry": {
+    "ph": "/kraɪ/",
+    "en": "",
+    "zh": "v. 哭，哭泣；喊叫，呼喊；（兽或鸟）大叫；n. （表达强烈感情的）叫喊，叫声，哭声；大喊，大叫；抗议，请求；吠，嗥叫；哭，哭泣；急需；口号，公众舆论"
+  },
+  "okay": {
+    "ph": "/oʊˈkeɪ/",
+    "en": "",
+    "zh": "int. 好，行；adj. 可以，不错的；对；安全的，没事的；adv. 可以，不错；对；很好地；n. 同意，批准；v. 批准，同意，认可"
+  },
+  "shed": {
+    "ph": "/ʃed/",
+    "en": "",
+    "zh": "v. 去除，摆脱；（植物）落（叶），（动物）蜕（皮），脱（毛）；脱掉（所穿衣物）；掉落（货物）；挡水，防水；射出，发出（光）；流，洒，落（泪）；<正式>（尤指在战争中）造成伤亡，使流（血）；把（车）停在库棚内；（分区…"
+  },
+  "rid": {
+    "ph": "/rɪd/",
+    "en": "",
+    "zh": "v. 使……去掉，使……去除；摆脱，消除；adj. 得到解脱的；【名】 （Rid）（俄、德、英、美）里德（人名）"
+  },
+  "animal": {
+    "ph": "/ˈænɪm(ə)l/",
+    "en": "",
+    "zh": "n. 动物；兽类；<非正式>衣冠禽兽，畜牲；某一类人或物；adj. 动物的；肉体的，肉欲的；取自动物的；（胚胎）动物极的"
+  },
+  "today's": {
+    "ph": "",
+    "en": "",
+    "zh": "当今的，如今的，今天的"
+  },
+  "what's": {
+    "ph": "/wʌts/",
+    "en": "",
+    "zh": "abbr. 是什么（what is）；什么已（what has）；什么（what does）"
+  },
+  "salt": {
+    "ph": "/sɔːlt/",
+    "en": "",
+    "zh": "n. 盐，食盐（=common salt）；（化学）盐；盐状物（用于某种特殊目的的物质或药品）（salts）；<文>风趣，刺激性；<非正式>有经验的水手，老水手（old salt）；v. 给（食物）加盐调味；用盐腌制…"
+  },
+  "baby": {
+    "ph": "/ˈbeɪbi/",
+    "en": "",
+    "zh": "n. 婴儿，婴孩；动物幼崽；（家庭或团体中）最小的成员；幼稚的人，软弱的人；差事，责任；宝贝，亲爱的；喜欢的东西，宝贝东西；v. 把……当婴儿般对待，对……娇生惯养；小心翼翼地操作，小心对待"
+  },
+  "zaki": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 扎基（人名，Zaki 可作名字或姓氏）"
+  },
+  "jamil": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Jamil）人名；（阿拉伯、巴基）贾米勒；（葡）雅米尔"
+  },
+  "letter": {
+    "ph": "/ˈletər/",
+    "en": "",
+    "zh": "n. 信，信函；字母；<美>（缝制在运动服上的）校运动队首字母标志；<英，非正式>（代表学位或职位等资格的）首字母缩略词（letters）；文学；法律文书，正式文书（letters）；字面确切含义；（印刷）一种铅字字…"
+  },
+  "yesterday": {
+    "ph": "/ˈjestərdeɪ/",
+    "en": "",
+    "zh": "adv.  在昨天；日前，不久前；n.  昨天；最近，往昔"
+  },
+  "greek": {
+    "ph": "/ɡriːk/",
+    "en": "",
+    "zh": "n. (Greek) 希腊人；希腊语；（有希腊字母名称的）大学生联谊会会员；adj. (Greek) 希腊的；希腊人的，希腊语的；n. (Greek) （美）格雷克（人名）"
+  },
+  "bible": {
+    "ph": "/ˈbaɪb(ə)l/",
+    "en": "",
+    "zh": "n. 权威著作，宝典；《圣经》（the Bible）；一本《圣经》，《圣经》的一个版本"
+  },
+  "swiss": {
+    "ph": "/swɪs/",
+    "en": "",
+    "zh": "adj. 瑞士的，瑞士人的，瑞士风格的；n. 瑞士人；瑞士腔调"
+  },
+  "russia": {
+    "ph": "/ˈrʌʃə/",
+    "en": "",
+    "zh": "n. 俄罗斯"
+  },
+  "indians": {
+    "ph": "/ˈɪndiənz/",
+    "en": "",
+    "zh": "n. 印第安人（Indian 的复数）；印度人（Indian 的复数）"
+  },
+  "silver": {
+    "ph": "/ˈsɪlvər/",
+    "en": "",
+    "zh": "n. 银；银器（尤指餐具）；银币；银（白）色；银牌（silver medal 的简写）；adj. 银（白）色的；银制的，含银的，（有关）银的；二十五周年纪念的，银婚纪念的；<美>口才流利的"
+  },
+  "ad": {
+    "ph": "/æd/",
+    "en": "",
+    "zh": "n. 广告；促销活动；<非正式>预告片（同 advertisement）；abbr. 优势（advantage）"
+  },
+  "let's": {
+    "ph": "/lets/",
+    "en": "",
+    "zh": "abbr. 让我们，咱们（let us 的缩约形式，后接动词原形，用于提出建议或请求）"
+  },
+  "soft": {
+    "ph": "/sɔːft/",
+    "en": "",
+    "zh": "adj. 易弯曲的，柔软的；柔滑的，细嫩的；无棱角的，轮廓不鲜明的；柔和的，悦目的；（声音）安静的，轻柔的；（雨、风等）温和的，不猛烈的；有同情心的，心肠软的；力度不够的，不严厉的；轻松的，安逸的；（水）软性的；胆小…"
+  },
+  "fail": {
+    "ph": "/feɪl/",
+    "en": "",
+    "zh": "v. 失败；未能做到，未能做；辜负，使失望；不及格，未能通过；出故障，失灵；衰弱，衰退；破产，倒闭；歉收；不下雨，下雨少；忘记；n. 不及格；<非正式>过失，失败；【名】 （Fail）（葡、捷）法伊尔，（法）法伊（人名）"
+  },
+  "slow": {
+    "ph": "/sloʊ/",
+    "en": "",
+    "zh": "adj. （移动，运行）低速的，缓慢的；慢速的，低速的；耗时的，太慢的；迟缓的，慢吞吞的；（钟表）慢的；迟钝的，愚笨的；（胶片）曝光慢的；（镜头）小孔径的；（生意）清淡的，不景气的；不曲折的，乏味的，无趣的；（火，烤…"
+  },
+  "jump": {
+    "ph": "/dʒʌmp/",
+    "en": "",
+    "zh": "v. 跳，跃；跨越；快速（突然）移动；猛地一动；激增，暴涨；突然转换；略过；突然袭击（某人）；欢跃，雀跃；逃离，逃避；插（队）；<非正式>马上照办；跳吃（对方的棋子）；<非正式>与……性交；<美> 侵占（他人开采权或…"
+  },
+  "ship": {
+    "ph": "/ʃɪp/",
+    "en": "",
+    "zh": "n. （大）船，舰；三（或多）桅帆船；<非正式> 艇（尤指赛艇）；宇宙飞船；<美> 飞机；v. （用船、飞机、卡车）运送，运输；遣送（某人）；推出（计算机商品），（使）上市；（水手）在船上工作，在船上服役；舷侧进水；…"
+  },
+  "can't": {
+    "ph": "/kænt/",
+    "en": "",
+    "zh": "contr. 不能（can not）"
+  },
+  "sell": {
+    "ph": "/sel/",
+    "en": "",
+    "zh": "v. 出让，转让；出售，售卖；以……价钱出售；促销，推销；有销路；说服，使接受；<古> 出卖，做交易；<古> 欺骗；用以销售（一定数量）；n. <非正式> 销售，出售；推销品，销售品；<非正式> 让人失望的东西；推销术"
+  },
+  "we've": {
+    "ph": "/wɪv/",
+    "en": "",
+    "zh": "abbr. 我们已，我们有（we have）"
+  },
+  "value": {
+    "ph": "/ˈvæljuː/",
+    "en": "",
+    "zh": "n. 价值；等值，等价，物有所值；重要性，有用性；重要特点，显著特点；价值观（values）；（数学中的）值；（音乐中的）时值（指音符的时间长度）；（词或其他语言单位）确切意义；（色彩）明暗度"
+  },
+  "too": {
+    "ph": "/tuː/",
+    "en": "",
+    "zh": "adv. 太，过于，过度；也，亦，还；而且，再者（用于补充进一步的观点）；很，十分，非常（用于否定句）；确实地，无可否认地；（表示感谢，较为正式）极其，非常"
+  },
+  "ones": {
+    "ph": "/wʌnz/",
+    "en": "",
+    "zh": "pron. 用作复数代词，替代前文已提到或明确所指的人或事物，可译作“那些”或“某一类”；n. one 的复数形式，指数字 1（一）或若干个 1；尤用于 number ones，指排行榜名列第一的唱片或歌曲"
+  },
+  "they're": {
+    "ph": "/ˈðer/",
+    "en": "",
+    "zh": "abbr. 他们（是），她们（是），它们（是）：they are 的缩约形式，口语中常用。"
+  },
+  "you're": {
+    "ph": "/jʊr/",
+    "en": "",
+    "zh": "abbr. 你是，你们是（you are 的缩略形式）；int. 不客气，不用谢（回应感谢的固定用语 you're welcome）"
+  },
+  "born": {
+    "ph": "/bɔːrn/",
+    "en": "",
+    "zh": "adj. 天生的，生来就有的；出生的；产生的，（机构、想法等）问世的；comb. 以……的顺序（或方式、地点等）出生的；v. 忍受；承担；具有（bear 的过去分词形式）；【名】 （Born）（英、美、德、爱、丹）博…"
+  },
+  "let": {
+    "ph": "/let/",
+    "en": "",
+    "zh": "v. 允许，准许，同意；使通过；任由，随；（用于提出建议或表示赞同）让我们；（提出帮助时说）让，由；（用于引出命令）要；但愿；（用于引出要说的话）让我（们）来；（计算时说）假设，设；（表示犹豫或思考）让我想想；（表示…"
+  },
+  "hook": {
+    "ph": "/hʊk/",
+    "en": "",
+    "zh": "n. 钩，挂钩；勾拳；曲线球；吸引人的东西；使（投手）下场；（尤指用于收割、剪羊毛）弧形切割工具；弯曲的笔画；弧形岬（或沙嘴）；v. 钩住，挂住；（用手臂等身体部位）箍住；钓鱼；打曲线球；弯成钩状；吸引；<非正式>偷…"
+  },
+  "decision-making": {
+    "ph": "/dɪˈsɪʒn meɪkɪŋ/",
+    "en": "",
+    "zh": "n. 决策，作出决定的过程（不可数名词，也常拼作 decision making）；adj. 决策的，与决策有关的（一般作定语）"
+  },
+  "perhaps": {
+    "ph": "/pərˈhæps/",
+    "en": "",
+    "zh": "adv. 可能；（用以缓和语气或表示礼貌）也许，可能；（委婉地表示不赞同或不接受）也许，大概；（用于提出建议或请求）也许；n. 假定，猜想"
+  },
+  "easy": {
+    "ph": "/ˈiːzi/",
+    "en": "",
+    "zh": "adj. 容易的，不费力的；舒适的，自如的；随和的；轻浮的；平缓的；adv. 小心；容易地，悠闲地"
+  },
+  "move": {
+    "ph": "/muːv/",
+    "en": "",
+    "zh": "v. （使）改变位置，（使）移动；搬家，搬迁；（使）变换，调动；（使）改变观点（或做法）；前进，进展；采取行动；使感动，打动；促使，驱使；更改（时间或日期）；改变话题；走棋，移动棋子；（在会议或法庭上）提议；<非正式…"
+  },
+  "it's": {
+    "ph": "/ɪts/",
+    "en": "",
+    "zh": "abbr. 它是（it is 的缩约形式）；它已，它有（it has 的缩约形式，尤作助动词）"
+  },
+  "less": {
+    "ph": "/les/",
+    "en": "",
+    "zh": "adv. 更少地，程度较低地；det. （与不可数名词连用）较少的，更少的；prep. 减去，扣除；pron. 更少，较小；更小（或更无关紧要）的事物；adj. <古>等级较低的，次要的"
+  },
+  "fire": {
+    "ph": "/ˈfaɪər/",
+    "en": "",
+    "zh": "n. 失火，火灾；火焰；炉火，灶火；<英>取暖器；射击，火力；怒火，激情；严厉批评，猛烈批判；v. 射击，开火；射（箭）；扔，抛；点火，启动；连珠炮似的提出（问题）；解雇，开除；激发；烧制（陶器）"
+  },
+  "rarely": {
+    "ph": "/ˈrerli/",
+    "en": "",
+    "zh": "adv. 罕有，很少；异乎寻常地，极度"
+  },
+  "toes": {
+    "ph": "/toʊz/",
+    "en": "",
+    "zh": "n. [解剖]脚趾（toe 的复数）；v. 用脚尖走（toe 的三单形式）"
+  },
+  "lost": {
+    "ph": "/lɔːst/",
+    "en": "",
+    "zh": "adj. 迷路的，迷失的；失去的，丢失的；不复存在的，不再拥有的；不知所措，一筹莫展；糊涂的，困惑的；全神贯注的；（时间或机会）浪费的，错过的；输了的；遭难的，阵亡的；彻底毁坏的；v. 遗失，丢失；失去；输掉（比赛、…"
+  },
+  "edge": {
+    "ph": "/edʒ/",
+    "en": "",
+    "zh": "n. 边，边缘；锋，刃；优势；影响力，奇特的品质；（声音里的）尖锐，怒气；（坏事的）边缘，临界点；棱；v. 缓慢地移动；给……加边；险胜；用球拍边击球；倾斜滑雪；修剪（草地边缘）；使锐利，使尖锐"
+  },
+  "heart": {
+    "ph": "/hɑːrt/",
+    "en": "",
+    "zh": "n. 心，心脏；内心，感情；胸前；重点，核心；中心，中央；信心，勇气；（表示爱的）心形物；红桃牌，红心牌；菜心；同情，怜悯；爱情，情爱；（土地的）肥力；v. <非正式>喜爱，深爱；【名】 （Heart）（英）哈特（人名）"
+  },
+  "got": {
+    "ph": "/ɡɑːt/",
+    "en": "",
+    "zh": "v. 得到，明白（get 的过去式和过去分词）；用于 have got 表示“拥有”；用于 have got to 表示“必须，不得不”；（口语）用于 have got to 表示“肯定，一定是”"
+  },
+  "you've": {
+    "ph": "/juːv/",
+    "en": "",
+    "zh": "abbr. you have 的缩略形式（口语中常见，尤用于 have 作助动词时）：你已，你有"
+  },
+  "program": {
+    "ph": "/ˈproʊɡræm/",
+    "en": "",
+    "zh": "n. （计算机）程序（=programme）；计划，规划；（音乐会、戏剧等演出的）节目单，（体育运动、比赛等的）项目介绍；（电视或广播）节目；<美>课程，大纲；v. （给计算机）编写程序，设计程序；设置，预设；使………"
+  },
+  "fine": {
+    "ph": "/faɪn/",
+    "en": "",
+    "zh": "adj. 令人满意的，可以接受的；值得崇敬的；健康的，身体好的；优质的，出色的，美好的；晴朗的；纤细的，细小的；精美的，精巧的；细微的，细密的；<非正式>糟糕的；矫饰的，华而不实的；adv. 很，很好；精致地，精美地…"
+  },
+  "add": {
+    "ph": "/æd/",
+    "en": "",
+    "zh": "v. 添加，掺入；（使）相加，加；增加；增添（某种特性）；把……计算在内，包括；补充说，继续说；abbr. 注意力缺陷障碍，多动症（ADD）"
+  },
+  "perceptive": {
+    "ph": "/pərˈseptɪv/",
+    "en": "",
+    "zh": "adj. 感知力强的，有洞察力的，思维敏捷的；视觉的，听觉的，感觉的"
+  },
+  "generous": {
+    "ph": "/ˈdʒenərəs/",
+    "en": "",
+    "zh": "adj. 慷慨的，大方的；大量的，丰富的；宽宏大量的"
+  },
+  "deep": {
+    "ph": "/diːp/",
+    "en": "",
+    "zh": "adj. 深的，厚的；纵深的，宽的；有……深的；成……排的；深呼吸的；（声音）低沉的；深色的；酣睡的；严重的；（感情）深厚的；透彻的，深刻的；深奥的；全神贯注，深陷；（人）深沉的；（目光）锐利的，深邃的；靠近场地边界…"
+  },
+  "harvard": {
+    "ph": "/ˈhɑːrvərd/",
+    "en": "",
+    "zh": "n. 哈佛大学；哈佛大学学生"
+  },
+  "solomon": {
+    "ph": "/ˈsɑːləmən/",
+    "en": "",
+    "zh": "n. 所罗门（男子名）；所罗门（古以色列国王大卫之子，以智慧著称）；大智者，聪明人"
+  },
+  "lou": {
+    "ph": "/lu:/",
+    "en": "",
+    "zh": "n. 卢（人名，男子名 Louis、Louie 等的昵称；也作女子名 Louise、Lu 等的昵称）；v. <苏格兰>爱，喜爱（亦作 loo）"
+  },
+  "i'd": {
+    "ph": "/aid/",
+    "en": "",
+    "zh": "abbr. 我愿意（等于 I would）"
+  },
+  "door": {
+    "ph": "/dɔːr/",
+    "en": "",
+    "zh": "n.  门；门口，门道；建筑，门户 ；（尤与 open 或 unlock 连用）机会，可能性；v. 车门撞击（骑自行车经过的人）；【名】 （Door）（英）多尔（人名）"
+  },
+  "then": {
+    "ph": "/ðen/",
+    "en": "",
+    "zh": "adv. （指过去）当时，（指将来）到那时；接下来，然后；因此，既然如此；另外，还有；总之；（表示交谈、陈述等的开始或结束）那么；这么说（用于表示对已知情况的判断或询问）；毕竟，话说回来"
+  },
+  "short-term": {
+    "ph": "/ˌʃɔːrt ˈtɜːrm/",
+    "en": "",
+    "zh": "adj. 短期的，近期的"
+  },
+  "difficult-to-measure": {
+    "ph": "",
+    "en": "",
+    "zh": "难以估计的：指无法准确测量或评估的，很难确定具体数值的。"
+  },
+  "fact": {
+    "ph": "/fækt/",
+    "en": "",
+    "zh": "n. 事实，真相；现实"
+  },
+  "admission": {
+    "ph": "/ədˈmɪʃ(ə)n/",
+    "en": "",
+    "zh": "n. 承认，供认；允许进入（加入），进入权；录取，录取人数；入场费；入院治疗（检查）；入场人数；入院病人"
+  },
+  "council": {
+    "ph": "/ˈkaʊns(ə)l/",
+    "en": "",
+    "zh": "n. 委员会，理事会；政务委员会，地方议会；会议；（教会的）集会；adj. 地方政府廉租的；【名】 （Council）（英）康斯尔（人名）"
+  },
+  "goal-setting": {
+    "ph": "",
+    "en": "",
+    "zh": "目标设置法"
+  },
+  "oral": {
+    "ph": "/ˈɔːrəl/",
+    "en": "",
+    "zh": "adj. 口头的，口述的；口的，口腔的；（药物）口服的；（语音）口腔发声的；（社会）没有文字的；（心理分析）口欲的，口唇的；n. （尤指外语）口试；<美>（大学里的）口试；【名】 （Oral）（土）奥拉尔（人名）"
+  },
+  "talk": {
+    "ph": "/tɔːk/",
+    "en": "",
+    "zh": "v. 说话，交谈，谈话；谈判，商讨；（就某一主题）演讲，作报告；讲（某种语言）；说服；<非正式>有说服力；招认，泄露秘密；议论，说闲话；<非正式>正在讨论；批评（某人）；（用信号、数字等）交流，传递信息；一直说到………"
+  },
+  "seek": {
+    "ph": "/siːk/",
+    "en": "",
+    "zh": "v. 寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）"
+  },
+  "people-centric": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．以人为本的：强调关注和满足人们需求、利益和幸福的方法或策略。"
+  },
+  "song": {
+    "ph": "/sɔːŋ/",
+    "en": "",
+    "zh": "n. 歌，歌曲；歌唱，声乐；（鸟的）鸣啭，啼啭；押韵的诗歌；【名】 （Song）（英）桑，（汉语）宋（人名）"
+  },
+  "significance": {
+    "ph": "/sɪɡˈnɪfɪkəns/",
+    "en": "",
+    "zh": "n. 重要性，意义；意思，含义"
+  },
+  "mbas": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 亚甲蓝活性物质（Methylene Blue Active Substance）"
+  },
+  "new": {
+    "ph": "/nuː/",
+    "en": "",
+    "zh": "adj. 新出现的，新兴的；新买的；未用过的，崭新的；有别于从前的，新颖的；新发现的，新近知道的；生疏的，未体验过的；现代的，最新型的；新时期的，新开始的；富有朝气的，生气勃勃的；时鲜的（蔬菜）；更新的，变样的"
+  },
+  "manifesto": {
+    "ph": "/ˌmænɪˈfestoʊ/",
+    "en": "",
+    "zh": "n. （尤指政党的）宣言，声明；v. 发表宣言"
+  },
+  "seth": {
+    "ph": "/seɪt/",
+    "en": "",
+    "zh": "n. （印度英语）商人，银行家；富人，有钱人；塞斯，阁下（印度英语中对有地位者的尊称）；塞思，赛斯（男子名）；塞思（《圣经·旧约》中亚当和夏娃的第三个儿子，神赐下以代替被杀的亚伯）；塞特（又译赛特；亦作 Set；古埃…"
+  },
+  "penguin": {
+    "ph": "/ˈpeŋɡwɪn/",
+    "en": "",
+    "zh": "n. 企鹅；<非正式>空军地勤人员；企鹅出版社（Penguin Books，英国出版机构）"
+  },
+  "publishing": {
+    "ph": "/ˈpʌblɪʃɪŋ/",
+    "en": "",
+    "zh": "n. 出版（活动）；出版业；v. publish 的现在分词：出版，发行（书、杂志等）；（作家、音乐家等）发表（自己的作品），使（作品）出版；（在互联网上）发表、发布（文章、内容等）"
+  },
+  "group": {
+    "ph": "/ɡruːp/",
+    "en": "",
+    "zh": "n. 集体，团体；组，群；集团；乐团，乐队；空军大队（通常由两个或两个以上的基地组成）；（元素周期表中的）族；（系统语法中的）词组；原子团；v. （使）成组，聚集；将……分类"
+  },
+  "random": {
+    "ph": "/ˈrændəm/",
+    "en": "",
+    "zh": "adj. 任意的，随机的，胡乱的；（砖石建筑）石头大小不一的；<非正式>奇怪的，不同寻常的；n. 随意，随机；<非正式>不认识的人，陌生人；adv. 随机地，胡乱地"
+  },
+  "information-gathering": {
+    "ph": "",
+    "en": "",
+    "zh": "信息收集：指通过各种手段和渠道，收集和获取有关某个主题、问题或目标的相关信息。"
+  },
+  "copyright": {
+    "ph": "/ˈkɑːpiraɪt/",
+    "en": "",
+    "zh": "n. 版权，著作权；adj. 版权的，受版权保护的；v. 获得……的版权；保护……的版权"
+  },
+  "thinkabout": {
+    "ph": "/θɪŋk əˈbaʊt/",
+    "en": "",
+    "zh": "v. 认真考虑"
+  },
+  "ted": {
+    "ph": "/ted/",
+    "en": "",
+    "zh": "vt. 翻晒"
+  },
+  "excerpted": {
+    "ph": "",
+    "en": "",
+    "zh": "v. 摘录，节选，引用（excerpt 的过去式和过去分词）；adj. 摘录的，节选的，引用的（excerpt 的过去分词，常作定语）"
+  },
+  "godin": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Godin）人名；（俄）戈金；（法）戈丹；（英、德、西、塞、瑞典）戈丁"
+  },
+  "blog": {
+    "ph": "/blɑːɡ/",
+    "en": "",
+    "zh": "n. 网络日志，博客；v. 写博客"
+  },
+  "save": {
+    "ph": "/seɪv/",
+    "en": "",
+    "zh": "v. 救助，搭救；避免，减少；积攒，储蓄；节省（钱、时间或其他资源）；保存，保留；收集；（为某人）保留；（计算机）保存（数据）；使健康长寿，护佑；（足球等）救球，防止对方进球；（棒球）（替补投手） 保持（其他投手取得…"
+  },
+  "llc": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 有限责任公司（Limited Liability Company）的缩写；逻辑链路控制（Logical Link Control）的缩写；液面控制（Liquid Level Control）的缩写"
+  },
+  "dubai": {
+    "ph": "/duˈbaɪ/",
+    "en": "",
+    "zh": "n. 迪拜（阿拉伯联合酋长国的酋长国之一）；迪拜港（阿拉伯联合酋长国港市）"
+  },
+  "sameer": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 一个常见的印度男子名，源于阿拉伯语，意为“夜间的伴侣”或“夜间的陪伴者”。"
+  },
+  "hashmi": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Hashmi）人名；（伊朗、巴基）哈什米"
+  },
+  "buzz": {
+    "ph": "/bʌz/",
+    "en": "",
+    "zh": "v. 发嗡嗡声，发蜂鸣声；匆忙走动；充满嘈杂声；充满想法；繁忙，充满活力；<非正式>给（某人）打电话；<非正式>（飞机）低空飞过；（用蜂鸣器）呼叫；n. 嗡嗡声，蜂鸣声；叽叽喳喳声，嘈杂声；<非正式>兴奋，快乐；热闹…"
+  },
+  "over": {
+    "ph": "/ˈoʊvər/",
+    "en": "",
+    "zh": "adv. 向下，倒下；翻过，翻转；越过；超过，以上；完全覆盖；在上方；剩下，余下；再，又；改变，掉换；结束，完；去，到（某处）；很，太；仔细地；度过一段时间；prep. 盖在……上面；悬在……上面；从一边到另一边；翻…"
+  },
+  "month": {
+    "ph": "/mʌnθ/",
+    "en": "",
+    "zh": "n. 月，月份；一个月的时间；数月，很长时间（months）"
+  },
+  "natasha": {
+    "ph": "/nəˈtɑːʃə/",
+    "en": "",
+    "zh": "n. 娜塔莎（女子名，等于 Natascha）"
+  },
+  "most-visited": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．访问量最高的，最受欢迎的：指某个地方、网站或景点等吸引了大量游客或用户，成为人们最常去的地方。"
+  },
+  "toll": {
+    "ph": "/toʊl/",
+    "en": "",
+    "zh": "n. （道路、桥梁等的）通行费；<美>长途电话费；（事故、灾难、战争等的）伤亡人数；严重的不良影响；（缓慢的）钟声；v. （缓慢地）敲（钟），鸣（钟）；鸣钟告知；收取（桥梁或道路的）通行费"
+  },
+  "seen": {
+    "ph": "/siːn/",
+    "en": "",
+    "zh": "v. see 的过去分词，意为“看见，看到”（用于完成时或被动结构，也可表示明白；观看；看望；会见等）；n. （Seen）森（人名）"
+  },
+  "fall": {
+    "ph": "/fɔːl/",
+    "en": "",
+    "zh": "v. 降落，落下；跌倒，倒塌；（水平、数量、价格等）下跌，减少；属于；下垂，低垂；照射（到），（阴影）落在；降临，发生；倒台，失势；被打败，沦陷；阵亡，被击毙；打中，击中；（嗓音或声音）变轻，变小；进入（某状态），开…"
+  },
+  "hit": {
+    "ph": "/hɪt/",
+    "en": "",
+    "zh": "v. 打，击；撞击，碰撞；击中，命中；击（球）；产生不良影响，危害；攻击，袭击；达到（一个特定的水平，阶段，数字）；碰到，遇到（困难、问题等）；使（某人）突然意识到；使（突然）闻到，使看到；按，摁；<非正式>给（人）…"
+  },
+  "i": {
+    "ph": "/aɪ/",
+    "en": "",
+    "zh": "n. 英语字母 i（大写 I）；数学虚数单位（满足 i² = −1）；罗马数字 1；美国州际公路编号前缀（如 I-95）；碘（化学元素符号 I）；（哲学）自我，自我意识；pron. 我（第一人称单数主格代词，通常大写…"
+  },
+  "rely": {
+    "ph": "/rɪˈlaɪ/",
+    "en": "",
+    "zh": "v. 相信，信赖；依靠，依赖"
+  },
+  "close": {
+    "ph": "/kloʊz/",
+    "en": "",
+    "zh": "v. （使）关闭；合上，合拢；（使）暂时性关闭；（永久）停业，停止活动；（使）结束，（使）停止；关闭（计算机程序）；（股票等）收盘；拉近（距离），缩小（差距）；抱住，抓住，握住；（使）（伤口）愈合；封锁（公路、公园等…"
+  },
+  "shut": {
+    "ph": "/ʃʌt/",
+    "en": "",
+    "zh": "v. 关闭，合上；把……关在；<英>（使）停止运作，（使）停止营业；禁止通行，封闭；adj. 关闭的，关上的；<英>打烊的，停止营业的；n. 关闭；【名】 （Shut）（俄）舒特（人名）"
+  },
+  "place": {
+    "ph": "/pleɪs/",
+    "en": "",
+    "zh": "n. 地点，场所；城镇（或建筑物等）；有某用途的建筑（或土地）；表面的某处；家，住所；（书本或讲话中的）点；座位，位置；地位，资格；机会，名额；适当的地方；境况；排名；<美>第二名；（数学的）位；广场，短街；乡间住宅…"
+  },
+  "few": {
+    "ph": "/fjuː/",
+    "en": "",
+    "zh": "det. 一些，几个；很少，不多，几乎没有；pron. 一些人（或物）；很少的人（或物）；adj. 少数的；很少（的），几乎没有（的）；n. （尤指享有某种机遇等的）少数派，少数（the few） ；参加过不列颠之战…"
+  },
+  "hubs": {
+    "ph": "/hʌbz/",
+    "en": "",
+    "zh": "n. 中心，枢纽（hub 的复数）；轮毂；集线器；枢纽机场"
+  },
+  "palm": {
+    "ph": "/pɑːm/",
+    "en": "",
+    "zh": "n. 手掌，手心；（手套的）掌部；（制帆工用的）护掌；棕榈树；（作为奖赏或胜利象征的）棕榈叶；鹿角的扁平部分；v. 把……藏在手中（尤指玩戏法）；（篮球）持球犯规；用手挡（球）；【名】 （Palm）（英）帕姆，（瑞典…"
+  },
+  "island": {
+    "ph": "/ˈaɪlənd/",
+    "en": "",
+    "zh": "n. 岛，岛屿；岛状物，孤立体；脑岛，胰岛；v. 使成岛（状），使孤立；【名】 （Island）（英）艾兰（人名）"
+  },
+  "date": {
+    "ph": "/deɪt/",
+    "en": "",
+    "zh": "n. 日期，日子；约会，幽会；约会对象；椰枣，海枣；v. 注明日期；确定年代；<美>谈恋爱，约会；过时，不流行；使显老；【名】 （Date）（英）戴特，（日）伊达（人名）"
+  },
+  "february": {
+    "ph": "/ˈfebrueri/",
+    "en": "",
+    "zh": "n. 二月"
+  },
+  "air": {
+    "ph": "/er/",
+    "en": "",
+    "zh": "n. 大气，空气；空中，天空；乘坐飞机，航空；神态，氛围；曲调，旋律；装腔作势，做作；空气媒质；气，风；v. 使公开，宣扬；（使）通风；（使）晾干，（使）烘干；播送，播放；<古>出去透气；<古>炫耀，夸示"
+  },
+  "tens": {
+    "ph": "/tenz/",
+    "en": "",
+    "zh": "n. ten 的复数形式，表示多个十、十个一组或约略的数十；十进制计数中个位左侧的数位，即十位（tens digit、tens place、tens column）；tens of thousands（数万、成千上万…"
+  },
+  "uae": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 阿拉伯联合酋长国（United Arab Emirates）"
+  },
+  "halt": {
+    "ph": "/hɔːlt/",
+    "en": "",
+    "zh": "v. （使）停止行进；阻止，中断；（口令）立定；跛行；（尤指逻辑或诗韵）有缺陷；踌躇，犹豫；n. 停止，中止；<英>乡间小火车站（只有站台）；跛，瘸； 跛，瘸；（口令）立定；adj. 跛的，瘸的"
+  },
+  "fairmont": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 费尔蒙特（酒店集团及豪华酒店品牌，亦译费尔蒙）；费尔蒙特（福特汽车公司曾生产的车型）"
+  },
+  "flag-carrier": {
+    "ph": "",
+    "en": "",
+    "zh": "旗舰航空公司：一家飞行或运输所属国家国旗的航空或海运公司。"
+  },
+  "eid": {
+    "ph": "/iːd/",
+    "en": "",
+    "zh": "abbr. 新发传染病（Emerging Infectious Diseases）；暑期管培实习生（Early Identification）；生态界面设计（ecological interface design）"
+  },
+  "mamoun": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Mamoun）人名；（阿拉伯）马蒙"
+  },
+  "hub": {
+    "ph": "/hʌb/",
+    "en": "",
+    "zh": "n. （活动的）中心；枢纽机场，枢纽城市；（轮）毂，（推进器、风扇等的）旋翼叶毂；（网络）集线器；【名】 （Hub）（捷）胡布（人名）"
+  },
+  "majestic": {
+    "ph": "/məˈdʒestɪk/",
+    "en": "",
+    "zh": "adj. 雄伟的，壮丽的，威严的"
+  },
+  "lows": {
+    "ph": "/loʊz/",
+    "en": "",
+    "zh": "n. 最低点，最低水平，低谷（low 的复数）；（气象）低气压区，低压系统（low 的复数）；（Lows）<美>洛斯（人名）；<美>洛丝（人名）；v. （牛）哞哞叫（low 的第三人称单数）"
+  },
+  "wego": {
+    "ph": "",
+    "en": "",
+    "zh": "n．Wego是一家在线旅行搜索引擎，提供用户在一个平台上比较和预订酒店、机票等旅行服务。"
+  },
+  "raj": {
+    "ph": "/ˈrɑːdʒ/",
+    "en": "",
+    "zh": "n. （印度）统治，支配，主权；（the Raj）英国统治印度时期；（Raj）人名，拉杰（印度、尼泊尔、斐济等，匈牙利作劳伊，塞尔维亚、瑞典作拉伊）"
+  },
+  "lot": {
+    "ph": "/lɑːt/",
+    "en": "",
+    "zh": "n. (常sing.) 一群，一批；小块土地；电影摄制场；（汽车经销处的）停车场；拍卖品；<英>全体成员；（尤指不太好的）命运, 处境；签，阄；一群，一批；v. （拍卖前）将（商品）分成批组"
+  },
+  "jumeirah": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 朱美拉（豪华酒店集团）"
+  },
+  "covid-": {
+    "ph": "/ˈkoʊvɪd/",
+    "en": "",
+    "zh": "n. 冠状病毒病"
+  },
+  "was": {
+    "ph": "/wʌz/",
+    "en": "",
+    "zh": "vt. 是；在（am、is 的过去式）"
+  },
+  "price-sensitive": {
+    "ph": "/praɪs ˈsensətɪv/",
+    "en": "",
+    "zh": "adj. 价格敏感"
+  },
+  "south": {
+    "ph": "/saʊθ/",
+    "en": "",
+    "zh": "n. 南，（罗盘的）南方；（某个地方、国家、区域的）南部；美国南部各州，英格兰南部（the South）；（南半球的）发展中国家（the South）；（桥牌）坐在南首位置的人（South）"
+  },
+  "asia": {
+    "ph": "/ˈeɪʒə/",
+    "en": "",
+    "zh": "n. 亚洲"
+  },
+  "city's": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 城市的"
+  },
+  "europe": {
+    "ph": "/ˈjʊrəp/",
+    "en": "",
+    "zh": "n. 欧洲（世界七大洲之一）；欧洲联盟，欧洲国家整体（政治、经济语境中的转喻）"
+  },
+  "soviet": {
+    "ph": "/ˈsoʊviet/",
+    "en": "",
+    "zh": "n. 苏维埃；苏联人民（Soviets/the Soviets）；（1917年前俄国工人、农民组成）地方革命委员会；adj. 苏联的，苏联人民的（Soviet）"
+  },
+  "march": {
+    "ph": "/mɑːrtʃ/",
+    "en": "",
+    "zh": "v. 齐步走，行军；快步走；强迫（某人）一起走，押送；游行示威；进行，进展；n. 三月（March）；示威游行；行进，行军；稳步发展；进行曲"
+  },
+  "felt": {
+    "ph": "/felt/",
+    "en": "",
+    "zh": "n. 毛毡；v. （使）毡合；用毡覆盖；v. 感受到，体会到；觉得，相信；使人感觉……（feel 的过去式和过去分词）；【名】 （Felt）（美）费尔特（人名）"
+  },
+  "varun": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 瓦伦（音译，源自梵语的印度及南亚男子名）"
+  },
+  "asian": {
+    "ph": "/ˈeɪʒ(ə)n/",
+    "en": "",
+    "zh": "n. 亚洲人，亚裔人士；adj. 亚洲的，亚洲人的"
+  },
+  "high-end": {
+    "ph": "/ˌhaɪ ˈend/",
+    "en": "",
+    "zh": "adj. 高端的，高档的"
+  },
+  "lose": {
+    "ph": "/luːz/",
+    "en": "",
+    "zh": "v. 遗失，丢失；失去（某一特性、特点、态度或信念）；被剥夺，被损坏；失去（亲人或朋友等）；输掉（比赛、战斗、争论等）；降低，减少；摆脱，甩掉（追赶者）；使不明白，使迷惑；去掉，拿掉；亏（本），赔（钱）；浪费，错过；…"
+  },
+  "five-star": {
+    "ph": "/ˈfaɪv stɑːr/",
+    "en": "",
+    "zh": "adj. 五星级的；第一流的，最高级的"
+  },
+  "rights": {
+    "ph": "/raɪts/",
+    "en": "",
+    "zh": "n. （法）权利；权限；（对作品、财产等的）使用权、开发权；（金融）认股权"
+  },
+  "debt": {
+    "ph": "/det/",
+    "en": "",
+    "zh": "n. 欠款，债务；负债情况；人情债"
+  },
+  "fees": {
+    "ph": "/fiːz/",
+    "en": "",
+    "zh": "n. 费用（fee 的复数，指服务费、酬金等）；规费；（Fees）人名，德语、法语姓氏，译作费斯"
+  },
+  "economics": {
+    "ph": "/ˌiːkəˈnɑːmɪks/",
+    "en": "",
+    "zh": "n. 经济学；经济情况；经济体制"
+  },
+  "oxford": {
+    "ph": "/ˈɑːksfərd/",
+    "en": "",
+    "zh": "n. 牛津布（同 oxford cloth）；牛津布衬衫；（oxfords）牛津鞋（一种系鞋带的皮鞋）；（Oxford）牛津（英国城市，牛津大学位于此地）"
+  },
+  "bn": {
+    "ph": "/biː en/",
+    "en": "",
+    "zh": "abbr. billion 的缩写，表示十亿；文莱达鲁萨兰国（Brunei Darussalam）的国家代码，也指其互联网顶级域名 .bn；孟加拉语（Bengali）的 ISO 639-1 语言代码；护理学士（Bac…"
+  },
+  "ends": {
+    "ph": "/endz/",
+    "en": "",
+    "zh": "n. 结束（end 的复数）；目的；末端"
+  },
+  "soon": {
+    "ph": "/suːn/",
+    "en": "",
+    "zh": "adv. 很快，马上，不久；早，快；宁可，宁愿"
+  },
+  "quick": {
+    "ph": "/kwɪk/",
+    "en": "",
+    "zh": "adj. 迅速的，快的；持续时间很短的，短暂的；敏捷的，脑子反应快的；马上的，即刻的；性情急躁的，容易发怒的；adv. <非正式> 以很快的速度；<非正式>迅速发生地，很快发生地；n. （指甲下的）活肉（the qu…"
+  },
+  "week": {
+    "ph": "/wiːk/",
+    "en": "",
+    "zh": "n. 星期，周；一个星期的时间，一周；一周工作时间，工作周；（除去星期六和星期日的）星期，周；活动周（举行某项活动的一周）；（从某天算起的）一周；（某天之前的）一周；一周又一周，接连好几个星期"
+  },
+  "mid-market": {
+    "ph": "",
+    "en": "",
+    "zh": "中端市场"
+  },
+  "fee": {
+    "ph": "/fiː/",
+    "en": "",
+    "zh": "n. 费用，酬金；会费，入场费；封地，采邑；v. 付给（某人）费用；【名】 （Fee）（英、柬）菲（人名）"
+  },
+  "fly": {
+    "ph": "/flaɪ/",
+    "en": "",
+    "zh": "v. 飞，飞行；乘飞机，搭乘（某公司航班）；驾驶（飞机）；空运；飞越；疾驰，快速移动；放飞（风筝）；飞舞，飘荡；悬挂，飘扬；（使）逃离，匆忙离开；成功；飞逝；击腾空球；流传，四处传播；（指责，谩骂）往来激烈；被认可，…"
+  },
+  "cash": {
+    "ph": "/kæʃ/",
+    "en": "",
+    "zh": "n. 现款，现金；金钱，资金；v. 兑现（支票）；支付现款；【名】 （Cash）（英）卡什（人名）"
+  },
+  "linkedin": {
+    "ph": "/ˈlɪŋktɪn/",
+    "en": "",
+    "zh": "n. 领英（LinkedIn）职业社交平台，商务化人际关系网"
+  },
+  "jasmin": {
+    "ph": "/ˈdʒæsmɪn/",
+    "en": "",
+    "zh": "n. 茉莉属（Jasminum）植物；茉莉花（jasmin 为 jasmine 的变体拼写）；（Jasmin）人名：塞尔维亚语译作亚斯明，英语译作贾斯明或贾丝明（女名），法语译作雅斯曼"
+  },
+  "russian": {
+    "ph": "/ˈrʌʃ(ə)n/",
+    "en": "",
+    "zh": "adj. 俄国的；俄语的；n. 俄语；俄国人"
+  },
+  "died": {
+    "ph": "/daɪd/",
+    "en": "",
+    "zh": "v. die 的过去式和过去分词：死亡，去世；消逝，消失；（机器等）停止运转；（非正式）几乎要死（夸张表示震惊、尴尬等强烈情绪）"
+  },
+  "siberia": {
+    "ph": "/saɪˈbɪriə/",
+    "en": "",
+    "zh": "n. 西伯利亚（俄罗斯亚洲部分的大片地区，以漫长而严寒的冬季著称）"
+  },
+  "friday": {
+    "ph": "/ˈfraɪdeɪ/",
+    "en": "",
+    "zh": "n. 星期五；忠仆"
+  },
+  "woman": {
+    "ph": "/ˈwʊmən/",
+    "en": "",
+    "zh": "n. 成年女子，妇女；（泛指）女性；带修饰语指来自……（或做……、喜欢……等）的女子；女工，女仆；<非正式>妻子，女友，情人；（盛气凌人的称呼）女人；v. <古>使女性化；<罕>配备女性员工；<罕>使（某人）与女性交往"
+  },
+  "sales-related": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．与销售相关的：涉及销售活动、业绩或策略的。"
+  },
+  "year-old": {
+    "ph": "",
+    "en": "",
+    "zh": "adj. 一岁的；用于数词后构成复合形容词时表示……岁；n. ……岁的人（尤指孩子）"
+  },
+  "darya": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Darya）人名；（俄）达里娅"
+  },
+  "irkutsk": {
+    "ph": "/ɪrˈkutsk/",
+    "en": "",
+    "zh": "n. 伊尔库茨克（俄罗斯东西伯利亚城市，伊尔库茨克州首府）"
+  },
+  "unconfirmed": {
+    "ph": "/ˌʌnkənˈfɜːrmd/",
+    "en": "",
+    "zh": "adj. 未证实的；未最后认可的；（基督教）未受坚信礼的"
+  },
+  "fell": {
+    "ph": "/fel/",
+    "en": "",
+    "zh": "n. （尤指英格兰北部的）山（冈），丘陵，高沼地；采伐的木材数量；<古>兽皮，生皮；v. 砍伐；击倒；把（接缝的边）缝平； 掉下，跌落（fall 的过去式形式）；adj. 凶恶的，残暴的；和丘陵、小山有关的"
+  },
+  "ill": {
+    "ph": "/ɪl/",
+    "en": "",
+    "zh": "adj. 有病的，不舒服的；坏的，有害的；不友好的，不友善的；不吉祥的，不利的；adv. 坏，恶劣地；艰难地，几乎不；不友好地，不友善地；不祥地；n. 问题，困难；伤害，厄运；病人，患者"
+  },
+  "trip": {
+    "ph": "/trɪp/",
+    "en": "",
+    "zh": "n. （尤指短程往返的）旅行，旅游；出门，出行；绊倒；<非正式>（吸毒所致的）幻觉，迷幻感受；<美，非正式>让人开心的奇人，奇妙有趣的经历；强烈的情感体验；（赛跑等比赛的）赛程；自我放纵的态度（或行动）；（机器、电路…"
+  },
+  "anti-plague": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．抗瘟疫的：用于预防、治疗或抵抗瘟疫的。"
+  },
+  "mongolia": {
+    "ph": "/mɑːŋˈɡoʊliə/",
+    "en": "",
+    "zh": "n. 蒙古，蒙古国（亚洲内陆国家，首都乌兰巴托，旧称外蒙古）；蒙古地区（历史地理区域，包括今蒙古国与中国内蒙古等地）；蒙戈利亚（人名音译）"
+  },
+  "pneumonia-like": {
+    "ph": "",
+    "en": "",
+    "zh": "adj. 类肺炎的：症状或特征类似于肺炎的。"
+  },
+  "wild": {
+    "ph": "/waɪld/",
+    "en": "",
+    "zh": "adj. （动植物）自然生长的，野生的；（土地）无人烟的，未开垦的；（人）未开化的，野蛮的；不受控制的，放荡的；暴风雨的，狂暴的；（做事或说话）轻率的，缺乏根据的；激动人心的；满腔热情的，十分热衷的；感情强烈的（尤指…"
+  },
+  "lead": {
+    "ph": "/liːd/",
+    "en": "",
+    "zh": "v. 引领，带路；通向，通往；（与……）相连，相通；领导，指挥；导致，造成；促使，使得；过（某种生活）；领先，居于首位；开牌；对（证人）进行诱询；用水砣测深；n. 领先地位；超前量，领先的距离；范例，榜样；线索；主角…"
+  },
+  "here's": {
+    "ph": "/hɪrz/",
+    "en": "",
+    "zh": "abbr. （等于 here is）"
+  },
+  "clinically": {
+    "ph": "/ˈklɪnɪkli/",
+    "en": "",
+    "zh": "adv. 临床上，通过临床诊断；冷静客观地，不偏不倚地"
+  },
+  "yersinia": {
+    "ph": "/jɜːˈsɪnɪə/",
+    "en": "",
+    "zh": "n. 耶尔森菌属；耶尔森菌、耶尔森氏菌（该属的革兰氏阴性杆菌）"
+  },
+  "host": {
+    "ph": "/hoʊst/",
+    "en": "",
+    "zh": "n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体；v. 主办，做……的东道主；做节目主持人；作为主人…"
+  },
+  "neck": {
+    "ph": "/nek/",
+    "en": "",
+    "zh": "n. 颈项，脖子；衣领，领口；（物体的）细长部分，颈部；狭长地带，狭长水域；（动物的）颈肉；（赛马）以微弱优势（获胜），险（胜）；<非正式>在这一带，在某人的地区；<英>受到惩罚（批评）；（喻）（对责任或过失的）背负…"
+  },
+  "rare": {
+    "ph": "/rer/",
+    "en": "",
+    "zh": "adj. 少见的，不常发生的；稀罕的，珍贵的；半熟的，半生的；（品质）极好的，杰出的；（空气）稀薄的，缺氧的；<英，非正式>非常的，极度的"
+  },
+  "tiny": {
+    "ph": "/ˈtaɪni/",
+    "en": "",
+    "zh": "adj. 极小的，微小的；n. <非正式>幼童；【名】 （Tiny）（葡、印）蒂尼（人名）"
+  },
+  "short": {
+    "ph": "/ʃɔːrt/",
+    "en": "",
+    "zh": "adj. 短暂的，短期的；（长度或距离）短的；个子矮的；简短的，短篇的；短缺的，稀少的；不够（长、高或远）的；缩写的；呼吸困难的；唐突的，无礼的；短音的；短球的；（板球）靠近击球手位置的；概率大的；（糕点）松脆的；（…"
+  },
+  "black": {
+    "ph": "/blæk/",
+    "en": "",
+    "zh": "adj. 黑的，黑色的；黑色人种的；不加牛奶的；脏的，布满污垢的；悲伤的，无望的；愤怒的，仇恨的；罪恶的，邪恶的；（幽默）黑色的；（滑雪道）难度最大的；（军事活动）秘密的；黑桃和梅花组牌的"
+  },
+  "th": {
+    "ph": "/tiː ˈeɪtʃ/",
+    "en": "",
+    "zh": "abbr. 真实航向（True Heading）"
+  },
+  "firstly": {
+    "ph": "/ˈfɜːrstli/",
+    "en": "",
+    "zh": "adv. （用于引出一系列陈述）首先，第一"
+  },
+  "buryatia": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 布里亚特"
+  },
+  "human-to-human": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．人际的，人与人之间的：指涉及或影响到两个或多个人之间的关系、互动或传播。"
+  },
+  "center": {
+    "ph": "/ˈsentər/",
+    "en": "",
+    "zh": "n. （地理位置）中间，中心点；（机构，组织）活动中心；关注点，焦点；中间派，中间立场；中锋；v. 把……放在中央；（使）以……为中心，（使）注意力集中于；（使）主要发生在，（使）集中于"
+  },
+  "low": {
+    "ph": "/loʊ/",
+    "en": "",
+    "zh": "adj. 低的，矮的；在底部的；领口开得低的；（纬度）低的，近赤道的；低于通常（或平均）数量（或水平、价值）的；（声、热或光）低的，暗的；（地位、阶层上）低微的，低等的；消沉的，精神不振的；（质量或标准）低的；（艺术…"
+  },
+  "anecdotal": {
+    "ph": "/ˌænɪkˈdoʊt(ə)l/",
+    "en": "",
+    "zh": "adj. 轶事的，传闻的"
+  },
+  "japanese": {
+    "ph": "/ˌdʒæpəˈniːz/",
+    "en": "",
+    "zh": "adj. 日本（人）的；日语的；n. 日本人；日语"
+  },
+  "chinese": {
+    "ph": "/ˌtʃaɪˈniːz/",
+    "en": "",
+    "zh": "adj. （Chinese）中国的；中国人的；汉语的；n. （Chinese）中国人，华人；汉语；<非正式>中餐，中餐馆；n. （Chinese）（美、印、澳、巴）奇内斯（人名）"
+  },
+  "piero": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 皮耶罗（男子名）"
+  },
+  "ever": {
+    "ph": "/ˈevər/",
+    "en": "",
+    "zh": "adv. 曾经，从来，在任何时候；一直，始终；越来越，愈发；究竟，到底；非常，确实；【名】 （Ever）（英）埃弗，（俄）叶韦尔，（西、法）埃韦尔（人名）"
+  },
+  "madagascar": {
+    "ph": "/ˌmædəˈɡæskər/",
+    "en": "",
+    "zh": "n. 马达加斯加（非洲岛国，全称马达加斯加共和国）；马达加斯加岛（印度洋西部、非洲东南海岸外的大岛，世界第四大岛）"
+  },
+  "miss": {
+    "ph": "/mɪs/",
+    "en": "",
+    "zh": "n. 女士，小姐，年轻未婚女子；vt. 错过，想念，缺（勤）"
+  },
+  "birmingham": {
+    "ph": "/ˈbɜːrmɪŋhæm/",
+    "en": "",
+    "zh": "n. 伯明翰（英国一座城市）；n. 伯明翰（美国阿拉巴马州一座城市）"
+  },
+  "poverty-related": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．与贫困有关的：与贫困或贫困引起的问题有关的。"
+  },
+  "christian": {
+    "ph": "/'krɪstʃən/",
+    "en": "",
+    "zh": "n. 基督徒，信徒；adj. 基督教的；信基督教的"
+  },
+  "tuesday": {
+    "ph": "/ˈtuːzdeɪ/",
+    "en": "",
+    "zh": "n. 星期二"
+  },
+  "federation": {
+    "ph": "/ˌfedəˈreɪʃ(ə)n/",
+    "en": "",
+    "zh": "n. 联邦政府，联邦；联合会；结成联邦（或联盟）"
+  },
+  "european": {
+    "ph": "/ˌjʊrəˈpiːən/",
+    "en": "",
+    "zh": "adj. 欧洲的；欧洲人的；n. 欧洲人"
+  },
+  "labs": {
+    "ph": "/læbz/",
+    "en": "",
+    "zh": "n. 实验室，研究室（lab 的复数）；（教育）实验课；（医学）化验检查，化验结果；<非正式>拉布拉多犬（Labrador 的缩略）；（Labs）人名；（德）拉布斯"
+  },
+  "wear": {
+    "ph": "/wer/",
+    "en": "",
+    "zh": "v. 穿（衣服），戴（首饰等）；蓄（须），留（发）；销蚀，磨损，踩出（路），磨出（洞）；流露，面带（某种表情）；使疲乏，使虚弱，使厌倦；经久耐用；不显老；<英，非正式>允许，接受；（船）升，挂（旗）；<文>消磨（时间…"
+  },
+  "samples": {
+    "ph": "/ˈsæmpl/",
+    "en": "",
+    "zh": "n. 样品，样本，试样；例子（sample 的复数形式）；抽样（统计学/调查）；（计算机/音频）采样，采样值；（姓氏，Samples）桑普尔斯；v. 品尝；体验；对…进行抽样检查（sample 的第三人称单数形式）"
+  },
+  "flow": {
+    "ph": "/floʊ/",
+    "en": "",
+    "zh": "v. 流动，流淌；（人，物）涌向，涌进；（车辆）畅通无阻；持续抵达，持续供应；（信息）传播，（资金）流通；飘垂，飘拂；强烈感到；（说话或思想）流畅；引发，来自；充满，满是；畅饮；涨潮；永久性变形；<非正式>来月经"
+  },
+  "goes": {
+    "ph": "/ɡoʊz/",
+    "en": "",
+    "zh": "vi. go 的第三人称单数现在时形式：去，行走，前进，离开（词义随搭配而定）。；n. go 的复数形式：尝试，机会，轮到的机会；大写 Goes 可作人名，译写作约斯（瑞典）、格斯（法、德）、胡斯（荷）；也指荷兰泽兰…"
+  },
+  "user": {
+    "ph": "/ˈjuːzər/",
+    "en": "",
+    "zh": "n. 用户，使用者；（User）（土）乌塞尔（人名）"
+  },
+  "technicians": {
+    "ph": "/tekˈnɪʃnz/",
+    "en": "",
+    "zh": "n. technician 的复数形式：技术员，技师，技术人员；精于某项活动技术细节的人，高手"
+  },
+  "main": {
+    "ph": "/meɪn/",
+    "en": "",
+    "zh": "adj. 主要的，最大的；n. 总管道，主线路；（电、气、水的）供应系统（the mains）；<英>电源插座；<古>海洋，公海（the main）；（主桅上的）主帆；（掷骰子游戏中，掷者在投掷前的）叫数（须是5，6…"
+  },
+  "rats": {
+    "ph": "/ræts/",
+    "en": "",
+    "zh": "n. 鼠，老鼠（rat 的复数）；卑鄙的人（rat 的复数）；告密者（rat 的复数）；（Rats）人名；（俄）拉茨；int. （口语）胡说，瞎扯（表示厌烦、失望或不屑）；v. 捕鼠（rat 的第三人称单数）；告发，…"
+  },
+  "leprosy": {
+    "ph": "/ˈleprəsi/",
+    "en": "",
+    "zh": "n. 麻风病；麻风；腐败，道德败坏"
+  },
+  "nevertheless": {
+    "ph": "/ˌnevərðəˈles/",
+    "en": "",
+    "zh": "adv. 然而，不过"
+  },
+  "state": {
+    "ph": "/steɪt/",
+    "en": "",
+    "zh": "n. 状态，状况；紧张，焦虑；政府；国家；州，邦；<非正式>美国（the States）；国事礼仪，隆重仪式；（物质的）形态，态；（物理学）量子态；泽西、根西和奥尔德尼三岛的立法机关（the States）；压印，印…"
+  },
+  "africa": {
+    "ph": "/ˈæfrɪkə/",
+    "en": "",
+    "zh": "n. 非洲"
+  },
+  "america": {
+    "ph": "/əˈmerɪkə/",
+    "en": "",
+    "zh": "n. 美国；美洲（包括北美和南美洲）"
+  },
+  "led": {
+    "ph": "/led/",
+    "en": "",
+    "zh": "v. 领导；通向；指引；导致（lead 的过去分词）"
+  },
+  "don't": {
+    "ph": "/doʊnt/",
+    "en": "",
+    "zh": "aux. do not 的缩略形式，用于构成否定句、否定疑问句和祈使句，表示否定：不，不要，别。；n. 禁忌，不许做的事（常用复数 don'ts，常见于 dos and don'ts）"
+  },
+  "tend": {
+    "ph": "/tend/",
+    "en": "",
+    "zh": "v. 倾向于，往往会；照顾，护理；走向，趋向；<美>招待，照料（商店、酒吧等的顾客）"
+  },
+  "shouldn't": {
+    "ph": "/ˈʃudnt/",
+    "en": "",
+    "zh": "aux. should not 的缩约形式，表示“不应该、不应”"
+  },
+  "calm": {
+    "ph": "/kɑːm/",
+    "en": "",
+    "zh": "adj. 镇静的，沉着的；平静的，稳定的；风平浪静的；n. （精神或情感状态的）镇静，平和；宁静，安静；v. 使平静，使镇静；冷静下来，镇静下来；恢复平静，恢复正常；【名】 （Calm）（法、德）卡尔姆（人名）"
+  },
+  "bbc": {
+    "ph": "/ˌbiː biː ˈsiː/",
+    "en": "",
+    "zh": "abbr. 英国广播公司（British Broadcasting Corporation）"
+  },
+  "facebook": {
+    "ph": "/ˈfeɪsbʊk/",
+    "en": "",
+    "zh": "n. 脸书，脸谱网（美国大型社交网络服务网站）；v. <非正式>在 Facebook 上搜索（某人的个人资料）"
+  },
+  "instagram": {
+    "ph": "/ˈɪnstəɡræm/",
+    "en": "",
+    "zh": "照片分享（一款运行在 iPhone 平台上的应用程序）"
+  },
+  "donald": {
+    "ph": "/ˈdɑːnld/",
+    "en": "",
+    "zh": "n. 唐纳德（男子名）"
+  },
+  "trump": {
+    "ph": "/trʌmp/",
+    "en": "",
+    "zh": "n. （牌戏中的一张）王牌，将牌；（牌戏中的）一套王牌，一套将牌（trumps）；（塔罗牌）有典型象征意义的人物和场景的一张；（喻）（尤指出奇制胜的）有效手段，王牌；<古>喇叭，喇叭声"
+  },
+  "ppe": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 个人防护装备，个人防护用品（personal protective equipment）；哲学、政治学与经济学（Philosophy, Politics, and Economics，尤指牛津等英国大学的…"
+  },
+  "logoff": {
+    "ph": "/ˈlɔːɡɔːf/",
+    "en": "",
+    "zh": "n. （从计算机系统）退出，注销，下网（同 logout）"
+  },
+  "probably": {
+    "ph": "/ˈprɑːbəbli/",
+    "en": "",
+    "zh": "adv. 大概，或许"
+  },
+  "red-dye": {
+    "ph": "/red daɪ/",
+    "en": "",
+    "zh": "红色染料：一种用于给物体染成红色的化学染料。"
+  },
+  "cameron": {
+    "ph": "/ˈkæmərən/",
+    "en": "",
+    "zh": "n. 卡梅伦，卡梅隆（男子名）；卡梅伦，卡梅隆（姓氏）"
+  },
+  "peters": {
+    "ph": "/'pi:təz/",
+    "en": "",
+    "zh": "n. 彼得斯（姓氏，男子名）"
+  },
+  "grand": {
+    "ph": "/ɡrænd/",
+    "en": "",
+    "zh": "adj. 壮丽的，堂皇的；宏伟的，宏大的；傲慢的，高高在上的；令人愉快的；<非正式>出色的，极好的；总括的；（常用于大型建筑物的名称前）大的；（对上层社会的人的称呼）大；（罪行）严重的；壮丽的，富丽堂皇的"
+  },
+  "white": {
+    "ph": "/waɪt/",
+    "en": "",
+    "zh": "adj. 白色的；白种人的，白肤色的；苍白的；加牛奶（或奶油）的；（葡萄酒）白的，淡黄色的；（面粉）精白的；<美>空白的；树皮淡色的；（玻璃）透明的，无色的；<非正式>完全公正的，非常诚实的；（魔法）善意的；（血细胞…"
+  },
+  "nebraska": {
+    "ph": "/nəˈbræskə/",
+    "en": "",
+    "zh": "n. 内布拉斯加州（美国中西部一州）"
+  },
+  "win": {
+    "ph": "/wɪn/",
+    "en": "",
+    "zh": "v. （在战斗、比赛、游戏等中）赢，获胜；赢得（奖品等）；通过努力得到（某物）；为……赢得，使……获得；采（矿）；晾（干草）；n. （在比赛、竞赛等中的）胜利；【名】 （Win）（德、荷、缅）温，（英）温（女子教名 …"
+  },
+  "stay": {
+    "ph": "/steɪ/",
+    "en": "",
+    "zh": "v. 停留，逗留；保持原状，维持；坚持；（到访或作客时）留宿，暂住；不去，远离某地；避开，不参与（麻烦或不利局面）；停止，延期，延缓；<文>控制，中止，抑制；<苏格兰>定居；暂时解除（饥饿）；用支索支撑（桅杆），用牵…"
+  },
+  "monday": {
+    "ph": "/ˈmʌndeɪ/",
+    "en": "",
+    "zh": "n. 星期一，周一；adv. 在星期一，在周一"
+  },
+  "evening": {
+    "ph": "/ˈiːvnɪŋ/",
+    "en": "",
+    "zh": "n. 晚上，傍晚；晚会，晚间活动；暮年，晚年；int. 晚上好（good evening 的简称）；adj. 在晚上的，为晚上的"
+  },
+  "farm": {
+    "ph": "/fɑːrm/",
+    "en": "",
+    "zh": "n. 农场，养殖场；农舍；生产企业；v. 耕种，养殖；（收取一定费用）将（税收）包出；承包，外包"
+  },
+  "off-road": {
+    "ph": "/ˈɔːf roʊd/",
+    "en": "",
+    "zh": "adj. 越野的；非公路的，路外的；adv. 越野地，在道路以外"
+  },
+  "uses": {
+    "ph": "/ˈjuːzɪz/",
+    "en": "",
+    "zh": "vt. use 的第三人称单数：使用，运用；利用；耗费；n. use 的复数：用途，用处；（某单词的）用法；耗费"
+  },
+  "bit": {
+    "ph": "/bɪt/",
+    "en": "",
+    "zh": "n. 小片，小块；小部分，片段；（一组东西中的）一个；<美>喜剧小品，小笑话；比特；辅币，12.5美分；马嚼子；钻头；<非正式>（与某活动、过程有关的）所有事情；<非正式>女孩，姑娘；<英，非正式>（人的）生殖器"
+  },
+  "red": {
+    "ph": "/red/",
+    "en": "",
+    "zh": "adj. 红的，红色的；（毛发）红褐色的；（脸）涨红的；（眼睛）充血的，红肿的；（葡萄酒）红色的；（表示停止）红（灯），红（旗）；被禁止的，危险的；（美国政治）支持共和党的；革命的，激进的，赤色的（尤指冷战期间指前苏…"
+  },
+  "dye": {
+    "ph": "/daɪ/",
+    "en": "",
+    "zh": "v. 给……染色；n. 染料，染液；【名】 （Dye）（美、法）戴伊（人名）"
+  },
+  "sold": {
+    "ph": "/soʊld/",
+    "en": "",
+    "zh": "v. 卖，销售（sell 的过去式和过去分词）；adj. 已售出的，已卖出的（多作表语）；sold out：售罄的，脱销的，（门票等）全部售完的；n. （Sold）人名，（瑞典）索尔德"
+  },
+  "disease-bearing": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．携带疾病的：指生物体（如昆虫、动物等）能够传播疾病。"
+  },
+  "tax-exempt": {
+    "ph": "/ˌtæks ɪɡˈzempt/",
+    "en": "",
+    "zh": "adj. 免税的；n. 免收利息所得税的债券"
+  },
+  "bid": {
+    "ph": "/bɪd/",
+    "en": "",
+    "zh": "v. 出价；投标，竞标；努力争取；（纸牌戏中的）叫牌；命令，吩咐；打招呼，示意；邀请；n. 出价，喊价；投标；努力，尝试；（纸牌戏中的）叫牌；【名】 （Bid）（美）比德（人名）"
+  },
+  "cost": {
+    "ph": "/kɔːst/",
+    "en": "",
+    "zh": "n. 价钱，费用；成本，开支；代价，损失；诉讼费用；v. 价钱为，需花费；估算成本，估价；使丧失，使损失；使付出努力，使做不愉快的事；<非正式>使花许多钱；【名】 （Cost）（英、美、罗、巴、法、荷）科斯特（人名）"
+  },
+  "fuel": {
+    "ph": "/ˈfjuːəl/",
+    "en": "",
+    "zh": "n. 燃料，燃烧剂；刺激因素，刺激性言行；（为身体提供能量的）食物，饮料，药剂；v. （给……）提供燃料，加油；刺激，加剧；【名】 （Fuel）（美）傅爱乐（人名）"
+  },
+  "does": {
+    "ph": "/dʌz/",
+    "en": "",
+    "zh": "v. 做；工作；有用（do 的第三人称单数）；n. （Does）（荷）杜斯（人名）"
+  },
+  "tax": {
+    "ph": "/tæks/",
+    "en": "",
+    "zh": "n. 税款；负担，重负；v. 对……征税；缴纳车辆牌照税；使负重担，使费力气；责备；<法律>审定（诉讼费用）；【名】 （Tax）（美、荷、奥、印、俄、德）塔克斯（人名）"
+  },
+  "per": {
+    "ph": "/pər/",
+    "en": "",
+    "zh": "prep. 每，每一；按照，根据；<古>经；（纹章）依……的方向；adv. 每，每个；abbr. 人（person）；时期（period）；【名】 (Per)（挪、瑞、丹）佩尔（人名）"
+  },
+  "slew": {
+    "ph": "/sluː/",
+    "en": "",
+    "zh": "v. 杀死，杀害（slay 的过去式）；（使车辆等）突然转向，急转，猛拐；（使）侧滑，打滑；（使电子仪表、吊杆等）旋转，回转；n. 大量，许多（常用于 a slew of）；猛烈的侧转，回转；沼地，沼泽（slough…"
+  },
+  "ably": {
+    "ph": "/ˈeɪbli/",
+    "en": "",
+    "zh": "adv. 能干地，精明能干地，巧妙地"
+  },
+  "fill": {
+    "ph": "/fɪl/",
+    "en": "",
+    "zh": "v. （使）充满，占满；堵塞，填补；满足；（声音、气味或光）遍及，弥漫；担任，充任；（感情）充盈于；打发，占据（时间）；（帆）迎风（或受风）鼓起（或张开）；使吃饱，填饱……的肚子；(按订单)供货，(按药方)配药；（用…"
+  },
+  "tank": {
+    "ph": "/tæŋk/",
+    "en": "",
+    "zh": "n. （储存液体或气体的）箱，罐，缸；一箱，一罐（的量）；坦克；人工蓄水池；<美，非正式> （警察局或监狱的）牢房；（养鱼、蛇等用的）玻璃容器，玻璃缸；水柜机车（tank engine 的简称）；紧身背心（多为羊毛的…"
+  },
+  "best": {
+    "ph": "/best/",
+    "en": "",
+    "zh": "adj. 最好的，最出色的；最愉快的，最幸福的；最合适的，最恰当的；adv. 最，最高程度地；最出色地，最高标准地；最适合地，最恰当地；n. 最好的事物（或人）；（人或事物所能达到的）最高标准；最合乎要求的事物；（个…"
+  },
+  "republican": {
+    "ph": "/rɪˈpʌblɪkən/",
+    "en": "",
+    "zh": "adj. 共和政体的，共和国的；拥护共和政体的，共和主义的；（美国）共和党的，支持共和党的（Republican）；北爱尔兰共和主义者的，支持北爱尔兰共和主义者的（Republican）"
+  },
+  "dan": {
+    "ph": "/dæn/",
+    "en": "",
+    "zh": "n. 段（围棋、柔道、空手道等运动员的技艺等级）；浮标"
+  },
+  "osborn": {
+    "ph": "/ˈɑzbən/",
+    "en": "",
+    "zh": "n. 奥斯本（英语姓氏）；奥斯本（英语男子名）"
+  },
+  "hard": {
+    "ph": "/hɑːrd/",
+    "en": "",
+    "zh": "adj. 硬的，坚固的；困难的；困苦的，艰苦的；费力的，努力的；坚强的，勇敢的；猛烈的，用力的；冷酷的，严厉的；寒冷的，凛冽的；可证实的，确凿的；刺眼的，（感觉上）难受的；（水）硬的；烈性的，强烈的；（酒）苦涩的；仔…"
+  },
+  "mcnamee": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （McNamee）人名；（英）麦克纳米"
+  },
+  "iowa": {
+    "ph": "/ˈaɪor/",
+    "en": "",
+    "zh": "n. 爱荷华州（美国中西部一州，亦译艾奥瓦州、衣阿华州）；艾奥瓦人（北美苏安语系原住民，亦称 Ioway）；艾奥瓦语（艾奥瓦人使用的奇韦雷语方言，亦称 Ioway）"
+  },
+  "bird": {
+    "ph": "/bɜːrd/",
+    "en": "",
+    "zh": "n. 鸟；年轻女子，姑娘；人，家伙；飞机，飞船，卫星；供捕猎（或食用）的鸟；羽毛球；<英，非正式>监狱，服刑期（doing bird）；喝倒彩，起哄（give sb. the bird）"
+  },
+  "kansas": {
+    "ph": "/ˈkænzəs/",
+    "en": "",
+    "zh": "n. 堪萨斯州（美国州名）；堪萨斯河（美国堪萨斯州东北部河流，向东汇入密苏里河，亦作 Kansas River、Kaw River）"
+  },
+  "on-road": {
+    "ph": "",
+    "en": "",
+    "zh": "行车上路（指在一般路面上行驶的车子）"
+  },
+  "lap": {
+    "ph": "/læp/",
+    "en": "",
+    "zh": "n. （人坐下时的）大腿面，膝上；（比赛中的）一圈；一段旅程；水流冲刷；重叠部分；折皱；（线绳缠绕）一圈；（研磨机）磨盘；抛光工具；（裙装）下摆；（马鞍）翘边；v. （水）轻拍，轻打；（动物）舔，舐；领先一圈（或数圈…"
+  },
+  "thanks": {
+    "ph": "/θæŋks/",
+    "en": "",
+    "zh": "n. 谢意，感谢，感激（只用复数）；int. 谢谢；prep. （thanks to）由于，多亏，幸亏"
+  },
+  "we'll": {
+    "ph": "/wiːl/",
+    "en": "",
+    "zh": "contr. 我们将，我们会（we shall，we will）"
+  },
+  "fossil": {
+    "ph": "/ˈfɑːs(ə)l/",
+    "en": "",
+    "zh": "n. 化石；<非正式>思想僵化的人；僵化的事物；adj. 化石的，从地下采掘出的；不变的，古老的"
+  },
+  "heat": {
+    "ph": "/hiːt/",
+    "en": "",
+    "zh": "n. 热能，热量；炎热，高温；（做饭的）热源，热度；辣味；愤怒，激动；压力，逼迫；暖气；预赛；（尤指在熔炉中熔炼金属时的）单次熔炼；v. <古>激起，使激动；加热，使变暖"
+  },
+  "disney": {
+    "ph": "/ˈdɪzni/",
+    "en": "",
+    "zh": "n. 华特迪士尼公司（The Walt Disney Company）；华特·迪士尼（Walt Disney，美国动画师及电影制片人，迪士尼公司创始人之一）"
+  },
+  "boss": {
+    "ph": "/bɔːs/",
+    "en": "",
+    "zh": "n. 上司，领导，领班；圆形装饰物，浮雕装饰；牛犊，奶牛；v. 发号施令，对……颐指气使；当首领；adj. 很好的，出色的；【名】 （Boss）（英、法、德、西、瑞典）博斯（人名）"
+  },
+  "red-legged": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．红腿的：具有红色腿部的。"
+  },
+  "anne": {
+    "ph": "/æn/",
+    "en": "",
+    "zh": "n. 安妮（女子名）"
+  },
+  "woes": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （woe 的复数）苦恼，痛苦；不幸，困境，麻烦；（文学或正式）巨大悲痛，忧伤"
+  },
+  "frei": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 弗雷（瑞士足球运动员）"
+  },
+  "who's": {
+    "ph": "/huz/",
+    "en": "",
+    "zh": "abbr. who is 的缩约形式，表示“谁是”；who has 的缩约形式，后接过去分词，表示“谁已经”"
+  },
+  "part-time": {
+    "ph": "/ˌpɑːrt ˈtaɪm/",
+    "en": "",
+    "zh": "adj. 兼职的，非全日制的，部分时间的；adv. 兼职地，以非全日制方式，用部分时间地"
+  },
+  "one-on-one": {
+    "ph": "/ˌwʌn ɑːn ˈwʌn/",
+    "en": "",
+    "zh": "adj. 一对一的，两人之间的；直接对立的；（体育）人盯人的，一打一的；adv. 一对一地，面对面地；n. 一对一的比赛或较量；一对一的单独会面"
+  },
+  "i'm": {
+    "ph": "/aɪm/",
+    "en": "",
+    "zh": "abbr. I am 的缩略式（通常译作“我是”）"
+  },
+  "flux": {
+    "ph": "/flʌks/",
+    "en": "",
+    "zh": "n. 不断变化，波动；（血等体液的）流出，溢出；（物理）通量，能流；辐射（或粒子）通量；电通量，磁通量；焊剂，（助）熔剂；造渣；v. 用焊（或熔）剂处理；使熔融；【名】 （Flux）弗勒克斯（人名）"
+  },
+  "afraid": {
+    "ph": "/əˈfreɪd/",
+    "en": "",
+    "zh": "adj. 害怕的；担心的；（害怕后果而）不愿意的，勉强的；遗憾的"
+  },
+  "gain": {
+    "ph": "/ɡeɪn/",
+    "en": "",
+    "zh": "v. 获得，赢得；受益；增加，增长；（经过努力）到达；（钟表）走快；持球前进，推进（一段距离）；n. 增加；好处，改进；收益；将球推进的距离；（常用对数表示的功率或电压的）增益；【名】 （Gain）（英、匈、法）盖恩…"
+  },
+  "try": {
+    "ph": "/traɪ/",
+    "en": "",
+    "zh": "v. 试图，努力；试用，试做，试验；品尝；考验，磨炼；到（某处）试试，找一找；试着打开（门、窗等）；审理，审判；用刨子刨平（木头粗糙面）；加热以提取（油，脂肪），熬（油）；n. 试图，努力；试用，试验；（橄榄球）持球…"
+  },
+  "you'll": {
+    "ph": "/jʊl/",
+    "en": "",
+    "zh": "abbr. 你将，你会（you will）；你应，你应当（you shall）"
+  },
+  "side": {
+    "ph": "/saɪd/",
+    "en": "",
+    "zh": "n. 一旁，侧边；（相对中间而言的）边，侧；侧面；方面，情况；立场，意见；一方，一派；边缘；体侧，肋部；身旁，身边；（平面图形的）边；一面；内壁，内面；（立方体的）面；斜面，坡面；一面纸的文字；<英， 非正式>自负，…"
+  },
+  "plus": {
+    "ph": "/plʌs/",
+    "en": "",
+    "zh": "prep. 加；外加，而且；（温度）零上；adj. （在数字后）多，余；略高于标准的；零上的，正的；有利的；正电的；n. 加号，正号；（数字的）加法；好处；conj. 而且；加上；【名】 （Plus）（印、巴、法）普…"
+  },
+  "hayley": {
+    "ph": "/ˈheɪli/",
+    "en": "",
+    "zh": "n. 海莉（英语女子名）"
+  },
+  "caldwell": {
+    "ph": "/ˈkɔːldwəl/",
+    "en": "",
+    "zh": "n. 考德威尔（姓氏）；考德威尔（地名）"
+  },
+  "acne": {
+    "ph": "/ˈækni/",
+    "en": "",
+    "zh": "n.  痤疮，粉刺"
+  },
+  "idea": {
+    "ph": "/aɪˈdiːə/",
+    "en": "",
+    "zh": "n. 想法，主意；观点，看法；原则，信念；理解，了解；猜想；目标，意图；（柏拉图哲学）理念"
+  },
+  "mood": {
+    "ph": "/muːd/",
+    "en": "",
+    "zh": "n. 心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致…"
+  },
+  "meal": {
+    "ph": "/miːl/",
+    "en": "",
+    "zh": "n. 一餐，进餐（时间）；一餐所吃的食物；磨成粗粉的东西；v. 进餐"
+  },
+  "eat": {
+    "ph": "/iːt/",
+    "en": "",
+    "zh": "v. 吃，吃饭；侵蚀，损耗；烦扰（be eating）；n. 少量食物，点心"
+  },
+  "rise": {
+    "ph": "/raɪz/",
+    "en": "",
+    "zh": "v. （数字、 数量、价值）增加；升高，上升；起身，站起；（权力或地位）提高；耸立，隆起；（声音）变响，变大；（太阳、月亮）升起；（感情或情绪） 变得强烈；（面包、蛋糕等）发酵；起床；复活，再生；休会，休庭；（风力）…"
+  },
+  "high-intensity": {
+    "ph": "/haɪ ɪnˈtensəti/",
+    "en": "",
+    "zh": "adj. 高强度的，强度高的"
+  },
+  "jennifer": {
+    "ph": "/ˈdʒenəfər/",
+    "en": "",
+    "zh": "n. 詹妮弗，珍妮弗，詹尼弗（女子名）"
+  },
+  "yale": {
+    "ph": "/jeɪl/",
+    "en": "",
+    "zh": "n. 野迩（神话动物，形似羚羊）"
+  },
+  "school": {
+    "ph": "/skuːl/",
+    "en": "",
+    "zh": "n. （中、小）学校；全校师生；上学时间；上学期间；专科学校；大学，大学期间；（大学的）系，学院；学派，流派；（鱼、鲸、海豚等的）群；<英>（牛津大学的）期末考试大厅；（牛津大学的）期末考试；<英>一伙赌徒；（轮番到…"
+  },
+  "medicine": {
+    "ph": "/ˈmedɪs(ə)n/",
+    "en": "",
+    "zh": "n. 药物，药剂；医疗，医学；内科；（北美印第安人等民族所信奉的具有治疗或保护效力的）咒语，魔法；v. 用药物治疗，给……用药"
+  },
+  "connecticut": {
+    "ph": "/kəˈnetɪkət/",
+    "en": "",
+    "zh": "n. 美国康乃迪克州（位于美国东北部）"
+  },
+  "body": {
+    "ph": "/ˈbɑːdi/",
+    "en": "",
+    "zh": "n. 身体，躯体；躯干；尸体；（与灵魂或精神相对的）肉体；<旧>（尤指某种类型或性格的）人；（建筑物、文件等的）主体，主要部分；车身，机身；衣身；器身，（球拍的）拍身；团体，机构，群体；大量；物体，天体；水域；（酒的…"
+  },
+  "diet": {
+    "ph": "/ˈdaɪət/",
+    "en": "",
+    "zh": "n. 规定饮食；大量单调的活动；日常饮食；v. 节食；adj. 低脂的，低糖的；【名】 （Diet）（法）迪耶（人名）"
+  },
+  "adrian": {
+    "ph": "/ˈeɪdriən/",
+    "en": "",
+    "zh": "n. （Adrian）（美、英）阿德里昂（人名）"
+  },
+  "brown": {
+    "ph": "/braʊn/",
+    "en": "",
+    "zh": "adj. 褐色的，棕色的；肤色深的，晒黑的；未去壳的，糙的；n. 褐色，棕色；褐色的东西；眼蝶，褐蝶；v. （使）变成棕色，成褐色；【名】 （Brown）（英、意、芬、捷、德、法、西、葡）布朗（人名）"
+  },
+  "college": {
+    "ph": "/ˈkɑːlɪdʒ/",
+    "en": "",
+    "zh": "n. 大学，专科学校；学院，分院；公学；学会，社团；学院的全体师生"
+  },
+  "london": {
+    "ph": "/ˈlʌndən/",
+    "en": "",
+    "zh": "n. 伦敦"
+  },
+  "uk": {
+    "ph": "/ˌjuː ˈkeɪ/",
+    "en": "",
+    "zh": "abbr. 联合王国（United Kingdom）；n. 英国；n. （Uk）人名；（柬）屋"
+  },
+  "i've": {
+    "ph": "/aiv/",
+    "en": "",
+    "zh": "（等于 I have）"
+  },
+  "eventually": {
+    "ph": "/ɪˈventʃuəli/",
+    "en": "",
+    "zh": "adv. 最终，结果"
+  },
+  "type": {
+    "ph": "/taɪp/",
+    "en": "",
+    "zh": "n. 类型，种类；具有某种特征的人，典型；（印刷的）文字，字体；（印刷）铅字，活字；象征；（艺术的）典型，榜样；（宗教学）预兆；（植，动）型，模式标本；（奖章或硬币）图案；（语言学）类型，型"
+  },
+  "fat": {
+    "ph": "/fæt/",
+    "en": "",
+    "zh": "adj. 肥的，肥胖的；厚的，宽的；巨额的；<非正式>极少的，没有的；好打的，易中的；n. 脂肪，肥肉；食用油，烹调用油；多余的部分；v. <旧>（使）长肥；【名】 （Fat）（法、西、塞）法特，（东南亚国家华语）发…"
+  },
+  "nicola": {
+    "ph": "/ˈnɪkələ/",
+    "en": "",
+    "zh": "n. 尼古拉（男子名）"
+  },
+  "warn": {
+    "ph": "/wɔːrn/",
+    "en": "",
+    "zh": "v. 提醒，使警惕；警告，告诫（不要做……）；预先通知；（体育运动）警告；【名】 （Warn）（英）沃恩，（德）瓦恩（人名）"
+  },
+  "sherr": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 谢尔（姓氏）"
+  },
+  "five": {
+    "ph": "/faɪv/",
+    "en": "",
+    "zh": "num. 五，五个；n. 五，五个；（口语）五点钟；五美元钞票；（篮球）五人球队；（人名）Five（挪威姓氏菲弗）；adj. 五的，五个的"
+  },
+  "glass": {
+    "ph": "/ɡlæs/",
+    "en": "",
+    "zh": "n. 玻璃；玻璃杯；一杯之量；玻璃器皿，玻璃制品；玻璃保护面；眼镜，透镜；<英>镜子；（计时）沙漏；气压表，晴雨表；v. 用玻璃覆盖，给……装玻璃；（尤指在打猎时）用望远镜观察（周围环境）；<英，非正式>用啤酒杯打（…"
+  },
+  "bone": {
+    "ph": "/boʊn/",
+    "en": "",
+    "zh": "n. 骨，骨头；骨质；基本结构，基本（bones）；v. 挑刺，剔骨头；施骨肥于；（与某人）性交；（为应付考试）临时突击；adv. 非常，完全地；【名】 （Bone）（英）博恩，（法、西、罗、塞）博内，（老）奔（人名）"
+  },
+  "high-quality": {
+    "ph": "/ˌhaɪˈkwɑlətɪ/",
+    "en": "",
+    "zh": "adj. 高质量的，优质的"
+  },
+  "urge": {
+    "ph": "/ɜːrdʒ/",
+    "en": "",
+    "zh": "v. 敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；鼓励，激励（~ sb. on）；n. 强烈的欲望，冲动；推动力"
+  },
+  "emerging": {
+    "ph": "/ɪˈmɜːrdʒɪŋ/",
+    "en": "",
+    "zh": "adj. 新兴的，发展初期的；v. 浮现，出现；显露，知悉；恢复过来，幸存下来（emerge 的现在分词）"
+  },
+  "dire": {
+    "ph": "/ˈdaɪər/",
+    "en": "",
+    "zh": "adj. 极其严重的，极可怕的；<非正式>极糟的，极差的；预示灾难的；紧急的，急迫的"
+  },
+  "dip": {
+    "ph": "/dɪp/",
+    "en": "",
+    "zh": "v. 浸，蘸；下降，下沉；伸进，伸入；<英>将（汽车前灯）调为近光；给（动物）洗药浴；减少，降低；浏览，翻看；动用（款项等）；<非正式>扒窃；<非正式，旧>给（某人）施洗礼；n. 游一游，泡一泡；减少，下降；调味酱；…"
+  },
+  "rice": {
+    "ph": "/raɪs/",
+    "en": "",
+    "zh": "n. 稻，水稻；米，大米，稻米；米饭，白饭；（Rice）人名、姓氏，常译作赖斯（英）、莱斯，亦译里瑟（瑞典）、里采（塞）；vt. 把……捣成米糊状；把（熟马铃薯等）压（或擦）成米粒状"
+  },
+  "tip": {
+    "ph": "/tɪp/",
+    "en": "",
+    "zh": "v. （使）倾斜，（使）斜侧；给小费；<英>扔掉，倒掉（垃圾）；倾倒，倒出；打翻；（用液体、颜色等）覆盖……的尖端；预言……获胜；轻触，轻碰；密报，透露消息，告诫；n. 指点，诀窍，建议；小费；末梢，尖端；<英>垃圾…"
+  },
+  "aim": {
+    "ph": "/eɪm/",
+    "en": "",
+    "zh": "n. 目标，目的；瞄准，对准；枪法，击中目标的能力；v. 瞄准，对准；旨在，致力于；针对，指向"
+  },
+  "cgms": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 动态血糖监测系统"
+  },
+  "plant": {
+    "ph": "/plænt/",
+    "en": "",
+    "zh": "n. 植物；工厂，发电厂；<美>房屋，设施；重型机械，机械设备；栽赃物品；密探，卧底；（斯诺克）击接触球犯规；v. 栽种，种植；灌输（思想）；栽赃；安放（炸弹），（秘密）放置；安插（眼线、密探等）；把……牢牢插进，稳…"
+  },
+  "fats": {
+    "ph": "/fæts/",
+    "en": "",
+    "zh": "n. 脂肪，（食用的）动植物油脂（fat 的复数）；育肥待上市的家畜"
+  },
+  "sleep": {
+    "ph": "/sliːp/",
+    "en": "",
+    "zh": "v. 睡，睡觉；供……住宿；（尤指入夜后某地或建筑物）沉寂，静寂；<文>安息，安眠；发生性关系；n. 睡眠，睡觉；（一段）睡眠时间；眵，眼屎；<文>死，长眠；【名】 （Sleep）斯利普（姓氏）"
+  },
+  "crucially": {
+    "ph": "/ˈkruːʃəli/",
+    "en": "",
+    "zh": "adv. 关键地，至关重要地；重要的是，关键的是"
+  },
+  "jury": {
+    "ph": "/ˈdʒʊri/",
+    "en": "",
+    "zh": "n. 陪审团；（竞赛的）裁判委员会；adj. （航海时）应急的；v.  <美>鉴定，评审（艺术品、工艺品展览会或展品）；【名】 （Jury）（英、法）朱里，（西）胡里，（德）尤里（人名）"
+  },
+  "non-diabetic": {
+    "ph": "",
+    "en": "",
+    "zh": "非糖尿病的"
+  },
+  "motherhood": {
+    "ph": "/ˈmʌðərhʊd/",
+    "en": "",
+    "zh": "n. 母亲身份，母性；母亲们（总称）"
+  },
+  "protein-based": {
+    "ph": "",
+    "en": "",
+    "zh": "基于蛋白质的"
+  },
+  "ireland": {
+    "ph": "/ˈaɪərlənd/",
+    "en": "",
+    "zh": "n. 爱尔兰（西欧国家，中文常称爱尔兰共和国，正式英文国名为 Ireland，占爱尔兰岛大部）；爱尔兰岛（欧洲西北部大西洋上的岛屿，包括爱尔兰共和国与北爱尔兰）；爱尔兰国家队（体育用语）"
+  },
+  "irish": {
+    "ph": "/ˈaɪrɪʃ/",
+    "en": "",
+    "zh": "adj. 爱尔兰的；爱尔兰人的；爱尔兰语的；n. 爱尔兰人（总称）；爱尔兰语"
+  },
+  "blip": {
+    "ph": "/blɪp/",
+    "en": "",
+    "zh": "n. （雷达等电子显示屏上显示目标或回波的）物体光点，尖头信号；突然而暂时的变化，小波动；（图表曲线上的）转折点、跳点；v. （电子装置）发出短促的哔哔声；短暂地踩下或拧开（机动车油门）"
+  },
+  "michael": {
+    "ph": "/ˈmaɪk(ə)l/",
+    "en": "",
+    "zh": "n. 迈克尔（男子名；亦指犹太教、基督教传统中的天使长米迦勒）"
+  },
+  "sable": {
+    "ph": "/ˈseɪbl/",
+    "en": "",
+    "zh": "n. 黑貂，紫貂；貂皮，紫貂皮，貂毛；（诗、文、纹章）黑色；（常用复数）丧服；貂羚，黑马羚；（美术）貂毛画笔；（人名）塞布尔；adj. 黑色的，深色的；（旧时或文学）阴暗的，阴郁的；黑貂皮的，紫貂皮的"
+  },
+  "stand-up": {
+    "ph": "/ˈstænd ʌp/",
+    "en": "",
+    "zh": "adj. 站立的，直立的，立式的；说单口相声的，单人喜剧的；n. 单口喜剧，单人喜剧；单口喜剧演员，单口相声演员"
+  },
+  "washington": {
+    "ph": "/ˈwɑːʃɪŋtən/",
+    "en": "",
+    "zh": "n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）"
+  },
+  "dc": {
+    "ph": "/ˌdiː ˈsiː/",
+    "en": "",
+    "zh": "abbr. 直流电（direct current）；哥伦比亚特区（District of Columbia）；从头重复（da capo）；（免疫学）树突状细胞（dendritic cell）"
+  },
+  "republic": {
+    "ph": "/rɪˈpʌblɪk/",
+    "en": "",
+    "zh": "n. 共和国，共和政体"
+  },
+  "dublin": {
+    "ph": "/ˈdʌblɪn/",
+    "en": "",
+    "zh": "n. 都柏林（爱尔兰共和国的首都）"
+  },
+  "met": {
+    "ph": "/met/",
+    "en": "",
+    "zh": "v. 遇见（meet 的过去式和过去分词）；n. （Met）人名；（瑞典）梅特"
+  },
+  "he'd": {
+    "ph": "/id/",
+    "en": "",
+    "zh": "abbr. he would 的缩约形式（他将）；he had 的缩约形式（他已经）"
+  },
+  "saw": {
+    "ph": "/sɔː/",
+    "en": "",
+    "zh": "n. 锯；锯床；格言，谚语；锯齿状部位（或器官）；v. 锯，锯开；乱剪；拉锯似的来回移动；<加拿大>（两人或多人） 通过互让解决，相互妥协；v. 看见；观看（电影、电视节目等）；理解，领会（see 的过去式形式）"
+  },
+  "brookings": {
+    "ph": "/ˈbrʊkɪŋz/",
+    "en": "",
+    "zh": "n. 布鲁金斯（美国一所政策研究机构）"
+  },
+  "ing": {
+    "ph": "/ɪŋ/",
+    "en": "",
+    "zh": "abbr. 惯性导航与制导（Inertial Navigation and Guidance）；强中子发生器（Intense Neutron Generator）；n. （Ing）人名；（柬）英；（朝）剩"
+  },
+  "separately": {
+    "ph": "/ˈseprətli/",
+    "en": "",
+    "zh": "adv. 单独地，分别地"
+  },
+  "wall": {
+    "ph": "/wɔːl/",
+    "en": "",
+    "zh": "n. 城墙，围墙；墙，壁，墙壁；屏障，壁垒；（感情或行为的）障碍，隔阂；人墙，隔离墙；（身体器官或动植物细胞等的）外壁；（盒子或管道等空心物的）内壁；堆得像墙一样的大量东西；柏林墙（the Wall）；防波堤，防洪堤…"
+  },
+  "deep-rooted": {
+    "ph": "/ˌdiːp ˈruːtɪd/",
+    "en": "",
+    "zh": "adj. 根深蒂固的"
+  },
+  "ties": {
+    "ph": "/taɪz/",
+    "en": "",
+    "zh": "n. （tie 的复数）关系，联系，纽带（常用复数）；领带；结；（体育/竞赛）平局，平分；扎带，束线带（常用于 cable ties）；v. （tie 的第三人称单数）系，绑，捆扎；连接，联系；（体育/竞赛）打成平局"
+  },
+  "f": {
+    "ph": "/ef/",
+    "en": "",
+    "zh": "n. F 级（不及格）；字母 F; 氟；abbr. 华氏的，华氏温标（Fahrenheit）；女性的（female）；失败（failure）；家庭（family）；错误（false）"
+  },
+  "kennedy": {
+    "ph": "/ˈkenədi/",
+    "en": "",
+    "zh": "n. 肯尼迪（姓氏，美国第35任总统）"
+  },
+  "joe": {
+    "ph": "/dʒoʊ/",
+    "en": "",
+    "zh": "n. （美国英语，非正式）家伙，汉子，也指普通人（常用于 average Joe）；（美国英语，非正式）咖啡（常见于 a cup of joe）；乔（男子名，Joseph 的昵称）"
+  },
+  "biden": {
+    "ph": "/ˈbaɪdən/",
+    "en": "",
+    "zh": "n. 拜登（姓氏）；乔·拜登（美国民主党政治家，第 46 任总统，曾任副总统，常被单称）"
+  },
+  "t": {
+    "ph": "/tiː/",
+    "en": "",
+    "zh": "symb. 氚 (tritium)；n. 字母T；abbr. 及物动词 (transitive verb)"
+  },
+  "ib": {
+    "ph": "/ˌaɪ ˈbiː/",
+    "en": "",
+    "zh": "abbr. 国际文凭（International Baccalaureate）的缩写；InfiniBand（高速互联技术）的缩写；介绍经纪商（Introducing Broker）的缩写；情报通报（Informati…"
+  },
+  "n": {
+    "ph": "/en/",
+    "en": "",
+    "zh": "n. 英语字母的第十四个字母"
+  },
+  "brooklyn": {
+    "ph": "/ˈbrʊklɪn/",
+    "en": "",
+    "zh": "n. 布鲁克林（美国纽约西南部的一区）"
+  },
+  "girl": {
+    "ph": "/ɡɜːrl/",
+    "en": "",
+    "zh": "n. 女孩；姑娘，年轻女子，未婚女子；（常与物主限定词连用）女儿；（非正式）（男人的）女朋友；（旧或用于复合词）女职员，女演员"
+  },
+  "s": {
+    "ph": "/es/",
+    "en": "",
+    "zh": "n. 字母 s, 英语字母表中第十九个字母；abbr. 圣人，圣徒（Saint） ；（尤指服装的尺码）小号的（small） ；南方的（South）；西门子（电导单位）（siemens）"
+  },
+  "myth": {
+    "ph": "/mɪθ/",
+    "en": "",
+    "zh": "n. 错误的观点，荒诞的说法；神话，神话故事；虚构的人（或事），想象中的人（或事）"
+  },
+  "england": {
+    "ph": "/ˈɪŋɡlənd/",
+    "en": "",
+    "zh": "n. 英格兰"
+  },
+  "young": {
+    "ph": "/jʌŋ/",
+    "en": "",
+    "zh": "adj. 幼小的，年轻的；存在不久的，新成立的；（显得）年轻的，（显得）岁数不大的；适合年轻人的；由年轻人（或儿童）构成的，青少年的，平均年龄小的；夭折的，早逝的；n. 年轻人（the young）；幼崽，雏鸟"
+  },
+  "breadwinners": {
+    "ph": "",
+    "en": "",
+    "zh": "n．养家糊口的人：在家庭中负责赚钱养家的人。"
+  },
+  "hasn't": {
+    "ph": "/ˈhæznt/",
+    "en": "",
+    "zh": "abbr. has not 的缩略形式，意为“还没有”"
+  },
+  "high-tech": {
+    "ph": "/ˌhaɪ ˈtek/",
+    "en": "",
+    "zh": "adj. 高科技的；现代风格的，用高新技术材料的；n. 高科技（high technology）"
+  },
+  "big": {
+    "ph": "/bɪɡ/",
+    "en": "",
+    "zh": "adj. （尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的；adv. 大大，给人印象深地；夸口地；大量地"
+  },
+  "gay": {
+    "ph": "/ɡeɪ/",
+    "en": "",
+    "zh": "adj. 同性恋的；<旧>艳丽的；<旧>快乐的；<非正式>品质差的，没有意义的；n. 同性恋者（尤指男性）；【名】 （Gay）（英、法、瑞典、毛里塔）盖伊，（西）加伊（人名）"
+  },
+  "yes": {
+    "ph": "/jes/",
+    "en": "",
+    "zh": "adv. 是，是的，对；是吗？（升调，表示疑问或请对方继续说）；n. 是（表示肯定），肯定答复；赞成票"
+  },
+  "vote": {
+    "ph": "/voʊt/",
+    "en": "",
+    "zh": "v. 投票选举，投票表决；投票评选；（通过投票）决定给予（资助），同意提供（款项）；表明，公认（某事好或坏）；投票同意；建议，主张；n. 选票，票；投票，表决；（选举中的）选票总数（the vote）；选举权，表决权…"
+  },
+  "cassidy": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 卡西迪（英语及爱尔兰姓氏，亦用作男子名）"
+  },
+  "same-sex": {
+    "ph": "/ˈseɪm seks/",
+    "en": "",
+    "zh": "adj. 同性的"
+  },
+  "colm": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 秋裂胺（colchicinamide）"
+  },
+  "bridges": {
+    "ph": "/ˈbrɪdʒɪz/",
+    "en": "",
+    "zh": "n. [交]桥梁；纽带（bridge 的复数）；vt. 架桥于；把……弥合起来（bridge 的第三人称单数）"
+  },
+  "customs": {
+    "ph": "/ˈkʌstəmz/",
+    "en": "",
+    "zh": "n. 海关；关税"
+  },
+  "enforcement": {
+    "ph": "/ɪnˈfɔːrsmənt/",
+    "en": "",
+    "zh": "n. 执行，实施"
+  },
+  "ice": {
+    "ph": "/aɪs/",
+    "en": "",
+    "zh": "n. 冰；冰块；冰冻甜食，刨冰；溜冰场；<美，非正式>钻石，珠宝；（态度，表情）冰冷；<英>一份冰淇淋；v. 在（糕饼上）加糖霜；冷却，冰镇；<非正式>确保（胜利等）；<美，非正式>杀死；结冰；长射（冰球）过全场越过…"
+  },
+  "him": {
+    "ph": "/hɪm/",
+    "en": "",
+    "zh": "pron. 他（宾格）；它（指雄性动物）；（书面英语）用于泛指不限定性别的人"
+  },
+  "rose": {
+    "ph": "/roʊz/",
+    "en": "",
+    "zh": "n. 玫瑰，蔷薇；玫瑰形物，玫瑰花饰，玫瑰花形纹章（尤指英国国徽）；玫瑰色，玫瑰红；红润的肤色；安乐的境地，有利的环境，轻易成功；（水管或洒水壶的）莲蓬式喷嘴；玫瑰红葡萄酒；罗经花，向位圈，方位刻度图（compass…"
+  },
+  "kids": {
+    "ph": "/kɪdz/",
+    "en": "",
+    "zh": "n. （kid 的复数）<非正式>小孩，孩子；<非正式>年轻人；小山羊；小山羊皮革；（尤指水手食堂盛格罗酒或配额食物用的）小木桶；v. （kid 的第三人称单数）<非正式>开玩笑，拿……开玩笑，（善意地）取笑；（山羊…"
+  },
+  "visa": {
+    "ph": "/ˈviːzə/",
+    "en": "",
+    "zh": "n. 签证；v.  签发签证；【名】  （Visa）（塞、芬）维萨（人名）"
+  },
+  "export-driven": {
+    "ph": "",
+    "en": "",
+    "zh": "以出口为目的"
+  },
+  "irish-american": {
+    "ph": "",
+    "en": "",
+    "zh": "爱尔兰裔美国人"
+  },
+  "jen": {
+    "ph": "/dʒen/",
+    "en": "",
+    "zh": "n. 珍（女子名）"
+  },
+  "barnett": {
+    "ph": "/ˈbɑːnet/",
+    "en": "",
+    "zh": "n. 巴奈特（姓氏）"
+  },
+  "cite": {
+    "ph": "/saɪt/",
+    "en": "",
+    "zh": "v. 引用，援引；引证，引以为例；传唤，传讯；嘉奖，表彰；n. <美>引用，引文"
+  },
+  "wide-ranging": {
+    "ph": "/ˌwaɪd ˈreɪndʒɪŋ/",
+    "en": "",
+    "zh": "adj. 广泛的，涉及面广的"
+  },
+  "gun": {
+    "ph": "/ɡʌn/",
+    "en": "",
+    "zh": "n. 枪，炮；起跑信号，发令枪声；<美，非正式>雇用杀手，持枪歹徒；喷射器；<英>猎人；v. 加大……的油门，使加速；<美> 猛投，猛掷；【名】 （Gun）（英）冈，（瑞典）贡，（俄、意）古恩（人名）"
+  },
+  "kevin": {
+    "ph": "/ˈkevɪn/",
+    "en": "",
+    "zh": "n. 凯文（男子名）"
+  },
+  "husband": {
+    "ph": "/ˈhʌzbənd/",
+    "en": "",
+    "zh": "n. 丈夫；v. 节约使用；【名】 （Husband）（英、美、爱）赫斯本德（人名）"
+  },
+  "boston": {
+    "ph": "/ˈbɔːstən/",
+    "en": "",
+    "zh": "n. 波士顿（美国城市）"
+  },
+  "km": {
+    "ph": "/ˌkeɪ ˈem/",
+    "en": "",
+    "zh": "abbr. （计量）公里，千米（kilometer）"
+  },
+  "natalia": {
+    "ph": "/nəˈtɑːljə/",
+    "en": "",
+    "zh": "n. 纳塔莉亚（女子名）"
+  },
+  "co-founder": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 共同创立者，联合创始人"
+  },
+  "lange": {
+    "ph": "/læŋ/",
+    "en": "",
+    "zh": "n. 兰格（姓氏）"
+  },
+  "cork": {
+    "ph": "/kɔːrk/",
+    "en": "",
+    "zh": "n. 栓皮，软木（南欧和北非的一种橡树的树皮）；瓶塞，软木塞；软木浮子；v. 用瓶塞塞住；用软木炭涂"
+  },
+  "wozniak": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Wozniak）人名；（捷）沃兹尼亚克"
+  },
+  "eu": {
+    "ph": "/ˌiː ˈjuː/",
+    "en": "",
+    "zh": "abbr. 欧盟，欧洲联盟（European Union，通常写作大写 EU）；能量单位（Energy Unit）；熵的单位（Entropy Unit）；等效单位（Equivalent Unit）"
+  },
+  "lauren": {
+    "ph": "/ˈlɒrən/",
+    "en": "",
+    "zh": "n. 劳伦（女子名）；劳伦（姓氏）"
+  },
+  "maynooth": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 梅努斯"
+  },
+  "crosshaven": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 克罗斯黑文（爱尔兰地名）"
+  },
+  "houston": {
+    "ph": "/ˈhjuːstən/",
+    "en": "",
+    "zh": "n. 休斯顿（美国得克萨斯州港市）"
+  },
+  "texas": {
+    "ph": "/ˈteksəs/",
+    "en": "",
+    "zh": "n. （Texas）德克萨斯州（美国州名）；n. （Texas）（美、俄、印、巴、墨）台萨（人名）"
+  },
+  "galway": {
+    "ph": "/ˈɡɔːlweɪ/",
+    "en": "",
+    "zh": "n. 戈尔韦（爱尔兰西部港市，戈尔韦郡首府）；亦指爱尔兰戈尔韦郡"
+  },
+  "children": {
+    "ph": "/ˈtʃɪldrən/",
+    "en": "",
+    "zh": "n. child 的复数形式；孩子们，儿童；子女，儿女"
+  },
+  "emigration": {
+    "ph": "/ˌemɪˈɡreɪʃn/",
+    "en": "",
+    "zh": "n. 移居外国，迁移出境；移民"
+  },
+  "central": {
+    "ph": "/ˈsentrəl/",
+    "en": "",
+    "zh": "adj. 中央的，中心的；起支配作用的，有控制力的；最重要的，主要的；n. <美，非正式>活动中心"
+  },
+  "restrictions": {
+    "ph": "/rɪˈstrɪkʃ(ə)nz/",
+    "en": "",
+    "zh": "n. 限制，限制条件（restriction 的复数）"
+  },
+  "j": {
+    "ph": "/dʒeɪ/",
+    "en": "",
+    "zh": "n. 字母 j"
+  },
+  "karen": {
+    "ph": "/ˈkærən/",
+    "en": "",
+    "zh": "n. 凯伦（人名）；克伦邦（缅甸邦名）"
+  },
+  "ceo": {
+    "ph": "/ˌsiː iː ˈoʊ/",
+    "en": "",
+    "zh": "abbr. 首席执行官；执行总裁（chief executive officer）"
+  },
+  "cso": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 计算机服务机构 (computing services office)；首席安全官 (chief security officer)；首席战略官 (chief strategy officer)"
+  },
+  "safe": {
+    "ph": "/seɪf/",
+    "en": "",
+    "zh": "adj. 安全的，平安的；不损害（或危害）健康的；谨慎的；（地点或局势）安全的；不会丢失，不会被拿走；<非正式> 不错的；不致引起争议的，有把握的；（棒球）成功上垒的；（选举中席位）十拿九稳的；无风险的，稳妥的"
+  },
+  "student": {
+    "ph": "/ˈstuːd(ə)nt/",
+    "en": "",
+    "zh": "n. 学生；学者"
+  },
+  "ease": {
+    "ph": "/iːz/",
+    "en": "",
+    "zh": "n. 容易；舒适，自在；v. 减轻，缓和，放松；缓缓移动；使容易；降低；使离职；熟悉"
+  },
+  "jamie": {
+    "ph": "/ˈdʒeɪmi/",
+    "en": "",
+    "zh": "n. 杰米（男子名）"
+  },
+  "portugal": {
+    "ph": "/ˈpɔːrtʃʊɡl/",
+    "en": "",
+    "zh": "n. 葡萄牙（欧洲西南部国家）"
+  },
+  "dundalk": {
+    "ph": "/dʌnˈdɔːk/",
+    "en": "",
+    "zh": "n. 邓多克（美国马里兰州中部城镇）；邓多克（爱尔兰共和国东北部港市）"
+  },
+  "applications": {
+    "ph": "/ˌæpləˈkeiʃ(ə)nz/",
+    "en": "",
+    "zh": "n. 申请，申请书；应用程序，应用软件（application 的复数）；应用，运用；敷用，涂抹，施用"
+  },
+  "affairs": {
+    "ph": "/əˈferz/",
+    "en": "",
+    "zh": "n. （个人的或商务的）事务，事宜；公共事务，公务；风流韵事（affair 的复数）"
+  },
+  "culturally": {
+    "ph": "/ˈkʌltʃərəli/",
+    "en": "",
+    "zh": "adv. 文化上，从文化角度；在人文学方面"
+  },
+  "film": {
+    "ph": "/fɪlm/",
+    "en": "",
+    "zh": "n. 电影，影片；电影艺术，电影业；胶卷，底片；薄膜，薄层；纪实镜头，记录画面；<古>细丝；v. 录制，拍摄电影；（似）被覆盖上一薄层东西，变得朦胧；在……上覆以薄膜"
+  },
+  "mchugh": {
+    "ph": "",
+    "en": "",
+    "zh": "麦克休（人名）"
+  },
+  "irish-born": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．爱尔兰出生的：在爱尔兰出生或拥有爱尔兰血统的人。"
+  },
+  "bill": {
+    "ph": "/bɪl/",
+    "en": "",
+    "zh": "n. （商品、服务或餐馆的）账单；议案，法案；纸币，钞票；演出人员名单；广告，传单；票据，汇票；单子，清单；喙；v. 开账单；把……宣传为；宣布（某人）将参加演出"
+  },
+  "mcelhinney": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （McElhinney）人名；（英）麦克尔希尼"
+  },
+  "wife": {
+    "ph": "/waɪf/",
+    "en": "",
+    "zh": "n. 妻子，已婚妇女，夫人"
+  },
+  "california": {
+    "ph": "/ˌkæləˈfɔːrniə/",
+    "en": "",
+    "zh": "n. 加利福尼亚（美国一个州）"
+  },
+  "algiers": {
+    "ph": "/ælˈdʒɪrz/",
+    "en": "",
+    "zh": "n. 阿尔及尔（阿尔及利亚首都）"
+  },
+  "baltimore": {
+    "ph": "/ˈbɔːltɪmɔːr/",
+    "en": "",
+    "zh": "n. 巴尔的摩（美国马里兰州最大城市，重要海港和工商业中心）"
+  },
+  "co": {
+    "ph": "/ˌsiː ˈoʊ/",
+    "en": "",
+    "zh": "abbr. 一氧化碳（carbon monoxide）；哥伦比亚（Colombia）；现付票（Cash Order）；货源证书（Certificate of Origin）；n. （Co）人名；（中）措（藏语·汉语拼音）"
+  },
+  "buy": {
+    "ph": "/baɪ/",
+    "en": "",
+    "zh": "v. 购买，能买；<非正式>相信，接受；（付出代价）获得，赢得；收买，贿赂；买，购买；n. 合算的东西，便宜货；购买"
+  },
+  "hillyard": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Hillyard）人名；（英）希利亚德"
+  },
+  "ohio": {
+    "ph": "/oʊˈhaɪoʊ/",
+    "en": "",
+    "zh": "n. 俄亥俄州（美国中北部一州）；俄亥俄河（美国东部河流，源出宾夕法尼亚州西部，流入密西西比河）"
+  },
+  "schmidt": {
+    "ph": "/ʃmɪt/",
+    "en": "",
+    "zh": "n. 施密特（姓氏）"
+  },
+  "send": {
+    "ph": "/send/",
+    "en": "",
+    "zh": "v. 邮寄，发送；传达，告知；派遣，打发，安排去；使快速（或猛然）移动；使作出（某种反应），使表现出（某种行为）；排放，排出（烟或化学反应的产生物等）；<非正式> 使着迷，使入迷；n. <古> 波浪的推力，波浪引起的…"
+  },
+  "pool": {
+    "ph": "/puːl/",
+    "en": "",
+    "zh": "n. 游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；<英>足球普尔（the pools)…"
+  },
+  "vandalia": {
+    "ph": "",
+    "en": "",
+    "zh": "万达利亚"
+  },
+  "money": {
+    "ph": "/ˈmʌni/",
+    "en": "",
+    "zh": "n. 钱，钞票，货币；财产，财富；款项，金额；工资，薪金；【名】 （Money）（英）莫尼，（西、法）莫内（人名）"
+  },
+  "improvement": {
+    "ph": "/ɪmˈpruːvmənt/",
+    "en": "",
+    "zh": "n. 改善；改进之处"
+  },
+  "medicare": {
+    "ph": "/ˈmedɪker/",
+    "en": "",
+    "zh": "n. （加拿大）医疗保健制度"
+  },
+  "fund": {
+    "ph": "/fʌnd/",
+    "en": "",
+    "zh": "n. 基金，专款；资金，钱款；基金会；储备量；v. 资助，为……提供资金；【名】 （Fund)）（德）丰德（人名）"
+  },
+  "seniors": {
+    "ph": "/ˈsinjər/",
+    "en": "",
+    "zh": "n. 老年人，年长者；上级，地位较高者，资历较深的人；<美>高中或大学的毕业班学生"
+  },
+  "republicans": {
+    "ph": "/rɪˈpʌblɪkənz/",
+    "en": "",
+    "zh": "n. （常大写）共和党人，共和党党员（美国共和党成员或支持者；the Republicans 也指美国共和党）；拥护共和政体的人，共和派人士（republican 的复数形式，常小写）"
+  },
+  "he's": {
+    "ph": "/hiːz/",
+    "en": "",
+    "zh": "contr. 他是（he is）；他有（he has）"
+  },
+  "u": {
+    "ph": "/juː/",
+    "en": "",
+    "zh": "n. 铀（化学元素）；英语字母中的第二十一个字母"
+  },
+  "dividend": {
+    "ph": "/ˈdɪvɪdend/",
+    "en": "",
+    "zh": "n. 红利，股息；好处，回报；（足球彩票的）彩金；被除数"
+  },
+  "act": {
+    "ph": "/ækt/",
+    "en": "",
+    "zh": "v. 行动；举动，表现；假装；表演，演出；担任；起作用；代理；（心理分析）行为表现；n. 行为，行动；法案；装模作样；（戏剧、歌剧等的）一幕；一段表演；节目；表演者，演出团体；发现某人正在（做某事）；判决书；<旧>会…"
+  },
+  "citizen": {
+    "ph": "/ˈsɪtɪzn/",
+    "en": "",
+    "zh": "n. 市民，城镇居民；公民，国民"
+  },
+  "polling": {
+    "ph": "/ˈpoʊlɪŋ/",
+    "en": "",
+    "zh": "n. 投票；民意调查；（计算机／通信）轮询；v. 获得……票；对……进行民意调查（poll 的 ing 形式）"
+  },
+  "fans": {
+    "ph": "/fænz/",
+    "en": "",
+    "zh": "n. fan 的复数形式：狂热者，粉丝，支持者；风扇等送风器具；（Fans）人名；（西）范斯；v. fan 的第三人称单数形式：给……扇风；煽动，激起"
+  },
+  "sway": {
+    "ph": "/sweɪ/",
+    "en": "",
+    "zh": "v. 摇摆，摇晃，摆动；影响（某人），使改变看法；<文> 统治，管理；（使）摇摆，摇动；n. 统治，势力，支配，控制，影响；摇摆，摆动；统治，影响"
+  },
+  "unexplainable": {
+    "ph": "/ʌnɪkˈspleɪnəb(ə)l/",
+    "en": "",
+    "zh": "adj. 费解的；无法说明的"
+  },
+  "color": {
+    "ph": "/ˈkʌlər/",
+    "en": "",
+    "zh": "n. 颜色，色彩；肤色；有色人种（常用于 people of color 等短语）；颜料；脸色，气色；生动，趣味，地方色彩；vt. 给……着色，涂颜色；影响，左右；歪曲，粉饰；vi. 变色，呈现颜色"
+  },
+  "supreme": {
+    "ph": "/suˈpriːm/",
+    "en": "",
+    "zh": "adj. 最高的，至高无上的；（政府、司法或军事机构）拥有最高权力的；极大的，极度的；（处罚，牺牲）涉及死的；杰出的；n. 奶油沙司；v. 用工具处理水果（尤指柑橘类）以达到最佳效果"
+  },
+  "yellow": {
+    "ph": "/ˈjeloʊ/",
+    "en": "",
+    "zh": "adj. 黄的，黄色的；黄色人种的，黄皮肤的；<非正式>胆怯的；（新闻报道）夸张失实的，耸人听闻的；黄色危险警报的；嫉妒的，猜疑的；n. 黄色，黄颜料；黄色衣服，黄色衣料；（运动或比赛中的）黄色球，黄色物（尤指斯诺克…"
+  },
+  "kill": {
+    "ph": "/kɪl/",
+    "en": "",
+    "zh": "v. 杀死；扼杀，终止；使痛苦，折磨；使减轻（疼痛）；消磨（时间），打发（时光）；使笑得前仰后合；（用开关）关闭；从文件（或计算机）中删除（行，段，文件）；（英式足球或其他球类比赛）停（球）；扣（球）；中和，抵消（效…"
+  },
+  "court": {
+    "ph": "/kɔːrt/",
+    "en": "",
+    "zh": "n. 法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；董事（会），理事（会）；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼；v. 奉承，讨好；设法取得，追求；招致，引起（不愉快的事）；谈恋爱，求爱"
+  },
+  "gen": {
+    "ph": "/dʒen/",
+    "en": "",
+    "zh": "n. 情报，信息（非正式，尤用于英式英语，常接 on 或 about）；（Gen）人名（法：让；土、阿塞、土库：根）；abbr. 将军（General 的缩写，常作 Gen.）；世代（Generation 的缩写，常…"
+  },
+  "ball": {
+    "ph": "/bɔːl/",
+    "en": "",
+    "zh": "n. 球，球状物；球类运动；踢出（或击出、投出）的一球；舞会；脚趾球，拇指球；勇气；弹丸；睾丸；v. （使）成球状（或团块）；和（女人）发生性关系；【名】 （Ball）（英、西）鲍尔，（法、德、俄、罗、捷）巴尔，（土…"
+  },
+  "z": {
+    "ph": "/ziː/",
+    "en": "",
+    "zh": "n. 英语字母表的第二十六个字母; Z 字形；abbr. 零（zero）；地区（zone）"
+  },
+  "david": {
+    "ph": "/ˈdeɪvɪd/",
+    "en": "",
+    "zh": "n. 戴维（男子名）；大卫（《圣经》中的古以色列国王）"
+  },
+  "cox": {
+    "ph": "/kɑːks/",
+    "en": "",
+    "zh": "n. 舵手，艇长；v. 做……舵手，当艇长；n. （Cox）（美、英、德、爱、丹）科克斯（人名）"
+  },
+  "cope": {
+    "ph": "/koʊp/",
+    "en": "",
+    "zh": "v. 对付，处理；n. 长袍，法衣；【名】 （Cope）（英）科普，（西）科佩（人名）"
+  },
+  "load": {
+    "ph": "/loʊd/",
+    "en": "",
+    "zh": "n. 负载，重荷；一批待洗的衣物；工作量；发电量，电荷；承载量；大量，许多；负担，压力；胡说八道，废话；v. 装上，装进；承载，装载；大量给予；装上（底片），上（子弹）；满（垒）；载入（计算机程序）"
+  },
+  "head": {
+    "ph": "/hed/",
+    "en": "",
+    "zh": "n. 头；头脑，智力；顶部；排头；领导人，负责人；<英>校长，院长；人数，（动物的）头数；（植物的）叶球，头状花序；一头长，一头高；钉头，锤头；啤酒沫；（河流）源头；脓头；硬币正面（有人头像）；磁头；（短语的）中心词…"
+  },
+  "kg": {
+    "ph": "/ˈkɪləˌɡræm/",
+    "en": "",
+    "zh": "abbr. （计量）千克，公斤（kilogram 或 kilograms 的缩写）"
+  },
+  "anthony": {
+    "ph": "/ˈæntəni/",
+    "en": "",
+    "zh": "n. 安东尼（英语男子名）；安东尼（英语姓氏）"
+  },
+  "nhs": {
+    "ph": "/ˌen eɪtʃ ˈes/",
+    "en": "",
+    "zh": "abbr. 英国国民健康保险制度（National Health Service）的缩写，即英国国家医疗服务体系；（生物化学）N-羟基琥珀酰亚胺（N-hydroxysuccinimide）的缩写，一种常用于多肽合成、…"
+  },
+  "aca": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 乙酸（acetic acid）；自动电路分析器（Automatic Circuit Analyzer）；n. （Aca）人名；（塞）阿察；（土）阿贾；（葡）阿卡"
+  },
+  "hospital": {
+    "ph": "/ˈhɑːspɪt(ə)l/",
+    "en": "",
+    "zh": "n. 医院；青年教育慈善机构；<史>（尤指僧侣骑士团所办的）慈善招待所；【名】 （Hospital）（英）霍斯皮特尔（人名）"
+  },
+  "ghosh": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Ghosh）人名；（印）高希"
+  },
+  "mri": {
+    "ph": "/ˌem ɑːr ˈaɪ/",
+    "en": "",
+    "zh": "abbr. 核磁共振成像（Magnetic Resonance Imaging）；机读信息（Machine Readable Information）；中等度肾功能不全（Moderate Renal Insuffic…"
+  },
+  "scan": {
+    "ph": "/skæn/",
+    "en": "",
+    "zh": "vt. 细看，审视；粗略看，浏览；扫描检查（物体或身体部位等）；（机器或计算机程序）扫描，察看；将（文件、照片等）扫描进计算机；（用声呐或雷达）扫描，扫掠；（诗）符合格律，韵节合拍；用（光束）扫描；电视扫描"
+  },
+  "everybody": {
+    "ph": "/ˈevribɑːdi/",
+    "en": "",
+    "zh": "pron. 每个人，人人"
+  },
+  "worn": {
+    "ph": "/wɔːrn/",
+    "en": "",
+    "zh": "adj. 用坏的，用旧的；疲惫的，筋疲力尽的；v. 穿，戴；蓄，留（发、须等）；磨损，用旧（wear 的过去分词）；【名】 （Worn）沃恩（人名）"
+  },
+  "pore": {
+    "ph": "/pɔːr/",
+    "en": "",
+    "zh": "n. （皮肤上的）毛孔，（植物的）气孔；v. 仔细阅读，认真钻研；<古>沉思，深思熟虑；【名】 （Pore）（美、印）波雷（人名）"
+  },
+  "hump": {
+    "ph": "/hʌmp/",
+    "en": "",
+    "zh": "n. 小圆丘，岗，隆起；驼峰；（人的）驼背；恼怒，烦恼；v. <英>（费力地）扛，背；<冒犯>与（某人）性交；成隆起；<爱尔兰，非正式>走开（hump off）"
+  },
+  "chin": {
+    "ph": "/tʃɪn/",
+    "en": "",
+    "zh": "n. 颏，下巴；v. <非正式>击打下巴；引体向上；【名】 （Chin）（泰）真，（柬）金，（越）九，（西）钦（人名）"
+  },
+  "push": {
+    "ph": "/pʊʃ/",
+    "en": "",
+    "zh": "v. 推，移动；按；挤，推搡；推动，促使；推销，推广；说服，强迫；鼓励，督促；努力争取；坚持地做；（军队）挺进；赶走；贩卖（毒品）；<非正式>接近（某年龄或数字）；使（栈）准备接收顶层数据；对（底片）作增感处理"
+  },
+  "puts": {
+    "ph": "/pʊts/",
+    "en": "",
+    "zh": "v. 放置，安放；使处于（某种状态），使受到影响；表达，陈述，提出（put 的第三人称单数）；n. 卖出选择权，看跌期权（put 的复数，金融中指 put options）；字符串输出函数（C 语言标准库函数 puts）"
+  },
+  "alarmingly": {
+    "ph": "/əˈlɑːrmɪŋli/",
+    "en": "",
+    "zh": "adv. 以令人惊恐或担忧的方式（惊人地，让人担忧地）"
+  },
+  "roberto": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 罗伯托（人名）"
+  },
+  "aids": {
+    "ph": "/eɪdz/",
+    "en": "",
+    "zh": "n. 辅助物，辅助设施（aid 的复数）；v. 帮助，援助；促进，有助于（aid 的第三人称单数）"
+  },
+  "tone": {
+    "ph": "/toʊn/",
+    "en": "",
+    "zh": "n. 语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；强健状况，（尤指肌肉的）紧实度；（电话或应答机等发出的）声音信号；（音乐）全音，音程；（说话的）声调，音调；（生理）神经纤…"
+  },
+  "bad": {
+    "ph": "/bæd/",
+    "en": "",
+    "zh": "adj. 坏的，不好的，令人不悦的；难以接受的，令人遗憾的；粗鲁的，下流的；抱歉的，难过的；质量差的，不合格的；邪恶的，不道德的；顽皮的，不乖的；有病的，疼痛的；腐烂的，变质的；严重的，剧烈的；不明智的，不合适的；不…"
+  },
+  "hold": {
+    "ph": "/hoʊld/",
+    "en": "",
+    "zh": "v. 抓住，托住；按住，捂住；拥抱；使保持（在某位置）；支撑……的重量；容纳，包含；监禁，拘留；守卫，控制；（好形势）保持不变；吸引某人的注意/兴趣；（使）保持（价值或水平）；保存，存贮；拥有；担任，任职；获得，赢得…"
+  },
+  "repeat": {
+    "ph": "/rɪˈpiːt/",
+    "en": "",
+    "zh": "v. 重复，重说；复述，跟读（尤指为学习）；转述，转告；（强调说过的话）再说一遍；重新做，使再次发生；重播；重读，重修；<美>（选举中违法）重复投票；<美>再次成功，两连冠；<英>（吃下的食物因打嗝或消化不良）在口中…"
+  },
+  "maintaining": {
+    "ph": "/meɪnˈteɪnɪŋ/",
+    "en": "",
+    "zh": "n. 维护，保养；v. 维持；保养（maintain 的现在分词）"
+  },
+  "downward-looking": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．向下看的，俯视的：指向下或朝向地面的方向。"
+  },
+  "tuck": {
+    "ph": "/tʌk/",
+    "en": "",
+    "zh": "v. 把（布或纸张的边缘）塞入；把…...塞入，把…...藏入；用…...盖住，用…...围紧；使蜷缩，使收缩；在…...上做拉皮手术；大吃；在（衣服上）缝褶子，给…...打；n. （衣服或织物的）褶，打褶；（脸部或…"
+  },
+  "drop": {
+    "ph": "/drɑːp/",
+    "en": "",
+    "zh": "v. 投，丢；躺倒；剔除，除名；停止，放弃；中途卸客，中途卸货；寄，送，写（信）；（道路、地面等）急剧向下倾斜；突然终止与（某人）的（恋爱）关系；（使）掉落；减少，降低；n. 滴，少量；下降；落差；<非正式>递送，交…"
+  },
+  "widen": {
+    "ph": "/ˈwaɪd(ə)n/",
+    "en": "",
+    "zh": "v. （使）变宽，加宽；（使）扩展，程度加深，范围扩大；（尤因惊讶或恐惧而眼睛）睁大；【名】 （Widen）（德）维登（人名）"
+  },
+  "draw": {
+    "ph": "/drɔː/",
+    "en": "",
+    "zh": "v. 画，绘画；草拟，制定；吸引，使注意；引起（反应）；获得，得到；推断出；抽出，吸出；（从银行账户）取出；拉，拖；利用，动用；抽（烟），吸（气）；放（血），抽（血）；拔出，掏出；以平局结束；抽签，抓阄；（向特定方向…"
+  },
+  "pull": {
+    "ph": "/pʊl/",
+    "en": "",
+    "zh": "v. 拉，拽；拖动，移走；拔出，抽出；挪动，挣脱；拉开，拉上；牵引（车辆）；吃力地运转；（使车辆）打斜；划（船），划动；（迅速地）穿脱衣服；拉伤，扭伤；扳动，拉（开关）；犯下（罪行），使出（诡计）；吸引，影响；吸引异…"
+  },
+  "pre-industrial": {
+    "ph": "/ˈpriː ɪnˈdʌstriəl/",
+    "en": "",
+    "zh": "adj. 工业化以前的，前工业的"
+  },
+  "ink": {
+    "ph": "/ɪŋk/",
+    "en": "",
+    "zh": "n. 墨水，油墨；<非正式>文字宣传，纸媒宣传；（章鱼、乌贼等海洋生物分泌出的）墨汁；v. 签订，签署（合同等）；涂墨水于（某物）；【名】 （Ink）（美、俄、拉脱维亚）英克（人名）"
+  },
+  "paper": {
+    "ph": "/ˈpeɪpər/",
+    "en": "",
+    "zh": "n. 纸；报纸；（工作、学习或个人的）资料，文件（papers）；证明，证件（如护照、身份证等）（papers）；政府报告，官方政策文件；<英>考试，答卷；（研究）论文，（学术）讲话；<美>（学校课程的）学期论文；墙…"
+  },
+  "flat": {
+    "ph": "/flæt/",
+    "en": "",
+    "zh": "adj. 平的，水平的；平坦的；（水面）平静的，波澜不兴的；平滑的；平放的，平躺的，平卧的；足弓平坦的；扁平的；（鞋）平跟的，低跟的；断然的，直截了当的；（费率、价格等）统一的，固定的；（市场、价格等）疲软的，萧条的…"
+  },
+  "lie": {
+    "ph": "/laɪ/",
+    "en": "",
+    "zh": "v. 平躺，平卧；位于，坐落在；存在，在于；处于，保持（某种状态）；（尤用于墓碑上的文字中）长眠；（比赛时）名列，排名；撒谎，编造谎言；（物体）平放在……上，平放着；朝……方向；造成假象，不可靠；（尤指不快或困难之事…"
+  },
+  "bed": {
+    "ph": "/bed/",
+    "en": "",
+    "zh": "n. 床，床铺，床位；底部，基座；花坛，苗圃；海底，河床；岩层；（车辆的）拖斗；v. 把……固定，嵌入；与（某人）上床"
+  },
+  "bent": {
+    "ph": "/bent/",
+    "en": "",
+    "zh": "adj. 弯曲的，变形的；驼背的；(有权者）不诚实的，不正派的；下定决心的；同性恋的；n. 天赋，爱好；信仰；翦股颖；草茎，草梗；<英>莎草；<英，古>石南丛生的荒野，荒草牧场；v. 弯腰；使弯曲；屈从（bend 的…"
+  },
+  "feet": {
+    "ph": "/fiːt/",
+    "en": "",
+    "zh": "n. 脚（foot 的复数形式）；尺，英尺；音步（诗律用语）"
+  },
+  "inch": {
+    "ph": "/ɪntʃ/",
+    "en": "",
+    "zh": "n. 英寸；（距离或数量）少许；<非正式>身高，腰围；v. （数量）逐渐增加（或减少）；（使）缓慢移动；【名】 （Inch）（英）英奇（人名）"
+  },
+  "initially": {
+    "ph": "/ɪˈnɪʃəli/",
+    "en": "",
+    "zh": "adv. 开始，最初"
+  },
+  "tech": {
+    "ph": "/tek/",
+    "en": "",
+    "zh": "n. 技校，技术学院；技术（学），工艺（学），工业技术；技术员，技师；【名】 （Tech）（柬）德（人名）"
+  },
+  "sit": {
+    "ph": "/sɪt/",
+    "en": "",
+    "zh": "v. 坐下，就座；能容纳，可坐（……人）；为……做模特；<美>（比赛）不用（某选手）；（狗等动物）蹲坐；处在，坐落在； 担任职务，当委员；开会，开庭；<英>参加（考试）；照看小孩；n. 坐的一段时间；<古>（衣服的）合身"
+  },
+  "band": {
+    "ph": "/bænd/",
+    "en": "",
+    "zh": "n. 乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指；v. 给……分级，把……分段；用带绑扎；加彩条"
+  },
+  "grab": {
+    "ph": "/ɡræb/",
+    "en": "",
+    "zh": "v. 攫取，抓住；（尤指匆忙地）取，吃，喝；霸占，强夺；利用，抓住（机会）；引人注意，吸引；n. 攫取，赚取；抓具，抓斗；抓取（或截获、采集）的图像"
+  },
+  "loop": {
+    "ph": "/luːp/",
+    "en": "",
+    "zh": "n. 环形，环状物；循环胶片，循环磁带；（程序中）一套重复的指令；回线，回路；<英>（铁道或公路的）环线；<美，非正式>大环（指美国芝加哥市的商业中心）；<英>（可改道的）会车线；翻筋斗（一种飞行特技）；（滑冰）单刃转圈"
+  },
+  "stand": {
+    "ph": "/stænd/",
+    "en": "",
+    "zh": "v. 站，站立；起立，站起来；使直立，竖放；位于（某处或某位置）；高度为，高达；处于（某种状态）；停，停靠；搁，不流动；很可能会；持有（某种态度或看法）；达特定水平（或数量、高度等）；保持有效，维持不变；忍受，容忍；…"
+  },
+  "tall": {
+    "ph": "/tɔːl/",
+    "en": "",
+    "zh": "adj. 高的，高大的；（用于指高度）有……高的，身高……的；过分的，夸大的；（饮料）含少量酒精的；【名】 （Tall）（芬、罗、瑞典）塔尔，（英）托尔（人名）"
+  },
+  "flex": {
+    "ph": "/fleks/",
+    "en": "",
+    "zh": "v. 弯曲，曲折（四肢，关节）；活动，绷紧（肌肉）；（材料）有弹性；n. <英>（电器用的）皮线，花线；屈曲；<美，俚>松紧带；adj. <美，非正式>弹性工作制的；【名】 （Flex）（意）弗莱克斯，（法）弗莱（人名）"
+  },
+  "juts": {
+    "ph": "",
+    "en": "",
+    "zh": "v．突出，伸出：从某物中突出或伸出。"
+  },
+  "lionel": {
+    "ph": "/ˈlaɪənl/",
+    "en": "",
+    "zh": "n. 莱昂内尔（男子名）"
+  },
+  "exceptional": {
+    "ph": "/ɪkˈsepʃən(ə)l/",
+    "en": "",
+    "zh": "adj. 卓越的，杰出的；不寻常的，罕见的；（心理或身体上）有缺陷的；n. （公司账目上的）异常项目"
+  },
+  "player": {
+    "ph": "/ˈpleɪər/",
+    "en": "",
+    "zh": "n. 运动员，选手；（乐器的）演奏者；<旧>演员，表演者；参与者，角色；（录音或录像的）播放器；<非正式>风流浪子；（用于剧团的名称中）剧团"
+  },
+  "argentinean": {
+    "ph": "/ˌɑːdʒənˈtɪniən/",
+    "en": "",
+    "zh": "n. 阿根廷人；adj. 阿根廷的"
+  },
+  "won": {
+    "ph": "/wʌn/",
+    "en": "",
+    "zh": "n. 韩圆（韩国货币单位，一圆合一百钱）；朝鲜圆（朝鲜货币单位，一圆合一百钱）；v. （win 的过去式和过去分词）（在战斗、比赛、游戏等中）赢，获胜；赢得（奖品等）；通过努力得到（某物）"
+  },
+  "ballon": {
+    "ph": "/bæˈloʊn/",
+    "en": "",
+    "zh": "n. （芭蕾）舞者在跳跃中显现的轻快优雅；Ballon d'Or（金球奖，足球界年度最佳球员奖）；Ballon（巴隆，人名）"
+  },
+  "st-century": {
+    "ph": "",
+    "en": "",
+    "zh": "21世纪：指公历2001年至2100年的时间段。"
+  },
+  "all-time": {
+    "ph": "/ˈɔːl taɪm/",
+    "en": "",
+    "zh": "adj. （通常作定语）空前的，创纪录的；历来的，有史以来最……的"
+  },
+  "la": {
+    "ph": "/lɑː/",
+    "en": "",
+    "zh": "n. 全音阶中的第6个音；A 音的唱名；（La）人名；（中）辣（广东话·威妥玛）；（越）罗；（朝）罗；（缅、老）拉"
+  },
+  "messi": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 梅西（阿根廷著名足球明星）"
+  },
+  "goal": {
+    "ph": "/ɡoʊl/",
+    "en": "",
+    "zh": "n. 球门；进球得分；目标，目的；（旅行）目的地；（赛跑的）终点；v. 射门，射门得分"
+  },
+  "sport": {
+    "ph": "/spɔːrt/",
+    "en": "",
+    "zh": "n. （某项）体育运动；体育运动；运动会（sports）；野外运动（尤指打猎或钓鱼）；（狩猎、钓鱼等活动带来的）成就感；乐趣；<非正式>开朗大度的人；<澳>（用作友好称呼，尤指对男子）朋友，老兄，哥们儿；（生）突变，芽变"
+  },
+  "national-team": {
+    "ph": "/ˈnæʃnəl tiːm/",
+    "en": "",
+    "zh": "国家队：由一个国家选派的最优秀的运动员组成的代表队，代表该国参加国际比赛或锦标赛。"
+  },
+  "late": {
+    "ph": "/leɪt/",
+    "en": "",
+    "zh": "adj. 晚期的，末期的；晚的，迟的；近日暮的，近深夜的；已故的；不久前的，最近的；adv. 晚，迟；（时间上）接近终了，在晚年；临近日暮，接近午夜；（时间上）接近终了，临近末了，在晚年"
+  },
+  "diego": {
+    "ph": "/diˈeɪɡəʊ/",
+    "en": "",
+    "zh": "n. 迭戈（男子名）"
+  },
+  "man": {
+    "ph": "/mæn/",
+    "en": "",
+    "zh": "n. 成年男子，男人；人类；（不论性别的）人；（来自某地、从事某种工作的）人；（喜欢某事的）人 ； （支持某组织或为其工作的）人；士兵，（男性）工人 ；上门服务的人；伙计，哥儿们；（表示不耐烦或生气）你这家伙；丈夫，…"
+  },
+  "runs": {
+    "ph": "/rʌnz/",
+    "en": "",
+    "zh": "v. run 的第三人称单数形式：跑；运行，运作；经营，管理；竞选；赛跑；（马）参加比赛；（道路等）延伸；铺设（电线、管道等）；移动；（液体）流，淌；（特征、疾病等）在家族中遗传，世代相传"
+  },
+  "laid": {
+    "ph": "/leɪd/",
+    "en": "",
+    "zh": "v. 放；铺设；安排；产卵（lay 的过去式和过去分词）；adj. 按计划放好（或铺好、布置好）的；松弛的，从容不迫的（通常写作 laid-back）；n. （Laid）（瑞典）莱德（人名）"
+  },
+  "liga": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （西班牙语、葡萄牙语）联赛；联盟；（足球，常作 La Liga）西班牙足球甲级联赛（西甲）"
+  },
+  "jog": {
+    "ph": "/dʒɑːɡ/",
+    "en": "",
+    "zh": "v. 慢跑；轻推，轻撞；（多指缓慢地）颠簸着行进；（上下）颠动；使颠簸；n. 慢跑锻炼；轻推；平稳的慢速；【名】 （Jog）（尼）乔格（人名）"
+  },
+  "whereas": {
+    "ph": "/ˌwerˈæz/",
+    "en": "",
+    "zh": "conj. （表示对比）但是，然而；鉴于（用于文件的开头）；n. 序言，开场白；条件语句"
+  },
+  "easing": {
+    "ph": "/ˈiːzɪŋ/",
+    "en": "",
+    "zh": "n. 减轻，缓解；放宽；（金融）宽松，货币宽松；v. 减轻，缓解；（使）小心缓慢地移动（ease 的现在分词）"
+  },
+  "legs": {
+    "ph": "/leɡz/",
+    "en": "",
+    "zh": "n. （解剖）（人或动物的）腿（leg 的复数），下肢；裤腿；（桌、椅等家具或器物的）腿/脚，支架；（羊、猪、鸡等的）腿肉；（旅程的）一段，一程；（体育比赛的）一段赛程，一轮；<非正式>持久力，后劲（常用于 have…"
+  },
+  "eyes": {
+    "ph": "/aɪz/",
+    "en": "",
+    "zh": "n. 眼睛（eye 的复数）；看法，判断（用于 in someone's eyes 等短语）；（航海）船首，船头；（Eyes）人名（英译“艾斯”）；v. （动词 eye 的第三人称单数）注视，打量，观察"
+  },
+  "dart": {
+    "ph": "/dɑːrt/",
+    "en": "",
+    "zh": "v. 飞奔，猛冲；瞥，急扫（一眼）；（为施药而）用飞镖射（动物）；n. 飞镖；飞镖游戏；缝褶；猛冲，突进；（恐惧、愤怒等的）一阵；【名】 （Dart）（英、美、加、澳、法）达特（人名）"
+  },
+  "maradona": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 马拉多纳（球星）"
+  },
+  "on-field": {
+    "ph": "",
+    "en": "",
+    "zh": "adj. 场上的"
+  },
+  "barcelona": {
+    "ph": "/ˌbɑːrsəˈloʊnə/",
+    "en": "",
+    "zh": "n. 巴塞罗纳（西班牙）"
+  },
+  "madrid": {
+    "ph": "/məˈdrɪd/",
+    "en": "",
+    "zh": "n. 马德里（西班牙首都）"
+  },
+  "ran": {
+    "ph": "/ræn/",
+    "en": "",
+    "zh": "v. 跑（run 的过去式）；n. （Ran）人名音译：拉恩（俄、瑞典、塞）；兰（柬埔寨）"
+  },
+  "nine": {
+    "ph": "/naɪn/",
+    "en": "",
+    "zh": "n. 九，九个；num. 九；九个；adj. 九的，九个的；n. （Nine）人名；（塞）尼内"
+  },
+  "in-game": {
+    "ph": "/ɪn ɡeɪm/",
+    "en": "",
+    "zh": "在游戏中：指在玩电脑或视频游戏时完成或发生的。"
+  },
+  "prepare": {
+    "ph": "/prɪˈper/",
+    "en": "",
+    "zh": "v. 使做好准备，把……预备好；（为……）做好准备；预备（饭菜），做（饭）；配制（药品或化学制品）；乐意做（be prepared to do sth.）；（在和弦中）预备（不和谐音）"
+  },
+  "judson": {
+    "ph": "/ˈdʒʌdsn/",
+    "en": "",
+    "zh": "n. 贾德森（姓氏、男子名）"
+  },
+  "brewer": {
+    "ph": "/ˈbruːər/",
+    "en": "",
+    "zh": "n. 啤酒酿造者（或公司）；啤酒厂主（或经营者）；<喻>阴谋家；（Brewer）布鲁尔（英语姓氏）"
+  },
+  "rain": {
+    "ph": "/reɪn/",
+    "en": "",
+    "zh": "n. 雨，雨水；（热带地区的）雨季（the rains）；（降雨般的）一阵，（大量的）降落物；v. 下雨；（使）大量降落，雨点般落下；（使）如雨般地猛击；【名】 （Rain）（法）兰，（英）雷恩，（罗、捷）赖恩（人名）"
+  },
+  "e": {
+    "ph": "/iː/",
+    "en": "",
+    "zh": "n. 英语字母中的第五个字母; E 音；成绩第五等；电子；abbr. 东方（east）；地球（earth）"
+  },
+  "g": {
+    "ph": "/dʒiː/",
+    "en": "",
+    "zh": "n. 英语字母的第七个字母"
+  },
+  "team's": {
+    "ph": "",
+    "en": "",
+    "zh": "团队的"
+  },
+  "tara": {
+    "ph": "/ˈtærə/",
+    "en": "",
+    "zh": "n. （新西兰英语）白脸燕鸥；塔拉（Tara，人名，多见于英、印、塞、伊、尼）；塔拉山（Hill of Tara，爱尔兰历史遗址，传统上为爱尔兰至高王驻地）；int. （英式，非正式）再见，再会（亦作 ta-ra）"
+  },
+  "mindfulness-based": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．基于正念的：用于描述心理治疗方法是以正念为基础的。这种治疗方法通过培养对当下经验的关注和接纳，以减轻心理压力、改善心理健康。；· Mindfulness-based stress reduction is a…"
+  },
+  "half-life": {
+    "ph": "/ˈhæf laɪf/",
+    "en": "",
+    "zh": "n. [核] 半衰期"
+  },
+  "ote": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 目标工资（on-target earnings）；金融联机交易环境（Online Transaction Environment）；n. OTE（Hellenic Telecommunications O…"
+  },
+  "till": {
+    "ph": "/tɪl/",
+    "en": "",
+    "zh": "prep. 直到，到……为止；<苏格兰>向，朝；conj. 直到，到……为止；n. （商店等处的）现金出纳机，收银机；<英，非正式>（大商店中的）交款处，收银台；（商店或银行）放钱的抽屉，收银盒；（地质）冰碛（物）"
+  },
+  "surprisingly": {
+    "ph": "/sərˈpraɪzɪŋli/",
+    "en": "",
+    "zh": "adv. 惊人地，出人意料地"
+  },
+  "wasn't": {
+    "ph": "/ˈwʌznt/",
+    "en": "",
+    "zh": "abbr. 不是，非（was not 的缩略形式）"
+  },
+  "note": {
+    "ph": "/noʊt/",
+    "en": "",
+    "zh": "n. 短笺，便条；笔记，记录；注释，批注；正式文件，票据，证明书；音，音符；语气，气氛；钞票；重要性，值得注意之处（of note）；v. 留意，注意；指出，提及；记录，记下；【名】 （Note）（美、法）诺特（人名）"
+  },
+  "knew": {
+    "ph": "/nuː/",
+    "en": "",
+    "zh": "v. 知道；认识；记得（know 的过去式）；n. （Knew）人名；<英>纽"
+  },
+  "clean": {
+    "ph": "/kliːn/",
+    "en": "",
+    "zh": "adj. 洁净的，干净的；讲卫生的，爱干净的；无有害物的，无污染的；清醇的，清新的；无污点的，清白的；公正的，遵守规则的；不私藏违禁品的；没吸毒的，没喝酒的；纯洁的，正派的；文明的，无色情的；平滑的，平整的；迅速彻底…"
+  },
+  "wash": {
+    "ph": "/wɑːʃ/",
+    "en": "",
+    "zh": "v. 清洗，洗涤；洗澡，（用水和肥皂）洗（身体的某部分）；（水）漫过，流过，冲刷；<非正式>站得住脚，令人相信或接受；（织物，服装，染料）耐洗；（情感）强烈冲击；粉刷；镀（金，银）于；<文>使湿透，浸泡"
+  },
+  "italy": {
+    "ph": "/ˈɪtəli/",
+    "en": "",
+    "zh": "n. 意大利（欧洲南部国家）"
+  },
+  "french": {
+    "ph": "/frentʃ/",
+    "en": "",
+    "zh": "adj. 法国的；法语的；法国人的；n. 法国人；法语；n. （美、英、加、澳）弗伦奇（人名）"
+  },
+  "government": {
+    "ph": "/ˈɡʌvərnmənt/",
+    "en": "",
+    "zh": "n. 政府，内阁；政体，国家体制；（国家等的）治理，管理；政府掌控经济和社会活动的程度；（语法）支配关系"
+  },
+  "lure": {
+    "ph": "/lʊr/",
+    "en": "",
+    "zh": "v. 引诱，诱惑；n. 诱惑（物），诱惑力；鱼饵，诱饵；【名】 （Lure）卢尔（人名）"
+  },
+  "gulf": {
+    "ph": "/ɡʌlf/",
+    "en": "",
+    "zh": "n. 海湾；鸿沟，分歧；波斯湾；（地面的）裂口，深渊"
+  },
+  "rich": {
+    "ph": "/rɪtʃ/",
+    "en": "",
+    "zh": "adj. 有钱的，富有的；富含……的，丰富的；非常有趣的，丰富多彩的；（食物）油腻的；（色彩、气味）浓郁的，（声音）浑厚的；肥沃的，丰产的；华丽昂贵的；<非正式>（指某人的评论或批评）荒唐的，可笑的；值钱的，生财的；…"
+  },
+  "france": {
+    "ph": "/fræns/",
+    "en": "",
+    "zh": "n. 法国，法兰西（西欧国家，正式名称为法兰西共和国）；法郎士（姓氏，亦指法国作家阿纳托尔·法郎士）"
+  },
+  "robert": {
+    "ph": "/ˈrɑːbərt/",
+    "en": "",
+    "zh": "n. 罗伯特（男子名）"
+  },
+  "brewer's": {
+    "ph": "",
+    "en": "",
+    "zh": "布鲁尔禾雀；啤酒酿造者的；干啤酒糟"
+  },
+  "charles": {
+    "ph": "/tʃɑːrlz/",
+    "en": "",
+    "zh": "n. 查尔斯（男子名，也用作姓氏）"
+  },
+  "de": {
+    "ph": "/diː/",
+    "en": "",
+    "zh": "n. 来自（用于人名中表示籍贯）；abbr. 德国（Germany）；n. （De）（丹、越）大（人名）"
+  },
+  "vita": {
+    "ph": "/ˈviːtə/",
+    "en": "",
+    "zh": "n. （美国英语）个人简历，履历（curriculum vitae 的较不常见说法，复数 vitae 或 vitas）；（拉丁语/意大利语）生活；生命（常见于固定短语、引语或题名，如 la dolce vita）；（…"
+  },
+  "frenchman": {
+    "ph": "/ˈfrentʃmən/",
+    "en": "",
+    "zh": "n. 法国人"
+  },
+  "rome": {
+    "ph": "/roʊm/",
+    "en": "",
+    "zh": "n. 罗马（意大利首都）；古罗马（以罗马城为中心的古代文明和国家）；（宗教）罗马天主教会的领导机构（教廷）"
+  },
+  "nice": {
+    "ph": "/naɪs/",
+    "en": "",
+    "zh": "adj. 美好的，令人愉快的；好心的，友好的；（天气）温暖的，宜人的；（观点、区别等）细致的，微妙的；（用于打招呼）很高兴见到你；干得好的，出色的；坏的，令人不愉快的；正派的，有教养的；<古>挑剔的，谨慎的"
+  },
+  "net": {
+    "ph": "/net/",
+    "en": "",
+    "zh": "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面；adj. 净得的；净重的；最后的，最终的"
+  },
+  "caf": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 成本加运费价格（cost and freight）；n. （Caf）（美、土、瑞）察夫（人名）"
+  },
+  "stamp": {
+    "ph": "/stæmp/",
+    "en": "",
+    "zh": "n. 邮票；印记，戳记；印，章，戳；跺脚（声），跺蹄（声）；特征，痕迹，烙印；类型，种类，类别；表明，表示；重要影响，持久影响；（捣矿机中用于捣碎矿石的）铁砧；购物券，购买券；vt. 跺（脚），重踩，重踏；迈着重步走…"
+  },
+  "duty": {
+    "ph": "/ˈduːti/",
+    "en": "",
+    "zh": "n. 责任，义务；上班，值班；职责，任务；税，关税；兵役；（牧师的）行礼拜式；（发动机的）功率；【名】 （Duty）（英）迪蒂（人名）"
+  },
+  "casa": {
+    "ph": "/kæsə/",
+    "en": "",
+    "zh": "n. （主用于美国西南部）住宅，住所；（Casa）（美、意、法、阿根廷、巴西、西、摩洛哥）卡萨（人名，亦用于地名、建筑等专有名称）"
+  },
+  "macron": {
+    "ph": "/ˈmeɪkrɑːn/",
+    "en": "",
+    "zh": "n. 长音符号（加于元音上方的水平记号“¯”，标示长元音或长音节）；〔Macron〕法语姓氏，常指法国总统埃马纽埃尔·马克龙，中文通译“马克龙”"
+  },
+  "cr": {
+    "ph": "",
+    "en": "A person to whom a debt is owed.",
+    "zh": "abbr. 条件反射（conditioned reflex）；元素铬的符号"
+  },
+  "impot": {
+    "ph": "/ɪmpɑːt/",
+    "en": "",
+    "zh": "n. （英国旧式学校用语）作为惩罚让学生做的功课。"
+  },
+  "sur": {
+    "ph": "/sɜːr/",
+    "en": "",
+    "zh": "prep. 根据；abbr. 表面（surface）"
+  },
+  "gaulle": {
+    "ph": "",
+    "en": "",
+    "zh": "高尔（人名）"
+  },
+  "fortune": {
+    "ph": "/ˈfɔːrtʃən/",
+    "en": "",
+    "zh": "n. 时运，命运；好运，机遇；财富，巨款；未来，前途；v. 给予财富；偶然发生；【名】 （Fortune） （英）福琼，（法）福蒂纳（人名）"
+  },
+  "re": {
+    "ph": "/riː/",
+    "en": "",
+    "zh": "prep. （用于公函起首介绍主题或回复邮件）关于，兹就；n. 来（同 ray，固定 C 大调的第二音）"
+  },
+  "taxe": {
+    "ph": "/ˈtæks/",
+    "en": "",
+    "zh": "n. （法）税款；邮资"
+  },
+  "land": {
+    "ph": "/lænd/",
+    "en": "",
+    "zh": "n. 陆地，地面；土地（尤指耕地或建筑用地）；地产，地皮；农耕，农村生活；国度，国土；想象（或虚构）的地方；（枪炮）阳膛线；v. 着陆，降落；使（飞机）平稳着陆；登陆，上岸；（从船或飞机上）卸下（货物）；落下，跌落；…"
+  },
+  "tax-free": {
+    "ph": "/ˌtæks ˈfriː/",
+    "en": "",
+    "zh": "adj. 免税的，无税的"
+  },
+  "earn": {
+    "ph": "/ɜːrn/",
+    "en": "",
+    "zh": "v. 赚得，挣钱；盈（利），生（利）；赢得，博得；【名】 （Earn）（泰）炎（人名）"
+  },
+  "m": {
+    "ph": "/em/",
+    "en": "",
+    "zh": "abbr. 米；模；毫；兆"
+  },
+  "peter": {
+    "ph": "/ˈpiːtər/",
+    "en": "",
+    "zh": "v. 逐渐减少；先出大牌后出小牌；n. （非正式）阴茎；单人牢房；保险箱；先出大牌后出小牌的行为；n. （Peter）（英、德、丹、斯、塞、瑞）彼得（人名）"
+  },
+  "keen": {
+    "ph": "/kiːn/",
+    "en": "",
+    "zh": "adj. 渴望的，热衷的；喜爱的，着迷的；热情的，热心的；（兴趣或感情）浓厚的，强烈的；思维敏捷的，敏锐的；（目光或听觉）灵敏的；（战斗或竞争）激烈的，紧张的；<英>（价格）低廉的，有竞争力的；<旧>寒冷刺骨的；锋利…"
+  },
+  "britain": {
+    "ph": "/ˈbrɪt(ə)n/",
+    "en": "",
+    "zh": "n. 英国（大不列颠及北爱尔兰联合王国的通称）；不列颠（大不列颠岛，包括英格兰、苏格兰和威尔士）"
+  },
+  "henley": {
+    "ph": "/ˈhenli/",
+    "en": "",
+    "zh": "n. 亨利（姓氏）；亨里（英国诗人）；亨利镇（英国地名）"
+  },
+  "partners": {
+    "ph": "/ˈpɑːrtnərz/",
+    "en": "",
+    "zh": "n. 伙伴，搭档（partner 的复数形式）；伴侣，配偶；合作伙伴，贸易伙伴；合伙人（法律、商业）；v. 合伙；成为…的搭档，合作（partner 的第三人称单数）"
+  },
+  "jerome": {
+    "ph": "/dʒəˈroʊm/",
+    "en": "",
+    "zh": "n. 杰罗姆（男子名）；（基督教）圣杰罗姆（又译哲罗姆，早期基督教教父、教会圣师，曾将《圣经》从希伯来文和希腊文译成拉丁文《通俗译本》）"
+  },
+  "barre": {
+    "ph": "/bɑːr/",
+    "en": "",
+    "zh": "n. 扶手杠（芭蕾把杆，装在舞蹈演员练功房内墙上，供扶握练习）；（箱包的）横档；把杆健身课程（以把杆为主要器械，融合芭蕾、普拉提和力量训练）；横按（吉他演奏技巧，用食指横按多根琴弦；barre chord 即横按和弦…"
+  },
+  "relocation": {
+    "ph": "/ˌriːloʊˈkeɪʃn/",
+    "en": "",
+    "zh": "n. 迁移，搬迁，迁居；重新安置（常用于有组织迁移）；再布置，变换布置；（计算机）重定位"
+  },
+  "seat": {
+    "ph": "/siːt/",
+    "en": "",
+    "zh": "n. 座位；（椅子等的）座部；（机器的）基座；（议会、委员会、法庭等的）席位，职位；<英> 议会议员选区；（组织或重大活动的）所在地；（大户人家在乡间的）别墅，宅邸；（裙子或裤子的）臀部，后裆；屁股；（骑马的）骑姿"
+  },
+  "ferrigno": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Ferrigno）人名；（意、法）费里尼奥"
+  },
+  "arab": {
+    "ph": "/ˈærəb/",
+    "en": "",
+    "zh": "adj. 阿拉伯的；n. 阿拉伯人；阿拉伯马"
+  },
+  "paris-based": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．总部位于巴黎的：指公司、组织或个人在法国巴黎设立总部或主要运营地。"
+  },
+  "business-owners": {
+    "ph": "",
+    "en": "",
+    "zh": "企业主：拥有或经营一家企业的人。"
+  },
+  "family": {
+    "ph": "/ˈfæməli/",
+    "en": "",
+    "zh": "n. 家，家庭；家属，亲属；家族；子女，孩子；（动植物的）科；语族；祖先； 一窝（动物）； 有组织的犯罪团伙；（具有明显共同特征的）一类东西；（在某些方面）像家人一样的一群人；（数）族；派别；氏族"
+  },
+  "etc": {
+    "ph": "/ˌet ˈsetərə/",
+    "en": "",
+    "zh": "abbr. 等等，及其他（et cetera）"
+  },
+  "vast": {
+    "ph": "/væst/",
+    "en": "",
+    "zh": "adj. 巨大的，广大的；n. <古>广阔空间；【名】 （Vast）（法）瓦斯特（人名）"
+  },
+  "aren't": {
+    "ph": "/ɑːrnt/",
+    "en": "",
+    "zh": "abbr. are not 的缩略形式，表示“不是”；口语疑问句或附加疑问句中可代替 am not（如 Aren't I?）"
+  },
+  "re-locating": {
+    "ph": "/ˌriːˈloʊkeɪtɪŋ/",
+    "en": "",
+    "zh": "n. 重新安置，迁移（relocate 的动名词形式）；v. 重新安置，迁移（relocate 的现在分词形式）"
+  },
+  "samuel": {
+    "ph": "/ˈsæmjʊəl/",
+    "en": "",
+    "zh": "n. 撒母耳（希伯来先知）；塞缪尔（男子名）；《撒母耳记》（《圣经·旧约》书卷）"
+  },
+  "pete": {
+    "ph": "/piːt/",
+    "en": "",
+    "zh": "n. 保险箱，银箱"
+  },
+  "europeans": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 欧洲人（European 的复数）"
+  },
+  "atlantic": {
+    "ph": "/ətˈlæntɪk/",
+    "en": "",
+    "zh": "n. （Atlantic）（美）艾克朗提克（人名）"
+  },
+  "et": {
+    "ph": "/et/",
+    "en": "",
+    "zh": "abbr. 埃塞俄比亚的网络域名；abbr. （ET）东部时间（Eastern Time）；埃及（Egypt）；外星人（Extraterrestrial）；abbr. （Et）乙烷基（ethyl）"
+  },
+  "best-loved": {
+    "ph": "/best lʌvd/",
+    "en": "",
+    "zh": "adj. 最喜欢的"
+  },
+  "mileage": {
+    "ph": "/ˈmaɪlɪdʒ/",
+    "en": "",
+    "zh": "n. 行驶里程；英里数；好处，益处；按英里支付的交通补贴"
+  },
+  "vary": {
+    "ph": "/ˈveri/",
+    "en": "",
+    "zh": "v. （使）不同，（使）呈现差异；（根据情况而）变化，改变；改变，使……变化；变奏；【名】 （Vary）（英、法、罗、柬）瓦里（人名）"
+  },
+  "ivf": {
+    "ph": "/ˌaɪ viː ˈef/",
+    "en": "",
+    "zh": "abbr. 体外受精，即试管受精（in-vitro fertilization 的缩写）"
+  },
+  "sigal": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 西加尔（人名）"
+  },
+  "sex": {
+    "ph": "/seks/",
+    "en": "",
+    "zh": "n. 性行为，性交；性，性别；雄性，雌性；性器官（用于小说中避免更粗俗或更露骨的措词）；v. 辨别......的性别，辨识......的雌雄；<非正式> 引起……的性欲"
+  },
+  "kid": {
+    "ph": "/kɪd/",
+    "en": "",
+    "zh": "n. 小孩，年轻人；小山羊；小山羊皮革；v. 戏弄，开玩笑；欺骗，哄骗；（山羊）分娩；adj. 较年幼的；小山羊皮制的；【名】 （Kid）（英）基德（人名）"
+  },
+  "they'll": {
+    "ph": "/ðel/",
+    "en": "",
+    "zh": "contr. 他们将（they will）；他们应（they shall）"
+  },
+  "parent": {
+    "ph": "/ˈperənt/",
+    "en": "",
+    "zh": "n. 父亲（或母亲）；（动植物的）亲代，亲本；母公司，总公司；母体，本体；v. 做……的父亲（或母亲）；为人父母；【名】 （Parent）（英、西）帕伦特，（法）帕朗（人名）"
+  },
+  "owe": {
+    "ph": "/oʊ/",
+    "en": "",
+    "zh": "v. 欠（钱），负账；应该做，应给予；欠（人情），应该感激；归因于，归功于；【名】 （Owe）（瑞典、挪）奥弗（人名）"
+  },
+  "dear": {
+    "ph": "/dɪr/",
+    "en": "",
+    "zh": "adj. 珍视的；(用于信函抬头名字或头衔前)亲爱的；昂贵的；n. （称呼所爱的人）亲爱的；int. 啊，天呐"
+  },
+  "expecting": {
+    "ph": "/ɪkˈspektɪŋ/",
+    "en": "",
+    "zh": "vt. 期待，预期，企盼（expect 的现在分词/动名词）；adj. <非正式>怀孕的，怀有身孕的（常用于 be expecting）"
+  },
+  "unfortunately": {
+    "ph": "/ʌnˈfɔːrtʃənətli/",
+    "en": "",
+    "zh": "adv. 不幸地，遗憾地；<正式>不恰当地，不合适地"
+  },
+  "prey": {
+    "ph": "/preɪ/",
+    "en": "",
+    "zh": "n. 猎物，捕获物；受害者，受骗者；<古>掠夺品；v. 捕食；欺凌，坑害（尤指弱者）；不断困扰，折磨；【名】 （Prey）（美、德、爱）普赖（人名）"
+  },
+  "mind": {
+    "ph": "/maɪnd/",
+    "en": "",
+    "zh": "n. 头脑，大脑；智慧，思维方式；聪明人，富有才智的人；注意力，心思；记忆力；意愿，意向；v. 苦恼，反对；（请求允许或客气地请人做事）介意；不在意，不考虑；愿意做，乐意做；关心，照看；<英>当心，注意；<美>听从"
+  },
+  "iq": {
+    "ph": "/ˌaɪ ˈkjuː/",
+    "en": "",
+    "zh": "abbr. 智力商数，智商（intelligence quotient）；进口限额（import quota）"
+  },
+  "gamlen": {
+    "ph": "",
+    "en": "",
+    "zh": "加姆伦（加姆伦是德国莱茵兰-普法尔茨州的市镇，总面积5.59平方公里，总人口533人，人口密度95人/平方公里）"
+  },
+  "sasha": {
+    "ph": "/'sɑ:ʃə/",
+    "en": "",
+    "zh": "n. 萨莎（女子名）"
+  },
+  "pre-diabetes": {
+    "ph": "/ˈpriˌdaɪəˈbitɪs/",
+    "en": "",
+    "zh": "n. （医学）糖尿病前期（前驱糖尿病）：血糖水平高于正常范围，但尚未达到糖尿病诊断标准的代谢状态。"
+  },
+  "true": {
+    "ph": "/truː/",
+    "en": "",
+    "zh": "adj. 真实的；正确的；adv. 真实地；准确地；n. 真实；准确；vt. 装准；n. （True）(英)特鲁（人名）"
+  },
+  "you'd": {
+    "ph": "/jʊd/",
+    "en": "",
+    "zh": "contr. 你已经（you had）；你将（you would）"
+  },
+  "typical": {
+    "ph": "/ˈtɪpɪk(ə)l/",
+    "en": "",
+    "zh": "adj. 典型的，有代表性的；一贯的，平常的；不出所料，特有的；象征性的"
+  },
+  "eric": {
+    "ph": "/ˈerɪk/",
+    "en": "",
+    "zh": "埃里克（人名）"
+  },
+  "mild": {
+    "ph": "/maɪld/",
+    "en": "",
+    "zh": "adj. （伤病）不严重的，轻微的；（感觉或表情）不强烈的，微弱的；（惩罚或批评）不严厉的；轻的，不过度的；（味道）清淡的，不刺激的；（药物、化妆品等）柔和的，无副作用的；（肥皂、洗涤液）温和的，不伤皮肤的；（天气）…"
+  },
+  "sad": {
+    "ph": "/sæd/",
+    "en": "",
+    "zh": "adj. 伤心的，难过的；令人伤心的，让人难过的；糟糕的，不能令人接受的；不幸的，可怜的；（歌曲或音乐）显露悲伤的，伤感的；状况不佳的；<非正式>（人）可悲的，不受人尊敬的；<非正式> 老土的，过时的；（面团）发得不好的"
+  },
+  "soma": {
+    "ph": "/ˈsoʊmə/",
+    "en": "",
+    "zh": "n. 身体，躯体；（生物学）体细胞（与生殖细胞相对）；（神经科学）神经元胞体；（吠陀）苏摩（古代仪式中的神圣祭酒）；（吠陀神话）苏摩神（祭酒的人格化神祇）；（历史植物学）苏摩植物（古代制取苏摩汁液的植物）；（Soma…"
+  },
+  "butt": {
+    "ph": "/bʌt/",
+    "en": "",
+    "zh": "n. 烟蒂，烟头；（武器或工具）粗端；笑柄；<美，非正式>屁股；（头的）顶撞；大桶；枪靶，靶场；（尤指接近地面部分的）树干；v. 用头（或角）顶，撞；（使）毗连，相邻；【名】 （Butt）（英）巴特，（俄、德、印、巴…"
+  },
+  "bet": {
+    "ph": "/bet/",
+    "en": "",
+    "zh": "v. 打赌，赌博；<非正式>敢肯定；n. 下注；赌金；预计，猜想；<非正式>有可能成功的人选（或备选行动）；abbr. 在……之间（between）；【名】 （Bet）（美）贝特（人名）"
+  },
+  "wave": {
+    "ph": "/weɪv/",
+    "en": "",
+    "zh": "v. 挥手；挥手示意；挥舞，挥动；飘扬，摆动，摇晃；使（头发）略呈波形；（威胁地）举起（某物）；n. 海浪；大海（the waves）；（活动、行为的）爆发，浪潮；涌现的人（或物）；挥手；波，波状运动；（头发的）卷曲…"
+  },
+  "wand": {
+    "ph": "/wɑːnd/",
+    "en": "",
+    "zh": "n.  魔杖；棍，棒，杖；扫描枪，识别笔；（象征官职的）权杖，权标；<非正式>（乐队指挥的）指挥棒；激光指示棒，激光笔；（地勤人员夜间引导飞机起飞前或着陆后在地面滑行的）手持式照明灯；（塔罗纸牌中的）权杖；嫩枝"
+  },
+  "wee": {
+    "ph": "/wiː/",
+    "en": "",
+    "zh": "adj. 极小的；微量的；n. 小便，排尿；尿；（Wee）（美）黄（人名）；v. 小便，排尿"
+  },
+  "gusev": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Gusev）人名；（俄、芬、英）古谢夫"
+  },
+  "gene": {
+    "ph": "/dʒiːn/",
+    "en": "",
+    "zh": "n. 基因，遗传因子"
+  },
+  "harm": {
+    "ph": "/hɑːrm/",
+    "en": "",
+    "zh": "n. 伤害，损害；v. 危害，损害（某事物）；伤害（人或动物）；【名】 （Harm）（德）哈尔姆（人名）"
+  },
+  "would've": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. would have 的口语缩略式（have 为助动词，后接过去分词）：在虚拟条件句中表示“（要不……）就会”，在推测、预期语境中可译作“应该（已经）”。"
+  },
+  "orchid": {
+    "ph": "/ˈɔːrkɪd/",
+    "en": "",
+    "zh": "n. 兰科植物，兰花；淡紫色"
+  },
+  "technologies": {
+    "ph": "/tekˈnɑːlədʒiz/",
+    "en": "",
+    "zh": "n. 技术，科技（technology 的复数）"
+  },
+  "maybe": {
+    "ph": "/ˈmeɪbi/",
+    "en": "",
+    "zh": "adv. （不确定）大概，或许；（提出建议）或许，也许；（赞同并补充信息）或许，也许；（不置可否）也许，或许；n. 可能性，不确定性"
+  },
+  "children's": {
+    "ph": "",
+    "en": "",
+    "zh": "adj. 孩子们的，儿童的"
+  },
+  "company's": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 公司的"
+  },
+  "that'll": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. （口语）“that will”的缩略形式，表示“那将”或“那会”。"
+  },
+  "julian": {
+    "ph": "/ˈdʒuːliən/",
+    "en": "",
+    "zh": "n. 朱利安（男子名，也用作姓氏）；尤利安（罗马皇帝，史称“背教者”）；adj. 凯撒的；儒略历的（Julian calendar）；儒略日的（Julian day）"
+  },
+  "child's": {
+    "ph": "",
+    "en": "",
+    "zh": "儿童的"
+  },
+  "love": {
+    "ph": "/lʌv/",
+    "en": "",
+    "zh": "n. （对家庭成员或挚友的）喜爱，关爱；爱情，恋爱；喜好，喜爱；<英，非正式>（昵称）亲爱的；（用于信尾署名前）爱你的；心爱之人，心爱之物；（网球、软式墙网球和其他运动）零分；<非正式>（用于表示对某人的亲切好感）宝…"
+  },
+  "non-enhanced": {
+    "ph": "",
+    "en": "",
+    "zh": "非强化的"
+  },
+  "well-being": {
+    "ph": "/ˈwel biːɪŋ/",
+    "en": "",
+    "zh": "n. 幸福，安康；（国家的）繁荣"
+  },
+  "alzheimer's": {
+    "ph": "/ˈɑːltshaɪmərz/",
+    "en": "",
+    "zh": "n. 阿尔茨海默病（Alzheimer's disease 的简称），老年痴呆症，阿兹海默症"
+  },
+  "rank": {
+    "ph": "/ræŋk/",
+    "en": "",
+    "zh": "n. 军衔，军阶；（社会、团体中的）地位，等级；（尤指较高的）地位；（警察、士兵等的）队列，行列；排，列；横排，棋盘横格；组织（或机构等）中的全体人员（ranks）；普通士兵（the ranks）；<英>出租车候车站…"
+  },
+  "math": {
+    "ph": "/mæθ/",
+    "en": "",
+    "zh": "n. <美>数学（等于 mathematics）；（Math）人名：（德）马特；（柬）马；（英）马思"
+  },
+  "noor": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 努尔（阿拉伯人名，可作男子名或女子名，源自阿拉伯语，意为“光”）"
+  },
+  "siddiqui": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Siddiqui）人名；（巴基、孟、阿富）西迪基"
+  },
+  "nobel": {
+    "ph": "/noʊˈbel/",
+    "en": "",
+    "zh": "n. （美、印、巴）诺贝尔（人名）"
+  },
+  "herbert": {
+    "ph": "/ˈhɜːrbərt/",
+    "en": "",
+    "zh": "n. 赫伯特（英语男子名）；赫伯特（英语姓氏）"
+  },
+  "simon": {
+    "ph": "/ˈsaɪmən/",
+    "en": "",
+    "zh": "n. 西蒙（男子名）"
+  },
+  "axis": {
+    "ph": "/ˈæksɪs/",
+    "en": "",
+    "zh": "n. 轴，轴线；对称中心线，对称轴；（国家间的）联盟；斑鹿（=chital，复数axis）"
+  },
+  "tay-sachs": {
+    "ph": "/'tei'sæks/",
+    "en": "",
+    "zh": "n. 家族黑蒙性白痴；adj. 家族黑蒙性白痴病的"
+  },
+  "laser-focused": {
+    "ph": "",
+    "en": "",
+    "zh": "激光聚焦"
+  },
+  "happy": {
+    "ph": "/ˈhæpi/",
+    "en": "",
+    "zh": "adj. 快乐的；幸福的，使人高兴的；满意的；乐意的；幸运的；合适的；comb. <非正式>滥用……的；【名】 （Happy）（英、瑞典、喀）哈皮（人名）"
+  },
+  "patient-reported": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．患者报告的：由患者提供的关于病情、治疗效果或生活质量等方面的信息。"
+  },
+  "deal": {
+    "ph": "/diːl/",
+    "en": "",
+    "zh": "n. 大量；交易；坏运气，不公平的对待；发牌；冷衫木；优惠的价格，划算的价格；牌戏的一局；一手牌；v. 应对（难缠的人，困难局面）（deal with）；（以某种方式）对付，对待（deal with）；论及，讨论（d…"
+  },
+  "abby": {
+    "ph": "/ˈæbi/",
+    "en": "",
+    "zh": "n. （Abby）（美）阿碧（人名）"
+  },
+  "brca": {
+    "ph": "",
+    "en": "",
+    "zh": "乳腺癌（Breast Cancer）；英国无线电汽车协会（British Radio Car Association）；美国铁路车辆技术工人工会（Brotherhood of Railway Carmen of Am…"
+  },
+  "well-resourced": {
+    "ph": "",
+    "en": "",
+    "zh": "adj．资源充足的：拥有丰富资源的，具备充足的财力、人力或物力。"
+  },
+  "free": {
+    "ph": "/friː/",
+    "en": "",
+    "zh": "adj. 免费的；自由的；随心所欲的；不含……的；免于，不遭受；空闲的；未使用的，空着的；无阻碍的；不拘泥于原文的；游离的；不吝惜的；干净整洁的；（风）顺的；adv. 自由地；免费地；帆脚索被松开地"
+  },
+  "silicon": {
+    "ph": "/ˈsɪlɪkən/",
+    "en": "",
+    "zh": "n. 硅（一种化学元素，符号为 Si）"
+  },
+  "valley": {
+    "ph": "/ˈvæli/",
+    "en": "",
+    "zh": "n. 山谷，溪谷，谷地；流域，河谷地区；（Valley）人名；<英>瓦利；<法>瓦莱"
+  },
+  "adhd": {
+    "ph": "/ˌeɪ diː eɪtʃ ˈdiː/",
+    "en": "",
+    "zh": "abbr. 注意力不集中症（attention deficit hyperactivity disorder）"
+  },
+  "lippman": {
+    "ph": "",
+    "en": "",
+    "zh": "李普曼；n. （Lippman）人名；（英、法、瑞典）李普曼"
+  },
+  "sarah": {
+    "ph": "/ˈserə/",
+    "en": "",
+    "zh": "n. 莎拉（女子名）；萨拉（《圣经》中的人物）"
+  },
+  "rereading": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 重读（chóngdú）；v. 重读（reread 的 ing 形式）"
+  },
+  "memorious": {
+    "ph": "/ˈmemərɪəs/",
+    "en": "",
+    "zh": "adj. 记忆力强的"
+  },
+  "luis": {
+    "ph": "/ˈlwis/",
+    "en": "",
+    "zh": "n. 路易斯（西班牙语、葡萄牙语常见男子名）；欧甘字母表中的第二个字母，对应拉丁字母 L"
+  },
+  "borges": {
+    "ph": "/ˈbɔːrhes/",
+    "en": "",
+    "zh": "博格斯（人名）"
+  },
+  "members": {
+    "ph": "/ˈmembər/",
+    "en": "",
+    "zh": "n. （社团、政党等组织的）成员，会员；（某群体或类别中的）一分子（可指人、动物、植物或事物）；（常大写 Member）议员；（加入国际组织的）成员国，会员国；（尤指最低级的）勋章获得者；（复杂设备或结构的）构件；（…"
+  },
+  "parenting": {
+    "ph": "/ˈperəntɪŋ/",
+    "en": "",
+    "zh": "n. 养育子女，育儿；为人父母；（像父母一样对他人的）照顾；v. 做……的父亲（或母亲）（parent 的现在分词形式）"
+  },
+  "relationships": {
+    "ph": "/rɪˈleʃənˈʃɪp/",
+    "en": "",
+    "zh": "n. relationship 的复数（人际关系；情侣关系；事物间的联系；亲属关系；生物间的关系）"
+  },
+  "highlight": {
+    "ph": "/ˈhaɪlaɪt/",
+    "en": "",
+    "zh": "v. 突出，强调；用亮色突出；挑染；n. 最好（或最精彩、最激动人心）的部分；挑染的头发；强光部分"
+  },
+  "hack": {
+    "ph": "/hæk/",
+    "en": "",
+    "zh": "v. 砍，劈；非法侵入（他人计算机系统）；大幅删改（文章）；<非正式>对付，处理；劈出，开辟（道路）；大声咳嗽；猛踢；<英>骑马消遣；在饲草架上放（饲草）；<美，非正式>开出租车；n. 雇佣文人，写手；二流政客，政治…"
+  },
+  "apps": {
+    "ph": "/æps/",
+    "en": "",
+    "zh": "n. 应用程序，应用软件；应用服务"
+  },
+  "funes": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 富内斯（哥伦、西地名）"
+  },
+  "lia": {
+    "ph": "/æˈfiːljə/",
+    "en": "",
+    "zh": "abbr. 铅工业协会（Lead Industries Association）；美国皮革业联合会（Leather Industries of America）；n. （Lia）人名；（罗、意、匈、柬）莉娅（女名），…"
+  },
+  "paris": {
+    "ph": "/ˈpærɪs/",
+    "en": "",
+    "zh": "n. 巴黎（法国首都）；帕里斯（特洛伊王子）"
+  },
+  "guy": {
+    "ph": "/ɡaɪ/",
+    "en": "",
+    "zh": "n. <非正式>男人，家伙；<美，非正式>伙计们，兄弟（或姐妹）们；<英>盖伊模拟像；（帐篷或杆柱的）固定拉绳，牵索；v. 嘲笑，戏弄；用支索稳定（加固）；【名】 （Guy）（英）盖伊，（西）吉，（法）居伊（人名）"
+  },
+  "venice": {
+    "ph": "/ˈvenɪs/",
+    "en": "",
+    "zh": "n. 威尼斯（意大利港市）；威尼斯（美国洛杉矶西部滨海社区，即 Venice Beach）"
+  },
+  "she's": {
+    "ph": "/ʃi:z/",
+    "en": "",
+    "zh": "abbr. she is 的缩合形式，即“她是”；she has 的缩合形式（has 作助动词时尤其常用），即“她有”"
+  },
+  "english": {
+    "ph": "/ˈɪŋɡlɪʃ/",
+    "en": "",
+    "zh": "adj. 英国的；英国人的；英语的，英文的；n. 英语，英文；英语（学科）；（总称）英国人，英格兰人；（台球等的）侧旋；vt. 把……译成英语，把……译成英文"
+  },
+  "william": {
+    "ph": "/ˈwɪljəm/",
+    "en": "",
+    "zh": "n. 威廉（男子名）；钞票，纸币"
+  },
+  "morris": {
+    "ph": "/ˈmɔːrɪs/",
+    "en": "",
+    "zh": "n. （打扮成 Robin Hood 等传奇人物跳的）莫理斯舞；（常大写 Morris）人名，英语姓氏及男子名，莫里斯"
+  },
+  "arms": {
+    "ph": "/ɑːrmz/",
+    "en": "",
+    "zh": "n. 手臂，胳膊（arm 的复数）；（军事）武器，军械；纹章，徽记；v. 武装，配备（arm 的第三人称单数）"
+  },
+  "jorge": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 豪尔赫（西班牙语和葡萄牙语男子名，相当于英语 George）"
+  },
+  "ads": {
+    "ph": "/ædz/",
+    "en": "",
+    "zh": "abbr. 弹药分配系统（Ammunition Delivery System）；可调式避震系统（Adaptive Damping System）"
+  },
+  "shein": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 希音（快时尚电子商务公司）；（缅）幸，（阿拉伯）谢因，（俄）沙因（人名）"
+  },
+  "aur": {
+    "ph": "",
+    "en": "",
+    "zh": "abbr. 御夫座（Auriga）"
+  },
+  "sees": {
+    "ph": "/siːz/",
+    "en": "",
+    "zh": "v. 看见；理解；领会（see 的第三人称单数形式）；abbr. 扩展企业应用套件（Sage Extended Enterprise Suite）"
+  },
+  "robot-vacuum": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 机器人吸尘器，扫地机器人"
+  },
+  "chef": {
+    "ph": "/ʃef/",
+    "en": "",
+    "zh": "n.  厨师，主厨；v. <非正式>当厨师；【名】 （Chef）（法）谢夫（人名）"
+  },
+  "youtube": {
+    "ph": "/ˈjuːtuːb/",
+    "en": "",
+    "zh": "n. 视频网站（可以让用户免费上传、观赏、分享视频短片的热门视频共享网站）"
+  },
+  "shy": {
+    "ph": "/ʃaɪ/",
+    "en": "",
+    "zh": "adj. 害羞的，腼腆的；显得腼腆的，看着羞怯的；（动物）易受惊的，胆小的；犹豫的，有所顾忌的；躲避（或不喜欢）……的；不足的，缺乏的；在……之前（shy of）；（植物）开花不多的，结果很少的"
+  },
+  "tiktok": {
+    "ph": "",
+    "en": "",
+    "zh": "v. 分享抖音短视频（同 TikTok）；n. （TikTok）抖音（字节跳动旗下短视频社交平台）"
+  },
+  "town": {
+    "ph": "/taʊn/",
+    "en": "",
+    "zh": "n. 城镇，市镇； （生活、工作或刚提到的）城镇；（城镇的）商业区，中心区；全体镇民，全镇人；城市生活（与乡村生活相对）；镇政府；【名】 （Town）（英）汤（人名）"
+  },
+  "content-creators": {
+    "ph": "",
+    "en": "",
+    "zh": "内容创作者：内容创作者是指在特定的数字环境中制作和分享信息或媒体内容，以满足特定的受众需求。内容创作包括维护和更新网站、博客写作、文章写作、摄影、摄像、在线评论、社交媒体账号以及编辑和分发数字媒体等各种活动。"
+  },
+  "du": {
+    "ph": "/diːˈju/",
+    "en": "",
+    "zh": "adj. （法语借词）当天供应的，今日特色的；当前流行的，时新的；prep. 法语中 de 与 le 的缩合形式，用于阳性单数名词前，相当于 of the、from the，也可表示部分冠词意义"
+  },
+  "ofcom": {
+    "ph": "/ˈɒfkɒm/",
+    "en": "",
+    "zh": "abbr. Office of Communications <英国>通信管理局"
+  },
+  "year-on-year": {
+    "ph": "/'jə:r,ɔn'jə:, 'jiə,ɔn'jiə/",
+    "en": "",
+    "zh": "adj. 与上年同期数字相比的，同比的；adv. 与上年同期相比，同比"
+  },
+  "june": {
+    "ph": "/dʒuːn/",
+    "en": "",
+    "zh": "n. 六月；琼（女名）"
+  },
+  "vanessa": {
+    "ph": "/vəˈnesə/",
+    "en": "",
+    "zh": "n. 蛱蝶；n. (Vanessa) （美、法）瓦内萨（人名）"
+  },
+  "lucie": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 人名：（英、瑞典、法）露西；（西）卢谢；（德）卢齐厄；（意、罗）卢切"
+  },
+  "on-line": {
+    "ph": "/ˈɔnˈlaɪn/",
+    "en": "",
+    "zh": "adj. 在线的；即时的"
+  },
+  "haven't": {
+    "ph": "/ˈhævnt/",
+    "en": "",
+    "zh": "v. have not 的常用口语缩略形式，表示“没有”“尚未”，后接过去分词构成否定现在完成时，也可用于否定 have got、have to 等结构"
+  },
+  "snapchat": {
+    "ph": "",
+    "en": "",
+    "zh": "色拉布（照片分享平台）"
+  },
+  "matt": {
+    "ph": "/mæt/",
+    "en": "",
+    "zh": "adj. 不光亮的，无光泽的，哑光的；n. 无光泽颜色、涂层，哑光漆；（图画或相片的）衬底，镶边；v. 使……无光泽；abbr. （Matt）马太，马太福音（Matthew）；n. （Matt） （美、德）马特（人名）"
+  },
+  "barometre": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 气压表；晴雨表"
+  },
+  "lalo": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Lalo）人名；（法、塞）拉洛"
+  },
+  "feed": {
+    "ph": "/fiːd/",
+    "en": "",
+    "zh": "v. 饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；使（缓慢平稳地）移动，使穿过（有限的空间）；<非正式>维持，满足（习惯）；…"
+  },
+  "app": {
+    "ph": "/æp/",
+    "en": "",
+    "zh": "abbr. （计算机）应用程序，应用软件；<美，非正式>开胃菜；【名】  （App）（美、德、巴）阿普（人名）；（App）（美、德、巴）阿普（人名）"
+  },
+  "meta": {
+    "ph": "/ˈmetə/",
+    "en": "",
+    "zh": "pref. 表示“变化”“变换”之义；n. （Meta）人名；（德、俄、罗、塞、葡、意、英）梅塔（女子教名 Margaret 的昵称）"
+  },
+  "behind-the-scenes": {
+    "ph": "/bi'haindðə'si:nz, bi'haind'si:n/",
+    "en": "",
+    "zh": "adj. 幕后的，不公开的，暗中进行的（多作定语）"
+  },
+  "core": {
+    "ph": "/kɔːr/",
+    "en": "",
+    "zh": "n. 果核；中心部分；核心，要点；骨干，核心成员；地核，天体的核心；核反应堆堆芯；芯体；v. 给……去核；adj. 核心的，最重要的；基础的，必修的；【名】 （Core）（英）科尔，（西、意）科雷（人名）"
+  },
+  "grow": {
+    "ph": "/ɡroʊ/",
+    "en": "",
+    "zh": "v. 长大，成长；成活，生长；发展，增加；逐渐变得；产生，形成；栽种，种植；留长，蓄；变长；【名】 （Grow）（英）格罗（人名）"
+  },
+  "zap": {
+    "ph": "/zæp/",
+    "en": "",
+    "zh": "v. <非正式>突然攻击并杀死或摧毁；在游戏等中打败对手；清除，除去，删除；用微波炉烹煮或加热；迅速做；快速移动；快速变换频道；快速传递（信息）；n. <非正式>活力，精力；震击（突然的电击或冲击）"
+  },
+  "whatsapp": {
+    "ph": "",
+    "en": "",
+    "zh": "n. 一款免费的跨平台即时通讯应用程序，支持文字消息、语音和视频通话、图片、视频及文件发送等功能"
+  },
+  "ice-cream": {
+    "ph": "/ˈaɪs kriːm/",
+    "en": "",
+    "zh": "n. 冰淇淋，冰激凌；（可数）一客冰淇淋或冰淇淋蛋卷；adj. 冰淇淋的，含冰淇淋的；乳白色的，奶白色的"
+  },
+  "mush": {
+    "ph": "/mʌʃ/",
+    "en": "",
+    "zh": "n. 软块，糊状物；浓粥，玉米糊（玉米面煮成的稠粥，尤用于美国）；感伤的话，多愁善感的作品（常含贬义）；狗拉雪橇之行；vi. 乘狗拉雪橇在雪地上行进；vt. 把…捣成糊状，碾碎，粉碎"
+  },
+  "slop": {
+    "ph": "/slɑːp/",
+    "en": "",
+    "zh": "v. （液体）溢出；（使）溅出；漫不经心地倒、洒、涂（或敷）；用泔脚喂（动物）；懒散地闲逛，踏着泥水走；过分情绪化地说（或写）；n. 泔脚水，猪食；淡而无味的半流质食物；溢出的液体，脏水，污水；<旧>尿；感伤（或煽情…"
+  },
+  "tool": {
+    "ph": "/tuːl/",
+    "en": "",
+    "zh": "n. （尤指手用）工具；（完成工作或达到目标的）工具，手段；受人利用的人，工具；<忌，俚>阴茎；容易被利用（或欺骗）的人，蠢人；（计算机）工具；（书籍装订时的）压印图案；v. 驱车兜风，驾车到处跑；（用工具）制作，在…"
+  },
+  "days": {
+    "ph": "/deɪz/",
+    "en": "",
+    "zh": "n. 天，日（day 的复数形式）；时期，时代，岁月；adv. 每天；在白天"
+  },
+  "joke": {
+    "ph": "/dʒoʊk/",
+    "en": "",
+    "zh": "n. 笑话，玩笑；荒唐可笑的人（或事物），笑料；恶作剧，捉弄人的玩笑；v. 说笑话，开玩笑；取笑，开……的玩笑；【名】 （Joke）（英）乔克，（塞）约凯（人名）"
+  },
+  "navarra": {
+    "ph": "",
+    "en": "",
+    "zh": "n. （Navarra）人名；（意、西）纳瓦拉"
+  },
+  "geekout": {
+    "ph": "",
+    "en": "",
+    "zh": "极客狂欢：一种聚会或活动，参与者通常是对某一领域（如科技、游戏、漫画等）有浓厚兴趣的人，他们在此类活动中分享知识、交流想法和展示自己的独特技能。"
+  },
+  "more-or-less": {
+    "ph": "",
+    "en": "",
+    "zh": "在某种程度上或程度不确定地，或者大致上，差不多"
+  },
+  "can't-miss": {
+    "ph": "",
+    "en": "",
+    "zh": "adj. 一定能成功的，不会有错的"
   }
 }
