@@ -53463,5 +53463,340 @@
     "p": "/ˈpeŋɡwɪnz/",
     "t": "企鹅",
     "en": "flightless seabirds of the Antarctic"
+  },
+  "ritual": {
+    "p": "/ˈrɪtʃuəl/",
+    "t": "仪式；例行公事",
+    "en": "a religious or solemn ceremony; a set of actions performed regularly"
+  },
+  "frigid": {
+    "p": "/ˈfrɪdʒɪd/",
+    "t": "寒冷的；冷淡的",
+    "en": "very cold; lacking warmth or sexual desire"
+  },
+  "drowsier": {
+    "p": "/ˈdraʊziə/",
+    "t": "更困倦的",
+    "en": "more sleepy or lethargic"
+  },
+  "refreshed": {
+    "p": "/rɪˈfreʃt/",
+    "t": "恢复精神的；清爽的",
+    "en": "having regained energy or vitality"
+  },
+  "nightly": {
+    "p": "/ˈnaɪtli/",
+    "t": "每夜的；夜间发生的",
+    "en": "happening or done every night"
+  },
+  "quarters": {
+    "p": "/ˈkwɔːtəz/",
+    "t": "住处；四分之一",
+    "en": "lodgings or accommodation; one of four equal parts"
+  },
+  "keenly": {
+    "p": "/ˈkiːnli/",
+    "t": "敏锐地；热切地",
+    "en": "in a sharp, eager, or intense manner"
+  },
+  "correspond": {
+    "p": "/ˌkɒrəˈspɒnd/",
+    "t": "符合；通信",
+    "en": "to match or be similar; to exchange letters"
+  },
+  "daytime": {
+    "p": "/ˈdeɪtaɪm/",
+    "t": "白天",
+    "en": "the period of the day when there is natural light"
+  },
+  "rested": {
+    "p": "/ˈrestɪd/",
+    "t": "休息好的；精力充沛的",
+    "en": "having had enough rest; feeling refreshed"
+  },
+  "shortened": {
+    "p": "/ˈʃɔːtnd/",
+    "t": "缩短的",
+    "en": "made shorter in length or duration"
+  },
+  "disturbed": {
+    "p": "/dɪˈstɜːbd/",
+    "t": "被打扰的；不安的",
+    "en": "interrupted or upset; showing signs of emotional distress"
+  },
+  "mimic": {
+    "p": "/ˈmɪmɪk/",
+    "t": "模仿；模仿者",
+    "en": "to imitate someone or something; a person who imitates"
+  },
+  "fluctuating": {
+    "p": "/ˈflʌktʃueɪtɪŋ/",
+    "t": "波动的；起伏不定的",
+    "en": "rising and falling irregularly; varying"
+  },
+  "marker": {
+    "p": "/ˈmɑːkə/",
+    "t": "标志；记号笔",
+    "en": "an object or sign that indicates something; a pen with a felt tip"
+  },
+  "melatonin": {
+    "p": "/ˌmeləˈtəʊnɪn/",
+    "t": "褪黑激素",
+    "en": "a hormone that regulates sleep-wake cycles"
+  },
+  "overnight": {
+    "p": "/ˌəʊvəˈnaɪt/",
+    "t": "一夜之间；整夜",
+    "en": "during or for the whole night; happening very suddenly"
+  },
+  "leadup": {
+    "p": "/ˈliːdʌp/",
+    "t": "准备阶段；前奏",
+    "en": "the period or events preceding something"
+  },
+  "awoke": {
+    "p": "/əˈwəʊk/",
+    "t": "醒来（awake的过去式）",
+    "en": "past tense of awake; woke up"
+  },
+  "dictated": {
+    "p": "/dɪkˈteɪtɪd/",
+    "t": "口述的；被支配的",
+    "en": "said aloud for someone to write down; determined or controlled"
+  },
+  "rhythm": {
+    "p": "/ˈrɪðəm/",
+    "t": "节奏；韵律",
+    "en": "a strong, regular repeated pattern of movement or sound"
+  },
+  "camels": {
+    "p": "/ˈkæmlz/",
+    "t": "骆驼（复数）",
+    "en": "large desert animals with humps, plural of camel"
+  },
+  "simulating": {
+    "p": "/ˈsɪmjuleɪtɪŋ/",
+    "t": "模拟；假装",
+    "en": "imitating or replicating the conditions of something"
+  },
+  "discerning": {
+    "p": "/dɪˈsɜːnɪŋ/",
+    "t": "有洞察力的；辨别力强的",
+    "en": "showing good judgment; able to perceive distinctions"
+  },
+  "clocksetter": {
+    "p": "/ˈklɒksetə/",
+    "t": "生物钟设定者",
+    "en": "something that sets or regulates a biological clock"
+  },
+  "adjusted": {
+    "p": "/əˈdʒʌstɪd/",
+    "t": "调整过的；适应的",
+    "en": "altered or modified to fit new conditions"
+  },
+  "lengthened": {
+    "p": "/ˈleŋθənd/",
+    "t": "延长的；加长的",
+    "en": "made longer in duration or extent"
+  },
+  "sleepwake": {
+    "p": "/ˈsliːpweɪk/",
+    "t": "睡眠-觉醒",
+    "en": "relating to the cycle of sleeping and being awake"
+  },
+  "bedroom": {
+    "p": "/ˈbedruːm/",
+    "t": "卧室",
+    "en": "a room for sleeping in"
+  },
+  "modulate": {
+    "p": "/ˈmɒdjuleɪt/",
+    "t": "调节；调制",
+    "en": "to regulate or adjust the degree or intensity of something"
+  },
+  "chronobiologist": {
+    "p": "/ˌkrɒnəʊbaɪˈɒlədʒɪst/",
+    "t": "时间生物学家",
+    "en": "a scientist who studies biological rhythms and timing"
+  },
+  "multidimensional": {
+    "p": "/ˌmʌltidaɪˈmenʃənl/",
+    "t": "多维的",
+    "en": "having or involving several dimensions or aspects"
+  },
+  "homeostat": {
+    "p": "/ˈhəʊmiəstæt/",
+    "t": "体内平衡器",
+    "en": "a hypothetical device or mechanism that maintains internal stability"
+  },
+  "sleepier": {
+    "p": "/ˈsliːpiə/",
+    "t": "更困的",
+    "en": "more tired or drowsy"
+  },
+  "drowsy": {
+    "p": "/ˈdraʊzi/",
+    "t": "困倦的",
+    "en": "sleepy and lethargic"
+  },
+  "arousalpromoting": {
+    "p": "/əˈraʊzlprəˌməʊtɪŋ/",
+    "t": "促进觉醒的",
+    "en": "tending to increase alertness or arousal"
+  },
+  "override": {
+    "p": "/ˌəʊvəˈraɪd/",
+    "t": "推翻；优先于",
+    "en": "to use authority to reject or cancel; to take precedence over"
+  },
+  "acknowledges": {
+    "p": "/əkˈnɒlɪdʒɪz/",
+    "t": "承认；确认",
+    "en": "accepts or admits the existence or truth of something"
+  },
+  "hunter": {
+    "p": "/ˈhʌntə/",
+    "t": "猎人",
+    "en": "a person who hunts animals"
+  },
+  "gatherers": {
+    "p": "/ˈɡæðərəz/",
+    "t": "采集者（复数）",
+    "en": "people who collect wild food, plural of gatherer"
+  },
+  "strike": {
+    "p": "/straɪk/",
+    "t": "袭击；罢工；击打",
+    "en": "to hit or attack; to stop work as a protest"
+  },
+  "shores": {
+    "p": "/ʃɔːz/",
+    "t": "海岸；岸",
+    "en": "the land along the edge of a sea or lake"
+  },
+  "landfall": {
+    "p": "/ˈlændfɔːl/",
+    "t": "登陆；着陆",
+    "en": "the act of a storm or aircraft reaching land"
+  },
+  "imminent": {
+    "p": "/ˈɪmɪnənt/",
+    "t": "即将发生的",
+    "en": "about to happen very soon"
+  },
+  "arrival": {
+    "p": "/əˈraɪvl/",
+    "t": "到达；到来",
+    "en": "the act of reaching a place"
+  },
+  "mainland": {
+    "p": "/ˈmeɪnlænd/",
+    "t": "大陆；本土",
+    "en": "the main area of land of a country, not including islands"
+  },
+  "fortuitous": {
+    "p": "/fɔːˈtjuːɪtəs/",
+    "t": "偶然的；幸运的",
+    "en": "happening by chance, often luckily"
+  },
+  "slashed": {
+    "p": "/slæʃt/",
+    "t": "大幅削减；猛砍",
+    "en": "cut or reduced drastically"
+  },
+  "forecasting": {
+    "p": "/ˈfɔːkɑːstɪŋ/",
+    "t": "预测；预报",
+    "en": "predicting future events, especially weather"
+  },
+  "planetary": {
+    "p": "/ˈplænɪtri/",
+    "t": "行星的；全球的",
+    "en": "relating to planets; worldwide"
+  },
+  "droughts": {
+    "p": "/draʊts/",
+    "t": "干旱",
+    "en": "long periods of unusually low rainfall"
+  },
+  "upside": {
+    "p": "/ˈʌpsaɪd/",
+    "t": "有利的一面；正面",
+    "en": "the positive or advantageous aspect"
+  },
+  "prevents": {
+    "p": "/prɪˈvents/",
+    "t": "阻止；防止",
+    "en": "stops something from happening"
+  },
+  "continental": {
+    "p": "/ˌkɒntɪˈnentl/",
+    "t": "大陆的；大陆性的",
+    "en": "relating to a continent; typical of a mainland"
+  },
+  "rainy": {
+    "p": "/ˈreɪni/",
+    "t": "多雨的",
+    "en": "having a lot of rain"
+  },
+  "stormy": {
+    "p": "/ˈstɔːmi/",
+    "t": "暴风雨的；激烈的",
+    "en": "characterized by storms; full of strong wind and rain"
+  },
+  "disasters": {
+    "p": "/dɪˈzɑːstəz/",
+    "t": "灾难",
+    "en": "events causing great damage or suffering"
+  },
+  "purge": {
+    "p": "/pɜːdʒ/",
+    "t": "清除；净化",
+    "en": "to remove unwanted people or things"
+  },
+  "alerts": {
+    "p": "/əˈlɜːts/",
+    "t": "警报；警示",
+    "en": "warnings about danger or problems"
+  },
+  "clouds": {
+    "p": "/klaʊdz/",
+    "t": "云",
+    "en": "visible masses of water droplets in the sky"
+  },
+  "horizon": {
+    "p": "/həˈraɪzn/",
+    "t": "地平线；视野",
+    "en": "the line where the sky meets the land or sea"
+  },
+  "hysteria": {
+    "p": "/hɪˈstɪəriə/",
+    "t": "歇斯底里；恐慌",
+    "en": "uncontrolled excitement or panic"
+  },
+  "threeletter": {
+    "p": "/ˌθriːˈletə/",
+    "t": "三字母的",
+    "en": "consisting of three letters"
+  },
+  "abbreviation": {
+    "p": "/əˌbriːviˈeɪʃn/",
+    "t": "缩写",
+    "en": "a shortened form of a word or phrase"
+  },
+  "coconut": {
+    "p": "/ˈkəʊkənʌt/",
+    "t": "椰子",
+    "en": "a large brown tropical fruit with hard shell and white flesh"
+  },
+  "unprovable": {
+    "p": "/ʌnˈpruːvəbl/",
+    "t": "无法证明的",
+    "en": "impossible to prove or demonstrate"
+  },
+  "systematic": {
+    "p": "/ˌsɪstəˈmætɪk/",
+    "t": "系统的；有条理的",
+    "en": "done according to a fixed plan or method"
   }
 }
