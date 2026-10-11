@@ -53798,5 +53798,470 @@
     "p": "/ˌsɪstəˈmætɪk/",
     "t": "系统的；有条理的",
     "en": "done according to a fixed plan or method"
+  },
+  "agricultural": {
+    "p": "/ˌæɡrɪˈkʌltʃərəl/",
+    "t": "农业的",
+    "en": "relating to farming or agriculture"
+  },
+  "repurposed": {
+    "p": "/ˌriːˈpɜːpəst/",
+    "t": "被重新利用的",
+    "en": "used for a different purpose than originally intended"
+  },
+  "sturdy": {
+    "p": "/ˈstɜːdi/",
+    "t": "结实的",
+    "en": "strong and unlikely to break or be damaged"
+  },
+  "condos": {
+    "p": "/ˈkɒndəʊz/",
+    "t": "公寓",
+    "en": "apartments in a building where units are individually owned"
+  },
+  "powdery": {
+    "p": "/ˈpaʊdəri/",
+    "t": "粉状的",
+    "en": "resembling or consisting of powder"
+  },
+  "piles": {
+    "p": "/paɪlz/",
+    "t": "堆",
+    "en": "heap or stacks of things placed on top of each other"
+  },
+  "homeowners": {
+    "p": "/ˈhəʊmˌəʊnəz/",
+    "t": "房主",
+    "en": "people who own their homes"
+  },
+  "resisting": {
+    "p": "/rɪˈzɪstɪŋ/",
+    "t": "抵抗",
+    "en": "withstanding or opposing something"
+  },
+  "locale": {
+    "p": "/ləʊˈkɑːl/",
+    "t": "地点",
+    "en": "a place where something happens or is set"
+  },
+  "extruded": {
+    "p": "/ɪkˈstruːdɪd/",
+    "t": "挤出的",
+    "en": "shaped by forcing material through a die"
+  },
+  "aluminium": {
+    "p": "/ˌæljəˈmɪniəm/",
+    "t": "铝",
+    "en": "a light silvery metal used in many products"
+  },
+  "sidings": {
+    "p": "/ˈsaɪdɪŋz/",
+    "t": "外墙板",
+    "en": "boards or panels covering the outside of a building"
+  },
+  "cedar": {
+    "p": "/ˈsiːdə/",
+    "t": "雪松",
+    "en": "a type of evergreen tree or its fragrant wood"
+  },
+  "outlandishsounding": {
+    "p": "/aʊtˈlændɪʃ ˈsaʊndɪŋ/",
+    "t": "听起来古怪的",
+    "en": "seeming strange or bizarre when heard"
+  },
+  "husks": {
+    "p": "/hʌsks/",
+    "t": "外壳",
+    "en": "dry outer coverings of seeds or grains"
+  },
+  "byproduct": {
+    "p": "/ˈbaɪˌprɒdʌkt/",
+    "t": "副产品",
+    "en": "something produced as a secondary result"
+  },
+  "firerated": {
+    "p": "/ˈfaɪəˌreɪtɪd/",
+    "t": "防火等级的",
+    "en": "classified for resistance to fire"
+  },
+  "siding": {
+    "p": "/ˈsaɪdɪŋ/",
+    "t": "外墙板",
+    "en": "a covering for the outside walls of a building"
+  },
+  "pollutant": {
+    "p": "/pəˈluːtənt/",
+    "t": "污染物",
+    "en": "a substance that causes pollution"
+  },
+  "versatile": {
+    "p": "/ˈvɜːsətaɪl/",
+    "t": "多用途的",
+    "en": "able to be used for many different purposes"
+  },
+  "panelling": {
+    "p": "/ˈpænəlɪŋ/",
+    "t": "镶板",
+    "en": "panels used to cover walls or surfaces"
+  },
+  "porches": {
+    "p": "/ˈpɔːtʃɪz/",
+    "t": "门廊",
+    "en": "covered shelters at the entrance of a building"
+  },
+  "throwaway": {
+    "p": "/ˈθrəʊəweɪ/",
+    "t": "一次性的",
+    "en": "designed to be discarded after use"
+  },
+  "pests": {
+    "p": "/pests/",
+    "t": "害虫",
+    "en": "destructive insects or animals"
+  },
+  "harvested": {
+    "p": "/ˈhɑːvɪstɪd/",
+    "t": "收获的",
+    "en": "gathered crops from the fields"
+  },
+  "roadsides": {
+    "p": "/ˈrəʊdsaɪdz/",
+    "t": "路边",
+    "en": "the edges of roads"
+  },
+  "biomass": {
+    "p": "/ˈbaɪəʊmæs/",
+    "t": "生物质",
+    "en": "organic matter used as fuel"
+  },
+  "pioneering": {
+    "p": "/ˌpaɪəˈnɪərɪŋ/",
+    "t": "开创性的",
+    "en": "introducing new ideas or methods"
+  },
+  "repurposing": {
+    "p": "/ˌriːˈpɜːpəsɪŋ/",
+    "t": "重新利用",
+    "en": "using something for a different purpose"
+  },
+  "cement": {
+    "p": "/sɪˈment/",
+    "t": "水泥",
+    "en": "a powdery substance used to make concrete"
+  },
+  "byproducts": {
+    "p": "/ˈbaɪˌprɒdʌkts/",
+    "t": "副产品",
+    "en": "secondary products from a process"
+  },
+  "decompose": {
+    "p": "/ˌdiːkəmˈpəʊz/",
+    "t": "分解",
+    "en": "to break down into simpler substances"
+  },
+  "manufactures": {
+    "p": "/ˌmænjuˈfæktʃəz/",
+    "t": "制造",
+    "en": "makes goods on a large scale"
+  },
+  "decking": {
+    "p": "/ˈdekɪŋ/",
+    "t": "平台木板",
+    "en": "a wooden platform or boards for a deck"
+  },
+  "silica": {
+    "p": "/ˈsɪlɪkə/",
+    "t": "二氧化硅",
+    "en": "a hard mineral compound found in sand and quartz"
+  },
+  "comparatively": {
+    "p": "/kəmˈpærətɪvli/",
+    "t": "相对地",
+    "en": "in comparison to something else"
+  },
+  "shocks": {
+    "p": "/ʃɒks/",
+    "t": "冲击",
+    "en": "sudden upsetting or surprising events"
+  },
+  "depletion": {
+    "p": "/dɪˈpliːʃən/",
+    "t": "枯竭",
+    "en": "reduction of something to a lower level"
+  },
+  "bamboo": {
+    "p": "/ˌbæmˈbuː/",
+    "t": "竹子",
+    "en": "a tall tropical grass with woody stems"
+  },
+  "slowergrowing": {
+    "p": "/ˈsləʊə ˈɡrəʊɪŋ/",
+    "t": "生长较慢的",
+    "en": "growing at a slower rate"
+  },
+  "hardwoods": {
+    "p": "/ˈhɑːdwʊdz/",
+    "t": "硬木",
+    "en": "dense wood from broad-leaved trees"
+  },
+  "residues": {
+    "p": "/ˈrezɪdjuːz/",
+    "t": "残留物",
+    "en": "small amounts left after a process"
+  },
+  "wheat": {
+    "p": "/wiːt/",
+    "t": "小麦",
+    "en": "a cereal grain used to make flour"
+  },
+  "maize": {
+    "p": "/meɪz/",
+    "t": "玉米",
+    "en": "a tall plant grown for its yellow grains"
+  },
+  "locked": {
+    "p": "/lɒkt/",
+    "t": "锁定的",
+    "en": "fastened or secured with a lock"
+  },
+  "lowcarbon": {
+    "p": "/ˌləʊ ˈkɑːbən/",
+    "t": "低碳的",
+    "en": "producing little carbon dioxide"
+  },
+  "nuanced": {
+    "p": "/ˈnjuːɑːnst/",
+    "t": "细致入微的",
+    "en": "having subtle differences or shades of meaning"
+  },
+  "thermal": {
+    "p": "/ˈθɜːməl/",
+    "t": "热的",
+    "en": "relating to heat or temperature"
+  },
+  "acoustics": {
+    "p": "/əˈkuːstɪks/",
+    "t": "声学",
+    "en": "the properties of a space that affect sound"
+  },
+  "southfacing": {
+    "p": "/ˌsaʊθ ˈfeɪsɪŋ/",
+    "t": "朝南的",
+    "en": "facing towards the south"
+  },
+  "insulate": {
+    "p": "/ˈɪnsjuleɪt/",
+    "t": "隔热",
+    "en": "to protect against heat, cold, or sound"
+  },
+  "contractors": {
+    "p": "/kənˈtræktəz/",
+    "t": "承包商",
+    "en": "people or firms hired to do work"
+  },
+  "hesitancy": {
+    "p": "/ˈhezɪtənsi/",
+    "t": "犹豫",
+    "en": "reluctance or unwillingness to act"
+  },
+  "nonload": {
+    "p": "/ˌnɒn ˈləʊd/",
+    "t": "非承重的",
+    "en": "not supporting a structural load"
+  },
+  "bearing": {
+    "p": "/ˈbeərɪŋ/",
+    "t": "承重",
+    "en": "supporting weight or load"
+  },
+  "stabilisers": {
+    "p": "/ˈsteɪbɪlaɪzəz/",
+    "t": "稳定剂",
+    "en": "substances that prevent change or decomposition"
+  },
+  "binder": {
+    "p": "/ˈbaɪndə/",
+    "t": "粘合剂",
+    "en": "a substance that holds materials together"
+  },
+  "straw": {
+    "p": "/strɔː/",
+    "t": "稻草",
+    "en": "dried stalks of grain plants"
+  },
+  "lowcost": {
+    "p": "/ˌləʊ ˈkɒst/",
+    "t": "低成本的",
+    "en": "inexpensive to produce or buy"
+  },
+  "carbonnegative": {
+    "p": "/ˌkɑːbən ˈneɡətɪv/",
+    "t": "负碳的",
+    "en": "removing more carbon dioxide than is emitted"
+  },
+  "mansions": {
+    "p": "/ˈmænʃənz/",
+    "t": "豪宅",
+    "en": "large impressive houses"
+  },
+  "suffers": {
+    "p": "/ˈsʌfəz/",
+    "t": "遭受",
+    "en": "experiences something unpleasant"
+  },
+  "riceproducing": {
+    "p": "/ˈraɪs prəˌdjuːsɪŋ/",
+    "t": "产米的",
+    "en": "producing rice as a crop"
+  },
+  "trips": {
+    "p": "/trɪps/",
+    "t": "旅行；绊倒",
+    "en": "journeys or stumbles"
+  },
+  "restoring": {
+    "p": "/rɪˈstɔːrɪŋ/",
+    "t": "恢复；修复",
+    "en": "bringing back or repairing"
+  },
+  "censorship": {
+    "p": "/ˈsensəʃɪp/",
+    "t": "审查制度",
+    "en": "the suppression of speech or information"
+  },
+  "broadcasters": {
+    "p": "/ˈbrɔːdkɑːstəz/",
+    "t": "广播公司；播音员",
+    "en": "organizations or people that transmit programs"
+  },
+  "intervened": {
+    "p": "/ˌɪntəˈviːnd/",
+    "t": "干预",
+    "en": "became involved to alter an outcome"
+  },
+  "airing": {
+    "p": "/ˈeərɪŋ/",
+    "t": "播出；晾晒",
+    "en": "broadcasting or exposing to air"
+  },
+  "governorappointed": {
+    "p": "/ˈɡʌvənər əˈpɔɪntɪd/",
+    "t": "州长任命的",
+    "en": "appointed by a governor"
+  },
+  "excop": {
+    "p": "/eksˈkɒp/",
+    "t": "前警察",
+    "en": "a former police officer"
+  },
+  "candlelight": {
+    "p": "/ˈkændllaɪt/",
+    "t": "烛光",
+    "en": "the light produced by candles"
+  },
+  "vigil": {
+    "p": "/ˈvɪdʒɪl/",
+    "t": "守夜； vigil",
+    "en": "a period of purposeful sleeplessness or peaceful protest"
+  },
+  "protesters": {
+    "p": "/prəˈtestəz/",
+    "t": "抗议者",
+    "en": "people who express public opposition"
+  },
+  "protesting": {
+    "p": "/prəˈtestɪŋ/",
+    "t": "抗议",
+    "en": "expressing public opposition"
+  },
+  "smalll": {
+    "p": "/smɔːl/",
+    "t": "小的（拼写错误）",
+    "en": "small (misspelling)"
+  },
+  "interned": {
+    "p": "/ɪnˈtɜːnd/",
+    "t": "拘留",
+    "en": "confined during wartime or as a prisoner"
+  },
+  "hyperspecialize": {
+    "p": "/ˌhaɪpəˈspeʃəlaɪz/",
+    "t": "高度专门化",
+    "en": "to specialize to an extreme degree"
+  },
+  "passion": {
+    "p": "/ˈpæʃn/",
+    "t": "激情；热情",
+    "en": "strong emotion or enthusiasm"
+  },
+  "libertarian": {
+    "p": "/ˌlɪbəˈteəriən/",
+    "t": "自由意志主义者",
+    "en": "advocating minimal government intervention"
+  },
+  "aspect": {
+    "p": "/ˈæspekt/",
+    "t": "方面",
+    "en": "a particular part or feature"
+  },
+  "populist": {
+    "p": "/ˈpɒpjəlɪst/",
+    "t": "民粹主义者",
+    "en": "relating to or supporting the concerns of ordinary people"
+  },
+  "selfinterest": {
+    "p": "/ˌself ˈɪntrəst/",
+    "t": "自身利益",
+    "en": "one's personal advantage or benefit"
+  },
+  "sanity": {
+    "p": "/ˈsænəti/",
+    "t": "理智；清醒",
+    "en": "the condition of being mentally sound"
+  },
+  "profree": {
+    "p": "/prəʊˈfriː/",
+    "t": "支持自由的",
+    "en": "in favor of freedom"
+  },
+  "hysterical": {
+    "p": "/hɪˈsterɪkl/",
+    "t": "歇斯底里的",
+    "en": "uncontrollably emotional or funny"
+  },
+  "justification": {
+    "p": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+    "t": "正当理由",
+    "en": "a good reason or explanation"
+  },
+  "authoritarian": {
+    "p": "/ɔːˌθɒrɪˈteəriən/",
+    "t": "威权主义的",
+    "en": "favoring strict obedience to authority"
+  },
+  "topdown": {
+    "p": "/ˌtɒp ˈdaʊn/",
+    "t": "自上而下的",
+    "en": "organized or controlled from the highest level"
+  },
+  "heterodox": {
+    "p": "/ˈhetərədɒks/",
+    "t": "异端的；非正统的",
+    "en": "not conforming to accepted standards or beliefs"
+  },
+  "cyclical": {
+    "p": "/ˈsɪklɪkl/",
+    "t": "周期性的",
+    "en": "occurring in regular cycles"
+  },
+  "whack": {
+    "p": "/wæk/",
+    "t": "重击；一份",
+    "en": "a sharp blow or a share"
+  },
+  "clever": {
+    "p": "/ˈklevə/",
+    "t": "聪明的",
+    "en": "intelligent or skillful"
   }
 }
