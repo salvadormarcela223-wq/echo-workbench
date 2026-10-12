@@ -53463,5 +53463,635 @@
     "p": "/ˈpeŋɡwɪnz/",
     "t": "企鹅",
     "en": "flightless seabirds of the Antarctic"
+  },
+  "agricultural": {
+    "p": "/ˌæɡrɪˈkʌltʃərəl/",
+    "t": "农业的",
+    "en": "relating to farming or agriculture"
+  },
+  "repurposed": {
+    "p": "/ˌriːˈpɜːpəst/",
+    "t": "改作他用的",
+    "en": "used for a different purpose than originally intended"
+  },
+  "sturdy": {
+    "p": "/ˈstɜːdi/",
+    "t": "结实的",
+    "en": "strong and solidly built"
+  },
+  "condos": {
+    "p": "/ˈkɒndəʊz/",
+    "t": "公寓",
+    "en": "apartments in a building where units are individually owned"
+  },
+  "powdery": {
+    "p": "/ˈpaʊdəri/",
+    "t": "粉状的",
+    "en": "resembling or consisting of powder"
+  },
+  "piles": {
+    "p": "/paɪlz/",
+    "t": "堆",
+    "en": "heap or stack of things lying one on top of another"
+  },
+  "homeowners": {
+    "p": "/ˈhəʊmˌəʊnəz/",
+    "t": "房主",
+    "en": "people who own their homes"
+  },
+  "resisting": {
+    "p": "/rɪˈzɪstɪŋ/",
+    "t": "抵抗",
+    "en": "withstanding or opposing something"
+  },
+  "locale": {
+    "p": "/ləʊˈkɑːl/",
+    "t": "地点",
+    "en": "a place where something happens"
+  },
+  "extruded": {
+    "p": "/ɪkˈstruːdɪd/",
+    "t": "挤压成型的",
+    "en": "shaped by being pushed through a die"
+  },
+  "aluminium": {
+    "p": "/ˌæljəˈmɪniəm/",
+    "t": "铝",
+    "en": "a light silvery metal, chemical element Al"
+  },
+  "sidings": {
+    "p": "/ˈsaɪdɪŋz/",
+    "t": "外墙板",
+    "en": "boards or panels covering the outside of a building"
+  },
+  "cedar": {
+    "p": "/ˈsiːdə/",
+    "t": "雪松",
+    "en": "an evergreen coniferous tree with fragrant wood"
+  },
+  "outlandishsounding": {
+    "p": "/aʊtˈlændɪʃ ˈsaʊndɪŋ/",
+    "t": "听起来古怪的",
+    "en": "seeming strange or bizarre when heard"
+  },
+  "husks": {
+    "p": "/hʌsks/",
+    "t": "外壳",
+    "en": "dry outer coverings of grains or seeds"
+  },
+  "byproduct": {
+    "p": "/ˈbaɪˌprɒdʌkt/",
+    "t": "副产品",
+    "en": "a secondary product made during a manufacturing process"
+  },
+  "firerated": {
+    "p": "/ˈfaɪə ˌreɪtɪd/",
+    "t": "防火等级的",
+    "en": "classified according to resistance to fire"
+  },
+  "siding": {
+    "p": "/ˈsaɪdɪŋ/",
+    "t": "外墙板",
+    "en": "a material used to cover the outside walls of a building"
+  },
+  "pollutant": {
+    "p": "/pəˈluːtənt/",
+    "t": "污染物",
+    "en": "a substance that contaminates the environment"
+  },
+  "versatile": {
+    "p": "/ˈvɜːsətaɪl/",
+    "t": "多用途的",
+    "en": "able to adapt to many different functions or activities"
+  },
+  "panelling": {
+    "p": "/ˈpænəlɪŋ/",
+    "t": "镶板",
+    "en": "panels fitted together to form a wall or surface covering"
+  },
+  "porches": {
+    "p": "/ˈpɔːtʃɪz/",
+    "t": "门廊",
+    "en": "covered shelters at the entrance of a building"
+  },
+  "throwaway": {
+    "p": "/ˈθrəʊəweɪ/",
+    "t": "一次性的",
+    "en": "designed to be discarded after use"
+  },
+  "pests": {
+    "p": "/pests/",
+    "t": "害虫",
+    "en": "destructive insects or animals that harm crops or property"
+  },
+  "harvested": {
+    "p": "/ˈhɑːvɪstɪd/",
+    "t": "收割的",
+    "en": "gathered crops from fields"
+  },
+  "roadsides": {
+    "p": "/ˈrəʊdsaɪdz/",
+    "t": "路边",
+    "en": "the edges of roads"
+  },
+  "biomass": {
+    "p": "/ˈbaɪəʊmæs/",
+    "t": "生物质",
+    "en": "organic matter used as a source of energy"
+  },
+  "pioneering": {
+    "p": "/ˌpaɪəˈnɪərɪŋ/",
+    "t": "开创性的",
+    "en": "involving new and innovative methods"
+  },
+  "repurposing": {
+    "p": "/ˌriːˈpɜːpəsɪŋ/",
+    "t": "再利用",
+    "en": "using something for a different purpose"
+  },
+  "cement": {
+    "p": "/sɪˈment/",
+    "t": "水泥",
+    "en": "a powdery substance mixed with water to make concrete"
+  },
+  "byproducts": {
+    "p": "/ˈbaɪˌprɒdʌkts/",
+    "t": "副产品",
+    "en": "secondary products made during a process"
+  },
+  "decompose": {
+    "p": "/ˌdiːkəmˈpəʊz/",
+    "t": "分解",
+    "en": "to break down into simpler components"
+  },
+  "clouds": {
+    "p": "/klaʊdz/",
+    "t": "云",
+    "en": "visible masses of water droplets floating in the sky"
+  },
+  "manufactures": {
+    "p": "/ˌmænjuˈfæktʃəz/",
+    "t": "制造",
+    "en": "makes goods on a large scale"
+  },
+  "decking": {
+    "p": "/ˈdekɪŋ/",
+    "t": "露台地板",
+    "en": "a platform of wooden boards, typically outdoors"
+  },
+  "silica": {
+    "p": "/ˈsɪlɪkə/",
+    "t": "二氧化硅",
+    "en": "a hard compound found in sand and quartz"
+  },
+  "continental": {
+    "p": "/ˌkɒntɪˈnentl/",
+    "t": "大陆的",
+    "en": "relating to a continent"
+  },
+  "comparatively": {
+    "p": "/kəmˈpærətɪvli/",
+    "t": "相对地",
+    "en": "in relation to something else; relatively"
+  },
+  "shocks": {
+    "p": "/ʃɒks/",
+    "t": "冲击",
+    "en": "sudden violent impacts or disturbances"
+  },
+  "depletion": {
+    "p": "/dɪˈpliːʃn/",
+    "t": "枯竭",
+    "en": "the reduction of something in quantity or number"
+  },
+  "bamboo": {
+    "p": "/ˌbæmˈbuː/",
+    "t": "竹子",
+    "en": "a tall woody grass with hollow stems"
+  },
+  "slowergrowing": {
+    "p": "/ˈsləʊə ˈɡrəʊɪŋ/",
+    "t": "生长较慢的",
+    "en": "growing at a slower rate than usual"
+  },
+  "hardwoods": {
+    "p": "/ˈhɑːdwʊdz/",
+    "t": "硬木",
+    "en": "timber from broad-leaved trees, typically dense and durable"
+  },
+  "residues": {
+    "p": "/ˈrezɪdjuːz/",
+    "t": "残余物",
+    "en": "small amounts of something remaining after a process"
+  },
+  "wheat": {
+    "p": "/wiːt/",
+    "t": "小麦",
+    "en": "a cereal grain used to make flour"
+  },
+  "maize": {
+    "p": "/meɪz/",
+    "t": "玉米",
+    "en": "a tall cereal plant producing yellow grains; corn"
+  },
+  "locked": {
+    "p": "/lɒkt/",
+    "t": "锁定的",
+    "en": "fastened or fixed securely"
+  },
+  "lowcarbon": {
+    "p": "/ˌləʊ ˈkɑːbən/",
+    "t": "低碳的",
+    "en": "producing relatively little carbon dioxide emissions"
+  },
+  "nuanced": {
+    "p": "/ˈnjuːɑːnst/",
+    "t": "细致入微的",
+    "en": "characterized by subtle distinctions"
+  },
+  "thermal": {
+    "p": "/ˈθɜːml/",
+    "t": "热的",
+    "en": "relating to heat"
+  },
+  "acoustics": {
+    "p": "/əˈkuːstɪks/",
+    "t": "声学",
+    "en": "the properties of a space that determine how sound is transmitted"
+  },
+  "southfacing": {
+    "p": "/ˌsaʊθ ˈfeɪsɪŋ/",
+    "t": "朝南的",
+    "en": "facing towards the south"
+  },
+  "insulate": {
+    "p": "/ˈɪnsjuleɪt/",
+    "t": "隔热",
+    "en": "to protect against heat, cold, or sound transfer"
+  },
+  "contractors": {
+    "p": "/kənˈtræktəz/",
+    "t": "承包商",
+    "en": "people or firms that undertake building or construction work"
+  },
+  "hesitancy": {
+    "p": "/ˈhezɪtənsi/",
+    "t": "犹豫",
+    "en": "reluctance or unwillingness to act"
+  },
+  "nonload": {
+    "p": "/ˌnɒn ˈləʊd/",
+    "t": "非承重的",
+    "en": "not supporting the weight of a structure"
+  },
+  "bearing": {
+    "p": "/ˈbeərɪŋ/",
+    "t": "承重的",
+    "en": "supporting or carrying a load"
+  },
+  "stabilisers": {
+    "p": "/ˈsteɪbəlaɪzəz/",
+    "t": "稳定剂",
+    "en": "substances added to maintain stability"
+  },
+  "binder": {
+    "p": "/ˈbaɪndə/",
+    "t": "粘合剂",
+    "en": "a substance that holds materials together"
+  },
+  "straw": {
+    "p": "/strɔː/",
+    "t": "稻草",
+    "en": "dried stalks of grain plants"
+  },
+  "lowcost": {
+    "p": "/ˌləʊ ˈkɒst/",
+    "t": "低成本的",
+    "en": "relatively inexpensive"
+  },
+  "carbonnegative": {
+    "p": "/ˌkɑːbən ˈneɡətɪv/",
+    "t": "负碳的",
+    "en": "removing more carbon dioxide than is emitted"
+  },
+  "mansions": {
+    "p": "/ˈmænʃnz/",
+    "t": "豪宅",
+    "en": "large impressive houses"
+  },
+  "suffers": {
+    "p": "/ˈsʌfəz/",
+    "t": "遭受",
+    "en": "experiences something unpleasant or damaging"
+  },
+  "riceproducing": {
+    "p": "/ˈraɪs prəˌdjuːsɪŋ/",
+    "t": "产米的",
+    "en": "producing rice as a crop"
+  },
+  "vegetarian": {
+    "p": "/ˌvedʒəˈteəriən/",
+    "t": "素食者；素食的",
+    "en": "a person who does not eat meat; relating to such a diet"
+  },
+  "veganism": {
+    "p": "/ˈviːɡənɪzəm/",
+    "t": "纯素食主义",
+    "en": "the practice of eating no animal products"
+  },
+  "intolerances": {
+    "p": "/ɪnˈtɒlərənsɪz/",
+    "t": "不耐受；不容忍",
+    "en": "inabilities to tolerate certain foods or differences"
+  },
+  "picky": {
+    "p": "/ˈpɪki/",
+    "t": "挑剔的",
+    "en": "fussy, hard to please"
+  },
+  "steam": {
+    "p": "/stiːm/",
+    "t": "蒸；蒸汽",
+    "en": "to cook with steam; vapor from boiling water"
+  },
+  "answering": {
+    "p": "/ˈɑːnsərɪŋ/",
+    "t": "回答；答复",
+    "en": "responding to a question or call"
+  },
+  "awakening": {
+    "p": "/əˈweɪkənɪŋ/",
+    "t": "觉醒；唤醒",
+    "en": "a coming into awareness; waking up"
+  },
+  "spurts": {
+    "p": "/spɜːts/",
+    "t": "喷发；迸发",
+    "en": "sudden short bursts of activity or growth"
+  },
+  "cured": {
+    "p": "/kjʊəd/",
+    "t": "治愈的；腌制的",
+    "en": "healed; preserved by salting or drying"
+  },
+  "exorbitant": {
+    "p": "/ɪɡˈzɔːbɪtənt/",
+    "t": "过高的",
+    "en": "unreasonably high in price or amount"
+  },
+  "stealing": {
+    "p": "/ˈstiːlɪŋ/",
+    "t": "偷窃",
+    "en": "the act of taking something without permission"
+  },
+  "preconventional": {
+    "p": "/ˌpriːkənˈvenʃənl/",
+    "t": "前习俗的",
+    "en": "relating to an early stage of moral reasoning before social rules"
+  },
+  "morality": {
+    "p": "/məˈræləti/",
+    "t": "道德",
+    "en": "principles concerning right and wrong behavior"
+  },
+  "dictated": {
+    "p": "/dɪkˈteɪtɪd/",
+    "t": "规定的；口述的",
+    "en": "prescribed or commanded; spoken for transcription"
+  },
+  "punishment": {
+    "p": "/ˈpʌnɪʃmənt/",
+    "t": "惩罚",
+    "en": "a penalty imposed for an offense"
+  },
+  "encompass": {
+    "p": "/ɪnˈkʌmpəs/",
+    "t": "包含；涵盖",
+    "en": "to include or surround completely"
+  },
+  "complexity": {
+    "p": "/kəmˈpleksəti/",
+    "t": "复杂性",
+    "en": "the state of being complicated"
+  },
+  "immoral": {
+    "p": "/ɪˈmɒrəl/",
+    "t": "不道德的",
+    "en": "not conforming to accepted moral standards"
+  },
+  "pinpoint": {
+    "p": "/ˈpɪnpɔɪnt/",
+    "t": "精确指出",
+    "en": "to identify or locate exactly"
+  },
+  "freerange": {
+    "p": "/ˌfriː ˈreɪndʒ/",
+    "t": "散养的",
+    "en": "kept in natural conditions rather than confined"
+  },
+  "grassfed": {
+    "p": "/ˈɡrɑːsfed/",
+    "t": "草饲的",
+    "en": "fed on grass rather than grain"
+  },
+  "jarring": {
+    "p": "/ˈdʒɑːrɪŋ/",
+    "t": "刺耳的；令人不安的",
+    "en": "unpleasantly harsh or discordant"
+  },
+  "maturation": {
+    "p": "/ˌmætʃuˈreɪʃn/",
+    "t": "成熟",
+    "en": "the process of becoming mature"
+  },
+  "exclusively": {
+    "p": "/ɪkˈskluːsɪvli/",
+    "t": "仅仅；专门地",
+    "en": "only; solely"
+  },
+  "directives": {
+    "p": "/dəˈrektɪvz/",
+    "t": "指令",
+    "en": "official instructions or orders"
+  },
+  "personhood": {
+    "p": "/ˈpɜːsnhuːd/",
+    "t": "人格；做人",
+    "en": "the quality of being a person"
+  },
+  "carpenter": {
+    "p": "/ˈkɑːpəntə/",
+    "t": "木匠",
+    "en": "a person who makes wooden objects"
+  },
+  "predetermined": {
+    "p": "/ˌpriːdɪˈtɜːmɪnd/",
+    "t": "预先决定的",
+    "en": "decided in advance"
+  },
+  "bythebook": {
+    "p": "/ˌbaɪ ðə ˈbʊk/",
+    "t": "按章办事的",
+    "en": "following rules strictly"
+  },
+  "advocating": {
+    "p": "/ˈædvəkeɪtɪŋ/",
+    "t": "提倡",
+    "en": "publicly supporting or recommending"
+  },
+  "childcentered": {
+    "p": "/ˈtʃaɪldˌsentəd/",
+    "t": "以儿童为中心的",
+    "en": "focused on the needs of the child"
+  },
+  "tutored": {
+    "p": "/ˈtjuːtəd/",
+    "t": "辅导的",
+    "en": "taught individually or in small groups"
+  },
+  "didactic": {
+    "p": "/daɪˈdæktɪk/",
+    "t": "说教的",
+    "en": "intended to teach, often moralizing"
+  },
+  "remind": {
+    "p": "/rɪˈmaɪnd/",
+    "t": "提醒",
+    "en": "to cause someone to remember"
+  },
+  "gardener": {
+    "p": "/ˈɡɑːdnə/",
+    "t": "园丁",
+    "en": "a person who tends a garden"
+  },
+  "entails": {
+    "p": "/ɪnˈteɪlz/",
+    "t": "需要；涉及",
+    "en": "involves as a necessary part"
+  },
+  "ageappropriate": {
+    "p": "/ˈeɪdʒ əˌprəʊpriət/",
+    "t": "适龄的",
+    "en": "suitable for a particular age"
+  },
+  "cuisines": {
+    "p": "/kwɪˈziːnz/",
+    "t": "菜肴；烹饪风格",
+    "en": "styles of cooking, especially of a region"
+  },
+  "veggiefriendly": {
+    "p": "/ˈvedʒiˌfrendli/",
+    "t": "适合素食者的",
+    "en": "suitable for vegetarians"
+  },
+  "ironrich": {
+    "p": "/ˈaɪən rɪtʃ/",
+    "t": "富含铁的",
+    "en": "containing a lot of iron"
+  },
+  "sparks": {
+    "p": "/spɑːks/",
+    "t": "火花；引发",
+    "en": "small flashes; triggers or ignites"
+  },
+  "budding": {
+    "p": "/ˈbʌdɪŋ/",
+    "t": "崭露头角的",
+    "en": "beginning to develop or flourish"
+  },
+  "delectable": {
+    "p": "/dɪˈlektəbl/",
+    "t": "美味的",
+    "en": "delicious; highly enjoyable"
+  },
+  "tasty": {
+    "p": "/ˈteɪsti/",
+    "t": "美味的",
+    "en": "having a pleasant flavor"
+  },
+  "maturing": {
+    "p": "/məˈtʃʊərɪŋ/",
+    "t": "成熟",
+    "en": "becoming fully developed"
+  },
+  "revisited": {
+    "p": "/ˌriːˈvɪzɪtɪd/",
+    "t": "重新审视",
+    "en": "considered or examined again"
+  },
+  "selfproclaimed": {
+    "p": "/ˌself prəˈkleɪmd/",
+    "t": "自称的",
+    "en": "described as such by oneself"
+  },
+  "soybean": {
+    "p": "/ˈsɔɪbiːn/",
+    "t": "大豆",
+    "en": "a legume used for food and oil"
+  },
+  "curds": {
+    "p": "/kɜːdz/",
+    "t": "凝乳",
+    "en": "coagulated milk solids"
+  },
+  "culinary": {
+    "p": "/ˈkʌlɪnəri/",
+    "t": "烹饪的",
+    "en": "relating to cooking"
+  },
+  "preparations": {
+    "p": "/ˌprepəˈreɪʃnz/",
+    "t": "准备工作；配制",
+    "en": "things done to get ready; prepared foods"
+  },
+  "tragically": {
+    "p": "/ˈtrædʒɪkli/",
+    "t": "悲剧性地",
+    "en": "in a very sad or unfortunate way"
+  },
+  "nonvegan": {
+    "p": "/ˌnɒn ˈviːɡən/",
+    "t": "非纯素的",
+    "en": "not conforming to vegan standards"
+  },
+  "nonchild": {
+    "p": "/ˌnɒn ˈtʃaɪld/",
+    "t": "非儿童的",
+    "en": "not relating to a child"
+  },
+  "sprout": {
+    "p": "/spraʊt/",
+    "t": "发芽；豆芽",
+    "en": "to begin to grow; a young shoot"
+  },
+  "sandwiches": {
+    "p": "/ˈsænwɪdʒɪz/",
+    "t": "三明治",
+    "en": "food items with filling between slices of bread"
+  },
+  "brandnew": {
+    "p": "/ˌbrænd ˈnjuː/",
+    "t": "全新的",
+    "en": "completely new"
+  },
+  "chefs": {
+    "p": "/ʃefs/",
+    "t": "厨师",
+    "en": "professional cooks"
+  },
+  "investigates": {
+    "p": "/ɪnˈvestɪɡeɪts/",
+    "t": "调查",
+    "en": "examines or studies systematically"
+  },
+  "establishments": {
+    "p": "/ɪˈstæblɪʃmənts/",
+    "t": "机构；场所",
+    "en": "businesses or organizations"
+  },
+  "rarer": {
+    "p": "/ˈreərə/",
+    "t": "更稀有的",
+    "en": "more uncommon"
   }
 }
