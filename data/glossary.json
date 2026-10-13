@@ -54409,189 +54409,664 @@
     "t": "令人心碎的",
     "en": "causing great sadness"
   },
-  "trifecta": {
-    "p": "/traɪˈfektə/",
-    "t": "三连胜；三重优势",
-    "en": "a set of three successful or desirable things, especially a bet predicting the first three finishers"
+  "overshot": {
+    "p": "/ˌəʊvəˈʃɒt/",
+    "t": "超过；射过头",
+    "en": "went beyond or past a limit or target"
   },
-  "legislative": {
-    "p": "/ˈledʒɪslətɪv/",
-    "t": "立法的",
-    "en": "relating to the making of laws"
+  "biodiverse": {
+    "p": "/ˌbaɪəʊdaɪˈvɜːs/",
+    "t": "生物多样性的",
+    "en": "having a wide variety of plant and animal life"
   },
-  "chambers": {
-    "p": "/ˈtʃeɪmbəz/",
-    "t": "议院；会议厅",
-    "en": "rooms or houses, especially in a legislative or judicial body"
+  "microbiomes": {
+    "p": "/ˌmaɪkrəʊˈbaɪəʊmz/",
+    "t": "微生物组",
+    "en": "communities of microorganisms living in a particular environment"
   },
-  "passionate": {
-    "p": "/ˈpæʃənət/",
-    "t": "热情的；充满激情的",
-    "en": "showing or caused by strong feelings or beliefs"
+  "flora": {
+    "p": "/ˈflɔːrə/",
+    "t": "植物群",
+    "en": "the plants of a particular region or habitat"
   },
-  "electable": {
-    "p": "/ɪˈlektəbl/",
-    "t": "有当选可能的",
-    "en": "capable of being elected; likely to win an election"
+  "sounded": {
+    "p": "/ˈsaʊndɪd/",
+    "t": "听起来；发出声音",
+    "en": "produced a sound; seemed a certain way when heard"
   },
-  "shortsighted": {
-    "p": "/ˌʃɔːtˈsaɪtɪd/",
-    "t": "目光短浅的",
-    "en": "lacking foresight; not considering long-term consequences"
+  "imagined": {
+    "p": "/ɪˈmædʒɪnd/",
+    "t": "想象的；设想",
+    "en": "formed a mental picture of; supposed"
   },
-  "energizing": {
-    "p": "/ˈenədʒaɪzɪŋ/",
-    "t": "令人充满活力的",
-    "en": "making someone feel more energetic and enthusiastic"
+  "salads": {
+    "p": "/ˈsælədz/",
+    "t": "沙拉",
+    "en": "cold dishes of mixed raw or cooked vegetables"
   },
-  "mansion": {
-    "p": "/ˈmænʃn/",
-    "t": "豪宅；大厦",
-    "en": "a large, impressive house"
+  "gamified": {
+    "p": "/ˈɡeɪmɪfaɪd/",
+    "t": "游戏化的",
+    "en": "made into or turned into a game-like activity"
   },
-  "drastically": {
-    "p": "/ˈdræstɪkli/",
-    "t": "急剧地；激烈地",
-    "en": "in a way that is severe or extreme"
+  "earns": {
+    "p": "/ɜːnz/",
+    "t": "赚得；获得",
+    "en": "gains money or rewards through work or effort"
   },
-  "stalled": {
-    "p": "/stɔːld/",
-    "t": "停滞的；抛锚的",
-    "en": "stopped making progress; no longer moving forward"
+  "beans": {
+    "p": "/biːnz/",
+    "t": "豆子",
+    "en": "edible seeds of various plants, eaten as vegetables"
   },
-  "assembly": {
-    "p": "/əˈsembli/",
-    "t": "集会；议会；装配",
-    "en": "a group of people gathered together, especially a legislative body"
+  "pulses": {
+    "p": "/pʌlsɪz/",
+    "t": "豆类（作物）",
+    "en": "the edible seeds of leguminous plants, such as lentils and peas"
   },
-  "legalizing": {
-    "p": "/ˈliːɡəlaɪzɪŋ/",
-    "t": "使合法化",
-    "en": "making something legal"
+  "seeds": {
+    "p": "/siːdz/",
+    "t": "种子",
+    "en": "small parts of plants from which new plants grow"
   },
-  "codifying": {
-    "p": "/ˈkəʊdɪfaɪɪŋ/",
-    "t": "编纂；整理成法典",
-    "en": "arranging laws or rules into a systematic code"
+  "spices": {
+    "p": "/ˈspaɪsɪz/",
+    "t": "香料",
+    "en": "strong-flavoured substances from plants used to flavour food"
   },
-  "repeal": {
-    "p": "/rɪˈpiːl/",
-    "t": "废除；撤销",
-    "en": "to revoke or annul a law"
+  "measurable": {
+    "p": "/ˈmeʒərəbl/",
+    "t": "可测量的",
+    "en": "able to be measured or quantified"
   },
-  "bargaining": {
-    "p": "/ˈbɑːɡənɪŋ/",
-    "t": "讨价还价；谈判",
-    "en": "negotiating over the terms of an agreement"
+  "herbs": {
+    "p": "/hɜːbz/",
+    "t": "香草；草本植物",
+    "en": "plants used for flavouring food or medicine"
   },
-  "publicsector": {
-    "p": "/ˈpʌblɪk sektə/",
-    "t": "公共部门",
-    "en": "the part of the economy controlled by the government"
+  "microbe": {
+    "p": "/ˈmaɪkrəʊb/",
+    "t": "微生物",
+    "en": "a very small living organism, especially a bacterium"
   },
-  "reflected": {
-    "p": "/rɪˈflektɪd/",
-    "t": "反映；反射",
-    "en": "showed or expressed; threw back light or heat"
+  "apples": {
+    "p": "/ˈæplz/",
+    "t": "苹果",
+    "en": "round fruits with red, green, or yellow skin and crisp flesh"
   },
-  "stopping": {
-    "p": "/ˈstɒpɪŋ/",
-    "t": "停止；阻止",
-    "en": "ceasing to move or act; preventing"
+  "cucumbers": {
+    "p": "/ˈkjuːkʌmbəz/",
+    "t": "黄瓜",
+    "en": "long green vegetables with crisp flesh, eaten raw"
   },
-  "achieving": {
-    "p": "/əˈtʃiːvɪŋ/",
-    "t": "实现；达到",
-    "en": "successfully bringing about a desired result"
+  "peppers": {
+    "p": "/ˈpepəz/",
+    "t": "辣椒；胡椒",
+    "en": "vegetables or spices with a hot or mild flavour"
   },
-  "diagnose": {
-    "p": "/ˈdaɪəɡnəʊz/",
-    "t": "诊断",
-    "en": "to identify the nature of an illness or problem"
+  "fresh": {
+    "p": "/freʃ/",
+    "t": "新鲜的",
+    "en": "recently made, picked, or produced; not stale"
   },
-  "grounded": {
-    "p": "/ˈɡraʊndɪd/",
-    "t": "脚踏实地的；有根据的",
-    "en": "sensible and realistic; based on solid reasons"
+  "staples": {
+    "p": "/ˈsteɪplz/",
+    "t": "主食；主要产品",
+    "en": "basic or main foods regularly eaten or used"
   },
-  "pitching": {
-    "p": "/ˈpɪtʃɪŋ/",
-    "t": "推销；投掷",
-    "en": "throwing or presenting something for sale or approval"
+  "sandwich": {
+    "p": "/ˈsænwɪtʃ/",
+    "t": "三明治",
+    "en": "food consisting of fillings between two slices of bread"
   },
-  "disprove": {
-    "p": "/dɪsˈpruːv/",
-    "t": "证明有误",
-    "en": "to show that something is false or invalid"
+  "leftovers": {
+    "p": "/ˈleftəʊvəz/",
+    "t": "剩饭；剩余物",
+    "en": "food remaining after a meal"
   },
-  "demographics": {
-    "p": "/ˌdeməˈɡræfɪks/",
-    "t": "人口统计数据",
-    "en": "statistical data relating to populations"
+  "ontheday": {
+    "p": "/ɒn ðə deɪ/",
+    "t": "当天",
+    "en": "on that particular day"
   },
-  "quoteunquote": {
-    "p": "/ˌkwəʊt ʌnˈkwəʊt/",
-    "t": "所谓；引号引号",
-    "en": "used to indicate that a word or phrase is being quoted, often ironically"
+  "grocery": {
+    "p": "/ˈɡrəʊsəri/",
+    "t": "食品杂货",
+    "en": "food and other items sold in a supermarket"
   },
-  "lowpropensity": {
-    "p": "/ˌləʊ prəˈpensəti/",
-    "t": "低倾向性的",
-    "en": "having a low tendency or inclination to do something"
+  "chickpea": {
+    "p": "/ˈtʃɪkpiː/",
+    "t": "鹰嘴豆",
+    "en": "a round yellow seed of a leguminous plant, used in cooking"
   },
-  "alleys": {
-    "p": "/ˈæliz/",
-    "t": "小巷；胡同",
-    "en": "narrow passages between or behind buildings"
+  "tagine": {
+    "p": "/təˈʒiːn/",
+    "t": "塔吉锅；摩洛哥炖菜",
+    "en": "a North African stew cooked in a conical clay pot"
   },
-  "elitism": {
-    "p": "/eɪˈliːtɪzəm/",
-    "t": "精英主义",
-    "en": "the belief that a society should be led by an elite"
+  "delicious": {
+    "p": "/dɪˈlɪʃəs/",
+    "t": "美味的",
+    "en": "having a very pleasant taste or smell"
   },
-  "hustle": {
-    "p": "/ˈhʌsl/",
-    "t": "忙碌；拼命干；推销",
-    "en": "to work energetically; to push one's way; to obtain by forceful action"
+  "blueberries": {
+    "p": "/ˈbluːbəriz/",
+    "t": "蓝莓",
+    "en": "small dark blue berries"
   },
-  "legislation": {
-    "p": "/ˌledʒɪsˈleɪʃn/",
-    "t": "法律；立法",
-    "en": "laws collectively; the process of making laws"
+  "cabbage": {
+    "p": "/ˈkæbɪdʒ/",
+    "t": "卷心菜",
+    "en": "a large round vegetable with thick green or white leaves"
   },
-  "maneuver": {
-    "p": "/məˈnuːvə/",
-    "t": "策略；机动；操纵",
-    "en": "a movement or series of moves requiring skill; to manipulate"
+  "chickpeas": {
+    "p": "/ˈtʃɪkpiːz/",
+    "t": "鹰嘴豆",
+    "en": "round yellow seeds of a leguminous plant, used in cooking"
   },
-  "reinspire": {
-    "p": "/ˌriːɪnˈspaɪə/",
-    "t": "重新激励",
-    "en": "to inspire again; to fill with renewed enthusiasm"
+  "couscous": {
+    "p": "/ˈkʊskʊs/",
+    "t": "蒸粗麦粉",
+    "en": "small steamed granules of semolina, a North African dish"
   },
-  "squashed": {
-    "p": "/skwɒʃt/",
-    "t": "压扁的；被镇压的",
-    "en": "crushed or flattened; suppressed"
+  "tomatoes": {
+    "p": "/təˈmɑːtəʊz/",
+    "t": "西红柿",
+    "en": "soft red fruits eaten as vegetables"
   },
-  "squashing": {
-    "p": "/ˈskwɒʃɪŋ/",
-    "t": "压扁；镇压",
-    "en": "crushing or flattening; suppressing"
+  "onions": {
+    "p": "/ˈʌnjənz/",
+    "t": "洋葱",
+    "en": "round vegetables with a strong smell and taste, made of layers"
   },
-  "avenues": {
-    "p": "/ˈævənjuːz/",
-    "t": "途径；大道",
-    "en": "ways of approaching or achieving something; broad streets"
+  "raisins": {
+    "p": "/ˈreɪznz/",
+    "t": "葡萄干",
+    "en": "dried grapes"
   },
-  "trickles": {
-    "p": "/ˈtrɪklz/",
-    "t": "细流；缓慢流动",
-    "en": "flows slowly in drops or a thin stream"
+  "listing": {
+    "p": "/ˈlɪstɪŋ/",
+    "t": "列表；清单",
+    "en": "a list or itemized record"
   },
-  "prioritizing": {
-    "p": "/praɪˈɒrətaɪzɪŋ/",
-    "t": "优先处理",
-    "en": "treating something as more important than others"
+  "cereal": {
+    "p": "/ˈsɪəriəl/",
+    "t": "谷物；麦片",
+    "en": "a grain used for food, or a breakfast food made from it"
+  },
+  "quinoa": {
+    "p": "/ˈkiːnwɑː/",
+    "t": "藜麦",
+    "en": "a South American plant with edible seeds used as a grain"
+  },
+  "lentils": {
+    "p": "/ˈlentlz/",
+    "t": "小扁豆",
+    "en": "small dried seeds of a leguminous plant, used in cooking"
+  },
+  "asparagus": {
+    "p": "/əˈspærəɡəs/",
+    "t": "芦笋",
+    "en": "a green vegetable with long edible shoots"
+  },
+  "grilled": {
+    "p": "/ɡrɪld/",
+    "t": "烤的",
+    "en": "cooked over or under direct heat"
+  },
+  "satsuma": {
+    "p": "/ˌsætˈsuːmə/",
+    "t": "萨摩蜜橘",
+    "en": "a small seedless orange-like citrus fruit"
+  },
+  "apple": {
+    "p": "/ˈæpl/",
+    "t": "苹果",
+    "en": "a round fruit with red, green, or yellow skin and crisp flesh"
+  },
+  "broccoli": {
+    "p": "/ˈbrɒkəli/",
+    "t": "西兰花",
+    "en": "a green vegetable with thick stalks and dense flower heads"
+  },
+  "curry": {
+    "p": "/ˈkʌri/",
+    "t": "咖喱",
+    "en": "a dish of meat or vegetables cooked with spices"
+  },
+  "staple": {
+    "p": "/ˈsteɪpl/",
+    "t": "主食；主要的",
+    "en": "a basic or main food regularly eaten"
+  },
+  "potatoes": {
+    "p": "/pəˈteɪtəʊz/",
+    "t": "土豆",
+    "en": "round vegetables that grow underground and are eaten cooked"
+  },
+  "banana": {
+    "p": "/bəˈnɑːnə/",
+    "t": "香蕉",
+    "en": "a long curved fruit with soft yellow flesh"
+  },
+  "cashew": {
+    "p": "/ˈkæʃuː/",
+    "t": "腰果",
+    "en": "a kidney-shaped nut from a tropical tree"
+  },
+  "coconut": {
+    "p": "/ˈkəʊkənʌt/",
+    "t": "椰子",
+    "en": "a large brown tropical fruit with hard shell and white flesh"
+  },
+  "potato": {
+    "p": "/pəˈteɪtəʊ/",
+    "t": "土豆",
+    "en": "a round vegetable that grows underground and is eaten cooked"
+  },
+  "carrots": {
+    "p": "/ˈkærəts/",
+    "t": "胡萝卜",
+    "en": "long orange root vegetables"
+  },
+  "slice": {
+    "p": "/slaɪs/",
+    "t": "片；切片",
+    "en": "a thin flat piece cut from something"
+  },
+  "sourdough": {
+    "p": "/ˈsaʊədəʊ/",
+    "t": "酸面团面包",
+    "en": "bread made from dough fermented with natural yeast"
+  },
+  "milkshake": {
+    "p": "/ˈmɪlkʃeɪk/",
+    "t": "奶昔",
+    "en": "a cold drink made from milk, ice cream, and flavouring"
+  },
+  "cocoa": {
+    "p": "/ˈkəʊkəʊ/",
+    "t": "可可粉",
+    "en": "a powder made from roasted cacao seeds, used to make chocolate"
+  },
+  "pumpkin": {
+    "p": "/ˈpʌmpkɪn/",
+    "t": "南瓜",
+    "en": "a large round orange vegetable with thick skin"
+  },
+  "mince": {
+    "p": "/mɪns/",
+    "t": "肉末；切碎",
+    "en": "meat cut into very small pieces"
+  },
+  "avocados": {
+    "p": "/ˌævəˈkɑːdəʊz/",
+    "t": "牛油果",
+    "en": "pear-shaped tropical fruits with creamy green flesh"
+  },
+  "guacamole": {
+    "p": "/ˌɡwɑːkəˈməʊleɪ/",
+    "t": "牛油果酱",
+    "en": "a Mexican dip made from mashed avocado"
+  },
+  "salsa": {
+    "p": "/ˈsælsə/",
+    "t": "莎莎酱",
+    "en": "a spicy Mexican sauce made from tomatoes, onions, and chillies"
+  },
+  "cucumber": {
+    "p": "/ˈkjuːkʌmbə/",
+    "t": "黄瓜",
+    "en": "a long green vegetable with crisp flesh, eaten raw"
+  },
+  "avocado": {
+    "p": "/ˌævəˈkɑːdəʊ/",
+    "t": "牛油果",
+    "en": "a pear-shaped tropical fruit with creamy green flesh"
+  },
+  "coriander": {
+    "p": "/ˌkɒriˈændə/",
+    "t": "香菜",
+    "en": "an aromatic herb used in cooking"
+  },
+  "noodle": {
+    "p": "/ˈnuːdl/",
+    "t": "面条",
+    "en": "a strip or tube of pasta or dough, cooked in liquid"
+  },
+  "tempeh": {
+    "p": "/ˈtempeɪ/",
+    "t": "天贝",
+    "en": "a fermented soybean product originating in Indonesia"
+  },
+  "cooked": {
+    "p": "/kʊkt/",
+    "t": "煮熟的",
+    "en": "prepared by heating, as food"
+  },
+  "perfection": {
+    "p": "/pəˈfekʃn/",
+    "t": "完美",
+    "en": "the state of being free from flaws or defects"
+  },
+  "mango": {
+    "p": "/ˈmæŋɡəʊ/",
+    "t": "芒果",
+    "en": "a tropical fruit with sweet juicy yellow flesh"
+  },
+  "olives": {
+    "p": "/ˈɒlɪvz/",
+    "t": "橄榄",
+    "en": "small oval fruits with a bitter taste, often pickled"
+  },
+  "sesame": {
+    "p": "/ˈsesəmi/",
+    "t": "芝麻",
+    "en": "small flat seeds of a tropical plant, used in cooking"
+  },
+  "topup": {
+    "p": "/ˈtɒpʌp/",
+    "t": "续杯；补充",
+    "en": "an act of adding more to something to bring it back to full"
+  },
+  "raided": {
+    "p": "/ˈreɪdɪd/",
+    "t": "突袭；搜刮",
+    "en": "entered suddenly to search or steal"
+  },
+  "aubergines": {
+    "p": "/ˈəʊbəʒiːnz/",
+    "t": "茄子",
+    "en": "large purple fruits eaten as vegetables"
+  },
+  "courgettes": {
+    "p": "/kʊəˈʒets/",
+    "t": "西葫芦",
+    "en": "long green vegetables with soft flesh, eaten cooked"
+  },
+  "defrosted": {
+    "p": "/ˌdiːˈfrɒstɪd/",
+    "t": "解冻的",
+    "en": "thawed after being frozen"
+  },
+  "thighs": {
+    "p": "/θaɪz/",
+    "t": "大腿；鸡腿",
+    "en": "the upper part of the leg, or the corresponding cut of poultry"
+  },
+  "aubergine": {
+    "p": "/ˈəʊbəʒiːn/",
+    "t": "茄子",
+    "en": "a large purple fruit eaten as a vegetable"
+  },
+  "lunches": {
+    "p": "/ˈlʌntʃɪz/",
+    "t": "午餐",
+    "en": "meals eaten in the middle of the day"
+  },
+  "snacked": {
+    "p": "/snækt/",
+    "t": "吃零食",
+    "en": "ate a small amount of food between meals"
+  },
+  "fussy": {
+    "p": "/ˈfʌsi/",
+    "t": "挑剔的",
+    "en": "hard to please, especially about food"
+  },
+  "overprepared": {
+    "p": "/ˌəʊvəprɪˈpeəd/",
+    "t": "准备过度的",
+    "en": "prepared more than necessary"
+  },
+  "sprinkle": {
+    "p": "/ˈsprɪŋkl/",
+    "t": "撒；洒",
+    "en": "scatter small drops or particles over something"
+  },
+  "pivots": {
+    "p": "/ˈpɪvəts/",
+    "t": "支点；枢轴；核心（复数）",
+    "en": "central points on which something depends; axes"
+  },
+  "fumbled": {
+    "p": "/ˈfʌmbld/",
+    "t": "笨拙地处理；摸索；搞砸（过去式）",
+    "en": "handled clumsily; made mistakes while doing something"
+  },
+  "retort": {
+    "p": "/rɪˈtɔːt/",
+    "t": "反驳；回嘴",
+    "en": "to reply sharply or angrily"
+  },
+  "antiindian": {
+    "p": "/ˌæntiˈɪndiən/",
+    "t": "反印度的",
+    "en": "opposed to or hostile toward India or Indians"
+  },
+  "stereotypes": {
+    "p": "/ˈsteriətaɪps/",
+    "t": "刻板印象（复数）",
+    "en": "widely held but oversimplified ideas about a group"
+  },
+  "conspicuous": {
+    "p": "/kənˈspɪkjuəs/",
+    "t": "显眼的；引人注目的",
+    "en": "clearly visible; attracting attention"
+  },
+  "freelance": {
+    "p": "/ˈfriːlɑːns/",
+    "t": "自由职业的；做自由职业",
+    "en": "working independently for different employers"
+  },
+  "bigotry": {
+    "p": "/ˈbɪɡətri/",
+    "t": "偏执；顽固的偏见",
+    "en": "intolerant prejudice against a group"
+  },
+  "uneducated": {
+    "p": "/ʌnˈedʒukeɪtɪd/",
+    "t": "未受教育的；无知的",
+    "en": "lacking formal education or knowledge"
+  },
+  "stereotype": {
+    "p": "/ˈsteriətaɪp/",
+    "t": "刻板印象",
+    "en": "an oversimplified fixed idea about a group"
+  },
+  "familyvalues": {
+    "p": "/ˈfæməli ˈvæljuːz/",
+    "t": "家庭价值观",
+    "en": "beliefs emphasizing traditional family structure and morals"
+  },
+  "minorities": {
+    "p": "/maɪˈnɒrətiz/",
+    "t": "少数群体；少数民族（复数）",
+    "en": "groups smaller in number than the dominant group"
+  },
+  "picking": {
+    "p": "/ˈpɪkɪŋ/",
+    "t": "挑选；采摘",
+    "en": "selecting or gathering"
+  },
+  "micro": {
+    "p": "/ˈmaɪkrəʊ/",
+    "t": "微小的；微观的",
+    "en": "very small; microscopic in scale"
+  },
+  "influx": {
+    "p": "/ˈɪnflʌks/",
+    "t": "涌入；流入",
+    "en": "an arrival of large numbers of people or things"
+  },
+  "liberalization": {
+    "p": "/ˌlɪbrəlaɪˈzeɪʃn/",
+    "t": "自由化",
+    "en": "the process of making laws or systems less restrictive"
+  },
+  "resentment": {
+    "p": "/rɪˈzentmənt/",
+    "t": "怨恨；不满",
+    "en": "bitter indignation at unfair treatment"
+  },
+  "analogically": {
+    "p": "/ˌænəˈlɒdʒɪkli/",
+    "t": "类比地",
+    "en": "by way of analogy; in a comparable manner"
+  },
+  "antiglobalization": {
+    "p": "/ˌæntiˌɡləʊbəlaɪˈzeɪʃn/",
+    "t": "反全球化",
+    "en": "opposition to global economic integration"
+  },
+  "stereotyped": {
+    "p": "/ˈsteriətaɪpt/",
+    "t": "刻板化的；模式化的",
+    "en": "conforming to an oversimplified fixed image"
+  },
+  "antisocial": {
+    "p": "/ˌæntiˈsəʊʃl/",
+    "t": "反社会的；不合群的",
+    "en": "avoiding or hostile to social interaction"
+  },
+  "illegally": {
+    "p": "/ɪˈliːɡəli/",
+    "t": "非法地",
+    "en": "in a way that breaks the law"
+  },
+  "prestigious": {
+    "p": "/preˈstɪdʒəs/",
+    "t": "有声望的；享有盛誉的",
+    "en": "inspiring respect and admiration"
+  },
+  "pragmatism": {
+    "p": "/ˈpræɡmətɪzəm/",
+    "t": "实用主义",
+    "en": "dealing with things practically rather than theoretically"
+  },
+  "outraged": {
+    "p": "/ˈaʊtreɪdʒd/",
+    "t": "愤怒的；义愤填膺的",
+    "en": "very angry; deeply offended"
+  },
+  "justifiably": {
+    "p": "/ˈdʒʌstɪfaɪəbli/",
+    "t": "有理由地；正当地",
+    "en": "in a way that can be shown to be right or reasonable"
+  },
+  "denigrated": {
+    "p": "/ˈdenɪɡreɪtɪd/",
+    "t": "诋毁；贬低（过去式）",
+    "en": "criticized unfairly; disparaged"
+  },
+  "upfront": {
+    "p": "/ˌʌpˈfrʌnt/",
+    "t": "坦率的；预付的",
+    "en": "honest and direct; paid in advance"
+  },
+  "wellensconced": {
+    "p": "/ˌwelɪnˈskɒnst/",
+    "t": "安稳坐落的；地位稳固的",
+    "en": "firmly established in a position"
+  },
+  "flaunt": {
+    "p": "/flɔːnt/",
+    "t": "炫耀；张扬",
+    "en": "to display ostentatiously"
+  },
+  "hating": {
+    "p": "/ˈheɪtɪŋ/",
+    "t": "憎恨；讨厌",
+    "en": "feeling intense dislike for"
+  },
+  "newcomers": {
+    "p": "/ˈnjuːkʌməz/",
+    "t": "新来者；新手（复数）",
+    "en": "people who have recently arrived or joined"
+  },
+  "grind": {
+    "p": "/ɡraɪnd/",
+    "t": "磨碎；苦干；苦差事",
+    "en": "to crush into powder; hard dull work"
+  },
+  "denigrate": {
+    "p": "/ˈdenɪɡreɪt/",
+    "t": "诋毁；贬低",
+    "en": "to criticize unfairly; disparage"
+  },
+  "rightwing": {
+    "p": "/ˌraɪtˈwɪŋ/",
+    "t": "右翼的",
+    "en": "conservative in politics"
+  },
+  "eyebrows": {
+    "p": "/ˈaɪbraʊz/",
+    "t": "眉毛（复数）",
+    "en": "the lines of hair above the eyes"
+  },
+  "coherent": {
+    "p": "/kəʊˈhɪərənt/",
+    "t": "连贯的；一致的",
+    "en": "logical and consistent"
+  },
+  "unamerican": {
+    "p": "/ˌʌnəˈmerɪkən/",
+    "t": "非美国的；不符合美国价值观的",
+    "en": "not in accordance with American values"
+  },
+  "drunk": {
+    "p": "/drʌŋk/",
+    "t": "醉的；醉汉",
+    "en": "intoxicated by alcohol"
+  },
+  "cloistered": {
+    "p": "/ˈklɔɪstəd/",
+    "t": "隐居的；与世隔绝的",
+    "en": "secluded from the outside world"
+  },
+  "wellrounded": {
+    "p": "/ˌwelˈraʊndɪd/",
+    "t": "全面的；多才多艺的",
+    "en": "having a broad range of abilities or interests"
+  },
+  "admissions": {
+    "p": "/ədˈmɪʃnz/",
+    "t": "录取；招生；入场",
+    "en": "the process of accepting students; entries"
+  },
+  "extracurriculars": {
+    "p": "/ˌekstrəkəˈrɪkjələz/",
+    "t": "课外活动（复数）",
+    "en": "activities outside the regular curriculum"
+  },
+  "sectors": {
+    "p": "/ˈsektəz/",
+    "t": "部门；行业；扇形（复数）",
+    "en": "distinct parts of an economy or society"
+  },
+  "integration": {
+    "p": "/ˌɪntɪˈɡreɪʃn/",
+    "t": "融合；整合",
+    "en": "the process of combining into a whole"
+  },
+  "footing": {
+    "p": "/ˈfʊtɪŋ/",
+    "t": "立足点；基础；关系",
+    "en": "basis or position on which something stands"
+  },
+  "murderer": {
+    "p": "/ˈmɜːdərə/",
+    "t": "杀人犯；凶手",
+    "en": "a person who commits murder"
+  },
+  "tyrant": {
+    "p": "/ˈtaɪrənt/",
+    "t": "暴君；专制统治者",
+    "en": "a cruel and oppressive ruler"
+  },
+  "scoundrel": {
+    "p": "/ˈskaʊndrəl/",
+    "t": "恶棍；无赖",
+    "en": "a dishonest or unscrupulous person"
   }
 }
