@@ -55233,5 +55233,350 @@
     "p": "/rɪˈhɜːst/",
     "t": "排练；预演",
     "en": "practiced for a performance or event"
+  },
+  "witnessed": {
+    "p": "/ˈwɪtnɪst/",
+    "t": "目睹；见证",
+    "en": "saw (an event) happen"
+  },
+  "elephants": {
+    "p": "/ˈelɪfənts/",
+    "t": "大象（复数）",
+    "en": "large mammals with a trunk and tusks"
+  },
+  "trudging": {
+    "p": "/ˈtrʌdʒɪŋ/",
+    "t": "艰难地行走",
+    "en": "walking slowly and heavily"
+  },
+  "riverbed": {
+    "p": "/ˈrɪvəbed/",
+    "t": "河床",
+    "en": "the bottom of a river"
+  },
+  "stillborn": {
+    "p": "/ˈstɪlbɔːn/",
+    "t": "死产的",
+    "en": "born dead"
+  },
+  "trunk": {
+    "p": "/trʌŋk/",
+    "t": "象鼻；树干；后备箱",
+    "en": "the long nose of an elephant; a large box or case"
+  },
+  "spiritual": {
+    "p": "/ˈspɪrɪtʃuəl/",
+    "t": "精神的；心灵的",
+    "en": "relating to the human spirit or soul"
+  },
+  "intact": {
+    "p": "/ɪnˈtækt/",
+    "t": "完好无损的",
+    "en": "not damaged or broken"
+  },
+  "stiffened": {
+    "p": "/ˈstɪfnd/",
+    "t": "变僵硬；加强",
+    "en": "became rigid or harder to bend"
+  },
+  "poignant": {
+    "p": "/ˈpɔɪnjənt/",
+    "t": "令人心酸的；深刻的",
+    "en": "evoking a keen sense of sadness"
+  },
+  "witnessing": {
+    "p": "/ˈwɪtnəsɪŋ/",
+    "t": "目睹；见证（现在分词）",
+    "en": "seeing something happen"
+  },
+  "twist": {
+    "p": "/twɪst/",
+    "t": "扭动；转折",
+    "en": "to bend or turn something; an unexpected change"
+  },
+  "calves": {
+    "p": "/kɑːvz/",
+    "t": "小牛；小腿（复数）",
+    "en": "young cattle; the back part of the lower legs"
+  },
+  "occasions": {
+    "p": "/əˈkeɪʒnz/",
+    "t": "场合；时机（复数）",
+    "en": "particular times or events"
+  },
+  "revelation": {
+    "p": "/ˌrevəˈleɪʃn/",
+    "t": "揭露；启示",
+    "en": "a surprising fact made known"
+  },
+  "behaving": {
+    "p": "/bɪˈheɪvɪŋ/",
+    "t": "表现；举止",
+    "en": "acting in a particular way"
+  },
+  "reconnect": {
+    "p": "/ˌriːkəˈnekt/",
+    "t": "重新连接",
+    "en": "to connect again"
+  },
+  "traumatised": {
+    "p": "/ˈtrɔːmətaɪzd/",
+    "t": "受创伤的",
+    "en": "deeply distressed or shocked"
+  },
+  "snaps": {
+    "p": "/snæps/",
+    "t": "突然折断；快照（复数）",
+    "en": "breaks suddenly; quick photographs"
+  },
+  "calfs": {
+    "p": "/kɑːfs/",
+    "t": "小牛（复数，非标准拼写）",
+    "en": "young cattle (variant plural)"
+  },
+  "hardy": {
+    "p": "/ˈhɑːdi/",
+    "t": "耐寒的；坚强的",
+    "en": "able to endure difficult conditions"
+  },
+  "riverbeds": {
+    "p": "/ˈrɪvəbedz/",
+    "t": "河床（复数）",
+    "en": "the bottoms of rivers"
+  },
+  "seedpods": {
+    "p": "/ˈsiːdpɒdz/",
+    "t": "种荚（复数）",
+    "en": "pods containing seeds"
+  },
+  "albida": {
+    "p": "/ælˈbiːdə/",
+    "t": "白（用于学名）",
+    "en": "white (used in species names)"
+  },
+  "floodplains": {
+    "p": "/ˈflʌdpleɪnz/",
+    "t": "洪泛平原（复数）",
+    "en": "flat areas beside rivers that flood"
+  },
+  "ecotype": {
+    "p": "/ˈiːkəʊtaɪp/",
+    "t": "生态型",
+    "en": "a genetically distinct population adapted to local conditions"
+  },
+  "lions": {
+    "p": "/ˈlaɪənz/",
+    "t": "狮子（复数）",
+    "en": "large wild cats"
+  },
+  "readily": {
+    "p": "/ˈredɪli/",
+    "t": "容易地；乐意地",
+    "en": "easily; willingly"
+  },
+  "tanks": {
+    "p": "/tæŋks/",
+    "t": "水箱；坦克（复数）",
+    "en": "large containers for liquid; armoured vehicles"
+  },
+  "tolerance": {
+    "p": "/ˈtɒlərəns/",
+    "t": "容忍；耐受性",
+    "en": "the ability to endure something"
+  },
+  "huskies": {
+    "p": "/ˈhʌskiz/",
+    "t": "哈士奇（复数）",
+    "en": "Arctic sled dogs"
+  },
+  "hyena": {
+    "p": "/haɪˈiːnə/",
+    "t": "鬣狗",
+    "en": "a scavenging mammal of Africa and Asia"
+  },
+  "diamond": {
+    "p": "/ˈdaɪəmənd/",
+    "t": "钻石；菱形",
+    "en": "a precious gemstone; a rhombus shape"
+  },
+  "newborn": {
+    "p": "/ˈnjuːbɔːn/",
+    "t": "新生的",
+    "en": "recently born"
+  },
+  "impacting": {
+    "p": "/ɪmˈpæktɪŋ/",
+    "t": "影响；冲击",
+    "en": "having a strong effect on"
+  },
+  "thyroid": {
+    "p": "/ˈθaɪrɔɪd/",
+    "t": "甲状腺",
+    "en": "a gland in the neck that controls metabolism"
+  },
+  "inbreeding": {
+    "p": "/ˈɪnbriːdɪŋ/",
+    "t": "近亲繁殖",
+    "en": "breeding between closely related individuals"
+  },
+  "pedigree": {
+    "p": "/ˈpedɪɡriː/",
+    "t": "血统；系谱",
+    "en": "a record of ancestry"
+  },
+  "savannah": {
+    "p": "/səˈvænə/",
+    "t": "热带草原",
+    "en": "a grassy plain in tropical regions"
+  },
+  "harrowing": {
+    "p": "/ˈhærəʊɪŋ/",
+    "t": "令人痛苦的",
+    "en": "acutely distressing"
+  },
+  "manner": {
+    "p": "/ˈmænə/",
+    "t": "方式；举止",
+    "en": "a way of doing something; behaviour"
+  },
+  "vigil": {
+    "p": "/ˈvɪdʒɪl/",
+    "t": "守夜；监视",
+    "en": "a period of keeping awake to watch or pray"
+  },
+  "trophy": {
+    "p": "/ˈtrəʊfi/",
+    "t": "战利品；奖杯",
+    "en": "a prize or souvenir of success"
+  },
+  "worthy": {
+    "p": "/ˈwɜːði/",
+    "t": "值得的；配得上的",
+    "en": "deserving of"
+  },
+  "conserving": {
+    "p": "/kənˈsɜːvɪŋ/",
+    "t": "保护；节约",
+    "en": "protecting from harm or waste"
+  },
+  "photographer": {
+    "p": "/fəˈtɒɡrəfə/",
+    "t": "摄影师",
+    "en": "a person who takes photographs"
+  },
+  "princess": {
+    "p": "/ˌprɪnˈses/",
+    "t": "公主；王妃",
+    "en": "a female member of a royal family, especially a daughter of a king or queen"
+  },
+  "ambassadorship": {
+    "p": "/æmˈbæsədəʃɪp/",
+    "t": "大使职位；大使任期",
+    "en": "the position or period of office of an ambassador"
+  },
+  "resigned": {
+    "p": "/rɪˈzaɪnd/",
+    "t": "已辞职的；顺从的",
+    "en": "having formally given up a job or position; acceptant of something unpleasant"
+  },
+  "bombshell": {
+    "p": "/ˈbɒmʃel/",
+    "t": "爆炸性消息；令人震惊的事件",
+    "en": "a sudden and shocking piece of news or event"
+  },
+  "solicit": {
+    "p": "/səˈlɪsɪt/",
+    "t": "请求；征求；招揽",
+    "en": "to ask for something formally or earnestly; to seek business or support"
+  },
+  "conceal": {
+    "p": "/kənˈsiːl/",
+    "t": "隐藏；隐瞒",
+    "en": "to keep something secret or prevent it from being seen"
+  },
+  "royalty": {
+    "p": "/ˈrɔɪəlti/",
+    "t": "王室；版税",
+    "en": "members of a royal family; a payment made to an author or inventor for each copy or use"
+  },
+  "exfianc": {
+    "p": "/ˌeksfiˈɒnseɪ/",
+    "t": "前未婚夫/妻",
+    "en": "a former fiancé or fiancée"
+  },
+  "eldest": {
+    "p": "/ˈeldɪst/",
+    "t": "最年长的",
+    "en": "being the oldest of a group, especially among siblings"
+  },
+  "distantly": {
+    "p": "/ˈdɪstəntli/",
+    "t": "遥远地；疏远地",
+    "en": "in a way that is far away or not closely connected"
+  },
+  "exwife": {
+    "p": "/ˌeksˈwaɪf/",
+    "t": "前妻",
+    "en": "a woman to whom someone was formerly married"
+  },
+  "dated": {
+    "p": "/ˈdeɪtɪd/",
+    "t": "过时的；注明日期的",
+    "en": "old-fashioned; marked with a date"
+  },
+  "dealbreakers": {
+    "p": "/ˈdiːlbreɪkəz/",
+    "t": "不可妥协的条件；破坏交易的因素",
+    "en": "factors that cause an agreement or relationship to be rejected"
+  },
+  "innovators": {
+    "p": "/ˈɪnəveɪtəz/",
+    "t": "创新者",
+    "en": "people who introduce new ideas, methods, or products"
+  },
+  "profiting": {
+    "p": "/ˈprɒfɪtɪŋ/",
+    "t": "获利；受益",
+    "en": "gaining money or advantage from something"
+  },
+  "selfdealing": {
+    "p": "/ˌselfˈdiːlɪŋ/",
+    "t": "自我交易；谋取私利",
+    "en": "the act of using one's position to gain personal advantage"
+  },
+  "benefited": {
+    "p": "/ˈbenɪfɪtɪd/",
+    "t": "受益；得到好处",
+    "en": "received an advantage or profit from something"
+  },
+  "embarrassingly": {
+    "p": "/ɪmˈbærəsɪŋli/",
+    "t": "令人尴尬地",
+    "en": "in a way that causes embarrassment or shame"
+  },
+  "unsubtle": {
+    "p": "/ˌʌnˈsʌtl/",
+    "t": "不微妙的；明显的",
+    "en": "not delicate or understated; obvious and blunt"
+  },
+  "superhabitable": {
+    "p": "/ˌsuːpəˈhæbɪtəbl/",
+    "t": "超级宜居的",
+    "en": "more suitable for life than Earth, as of certain exoplanets"
+  },
+  "victories": {
+    "p": "/ˈvɪktəriz/",
+    "t": "胜利；成功",
+    "en": "successes in a contest, battle, or struggle"
+  },
+  "crueler": {
+    "p": "/ˈkruːələ/",
+    "t": "更残酷的",
+    "en": "more cruel; causing more pain or suffering"
+  },
+  "liberals": {
+    "p": "/ˈlɪbərəlz/",
+    "t": "自由主义者；开明人士",
+    "en": "people who hold progressive or reformist political views"
   }
 }
