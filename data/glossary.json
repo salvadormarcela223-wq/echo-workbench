@@ -55578,5 +55578,345 @@
     "p": "/ˈlɪbərəlz/",
     "t": "自由主义者；开明人士",
     "en": "people who hold progressive or reformist political views"
+  },
+  "lifeordeath": {
+    "p": "/ˌlaɪfɔːˈdeθ/",
+    "t": "生死攸关的",
+    "en": "involving the possibility of death"
+  },
+  "swabs": {
+    "p": "/swɒbz/",
+    "t": "拭子；棉签",
+    "en": "small pieces of absorbent material used for taking samples"
+  },
+  "hospitalised": {
+    "p": "/ˈhɒspɪtəlaɪzd/",
+    "t": "住院的",
+    "en": "admitted to and treated in a hospital"
+  },
+  "unwell": {
+    "p": "/ʌnˈwel/",
+    "t": "不舒服的，生病的",
+    "en": "not in good health; ill"
+  },
+  "metagenomic": {
+    "p": "/ˌmetədʒɪˈnɒmɪk/",
+    "t": "宏基因组的",
+    "en": "relating to the study of genetic material from environmental samples"
+  },
+  "resemblance": {
+    "p": "/rɪˈzembləns/",
+    "t": "相似，类似",
+    "en": "the state of being similar to something else"
+  },
+  "coronavirus": {
+    "p": "/kəˈrəʊnəvaɪrəs/",
+    "t": "冠状病毒",
+    "en": "a type of virus that causes respiratory infections"
+  },
+  "kickstarted": {
+    "p": "/ˈkɪkstɑːtɪd/",
+    "t": "启动，促使开始",
+    "en": "started or set in motion"
+  },
+  "frantic": {
+    "p": "/ˈfræntɪk/",
+    "t": "疯狂的，慌乱急促的",
+    "en": "wildly agitated or hurried"
+  },
+  "globe": {
+    "p": "/ɡləʊb/",
+    "t": "地球，世界",
+    "en": "the world; the earth"
+  },
+  "bestknown": {
+    "p": "/ˌbestˈnəʊn/",
+    "t": "最著名的",
+    "en": "most familiar or famous"
+  },
+  "metagenomics": {
+    "p": "/ˌmetədʒɪˈnɒmɪks/",
+    "t": "宏基因组学",
+    "en": "the study of genetic material recovered directly from environmental samples"
+  },
+  "diagnosing": {
+    "p": "/ˈdaɪəɡnəʊzɪŋ/",
+    "t": "诊断",
+    "en": "identifying a disease or condition"
+  },
+  "sepsis": {
+    "p": "/ˈsepsɪs/",
+    "t": "败血症，脓毒症",
+    "en": "a serious condition caused by the body's response to infection"
+  },
+  "unexplained": {
+    "p": "/ˌʌnɪkˈspleɪnd/",
+    "t": "无法解释的，原因不明的",
+    "en": "not explained or accounted for"
+  },
+  "neurological": {
+    "p": "/ˌnjʊərəˈlɒdʒɪkl/",
+    "t": "神经系统的，神经学的",
+    "en": "relating to the nervous system"
+  },
+  "drowsiness": {
+    "p": "/ˈdraʊzinəs/",
+    "t": "困倦，昏昏欲睡",
+    "en": "the state of being sleepy or lethargic"
+  },
+  "headache": {
+    "p": "/ˈhedeɪk/",
+    "t": "头痛",
+    "en": "a pain in the head"
+  },
+  "extracting": {
+    "p": "/ɪkˈstræktɪŋ/",
+    "t": "提取，抽取",
+    "en": "removing or obtaining something from a source"
+  },
+  "sequencing": {
+    "p": "/ˈsiːkwənsɪŋ/",
+    "t": "测序",
+    "en": "determining the order of nucleotides in DNA or RNA"
+  },
+  "databases": {
+    "p": "/ˈdeɪtəbeɪsɪz/",
+    "t": "数据库",
+    "en": "organized collections of data"
+  },
+  "meningitis": {
+    "p": "/ˌmenɪnˈdʒaɪtɪs/",
+    "t": "脑膜炎",
+    "en": "inflammation of the membranes surrounding the brain and spinal cord"
+  },
+  "overreaction": {
+    "p": "/ˌəʊvəriˈækʃn/",
+    "t": "过度反应",
+    "en": "an excessive response to a situation"
+  },
+  "hedge": {
+    "p": "/hedʒ/",
+    "t": "防备，对冲；避免明确表态",
+    "en": "to protect against risk or avoid committing oneself"
+  },
+  "contradictory": {
+    "p": "/ˌkɒntrəˈdɪktəri/",
+    "t": "矛盾的，对立的",
+    "en": "mutually opposed or inconsistent"
+  },
+  "suppressing": {
+    "p": "/səˈpresɪŋ/",
+    "t": "抑制，压制",
+    "en": "preventing or restraining something"
+  },
+  "cerebrospinal": {
+    "p": "/ˌserəbrəʊˈspaɪnl/",
+    "t": "脑脊的",
+    "en": "relating to the brain and spinal cord"
+  },
+  "bathes": {
+    "p": "/beɪðz/",
+    "t": "浸洗，沐浴",
+    "en": "washes or soaks in liquid"
+  },
+  "flagged": {
+    "p": "/flæɡd/",
+    "t": "标记，标示",
+    "en": "marked or highlighted for attention"
+  },
+  "unbeknownst": {
+    "p": "/ˌʌnbɪˈnəʊnst/",
+    "t": "不知情的，未知的",
+    "en": "without the knowledge of"
+  },
+  "transplant": {
+    "p": "/trænsˈplɑːnt/",
+    "t": "移植",
+    "en": "the transfer of an organ or tissue from one body to another"
+  },
+  "hepatitis": {
+    "p": "/ˌhepəˈtaɪtɪs/",
+    "t": "肝炎",
+    "en": "inflammation of the liver"
+  },
+  "highincome": {
+    "p": "/ˌhaɪˈɪnkʌm/",
+    "t": "高收入的",
+    "en": "earning or yielding a high income"
+  },
+  "antiviral": {
+    "p": "/ˌæntiˈvaɪrəl/",
+    "t": "抗病毒的",
+    "en": "effective against viruses"
+  },
+  "spared": {
+    "p": "/speəd/",
+    "t": "幸免，免除",
+    "en": "saved or exempted from something harmful"
+  },
+  "worrisome": {
+    "p": "/ˈwʌrisəm/",
+    "t": "令人担忧的",
+    "en": "causing worry or concern"
+  },
+  "ingest": {
+    "p": "/ɪnˈdʒest/",
+    "t": "摄入，吞食",
+    "en": "to take food or substance into the body"
+  },
+  "immunesuppressing": {
+    "p": "/ɪˈmjuːn səˈpresɪŋ/",
+    "t": "免疫抑制的",
+    "en": "reducing the body's immune response"
+  },
+  "immunosuppressed": {
+    "p": "/ˌɪmjʊnəʊsəˈprest/",
+    "t": "免疫抑制的",
+    "en": "having a weakened immune system"
+  },
+  "poisoning": {
+    "p": "/ˈpɔɪzənɪŋ/",
+    "t": "中毒",
+    "en": "the condition of being harmed by a toxic substance"
+  },
+  "odyssey": {
+    "p": "/ˈɒdɪsi/",
+    "t": "漫长而充满风险的历程",
+    "en": "a long and eventful journey"
+  },
+  "immunocompromised": {
+    "p": "/ˌɪmjʊnəʊˈkɒmprəmaɪzd/",
+    "t": "免疫功能受损的",
+    "en": "having an impaired immune system"
+  },
+  "spurious": {
+    "p": "/ˈspjʊəriəs/",
+    "t": "虚假的，伪造的",
+    "en": "not genuine or valid"
+  },
+  "decluttering": {
+    "p": "/ˌdiːˈklʌtərɪŋ/",
+    "t": "清理，整理",
+    "en": "removing unnecessary items from a space"
+  },
+  "coinfections": {
+    "p": "/ˌkəʊɪnˈfekʃnz/",
+    "t": "合并感染",
+    "en": "simultaneous infections by multiple pathogens"
+  },
+  "ascertain": {
+    "p": "/ˌæsəˈteɪn/",
+    "t": "查明，确定",
+    "en": "to find out or determine with certainty"
+  },
+  "customise": {
+    "p": "/ˈkʌstəmaɪz/",
+    "t": "定制，按需调整",
+    "en": "to modify according to individual requirements"
+  },
+  "tailor": {
+    "p": "/ˈteɪlə/",
+    "t": "调整以适应；裁缝",
+    "en": "to adapt for a particular purpose"
+  },
+  "rolls": {
+    "p": "/rəʊlz/",
+    "t": "名单，名册；卷",
+    "en": "lists or registers; also cylindrical shapes"
+  },
+  "everincreasing": {
+    "p": "/ˌevərɪnˈkriːsɪŋ/",
+    "t": "不断增加的",
+    "en": "continuously growing"
+  },
+  "invasive": {
+    "p": "/ɪnˈveɪsɪv/",
+    "t": "侵入性的，侵袭的",
+    "en": "tending to spread harmfully or enter the body"
+  },
+  "tuberculosis": {
+    "p": "/tjuːˌbɜːkjəˈləʊsɪs/",
+    "t": "结核病",
+    "en": "an infectious disease affecting the lungs"
+  },
+  "parvovirus": {
+    "p": "/ˈpɑːvəʊvaɪrəs/",
+    "t": "细小病毒",
+    "en": "a type of small DNA virus"
+  },
+  "alerts": {
+    "p": "/əˈlɜːts/",
+    "t": "警报，警示",
+    "en": "warnings about danger or a problem"
+  },
+  "epidemics": {
+    "p": "/ˌepɪˈdemɪks/",
+    "t": "流行病",
+    "en": "widespread occurrences of an infectious disease"
+  },
+  "debacle": {
+    "p": "/deɪˈbɑːkl/",
+    "t": "崩溃；惨败",
+    "en": "a sudden disastrous collapse or failure"
+  },
+  "satellite": {
+    "p": "/ˈsætəlaɪt/",
+    "t": "卫星；人造卫星",
+    "en": "an object orbiting a planet, especially a man-made one"
+  },
+  "throttled": {
+    "p": "/ˈθrɒtld/",
+    "t": "抑制；节流；勒死",
+    "en": "controlled or reduced in speed or flow; choked"
+  },
+  "animosity": {
+    "p": "/ˌænɪˈmɒsəti/",
+    "t": "敌意；憎恶",
+    "en": "strong hostility or dislike"
+  },
+  "refineries": {
+    "p": "/rɪˈfaɪnəriz/",
+    "t": "精炼厂；炼油厂",
+    "en": "industrial plants where raw materials are refined"
+  },
+  "elicited": {
+    "p": "/ɪˈlɪsɪtɪd/",
+    "t": "引出；诱出",
+    "en": "drew out or brought forth a response or reaction"
+  },
+  "refinery": {
+    "p": "/rɪˈfaɪnəri/",
+    "t": "精炼厂；炼油厂",
+    "en": "a plant where a substance is refined"
+  },
+  "disruptions": {
+    "p": "/dɪsˈrʌpʃnz/",
+    "t": "中断；扰乱",
+    "en": "disturbances that interrupt normal operations"
+  },
+  "battlefield": {
+    "p": "/ˈbætlfiːld/",
+    "t": "战场",
+    "en": "the area where a battle takes place"
+  },
+  "appreciated": {
+    "p": "/əˈpriːʃieɪtɪd/",
+    "t": "感激；欣赏；增值",
+    "en": "recognized with gratitude or increased in value"
+  },
+  "pegged": {
+    "p": "/peɡd/",
+    "t": "固定；钉住；挂钩",
+    "en": "fixed or stabilized at a certain level"
+  },
+  "survivable": {
+    "p": "/səˈvaɪvəbl/",
+    "t": "可存活的；可幸存的",
+    "en": "able to be survived or endured"
+  },
+  "transit": {
+    "p": "/ˈtrænzɪt/",
+    "t": "运输；过境",
+    "en": "the act or process of passing through or transporting"
   }
 }
