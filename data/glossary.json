@@ -55068,5 +55068,280 @@
     "p": "/ˈskaʊndrəl/",
     "t": "恶棍；无赖",
     "en": "a dishonest or unscrupulous person"
+  },
+  "techs": {
+    "p": "/tɛks/",
+    "t": "技术人员；技术公司",
+    "en": "technicians or technology companies"
+  },
+  "hollow": {
+    "p": "/ˈhɒləʊ/",
+    "t": "空的；空洞的",
+    "en": "having a hole or empty space inside; without real value"
+  },
+  "chasm": {
+    "p": "/ˈkæzəm/",
+    "t": "深渊；鸿沟",
+    "en": "a deep fissure or a profound difference"
+  },
+  "howls": {
+    "p": "/haʊlz/",
+    "t": "嚎叫；咆哮",
+    "en": "long loud cries or wails"
+  },
+  "torture": {
+    "p": "/ˈtɔːtʃə/",
+    "t": "折磨；酷刑",
+    "en": "the infliction of severe pain as punishment or coercion"
+  },
+  "coder": {
+    "p": "/ˈkəʊdə/",
+    "t": "程序员",
+    "en": "a person who writes computer programs"
+  },
+  "unbearable": {
+    "p": "/ʌnˈbeərəbl/",
+    "t": "无法忍受的",
+    "en": "too painful or unpleasant to endure"
+  },
+  "sceptics": {
+    "p": "/ˈskeptɪks/",
+    "t": "怀疑论者",
+    "en": "people inclined to doubt accepted opinions"
+  },
+  "delusional": {
+    "p": "/dɪˈluːʒənl/",
+    "t": "妄想的；错觉的",
+    "en": "having false beliefs despite contrary evidence"
+  },
+  "forbidden": {
+    "p": "/fəˈbɪdn/",
+    "t": "被禁止的",
+    "en": "not allowed; banned"
+  },
+  "abusing": {
+    "p": "/əˈbjuːzɪŋ/",
+    "t": "滥用；虐待",
+    "en": "using wrongly or treating cruelly"
+  },
+  "cruelly": {
+    "p": "/ˈkruːəli/",
+    "t": "残酷地",
+    "en": "in a way that causes pain or suffering"
+  },
+  "rupturing": {
+    "p": "/ˈrʌptʃərɪŋ/",
+    "t": "破裂；断裂",
+    "en": "breaking or bursting apart"
+  },
+  "dehumanise": {
+    "p": "/diːˈhjuːmənaɪz/",
+    "t": "使非人化",
+    "en": "to deprive of human qualities or dignity"
+  },
+  "stoking": {
+    "p": "/ˈstəʊkɪŋ/",
+    "t": "煽动；添燃料",
+    "en": "adding fuel to; intensifying feelings"
+  },
+  "swarms": {
+    "p": "/swɔːmz/",
+    "t": "群；蜂群",
+    "en": "large groups of insects or people moving together"
+  },
+  "compass": {
+    "p": "/ˈkʌmpəs/",
+    "t": "指南针；圆规",
+    "en": "an instrument for finding direction; range or scope"
+  },
+  "baggage": {
+    "p": "/ˈbæɡɪdʒ/",
+    "t": "行李；包袱",
+    "en": "luggage; past experiences or beliefs carried along"
+  },
+  "civilisation": {
+    "p": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "t": "文明",
+    "en": "an advanced stage of human social development"
+  },
+  "contortions": {
+    "p": "/kənˈtɔːʃnz/",
+    "t": "扭曲；扭动",
+    "en": "twisted or bent shapes or movements"
+  },
+  "behalf": {
+    "p": "/bɪˈhɑːf/",
+    "t": "代表；利益",
+    "en": "in the interest of or as representative of"
+  },
+  "consolidating": {
+    "p": "/kənˈsɒlɪdeɪtɪŋ/",
+    "t": "巩固；合并",
+    "en": "making stronger or combining into one"
+  },
+  "disempowerment": {
+    "p": "/ˌdɪsɪmˈpaʊəmənt/",
+    "t": "去权；削弱权力",
+    "en": "the process of taking away power or confidence"
+  },
+  "proponent": {
+    "p": "/prəˈpəʊnənt/",
+    "t": "支持者；拥护者",
+    "en": "a person who advocates for something"
+  },
+  "susceptible": {
+    "p": "/səˈseptəbl/",
+    "t": "易受影响的；敏感的",
+    "en": "likely to be influenced or harmed by something"
+  },
+  "respected": {
+    "p": "/rɪˈspektɪd/",
+    "t": "受尊敬的",
+    "en": "admired and held in high regard"
+  },
+  "manipulate": {
+    "p": "/məˈnɪpjuleɪt/",
+    "t": "操纵；控制",
+    "en": "to control or influence cleverly or unfairly"
+  },
+  "sentient": {
+    "p": "/ˈsentiənt/",
+    "t": "有知觉的",
+    "en": "able to perceive or feel things"
+  },
+  "grant": {
+    "p": "/ɡrɑːnt/",
+    "t": "授予；同意",
+    "en": "to agree to give or allow something"
+  },
+  "freedoms": {
+    "p": "/ˈfriːdəmz/",
+    "t": "自由",
+    "en": "the powers to act, speak, or think without restraint"
+  },
+  "tradeoffs": {
+    "p": "/ˈtreɪdɒfs/",
+    "t": "权衡；取舍",
+    "en": "exchanges involving giving up one thing for another"
+  },
+  "compromises": {
+    "p": "/ˈkɒmprəmaɪzɪz/",
+    "t": "妥协；折中",
+    "en": "settlements reached by mutual concession"
+  },
+  "imprisonment": {
+    "p": "/ɪmˈprɪznmənt/",
+    "t": "监禁",
+    "en": "the state of being confined in prison"
+  },
+  "criticised": {
+    "p": "/ˈkrɪtɪsaɪzd/",
+    "t": "批评；指责",
+    "en": "pointed out faults or expressed disapproval of"
+  },
+  "descent": {
+    "p": "/dɪˈsent/",
+    "t": "下降；血统",
+    "en": "a downward movement; ancestry"
+  },
+  "considerations": {
+    "p": "/kənˌsɪdəˈreɪʃnz/",
+    "t": "考虑；因素",
+    "en": "factors thought about when making a decision"
+  },
+  "nonzero": {
+    "p": "/ˌnɒnˈzɪərəʊ/",
+    "t": "非零的",
+    "en": "not equal to zero"
+  },
+  "nonnegligible": {
+    "p": "/ˌnɒnˈneɡlɪdʒəbl/",
+    "t": "不可忽略的",
+    "en": "not small enough to be ignored"
+  },
+  "uprooting": {
+    "p": "/ʌpˈruːtɪŋ/",
+    "t": "连根拔起；使离开家园",
+    "en": "pulling out by the roots; displacing from a home"
+  },
+  "dealmaking": {
+    "p": "/ˈdiːlmeɪkɪŋ/",
+    "t": "交易；达成协议",
+    "en": "the activity of making business or political agreements"
+  },
+  "facilitating": {
+    "p": "/fəˈsɪlɪteɪtɪŋ/",
+    "t": "促进；使便利",
+    "en": "making an action or process easier"
+  },
+  "paperwork": {
+    "p": "/ˈpeɪpəwɜːk/",
+    "t": "文书工作；文件",
+    "en": "routine clerical work such as filling out forms and keeping records"
+  },
+  "animosity": {
+    "p": "/ˌænɪˈmɒsəti/",
+    "t": "敌意；仇恨",
+    "en": "strong hostility or dislike"
+  },
+  "outspoken": {
+    "p": "/aʊtˈspəʊkən/",
+    "t": "直言的；坦率的",
+    "en": "saying exactly what one thinks without hesitation"
+  },
+  "stripping": {
+    "p": "/ˈstrɪpɪŋ/",
+    "t": "剥去；剥夺",
+    "en": "the act of removing covering or taking something away"
+  },
+  "deporting": {
+    "p": "/dɪˈpɔːtɪŋ/",
+    "t": "驱逐出境",
+    "en": "expelling a foreigner from a country"
+  },
+  "misrecorded": {
+    "p": "/ˌmɪsrɪˈkɔːdɪd/",
+    "t": "记录错误",
+    "en": "recorded incorrectly or inaccurately"
+  },
+  "denaturalize": {
+    "p": "/ˌdiːˈnætʃrəlaɪz/",
+    "t": "剥夺国籍",
+    "en": "to deprive someone of citizenship"
+  },
+  "naturalized": {
+    "p": "/ˈnætʃrəlaɪzd/",
+    "t": "入籍的；归化的",
+    "en": "granted citizenship of a country not one's own"
+  },
+  "denaturalization": {
+    "p": "/ˌdiːˌnætʃrəlaɪˈzeɪʃn/",
+    "t": "剥夺国籍",
+    "en": "the act of depriving a person of citizenship"
+  },
+  "nonpartisan": {
+    "p": "/ˌnɒnpɑːtɪˈzæn/",
+    "t": "无党派的；中立的",
+    "en": "not biased toward any political party"
+  },
+  "harass": {
+    "p": "/ˈhærəs/",
+    "t": "骚扰；侵扰",
+    "en": "to subject someone to aggressive pressure or intimidation"
+  },
+  "guarantees": {
+    "p": "/ˌɡærənˈtiːz/",
+    "t": "保证；担保",
+    "en": "promises or assurances that something will be done"
+  },
+  "predicated": {
+    "p": "/ˈpredɪkeɪtɪd/",
+    "t": "基于；取决于",
+    "en": "based on or founded upon something"
+  },
+  "leopard": {
+    "p": "/ˈlepəd/",
+    "t": "豹",
+    "en": "a large spotted wild cat found in Africa and Asia"
   }
 }
