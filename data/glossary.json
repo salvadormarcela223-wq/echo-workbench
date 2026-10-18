@@ -56103,5 +56103,435 @@
     "p": "/leɪnz/",
     "t": "车道；小巷（复数）",
     "en": "narrow roads or marked divisions of a road"
+  },
+  "lifeordeath": {
+    "p": "/ˌlaɪfɔːˈdeθ/",
+    "t": "生死攸关的",
+    "en": "extremely serious, involving life or death"
+  },
+  "swabs": {
+    "p": "/swɒbz/",
+    "t": "拭子；棉签（复数）",
+    "en": "small pieces of absorbent material used for taking samples"
+  },
+  "hospitalised": {
+    "p": "/ˈhɒspɪtəlaɪzd/",
+    "t": "住院的",
+    "en": "admitted to hospital for treatment"
+  },
+  "unwell": {
+    "p": "/ʌnˈwel/",
+    "t": "不适的；生病的",
+    "en": "ill or sick"
+  },
+  "metagenomic": {
+    "p": "/ˌmetədʒəˈnɒmɪk/",
+    "t": "宏基因组的",
+    "en": "relating to genetic material recovered directly from environmental samples"
+  },
+  "resemblance": {
+    "p": "/rɪˈzembləns/",
+    "t": "相似；类似",
+    "en": "the state of looking like or being similar to something"
+  },
+  "coronavirus": {
+    "p": "/kəˈrəʊnəvaɪrəs/",
+    "t": "冠状病毒",
+    "en": "a family of viruses causing respiratory illness"
+  },
+  "kickstarted": {
+    "p": "/ˈkɪkstɑːtɪd/",
+    "t": "启动；促使开始",
+    "en": "caused something to start or develop quickly"
+  },
+  "frantic": {
+    "p": "/ˈfræntɪk/",
+    "t": "狂乱的；忙乱的",
+    "en": "wildly agitated or hurried with anxiety"
+  },
+  "globe": {
+    "p": "/ɡləʊb/",
+    "t": "地球；球体",
+    "en": "the earth or a spherical representation of it"
+  },
+  "bestknown": {
+    "p": "/ˌbestˈnəʊn/",
+    "t": "最著名的",
+    "en": "most widely known or famous"
+  },
+  "metagenomics": {
+    "p": "/ˌmetədʒəˈnɒmɪks/",
+    "t": "宏基因组学",
+    "en": "the study of genetic material from environmental samples"
+  },
+  "diagnosing": {
+    "p": "/ˈdaɪəɡnəʊzɪŋ/",
+    "t": "诊断",
+    "en": "identifying an illness or problem"
+  },
+  "sepsis": {
+    "p": "/ˈsepsɪs/",
+    "t": "败血症",
+    "en": "a life-threatening condition caused by the body's response to infection"
+  },
+  "unexplained": {
+    "p": "/ˌʌnɪkˈspleɪnd/",
+    "t": "无法解释的",
+    "en": "not accounted for or made clear"
+  },
+  "neurological": {
+    "p": "/ˌnjʊərəˈlɒdʒɪkl/",
+    "t": "神经系统的",
+    "en": "relating to the nervous system"
+  },
+  "drowsiness": {
+    "p": "/ˈdraʊzinəs/",
+    "t": "困倦；嗜睡",
+    "en": "the state of being sleepy"
+  },
+  "complaining": {
+    "p": "/kəmˈpleɪnɪŋ/",
+    "t": "抱怨；诉苦",
+    "en": "expressing dissatisfaction or pain"
+  },
+  "headache": {
+    "p": "/ˈhedeɪk/",
+    "t": "头痛",
+    "en": "a pain in the head"
+  },
+  "extracting": {
+    "p": "/ɪkˈstræktɪŋ/",
+    "t": "提取",
+    "en": "removing or obtaining something from a source"
+  },
+  "sequencing": {
+    "p": "/ˈsiːkwənsɪŋ/",
+    "t": "测序",
+    "en": "determining the order of nucleotides in DNA or RNA"
+  },
+  "databases": {
+    "p": "/ˈdeɪtəbeɪsɪz/",
+    "t": "数据库（复数）",
+    "en": "organized collections of data"
+  },
+  "meningitis": {
+    "p": "/ˌmenɪnˈdʒaɪtɪs/",
+    "t": "脑膜炎",
+    "en": "inflammation of the membranes surrounding the brain and spinal cord"
+  },
+  "overreaction": {
+    "p": "/ˌəʊvəriˈækʃn/",
+    "t": "过度反应",
+    "en": "an excessive response to something"
+  },
+  "hedge": {
+    "p": "/hedʒ/",
+    "t": "树篱；防范手段",
+    "en": "a fence of bushes or a means of protection"
+  },
+  "contradictory": {
+    "p": "/ˌkɒntrəˈdɪktəri/",
+    "t": "矛盾的",
+    "en": "mutually opposed or inconsistent"
+  },
+  "suppressing": {
+    "p": "/səˈpresɪŋ/",
+    "t": "抑制；压制",
+    "en": "preventing or restraining something"
+  },
+  "cerebrospinal": {
+    "p": "/ˌserɪbrəʊˈspaɪnl/",
+    "t": "脑脊髓的",
+    "en": "relating to the brain and spinal cord"
+  },
+  "bathes": {
+    "p": "/beɪðz/",
+    "t": "沐浴；浸泡",
+    "en": "washes or immerses in liquid"
+  },
+  "flagged": {
+    "p": "/flæɡd/",
+    "t": "标记；标示",
+    "en": "marked or highlighted for attention"
+  },
+  "unbeknownst": {
+    "p": "/ˌʌnbɪˈnəʊnst/",
+    "t": "未知的；不知不觉的",
+    "en": "without the knowledge of someone"
+  },
+  "transplant": {
+    "p": "/ˈtrænsplɑːnt/",
+    "t": "移植",
+    "en": "transferring an organ or tissue to another body"
+  },
+  "hepatitis": {
+    "p": "/ˌhepəˈtaɪtɪs/",
+    "t": "肝炎",
+    "en": "inflammation of the liver"
+  },
+  "highincome": {
+    "p": "/ˌhaɪˈɪnkʌm/",
+    "t": "高收入的",
+    "en": "earning or yielding a large income"
+  },
+  "antiviral": {
+    "p": "/ˌæntiˈvaɪrəl/",
+    "t": "抗病毒的",
+    "en": "acting against viruses"
+  },
+  "spared": {
+    "p": "/speəd/",
+    "t": "幸免；饶恕",
+    "en": "saved from harm or suffering"
+  },
+  "worrisome": {
+    "p": "/ˈwʌrisəm/",
+    "t": "令人担忧的",
+    "en": "causing worry or concern"
+  },
+  "ingest": {
+    "p": "/ɪnˈdʒest/",
+    "t": "摄入；吞下",
+    "en": "take food or drink into the body"
+  },
+  "immunesuppressing": {
+    "p": "/ɪˈmjuːnsəˌpresɪŋ/",
+    "t": "免疫抑制的",
+    "en": "weakening the immune system"
+  },
+  "immunosuppressed": {
+    "p": "/ˌɪmjʊnəʊsəˈprest/",
+    "t": "免疫抑制的",
+    "en": "having a weakened immune system"
+  },
+  "poisoning": {
+    "p": "/ˈpɔɪzənɪŋ/",
+    "t": "中毒",
+    "en": "the condition of being harmed by a toxic substance"
+  },
+  "odyssey": {
+    "p": "/ˈɒdəsi/",
+    "t": "漫长历程；冒险旅行",
+    "en": "a long adventurous journey"
+  },
+  "immunocompromised": {
+    "p": "/ˌɪmjʊnəʊˈkɒmprəmaɪzd/",
+    "t": "免疫功能低下的",
+    "en": "having an impaired immune system"
+  },
+  "spurious": {
+    "p": "/ˈspjʊəriəs/",
+    "t": "虚假的；伪造的",
+    "en": "false or not genuine"
+  },
+  "decluttering": {
+    "p": "/ˌdiːˈklʌtərɪŋ/",
+    "t": "清理杂物",
+    "en": "removing unnecessary items to tidy a space"
+  },
+  "coinfections": {
+    "p": "/ˌkəʊɪnˈfekʃnz/",
+    "t": "合并感染（复数）",
+    "en": "simultaneous infections by multiple pathogens"
+  },
+  "ascertain": {
+    "p": "/ˌæsəˈteɪn/",
+    "t": "查明；确定",
+    "en": "find out for certain"
+  },
+  "customise": {
+    "p": "/ˈkʌstəmaɪz/",
+    "t": "定制",
+    "en": "modify to suit a particular need"
+  },
+  "tailor": {
+    "p": "/ˈteɪlə/",
+    "t": "量身定制；裁缝",
+    "en": "make or adapt for a particular purpose"
+  },
+  "rolls": {
+    "p": "/rəʊlz/",
+    "t": "卷；名单（复数）",
+    "en": "cylindrical forms or lists of names"
+  },
+  "everincreasing": {
+    "p": "/ˌevərɪnˈkriːsɪŋ/",
+    "t": "不断增加的",
+    "en": "continuously growing"
+  },
+  "invasive": {
+    "p": "/ɪnˈveɪsɪv/",
+    "t": "侵入性的",
+    "en": "entering the body or spreading harmfully"
+  },
+  "tuberculosis": {
+    "p": "/tjuːˌbɜːkjuˈləʊsɪs/",
+    "t": "结核病",
+    "en": "an infectious disease affecting the lungs"
+  },
+  "parvovirus": {
+    "p": "/ˈpɑːvəʊvaɪrəs/",
+    "t": "细小病毒",
+    "en": "a family of small DNA viruses"
+  },
+  "alerts": {
+    "p": "/əˈlɜːts/",
+    "t": "警报（复数）",
+    "en": "warnings of danger or a problem"
+  },
+  "epidemics": {
+    "p": "/ˌepɪˈdemɪks/",
+    "t": "流行病（复数）",
+    "en": "widespread outbreaks of disease"
+  },
+  "fundraising": {
+    "p": "/ˈfʌndˌreɪzɪŋ/",
+    "t": "筹款",
+    "en": "the act of collecting money for a purpose"
+  },
+  "limiter": {
+    "p": "/ˈlɪmɪtə/",
+    "t": "限制器",
+    "en": "a device or factor that limits something"
+  },
+  "cautiously": {
+    "p": "/ˈkɔːʃəsli/",
+    "t": "谨慎地",
+    "en": "in a careful and wary manner"
+  },
+  "caveat": {
+    "p": "/ˈkæviæt/",
+    "t": "警告；注意事项",
+    "en": "a warning or proviso of specific stipulations"
+  },
+  "predictions": {
+    "p": "/prɪˈdɪkʃənz/",
+    "t": "预测",
+    "en": "statements about what will happen in the future"
+  },
+  "pumped": {
+    "p": "/pʌmpt/",
+    "t": "兴奋的；充满活力的",
+    "en": "very excited or enthusiastic"
+  },
+  "lagged": {
+    "p": "/læɡd/",
+    "t": "滞后",
+    "en": "fell behind in movement or progress"
+  },
+  "propped": {
+    "p": "/prɒpt/",
+    "t": "支撑",
+    "en": "supported or held up"
+  },
+  "smallmoney": {
+    "p": "/ˈsmɔːlˌmʌni/",
+    "t": "小额资金",
+    "en": "small amounts of money"
+  },
+  "deeppocketed": {
+    "p": "/ˌdiːpˈpɒkɪtɪd/",
+    "t": "财力雄厚的",
+    "en": "having substantial financial resources"
+  },
+  "extensively": {
+    "p": "/ɪkˈstensɪvli/",
+    "t": "广泛地",
+    "en": "to a great extent or widely"
+  },
+  "counterpart": {
+    "p": "/ˈkaʊntəpɑːt/",
+    "t": "对应物；同行",
+    "en": "a person or thing corresponding to another"
+  },
+  "functionally": {
+    "p": "/ˈfʌŋkʃənəli/",
+    "t": "功能上",
+    "en": "in terms of function or operation"
+  },
+  "disclosed": {
+    "p": "/dɪsˈkləʊzd/",
+    "t": "披露",
+    "en": "made known or revealed"
+  },
+  "inauguration": {
+    "p": "/ɪˌnɔːɡjəˈreɪʃən/",
+    "t": "就职典礼",
+    "en": "the formal ceremony of admitting someone to office"
+  },
+  "donor": {
+    "p": "/ˈdəʊnə/",
+    "t": "捐赠者",
+    "en": "a person who gives money or goods"
+  },
+  "oligarchs": {
+    "p": "/ˈɒlɪɡɑːks/",
+    "t": "寡头",
+    "en": "very rich business leaders with political influence"
+  },
+  "richest": {
+    "p": "/ˈrɪtʃɪst/",
+    "t": "最富有的",
+    "en": "having the most wealth"
+  },
+  "chunk": {
+    "p": "/tʃʌŋk/",
+    "t": "大块；相当数量",
+    "en": "a large thick piece or substantial amount"
+  },
+  "pouring": {
+    "p": "/ˈpɔːrɪŋ/",
+    "t": "倾注；大量流入",
+    "en": "flowing or causing to flow heavily"
+  },
+  "preroll": {
+    "p": "/ˈpriːrəʊl/",
+    "t": "前贴片广告",
+    "en": "an advertisement shown before a video"
+  },
+  "underfunded": {
+    "p": "/ˌʌndəˈfʌndɪd/",
+    "t": "资金不足的",
+    "en": "provided with insufficient funding"
+  },
+  "swoon": {
+    "p": "/swuːn/",
+    "t": "昏厥；痴迷",
+    "en": "to faint or be emotionally overwhelmed"
+  },
+  "battlegrounds": {
+    "p": "/ˈbætlɡraʊndz/",
+    "t": "战场；竞争激烈之地",
+    "en": "places where battles are fought or fierce competition occurs"
+  },
+  "smalldonor": {
+    "p": "/ˈsmɔːlˌdəʊnə/",
+    "t": "小额捐赠者",
+    "en": "a person who gives small amounts of money"
+  },
+  "fundraiser": {
+    "p": "/ˈfʌndˌreɪzə/",
+    "t": "筹款活动；筹款人",
+    "en": "an event or person that raises money"
+  },
+  "underexplored": {
+    "p": "/ˌʌndərɪkˈsplɔːd/",
+    "t": "探索不足的",
+    "en": "not sufficiently investigated or examined"
+  },
+  "smalldollar": {
+    "p": "/ˈsmɔːlˌdɒlə/",
+    "t": "小额的",
+    "en": "involving small amounts of money"
+  },
+  "chiefly": {
+    "p": "/ˈtʃiːfli/",
+    "t": "主要地",
+    "en": "mainly or mostly"
+  },
+  "outsourced": {
+    "p": "/ˈaʊtsɔːst/",
+    "t": "外包的",
+    "en": "contracted out to an external provider"
   }
 }
