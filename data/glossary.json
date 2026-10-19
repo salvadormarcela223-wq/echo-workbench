@@ -55838,5 +55838,620 @@
     "p": "/ˈpreɡnənsiz/",
     "t": "怀孕；妊娠",
     "en": "plural of pregnancy; conditions of carrying a fetus"
+  },
+  "elephants": {
+    "p": "/ˈelɪfənts/",
+    "t": "大象（复数）",
+    "en": "large mammals with trunks and tusks"
+  },
+  "trudging": {
+    "p": "/ˈtrʌdʒɪŋ/",
+    "t": "跋涉，步履沉重地走",
+    "en": "walking slowly with heavy steps"
+  },
+  "riverbed": {
+    "p": "/ˈrɪvəbed/",
+    "t": "河床",
+    "en": "the channel in which a river flows"
+  },
+  "stillborn": {
+    "p": "/ˈstɪlbɔːn/",
+    "t": "死产的",
+    "en": "born dead"
+  },
+  "trunk": {
+    "p": "/trʌŋk/",
+    "t": "象鼻；树干",
+    "en": "elephant's long nose; tree's main stem"
+  },
+  "spiritual": {
+    "p": "/ˈspɪrɪtʃuəl/",
+    "t": "精神的，心灵的",
+    "en": "relating to the human spirit or soul"
+  },
+  "intact": {
+    "p": "/ɪnˈtækt/",
+    "t": "完好无损的",
+    "en": "complete and undamaged"
+  },
+  "stiffened": {
+    "p": "/ˈstɪfənd/",
+    "t": "（使）变硬；变得僵硬",
+    "en": "made or became stiff"
+  },
+  "poignant": {
+    "p": "/ˈpɔɪnjənt/",
+    "t": "令人心酸的，深刻的",
+    "en": "evoking a keen sense of sadness"
+  },
+  "witnessing": {
+    "p": "/ˈwɪtnəsɪŋ/",
+    "t": "目睹，见证",
+    "en": "seeing something happen"
+  },
+  "twist": {
+    "p": "/twɪst/",
+    "t": "扭转；曲折",
+    "en": "a bend or turn; to wind"
+  },
+  "calves": {
+    "p": "/kɑːvz/",
+    "t": "小牛；小腿（复数）",
+    "en": "young cattle; back parts of legs"
+  },
+  "occasions": {
+    "p": "/əˈkeɪʒnz/",
+    "t": "场合，时机（复数）",
+    "en": "particular times or events"
+  },
+  "revelation": {
+    "p": "/ˌrevəˈleɪʃn/",
+    "t": "揭示，启示",
+    "en": "a surprising disclosed fact"
+  },
+  "behaving": {
+    "p": "/bɪˈheɪvɪŋ/",
+    "t": "表现，举止",
+    "en": "acting in a particular way"
+  },
+  "reconnect": {
+    "p": "/ˌriːkəˈnekt/",
+    "t": "重新连接，重聚",
+    "en": "connect again"
+  },
+  "traumatised": {
+    "p": "/ˈtrɔːmətaɪzd/",
+    "t": "受创伤的",
+    "en": "deeply distressed or shocked"
+  },
+  "snaps": {
+    "p": "/snæps/",
+    "t": "折断；快照（复数）",
+    "en": "breaks suddenly; quick photos"
+  },
+  "calfs": {
+    "p": "/kɑːfs/",
+    "t": "小腿（复数，非标准拼写）",
+    "en": "back parts of legs (plural)"
+  },
+  "hardy": {
+    "p": "/ˈhɑːdi/",
+    "t": "耐寒的，强壮的",
+    "en": "able to survive harsh conditions"
+  },
+  "riverbeds": {
+    "p": "/ˈrɪvəbedz/",
+    "t": "河床（复数）",
+    "en": "channels in which rivers flow"
+  },
+  "seedpods": {
+    "p": "/ˈsiːdpɒdz/",
+    "t": "种荚（复数）",
+    "en": "pods containing seeds"
+  },
+  "albida": {
+    "p": "/ˈælbɪdə/",
+    "t": "白（用于学名，如白相思树）",
+    "en": "white (used in species names)"
+  },
+  "floodplains": {
+    "p": "/ˈflʌdpleɪnz/",
+    "t": "洪泛平原（复数）",
+    "en": "flat lands beside rivers prone to flooding"
+  },
+  "ecotype": {
+    "p": "/ˈiːkəʊtaɪp/",
+    "t": "生态型",
+    "en": "genetically distinct population of a species"
+  },
+  "lions": {
+    "p": "/ˈlaɪənz/",
+    "t": "狮子（复数）",
+    "en": "large wild cats (plural)"
+  },
+  "readily": {
+    "p": "/ˈredɪli/",
+    "t": "容易地，乐意地",
+    "en": "easily; willingly"
+  },
+  "tanks": {
+    "p": "/tæŋks/",
+    "t": "水箱；坦克（复数）",
+    "en": "large containers; armoured vehicles"
+  },
+  "tolerance": {
+    "p": "/ˈtɒlərəns/",
+    "t": "容忍，耐受性",
+    "en": "ability to endure"
+  },
+  "huskies": {
+    "p": "/ˈhʌskiz/",
+    "t": "哈士奇犬（复数）",
+    "en": "breed of sled dogs (plural)"
+  },
+  "hyena": {
+    "p": "/haɪˈiːnə/",
+    "t": "鬣狗",
+    "en": "scavenging African mammal"
+  },
+  "diamond": {
+    "p": "/ˈdaɪəmənd/",
+    "t": "钻石；菱形",
+    "en": "precious gemstone; rhombus shape"
+  },
+  "newborn": {
+    "p": "/ˈnjuːbɔːn/",
+    "t": "新生的",
+    "en": "recently born"
+  },
+  "impacting": {
+    "p": "/ɪmˈpæktɪŋ/",
+    "t": "影响，冲击",
+    "en": "having a strong effect on"
+  },
+  "thyroid": {
+    "p": "/ˈθaɪrɔɪd/",
+    "t": "甲状腺",
+    "en": "gland in the neck regulating metabolism"
+  },
+  "inbreeding": {
+    "p": "/ˈɪnbriːdɪŋ/",
+    "t": "近亲繁殖",
+    "en": "breeding between close relatives"
+  },
+  "pedigree": {
+    "p": "/ˈpedɪɡriː/",
+    "t": "血统，系谱",
+    "en": "recorded ancestry of an animal"
+  },
+  "savannah": {
+    "p": "/səˈvænə/",
+    "t": "热带草原",
+    "en": "grassy plain in tropical regions"
+  },
+  "harrowing": {
+    "p": "/ˈhærəʊɪŋ/",
+    "t": "令人痛苦的",
+    "en": "acutely distressing"
+  },
+  "manner": {
+    "p": "/ˈmænə/",
+    "t": "方式，举止",
+    "en": "way of doing something"
+  },
+  "vigil": {
+    "p": "/ˈvɪdʒɪl/",
+    "t": "守夜，警戒",
+    "en": "period of staying awake to watch"
+  },
+  "trophy": {
+    "p": "/ˈtrəʊfi/",
+    "t": "战利品，奖品",
+    "en": "object kept as a prize or souvenir"
+  },
+  "worthy": {
+    "p": "/ˈwɜːði/",
+    "t": "值得的，有价值的",
+    "en": "deserving effort or attention"
+  },
+  "conserving": {
+    "p": "/kənˈsɜːvɪŋ/",
+    "t": "保护，节约",
+    "en": "protecting from harm or waste"
+  },
+  "photographer": {
+    "p": "/fəˈtɒɡrəfə/",
+    "t": "摄影师",
+    "en": "person who takes photographs"
+  },
+  "charity": {
+    "p": "/ˈtʃærɪti/",
+    "t": "慈善；慈善机构",
+    "en": "organization or act of giving help to those in need"
+  },
+  "coldhearted": {
+    "p": "/ˌkəʊldˈhɑːtɪd/",
+    "t": "冷酷无情的",
+    "en": "lacking sympathy or kindness"
+  },
+  "salary": {
+    "p": "/ˈsæləri/",
+    "t": "薪水",
+    "en": "fixed regular payment for employment"
+  },
+  "homelessness": {
+    "p": "/ˈhəʊmləsnəs/",
+    "t": "无家可归",
+    "en": "state of having no home"
+  },
+  "solicited": {
+    "p": "/səˈlɪsɪtɪd/",
+    "t": "请求的；征求的",
+    "en": "asked for or requested"
+  },
+  "neediest": {
+    "p": "/ˈniːdiɪst/",
+    "t": "最贫困的",
+    "en": "most in need of help"
+  },
+  "homeless": {
+    "p": "/ˈhəʊmləs/",
+    "t": "无家可归的",
+    "en": "having no home"
+  },
+  "malaria": {
+    "p": "/məˈleəriə/",
+    "t": "疟疾",
+    "en": "disease transmitted by mosquitoes"
+  },
+  "bednets": {
+    "p": "/ˈbednets/",
+    "t": "蚊帐",
+    "en": "nets hung over beds to keep off insects"
+  },
+  "pills": {
+    "p": "/pɪlz/",
+    "t": "药丸",
+    "en": "small round medicines"
+  },
+  "needier": {
+    "p": "/ˈniːdiə/",
+    "t": "更贫困的",
+    "en": "more in need of help"
+  },
+  "callous": {
+    "p": "/ˈkæləs/",
+    "t": "冷酷无情的",
+    "en": "showing no sympathy"
+  },
+  "conflicting": {
+    "p": "/kənˈflɪktɪŋ/",
+    "t": "相冲突的",
+    "en": "incompatible or contradictory"
+  },
+  "tenth": {
+    "p": "/tenθ/",
+    "t": "第十；十分之一",
+    "en": "ordinal number ten; one of ten parts"
+  },
+  "royale": {
+    "p": "/rɔɪˈɑːl/",
+    "t": "豪华的（菜肴用语）",
+    "en": "rich or elaborate, as in a dish"
+  },
+  "masquerading": {
+    "p": "/ˌmæskəˈreɪdɪŋ/",
+    "t": "伪装；冒充",
+    "en": "pretending to be something else"
+  },
+  "phrasing": {
+    "p": "/ˈfreɪzɪŋ/",
+    "t": "措辞；表达方式",
+    "en": "way of expressing something in words"
+  },
+  "seeded": {
+    "p": "/ˈsiːdɪd/",
+    "t": "播种的；种子排位的",
+    "en": "planted with seeds; ranked in a tournament"
+  },
+  "logic": {
+    "p": "/ˈlɒdʒɪk/",
+    "t": "逻辑",
+    "en": "reasoning conducted according to rules"
+  },
+  "hacks": {
+    "p": "/hæks/",
+    "t": "窍门；非法侵入",
+    "en": "clever tricks; unauthorized computer intrusions"
+  },
+  "agile": {
+    "p": "/ˈædʒaɪl/",
+    "t": "敏捷的",
+    "en": "able to move or think quickly"
+  },
+  "workflows": {
+    "p": "/ˈwɜːkfləʊz/",
+    "t": "工作流程",
+    "en": "sequences of tasks in a process"
+  },
+  "achieving": {
+    "p": "/əˈtʃiːvɪŋ/",
+    "t": "实现；达到",
+    "en": "succeeding in reaching a goal"
+  },
+  "urges": {
+    "p": "/ˈɜːdʒɪz/",
+    "t": "强烈欲望；敦促",
+    "en": "strong desires; presses for action"
+  },
+  "optimize": {
+    "p": "/ˈɒptɪmaɪz/",
+    "t": "优化",
+    "en": "make as effective as possible"
+  },
+  "ineffective": {
+    "p": "/ˌɪnɪˈfektɪv/",
+    "t": "无效的",
+    "en": "not producing the intended result"
+  },
+  "altruists": {
+    "p": "/ˈæltruɪsts/",
+    "t": "利他主义者",
+    "en": "people who act selflessly for others"
+  },
+  "utilitarianflavored": {
+    "p": "/juːˌtɪlɪˈteəriənˌfleɪvəd/",
+    "t": "带功利主义色彩的",
+    "en": "having a utilitarian character"
+  },
+  "straits": {
+    "p": "/streɪts/",
+    "t": "困境；海峡",
+    "en": "difficult situations; narrow sea passages"
+  },
+  "brute": {
+    "p": "/bruːt/",
+    "t": "蛮力；粗野的人",
+    "en": "crude force; a brutal person"
+  },
+  "rabbis": {
+    "p": "/ˈræbaɪz/",
+    "t": "拉比（犹太教教师）",
+    "en": "Jewish religious teachers"
+  },
+  "exquisitely": {
+    "p": "/ɪkˈskwɪzɪtli/",
+    "t": "精致地；极其",
+    "en": "in a delicately beautiful or intense way"
+  },
+  "decreed": {
+    "p": "/dɪˈkriːd/",
+    "t": "颁布；裁定",
+    "en": "officially ordered or decided"
+  },
+  "dignity": {
+    "p": "/ˈdɪɡnəti/",
+    "t": "尊严",
+    "en": "quality of being worthy of respect"
+  },
+  "welloff": {
+    "p": "/ˌwelˈɒf/",
+    "t": "富裕的",
+    "en": "wealthy or in good circumstances"
+  },
+  "necessities": {
+    "p": "/nəˈsesətiz/",
+    "t": "必需品",
+    "en": "things essential for living"
+  },
+  "nicer": {
+    "p": "/ˈnaɪsə/",
+    "t": "更好的；更友善的",
+    "en": "more pleasant or kind"
+  },
+  "graced": {
+    "p": "/ɡreɪst/",
+    "t": "使增光；赐予",
+    "en": "honored or adorned"
+  },
+  "lifestyles": {
+    "p": "/ˈlaɪfstaɪlz/",
+    "t": "生活方式",
+    "en": "ways of living"
+  },
+  "rabbi": {
+    "p": "/ˈræbaɪ/",
+    "t": "拉比（犹太教教师）",
+    "en": "Jewish religious teacher"
+  },
+  "servant": {
+    "p": "/ˈsɜːvənt/",
+    "t": "仆人；公仆",
+    "en": "person who serves others"
+  },
+  "aiming": {
+    "p": "/ˈeɪmɪŋ/",
+    "t": "瞄准；旨在",
+    "en": "pointing or intending toward a goal"
+  },
+  "alleviate": {
+    "p": "/əˈliːvieɪt/",
+    "t": "减轻；缓解",
+    "en": "make suffering less severe"
+  },
+  "accompany": {
+    "p": "/əˈkʌmpəni/",
+    "t": "陪伴；伴随",
+    "en": "go with or be together with"
+  },
+  "oranges": {
+    "p": "/ˈɒrɪndʒɪz/",
+    "t": "橙子",
+    "en": "round citrus fruits"
+  },
+  "applestoapples": {
+    "p": "/ˈæpəlz tə ˈæpəlz/",
+    "t": "同类相比",
+    "en": "comparing like with like"
+  },
+  "currency": {
+    "p": "/ˈkʌrənsi/",
+    "t": "货币；通用",
+    "en": "system of money; general acceptance"
+  },
+  "reducible": {
+    "p": "/rɪˈdjuːsəbl/",
+    "t": "可减少的；可简化的",
+    "en": "able to be made smaller or simpler"
+  },
+  "incommensurable": {
+    "p": "/ˌɪnkəˈmenʃərəbl/",
+    "t": "不可通约的；无法比较的",
+    "en": "having no common measure; incomparable"
+  },
+  "simplify": {
+    "p": "/ˈsɪmplɪfaɪ/",
+    "t": "简化",
+    "en": "make simpler or easier"
+  },
+  "unhoused": {
+    "p": "/ʌnˈhaʊzd/",
+    "t": "无家可归的",
+    "en": "without housing; homeless"
+  },
+  "altruism": {
+    "p": "/ˈæltruɪzəm/",
+    "t": "利他主义",
+    "en": "selfless concern for others"
+  },
+  "rationalist": {
+    "p": "/ˈræʃnəlɪst/",
+    "t": "理性主义者",
+    "en": "person who relies on reason"
+  },
+  "advise": {
+    "p": "/ədˈvaɪz/",
+    "t": "建议；劝告",
+    "en": "give suggestions or recommendations"
+  },
+  "fuzzies": {
+    "p": "/ˈfʌziz/",
+    "t": "温暖模糊的感觉",
+    "en": "warm fuzzy feelings; vague positive emotions"
+  },
+  "utilons": {
+    "p": "/ˈjuːtɪlɒnz/",
+    "t": "效用单位",
+    "en": "units of utility in decision theory"
+  },
+  "volunteering": {
+    "p": "/ˌvɒlənˈtɪərɪŋ/",
+    "t": "志愿服务",
+    "en": "offering to do something without pay"
+  },
+  "diversifying": {
+    "p": "/daɪˈvɜːsɪfaɪɪŋ/",
+    "t": "使多样化",
+    "en": "making more varied"
+  },
+  "wholeness": {
+    "p": "/ˈhəʊlnəs/",
+    "t": "完整性",
+    "en": "state of being complete"
+  },
+  "contextless": {
+    "p": "/ˈkɒntekstləs/",
+    "t": "无上下文的",
+    "en": "lacking surrounding context"
+  },
+  "vacuum": {
+    "p": "/ˈvækjuːm/",
+    "t": "真空；空白",
+    "en": "space devoid of matter; emptiness"
+  },
+  "alienates": {
+    "p": "/ˈeɪliəneɪts/",
+    "t": "使疏远",
+    "en": "makes someone feel isolated"
+  },
+  "ripping": {
+    "p": "/ˈrɪpɪŋ/",
+    "t": "撕开；极好的",
+    "en": "tearing; excellent (slang)"
+  },
+  "wrecking": {
+    "p": "/ˈrekɪŋ/",
+    "t": "破坏",
+    "en": "destroying or ruining"
+  },
+  "liken": {
+    "p": "/ˈlaɪkən/",
+    "t": "把…比作",
+    "en": "compare to"
+  },
+  "irrational": {
+    "p": "/ɪˈræʃənl/",
+    "t": "不理性的",
+    "en": "not based on reason"
+  },
+  "fullness": {
+    "p": "/ˈfʊlnəs/",
+    "t": "充满；完整",
+    "en": "state of being full or complete"
+  },
+  "divvy": {
+    "p": "/ˈdɪvi/",
+    "t": "分配",
+    "en": "divide or share out"
+  },
+  "allocations": {
+    "p": "/ˌæləˈkeɪʃnz/",
+    "t": "分配；拨款",
+    "en": "amounts assigned or distributed"
+  },
+  "overreach": {
+    "p": "/ˌəʊvəˈriːtʃ/",
+    "t": "过度扩张；越权",
+    "en": "go beyond what is reasonable or allowed"
+  },
+  "diversify": {
+    "p": "/daɪˈvɜːsɪfaɪ/",
+    "t": "使多样化",
+    "en": "make or become more varied"
+  },
+  "coauthors": {
+    "p": "/kəʊˈɔːθəz/",
+    "t": "合著者",
+    "en": "joint authors"
+  },
+  "gorgeously": {
+    "p": "/ˈɡɔːdʒəsli/",
+    "t": "华丽地；极美地",
+    "en": "in a stunningly beautiful way"
+  },
+  "cooperating": {
+    "p": "/kəʊˈɒpəreɪtɪŋ/",
+    "t": "合作",
+    "en": "working together"
+  },
+  "perating": {
+    "p": "/ˈpəreɪtɪŋ/",
+    "t": "（疑似拼写错误）运营",
+    "en": "likely a misspelling of operating"
+  },
+  "willfully": {
+    "p": "/ˈwɪlfəli/",
+    "t": "故意地",
+    "en": "deliberately or intentionally"
+  },
+  "calculating": {
+    "p": "/ˈkælkjuleɪtɪŋ/",
+    "t": "精明的；算计的",
+    "en": "scheming or shrewdly calculating"
+  },
+  "principled": {
+    "p": "/ˈprɪnsəpld/",
+    "t": "有原则的",
+    "en": "acting according to moral principles"
   }
 }
