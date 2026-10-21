@@ -56753,5 +56753,330 @@
     "p": "/ˈmæs mɑːkɪt/",
     "t": "大众市场",
     "en": "a market for many ordinary consumers"
+  },
+  "docket": {
+    "p": "/ˈdɒkɪt/",
+    "t": "待办事项表；诉讼日程",
+    "en": "a list of matters to be dealt with, especially in a court"
+  },
+  "debating": {
+    "p": "/dɪˈbeɪtɪŋ/",
+    "t": "辩论",
+    "en": "the activity of discussing opposing arguments"
+  },
+  "embodies": {
+    "p": "/ɪmˈbɒdiz/",
+    "t": "体现；具体表现",
+    "en": "expresses or represents in a tangible form"
+  },
+  "transgender": {
+    "p": "/trænzˈdʒendə/",
+    "t": "跨性别的",
+    "en": "having a gender identity different from the sex assigned at birth"
+  },
+  "inclusion": {
+    "p": "/ɪnˈkluːʒn/",
+    "t": "包容；包含",
+    "en": "the practice of including people or things"
+  },
+  "appalling": {
+    "p": "/əˈpɔːlɪŋ/",
+    "t": "骇人的；令人震惊的",
+    "en": "causing shock or dismay; horrific"
+  },
+  "wrestler": {
+    "p": "/ˈreslə/",
+    "t": "摔跤运动员",
+    "en": "a person who takes part in wrestling"
+  },
+  "initials": {
+    "p": "/ɪˈnɪʃlz/",
+    "t": "姓名首字母",
+    "en": "the first letters of a person's names"
+  },
+  "wrestling": {
+    "p": "/ˈreslɪŋ/",
+    "t": "摔跤运动",
+    "en": "the sport of grappling and trying to throw an opponent"
+  },
+  "forcefully": {
+    "p": "/ˈfɔːsfəli/",
+    "t": "强有力地；强行地",
+    "en": "in a strong or forceful manner"
+  },
+  "penetrated": {
+    "p": "/ˈpenɪtreɪtɪd/",
+    "t": "穿透；进入",
+    "en": "passed into or through something"
+  },
+  "vagina": {
+    "p": "/vəˈdʒaɪnə/",
+    "t": "阴道",
+    "en": "the muscular tube leading to the uterus in female mammals"
+  },
+  "referee": {
+    "p": "/ˌrefəˈriː/",
+    "t": "裁判",
+    "en": "an official who supervises a game and enforces its rules"
+  },
+  "officiated": {
+    "p": "/əˈfɪʃieɪtɪd/",
+    "t": "担任裁判；主持",
+    "en": "acted as an official in a game or ceremony"
+  },
+  "pronouncements": {
+    "p": "/prəˈnaʊnsmənts/",
+    "t": "声明；公告",
+    "en": "formal or authoritative statements"
+  },
+  "factual": {
+    "p": "/ˈfæktʃuəl/",
+    "t": "事实的；真实的",
+    "en": "based on or concerned with facts"
+  },
+  "strips": {
+    "p": "/strɪps/",
+    "t": "条；带；脱衣",
+    "en": "long narrow pieces, or removes clothing"
+  },
+  "deserves": {
+    "p": "/dɪˈzɜːvz/",
+    "t": "值得；应得",
+    "en": "is worthy of or merits something"
+  },
+  "legislatures": {
+    "p": "/ˈledʒɪslətʃəz/",
+    "t": "立法机构",
+    "en": "bodies of people with power to make laws"
+  },
+  "forbid": {
+    "p": "/fəˈbɪd/",
+    "t": "禁止",
+    "en": "order not to do something"
+  },
+  "resolves": {
+    "p": "/rɪˈzɒlvz/",
+    "t": "解决；决心",
+    "en": "settles or finds a solution to something"
+  },
+  "liberals": {
+    "p": "/ˈlɪbrəlz/",
+    "t": "自由主义者",
+    "en": "people with progressive or open-minded political views"
+  },
+  "eliminated": {
+    "p": "/ɪˈlɪmɪneɪtɪd/",
+    "t": "消除；淘汰",
+    "en": "removed or got rid of"
+  },
+  "litigants": {
+    "p": "/ˈlɪtɪɡənts/",
+    "t": "诉讼当事人",
+    "en": "people involved in a lawsuit"
+  },
+  "mifepristone": {
+    "p": "/ˌmɪfɪˈprɪstəʊn/",
+    "t": "米非司酮",
+    "en": "a drug used to induce abortion"
+  },
+  "cisgender": {
+    "p": "/sɪsˈdʒendə/",
+    "t": "顺性别的",
+    "en": "having a gender identity matching the sex assigned at birth"
+  },
+  "seeks": {
+    "p": "/siːks/",
+    "t": "寻求；试图",
+    "en": "tries to obtain or achieve something"
+  },
+  "injunction": {
+    "p": "/ɪnˈdʒʌŋkʃn/",
+    "t": "禁令",
+    "en": "an authoritative order restraining an action"
+  },
+  "litigated": {
+    "p": "/ˈlɪtɪɡeɪtɪd/",
+    "t": "提起诉讼",
+    "en": "took legal action concerning a dispute"
+  },
+  "disfavoring": {
+    "p": "/dɪsˈfeɪvərɪŋ/",
+    "t": "不赞成；不利于",
+    "en": "regarding with disapproval or disadvantage"
+  },
+  "judicially": {
+    "p": "/dʒuːˈdɪʃəli/",
+    "t": "司法上；经由法庭",
+    "en": "in a manner relating to courts or judges"
+  },
+  "doctrine": {
+    "p": "/ˈdɒktrɪn/",
+    "t": "主义；原则",
+    "en": "a set of beliefs or principles held by a group"
+  },
+  "malleable": {
+    "p": "/ˈmæliəbl/",
+    "t": "可塑的；易受影响的",
+    "en": "easily shaped or influenced"
+  },
+  "tackled": {
+    "p": "/ˈtækld/",
+    "t": "处理；对付",
+    "en": "made determined efforts to deal with a problem"
+  },
+  "league": {
+    "p": "/liːɡ/",
+    "t": "联盟；联赛",
+    "en": "a group of sports clubs or an association"
+  },
+  "litigation": {
+    "p": "/ˌlɪtɪˈɡeɪʃn/",
+    "t": "诉讼",
+    "en": "the process of taking legal action"
+  },
+  "multischool": {
+    "p": "/ˈmʌltiˌskuːl/",
+    "t": "多校的",
+    "en": "involving or relating to multiple schools"
+  },
+  "resolve": {
+    "p": "/rɪˈzɒlv/",
+    "t": "解决；决心",
+    "en": "settle or find a solution to a problem"
+  },
+  "dispose": {
+    "p": "/dɪˈspəʊz/",
+    "t": "处理；处置",
+    "en": "get rid of or deal with something"
+  },
+  "construed": {
+    "p": "/kənˈstruːd/",
+    "t": "理解为；解释",
+    "en": "interpreted in a particular way"
+  },
+  "objection": {
+    "p": "/əbˈdʒekʃn/",
+    "t": "反对；异议",
+    "en": "an expression of disapproval or disagreement"
+  },
+  "attendance": {
+    "p": "/əˈtendəns/",
+    "t": "出席；出席人数",
+    "en": "the action of being present or the number present"
+  },
+  "prohibiting": {
+    "p": "/prəˈhɪbɪtɪŋ/",
+    "t": "禁止",
+    "en": "formally forbidding something"
+  },
+  "judicial": {
+    "p": "/dʒuːˈdɪʃl/",
+    "t": "司法的；法庭的",
+    "en": "relating to courts of law or judges"
+  },
+  "schooling": {
+    "p": "/ˈskuːlɪŋ/",
+    "t": "教育；学校教育",
+    "en": "education received at school"
+  },
+  "asserting": {
+    "p": "/əˈsɜːtɪŋ/",
+    "t": "断言；主张",
+    "en": "stating a fact or belief confidently"
+  },
+  "reiterate": {
+    "p": "/riˈɪtəreɪt/",
+    "t": "重申",
+    "en": "say something again for emphasis"
+  },
+  "dictating": {
+    "p": "/dɪkˈteɪtɪŋ/",
+    "t": "口述；支配",
+    "en": "saying words for someone to write down, or imposing control"
+  },
+  "principled": {
+    "p": "/ˈprɪnsəpld/",
+    "t": "有原则的",
+    "en": "acting according to moral principles"
+  },
+  "statute": {
+    "p": "/ˈstætʃuːt/",
+    "t": "法规；成文法",
+    "en": "a written law passed by a legislature"
+  },
+  "discriminate": {
+    "p": "/dɪˈskrɪmɪneɪt/",
+    "t": "歧视；区别对待",
+    "en": "treat a person or group unfairly or differently"
+  },
+  "classify": {
+    "p": "/ˈklæsɪfaɪ/",
+    "t": "分类；归类",
+    "en": "arrange in categories or classes"
+  },
+  "arrangement": {
+    "p": "/əˈreɪndʒmənt/",
+    "t": "安排；布置",
+    "en": "a plan or preparation, or the way things are organized"
+  },
+  "undermined": {
+    "p": "/ˌʌndəˈmaɪnd/",
+    "t": "削弱；破坏",
+    "en": "weakened or damaged gradually"
+  },
+  "implementing": {
+    "p": "/ˈɪmplɪmentɪŋ/",
+    "t": "实施；执行",
+    "en": "putting a plan or decision into effect"
+  },
+  "sponsor": {
+    "p": "/ˈspɒnsə/",
+    "t": "赞助者；发起人",
+    "en": "a person or organization that provides support or funding"
+  },
+  "sexsegregated": {
+    "p": "/ˌseksˈseɡrɪɡeɪtɪd/",
+    "t": "性别隔离的",
+    "en": "separated according to sex"
+  },
+  "strictly": {
+    "p": "/ˈstrɪktli/",
+    "t": "严格地",
+    "en": "in a rigorous or exact manner"
+  },
+  "segregated": {
+    "p": "/ˈseɡrɪɡeɪtɪd/",
+    "t": "隔离的；分开的",
+    "en": "separated from others by race, sex, or another trait"
+  },
+  "rejecting": {
+    "p": "/rɪˈdʒektɪŋ/",
+    "t": "拒绝；驳回",
+    "en": "refusing to accept or approve"
+  },
+  "forego": {
+    "p": "/fɔːˈɡəʊ/",
+    "t": "放弃；舍弃",
+    "en": "go without or give up something"
+  },
+  "unambiguously": {
+    "p": "/ˌʌnæmˈbɪɡjuəsli/",
+    "t": "明确地；不含糊地",
+    "en": "in a way that is clear and not open to doubt"
+  },
+  "impatient": {
+    "p": "/ɪmˈpeɪʃnt/",
+    "t": "不耐烦的；急切的",
+    "en": "restless or eager, unable to wait"
+  },
+  "inventing": {
+    "p": "/ɪnˈventɪŋ/",
+    "t": "发明；捏造",
+    "en": "creating something new or making something up"
+  },
+  "shocking": {
+    "p": "/ˈʃɒkɪŋ/",
+    "t": "令人震惊的",
+    "en": "causing surprise and upset"
   }
 }
