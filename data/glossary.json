@@ -56288,5 +56288,470 @@
     "p": "/rɪˈvəʊlt/",
     "t": "反抗；起义",
     "en": "to rise in rebellion; an uprising"
+  },
+  "wrinkles": {
+    "p": "/ˈrɪŋklz/",
+    "t": "皱纹",
+    "en": "small lines or folds in the skin"
+  },
+  "collagen": {
+    "p": "/ˈkɒlədʒən/",
+    "t": "胶原蛋白",
+    "en": "a protein that gives skin strength and structure"
+  },
+  "wellcared": {
+    "p": "/ˌwelˈkeəd/",
+    "t": "保养良好的",
+    "en": "properly looked after"
+  },
+  "dermatology": {
+    "p": "/ˌdɜːməˈtɒlədʒi/",
+    "t": "皮肤科",
+    "en": "the branch of medicine dealing with the skin"
+  },
+  "radiation": {
+    "p": "/ˌreɪdiˈeɪʃn/",
+    "t": "辐射",
+    "en": "energy emitted as rays or waves"
+  },
+  "environmentalinduced": {
+    "p": "/ɪnˌvaɪrənˈmentl ɪnˈdjuːst/",
+    "t": "环境诱发的",
+    "en": "caused by environmental factors"
+  },
+  "wavelengths": {
+    "p": "/ˈweɪvleŋθs/",
+    "t": "波长",
+    "en": "distances between successive wave peaks"
+  },
+  "gutfriendly": {
+    "p": "/ˈɡʌt ˌfrendli/",
+    "t": "有益肠道的",
+    "en": "beneficial to the gut"
+  },
+  "heres": {
+    "p": "/hɪəz/",
+    "t": "这里是（here is 的缩略）",
+    "en": "contraction of 'here is'"
+  },
+  "carotenoids": {
+    "p": "/kəˈrɒtənɔɪdz/",
+    "t": "类胡萝卜素",
+    "en": "yellow-orange plant pigments"
+  },
+  "lutein": {
+    "p": "/ˈluːtiɪn/",
+    "t": "叶黄素",
+    "en": "a yellow carotenoid pigment"
+  },
+  "lycopene": {
+    "p": "/ˈlaɪkəpiːn/",
+    "t": "番茄红素",
+    "en": "a red carotenoid pigment in tomatoes"
+  },
+  "betacarotene": {
+    "p": "/ˌbiːtə ˈkærətiːn/",
+    "t": "β-胡萝卜素",
+    "en": "an orange carotenoid converted to vitamin A"
+  },
+  "suncream": {
+    "p": "/ˈsʌnkriːm/",
+    "t": "防晒霜",
+    "en": "a cream protecting skin from the sun"
+  },
+  "carotenoidrich": {
+    "p": "/kəˈrɒtənɔɪd rɪtʃ/",
+    "t": "富含类胡萝卜素的",
+    "en": "abundant in carotenoids"
+  },
+  "olive": {
+    "p": "/ˈɒlɪv/",
+    "t": "橄榄",
+    "en": "a small oval fruit used for oil"
+  },
+  "vitamin": {
+    "p": "/ˈvɪtəmɪn/",
+    "t": "维生素",
+    "en": "an essential nutrient for health"
+  },
+  "skincell": {
+    "p": "/ˈskɪn sel/",
+    "t": "皮肤细胞",
+    "en": "a cell of the skin"
+  },
+  "hyaluronic": {
+    "p": "/ˌhaɪəljʊˈrɒnɪk/",
+    "t": "透明质酸的",
+    "en": "relating to hyaluronic acid"
+  },
+  "firmness": {
+    "p": "/ˈfɜːmnəs/",
+    "t": "紧致度",
+    "en": "the quality of being firm"
+  },
+  "moisturisers": {
+    "p": "/ˈmɔɪstʃəraɪzəz/",
+    "t": "保湿霜",
+    "en": "creams that add moisture to skin"
+  },
+  "antiageing": {
+    "p": "/ˌæntiˈeɪdʒɪŋ/",
+    "t": "抗衰老的",
+    "en": "counteracting the effects of ageing"
+  },
+  "creams": {
+    "p": "/kriːmz/",
+    "t": "乳霜",
+    "en": "thick soft cosmetic substances"
+  },
+  "pigments": {
+    "p": "/ˈpɪɡmənts/",
+    "t": "色素",
+    "en": "substances giving colour"
+  },
+  "carotenoid": {
+    "p": "/kəˈrɒtənɔɪd/",
+    "t": "类胡萝卜素",
+    "en": "a yellow-orange plant pigment"
+  },
+  "elastin": {
+    "p": "/ɪˈlæstɪn/",
+    "t": "弹性蛋白",
+    "en": "a protein giving skin elasticity"
+  },
+  "breakdown": {
+    "p": "/ˈbreɪkdaʊn/",
+    "t": "分解",
+    "en": "the process of breaking down"
+  },
+  "antioxidant": {
+    "p": "/ˌæntiˈɒksɪdənt/",
+    "t": "抗氧化剂",
+    "en": "a substance that prevents oxidation"
+  },
+  "postmenopausal": {
+    "p": "/ˌpəʊstˌmenəˈpɔːzl/",
+    "t": "绝经后的",
+    "en": "after menopause"
+  },
+  "flavonoids": {
+    "p": "/ˈfleɪvənɔɪdz/",
+    "t": "类黄酮",
+    "en": "plant compounds with antioxidant effects"
+  },
+  "mangiferin": {
+    "p": "/mænˈdʒɪfərɪn/",
+    "t": "芒果苷",
+    "en": "a compound found in mangoes"
+  },
+  "coauthors": {
+    "p": "/kəʊˈɔːθəz/",
+    "t": "合著者",
+    "en": "joint authors"
+  },
+  "mangoes": {
+    "p": "/ˈmæŋɡəʊz/",
+    "t": "芒果",
+    "en": "sweet tropical fruits"
+  },
+  "citrus": {
+    "p": "/ˈsɪtrəs/",
+    "t": "柑橘类",
+    "en": "fruits such as oranges and lemons"
+  },
+  "hydration": {
+    "p": "/haɪˈdreɪʃn/",
+    "t": "补水",
+    "en": "the process of adding water"
+  },
+  "pigmentation": {
+    "p": "/ˌpɪɡmenˈteɪʃn/",
+    "t": "色素沉着",
+    "en": "colouring of the skin"
+  },
+  "skincare": {
+    "p": "/ˈskɪnkeə/",
+    "t": "护肤",
+    "en": "care of the skin"
+  },
+  "almonds": {
+    "p": "/ˈɑːməndz/",
+    "t": "杏仁",
+    "en": "edible oval nuts"
+  },
+  "walnuts": {
+    "p": "/ˈwɔːlnʌts/",
+    "t": "核桃",
+    "en": "edible wrinkled nuts"
+  },
+  "chopping": {
+    "p": "/ˈtʃɒpɪŋ/",
+    "t": "切碎",
+    "en": "cutting into pieces"
+  },
+  "randomisedcontrolled": {
+    "p": "/ˈrændəmaɪzd kənˈtrəʊld/",
+    "t": "随机对照的",
+    "en": "of a trial with random assignment and control"
+  },
+  "hazelnuts": {
+    "p": "/ˈheɪzlnʌts/",
+    "t": "榛子",
+    "en": "edible round brown nuts"
+  },
+  "moist": {
+    "p": "/mɔɪst/",
+    "t": "湿润的",
+    "en": "slightly wet"
+  },
+  "supplements": {
+    "p": "/ˈsʌplɪmənts/",
+    "t": "补充剂",
+    "en": "products added to the diet"
+  },
+  "mackerel": {
+    "p": "/ˈmækrəl/",
+    "t": "鲭鱼",
+    "en": "a striped oily fish"
+  },
+  "intricately": {
+    "p": "/ˈɪntrɪkətli/",
+    "t": "复杂地",
+    "en": "in a complex detailed way"
+  },
+  "gutskin": {
+    "p": "/ˈɡʌt skɪn/",
+    "t": "肠道与皮肤的",
+    "en": "relating to gut and skin"
+  },
+  "psoriasis": {
+    "p": "/səˈraɪəsɪs/",
+    "t": "银屑病",
+    "en": "a skin disease with scaly patches"
+  },
+  "sauerkraut": {
+    "p": "/ˈsaʊəkraʊt/",
+    "t": "酸菜",
+    "en": "fermented cabbage"
+  },
+  "kimchi": {
+    "p": "/ˈkɪmtʃi/",
+    "t": "泡菜",
+    "en": "Korean fermented spicy cabbage"
+  },
+  "kombucha": {
+    "p": "/kɒmˈbuːtʃə/",
+    "t": "康普茶",
+    "en": "a fermented tea drink"
+  },
+  "clears": {
+    "p": "/klɪəz/",
+    "t": "清除；澄清",
+    "en": "removes or makes clear"
+  },
+  "invasion": {
+    "p": "/ɪnˈveɪʒn/",
+    "t": "入侵；侵略",
+    "en": "an act of invading a place"
+  },
+  "panned": {
+    "p": "/pænd/",
+    "t": "严厉批评",
+    "en": "criticized severely"
+  },
+  "modestly": {
+    "p": "/ˈmɒdɪstli/",
+    "t": "谦虚地；适度地",
+    "en": "in a modest manner"
+  },
+  "harangued": {
+    "p": "/həˈræŋd/",
+    "t": "长篇训斥",
+    "en": "lectured or scolded at length"
+  },
+  "inadequately": {
+    "p": "/ɪnˈædɪkwətli/",
+    "t": "不充分地",
+    "en": "in an insufficient manner"
+  },
+  "thanking": {
+    "p": "/ˈθæŋkɪŋ/",
+    "t": "感谢",
+    "en": "expressing gratitude"
+  },
+  "meager": {
+    "p": "/ˈmiːɡə(r)/",
+    "t": "贫乏的；微薄的",
+    "en": "lacking in quantity or quality"
+  },
+  "niceties": {
+    "p": "/ˈnaɪsətiz/",
+    "t": "细节；礼节",
+    "en": "fine details or polite manners"
+  },
+  "faked": {
+    "p": "/feɪkt/",
+    "t": "伪造的；假的",
+    "en": "not genuine; counterfeit"
+  },
+  "blamed": {
+    "p": "/bleɪmd/",
+    "t": "归咎于",
+    "en": "held responsible for"
+  },
+  "sanctions": {
+    "p": "/ˈsæŋkʃnz/",
+    "t": "制裁；批准",
+    "en": "penalties or authorizations"
+  },
+  "chummy": {
+    "p": "/ˈtʃʌmi/",
+    "t": "亲密的；友好的",
+    "en": "friendly and intimate"
+  },
+  "shortly": {
+    "p": "/ˈʃɔːtli/",
+    "t": "不久；简短地",
+    "en": "soon or briefly"
+  },
+  "whiplash": {
+    "p": "/ˈwɪplæʃ/",
+    "t": "鞭打；颈椎扭伤",
+    "en": "a lash or neck injury from sudden movement"
+  },
+  "bombard": {
+    "p": "/bɒmˈbɑːd/",
+    "t": "轰炸；连续攻击",
+    "en": "attack with bombs or repeatedly"
+  },
+  "refineries": {
+    "p": "/rɪˈfaɪnəriz/",
+    "t": "炼油厂",
+    "en": "plants where raw materials are refined"
+  },
+  "gasoline": {
+    "p": "/ˈɡæsəliːn/",
+    "t": "汽油",
+    "en": "a fuel for engines"
+  },
+  "obliged": {
+    "p": "/əˈblaɪdʒd/",
+    "t": "有义务的；感激的",
+    "en": "required or grateful"
+  },
+  "hamstring": {
+    "p": "/ˈhæmstrɪŋ/",
+    "t": "使无能为力；腿筋",
+    "en": "cripple or a leg tendon"
+  },
+  "predictably": {
+    "p": "/prɪˈdɪktəbli/",
+    "t": "可预见地",
+    "en": "in a predictable manner"
+  },
+  "pursued": {
+    "p": "/pəˈsjuːd/",
+    "t": "追求；追赶",
+    "en": "followed or sought after"
+  },
+  "imports": {
+    "p": "/ˈɪmpɔːts/",
+    "t": "进口商品",
+    "en": "goods brought in from abroad"
+  },
+  "ramped": {
+    "p": "/ræmpt/",
+    "t": "增加；斜坡",
+    "en": "increased or sloped"
+  },
+  "disruptions": {
+    "p": "/dɪsˈrʌpʃnz/",
+    "t": "中断；扰乱",
+    "en": "interruptions or disturbances"
+  },
+  "intelligencesharing": {
+    "p": "/ɪnˈtelɪdʒəns ˌʃeərɪŋ/",
+    "t": "情报共享",
+    "en": "exchange of intelligence information"
+  },
+  "satellite": {
+    "p": "/ˈsætəlaɪt/",
+    "t": "卫星",
+    "en": "an object orbiting a planet"
+  },
+  "intercept": {
+    "p": "/ˌɪntəˈsept/",
+    "t": "拦截；截获",
+    "en": "stop or seize something in transit"
+  },
+  "intel": {
+    "p": "/ˈɪntel/",
+    "t": "情报",
+    "en": "intelligence information"
+  },
+  "armtwisting": {
+    "p": "/ˈɑːm twɪstɪŋ/",
+    "t": "施压；强迫",
+    "en": "pressure or coercion"
+  },
+  "assurance": {
+    "p": "/əˈʃʊərəns/",
+    "t": "保证；信心",
+    "en": "a promise or confidence"
+  },
+  "invade": {
+    "p": "/ɪnˈveɪd/",
+    "t": "入侵",
+    "en": "enter forcefully as an enemy"
+  },
+  "regroup": {
+    "p": "/ˌriːˈɡruːp/",
+    "t": "重新集结",
+    "en": "reorganize after a setback"
+  },
+  "positioned": {
+    "p": "/pəˈzɪʃnd/",
+    "t": "安置；定位",
+    "en": "placed in a particular position"
+  },
+  "menace": {
+    "p": "/ˈmenəs/",
+    "t": "威胁；危险",
+    "en": "a threat or danger"
+  },
+  "fairweather": {
+    "p": "/ˌfeəˈweðə(r)/",
+    "t": "顺境时的；不可靠的",
+    "en": "loyal only in good times"
+  },
+  "mercies": {
+    "p": "/ˈmɜːsiz/",
+    "t": "仁慈；怜悯",
+    "en": "compassion or leniency"
+  },
+  "miserable": {
+    "p": "/ˈmɪzrəbl/",
+    "t": "痛苦的；悲惨的",
+    "en": "very unhappy or wretched"
+  },
+  "indirectly": {
+    "p": "/ˌɪndəˈrektli/",
+    "t": "间接地",
+    "en": "not in a direct way"
+  },
+  "transplants": {
+    "p": "/ˈtrænsplɑːnts/",
+    "t": "移植；移植器官",
+    "en": "moves to another place or organ transfers"
+  },
+  "currency": {
+    "p": "/ˈkʌrənsi/",
+    "t": "货币；通货",
+    "en": "a system of money in use"
+  },
+  "massmarket": {
+    "p": "/ˈmæs mɑːkɪt/",
+    "t": "大众市场",
+    "en": "a market for many ordinary consumers"
   }
 }
