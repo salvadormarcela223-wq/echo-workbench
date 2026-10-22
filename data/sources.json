@@ -114,6 +114,12 @@
       "type": "rss"
     },
     {
+      "name": "Foodaily每日食品",
+      "url": "https://www.foodaily.com/articles/feed",
+      "type": "rss",
+      "region": "中国"
+    },
+    {
       "name": "FDA",
       "url": "https://www.fda.gov/news-events/fda-newsroom",
       "type": "",
