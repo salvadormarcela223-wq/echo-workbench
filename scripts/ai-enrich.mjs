@@ -31,12 +31,15 @@ function loadKey() {
   return m[0];
 }
 
-const SYS = `你是一位资深的 FMCG（快消品）感官研究与消费者市场洞察（CMI）行业观察者，具备宏观视野与独立判断力，常年跟踪全球快消、食品饮料、零售与消费者研究动向。
-你的任务：针对给定的行业资讯或专业洞察，以「旁观者」身份做客观、克制、有深度的中文分析——不站队、不吹捧、可指出局限；善于从单条信息中跳脱出来，洞察背后的结构性趋势，并以小见大，给出对研究/品牌方具有长期启发意义的判断。
-规则：
-1) 绝不编造数据、统计数字、日期或不存在的事实；只能基于给定标题与摘要做专业推断。
-2) 语言精炼、有洞察力，面向企业市场研究人员，拒绝空话套话与就事论事的临时战术建议。
-3) 严格只输出一个 JSON 对象（不要 markdown 代码块、不要任何解释文字），字段含义见各任务说明。`;
+const SYS = `你是 FMCG（快消品）领域的双栖行业观察者，同时精通「消费者与市场洞察（CMI）」与「感官研究」两套独立专业体系，且清楚二者的边界：
+- CMI 关注消费者行为、市场趋势、竞争格局、品牌 / 渠道 / 定价、生意增长逻辑（外部市场视角）。
+- 感官研究关注产品感官属性（风味 / 质地 / 香气等）、人的感知机制、描述性与偏爱性测评方法、配方与感官设计（产品与感知视角）。
+你的任务：针对给定内容，以「旁观者」身份做客观、克制、有深度的中文分析——不站队、不吹捧、可指出局限；跳脱单条信息洞察结构性趋势，以小见大给出长期启发。
+关键规则：
+1) 必须把 CMI 与感官研究当作两个独立维度分别看待；只为文章真正相关的维度撰写分析，绝不强行给不相关的维度编造内容。
+2) 绝不编造数据 / 统计 / 日期 / 事实；只能基于给定标题与摘要做专业推断。
+3) 语言精炼、有洞察力，拒绝空话套话与就事论事的临时战术建议。
+4) 严格只输出一个 JSON 对象（不要 markdown、不要解释文字），字段含义见各任务说明。`;
 
 function extractJSON(s) {
   const m = s.match(/\{[\s\S]*\}/);
@@ -146,9 +149,13 @@ function buildPrompt(it, group, missing) {
   const parts = [];
   if (missing.includes('summary')) parts.push('"summary":"80-140字要点摘要，概括核心事实与影响，专业准确，不要出现网页导航/HTML文字"');
   if (missing.includes('core')) parts.push('"core":"60-90字，提炼本文中心论点与核心结论（不是泛泛「讲了什么」），点出关键证据/数据支撑与「为什么重要」，专业准确"');
-  if (missing.includes('view')) parts.push('"view":"120-160字，以旁观者身份客观分析：（1）本文折射出的大趋势/结构性变化；（2）克制点评其立场与局限（不站队）；（3）从小见大，对「我们（研究/品牌方）如何重新看待这类议题」的长期启发。严禁「立即启动/建议监测本次事件」等就事论事措辞"');
+  if (missing.includes('viewCMI') || missing.includes('viewSensory')) {
+    parts.push('"lens":"该文最相关的维度，严格取其一：cmi（仅消费者与市场洞察）/ sensory（仅感官研究）/ both（两者都相关）/ neither（都不相关）"');
+    parts.push('"viewCMI":"仅当 lens 为 cmi 或 both 时填写：120-160字，以旁观者身份就消费者与市场洞察(CMI)维度分析——市场/消费/生意含义、折射的结构性趋势、以小见大的长期启发；若 lens 为 sensory 或 neither，则输出空字符串"');
+    parts.push('"viewSensory":"仅当 lens 为 sensory 或 both 时填写：120-160字，以旁观者身份就感官研究维度分析——产品感官属性/感知机制/测评方法的含义、折射的范式变化、长期启发；若 lens 为 cmi 或 neither，则输出空字符串"');
+  }
   if (missing.includes('action')) parts.push('"action":"60-90字，给出值得长期追问的方向/思维框架，而非一次性战术动作；例如「哪些假设需要重新验证」「该建立什么长期监测视角」。不要给出「接下来该做X」的临时建议"');
-  return base + `\n请基于以上洞察，以「行业旁观者」身份用中文产出专业分析。\n只输出 JSON：{${parts.join(', ')}}`;
+  return base + `\n请基于以上洞察，以「行业旁观者」身份分析。务必把「消费者与市场洞察(CMI)」与「感官研究」当作两个独立维度分别看待：只对其真正相关的维度给分析，不要为不相关的维度编造内容。\n只输出 JSON：{${parts.join(', ')}}`;
 }
 
 // 全文中文翻译（长文分段，返回纯中文文本）
@@ -227,9 +234,15 @@ export function buildTasks(feed) {
   (feed.insights || []).forEach((it, idx) => {
     const miss = [];
     if (isEmpty(it.core)) miss.push('core');
-    if (isEmpty(it.view)) miss.push('view');
     if (isEmpty(it.action)) miss.push('action');
-    const fresh = miss.length > 0; // 已富集的存量条目（core/view/action 都满）不再碰
+    // 双维度视角：仅对「新条目」(无旧 view 字段) 生成 lens/viewCMI/viewSensory；
+    // 已富集的存量条目(有旧 view)不做任何改动，保持存量不动。
+    if (isEmpty(it.view)) {
+      miss.push('lens');
+      miss.push('viewCMI');
+      miss.push('viewSensory');
+    }
+    const fresh = miss.length > 0;
     if (fresh) {
       if (isBadTitle(it.title)) miss.push('title');   // 英文/冗长标题 → 生成中文短标题
       if (isBadSummary(it.summary)) miss.push('summary'); // 垃圾摘要 → 基于标题重生成

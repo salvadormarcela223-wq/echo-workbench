@@ -139,6 +139,20 @@ function tagColor(map, key) {
     paintInsight();
   };
 
+  function dualView(n) {
+    const c = (n.viewCMI || '').trim();
+    const s = (n.viewSensory || '').trim();
+    if (!c && !s) return '<div class="quote">' + esc(n.view || '—') + '</div>';
+    const block = (label, color, txt) =>
+      '<div style="border-left:3px solid ' + color + ';padding:4px 0 4px 10px;margin:5px 0">' +
+      '<div style="font-size:11px;font-weight:500;color:' + color + ';margin-bottom:3px">' + label + '</div>' +
+      '<div style="font-size:12.5px;line-height:1.55;color:var(--color-text-primary)">' + esc(txt) + '</div></div>';
+    let h = '';
+    if (c) h += block('CMI 视角', '#185FA5', c);
+    if (s) h += block('感官视角', '#3B6D11', s);
+    return h;
+  }
+
   function paintInsight() {
     const box = document.getElementById('pgBody');
     if (!box) return;
@@ -147,7 +161,7 @@ function tagColor(map, key) {
       if (iFilter !== '全部' && n.topic !== iFilter) return false;
       if (iQuery) {
         const q = iQuery.toLowerCase();
-        return (n.title + n.core + n.origin + (n.view || '') + (n.action || '')).toLowerCase().includes(q);
+        return (n.title + n.core + n.origin + (n.view || '') + (n.viewCMI || '') + (n.viewSensory || '') + (n.action || '')).toLowerCase().includes(q);
       }
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
@@ -164,7 +178,7 @@ function tagColor(map, key) {
       '</div>' +
 
       '<div class="sec-head">' +
-      '<div class="sec-title">全球情报 · 宏观视角与启示</div>' +
+      '<div class="sec-title">全球情报 · CMI / 感官 双维度视角</div>' +
       '<div class="sec-note">搜索范围：行业新闻 / 研究报告 / 公司博客 / Reddit / X / LinkedIn / Medium / 学术与预印本</div>' +
       '<div class="spacer"></div>' +
       '<button class="btn primary" id="iAdd">' + ico('plus') + '添加</button>' +
@@ -178,7 +192,7 @@ function tagColor(map, key) {
 
       (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
         '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
-        '<th style="min-width:320px">核心内容</th><th style="min-width:330px">宏观视角与启示</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
+        '<th style="min-width:320px">核心内容</th><th style="min-width:330px">CMI / 感官视角</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
         list.slice(0, iShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
@@ -187,7 +201,7 @@ function tagColor(map, key) {
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
           '<td>' + esc(n.core) + '</td>' +
-          '<td><div class="quote">' + esc(n.view || '—') + '</div></td>' +
+          '<td>' + dualView(n) + '</td>' +
           '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>' +
           '<td><div class="row-act">' +
           '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
@@ -209,7 +223,7 @@ function tagColor(map, key) {
   }
 
   function insightForm(n) {
-    const d = n || { date: S.today(), topic: '感官分析', title: '', origin: '', region: '', core: '', view: '', action: '', link: '' };
+    const d = n || { date: S.today(), topic: '感官分析', title: '', origin: '', region: '', core: '', view: '', viewCMI: '', viewSensory: '', action: '', link: '' };
     U.modal({
       title: n ? '编辑情报' : '添加情报',
       body:
@@ -219,15 +233,20 @@ function tagColor(map, key) {
         '<div class="grid2"><div class="field"><label>来源机构 / 作者</label><input class="inp" id="g_org" value="' + esc(d.origin) + '"></div>' +
         '<div class="field"><label>地区</label><input class="inp" id="g_rg" value="' + esc(d.region || '') + '"></div></div>' +
         '<div class="field"><label>核心内容（中文）</label><textarea class="txa" id="g_core">' + esc(d.core) + '</textarea></div>' +
-        '<div class="field"><label>宏观视角与启示（旁观者客观分析）</label><textarea class="txa" id="g_view">' + esc(d.view) + '</textarea></div>' +
+        '<div class="field"><label>CMI 视角（消费者与市场洞察）</label><textarea class="txa" id="g_viewcmi">' + esc(d.viewCMI || '') + '</textarea></div>' +
+        '<div class="field"><label>感官视角（感官研究）</label><textarea class="txa" id="g_viewSensory">' + esc(d.viewSensory || '') + '</textarea></div>' +
         '<div class="field"><label>长期启发</label><input class="inp" id="g_act" value="' + esc(d.action || '') + '"></div>' +
         '<div class="field"><label>链接（可选）</label><input class="inp" id="g_link" value="' + esc(d.link || '') + '"></div>',
       onOk: m => {
         const v = id => (m.querySelector('#' + id).value || '').trim();
         if (!v('g_title')) { U.toast('标题不能为空'); return false; }
+        const hasNew = v('g_viewcmi') || v('g_viewSensory');
         const obj = {
           date: v('g_date') || S.today(), topic: v('g_tp'), title: v('g_title'), origin: v('g_org'),
-          region: v('g_rg'), core: v('g_core'), view: v('g_view'), action: v('g_act'), link: v('g_link'), custom: true
+          region: v('g_rg'), core: v('g_core'),
+          view: hasNew ? '' : (n ? (n.view || '') : ''),
+          viewCMI: v('g_viewcmi'), viewSensory: v('g_viewSensory'),
+          action: v('g_act'), link: v('g_link'), custom: true
         };
         if (n) S.update('insights', n.id, obj); else S.add('insights', obj);
         paintInsight(); window.rerender(); U.toast('已保存', 'ok');
