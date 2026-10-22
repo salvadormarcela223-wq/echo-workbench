@@ -30,6 +30,14 @@ function clean(s) {
     .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
     .replace(/\s+/g, ' ').trim();
 }
+// 标题护栏：个别源（如 NIQ 的 sitemap/JSON-LD 页）会把整篇正文误当标题抓进来。
+// 这里只做"防撑爆存储"的硬截断（>300字截到300），真正的中文短标题由 ai-enrich 在富集阶段生成。
+function sanitizeTitle(raw) {
+  const t = clean(raw || '');
+  if (!t) return '';
+  if (t.length > 300) return t.slice(0, 300).trim();
+  return t;
+}
 
 // —— 浏览器渲染抓取（type:"browser"）：针对 JS 动态站（WHO / Bain / NielsenIQ 等），
 // 普通 fetch 拿不到内容，改用本机 Chrome 渲染后再抽取文章链接。仅当源配置为 browser 时才加载 puppeteer。
@@ -387,7 +395,7 @@ function readFeed() {
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
             // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
-              title: it.title, source: s.name, link: itLink,
+              title: sanitizeTitle(it.title), source: s.name, link: itLink,
               topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, date: pubDate.toISOString().slice(0, 10),
               core: '', view: '', action: '', origin: s.name,

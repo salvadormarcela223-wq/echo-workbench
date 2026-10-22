@@ -115,7 +115,7 @@ function tagColor(map, key) {
         '<div class="grid2"><div class="field"><label>来源</label><input class="inp" id="f_src" value="' + esc(d.source) + '"></div>' +
         '<div class="field"><label>热度 1-5</label><input class="inp" id="f_heat" type="number" min="1" max="5" value="' + (d.heat || 3) + '"></div></div>' +
         '<div class="field"><label>要点摘要</label><textarea class="txa" id="f_sum">' + esc(d.summary) + '</textarea></div>' +
-        '<div class="field"><label>影响解读（我的判断）</label><textarea class="txa" id="f_imp">' + esc(d.impact) + '</textarea></div>' +
+        '<div class="field"><label>影响解读（宏观视角）</label><textarea class="txa" id="f_imp">' + esc(d.impact) + '</textarea></div>' +
         '<div class="field"><label>原文链接（可选）</label><input class="inp" id="f_link" value="' + esc(d.link || '') + '"></div>',
       onOk: m => {
         const v = id => (m.querySelector('#' + id).value || '').trim();
@@ -164,7 +164,7 @@ function tagColor(map, key) {
       '</div>' +
 
       '<div class="sec-head">' +
-      '<div class="sec-title">全球情报 · 顾问视角</div>' +
+      '<div class="sec-title">全球情报 · 宏观视角与启示</div>' +
       '<div class="sec-note">搜索范围：行业新闻 / 研究报告 / 公司博客 / Reddit / X / LinkedIn / Medium / 学术与预印本</div>' +
       '<div class="spacer"></div>' +
       '<button class="btn primary" id="iAdd">' + ico('plus') + '添加</button>' +
@@ -178,7 +178,7 @@ function tagColor(map, key) {
 
       (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
         '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
-        '<th style="min-width:320px">核心内容</th><th style="min-width:330px">顾问视角</th><th style="min-width:220px">行动建议</th><th style="width:66px"></th></tr></thead><tbody>' +
+        '<th style="min-width:320px">核心内容</th><th style="min-width:330px">宏观视角与启示</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
         list.slice(0, iShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
@@ -219,8 +219,8 @@ function tagColor(map, key) {
         '<div class="grid2"><div class="field"><label>来源机构 / 作者</label><input class="inp" id="g_org" value="' + esc(d.origin) + '"></div>' +
         '<div class="field"><label>地区</label><input class="inp" id="g_rg" value="' + esc(d.region || '') + '"></div></div>' +
         '<div class="field"><label>核心内容（中文）</label><textarea class="txa" id="g_core">' + esc(d.core) + '</textarea></div>' +
-        '<div class="field"><label>顾问视角（我的判断与立场）</label><textarea class="txa" id="g_view">' + esc(d.view) + '</textarea></div>' +
-        '<div class="field"><label>行动建议</label><input class="inp" id="g_act" value="' + esc(d.action || '') + '"></div>' +
+        '<div class="field"><label>宏观视角与启示（旁观者客观分析）</label><textarea class="txa" id="g_view">' + esc(d.view) + '</textarea></div>' +
+        '<div class="field"><label>长期启发</label><input class="inp" id="g_act" value="' + esc(d.action || '') + '"></div>' +
         '<div class="field"><label>链接（可选）</label><input class="inp" id="g_link" value="' + esc(d.link || '') + '"></div>',
       onOk: m => {
         const v = id => (m.querySelector('#' + id).value || '').trim();

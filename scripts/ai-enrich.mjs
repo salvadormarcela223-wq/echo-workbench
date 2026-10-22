@@ -31,11 +31,11 @@ function loadKey() {
   return m[0];
 }
 
-const SYS = `你是一位资深 FMCG（快消品）感官研究与消费者市场洞察（CMI）顾问，深耕电子烟/雾化及广义快消行业。
-你的任务是针对给定的行业资讯或专业洞察，产出专业、务实、可执行的中文分析。
+const SYS = `你是一位资深的 FMCG（快消品）感官研究与消费者市场洞察（CMI）行业观察者，具备宏观视野与独立判断力，常年跟踪全球快消、食品饮料、零售与消费者研究动向。
+你的任务：针对给定的行业资讯或专业洞察，以「旁观者」身份做客观、克制、有深度的中文分析——不站队、不吹捧、可指出局限；善于从单条信息中跳脱出来，洞察背后的结构性趋势，并以小见大，给出对研究/品牌方具有长期启发意义的判断。
 规则：
-1) 绝不编造数据、统计数字、日期或不存在的事实；只能基于给定的标题与摘要进行专业解读与推断。
-2) 语言精炼、有顾问语气，面向企业市场研究人员，不要空话套话。
+1) 绝不编造数据、统计数字、日期或不存在的事实；只能基于给定标题与摘要做专业推断。
+2) 语言精炼、有洞察力，面向企业市场研究人员，拒绝空话套话与就事论事的临时战术建议。
 3) 严格只输出一个 JSON 对象（不要 markdown 代码块、不要任何解释文字），字段含义见各任务说明。`;
 
 function extractJSON(s) {
@@ -110,23 +110,45 @@ export async function translateWords(words) {
   }
 }
 
+// 把任意字段清洗为纯文本（剥离 HTML 标签与多余空白），避免把垃圾摘要当上下文喂给模型
+function cleanCtx(s) {
+  return (s || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+// 标题是否「冗长 / 英文 / 像正文」（>40字 或含HTML 或多句）——仅对新条目触发重生成
+function isBadTitle(v) {
+  const s = (v || '').trim();
+  if (!s) return true;
+  if (/<[a-z][^>]*>/i.test(s)) return true;
+  if (s.length > 40) return true;
+  const sentences = (s.match(/[。.!?！？；;]/g) || []).length;
+  if (sentences >= 3) return true; // 含多个句号的更像正文而非标题
+  return false;
+}
+
 function buildPrompt(it, group, missing) {
   const label = group === 'news' ? '分类' : '主题';
   const dim = group === 'news' ? (it.cat || it.dimension || '') : (it.topic || '');
-  const base = `标题：${it.title || ''}\n来源：${it.source || it.origin || ''}\n${label}：${dim}\n` +
-    (it.summary ? `摘要：${it.summary}\n` : '') +
+  // 摘要若为垃圾（HTML/导航残留）则丢弃，不让脏数据污染模型上下文；让其进入 missing 由模型基于标题重生成
+  const sum = isBadSummary(it.summary) ? '' : cleanCtx(it.summary);
+  const base = `标题：${cleanCtx(it.title || '')}\n来源：${it.source || it.origin || ''}\n${label}：${dim}\n` +
+    (sum ? `摘要：${sum}\n` : '') +
     (it.region ? `地区：${it.region}\n` : '');
+  // 标题冗长/英文/垃圾 → 生成简洁中文短标题（仅新条目触发，存量不动）
+  if (missing.includes('title')) {
+    return base + `\n请基于以上信息，提炼一个简洁的中文短标题（≤18字，准确概括核心，不要"报告：""分析："等前缀，不要标点堆砌）。\n只输出 JSON：{"title":"中文短标题"}`;
+  }
   if (group === 'news' && missing.includes('summary')) {
-    return base + `\n请基于以上资讯标题与内容，用中文写出「要点摘要」：80-140字，概括核心事实与影响，专业准确，不要出现网页导航文字，不要输出任何多余内容。\n只输出 JSON：{"summary":"中文要点摘要"}`;
+    return base + `\n请基于以上资讯标题与内容，用中文写出「要点摘要」：80-140字，概括核心事实与影响，专业准确，不要出现网页导航文字或 HTML 残留，不要输出任何多余内容。\n只输出 JSON：{"summary":"中文要点摘要"}`;
   }
   if (group === 'news' && missing.includes('impact')) {
-    return base + `\n请基于以上资讯，用中文产出「顾问视角解读」。\n只输出 JSON：{"impact":"80-120字，说明这条资讯对FMCG感官研究/CMI工作的影响与含义，务实专业，不编造数据"}`;
+    return base + `\n请以「行业旁观者」身份，用中文产出「宏观影响解读」：\n1) 跳脱本条具体事件，指出它折射出的行业大趋势或结构性变化；\n2) 客观点评（不站队、可指出数据/立场的局限）；\n3) 对研究/品牌方的长期启发（不是临时战术动作）。\n只输出 JSON：{"impact":"120-160字，宏观视角、以小见大、长期启发，严禁出现'立即启动/建议监测本次事件'这类就事论事措辞"}`;
   }
   const parts = [];
-  if (missing.includes('core')) parts.push('"core":"50-80字核心内容概括（这条洞察讲了什么）"');
-  if (missing.includes('view')) parts.push('"view":"80-120字顾问视角（对FMCG感官研究/CMI意味着什么）"');
-  if (missing.includes('action')) parts.push('"action":"50-80字行动建议（接下来该做什么）"');
-  return base + `\n请基于以上洞察，用中文产出专业分析。\n只输出 JSON：{${parts.join(', ')}}`;
+  if (missing.includes('summary')) parts.push('"summary":"80-140字要点摘要，概括核心事实与影响，专业准确，不要出现网页导航/HTML文字"');
+  if (missing.includes('core')) parts.push('"core":"60-90字，提炼本文中心论点与核心结论（不是泛泛「讲了什么」），点出关键证据/数据支撑与「为什么重要」，专业准确"');
+  if (missing.includes('view')) parts.push('"view":"120-160字，以旁观者身份客观分析：（1）本文折射出的大趋势/结构性变化；（2）克制点评其立场与局限（不站队）；（3）从小见大，对「我们（研究/品牌方）如何重新看待这类议题」的长期启发。严禁「立即启动/建议监测本次事件」等就事论事措辞"');
+  if (missing.includes('action')) parts.push('"action":"60-90字，给出值得长期追问的方向/思维框架，而非一次性战术动作；例如「哪些假设需要重新验证」「该建立什么长期监测视角」。不要给出「接下来该做X」的临时建议"');
+  return base + `\n请基于以上洞察，以「行业旁观者」身份用中文产出专业分析。\n只输出 JSON：{${parts.join(', ')}}`;
 }
 
 // 全文中文翻译（长文分段，返回纯中文文本）
@@ -190,12 +212,16 @@ function isBadSummary(v) {
 
 // 构建「待富集」任务清单（纯本地计算，绝不调用 DeepSeek）
 // 供正式富集与 --dry 预览共用：在花 token 之前先看清楚要发多少条
+// 关键：标题/摘要重生成只对「新条目」(fresh, 即本就缺 core/view/action/impact 的条目) 触发，
+// 已填充的存量条目不会被重新富集，从而「存量不动、只改后续输出」。
 export function buildTasks(feed) {
   const tasks = [];
   (feed.news || []).forEach((it, idx) => {
     const miss = [];
     if (isEmpty(it.impact)) miss.push('impact');
     if (isBadSummary(it.summary)) miss.push('summary');
+    const fresh = miss.length > 0; // 已有影响解读的存量条目不再碰
+    if (fresh && isBadTitle(it.title)) miss.push('title');
     if (miss.length) tasks.push({ group: 'news', idx, missing: miss, key: `news:${idx}` });
   });
   (feed.insights || []).forEach((it, idx) => {
@@ -203,6 +229,11 @@ export function buildTasks(feed) {
     if (isEmpty(it.core)) miss.push('core');
     if (isEmpty(it.view)) miss.push('view');
     if (isEmpty(it.action)) miss.push('action');
+    const fresh = miss.length > 0; // 已富集的存量条目（core/view/action 都满）不再碰
+    if (fresh) {
+      if (isBadTitle(it.title)) miss.push('title');   // 英文/冗长标题 → 生成中文短标题
+      if (isBadSummary(it.summary)) miss.push('summary'); // 垃圾摘要 → 基于标题重生成
+    }
     if (miss.length) tasks.push({ group: 'insights', idx, missing: miss, key: `insights:${idx}` });
   });
   return tasks;
