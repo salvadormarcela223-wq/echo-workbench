@@ -126,6 +126,20 @@
       "region": "中国"
     },
     {
+      "name": "FoodTalks",
+      "url": "https://www.foodtalks.cn/",
+      "type": "foodtalks",
+      "apiBase": "https://api-we.foodtalks.cn",
+      "region": "中国"
+    },
+    {
+      "name": "Kantar 凯度",
+      "url": "https://www.kantar.com/sitemap.xml",
+      "type": "sitemap",
+      "articleRe": "kantar.com/(inspiration|consulting|campaigns|news|article|blog)/",
+      "region": "全球"
+    },
+    {
       "name": "FDA",
       "url": "https://www.fda.gov/news-events/fda-newsroom",
       "type": "",

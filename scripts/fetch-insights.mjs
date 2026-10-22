@@ -66,7 +66,7 @@ async function fetchBrowserHTML(url, waitMs = 7000) {
     for (let i = 0; i < 10; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 500)); }
     await new Promise((r) => setTimeout(r, 2500));
     return await page.content();
-  } finally { if (browser) await browser.close(); }
+  } finally { try { if (browser) await browser.close(); } catch (e) { /* 关闭时偶发 EBUSY 等，忽略，不向外抛，避免拖垮整个 insights 抓取 */ } }
 }
 // 用 articleRe（来自源配置）精确匹配文章链接，避免误抓栏目/导航页
 function parseBrowser(html, base, articleRe) {
@@ -230,6 +230,81 @@ async function deriveDate(link) {
   } catch (e) { }
   return null;
 }
+// JSON 接口取数（FoodTalks 等 SPA 站：列表/详情均走后端 API，无 RSS、DOM 无文章链接）
+async function getJson(url, extraHeaders = {}) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), 20000);
+  try {
+    const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': 'application/json', ...extraHeaders }, redirect: 'follow', signal: ctrl.signal });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return await r.json();
+  } finally { clearTimeout(t); }
+}
+// FoodTalks：上海辛巴旗下食品媒体平台（FBIF 内容也发表于此，author/sourceName=FBIF）。
+// 列表接口分页拿最新，详情接口取标题/发布时间/摘要/正文；链接用真实文章页 https://www.foodtalks.cn/news/{id}
+async function parseFoodTalks(s) {
+  const H = { 'User-Agent': UA, 'Referer': s.url || 'https://www.foodtalks.cn/' };
+  const apiBase = s.apiBase || 'https://api-we.foodtalks.cn';
+  const cutoff = Date.now() - 45 * 864e5;
+  const items = [];
+  let current = 1;
+  while (items.length < 25 && current <= 8) {
+    let j;
+    try { j = await getJson(`${apiBase}/news/news/page?current=${current}&size=20&language=ZH`, H); }
+    catch (e) { console.log(`  (FoodTalks 列表页 ${current} 失败: ${e.message})`); break; }
+    const page = j?.data || {};
+    const list = page.list || page.records || page.data || [];
+    if (!list.length) break;
+    let gotRecent = false;
+    for (const it of list) {
+      const t = new Date((it.publishTime || '').replace(/-/g, '/')).getTime();
+      if (isNaN(t) || t < cutoff) continue;
+      gotRecent = true;
+      let detail = {};
+      if (!it.summary) { try { detail = (await getJson(`${apiBase}/news/news/${it.id}?language=ZH`, H))?.data || {}; } catch (_) { } }
+      const summary = clean(detail.summary || it.summary || '').slice(0, 160);
+      if (!summary) continue;
+      items.push({
+        title: clean(it.title),
+        link: `https://www.foodtalks.cn/news/${it.id}`,
+        pub: (it.publishTime || '').slice(0, 10),
+        desc: summary,
+      });
+      if (items.length >= 25) break;
+    }
+    if (!gotRecent) break;
+    current++;
+  }
+  return items;
+}
+// 通用 sitemap + JSON-LD 取数（凯度 Kantar 等 SPA 站：sitemap 给文章 URL，文章页服务端直出 JSON-LD 含标题/日期/摘要）
+async function parseSitemapJsonLd(s) {
+  const xml = await getText(s.url);
+  const entries = [...xml.matchAll(/<loc>([^<]+)<\/loc>(?:\s*<lastmod>([^<]+)<\/lastmod>)?/g)]
+    .map((m) => ({ u: m[1], d: m[2] || '' }));
+  const cutoff = Date.now() - 45 * 864e5;
+  const isArt = (u) => !/\.(png|jpg|jpeg|gif|css|js|xml|pdf)$/i.test(u);
+  const artRe = s.articleRe ? new RegExp(s.articleRe) : null;
+  const arts = entries.filter((e) => isArt(e.u) && (!artRe || artRe.test(e.u)));
+  const recent = arts.filter((e) => e.d && new Date(e.d).getTime() >= cutoff);
+  const pool = (recent.length ? recent : arts).slice(0, 40);
+  const items = [];
+  for (const e of pool) {
+    try {
+      const html = await getText(e.u);
+      let title = '', desc = '', date = '';
+      const ld = html.match(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/i)?.[1];
+      if (ld) { try { const o = JSON.parse(ld); const a = Array.isArray(o) ? o[0] : o; title = clean(a.headline); desc = clean(a.description); date = a.datePublished || ''; } catch (_) { } }
+      if (!title) title = clean((html.match(/<title>([^<]+)<\/title>/i) || [])[1]);
+      if (!desc) desc = clean((html.match(/<meta[^>]*property=["']og:description["'][^>]*content=["']([^"']+)["']/i) || [])[1]);
+      if (!date) { const m = html.match(/datePublished["']?\s*[:=]\s*["']([^"']+)["']/i); if (m) date = m[1]; }
+      if (!title || !desc) continue;
+      items.push({ title, link: e.u, pub: (date || e.d || '').slice(0, 10), desc: desc.slice(0, 160) });
+    } catch (_) { }
+    if (items.length >= 20) break;
+  }
+  return items;
+}
 // 流水线已先跑 news 时，draft 里已含最新 news；insights 应在此基础上追加，而非覆盖
 function readFeed() {
   for (const f of ['data/feed-draft.json', 'data/feed.json']) {
@@ -245,13 +320,26 @@ function readFeed() {
   for (const grp of ['insights']) {
     for (const s of sources[grp]) {
       try {
-        let txt;
-        if (s.type === 'browser') txt = await fetchBrowserHTML(s.url, s.wait || 7000);
-        else txt = await getText(s.url);
-        let items;
-        if (s.type === 'rss') items = parseRSS(txt);
-        else if (s.type === 'browser' && s.articleRe) items = parseBrowser(txt, s.url, s.articleRe);
-        else items = parseHTML(txt, s.url, s.sel || '');
+        let txt = '';
+        let items = [];
+        if (s.type === 'foodtalks') {
+          // SPA 站：列表/详情走后端 JSON 接口（FoodTalks）
+          items = await parseFoodTalks(s);
+        } else if (s.type === 'sitemap') {
+          // SPA 站：sitemap 给文章 URL + 文章页 JSON-LD（凯度等）
+          items = await parseSitemapJsonLd(s);
+        } else {
+          // 单源容错：浏览器源(Bain/WHO/NielsenIQ 等)单独包一层 try，避免个别源渲染超时崩溃拖垮整个 insights 抓取
+          if (s.type === 'browser') {
+            try { txt = await fetchBrowserHTML(s.url, s.wait || 7000); }
+            catch (be) { console.log(`\n=== [${grp}] ${s.name} 浏览器渲染失败(已跳过该源，不影响其他): ${be.message} ===`); txt = ''; }
+          } else {
+            txt = await getText(s.url);
+          }
+          if (s.type === 'rss') items = parseRSS(txt);
+          else if (s.type === 'browser' && s.articleRe) items = parseBrowser(txt, s.url, s.articleRe);
+          else items = parseHTML(txt, s.url, s.sel || '');
+        }
         console.log(`\n=== [${grp}] ${s.name} (${s.type}) 抓到 ${items.length} 条 ===`);
         items.slice(0, 4).forEach((it) => console.log(`  • ${it.title}\n    ${it.link}`));
         if (writeBack) {
