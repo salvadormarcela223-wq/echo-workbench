@@ -56753,5 +56753,235 @@
     "p": "/ˈmæs mɑːkɪt/",
     "t": "大众市场",
     "en": "a market for many ordinary consumers"
+  },
+  "hammers": {
+    "p": "/ˈhæməz/",
+    "t": "锤子(复数)；敲打",
+    "en": "tools for hitting; strikes repeatedly"
+  },
+  "stairs": {
+    "p": "/steəz/",
+    "t": "楼梯",
+    "en": "steps leading from one floor to another"
+  },
+  "jogging": {
+    "p": "/ˈdʒɒɡɪŋ/",
+    "t": "慢跑",
+    "en": "running at a slow steady pace"
+  },
+  "pulse": {
+    "p": "/pʌls/",
+    "t": "脉搏",
+    "en": "rhythmic beating of arteries"
+  },
+  "pumping": {
+    "p": "/ˈpʌmpɪŋ/",
+    "t": "抽送；搏动",
+    "en": "forcing liquid or blood to flow"
+  },
+  "beats": {
+    "p": "/biːts/",
+    "t": "跳动(复数)；敲打",
+    "en": "rhythmic strokes or pulsations"
+  },
+  "cardiologist": {
+    "p": "/ˌkɑːdiˈɒlədʒɪst/",
+    "t": "心脏病专家",
+    "en": "doctor specializing in heart disorders"
+  },
+  "dizziness": {
+    "p": "/ˈdɪzinəs/",
+    "t": "头晕",
+    "en": "feeling of unsteadiness or lightheadedness"
+  },
+  "tightness": {
+    "p": "/ˈtaɪtnəs/",
+    "t": "紧绷；压迫感",
+    "en": "state of being tight or constricted"
+  },
+  "shortness": {
+    "p": "/ˈʃɔːtnəs/",
+    "t": "短促；不足",
+    "en": "quality of being short or insufficient"
+  },
+  "supervision": {
+    "p": "/ˌsuːpəˈvɪʒn/",
+    "t": "监督",
+    "en": "act of overseeing or watching over"
+  },
+  "rowing": {
+    "p": "/ˈrəʊɪŋ/",
+    "t": "划船",
+    "en": "propelling a boat with oars"
+  },
+  "easiest": {
+    "p": "/ˈiːziɪst/",
+    "t": "最容易的",
+    "en": "most simple or effortless"
+  },
+  "approximate": {
+    "p": "/əˈprɒksɪmət/",
+    "t": "大约的",
+    "en": "close to the actual but not exact"
+  },
+  "beatsperminute": {
+    "p": "/biːts pɜː ˈmɪnɪt/",
+    "t": "每分钟心跳次数",
+    "en": "number of heartbeats per minute"
+  },
+  "recheck": {
+    "p": "/ˌriːˈtʃek/",
+    "t": "重新检查",
+    "en": "check again"
+  },
+  "subtract": {
+    "p": "/səbˈtrækt/",
+    "t": "减去",
+    "en": "take away a number or amount"
+  },
+  "vagus": {
+    "p": "/ˈveɪɡəs/",
+    "t": "迷走神经",
+    "en": "the tenth cranial nerve"
+  },
+  "relaying": {
+    "p": "/rɪˈleɪɪŋ/",
+    "t": "传递",
+    "en": "passing on information or signals"
+  },
+  "intestines": {
+    "p": "/ɪnˈtestɪnz/",
+    "t": "肠",
+    "en": "the digestive tract below the stomach"
+  },
+  "fightorflight": {
+    "p": "/faɪt ɔː flaɪt/",
+    "t": "战斗或逃跑反应",
+    "en": "response to threat of fighting or fleeing"
+  },
+  "restanddigest": {
+    "p": "/rest ənd daɪˈdʒest/",
+    "t": "休息与消化",
+    "en": "state of calm and digestion"
+  },
+  "accelerator": {
+    "p": "/əkˈseləreɪtə/",
+    "t": "加速器；油门",
+    "en": "device that increases speed"
+  },
+  "sciences": {
+    "p": "/ˈsaɪənsɪz/",
+    "t": "科学(复数)",
+    "en": "branches of systematic knowledge"
+  },
+  "dilate": {
+    "p": "/daɪˈleɪt/",
+    "t": "扩张",
+    "en": "become wider or larger"
+  },
+  "pumped": {
+    "p": "/pʌmpt/",
+    "t": "泵送的；激动的",
+    "en": "forced to flow; excited"
+  },
+  "lactic": {
+    "p": "/ˈlæktɪk/",
+    "t": "乳酸的",
+    "en": "relating to lactic acid"
+  },
+  "switches": {
+    "p": "/ˈswɪtʃɪz/",
+    "t": "开关(复数)；转换",
+    "en": "devices for turning on/off; changes"
+  },
+  "parasympathetic": {
+    "p": "/ˌpærəˌsɪmpəˈθetɪk/",
+    "t": "副交感的",
+    "en": "relating to the calming part of the nervous system"
+  },
+  "fitter": {
+    "p": "/ˈfɪtə/",
+    "t": "更健康的；装配工",
+    "en": "more healthy; one who fits"
+  },
+  "vagal": {
+    "p": "/ˈveɪɡl/",
+    "t": "迷走神经的",
+    "en": "relating to the vagus nerve"
+  },
+  "tiptop": {
+    "p": "/ˌtɪpˈtɒp/",
+    "t": "极好的；顶尖",
+    "en": "of the highest quality"
+  },
+  "prisoner": {
+    "p": "/ˈprɪzənə/",
+    "t": "囚犯",
+    "en": "a person kept in prison as a punishment or while awaiting trial"
+  },
+  "fundraising": {
+    "p": "/ˈfʌndˌreɪzɪŋ/",
+    "t": "筹款",
+    "en": "the activity of collecting money for a cause"
+  },
+  "cozying": {
+    "p": "/ˈkəʊziɪŋ/",
+    "t": "讨好；拉拢",
+    "en": "acting in a friendly way to gain favor"
+  },
+  "waived": {
+    "p": "/weɪvd/",
+    "t": "放弃；免除",
+    "en": "gave up a right or claim voluntarily"
+  },
+  "warfare": {
+    "p": "/ˈwɔːfeə/",
+    "t": "战争；作战",
+    "en": "the activity of fighting a war"
+  },
+  "muddled": {
+    "p": "/ˈmʌdld/",
+    "t": "混乱的；糊涂的",
+    "en": "confused or disordered"
+  },
+  "amounted": {
+    "p": "/əˈmaʊntɪd/",
+    "t": "总计；等于",
+    "en": "added up to a total"
+  },
+  "papering": {
+    "p": "/ˈpeɪpərɪŋ/",
+    "t": "贴壁纸；掩盖",
+    "en": "covering with wallpaper; concealing problems"
+  },
+  "freeze": {
+    "p": "/friːz/",
+    "t": "冻结；冰冻",
+    "en": "to become hard and solid from cold; to fix or stop"
+  },
+  "envoy": {
+    "p": "/ˈenvɔɪ/",
+    "t": "特使；使者",
+    "en": "a messenger or representative sent on a mission"
+  },
+  "humanitarian": {
+    "p": "/hjuːˌmænɪˈteəriən/",
+    "t": "人道主义的",
+    "en": "concerned with reducing human suffering"
+  },
+  "delighted": {
+    "p": "/dɪˈlaɪtɪd/",
+    "t": "高兴的",
+    "en": "feeling great pleasure"
+  },
+  "monument": {
+    "p": "/ˈmɒnjumənt/",
+    "t": "纪念碑；纪念物",
+    "en": "a structure built to commemorate a person or event"
+  },
+  "fuming": {
+    "p": "/ˈfjuːmɪŋ/",
+    "t": "愤怒的；冒烟的",
+    "en": "extremely angry; emitting fumes"
   }
 }
