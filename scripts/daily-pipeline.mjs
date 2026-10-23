@@ -109,7 +109,9 @@ function tryRun(cmd, label) {
     const check = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
     const emptyImpacts = (check.news || []).filter(n => !n.impact || !n.impact.trim()).length;
     const emptyCores = (check.insights || []).filter(n =>
-      !n.core || !n.core.trim() || !n.view || !n.view.trim() || !n.action || !n.action.trim()
+      !n.core || !n.core.trim() || !n.action || !n.action.trim() ||
+      // 双维度：view(旧) 或 viewCMI/viewSensory(新) 任一非空即视为已填，三者全空才算缺失
+      (!(n.view && n.view.trim()) && !(n.viewCMI && n.viewCMI.trim()) && !(n.viewSensory && n.viewSensory.trim()))
     ).length;
     console.log(`本轮结束 → 剩余空 impact: ${emptyImpacts}, 空核心字段: ${emptyCores}`);
 

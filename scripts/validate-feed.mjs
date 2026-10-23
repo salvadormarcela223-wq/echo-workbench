@@ -68,11 +68,18 @@ export function validate(feed, opts = {}) {
       const genT = /^(subscribe|newsletter|read more|press announcements|press releases|industry news|sign up for email updates|news and events|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
       if (genT.test(String(it.title || '').trim())) report.critical.push(`${tag} 疑似栏目页标题「${it.title}」`);
       // 专业提升(insights)渲染读 core/view/action，闸门必须真实验证这三项（不能只看 legacy 的 impact）
+      // 双维度框架：新条目只写 viewCMI/viewSensory，旧 view 故意留空；故「视角」只要 view / viewCMI / viewSensory 任一非空即算已填
       if (g === 'insights') {
-        for (const f of ['core', 'view', 'action']) {
+        for (const f of ['core', 'action']) {
           // 抓取草稿阶段：三栏待 DeepSeek 填充，放行；严格发布阶段(skipImpactEmpty=false)会拦截
           if (skipImpactEmpty) continue;
           if (!it[f] || !String(it[f]).trim()) emptyFields.push({ tag, field: f, reason: `${tag} 字段「${f}」为空（会显示空白）` });
+        }
+        // 视角字段：view(旧) 或 viewCMI/viewSensory(新) 任一非空即通过；
+        // 但 lens=neither（文章与 CMI/感官都不相关）属正常无视角状态，不判缺失，避免误拦发布
+        if (!skipImpactEmpty) {
+          const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
+          if (!hasView && it.lens !== 'neither') emptyFields.push({ tag, field: 'view', reason: `${tag} 字段「view/viewCMI/viewSensory」均为空（会显示空白）` });
         }
       }
       if (it.link) {
@@ -102,23 +109,45 @@ export function validate(feed, opts = {}) {
     }
     report[g + 'Dimensions'] = [...dims];
   }
-  // 阅读生词释义覆盖率（正文每个英文单词都可点击，所以检查全部单词）
+  // 阅读生词释义覆盖率 —— 必须与前端 pages-english.js 的真实查词逻辑一致：
+  // 内联 GEN_EN_ZH(常用词) + 阅读自带 vocab + data/words.json，兜底 data/glossary.json，再做词形还原。
+  // 只查 words.json 会严重低估覆盖率（曾虚报 78%）。
   const readings = feed.readings || [];
-  let wordBank = new Set();
+  let wordBank = {}, glossary = {}, genZh = {};
+  try { wordBank = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/words.json'), 'utf-8')); } catch { }
+  try { glossary = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/glossary.json'), 'utf-8')); } catch { }
   try {
-    const wj = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/words.json'), 'utf-8'));
-    wordBank = new Set(Object.keys(wj));
+    const js = fs.readFileSync(path.join(ROOT, 'assets/js/pages-english.js'), 'utf-8');
+    const mm = js.match(/const GEN_EN_ZH = (\{[^}]*\});/);
+    if (mm) genZh = JSON.parse(mm[1]);
   } catch { }
-  const vocabWords = new Set();
-  readings.forEach(r => (r.vocab || []).forEach(v => { if (v.w) vocabWords.add(v.w.toLowerCase()); }));
+  const SUFFIXES = ['es', 's', 'ed', 'ing', 'ly'];
+  const hasDef = (o) => !!(o && ((o.t && String(o.t).trim()) || (o.en && String(o.en).trim())));
   let totalU = 0, missing = 0; const missingList = [];
   readings.forEach(r => {
-    const text = (Array.isArray(r.body) ? r.body.join(' ') : (r.body || '')).replace(/<[^>]+>/g, ' ');
-    (text.match(/[A-Za-z][A-Za-z'’-]*/g) || []).forEach(t => {
-      const w = t.toLowerCase();
+    const allMap = {};
+    for (const k in genZh) allMap[k] = { t: genZh[k] };
+    (r.vocab || []).forEach(v => { if (v && v.w) allMap[String(v.w).toLowerCase()] = v; });
+    for (const k in wordBank) {
+      const wb = wordBank[k]; if (!wb) continue;
+      const ex = allMap[k];
+      allMap[k] = { p: (ex && ex.p) || wb.ph || '', t: (ex && ex.t) || wb.zh || '', en: wb.en || (ex && ex.en) || '' };
+    }
+    const covered = (key) => {
+      if (hasDef(allMap[key]) || hasDef(glossary[key])) return true;
+      for (const sfx of SUFFIXES) {
+        const c = key.replace(new RegExp(sfx + '$'), '');
+        if (c === key) continue;
+        if (hasDef(allMap[c]) || hasDef(glossary[c])) return true;
+      }
+      return false;
+    };
+    const text = (Array.isArray(r.body) ? r.body.join('') : String(r.body || '')).replace(/<[^>]+>/g, '');
+    (text.match(/[A-Za-z][A-Za-z'\u2019-]*/g) || []).forEach(t => {
+      const w = t.toLowerCase().replace(/\u2019/g, "'");
       if (!w) return;
       totalU++;
-      if (!wordBank.has(w) && !vocabWords.has(w)) { missing++; if (missingList.length < 25) missingList.push(w); }
+      if (!covered(w)) { missing++; if (missingList.length < 25) missingList.push(w); }
     });
   });
   const coverage = totalU ? Math.round((1 - missing / totalU) * 100) : 100;

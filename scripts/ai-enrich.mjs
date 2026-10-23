@@ -237,10 +237,21 @@ export function buildTasks(feed) {
     if (isEmpty(it.action)) miss.push('action');
     // 双维度视角：仅对「新条目」(无旧 view 字段) 生成 lens/viewCMI/viewSensory；
     // 已富集的存量条目(有旧 view)不做任何改动，保持存量不动。
-    if (isEmpty(it.view)) {
-      miss.push('lens');
-      miss.push('viewCMI');
-      miss.push('viewSensory');
+    // ⚠️ 关键修正：新条目判定「是否已富集完」必须看 viewCMI/viewSensory 是否填好，
+    // 不能看旧 view（新条目本就没有 view 字段），否则每轮都会把已填好的新条目
+    // 重新送 AI 重跑，既白烧 DeepSeek token、又可能覆盖已生成内容。
+    const hasOldView = !isEmpty(it.view);
+    if (!hasOldView) {
+      if (!it.lens) {
+        // lens 还没判定 → 让 AI 先分类，并据分类填对应视角
+        miss.push('lens', 'viewCMI', 'viewSensory');
+      } else if (it.lens === 'neither') {
+        // 文章与 CMI/感官都不相关：本就无专项视角，绝不强行编造，也不算缺失（避免整站被误拦）
+      } else {
+        // cmi/sensory/both：只要求相关维度的视角字段非空，不相关的维度不强求
+        if (it.lens === 'cmi' || it.lens === 'both') if (isEmpty(it.viewCMI)) miss.push('viewCMI');
+        if (it.lens === 'sensory' || it.lens === 'both') if (isEmpty(it.viewSensory)) miss.push('viewSensory');
+      }
     }
     const fresh = miss.length > 0;
     if (fresh) {
