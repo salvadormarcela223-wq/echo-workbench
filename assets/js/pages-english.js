@@ -173,7 +173,7 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     if (!phEl || !tEl) return;
     const url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(v.w.toLowerCase());
     fetch(url).then(r => r.ok ? r.json() : null).then(d => {
-      if (!Array.isArray(d) || !d[0]) { if (!v.t && !v.en) tEl.innerHTML = '<i class="kw-online">该词暂未收录，可加入单词本后补充</i>'; return; }
+      if (!Array.isArray(d) || !d[0]) { if (!v.t && !v.en) tEl.innerHTML = '<i class="kw-online">该词暂无中文释义（多为专有名词：人名 / 地名 / 品牌 / 缩写），可先加入单词本</i>'; return; }
       let ph = d[0].phonetic || '';
       if (!ph && d[0].phonetics) { const p = d[0].phonetics.find(x => x.text); if (p) ph = p.text; }
       if (ph && phEl && !phEl.textContent) phEl.textContent = ph;
@@ -213,9 +213,10 @@ const GEN_EN_ZH = {"the": "定冠词（这/那）", "a": "一个（不定冠词�
     // 正文每个英文单词都变成可点击词（保留 <p>/<u>/<b> 等标签）
     // 容错：body 可能是数组（推荐）或字符串（旧数据），统一转数组再拼接
     const bodyArr = Array.isArray(a.body) ? a.body : String(a.body || '').split(/\n+/);
-    const body = bodyArr.join('').replace(/(<[^>]+>)|([A-Za-z][A-Za-z'-]*)/g, (m, tag, word) => {
+    const body = bodyArr.join('').replace(/(<[^>]+>)|([A-Za-z][A-Za-z'\u2019-]*)/g, (m, tag, word) => {
       if (tag) return tag;
-      const key = word.toLowerCase();
+      /* 弯引号 ’ 统一成直引号 '，否则 it’s / don’t 会被切成 s、t、re 碎片，点了必然空白 */
+      const key = word.toLowerCase().replace(/\u2019/g, "'");
       return '<span class="kw' + (saved.has(key) ? ' saved' : '') + '" data-w="' + esc(key) + '">' + esc(word) + '</span>';
     });
 

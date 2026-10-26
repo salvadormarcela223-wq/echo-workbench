@@ -88,7 +88,7 @@ export async function getText(url, retries = 4) {
       // 末次兜底：部分站点(如 Tobacco Insider)的 WAF 会拦截带自定义 UA 的请求，改用不带自定义头的请求
       if (i === retries - 1) {
         try {
-          const r2 = await fetch(url, { redirect: 'follow' });
+          const r2 = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(20000) });
           if (!r2.ok) throw new Error('HTTP ' + r2.status);
           return await r2.text();
         } catch (e2) { lastErr = e2; }

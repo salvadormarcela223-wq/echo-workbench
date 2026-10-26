@@ -140,7 +140,7 @@ async function getText(url, timeoutMs = 20000) {
 // Google News RSS 的链接是跳转链接（news.google.com/rss/articles/...），请求一次拿到真实文章 URL；拿不到返回空
 async function resolveReal(link) {
   try {
-    const r = await fetch(link, { headers: { 'User-Agent': UA }, redirect: 'follow' });
+    const r = await fetch(link, { headers: { 'User-Agent': UA }, redirect: 'follow', signal: AbortSignal.timeout(20000) });
     return r.url || '';
   } catch (e) { return ''; }
 }
