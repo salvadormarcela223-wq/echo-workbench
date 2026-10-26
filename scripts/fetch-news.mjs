@@ -3,6 +3,7 @@
 // 再过严格闸门后，才由 daily-pipeline.mjs 发布到线上 feed.json。任何空字段/假链接/死链都不会进线上。
 import fs from 'fs';
 import path from 'path';
+import { pathToFileURL } from 'url';
 import { validate } from './validate-feed.mjs';
 
 const ROOT = path.resolve('.');
@@ -11,10 +12,10 @@ const writeBack = process.argv.includes('--write');
 let feed = null;
 try { feed = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/feed.json'), 'utf-8').replace(/^\uFEFF/, '')); } catch (e) {}
 
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
+export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 // 剥离追踪参数（utm_/fbclid/gclid/mc_/spm），保留真实查询参数（如 ?id=）
-function stripTracking(link) {
+export function stripTracking(link) {
   try {
     const u = new URL(link);
     const del = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'fbclid', 'gclid', 'mc_cid', 'mc_eid', 'spm'];
@@ -24,7 +25,7 @@ function stripTracking(link) {
   } catch { return link; }
 }
 
-function clean(s) {
+export function clean(s) {
   return (s || '')
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
@@ -34,14 +35,14 @@ function clean(s) {
     .replace(/\s+/g, ' ').trim();
 }
 
-const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
+export const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
 
 // 内容兜底路由：判断一条内容是否涉及「电子烟 / 烟草 / 尼古丁替代」——这类只归行业资讯(news)，
 // 其余（FMCG、餐饮、包装、市场研究、消费电子、官方平台、CMI/感官）归专业提升(insights)。
-const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|控烟|减害|烟草控制|无烟|烟碱|尼古丁袋|尼古丁替代|NRT|薄荷醇|menthol|烟草税|tobacco control|harm reduction|smoke-free|nicotine pouch|vaping policy/i;
+export const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|控烟|减害|烟草控制|无烟|烟碱|尼古丁袋|尼古丁替代|NRT|薄荷醇|menthol|烟草税|tobacco control|harm reduction|smoke-free|nicotine pouch|vaping policy/i;
 // 强非烟草主题（烟草媒体偶尔也发跨界新闻，如新能源/出海/汽车）。内容命中这些且无任何烟草词时，视为非烟草，不归入行业资讯。
-const NONTOB_STRONG = /新能源|电动车|电动汽车|纯电动|混动|续航|动力电池|锂电池|出海|巴西|滴滴|汽车|车企|整车|乘用车|vehicle|electric vehicle|\bEV\b|automaker|tesla|比亚迪|蔚来|小鹏|理想|新能源汽车|智能驾驶|自动驾驶|光伏|储能/i;
-function isTobacco(it, srcName) {
+export const NONTOB_STRONG = /新能源|电动车|电动汽车|纯电动|混动|续航|动力电池|锂电池|出海|巴西|滴滴|汽车|车企|整车|乘用车|vehicle|electric vehicle|\bEV\b|automaker|tesla|比亚迪|蔚来|小鹏|理想|新能源汽车|智能驾驶|自动驾驶|光伏|储能/i;
+export function isTobacco(it, srcName) {
   const content = [it.title, it.summary, it.desc].filter(Boolean).join(' ');
   // 注意：解析出的条目本身不带 source 字段，必须把「源名」显式传进来兜底，
   // 否则像国家烟草局「天津…反走私宣传」这类标题不含"烟草"二字的新闻会被误判为非烟草整源 0 条。
@@ -52,7 +53,7 @@ function isTobacco(it, srcName) {
 }
 
 // 自动分类：当源配置未指定 cat 时，根据标题关键词+来源推断分类
-function autoCat(it, srcName) {
+export function autoCat(it, srcName) {
   const t = (it.title + ' ' + (it.summary || '')).toLowerCase();
   const src = (srcName || '').toLowerCase();
   // 企业/公司动向
@@ -72,21 +73,34 @@ function autoCat(it, srcName) {
   return '企业动态';
 }
 
-async function getText(url, retries = 3) {
+export async function getText(url, retries = 4) {
+  let lastErr;
   for (let i = 0; i < retries; i++) {
     try {
-      const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow' });
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 20000);
+      const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': '*/*' }, redirect: 'follow', signal: ctrl.signal });
+      clearTimeout(timer);
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return await r.text();
     } catch (e) {
-      if (i === retries - 1) throw e;
+      lastErr = e;
+      // 末次兜底：部分站点(如 Tobacco Insider)的 WAF 会拦截带自定义 UA 的请求，改用不带自定义头的请求
+      if (i === retries - 1) {
+        try {
+          const r2 = await fetch(url, { redirect: 'follow' });
+          if (!r2.ok) throw new Error('HTTP ' + r2.status);
+          return await r2.text();
+        } catch (e2) { lastErr = e2; }
+      }
       await new Promise((r) => setTimeout(r, 2000 * (i + 1)));
     }
   }
+  throw lastErr;
 }
 
 // 从文章页抽取第一段作为要点摘要（保证不为空）
-async function deriveSummary(link, fallback) {
+export async function deriveSummary(link, fallback) {
   if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
   try {
     const html = await getText(link);
@@ -102,7 +116,7 @@ async function deriveSummary(link, fallback) {
 // 回源文章页抓取真实发布日期：优先 <meta article:published_time/og:published_time/datePublished>，
 // 其次 <time datetime>，最后退回正文文本里的日期模式（January 5, 2026 / 5 January 2026 / 2026-01-05）。
 // 尽力而为，拿不到返回 null（由上层决定跳过，绝不伪造）。
-async function deriveDate(link) {
+export async function deriveDate(link) {
   try {
     const html = await getText(link);
     const metaRe = /<meta[^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["'][^>]+content=["']([^"']+)["']|content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["']/i;
@@ -144,7 +158,7 @@ async function deriveDate(link) {
   return null;
 }
 
-function parseRSS(xml) {
+export function parseRSS(xml, base) {
   const out = [];
   const items = xml.match(/<item[\s\S]*?<\/item>|<entry[\s\S]*?<\/entry>/gi) || [];
   for (const it of items) {
@@ -152,6 +166,7 @@ function parseRSS(xml) {
     let link = (it.match(/<link[^>]*href="([^"]+)"/i) || [])[1] ||
       clean((it.match(/<link[^>]*>([\s\S]*?)<\/link>/i) || [])[1]);
     link = stripTracking(link);
+    if (link && base) { try { link = new URL(link, base).href; } catch (e) {} }
     const pub = clean((it.match(/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i) ||
       it.match(/<updated[^>]*>([\s\S]*?)<\/updated>/i) || [])[1]);
     const desc = clean((it.match(/<description[^>]*>([\s\S]*?)<\/description>/i) ||
@@ -163,7 +178,7 @@ function parseRSS(xml) {
 
 // 列表页「链接+标题+日期」成对解析（国家烟草局等：li 内 <a> + <span class="date">）。
 // 关键：发布日期直接从列表页取，不必逐篇回源抓日期 —— 省掉一半请求，避免被目标站限流导致整源 0 条。
-function parseListDate(html, base, sel) {
+export function parseListDate(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp('<li>\\s*<a[^>]+href="([^"]*' + esc + '[^"]*)"[^>]*>([\\s\\S]*?)</a>\\s*<span[^>]*class="[^"]*date[^"]*"[^>]*>([^<]+)</span>', 'gi');
@@ -183,7 +198,7 @@ function parseListDate(html, base, sel) {
   return uniq;
 }
 
-function parseHTML(html, base, sel) {
+export function parseHTML(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp('<a[^>]+href="([^"]*' + esc + '[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
@@ -205,6 +220,7 @@ function parseHTML(html, base, sel) {
   return uniq;
 }
 
+if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
 (async () => {
   let newCount = 0;
   const rejected = [];
@@ -215,7 +231,7 @@ function parseHTML(html, base, sel) {
       try {
         const txt = await getText(s.url);
         let items;
-        if (s.type === 'rss') items = parseRSS(txt);
+        if (s.type === 'rss') items = parseRSS(txt, s.url);
         else if (s.type === 'listdate') items = parseListDate(txt, s.url, s.sel || '');
         else items = parseHTML(txt, s.url, s.sel || '');
         console.log(`\n=== [${grp}] ${s.name} (${s.type}) 抓到 ${items.length} 条 ===`);
@@ -283,3 +299,4 @@ function parseHTML(html, base, sel) {
   }
   if (rejected.length) { console.log(`\n⚠️ 本次抓取拦截 ${rejected.length} 条不合格内容（未进线上）`); }
 })();
+}

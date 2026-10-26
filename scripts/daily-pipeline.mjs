@@ -13,7 +13,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { enrich, buildTasks } from './ai-enrich.mjs';
-import { validate } from './validate-feed.mjs';
+import { validate, dropUnfillable } from './validate-feed.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -127,16 +127,23 @@ function tryRun(cmd, label) {
     }
   }
 
-  // 3. 严格质检（impact 必须已填）
-  const draft = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
+  // 3. 严格质检 + 自愈：富集多轮仍填不出的条目先丢弃，其余照常发布（不再因少数顽固空白整体停更）
+  const draftRaw = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
   // 全部留存：按用户 2026-09-08 要求，发布前不再清理任何陈旧条目（原 45 天 prune 逻辑已移除）
-  const report = validate(draft, {});
+  const { cleaned, dropped } = dropUnfillable(draftRaw);
+  if (dropped.length) {
+    console.log(`\n♻️ 自愈：丢弃 ${dropped.length} 条富集失败的条目（其余照常发布）：`);
+    dropped.slice(0, 40).forEach((t) => console.log('  - ' + t));
+    fs.writeFileSync(DRAFT, JSON.stringify(cleaned, null, 2));
+  }
+  const report = validate(cleaned, {});
   if (!report.ok) {
-    console.log('\n❌ 严格质检未通过，中止发布。致命问题：');
+    // 仍失败说明存在非空白类致命问题（如死链、栏目页标题），不掩盖、如实中止并报告
+    console.log('\n❌ 严格质检未通过（非空白类致命问题），中止发布。致命问题：');
     report.critical.slice(0, 40).forEach((c) => console.log('  ✗ ' + c));
     process.exit(2);
   }
-  console.log('\n✅ 严格质检通过（行业资讯 impact 已全部由 DeepSeek 填充）');
+  console.log('\n✅ 严格质检通过（空字段已自愈，其余内容均已由 DeepSeek 填充）');
 
   if (TEST) {
     console.log('\n（TEST 模式：不发布、不推送。草稿在 ' + DRAFT + '）');

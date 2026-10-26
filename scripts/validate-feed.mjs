@@ -157,6 +157,38 @@ export function validate(feed, opts = {}) {
   return report;
 }
 
+// 自愈：富集多轮仍填不出的条目，发布前丢弃，其余照常发布。
+// 必填字段判定与上面 validate() 的 emptyFields 逻辑完全一致，保证丢弃后 validate 必过（线上仍零空白）。
+// 仅丢弃「空字段」类坏条目；死链/栏目页标题等其它致命问题不在丢弃范围，仍会由 validate 上报并阻止，避免掩盖真实坏数据。
+export function dropUnfillable(feed) {
+  const groups = ['news', 'insights'];
+  const cleaned = {};
+  for (const k in feed) cleaned[k] = feed[k]; // 保留 readings 等其它键
+  const dropped = [];
+  for (const g of groups) {
+    const arr = feed[g] || [];
+    const keep = [];
+    arr.forEach((it, idx) => {
+      const tag = `${g}[${idx}]`;
+      const title = (it.title || '').toString().trim();
+      const link = (it.link || '').toString().trim();
+      const summary = (it.summary || '').toString().trim();
+      if (!title || !link || !summary) { dropped.push(tag + '（缺标题/链接/摘要）'); return; }
+      if (g === 'news') {
+        if (!(it.impact && String(it.impact).trim())) { dropped.push(tag + '（impact 空）'); return; }
+      } else {
+        const core = (it.core || '').toString().trim();
+        const action = (it.action || '').toString().trim();
+        const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
+        if (!core || !action || (!hasView && it.lens !== 'neither')) { dropped.push(tag + '（core/action/view 空）'); return; }
+      }
+      keep.push(it);
+    });
+    cleaned[g] = keep;
+  }
+  return { cleaned, dropped };
+}
+
 export async function validateNet(feed, report) {
   const links = [];
   for (const g of ['news', 'insights']) (feed[g] || []).forEach((it, idx) => { if (it.link) links.push([`${g}[${idx}]`, it.link]); });

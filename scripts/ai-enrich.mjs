@@ -136,15 +136,14 @@ function buildPrompt(it, group, missing) {
   const base = `标题：${cleanCtx(it.title || '')}\n来源：${it.source || it.origin || ''}\n${label}：${dim}\n` +
     (sum ? `摘要：${sum}\n` : '') +
     (it.region ? `地区：${it.region}\n` : '');
-  // 标题冗长/英文/垃圾 → 生成简洁中文短标题（仅新条目触发，存量不动）
-  if (missing.includes('title')) {
-    return base + `\n请基于以上信息，提炼一个简洁的中文短标题（≤18字，准确概括核心，不要"报告：""分析："等前缀，不要标点堆砌）。\n只输出 JSON：{"title":"中文短标题"}`;
-  }
-  if (group === 'news' && missing.includes('summary')) {
-    return base + `\n请基于以上资讯标题与内容，用中文写出「要点摘要」：80-140字，概括核心事实与影响，专业准确，不要出现网页导航文字或 HTML 残留，不要输出任何多余内容。\n只输出 JSON：{"summary":"中文要点摘要"}`;
-  }
-  if (group === 'news' && missing.includes('impact')) {
-    return base + `\n请以「行业旁观者」身份，用中文产出「宏观影响解读」：\n1) 跳脱本条具体事件，指出它折射出的行业大趋势或结构性变化；\n2) 客观点评（不站队、可指出数据/立场的局限）；\n3) 对研究/品牌方的长期启发（不是临时战术动作）。\n只输出 JSON：{"impact":"120-160字，宏观视角、以小见大、长期启发，严禁出现'立即启动/建议监测本次事件'这类就事论事措辞"}`;
+  // 新闻：一次性补全所有缺失字段（title/summary/impact），避免单字段逐轮填充撞上「每条最多 2 次 AI」上限导致 impact 永远填不出。
+  // 与 insights 分支思路一致：缺哪几个就在一次调用里全填，1 轮搞定，永不撞上限，还省 token。
+  if (group === 'news') {
+    const parts = [];
+    if (missing.includes('title')) parts.push('"title":"不超过18字的中文短标题，准确概括核心，不要用「报告：」「分析：」等前缀"');
+    if (missing.includes('summary')) parts.push('"summary":"80-140字中文要点摘要，概括核心事实与影响，专业准确，不要出现网页导航文字或HTML残留"');
+    if (missing.includes('impact')) parts.push('"impact":"120-160字宏观影响解读：跳脱本条具体事件指出行业大趋势或结构性变化，客观点评（可指出数据与立场局限），给研究/品牌方的长期启发，严禁出现就事论事的临时建议"');
+    if (parts.length) return base + `\n请基于以上信息一次性补全下列字段（严格只输出一个 JSON 对象，不要 markdown、不要解释文字）：{${parts.join(', ')}}`;
   }
   const parts = [];
   if (missing.includes('summary')) parts.push('"summary":"80-140字要点摘要，概括核心事实与影响，专业准确，不要出现网页导航/HTML文字"');
