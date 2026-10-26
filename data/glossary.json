@@ -57408,5 +57408,1980 @@
     "p": "/ˈɡraʊndbreɪkɪŋ/",
     "t": "开创性的；突破性的",
     "en": "introducing new ideas or methods; innovative"
+  },
+  "horse": {
+    "p": "/hɔːs/",
+    "t": "马",
+    "en": "a large four-legged animal used for riding and pulling loads"
+  },
+  "rhino": {
+    "p": "/ˈraɪnəʊ/",
+    "t": "犀牛",
+    "en": "a large heavy animal with thick skin and one or two horns on its nose"
+  },
+  "badger": {
+    "p": "/ˈbædʒə/",
+    "t": "獾",
+    "en": "a stocky nocturnal mammal with a distinctive black-and-white striped face"
+  },
+  "staged": {
+    "p": "/steɪdʒd/",
+    "t": "上演的；策划的",
+    "en": "arranged or performed as a planned event, often for show"
+  },
+  "squirrels": {
+    "p": "/ˈskwɪrəlz/",
+    "t": "松鼠（复数）",
+    "en": "small tree-dwelling rodents with bushy tails"
+  },
+  "badgers": {
+    "p": "/ˈbædʒəz/",
+    "t": "獾（复数）",
+    "en": "stocky nocturnal mammals with striped faces"
+  },
+  "spiders": {
+    "p": "/ˈspaɪdəz/",
+    "t": "蜘蛛（复数）",
+    "en": "eight-legged arachnids that spin webs"
+  },
+  "naturalist": {
+    "p": "/ˈnætʃrəlɪst/",
+    "t": "博物学家",
+    "en": "a person who studies plants and animals"
+  },
+  "pronghorn": {
+    "p": "/ˈprɒŋhɔːn/",
+    "t": "叉角羚",
+    "en": "a fast North American antelope-like mammal with branched horns"
+  },
+  "antelopes": {
+    "p": "/ˈæntɪləʊps/",
+    "t": "羚羊（复数）",
+    "en": "swift horned mammals of Africa and Asia"
+  },
+  "gunshots": {
+    "p": "/ˈɡʌnʃɒts/",
+    "t": "枪声（复数）",
+    "en": "sounds or acts of firing a gun"
+  },
+  "treadmills": {
+    "p": "/ˈtredmɪlz/",
+    "t": "跑步机（复数）",
+    "en": "exercise machines with a moving belt for walking or running"
+  },
+  "cheetahs": {
+    "p": "/ˈtʃiːtəz/",
+    "t": "猎豹（复数）",
+    "en": "fast spotted big cats"
+  },
+  "cheetah": {
+    "p": "/ˈtʃiːtə/",
+    "t": "猎豹",
+    "en": "a fast spotted big cat of Africa and Asia"
+  },
+  "stopwatch": {
+    "p": "/ˈstɒpwɒtʃ/",
+    "t": "秒表",
+    "en": "a watch used for timing events precisely"
+  },
+  "runners": {
+    "p": "/ˈrʌnəz/",
+    "t": "跑步者（复数）",
+    "en": "people who run, especially in races"
+  },
+  "parkrun": {
+    "p": "/ˈpɑːkrʌn/",
+    "t": "公园跑（免费5公里跑步活动）",
+    "en": "a free weekly timed 5km run held in parks"
+  },
+  "registered": {
+    "p": "/ˈredʒɪstəd/",
+    "t": "注册的",
+    "en": "officially recorded on a list"
+  },
+  "matching": {
+    "p": "/ˈmætʃɪŋ/",
+    "t": "相配的；匹配的",
+    "en": "corresponding or equal to something else"
+  },
+  "woodland": {
+    "p": "/ˈwʊdlənd/",
+    "t": "林地",
+    "en": "land covered with trees"
+  },
+  "thatd": {
+    "p": "/ðæt/",
+    "t": "that would 的缩写",
+    "en": "contraction of 'that would'"
+  },
+  "mouse": {
+    "p": "/maʊs/",
+    "t": "老鼠",
+    "en": "a small rodent with a pointed snout and long tail"
+  },
+  "iguana": {
+    "p": "/ɪˈɡwɑːnə/",
+    "t": "鬣蜥",
+    "en": "a large tropical lizard with a spiny back"
+  },
+  "striped": {
+    "p": "/straɪpt/",
+    "t": "有条纹的",
+    "en": "marked with long narrow bands of colour"
+  },
+  "skunk": {
+    "p": "/skʌŋk/",
+    "t": "臭鼬",
+    "en": "a black-and-white mammal that sprays a foul-smelling liquid"
+  },
+  "groundhog": {
+    "p": "/ˈɡraʊndhɒɡ/",
+    "t": "土拨鼠",
+    "en": "a North American burrowing rodent"
+  },
+  "longnosed": {
+    "p": "/ˈlɒŋnəʊzd/",
+    "t": "长鼻的",
+    "en": "having a long nose"
+  },
+  "potoroo": {
+    "p": "/ˌpɒtəˈruː/",
+    "t": "长鼻袋鼠",
+    "en": "a small hopping marsupial of Australia"
+  },
+  "hopping": {
+    "p": "/ˈhɒpɪŋ/",
+    "t": "跳跃的",
+    "en": "moving by jumping on one or both feet"
+  },
+  "spider": {
+    "p": "/ˈspaɪdə/",
+    "t": "蜘蛛",
+    "en": "an eight-legged arachnid that spins webs"
+  },
+  "huntsman": {
+    "p": "/ˈhʌntsmən/",
+    "t": "猎人；猎人蛛",
+    "en": "a hunter; also a large fast spider"
+  },
+  "nudging": {
+    "p": "/ˈnʌdʒɪŋ/",
+    "t": "轻推",
+    "en": "pushing gently"
+  },
+  "videorecording": {
+    "p": "/ˈvɪdiəʊrɪˌkɔːdɪŋ/",
+    "t": "录像",
+    "en": "the act or result of recording moving images"
+  },
+  "discomfiting": {
+    "p": "/dɪsˈkʌmfɪtɪŋ/",
+    "t": "令人不安的",
+    "en": "making someone feel uneasy or embarrassed"
+  },
+  "compiled": {
+    "p": "/kəmˈpaɪld/",
+    "t": "汇编的",
+    "en": "collected and arranged from various sources"
+  },
+  "databases": {
+    "p": "/ˈdeɪtəbeɪsɪz/",
+    "t": "数据库（复数）",
+    "en": "organized collections of data stored electronically"
+  },
+  "runways": {
+    "p": "/ˈrʌnweɪz/",
+    "t": "跑道（复数）",
+    "en": "strips of ground used by aircraft for takeoff and landing"
+  },
+  "accelerates": {
+    "p": "/əkˈseləreɪts/",
+    "t": "加速",
+    "en": "increases in speed"
+  },
+  "bulky": {
+    "p": "/ˈbʌlki/",
+    "t": "笨重的；庞大的",
+    "en": "large and difficult to move"
+  },
+  "takeoff": {
+    "p": "/ˈteɪkɒf/",
+    "t": "起飞",
+    "en": "the act of an aircraft leaving the ground"
+  },
+  "lanky": {
+    "p": "/ˈlæŋki/",
+    "t": "瘦长的",
+    "en": "ungracefully thin and tall"
+  },
+  "giraffe": {
+    "p": "/dʒɪˈrɑːf/",
+    "t": "长颈鹿",
+    "en": "a tall African mammal with a very long neck"
+  },
+  "database": {
+    "p": "/ˈdeɪtəbeɪs/",
+    "t": "数据库",
+    "en": "an organized collection of data stored electronically"
+  },
+  "backoftheenvelope": {
+    "p": "/ˌbæk əv ði ˈenvələʊp/",
+    "t": "粗略的（计算）",
+    "en": "rough and approximate, as of a quick calculation"
+  },
+  "beatable": {
+    "p": "/ˈbiːtəbl/",
+    "t": "可被击败的",
+    "en": "able to be defeated"
+  },
+  "welltrained": {
+    "p": "/ˌwelˈtreɪnd/",
+    "t": "训练有素的",
+    "en": "having been thoroughly trained"
+  },
+  "sprinter": {
+    "p": "/ˈsprɪntə/",
+    "t": "短跑运动员",
+    "en": "a person who runs short distances at high speed"
+  },
+  "overtaken": {
+    "p": "/ˌəʊvəˈteɪkən/",
+    "t": "被超越",
+    "en": "passed by someone or something moving faster"
+  },
+  "polar": {
+    "p": "/ˈpəʊlə/",
+    "t": "极地的",
+    "en": "relating to the North or South Pole"
+  },
+  "sprinters": {
+    "p": "/ˈsprɪntəz/",
+    "t": "短跑运动员（复数）",
+    "en": "people who run short distances fast"
+  },
+  "zebra": {
+    "p": "/ˈzebrə/",
+    "t": "斑马",
+    "en": "an African horse-like mammal with black-and-white stripes"
+  },
+  "reindeer": {
+    "p": "/ˈreɪndɪə/",
+    "t": "驯鹿",
+    "en": "a deer of northern regions with large antlers"
+  },
+  "suppose": {
+    "p": "/səˈpəʊz/",
+    "t": "假设；认为",
+    "en": "to assume or think something is true"
+  },
+  "anaerobic": {
+    "p": "/ˌænəˈrəʊbɪk/",
+    "t": "无氧的",
+    "en": "not requiring oxygen"
+  },
+  "fasttwitch": {
+    "p": "/ˈfɑːsttwɪtʃ/",
+    "t": "快肌（的）",
+    "en": "relating to muscle fibres that contract quickly"
+  },
+  "fibres": {
+    "p": "/ˈfaɪbəz/",
+    "t": "纤维（复数）",
+    "en": "thread-like structures, especially in muscle"
+  },
+  "sprinting": {
+    "p": "/ˈsprɪntɪŋ/",
+    "t": "短跑",
+    "en": "running short distances at top speed"
+  },
+  "fatiguing": {
+    "p": "/fəˈtiːɡɪŋ/",
+    "t": "令人疲劳的",
+    "en": "causing tiredness"
+  },
+  "reckons": {
+    "p": "/ˈrekənz/",
+    "t": "认为；估计",
+    "en": "thinks or calculates"
+  },
+  "middledistance": {
+    "p": "/ˌmɪdl ˈdɪstəns/",
+    "t": "中距离的",
+    "en": "relating to races of moderate length"
+  },
+  "bettersuited": {
+    "p": "/ˌbetəˈsuːtɪd/",
+    "t": "更适合的",
+    "en": "more appropriate or fitting"
+  },
+  "longdistance": {
+    "p": "/ˌlɒŋ ˈdɪstəns/",
+    "t": "长距离的",
+    "en": "covering a great distance"
+  },
+  "inclination": {
+    "p": "/ˌɪŋklɪˈneɪʃn/",
+    "t": "倾向",
+    "en": "a natural tendency or preference"
+  },
+  "adage": {
+    "p": "/ˈædɪdʒ/",
+    "t": "谚语",
+    "en": "a traditional saying expressing a general truth"
+  },
+  "hairless": {
+    "p": "/ˈheələs/",
+    "t": "无毛的",
+    "en": "having no hair"
+  },
+  "sweat": {
+    "p": "/swet/",
+    "t": "汗；出汗",
+    "en": "moisture released through the skin; to perspire"
+  },
+  "speculate": {
+    "p": "/ˈspekjuleɪt/",
+    "t": "推测",
+    "en": "to form ideas without firm evidence"
+  },
+  "medal": {
+    "p": "/ˈmedl/",
+    "t": "奖牌",
+    "en": "a metal award given for achievement"
+  },
+  "aerobic": {
+    "p": "/eəˈrəʊbɪk/",
+    "t": "有氧的",
+    "en": "requiring oxygen; relating to sustained exercise"
+  },
+  "dromedary": {
+    "p": "/ˈdrɒmədəri/",
+    "t": "单峰骆驼",
+    "en": "a one-humped camel"
+  },
+  "wolfs": {
+    "p": "/wʊlfs/",
+    "t": "狼（复数，非标准拼写）",
+    "en": "wolves; large wild canines"
+  },
+  "traverse": {
+    "p": "/trəˈvɜːs/",
+    "t": "穿越",
+    "en": "to travel across or through"
+  },
+  "overheat": {
+    "p": "/ˌəʊvəˈhiːt/",
+    "t": "过热",
+    "en": "to become too hot"
+  },
+  "marathonlength": {
+    "p": "/ˈmærəθən leŋθ/",
+    "t": "马拉松长度的",
+    "en": "of the distance of a marathon"
+  },
+  "theyd": {
+    "p": "/ðeɪd/",
+    "t": "they would 的缩写",
+    "en": "contraction of 'they would'"
+  },
+  "terrain": {
+    "p": "/təˈreɪn/",
+    "t": "地形",
+    "en": "the physical features of an area of land"
+  },
+  "mountainous": {
+    "p": "/ˈmaʊntənəs/",
+    "t": "多山的",
+    "en": "having many mountains"
+  },
+  "rankings": {
+    "p": "/ˈræŋkɪŋz/",
+    "t": "排名（复数）",
+    "en": "lists showing relative positions or standings"
+  },
+  "longdistances": {
+    "p": "/ˌlɒŋ ˈdɪstənsɪz/",
+    "t": "长距离（复数）",
+    "en": "great distances"
+  },
+  "ultramarathons": {
+    "p": "/ˌʌltrəˈmærəθənz/",
+    "t": "超级马拉松（复数）",
+    "en": "races longer than a marathon"
+  },
+  "huskies": {
+    "p": "/ˈhʌskiz/",
+    "t": "哈士奇（复数）",
+    "en": "strong dogs used for pulling sleds"
+  },
+  "similarlength": {
+    "p": "/ˈsɪmələ leŋθ/",
+    "t": "相似长度的",
+    "en": "of comparable length"
+  },
+  "kmlong": {
+    "p": "/ˌkeɪ ˈem lɒŋ/",
+    "t": "公里长的",
+    "en": "extending for a number of kilometres"
+  },
+  "recordholder": {
+    "p": "/ˈrekəʊdˌhəʊldə/",
+    "t": "纪录保持者",
+    "en": "a person who holds a record"
+  },
+  "sixhour": {
+    "p": "/ˈsɪks aʊə/",
+    "t": "六小时的",
+    "en": "lasting six hours"
+  },
+  "forgotten": {
+    "p": "/fəˈɡɒtn/",
+    "t": "被遗忘的",
+    "en": "no longer remembered"
+  },
+  "elephants": {
+    "p": "/ˈelɪfənts/",
+    "t": "大象（复数）",
+    "en": "large mammals with trunks and tusks"
+  },
+  "stride": {
+    "p": "/straɪd/",
+    "t": "步幅",
+    "en": "the length of a single step"
+  },
+  "scaling": {
+    "p": "/ˈskeɪlɪŋ/",
+    "t": "缩放；按比例变化",
+    "en": "changing size in proportion"
+  },
+  "dependence": {
+    "p": "/dɪˈpendəns/",
+    "t": "依赖",
+    "en": "the state of relying on something"
+  },
+  "organismal": {
+    "p": "/ˌɔːɡəˈnɪzməl/",
+    "t": "生物体的",
+    "en": "relating to a living organism"
+  },
+  "locomotion": {
+    "p": "/ˌləʊkəˈməʊʃn/",
+    "t": "运动；移动",
+    "en": "the ability to move from place to place"
+  },
+  "condemning": {
+    "p": "/kənˈdemɪŋ/",
+    "t": "谴责的；定罪的",
+    "en": "expressing strong disapproval; pronouncing guilty"
+  },
+  "scathing": {
+    "p": "/ˈskeɪðɪŋ/",
+    "t": "严厉的；尖刻的",
+    "en": "severely critical; harshly scornful"
+  },
+  "editorials": {
+    "p": "/ˌedɪˈtɔːriəlz/",
+    "t": "社论（复数）",
+    "en": "newspaper articles expressing the editor's opinion"
+  },
+  "weaponized": {
+    "p": "/ˈwepənaɪzd/",
+    "t": "武器化的；被用作武器的",
+    "en": "adapted or used as a weapon"
+  },
+  "cable": {
+    "p": "/ˈkeɪbl/",
+    "t": "电缆；有线电视",
+    "en": "a thick wire or bundle of wires; cable television"
+  },
+  "journalists": {
+    "p": "/ˈdʒɜːnəlɪsts/",
+    "t": "记者（复数）",
+    "en": "people who write for newspapers or news media"
+  },
+  "indicted": {
+    "p": "/ɪnˈdaɪtɪd/",
+    "t": "被起诉的",
+    "en": "formally accused of a crime"
+  },
+  "antiice": {
+    "p": "/ˌæntiˈaɪs/",
+    "t": "反移民及海关执法局的",
+    "en": "opposed to ICE (Immigration and Customs Enforcement)"
+  },
+  "pleaded": {
+    "p": "/ˈpliːdɪd/",
+    "t": "恳求；抗辩（过去式）",
+    "en": "made an earnest appeal; entered a plea in court"
+  },
+  "guilty": {
+    "p": "/ˈɡɪlti/",
+    "t": "有罪的；内疚的",
+    "en": "having committed a crime; feeling shame"
+  },
+  "solidarity": {
+    "p": "/ˌsɒlɪˈdærəti/",
+    "t": "团结；一致",
+    "en": "unity of feeling or action among a group"
+  },
+  "shortsighted": {
+    "p": "/ˌʃɔːtˈsaɪtɪd/",
+    "t": "目光短浅的",
+    "en": "lacking foresight; thinking only of the present"
+  },
+  "apparatus": {
+    "p": "/ˌæpəˈreɪtəs/",
+    "t": "器械；机构",
+    "en": "equipment; an organization or system"
+  },
+  "fulsome": {
+    "p": "/ˈfʊlsəm/",
+    "t": "过分恭维的；令人生厌的",
+    "en": "excessively flattering; insincere"
+  },
+  "merits": {
+    "p": "/ˈmerɪts/",
+    "t": "优点；价值（复数）",
+    "en": "good qualities; worth or value"
+  },
+  "decadesold": {
+    "p": "/ˈdekeɪdz əʊld/",
+    "t": "几十年的；数十年的",
+    "en": "existing for several decades"
+  },
+  "tense": {
+    "p": "/tens/",
+    "t": "紧张的；拉紧的",
+    "en": "nervous or anxious; stretched tight"
+  },
+  "leftist": {
+    "p": "/ˈleftɪst/",
+    "t": "左翼的；左派分子",
+    "en": "supporting left-wing politics; a left-wing person"
+  },
+  "streamer": {
+    "p": "/ˈstriːmə(r)/",
+    "t": "主播；彩带",
+    "en": "a person who live-streams; a long narrow flag"
+  },
+  "lightning": {
+    "p": "/ˈlaɪtnɪŋ/",
+    "t": "闪电",
+    "en": "a sudden flash of electricity in the sky"
+  },
+  "untangled": {
+    "p": "/ʌnˈtæŋɡld/",
+    "t": "解开的；理清的",
+    "en": "freed from tangles; resolved"
+  },
+  "terrorist": {
+    "p": "/ˈterərɪst/",
+    "t": "恐怖分子",
+    "en": "a person who uses violence for political aims"
+  },
+  "sevenfigure": {
+    "p": "/ˈsevn ˈfɪɡə(r)/",
+    "t": "七位数的",
+    "en": "amounting to between one and ten million"
+  },
+  "narrator": {
+    "p": "/nəˈreɪtə(r)/",
+    "t": "叙述者；旁白",
+    "en": "a person who tells a story or narrates"
+  },
+  "alqaeda": {
+    "p": "/ælˈkaɪdə/",
+    "t": "基地组织",
+    "en": "a militant Islamist organization"
+  },
+  "notably": {
+    "p": "/ˈnəʊtəbli/",
+    "t": "尤其；显著地",
+    "en": "especially; in a notable manner"
+  },
+  "aided": {
+    "p": "/ˈeɪdɪd/",
+    "t": "帮助的；援助的",
+    "en": "helped or assisted"
+  },
+  "mayoral": {
+    "p": "/ˈmeərəl/",
+    "t": "市长的",
+    "en": "relating to a mayor or the office of mayor"
+  },
+  "indistinguishable": {
+    "p": "/ˌɪndɪˈstɪŋɡwɪʃəbl/",
+    "t": "难以区分的",
+    "en": "impossible to tell apart"
+  },
+  "seeming": {
+    "p": "/ˈsiːmɪŋ/",
+    "t": "表面上的；看似…的",
+    "en": "apparent but perhaps not real"
+  },
+  "deleted": {
+    "p": "/dɪˈliːtɪd/",
+    "t": "删除的",
+    "en": "removed or erased"
+  },
+  "junior": {
+    "p": "/ˈdʒuːniə(r)/",
+    "t": "初级的；年少的",
+    "en": "lower in rank or age"
+  },
+  "staffer": {
+    "p": "/ˈstɑːfə(r)/",
+    "t": "职员；工作人员",
+    "en": "a member of a staff"
+  },
+  "interrogating": {
+    "p": "/ɪnˈterəɡeɪtɪŋ/",
+    "t": "审问；质问",
+    "en": "questioning someone thoroughly"
+  },
+  "perpetrate": {
+    "p": "/ˈpɜːpətreɪt/",
+    "t": "犯（罪）；实施",
+    "en": "to commit a crime or harmful act"
+  },
+  "invoking": {
+    "p": "/ɪnˈvəʊkɪŋ/",
+    "t": "援引；祈求",
+    "en": "calling upon; citing as authority"
+  },
+  "mosque": {
+    "p": "/mɒsk/",
+    "t": "清真寺",
+    "en": "a Muslim place of worship"
+  },
+  "shooter": {
+    "p": "/ˈʃuːtə(r)/",
+    "t": "枪手；射击者",
+    "en": "a person who shoots"
+  },
+  "journalistically": {
+    "p": "/ˌdʒɜːnəˈlɪstɪkli/",
+    "t": "从新闻角度；新闻业上",
+    "en": "in a manner relating to journalism"
+  },
+  "stances": {
+    "p": "/ˈstænsɪz/",
+    "t": "立场（复数）",
+    "en": "positions or attitudes on issues"
+  },
+  "marginalized": {
+    "p": "/ˈmɑːdʒɪnəlaɪzd/",
+    "t": "被边缘化的",
+    "en": "treated as insignificant or peripheral"
+  },
+  "backgrounds": {
+    "p": "/ˈbækɡraʊndz/",
+    "t": "背景（复数）",
+    "en": "a person's education, experience, or origins"
+  },
+  "legislative": {
+    "p": "/ˈledʒɪslətɪv/",
+    "t": "立法的",
+    "en": "relating to making laws"
+  },
+  "nonmuslim": {
+    "p": "/ˌnɒnˈmʊzlɪm/",
+    "t": "非穆斯林的",
+    "en": "not Muslim"
+  },
+  "cited": {
+    "p": "/ˈsaɪtɪd/",
+    "t": "引用；提及（过去式）",
+    "en": "quoted or referred to as evidence"
+  },
+  "undeniable": {
+    "p": "/ˌʌndɪˈnaɪəbl/",
+    "t": "不可否认的",
+    "en": "impossible to deny"
+  },
+  "mistrust": {
+    "p": "/ˌmɪsˈtrʌst/",
+    "t": "不信任",
+    "en": "lack of trust or confidence"
+  },
+  "wellfounded": {
+    "p": "/ˌwelˈfaʊndɪd/",
+    "t": "有根据的",
+    "en": "based on good evidence"
+  },
+  "trustee": {
+    "p": "/trʌˈstiː/",
+    "t": "受托人；董事",
+    "en": "a person managing property or funds for others"
+  },
+  "remarks": {
+    "p": "/rɪˈmɑːks/",
+    "t": "评论；言论",
+    "en": "spoken comments or observations"
+  },
+  "condemned": {
+    "p": "/kənˈdemd/",
+    "t": "被谴责的；被判罪的",
+    "en": "expressed strong disapproval of; sentenced"
+  },
+  "antiarab": {
+    "p": "/ˌæntiˈærəb/",
+    "t": "反阿拉伯的",
+    "en": "hostile toward Arabs"
+  },
+  "sexism": {
+    "p": "/ˈseksɪzəm/",
+    "t": "性别歧视",
+    "en": "prejudice based on sex"
+  },
+  "refusal": {
+    "p": "/rɪˈfjuːzl/",
+    "t": "拒绝",
+    "en": "the act of declining to do something"
+  },
+  "conveniently": {
+    "p": "/kənˈviːniəntli/",
+    "t": "方便地；恰好地",
+    "en": "in a way that suits one's purposes"
+  },
+  "denying": {
+    "p": "/dɪˈnaɪɪŋ/",
+    "t": "否认；拒绝给予",
+    "en": "stating that something is not true; refusing"
+  },
+  "prejudice": {
+    "p": "/ˈpredʒudɪs/",
+    "t": "偏见",
+    "en": "preconceived opinion not based on reason"
+  },
+  "selectively": {
+    "p": "/sɪˈlektɪvli/",
+    "t": "选择性地",
+    "en": "in a manner that picks only some"
+  },
+  "electabilityfocused": {
+    "p": "/ɪˌlektəˈbɪləti ˈfəʊkəst/",
+    "t": "以可当选性为重点的",
+    "en": "centered on the ability to win elections"
+  },
+  "discord": {
+    "p": "/ˈdɪskɔːd/",
+    "t": "不和；纷争",
+    "en": "disagreement or conflict"
+  },
+  "retribution": {
+    "p": "/ˌretrɪˈbjuːʃn/",
+    "t": "报应；报复",
+    "en": "punishment inflicted as vengeance"
+  },
+  "spare": {
+    "p": "/speə(r)/",
+    "t": "节省；饶恕；多余的",
+    "en": "to refrain from harming; extra"
+  },
+  "multiracial": {
+    "p": "/ˌmʌltiˈreɪʃl/",
+    "t": "多种族的",
+    "en": "involving several races"
+  },
+  "multifaith": {
+    "p": "/ˌmʌltiˈfeɪθ/",
+    "t": "多信仰的",
+    "en": "involving several religions"
+  },
+  "battleground": {
+    "p": "/ˈbætlɡraʊnd/",
+    "t": "战场；争夺之地",
+    "en": "a place of conflict or competition"
+  },
+  "bolster": {
+    "p": "/ˈbəʊlstə(r)/",
+    "t": "支持；增强",
+    "en": "to support or strengthen"
+  },
+  "tailors": {
+    "p": "/ˈteɪləz/",
+    "t": "裁缝；量身定制（动词）",
+    "en": "makes to fit; adapts for a purpose"
+  },
+  "antitrump": {
+    "p": "/ˌæntiˈtrʌmp/",
+    "t": "反特朗普的",
+    "en": "opposed to Donald Trump"
+  },
+  "viewpoints": {
+    "p": "/ˈvjuːpɔɪnts/",
+    "t": "观点（复数）",
+    "en": "positions from which something is considered"
+  },
+  "chapel": {
+    "p": "/ˈtʃæpl/",
+    "t": "小教堂",
+    "en": "a small place of worship"
+  },
+  "extensively": {
+    "p": "/ɪkˈstensɪvli/",
+    "t": "广泛地",
+    "en": "to a great extent; widely"
+  },
+  "prolife": {
+    "p": "/ˌprəʊˈlaɪf/",
+    "t": "反堕胎的；支持生命的",
+    "en": "opposed to abortion"
+  },
+  "tinged": {
+    "p": "/tɪndʒd/",
+    "t": "带有…色彩的",
+    "en": "slightly colored or affected by something"
+  },
+  "immersed": {
+    "p": "/ɪˈmɜːst/",
+    "t": "沉浸的；专心的",
+    "en": "deeply involved or absorbed"
+  },
+  "elevate": {
+    "p": "/ˈelɪveɪt/",
+    "t": "提升；举起",
+    "en": "to raise to a higher level"
+  },
+  "clergy": {
+    "p": "/ˈklɜːdʒi/",
+    "t": "神职人员",
+    "en": "the body of ordained religious leaders"
+  },
+  "borrowing": {
+    "p": "/ˈbɒrəʊɪŋ/",
+    "t": "借用；借款",
+    "en": "taking and using something temporarily"
+  },
+  "faithful": {
+    "p": "/ˈfeɪθfl/",
+    "t": "忠诚的；信徒",
+    "en": "loyal; believers in a religion"
+  },
+  "aesthetics": {
+    "p": "/iːsˈθetɪks/",
+    "t": "美学；审美",
+    "en": "the study or appreciation of beauty"
+  },
+  "pitching": {
+    "p": "/ˈpɪtʃɪŋ/",
+    "t": "推销；投掷",
+    "en": "presenting for acceptance; throwing"
+  },
+  "heterodox": {
+    "p": "/ˈhetərədɒks/",
+    "t": "异端的；非正统的",
+    "en": "not conforming to accepted standards"
+  },
+  "diehard": {
+    "p": "/ˈdaɪhɑːd/",
+    "t": "死硬的；顽固分子",
+    "en": "stubbornly resistant to change"
+  },
+  "unified": {
+    "p": "/ˈjuːnɪfaɪd/",
+    "t": "统一的；一致的",
+    "en": "made into a whole; united"
+  },
+  "appreciated": {
+    "p": "/əˈpriːʃieɪtɪd/",
+    "t": "感激的；欣赏的",
+    "en": "recognized the value of; grateful for"
+  },
+  "assurances": {
+    "p": "/əˈʃʊərənsɪz/",
+    "t": "保证（复数）",
+    "en": "promises or statements of confidence"
+  },
+  "aspire": {
+    "p": "/əˈspaɪə(r)/",
+    "t": "渴望；立志",
+    "en": "to desire or aim for something"
+  },
+  "beholden": {
+    "p": "/bɪˈhəʊldən/",
+    "t": "欠人情的；受惠的",
+    "en": "owing gratitude or obligation"
+  },
+  "segment": {
+    "p": "/ˈseɡmənt/",
+    "t": "部分；片段",
+    "en": "a part or section of something"
+  },
+  "misdiagnosis": {
+    "p": "/ˌmɪsdaɪəɡˈnəʊsɪs/",
+    "t": "误诊",
+    "en": "an incorrect diagnosis"
+  },
+  "forages": {
+    "p": "/ˈfɒrɪdʒɪz/",
+    "t": "觅食；饲料",
+    "en": "searches for food; fodder"
+  },
+  "representatives": {
+    "p": "/ˌreprɪˈzentətɪvz/",
+    "t": "代表",
+    "en": "people chosen to act or speak for others"
+  },
+  "dedicating": {
+    "p": "/ˈdedɪkeɪtɪŋ/",
+    "t": "奉献；致力于",
+    "en": "devoting to a purpose or cause"
+  },
+  "picturesque": {
+    "p": "/ˌpɪktʃəˈresk/",
+    "t": "风景如画的",
+    "en": "attractive and scenic like a picture"
+  },
+  "indiscriminate": {
+    "p": "/ˌɪndɪˈskrɪmɪnət/",
+    "t": "不加区别的",
+    "en": "done without careful judgment or selection"
+  },
+  "outsized": {
+    "p": "/ˈaʊtsaɪzd/",
+    "t": "超大的",
+    "en": "larger than usual or expected"
+  },
+  "pillars": {
+    "p": "/ˈpɪləz/",
+    "t": "支柱",
+    "en": "upright supports; key supporting elements"
+  },
+  "oversee": {
+    "p": "/ˌəʊvəˈsiː/",
+    "t": "监督",
+    "en": "to supervise or watch over"
+  },
+  "conserving": {
+    "p": "/kənˈsɜːvɪŋ/",
+    "t": "保护；节约",
+    "en": "protecting from loss or waste"
+  },
+  "proposition": {
+    "p": "/ˌprɒpəˈzɪʃn/",
+    "t": "提议；主张",
+    "en": "a proposal or suggested plan"
+  },
+  "amendment": {
+    "p": "/əˈmendmənt/",
+    "t": "修正案",
+    "en": "a formal change to a law or document"
+  },
+  "ranchers": {
+    "p": "/ˈrɑːntʃəz/",
+    "t": "牧场主",
+    "en": "people who own or run a ranch"
+  },
+  "incentivize": {
+    "p": "/ɪnˈsentɪvaɪz/",
+    "t": "激励",
+    "en": "to motivate with rewards or incentives"
+  },
+  "landowners": {
+    "p": "/ˈlændˌəʊnəz/",
+    "t": "土地所有者",
+    "en": "people who own land"
+  },
+  "tracts": {
+    "p": "/trækts/",
+    "t": "大片土地",
+    "en": "large areas of land"
+  },
+  "ninebanded": {
+    "p": "/ˈnaɪnbændɪd/",
+    "t": "九带（犰狳）",
+    "en": "having nine bands, as the nine-banded armadillo"
+  },
+  "armadillo": {
+    "p": "/ˌɑːməˈdɪləʊ/",
+    "t": "犰狳",
+    "en": "a burrowing mammal with a bony shell"
+  },
+  "bobwhite": {
+    "p": "/ˈbɒbwaɪt/",
+    "t": "山齿鹑",
+    "en": "a small North American quail"
+  },
+  "quail": {
+    "p": "/kweɪl/",
+    "t": "鹌鹑",
+    "en": "a small game bird of the pheasant family"
+  },
+  "routing": {
+    "p": "/ˈruːtɪŋ/",
+    "t": "路线安排；路由",
+    "en": "directing along a course or path"
+  },
+  "waterrelated": {
+    "p": "/ˈwɔːtərɪleɪtɪd/",
+    "t": "与水有关的",
+    "en": "connected with water"
+  },
+  "chunk": {
+    "p": "/tʃʌŋk/",
+    "t": "大块",
+    "en": "a thick, solid piece"
+  },
+  "devoted": {
+    "p": "/dɪˈvəʊtɪd/",
+    "t": "献身的；忠诚的",
+    "en": "very loving or loyal; dedicated"
+  },
+  "watersheds": {
+    "p": "/ˈwɔːtəʃedz/",
+    "t": "流域",
+    "en": "areas of land draining into a river"
+  },
+  "invasive": {
+    "p": "/ɪnˈveɪsɪv/",
+    "t": "入侵性的",
+    "en": "spreading harmfully into new areas"
+  },
+  "frontandcenter": {
+    "p": "/ˌfrʌntəndˈsentə/",
+    "t": "处于中心地位",
+    "en": "in the most prominent position"
+  },
+  "anglers": {
+    "p": "/ˈæŋləz/",
+    "t": "垂钓者",
+    "en": "people who fish with a rod and line"
+  },
+  "centerline": {
+    "p": "/ˈsentəlaɪn/",
+    "t": "中心线",
+    "en": "a line marking the middle"
+  },
+  "innocuous": {
+    "p": "/ɪˈnɒkjuəs/",
+    "t": "无害的",
+    "en": "not harmful or offensive"
+  },
+  "enshrine": {
+    "p": "/ɪnˈʃraɪn/",
+    "t": "铭记；奉为神圣",
+    "en": "to preserve or cherish as sacred"
+  },
+  "harvest": {
+    "p": "/ˈhɑːvɪst/",
+    "t": "收获；捕猎",
+    "en": "the gathering of crops or animals"
+  },
+  "constitution": {
+    "p": "/ˌkɒnstɪˈtjuːʃn/",
+    "t": "宪法",
+    "en": "the fundamental law of a state"
+  },
+  "commissioner": {
+    "p": "/kəˈmɪʃənə/",
+    "t": "委员；专员",
+    "en": "an official in charge of a department"
+  },
+  "proponents": {
+    "p": "/prəˈpəʊnənts/",
+    "t": "支持者",
+    "en": "people who advocate for something"
+  },
+  "plainly": {
+    "p": "/ˈpleɪnli/",
+    "t": "清楚地；明显地",
+    "en": "clearly and obviously"
+  },
+  "poisoning": {
+    "p": "/ˈpɔɪzənɪŋ/",
+    "t": "毒害；下毒",
+    "en": "the act of killing with poison"
+  },
+  "traps": {
+    "p": "/træps/",
+    "t": "陷阱；捕兽夹",
+    "en": "devices for catching animals"
+  },
+  "baiting": {
+    "p": "/ˈbeɪtɪŋ/",
+    "t": "诱饵；诱捕",
+    "en": "luring animals with bait"
+  },
+  "hounding": {
+    "p": "/ˈhaʊndɪŋ/",
+    "t": "追猎；骚扰",
+    "en": "pursuing relentlessly"
+  },
+  "injure": {
+    "p": "/ˈɪndʒə/",
+    "t": "伤害",
+    "en": "to harm or hurt"
+  },
+  "poisons": {
+    "p": "/ˈpɔɪzənz/",
+    "t": "毒药",
+    "en": "substances that cause harm or death"
+  },
+  "outlawed": {
+    "p": "/ˈaʊtlɔːd/",
+    "t": "被宣布为非法的",
+    "en": "made illegal"
+  },
+  "hounds": {
+    "p": "/haʊndz/",
+    "t": "猎犬",
+    "en": "dogs used for hunting"
+  },
+  "leghold": {
+    "p": "/ˈleɡhəʊld/",
+    "t": "夹腿式（捕兽夹）",
+    "en": "a trap that grips an animal's leg"
+  },
+  "snares": {
+    "p": "/sneəz/",
+    "t": "套索；陷阱",
+    "en": "nooses or traps for catching animals"
+  },
+  "nonhunter": {
+    "p": "/ˌnɒnˈhʌntə/",
+    "t": "非猎人",
+    "en": "a person who does not hunt"
+  },
+  "balancing": {
+    "p": "/ˈbælənsɪŋ/",
+    "t": "平衡",
+    "en": "keeping in equilibrium"
+  },
+  "hunkering": {
+    "p": "/ˈhʌŋkərɪŋ/",
+    "t": "蹲下；蜷缩",
+    "en": "crouching or squatting down"
+  },
+  "binoculars": {
+    "p": "/bɪˈnɒkjələz/",
+    "t": "双筒望远镜",
+    "en": "an optical instrument for viewing distant objects with both eyes"
+  },
+  "excitedly": {
+    "p": "/ɪkˈsaɪtɪdli/",
+    "t": "兴奋地",
+    "en": "in an excited manner"
+  },
+  "oystercatchers": {
+    "p": "/ˈɔɪstəkætʃəz/",
+    "t": "蛎鹬",
+    "en": "wading birds with strong bills for opening shellfish"
+  },
+  "probing": {
+    "p": "/ˈprəʊbɪŋ/",
+    "t": "探查；探索",
+    "en": "investigating or examining closely"
+  },
+  "pebbled": {
+    "p": "/ˈpebld/",
+    "t": "铺有卵石的；有卵石纹理的",
+    "en": "covered with or resembling small stones"
+  },
+  "crested": {
+    "p": "/ˈkrestɪd/",
+    "t": "有冠的",
+    "en": "having a crest, especially on the head"
+  },
+  "grebes": {
+    "p": "/ɡriːbz/",
+    "t": "䴙䴘",
+    "en": "diving water birds with lobed toes"
+  },
+  "bobbing": {
+    "p": "/ˈbɒbɪŋ/",
+    "t": "上下浮动",
+    "en": "moving up and down quickly and repeatedly"
+  },
+  "plumed": {
+    "p": "/pluːmd/",
+    "t": "有羽毛的；饰有羽毛的",
+    "en": "having or decorated with feathers"
+  },
+  "birdwatchers": {
+    "p": "/ˈbɜːdwɒtʃəz/",
+    "t": "观鸟者",
+    "en": "people who watch birds as a hobby"
+  },
+  "scenery": {
+    "p": "/ˈsiːnəri/",
+    "t": "风景",
+    "en": "the natural features of a landscape"
+  },
+  "apprehensive": {
+    "p": "/ˌæprɪˈhensɪv/",
+    "t": "忧虑的；担心的",
+    "en": "anxious or fearful about something"
+  },
+  "smiling": {
+    "p": "/ˈsmaɪlɪŋ/",
+    "t": "微笑的",
+    "en": "with a smile; showing a smile"
+  },
+  "robin": {
+    "p": "/ˈrɒbɪn/",
+    "t": "知更鸟",
+    "en": "a small bird with a red breast"
+  },
+  "ducks": {
+    "p": "/dʌks/",
+    "t": "鸭子",
+    "en": "waterbirds with webbed feet and broad bills"
+  },
+  "darted": {
+    "p": "/dɑːtɪd/",
+    "t": "猛冲；飞奔",
+    "en": "moved quickly and suddenly"
+  },
+  "gentle": {
+    "p": "/ˈdʒentl/",
+    "t": "温和的；轻柔的",
+    "en": "mild, kind, or not harsh"
+  },
+  "advisor": {
+    "p": "/ədˈvaɪzə/",
+    "t": "顾问",
+    "en": "a person who gives advice"
+  },
+  "birdwatching": {
+    "p": "/ˈbɜːdwɒtʃɪŋ/",
+    "t": "观鸟",
+    "en": "the hobby of observing birds in their natural habitat"
+  },
+  "nursing": {
+    "p": "/ˈnɜːsɪŋ/",
+    "t": "护理；看护",
+    "en": "the profession or practice of caring for the sick"
+  },
+  "novices": {
+    "p": "/ˈnɒvɪsɪz/",
+    "t": "新手；初学者",
+    "en": "people new to a field or activity"
+  },
+  "neuroplasticity": {
+    "p": "/ˌnjʊərəʊplæˈstɪsəti/",
+    "t": "神经可塑性",
+    "en": "the brain's ability to reorganize itself by forming new neural connections"
+  },
+  "cognition": {
+    "p": "/kɒɡˈnɪʃn/",
+    "t": "认知",
+    "en": "the mental action of acquiring knowledge and understanding"
+  },
+  "acquiring": {
+    "p": "/əˈkwaɪərɪŋ/",
+    "t": "获得；习得",
+    "en": "gaining or obtaining something"
+  },
+  "birding": {
+    "p": "/ˈbɜːdɪŋ/",
+    "t": "观鸟",
+    "en": "the activity of watching birds"
+  },
+  "organisational": {
+    "p": "/ˌɔːɡənaɪˈzeɪʃənl/",
+    "t": "组织的",
+    "en": "relating to an organization"
+  },
+  "ttingolstadt": {
+    "p": "/ˈɪŋɡəlʃtæt/",
+    "t": "（疑似 Ingolstadt，德国城市名）",
+    "en": "likely a misspelling of Ingolstadt, a city in Germany"
+  },
+  "selfreports": {
+    "p": "/ˌselfrɪˈpɔːts/",
+    "t": "自我报告",
+    "en": "accounts or assessments people give about themselves"
+  },
+  "cognitively": {
+    "p": "/ˈkɒɡnɪtɪvli/",
+    "t": "认知上",
+    "en": "in a way relating to mental processes"
+  },
+  "agile": {
+    "p": "/ˈædʒaɪl/",
+    "t": "敏捷的",
+    "en": "able to move quickly and easily"
+  },
+  "alertness": {
+    "p": "/əˈlɜːtnəs/",
+    "t": "警觉；机敏",
+    "en": "the state of being watchful and quick to respond"
+  },
+  "evident": {
+    "p": "/ˈevɪdənt/",
+    "t": "明显的",
+    "en": "clear or obvious"
+  },
+  "feeders": {
+    "p": "/ˈfiːdəz/",
+    "t": "喂食器；进食者",
+    "en": "devices or people that supply food"
+  },
+  "viewing": {
+    "p": "/ˈvjuːɪŋ/",
+    "t": "观看；观察",
+    "en": "the act of watching something"
+  },
+  "economised": {
+    "p": "/ɪˈkɒnəmaɪzd/",
+    "t": "节省；节约",
+    "en": "spent less; reduced expenditure"
+  },
+  "stuffed": {
+    "p": "/stʌft/",
+    "t": "填满的；塞满的",
+    "en": "filled tightly with something"
+  },
+  "birdlike": {
+    "p": "/ˈbɜːdlaɪk/",
+    "t": "像鸟的",
+    "en": "resembling a bird"
+  },
+  "aphasia": {
+    "p": "/əˈfeɪziə/",
+    "t": "失语症",
+    "en": "a language disorder caused by brain damage"
+  },
+  "carers": {
+    "p": "/ˈkeərəz/",
+    "t": "照护者",
+    "en": "people who provide care for others"
+  },
+  "midlife": {
+    "p": "/ˌmɪdˈlaɪf/",
+    "t": "中年",
+    "en": "the middle period of a person's life"
+  },
+  "norepinephrine": {
+    "p": "/ˌnɔːrepɪˈnefrɪn/",
+    "t": "去甲肾上腺素",
+    "en": "a neurotransmitter and hormone involved in arousal and alertness"
+  },
+  "swoop": {
+    "p": "/swuːp/",
+    "t": "俯冲",
+    "en": "to move rapidly downwards through the air"
+  },
+  "reestablish": {
+    "p": "/ˌriːɪˈstæblɪʃ/",
+    "t": "重建；恢复",
+    "en": "to establish again"
+  },
+  "undermine": {
+    "p": "/ˌʌndəˈmaɪn/",
+    "t": "削弱，破坏",
+    "en": "to weaken or damage gradually"
+  },
+  "objections": {
+    "p": "/əbˈdʒekʃənz/",
+    "t": "反对，异议",
+    "en": "expressions of disapproval or opposition"
+  },
+  "marshal": {
+    "p": "/ˈmɑːʃəl/",
+    "t": "整理，集结",
+    "en": "to arrange or assemble in order"
+  },
+  "distrust": {
+    "p": "/dɪsˈtrʌst/",
+    "t": "不信任",
+    "en": "lack of trust or suspicion"
+  },
+  "denialism": {
+    "p": "/dɪˈnaɪəlɪzəm/",
+    "t": "否认主义",
+    "en": "the practice of denying established facts"
+  },
+  "latearriving": {
+    "p": "/ˌleɪt əˈraɪvɪŋ/",
+    "t": "迟到的",
+    "en": "arriving after the expected time"
+  },
+  "pretense": {
+    "p": "/prɪˈtens/",
+    "t": "假装，借口",
+    "en": "a false appearance or claim"
+  },
+  "counted": {
+    "p": "/ˈkaʊntɪd/",
+    "t": "计算的，计数的",
+    "en": "numbered or tallied"
+  },
+  "receipt": {
+    "p": "/rɪˈsiːt/",
+    "t": "收据",
+    "en": "a written acknowledgment of payment"
+  },
+  "selfinterested": {
+    "p": "/ˌself ˈɪntrəstɪd/",
+    "t": "自私的",
+    "en": "motivated by personal advantage"
+  },
+  "candidly": {
+    "p": "/ˈkændɪdli/",
+    "t": "坦率地",
+    "en": "in an honest and direct way"
+  },
+  "counting": {
+    "p": "/ˈkaʊntɪŋ/",
+    "t": "计数",
+    "en": "the act of tallying numbers"
+  },
+  "butts": {
+    "p": "/bʌts/",
+    "t": "烟蒂；臀部",
+    "en": "ends of cigarettes or rear parts"
+  },
+  "accurately": {
+    "p": "/ˈækjərətli/",
+    "t": "准确地",
+    "en": "in a precise and correct manner"
+  },
+  "preprocess": {
+    "p": "/ˌpriːˈprəʊses/",
+    "t": "预处理",
+    "en": "to process beforehand"
+  },
+  "dropoff": {
+    "p": "/ˈdrɒp ɒf/",
+    "t": "下降；投放点",
+    "en": "a decline or a place to leave something"
+  },
+  "registration": {
+    "p": "/ˌredʒɪˈstreɪʃən/",
+    "t": "登记，注册",
+    "en": "the act of recording officially"
+  },
+  "register": {
+    "p": "/ˈredʒɪstə/",
+    "t": "登记，注册",
+    "en": "to record officially on a list"
+  },
+  "joyful": {
+    "p": "/ˈdʒɔɪfəl/",
+    "t": "快乐的",
+    "en": "feeling great happiness"
+  },
+  "sticker": {
+    "p": "/ˈstɪkə/",
+    "t": "贴纸",
+    "en": "an adhesive label"
+  },
+  "statecertified": {
+    "p": "/ˌsteɪt ˈsɜːtɪfaɪd/",
+    "t": "州认证的",
+    "en": "officially certified by a state"
+  },
+  "seating": {
+    "p": "/ˈsiːtɪŋ/",
+    "t": "座位安排",
+    "en": "arrangement of seats"
+  },
+  "memberelect": {
+    "p": "/ˌmembər ɪˈlekt/",
+    "t": "当选成员",
+    "en": "a person elected but not yet in office"
+  },
+  "swearingin": {
+    "p": "/ˌsweərɪŋ ˈɪn/",
+    "t": "宣誓就职",
+    "en": "the ceremony of taking an oath of office"
+  },
+  "seated": {
+    "p": "/ˈsiːtɪd/",
+    "t": "坐着的；就座的",
+    "en": "sitting or having a seat"
+  },
+  "discretionary": {
+    "p": "/dɪˈskreʃənəri/",
+    "t": "自由裁量的",
+    "en": "based on personal choice or judgment"
+  },
+  "certify": {
+    "p": "/ˈsɜːtɪfaɪ/",
+    "t": "证明，认证",
+    "en": "to confirm officially"
+  },
+  "delude": {
+    "p": "/dɪˈluːd/",
+    "t": "欺骗，哄骗",
+    "en": "to mislead the mind or judgment"
+  },
+  "yearslong": {
+    "p": "/ˈjɪəz lɒŋ/",
+    "t": "持续多年的",
+    "en": "lasting for many years"
+  },
+  "reinvigorated": {
+    "p": "/ˌriːɪnˈvɪɡəreɪtɪd/",
+    "t": "使恢复活力的",
+    "en": "given new energy or strength"
+  },
+  "sameday": {
+    "p": "/ˈseɪm deɪ/",
+    "t": "同日的",
+    "en": "occurring on the same day"
+  },
+  "excuse": {
+    "p": "/ɪkˈskjuːz/",
+    "t": "借口，理由",
+    "en": "a reason given to justify something"
+  },
+  "gerrymandering": {
+    "p": "/ˈdʒeriˌmændərɪŋ/",
+    "t": "不公正划分选区",
+    "en": "manipulating district boundaries for advantage"
+  },
+  "enact": {
+    "p": "/ɪˈnækt/",
+    "t": "制定，颁布",
+    "en": "to make into law"
+  },
+  "statutory": {
+    "p": "/ˈstætjʊtəri/",
+    "t": "法定的",
+    "en": "required or defined by statute"
+  },
+  "meaningfully": {
+    "p": "/ˈmiːnɪŋfəli/",
+    "t": "有意义地",
+    "en": "in a significant manner"
+  },
+  "enforceable": {
+    "p": "/ɪnˈfɔːsəbl/",
+    "t": "可执行的",
+    "en": "able to be enforced"
+  },
+  "burdened": {
+    "p": "/ˈbɜːdənd/",
+    "t": "负担沉重的",
+    "en": "loaded or weighed down"
+  },
+  "remedy": {
+    "p": "/ˈremədi/",
+    "t": "补救，纠正",
+    "en": "a means of correcting a problem"
+  },
+  "struggles": {
+    "p": "/ˈstrʌɡlz/",
+    "t": "挣扎；奋斗",
+    "en": "efforts or fights to overcome difficulty"
+  },
+  "soulmate": {
+    "p": "/ˈsəʊlmeɪt/",
+    "t": "灵魂伴侣",
+    "en": "a person ideally suited to another as a close friend or romantic partner"
+  },
+  "pulling": {
+    "p": "/ˈpʊlɪŋ/",
+    "t": "拉；牵引",
+    "en": "the act of drawing something toward oneself"
+  },
+  "restless": {
+    "p": "/ˈrestləs/",
+    "t": "焦躁不安的",
+    "en": "unable to rest or relax"
+  },
+  "jealous": {
+    "p": "/ˈdʒeləs/",
+    "t": "嫉妒的",
+    "en": "feeling envy of someone's advantages or success"
+  },
+  "forsake": {
+    "p": "/fəˈseɪk/",
+    "t": "抛弃；放弃",
+    "en": "to abandon or give up"
+  },
+  "daydreamed": {
+    "p": "/ˈdeɪdriːmd/",
+    "t": "做白日梦",
+    "en": "indulged in pleasant fantasy while awake"
+  },
+  "mortals": {
+    "p": "/ˈmɔːtlz/",
+    "t": "凡人；人类",
+    "en": "beings subject to death; humans"
+  },
+  "splits": {
+    "p": "/splɪts/",
+    "t": "分裂；裂开",
+    "en": "divides or breaks apart"
+  },
+  "realm": {
+    "p": "/relm/",
+    "t": "领域；王国",
+    "en": "a domain or kingdom"
+  },
+  "universes": {
+    "p": "/ˈjuːnɪvɜːsɪz/",
+    "t": "宇宙（复数）",
+    "en": "all of space and matter; multiple such systems"
+  },
+  "procon": {
+    "p": "/ˈprəʊkɒn/",
+    "t": "利弊",
+    "en": "arguments for and against something"
+  },
+  "rationality": {
+    "p": "/ˌræʃəˈnæləti/",
+    "t": "理性",
+    "en": "the quality of being logical and reasonable"
+  },
+  "aversion": {
+    "p": "/əˈvɜːʃn/",
+    "t": "厌恶",
+    "en": "a strong dislike or disinclination"
+  },
+  "wakes": {
+    "p": "/weɪks/",
+    "t": "醒来；唤醒",
+    "en": "emerges from sleep; rouses"
+  },
+  "overthink": {
+    "p": "/ˌəʊvəˈθɪŋk/",
+    "t": "过度思考",
+    "en": "to think about something too much"
+  },
+  "overresearch": {
+    "p": "/ˌəʊvərɪˈsɜːtʃ/",
+    "t": "过度研究",
+    "en": "to research excessively"
+  },
+  "secondguess": {
+    "p": "/ˌsekəndˈɡes/",
+    "t": "事后质疑；反复怀疑",
+    "en": "to question or criticize after the fact"
+  },
+  "flipping": {
+    "p": "/ˈflɪpɪŋ/",
+    "t": "翻转；掷",
+    "en": "turning over or tossing quickly"
+  },
+  "randomflip": {
+    "p": "/ˈrændəmflɪp/",
+    "t": "随机翻转",
+    "en": "a random toss or flip"
+  },
+  "lifechanging": {
+    "p": "/ˈlaɪftʃeɪndʒɪŋ/",
+    "t": "改变人生的",
+    "en": "having a profound effect on one's life"
+  },
+  "tending": {
+    "p": "/ˈtendɪŋ/",
+    "t": "倾向于；照料",
+    "en": "inclining toward; caring for"
+  },
+  "deconstruction": {
+    "p": "/ˌdiːkənˈstrʌkʃn/",
+    "t": "解构",
+    "en": "the analysis of something by breaking it into parts"
+  },
+  "binaries": {
+    "p": "/ˈbaɪnəriz/",
+    "t": "二元对立",
+    "en": "pairs of mutually exclusive categories"
+  },
+  "opposites": {
+    "p": "/ˈɒpəzɪts/",
+    "t": "对立面",
+    "en": "things that are contrary to each other"
+  },
+  "dichotomy": {
+    "p": "/daɪˈkɒtəmi/",
+    "t": "二分法",
+    "en": "a division into two contrasting parts"
+  },
+  "respective": {
+    "p": "/rɪˈspektɪv/",
+    "t": "各自的",
+    "en": "belonging separately to each one"
+  },
+  "hometowns": {
+    "p": "/ˈhəʊmtaʊnz/",
+    "t": "家乡（复数）",
+    "en": "the towns where people were born or raised"
+  },
+  "winwin": {
+    "p": "/ˈwɪnwɪn/",
+    "t": "双赢",
+    "en": "beneficial to both parties"
+  },
+  "loselose": {
+    "p": "/ˈluːzluːz/",
+    "t": "双输",
+    "en": "harmful to both parties"
+  },
+  "resent": {
+    "p": "/rɪˈzent/",
+    "t": "怨恨",
+    "en": "to feel bitterness or indignation about"
+  },
+  "spouses": {
+    "p": "/ˈspaʊzɪz/",
+    "t": "配偶（复数）",
+    "en": "married partners"
+  },
+  "futures": {
+    "p": "/ˈfjuːtʃəz/",
+    "t": "未来（复数）",
+    "en": "times yet to come"
+  },
+  "rewatching": {
+    "p": "/ˌriːˈwɒtʃɪŋ/",
+    "t": "重看",
+    "en": "watching again"
+  },
+  "script": {
+    "p": "/skrɪpt/",
+    "t": "剧本；脚本",
+    "en": "a written text for a play or film"
+  },
+  "suspiciously": {
+    "p": "/səˈspɪʃəsli/",
+    "t": "可疑地",
+    "en": "in a manner suggesting distrust"
+  },
+  "suitcase": {
+    "p": "/ˈsuːtkeɪs/",
+    "t": "手提箱",
+    "en": "a rectangular case for carrying clothes while travelling"
+  },
+  "jacket": {
+    "p": "/ˈdʒækɪt/",
+    "t": "夹克；外套",
+    "en": "an outer garment covering the upper body"
+  },
+  "dreamy": {
+    "p": "/ˈdriːmi/",
+    "t": "梦幻的",
+    "en": "pleasantly dreamlike or given to daydreaming"
+  },
+  "handedness": {
+    "p": "/ˈhændɪdnəs/",
+    "t": "用手习惯",
+    "en": "the preference for using one hand over the other"
+  },
+  "variants": {
+    "p": "/ˈveəriənts/",
+    "t": "变体",
+    "en": "different forms or versions"
+  },
+  "nonidentical": {
+    "p": "/ˌnɒnaɪˈdentɪkl/",
+    "t": "非同卵的；不相同的",
+    "en": "not exactly the same; not identical"
+  },
+  "doppelganger": {
+    "p": "/ˈdɒplɡæŋə/",
+    "t": "二重身；酷似者",
+    "en": "a lookalike or ghostly double of a person"
+  },
+  "cautionary": {
+    "p": "/ˈkɔːʃənəri/",
+    "t": "警告性的",
+    "en": "serving as a warning"
+  },
+  "passivity": {
+    "p": "/pæˈsɪvəti/",
+    "t": "被动；消极",
+    "en": "the state of being inactive or submissive"
+  },
+  "advertisement": {
+    "p": "/ədˈvɜːtɪsmənt/",
+    "t": "广告",
+    "en": "a public notice promoting a product or service"
+  },
+  "daydream": {
+    "p": "/ˈdeɪdriːm/",
+    "t": "白日梦；幻想",
+    "en": "a pleasant fantasy one has while awake"
+  },
+  "clone": {
+    "p": "/kləʊn/",
+    "t": "克隆；复制品",
+    "en": "an exact copy of a living thing or object"
+  },
+  "admin": {
+    "p": "/ˈædmɪn/",
+    "t": "管理员；行政",
+    "en": "administration or an administrator"
+  },
+  "renewing": {
+    "p": "/rɪˈnjuːɪŋ/",
+    "t": "更新；续订",
+    "en": "making something new or valid again"
+  },
+  "resonates": {
+    "p": "/ˈrezəneɪts/",
+    "t": "引起共鸣",
+    "en": "evokes a shared feeling or understanding"
+  },
+  "carpools": {
+    "p": "/ˈkɑːpuːlz/",
+    "t": "拼车（复数/动词）",
+    "en": "groups sharing car rides; shares rides"
+  },
+  "chats": {
+    "p": "/tʃæts/",
+    "t": "聊天（复数/动词）",
+    "en": "informal conversations; talks casually"
+  },
+  "overload": {
+    "p": "/ˌəʊvəˈləʊd/",
+    "t": "超载；过载",
+    "en": "too great a load or burden"
+  },
+  "backtoschool": {
+    "p": "/ˌbæk tə ˈskuːl/",
+    "t": "开学季的",
+    "en": "relating to the return to school"
+  },
+  "snuck": {
+    "p": "/snʌk/",
+    "t": "偷偷溜走（过去式）",
+    "en": "past tense of sneak; moved stealthily"
+  },
+  "proactively": {
+    "p": "/prəʊˈæktɪvli/",
+    "t": "主动地",
+    "en": "in a way that anticipates and acts in advance"
+  },
+  "proactive": {
+    "p": "/prəʊˈæktɪv/",
+    "t": "主动的",
+    "en": "acting in advance to deal with situations"
+  },
+  "scanning": {
+    "p": "/ˈskænɪŋ/",
+    "t": "扫描",
+    "en": "examining closely or reading quickly"
+  },
+  "adopters": {
+    "p": "/əˈdɒptəz/",
+    "t": "采用者",
+    "en": "people who take up or use something new"
+  },
+  "consumerfriendly": {
+    "p": "/kənˈsjuːmə ˈfrendli/",
+    "t": "对消费者友好的",
+    "en": "easy and pleasant for consumers to use"
+  },
+  "notable": {
+    "p": "/ˈnəʊtəbl/",
+    "t": "显著的；值得注意的",
+    "en": "worthy of attention; remarkable"
+  },
+  "paywall": {
+    "p": "/ˈpeɪwɔːl/",
+    "t": "付费墙",
+    "en": "a restriction requiring payment for access"
+  },
+  "couch": {
+    "p": "/kaʊtʃ/",
+    "t": "沙发",
+    "en": "a long upholstered seat for several people"
+  },
+  "sleeper": {
+    "p": "/ˈsliːpə/",
+    "t": "卧铺；睡眠者",
+    "en": "a sleeping car or a person who sleeps"
+  },
+  "colors": {
+    "p": "/ˈkʌləz/",
+    "t": "颜色（复数）",
+    "en": "plural of color; hues or shades"
+  },
+  "integrations": {
+    "p": "/ˌɪntɪˈɡreɪʃnz/",
+    "t": "整合（复数）",
+    "en": "combinations into a unified whole"
+  },
+  "couches": {
+    "p": "/ˈkaʊtʃɪz/",
+    "t": "沙发（复数）",
+    "en": "plural of couch; upholstered seats"
+  },
+  "packet": {
+    "p": "/ˈpækɪt/",
+    "t": "小包；数据包",
+    "en": "a small package or unit of data"
+  },
+  "flagged": {
+    "p": "/flæɡd/",
+    "t": "标记的；被标记",
+    "en": "marked for attention or identified"
+  },
+  "workflow": {
+    "p": "/ˈwɜːkfləʊ/",
+    "t": "工作流程",
+    "en": "the sequence of steps in a work process"
+  },
+  "thrill": {
+    "p": "/θrɪl/",
+    "t": "激动；兴奋",
+    "en": "a sudden feeling of excitement"
+  },
+  "expiration": {
+    "p": "/ˌekspəˈreɪʃn/",
+    "t": "到期；截止",
+    "en": "the ending of a period of validity"
+  },
+  "opted": {
+    "p": "/ˈɒptɪd/",
+    "t": "选择（过去式）",
+    "en": "past tense of opt; made a choice"
+  },
+  "automating": {
+    "p": "/ˈɔːtəmeɪtɪŋ/",
+    "t": "自动化",
+    "en": "making a process operate automatically"
+  },
+  "coworkers": {
+    "p": "/ˈkəʊwɜːkəz/",
+    "t": "同事（复数）",
+    "en": "people who work together"
+  },
+  "mortified": {
+    "p": "/ˈmɔːtɪfaɪd/",
+    "t": "极度尴尬的",
+    "en": "extremely embarrassed or ashamed"
+  },
+  "entice": {
+    "p": "/ɪnˈtaɪs/",
+    "t": "引诱；吸引",
+    "en": "attract by offering something appealing"
+  },
+  "cuteness": {
+    "p": "/ˈkjuːtnəs/",
+    "t": "可爱",
+    "en": "the quality of being cute"
+  },
+  "mascots": {
+    "p": "/ˈmæskəts/",
+    "t": "吉祥物（复数）",
+    "en": "plural of mascot; symbolic figures"
+  },
+  "blobs": {
+    "p": "/blɒbz/",
+    "t": "团块（复数）",
+    "en": "plural of blob; shapeless masses"
+  },
+  "endearing": {
+    "p": "/ɪnˈdɪərɪŋ/",
+    "t": "讨人喜欢的",
+    "en": "inspiring affection; charming"
+  },
+  "trusting": {
+    "p": "/ˈtrʌstɪŋ/",
+    "t": "信任的；轻信的",
+    "en": "inclined to believe in others' honesty"
+  },
+  "utopia": {
+    "p": "/juːˈtəʊpiə/",
+    "t": "乌托邦",
+    "en": "an imagined perfect society"
   }
 }
