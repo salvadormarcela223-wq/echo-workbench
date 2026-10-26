@@ -59383,5 +59383,1135 @@
     "p": "/juːˈtəʊpiə/",
     "t": "乌托邦",
     "en": "an imagined perfect society"
+  },
+  "solars": {
+    "p": "/ˈsəʊləz/",
+    "t": "太阳能电池板（复数）；太阳能相关事物",
+    "en": "plural of solar; solar panels or solar-related items"
+  },
+  "overtaking": {
+    "p": "/ˌəʊvəˈteɪkɪŋ/",
+    "t": "超越，超过",
+    "en": "the act of surpassing or passing"
+  },
+  "overtook": {
+    "p": "/ˌəʊvəˈtʊk/",
+    "t": "超过（overtake的过去式）",
+    "en": "past tense of overtake; surpassed"
+  },
+  "outstripping": {
+    "p": "/ˌaʊtˈstrɪpɪŋ/",
+    "t": "超过，胜过",
+    "en": "surpassing, exceeding"
+  },
+  "arrays": {
+    "p": "/əˈreɪz/",
+    "t": "阵列；一系列",
+    "en": "ordered arrangements or collections, especially of solar panels"
+  },
+  "upsurge": {
+    "p": "/ˈʌpsɜːdʒ/",
+    "t": "激增，急剧上升",
+    "en": "a sudden increase or rise"
+  },
+  "threequarters": {
+    "p": "/ˌθriːˈkwɔːtəz/",
+    "t": "四分之三",
+    "en": "three of four equal parts"
+  },
+  "intergovernmental": {
+    "p": "/ˌɪntəˌɡʌvənˈmentl/",
+    "t": "政府间的",
+    "en": "between or among governments"
+  },
+  "linear": {
+    "p": "/ˈlɪniə/",
+    "t": "线性的；直线的",
+    "en": "arranged in or extending along a straight line; proportional"
+  },
+  "cheapest": {
+    "p": "/ˈtʃiːpɪst/",
+    "t": "最便宜的",
+    "en": "superlative of cheap; lowest in cost"
+  },
+  "overcapacity": {
+    "p": "/ˌəʊvəkəˈpæsəti/",
+    "t": "产能过剩",
+    "en": "a situation where production capacity exceeds demand"
+  },
+  "module": {
+    "p": "/ˈmɒdjuːl/",
+    "t": "模块；组件",
+    "en": "a self-contained unit or component"
+  },
+  "offensively": {
+    "p": "/əˈfensɪvli/",
+    "t": "冒犯地；进攻性地",
+    "en": "in a manner that causes offence or is aggressive"
+  },
+  "installations": {
+    "p": "/ˌɪnstəˈleɪʃənz/",
+    "t": "安装；设施",
+    "en": "the act of installing or installed equipment/facilities"
+  },
+  "onethird": {
+    "p": "/ˌwʌnˈθɜːd/",
+    "t": "三分之一",
+    "en": "one of three equal parts"
+  },
+  "constrain": {
+    "p": "/kənˈstreɪn/",
+    "t": "限制，约束",
+    "en": "to limit or restrict"
+  },
+  "generators": {
+    "p": "/ˈdʒenəreɪtəz/",
+    "t": "发电机；产生者",
+    "en": "machines that produce electricity; things that generate"
+  },
+  "unreliable": {
+    "p": "/ˌʌnrɪˈlaɪəbl/",
+    "t": "不可靠的",
+    "en": "not able to be trusted or depended on"
+  },
+  "imported": {
+    "p": "/ɪmˈpɔːtɪd/",
+    "t": "进口的",
+    "en": "brought in from another country"
+  },
+  "import": {
+    "p": "/ɪmˈpɔːt/",
+    "t": "进口，输入",
+    "en": "to bring goods in from abroad"
+  },
+  "petrol": {
+    "p": "/ˈpetrəl/",
+    "t": "汽油",
+    "en": "a fuel for motor vehicles; gasoline"
+  },
+  "dependency": {
+    "p": "/dɪˈpendənsi/",
+    "t": "依赖，依存",
+    "en": "the state of relying on something or someone"
+  },
+  "fossilbased": {
+    "p": "/ˈfɒslbeɪst/",
+    "t": "基于化石燃料的",
+    "en": "derived from or relying on fossil fuels"
+  },
+  "loans": {
+    "p": "/ləʊnz/",
+    "t": "贷款",
+    "en": "sums of money lent, to be paid back"
+  },
+  "shining": {
+    "p": "/ˈʃaɪnɪŋ/",
+    "t": "闪耀的；发光的",
+    "en": "giving out or reflecting light; bright"
+  },
+  "dispatched": {
+    "p": "/dɪˈspætʃt/",
+    "t": "派遣；发送",
+    "en": "sent off to a destination"
+  },
+  "rollout": {
+    "p": "/ˈrəʊlaʊt/",
+    "t": "推出，推广",
+    "en": "the introduction or launch of a product or service"
+  },
+  "midday": {
+    "p": "/ˌmɪdˈdeɪ/",
+    "t": "正午",
+    "en": "the middle of the day; noon"
+  },
+  "gridintegrated": {
+    "p": "/ˈɡrɪdˌɪntɪɡreɪtɪd/",
+    "t": "并入电网的",
+    "en": "connected to and integrated with the electricity grid"
+  },
+  "monsoon": {
+    "p": "/mɒnˈsuːn/",
+    "t": "季风；雨季",
+    "en": "a seasonal wind bringing heavy rain"
+  },
+  "electrification": {
+    "p": "/ɪˌlektrɪfɪˈkeɪʃn/",
+    "t": "电气化",
+    "en": "the process of converting to electric power"
+  },
+  "executiveled": {
+    "p": "/ɪɡˈzekjətɪvled/",
+    "t": "高管主导的",
+    "en": "led or driven by executives"
+  },
+  "inherent": {
+    "p": "/ɪnˈhɪərənt/",
+    "t": "固有的，内在的",
+    "en": "existing as a natural or permanent quality"
+  },
+  "uncontrolled": {
+    "p": "/ˌʌnkənˈtrəʊld/",
+    "t": "不受控制的",
+    "en": "not regulated or restrained"
+  },
+  "loads": {
+    "p": "/ləʊdz/",
+    "t": "负载；大量",
+    "en": "amounts of electrical power drawn; large quantities"
+  },
+  "electrify": {
+    "p": "/ɪˈlektrɪfaɪ/",
+    "t": "使电气化；使通电",
+    "en": "to convert to electric power; to charge with electricity"
+  },
+  "deployable": {
+    "p": "/dɪˈplɔɪəbl/",
+    "t": "可部署的",
+    "en": "able to be deployed or put into use"
+  },
+  "plugin": {
+    "p": "/ˈplʌɡɪn/",
+    "t": "插入式；插件",
+    "en": "designed to be plugged in; an add-on component"
+  },
+  "balcony": {
+    "p": "/ˈbælkəni/",
+    "t": "阳台",
+    "en": "a platform projecting from a building's wall"
+  },
+  "socket": {
+    "p": "/ˈsɒkɪt/",
+    "t": "插座；插孔",
+    "en": "a device into which a plug is inserted for electrical connection"
+  },
+  "agrivoltaics": {
+    "p": "/ˌæɡrɪvəʊlˈteɪɪks/",
+    "t": "农光互补",
+    "en": "the simultaneous use of land for agriculture and solar power"
+  },
+  "production": {
+    "p": "/prəˈdʌkʃn/",
+    "t": "生产，产量",
+    "en": "the process of making or growing goods; output"
+  },
+  "perovskite": {
+    "p": "/ˈperəvskaɪt/",
+    "t": "钙钛矿",
+    "en": "a mineral or synthetic material used in high-efficiency solar cells"
+  },
+  "burst": {
+    "p": "/bɜːst/",
+    "t": "爆发；迸发",
+    "en": "a sudden outbreak or increase"
+  },
+  "hydro": {
+    "p": "/ˈhaɪdrəʊ/",
+    "t": "水力发电",
+    "en": "hydroelectric power"
+  },
+  "caveat": {
+    "p": "/ˈkæviæt/",
+    "t": "警告，注意事项",
+    "en": "a warning or proviso of specific limitations"
+  },
+  "beaming": {
+    "p": "/ˈbiːmɪŋ/",
+    "t": "照射；发送（波束）",
+    "en": "sending out beams of light or energy"
+  },
+  "orbit": {
+    "p": "/ˈɔːbɪt/",
+    "t": "轨道；绕轨道运行",
+    "en": "the curved path of a celestial object; to move around in orbit"
+  },
+  "edging": {
+    "p": "/ˈedʒɪŋ/",
+    "t": "缓慢移动；边缘",
+    "en": "moving gradually; a border or edge"
+  },
+  "tipping": {
+    "p": "/ˈtɪpɪŋ/",
+    "t": "倾斜； tipping point 临界点",
+    "en": "leaning or causing to lean; reaching a critical point"
+  },
+  "anticipated": {
+    "p": "/ænˈtɪsɪpeɪtɪd/",
+    "t": "预期的，预料中的",
+    "en": "expected or predicted"
+  },
+  "capturing": {
+    "p": "/ˈkæptʃərɪŋ/",
+    "t": "捕获；吸引",
+    "en": "the act of catching or seizing; attracting and holding attention"
+  },
+  "commission": {
+    "p": "/kəˈmɪʃən/",
+    "t": "委员会；佣金；委托",
+    "en": "a group given authority; a fee; an order to produce something"
+  },
+  "hammered": {
+    "p": "/ˈhæməd/",
+    "t": "被锤打的；遭受重击的",
+    "en": "struck repeatedly; severely beaten or criticized"
+  },
+  "buffeted": {
+    "p": "/ˈbʌfɪtɪd/",
+    "t": "反复打击；受冲击",
+    "en": "hit repeatedly; affected by repeated blows or difficulties"
+  },
+  "ratings": {
+    "p": "/ˈreɪtɪŋz/",
+    "t": "收视率；评级",
+    "en": "measures of popularity or performance, especially of broadcasts"
+  },
+  "controversies": {
+    "p": "/ˈkɒntrəvɜːsiz/",
+    "t": "争议",
+    "en": "public disagreements or disputes"
+  },
+  "unpopularity": {
+    "p": "/ˌʌnpɒpjuˈlærəti/",
+    "t": "不受欢迎",
+    "en": "the state of being disliked by many people"
+  },
+  "candidacy": {
+    "p": "/ˈkændɪdəsi/",
+    "t": "候选人资格",
+    "en": "the position or state of being a candidate"
+  },
+  "pocketbook": {
+    "p": "/ˈpɒkɪtbʊk/",
+    "t": "钱包；经济状况",
+    "en": "a wallet; financial resources or interests"
+  },
+  "boldly": {
+    "p": "/ˈbəʊldli/",
+    "t": "大胆地",
+    "en": "in a courageous or confident manner"
+  },
+  "profess": {
+    "p": "/prəˈfes/",
+    "t": "宣称；公开表示",
+    "en": "to claim or declare openly"
+  },
+  "fairness": {
+    "p": "/ˈfeənəs/",
+    "t": "公平",
+    "en": "the quality of being just and impartial"
+  },
+  "verses": {
+    "p": "/ˈvɜːsɪz/",
+    "t": "诗句；经文",
+    "en": "lines of poetry or passages from scripture"
+  },
+  "nationalists": {
+    "p": "/ˈnæʃənəlɪsts/",
+    "t": "民族主义者",
+    "en": "people who advocate for national independence or superiority"
+  },
+  "congregation": {
+    "p": "/ˌkɒŋɡrɪˈɡeɪʃən/",
+    "t": "会众；集会",
+    "en": "a group of people gathered for religious worship"
+  },
+  "sermon": {
+    "p": "/ˈsɜːmən/",
+    "t": "布道；说教",
+    "en": "a religious talk given during worship; a moralizing lecture"
+  },
+  "gathered": {
+    "p": "/ˈɡæðəd/",
+    "t": "聚集",
+    "en": "came together in a group"
+  },
+  "tremor": {
+    "p": "/ˈtremə/",
+    "t": "震颤；轻微震动",
+    "en": "a shaking movement; a slight earthquake"
+  },
+  "rocksolid": {
+    "p": "/ˌrɒkˈsɒlɪd/",
+    "t": "坚如磐石的；可靠的",
+    "en": "extremely firm, stable, or reliable"
+  },
+  "certainties": {
+    "p": "/ˈsɜːtəntiz/",
+    "t": "确定的事",
+    "en": "things that are definitely true or inevitable"
+  },
+  "evangelicals": {
+    "p": "/ˌiːvænˈdʒelɪkəlz/",
+    "t": "福音派信徒",
+    "en": "Christians emphasizing personal conversion and biblical authority"
+  },
+  "heartland": {
+    "p": "/ˈhɑːtlænd/",
+    "t": "中心地带；腹地",
+    "en": "the central or most important region of a country"
+  },
+  "secularization": {
+    "p": "/ˌsekjələraɪˈzeɪʃən/",
+    "t": "世俗化",
+    "en": "the process of becoming less religious or spiritual"
+  },
+  "nonreligious": {
+    "p": "/ˌnɒnrɪˈlɪdʒəs/",
+    "t": "非宗教的",
+    "en": "not connected with or believing in religion"
+  },
+  "antireligious": {
+    "p": "/ˌæntɪrɪˈlɪdʒəs/",
+    "t": "反宗教的",
+    "en": "opposed to religion"
+  },
+  "accelerated": {
+    "p": "/əkˈseləreɪtɪd/",
+    "t": "加速的",
+    "en": "made faster; increased in speed"
+  },
+  "consolidated": {
+    "p": "/kənˈsɒlɪdeɪtɪd/",
+    "t": "巩固的；合并的",
+    "en": "strengthened or combined into a single whole"
+  },
+  "faithbased": {
+    "p": "/ˈfeɪθbeɪst/",
+    "t": "基于信仰的",
+    "en": "founded on or motivated by religious belief"
+  },
+  "derided": {
+    "p": "/dɪˈraɪdɪd/",
+    "t": "被嘲笑的",
+    "en": "mocked or ridiculed"
+  },
+  "disingenuous": {
+    "p": "/ˌdɪsɪnˈdʒenjuəs/",
+    "t": "不真诚的；虚伪的",
+    "en": "not candid or sincere, typically by pretending ignorance"
+  },
+  "offbrand": {
+    "p": "/ˈɒfbrænd/",
+    "t": "非主流的；杂牌的",
+    "en": "not of a well-known brand; unconventional"
+  },
+  "ceded": {
+    "p": "/ˈsiːdɪd/",
+    "t": "割让；放弃",
+    "en": "gave up or surrendered something"
+  },
+  "contests": {
+    "p": "/ˈkɒntests/",
+    "t": "竞赛；争夺",
+    "en": "competitions or struggles for victory"
+  },
+  "overperforming": {
+    "p": "/ˌəʊvəpəˈfɔːmɪŋ/",
+    "t": "表现超常",
+    "en": "performing better than expected"
+  },
+  "selfdescribed": {
+    "p": "/ˌselfdɪˈskraɪbd/",
+    "t": "自称的",
+    "en": "described or labeled by oneself"
+  },
+  "greets": {
+    "p": "/ɡriːts/",
+    "t": "问候；迎接",
+    "en": "welcomes or addresses someone"
+  },
+  "attendees": {
+    "p": "/əˌtenˈdiːz/",
+    "t": "出席者",
+    "en": "people who are present at an event"
+  },
+  "reconcile": {
+    "p": "/ˈrekənsaɪl/",
+    "t": "调和；使和解",
+    "en": "to restore friendly relations or make compatible"
+  },
+  "wellconnected": {
+    "p": "/ˌwelkəˈnektɪd/",
+    "t": "人脉广的",
+    "en": "having influential friends or acquaintances"
+  },
+  "pastors": {
+    "p": "/ˈpɑːstəz/",
+    "t": "牧师",
+    "en": "ministers in charge of a Christian congregation"
+  },
+  "unicorn": {
+    "p": "/ˈjuːnɪkɔːn/",
+    "t": "独角兽；稀有的成功初创企业",
+    "en": "a mythical horse with a horn; a rare highly valued startup"
+  },
+  "denomination": {
+    "p": "/dɪˌnɒmɪˈneɪʃən/",
+    "t": "教派；面额",
+    "en": "a religious group; a unit of currency value"
+  },
+  "insulates": {
+    "p": "/ˈɪnsjuleɪts/",
+    "t": "使隔离；保护",
+    "en": "protects or isolates from outside influence"
+  },
+  "therapizing": {
+    "p": "/ˈθerəpaɪzɪŋ/",
+    "t": "以治疗方式对待",
+    "en": "treating someone in a therapeutic manner"
+  },
+  "floated": {
+    "p": "/ˈfləʊtɪd/",
+    "t": "漂浮；提出（想法）",
+    "en": "rested on liquid; proposed an idea"
+  },
+  "downtown": {
+    "p": "/ˈdaʊntaʊn/",
+    "t": "市中心",
+    "en": "the central business district of a city"
+  },
+  "theater": {
+    "p": "/ˈθɪətə/",
+    "t": "剧院；戏剧",
+    "en": "a building for dramatic performances; the art of drama"
+  },
+  "fabric": {
+    "p": "/ˈfæbrɪk/",
+    "t": "织物；结构",
+    "en": "cloth; the underlying structure of something"
+  },
+  "suspicious": {
+    "p": "/səˈspɪʃəs/",
+    "t": "可疑的；多疑的",
+    "en": "causing distrust; inclined to doubt"
+  },
+  "nodded": {
+    "p": "/ˈnɒdɪd/",
+    "t": "点头",
+    "en": "moved the head up and down to show agreement"
+  },
+  "sighed": {
+    "p": "/saɪd/",
+    "t": "叹气",
+    "en": "exhaled audibly to express emotion"
+  },
+  "recounted": {
+    "p": "/rɪˈkaʊntɪd/",
+    "t": "叙述；讲述",
+    "en": "told someone about an event in detail"
+  },
+  "quipped": {
+    "p": "/kwɪpt/",
+    "t": "说俏皮话",
+    "en": "made a witty or sarcastic remark"
+  },
+  "broke": {
+    "p": "/brəʊk/",
+    "t": "打破；没钱",
+    "en": "past tense of break; having no money"
+  },
+  "conciliatory": {
+    "p": "/kənˈsɪliətəri/",
+    "t": "安抚的；和解的",
+    "en": "intended to placate or pacify"
+  },
+  "slips": {
+    "p": "/slɪps/",
+    "t": "滑倒；失误；纸条",
+    "en": "loses footing; minor mistakes; small pieces of paper"
+  },
+  "preaching": {
+    "p": "/ˈpriːtʃɪŋ/",
+    "t": "布道；说教",
+    "en": "delivering a religious sermon; giving moral advice"
+  },
+  "scripture": {
+    "p": "/ˈskrɪptʃə/",
+    "t": "经文；圣经",
+    "en": "sacred writings, especially the Bible"
+  },
+  "referencing": {
+    "p": "/ˈrefərənsɪŋ/",
+    "t": "引用；提及",
+    "en": "mentioning or citing something"
+  },
+  "teachings": {
+    "p": "/ˈtiːtʃɪŋz/",
+    "t": "教义；教导",
+    "en": "doctrines or principles taught by someone"
+  },
+  "nominally": {
+    "p": "/ˈnɒmɪnəli/",
+    "t": "名义上",
+    "en": "in name only; officially but not in reality"
+  },
+  "atheism": {
+    "p": "/ˈeɪθiɪzəm/",
+    "t": "无神论",
+    "en": "disbelief in the existence of God"
+  },
+  "suicide": {
+    "p": "/ˈsuːɪsaɪd/",
+    "t": "自杀",
+    "en": "the act of intentionally killing oneself"
+  },
+  "missionary": {
+    "p": "/ˈmɪʃənəri/",
+    "t": "传教士",
+    "en": "a person sent to spread religious faith"
+  },
+  "graduating": {
+    "p": "/ˈɡrædʒueɪtɪŋ/",
+    "t": "毕业",
+    "en": "completing a course of study and receiving a degree"
+  },
+  "stirring": {
+    "p": "/ˈstɜːrɪŋ/",
+    "t": "激动人心的；搅动",
+    "en": "arousing strong emotion; mixing or moving"
+  },
+  "preacher": {
+    "p": "/ˈpriːtʃə/",
+    "t": "传教士；布道者",
+    "en": "a person who delivers sermons"
+  },
+  "despair": {
+    "p": "/dɪˈspeə/",
+    "t": "绝望",
+    "en": "the complete loss of hope"
+  },
+  "disillusionment": {
+    "p": "/ˌdɪsɪˈluːʒənmənt/",
+    "t": "幻灭",
+    "en": "disappointment from discovering something is not as good as believed"
+  },
+  "counsel": {
+    "p": "/ˈkaʊnsəl/",
+    "t": "建议；劝告",
+    "en": "advice or guidance"
+  },
+  "platitudes": {
+    "p": "/ˈplætɪtjuːdz/",
+    "t": "陈词滥调",
+    "en": "dull or overused remarks"
+  },
+  "theologian": {
+    "p": "/ˌθiːəˈləʊdʒən/",
+    "t": "神学家",
+    "en": "a person who studies religion and theology"
+  },
+  "epistles": {
+    "p": "/ɪˈpɪsəlz/",
+    "t": "书信（尤指圣经中的）",
+    "en": "letters, especially those in the New Testament"
+  },
+  "commissioned": {
+    "p": "/kəˈmɪʃənd/",
+    "t": "委托；任命",
+    "en": "officially ordered or appointed to do something"
+  },
+  "bishops": {
+    "p": "/ˈbɪʃəps/",
+    "t": "主教",
+    "en": "senior clergy members in certain churches"
+  },
+  "intellect": {
+    "p": "/ˈɪntəlekt/",
+    "t": "智力；才智",
+    "en": "the power of reasoning and understanding"
+  },
+  "spiritual": {
+    "p": "/ˈspɪrɪtʃuəl/",
+    "t": "精神的；灵性的",
+    "en": "relating to the human spirit or religion"
+  },
+  "funeral": {
+    "p": "/ˈfjuːnərəl/",
+    "t": "葬礼",
+    "en": "a ceremony for burying or cremating a dead person"
+  },
+  "anchored": {
+    "p": "/ˈæŋkəd/",
+    "t": "固定；扎根",
+    "en": "secured firmly; grounded"
+  },
+  "spaceshiplooking": {
+    "p": "/ˈspeɪsʃɪpˌlʊkɪŋ/",
+    "t": "外形像飞船的",
+    "en": "resembling a spacecraft in appearance"
+  },
+  "suburb": {
+    "p": "/ˈsʌbɜːb/",
+    "t": "郊区",
+    "en": "a residential area on the outskirts of a city"
+  },
+  "centrism": {
+    "p": "/ˈsentrɪzəm/",
+    "t": "中间路线；中间主义",
+    "en": "a political position between left and right"
+  },
+  "evenly": {
+    "p": "/ˈiːvənli/",
+    "t": "均匀地；平等地",
+    "en": "in an equal or level manner"
+  },
+  "orchestra": {
+    "p": "/ˈɔːkɪstrə/",
+    "t": "管弦乐队",
+    "en": "a large group of musicians playing together"
+  },
+  "nondenominationalinspired": {
+    "p": "/ˌnɒndɪˌnɒmɪˈneɪʃənəlɪnˈspaɪəd/",
+    "t": "受非教派启发的",
+    "en": "inspired by non-denominational Christianity"
+  },
+  "worship": {
+    "p": "/ˈwɜːʃɪp/",
+    "t": "崇拜；礼拜",
+    "en": "the feeling or expression of reverence for a deity"
+  },
+  "broadsides": {
+    "p": "/ˈbrɔːdsaɪdz/",
+    "t": "猛烈抨击",
+    "en": "strong verbal or written attacks"
+  },
+  "inexperienced": {
+    "p": "/ˌɪnɪkˈspɪəriənst/",
+    "t": "缺乏经验的",
+    "en": "lacking knowledge or skill from practice"
+  },
+  "pouring": {
+    "p": "/ˈpɔːrɪŋ/",
+    "t": "倾泻；倒",
+    "en": "flowing or causing to flow rapidly"
+  },
+  "stumping": {
+    "p": "/ˈstʌmpɪŋ/",
+    "t": "巡回演讲；难住",
+    "en": "traveling to make political speeches; puzzling"
+  },
+  "prayer": {
+    "p": "/preə/",
+    "t": "祈祷",
+    "en": "a request or communication addressed to a deity"
+  },
+  "bookstore": {
+    "p": "/ˈbʊkstɔː/",
+    "t": "书店",
+    "en": "a shop that sells books"
+  },
+  "supporters": {
+    "p": "/səˈpɔːtəz/",
+    "t": "支持者",
+    "en": "people who approve of or back someone or something"
+  },
+  "attended": {
+    "p": "/əˈtendɪd/",
+    "t": "出席；参加",
+    "en": "was present at an event"
+  },
+  "crisscrossing": {
+    "p": "/ˈkrɪskrɒsɪŋ/",
+    "t": "交叉往来",
+    "en": "moving back and forth across an area"
+  },
+  "alleluia": {
+    "p": "/ˌælɪˈluːjə/",
+    "t": "哈利路亚（赞美神）",
+    "en": "an exclamation of praise to God"
+  },
+  "mercy": {
+    "p": "/ˈmɜːsi/",
+    "t": "仁慈；怜悯",
+    "en": "compassion or forgiveness shown to someone"
+  },
+  "humbly": {
+    "p": "/ˈhʌmbli/",
+    "t": "谦卑地",
+    "en": "in a modest or lowly manner"
+  },
+  "creation": {
+    "p": "/kriˈeɪʃən/",
+    "t": "创造；创世",
+    "en": "the act of bringing something into existence"
+  },
+  "carves": {
+    "p": "/kɑːvz/",
+    "t": "雕刻；切",
+    "en": "cuts or shapes material; slices meat"
+  },
+  "unfixed": {
+    "p": "/ˌʌnˈfɪkst/",
+    "t": "未固定的；未确定的",
+    "en": "not fastened or settled"
+  },
+  "hotbutton": {
+    "p": "/ˈhɒtbʌtən/",
+    "t": "热点（敏感）的",
+    "en": "arousing strong emotions or controversy"
+  },
+  "compassion": {
+    "p": "/kəmˈpæʃən/",
+    "t": "同情；怜悯",
+    "en": "sympathetic concern for the suffering of others"
+  },
+  "absolutist": {
+    "p": "/ˈæbsəluːtɪst/",
+    "t": "绝对主义者",
+    "en": "a person who believes in absolute principles"
+  },
+  "satisfy": {
+    "p": "/ˈsætɪsfaɪ/",
+    "t": "满足；使满意",
+    "en": "to fulfill the needs or desires of someone"
+  },
+  "representing": {
+    "p": "/ˌreprɪˈzentɪŋ/",
+    "t": "代表",
+    "en": "acting or speaking on behalf of someone"
+  },
+  "welcomes": {
+    "p": "/ˈwelkəmz/",
+    "t": "欢迎",
+    "en": "greets someone in a friendly way"
+  },
+  "lesbian": {
+    "p": "/ˈlezbɪən/",
+    "t": "女同性恋者",
+    "en": "a woman who is sexually attracted to other women"
+  },
+  "accepts": {
+    "p": "/əkˈsepts/",
+    "t": "接受",
+    "en": "consents to receive or agree to something"
+  },
+  "congregations": {
+    "p": "/ˌkɒŋɡrɪˈɡeɪʃənz/",
+    "t": "会众",
+    "en": "groups of people assembled for worship"
+  },
+  "schism": {
+    "p": "/ˈskɪzəm/",
+    "t": "分裂",
+    "en": "a split or division within a group, especially a church"
+  },
+  "traditionalist": {
+    "p": "/trəˈdɪʃənəlɪst/",
+    "t": "传统主义者",
+    "en": "a person who upholds traditional beliefs or practices"
+  },
+  "offshoot": {
+    "p": "/ˈɒfʃuːt/",
+    "t": "分支；衍生",
+    "en": "a thing that develops from something else"
+  },
+  "endorsing": {
+    "p": "/ɪnˈdɔːsɪŋ/",
+    "t": "支持；背书",
+    "en": "publicly declaring support for someone or something"
+  },
+  "critiquing": {
+    "p": "/krɪˈtiːkɪŋ/",
+    "t": "批评；评论",
+    "en": "evaluating or analyzing critically"
+  },
+  "farleft": {
+    "p": "/ˌfɑːˈleft/",
+    "t": "极左的",
+    "en": "extremely left-wing in politics"
+  },
+  "independentminded": {
+    "p": "/ˌɪndɪˈpendəntˈmaɪndɪd/",
+    "t": "有独立思想的",
+    "en": "thinking for oneself rather than following others"
+  },
+  "evangelize": {
+    "p": "/ɪˈvændʒəlaɪz/",
+    "t": "传福音",
+    "en": "to preach the gospel or seek converts"
+  },
+  "uncompromisingly": {
+    "p": "/ʌnˈkɒmprəmaɪzɪŋli/",
+    "t": "不妥协地",
+    "en": "in a manner refusing to make concessions"
+  },
+  "gospelreading": {
+    "p": "/ˈɡɒspəlˌriːdɪŋ/",
+    "t": "福音书诵读",
+    "en": "the reading of a Gospel passage in a service"
+  },
+  "thirsty": {
+    "p": "/ˈθɜːsti/",
+    "t": "口渴的；渴望的",
+    "en": "feeling the need to drink; eager for something"
+  },
+  "clothe": {
+    "p": "/kləʊð/",
+    "t": "给…穿衣",
+    "en": "to put clothes on someone"
+  },
+  "seminarian": {
+    "p": "/ˌsemɪˈneəriən/",
+    "t": "神学院学生",
+    "en": "a student at a seminary"
+  },
+  "revival": {
+    "p": "/rɪˈvaɪvəl/",
+    "t": "复兴；复活",
+    "en": "a return to life or vigor; renewed interest in religion"
+  },
+  "strategists": {
+    "p": "/ˈstrætədʒɪsts/",
+    "t": "战略家",
+    "en": "people skilled in planning and strategy"
+  },
+  "scholar": {
+    "p": "/ˈskɒlə/",
+    "t": "学者",
+    "en": "a person who studies a subject deeply"
+  },
+  "subtleties": {
+    "p": "/ˈsʌtəltiz/",
+    "t": "微妙之处",
+    "en": "fine distinctions or nuances"
+  },
+  "inauthentic": {
+    "p": "/ˌɪnɔːˈθentɪk/",
+    "t": "不真实的；假的",
+    "en": "not genuine or real"
+  },
+  "ample": {
+    "p": "/ˈæmpəl/",
+    "t": "充足的",
+    "en": "enough or more than enough"
+  },
+  "mainline": {
+    "p": "/ˈmeɪnlaɪn/",
+    "t": "主流（教会）的",
+    "en": "belonging to a mainstream Protestant denomination"
+  },
+  "nonevangelical": {
+    "p": "/ˌnɒniːvænˈdʒelɪkəl/",
+    "t": "非福音派的",
+    "en": "not belonging to the evangelical tradition"
+  },
+  "evoke": {
+    "p": "/ɪˈvəʊk/",
+    "t": "唤起；引发",
+    "en": "to bring a feeling or memory to mind"
+  },
+  "stained": {
+    "p": "/steɪnd/",
+    "t": "染污的；着色的",
+    "en": "marked or discolored with stains"
+  },
+  "denominations": {
+    "p": "/dɪˌnɒmɪˈneɪʃənz/",
+    "t": "教派",
+    "en": "religious groups or sects"
+  },
+  "mainliners": {
+    "p": "/ˈmeɪnlaɪnəz/",
+    "t": "主流教会成员",
+    "en": "members of mainline Protestant churches"
+  },
+  "progressivism": {
+    "p": "/prəˈɡresɪvɪzəm/",
+    "t": "进步主义",
+    "en": "support for social reform and change"
+  },
+  "unaffiliated": {
+    "p": "/ˌʌnəˈfɪlieɪtɪd/",
+    "t": "无隶属关系的",
+    "en": "not officially connected with an organization"
+  },
+  "atheists": {
+    "p": "/ˈeɪθiɪsts/",
+    "t": "无神论者",
+    "en": "people who do not believe in God"
+  },
+  "inkind": {
+    "p": "/ˌɪnˈkaɪnd/",
+    "t": "以实物（而非现金）的",
+    "en": "in the form of goods or services rather than money"
+  },
+  "leveled": {
+    "p": "/ˈlevəld/",
+    "t": "使平坦；对准",
+    "en": "made flat; aimed or directed"
+  },
+  "fielded": {
+    "p": "/ˈfiːldɪd/",
+    "t": "应对；派出",
+    "en": "handled questions; put forward a team or candidate"
+  },
+  "radicalism": {
+    "p": "/ˈrædɪkəlɪzəm/",
+    "t": "激进主义",
+    "en": "support for extreme political or social change"
+  },
+  "nondenominational": {
+    "p": "/ˌnɒndɪˌnɒmɪˈneɪʃənəl/",
+    "t": "无教派的",
+    "en": "not belonging to any particular religious denomination"
+  },
+  "broadside": {
+    "p": "/ˈbrɔːdsaɪd/",
+    "t": "猛烈抨击",
+    "en": "a strong verbal or written attack"
+  },
+  "pastoral": {
+    "p": "/ˈpɑːstərəl/",
+    "t": "牧师的；田园的",
+    "en": "relating to a pastor's duties; rural"
+  },
+  "ministry": {
+    "p": "/ˈmɪnɪstri/",
+    "t": "牧师职务；事工",
+    "en": "the work or office of a religious minister"
+  },
+  "middleoftheroad": {
+    "p": "/ˌmɪdləvðəˈrəʊd/",
+    "t": "中间路线的；温和的",
+    "en": "moderate in position or policy"
+  },
+  "underscored": {
+    "p": "/ˌʌndəˈskɔːd/",
+    "t": "强调",
+    "en": "emphasized or highlighted"
+  },
+  "debtcollection": {
+    "p": "/ˈdetkəˌlekʃən/",
+    "t": "收债",
+    "en": "the process of collecting owed money"
+  },
+  "interviewing": {
+    "p": "/ˈɪntəvjuːɪŋ/",
+    "t": "面试；采访",
+    "en": "questioning someone for a job or article"
+  },
+  "inundated": {
+    "p": "/ˈɪnʌndeɪtɪd/",
+    "t": "淹没；使应接不暇",
+    "en": "overwhelmed with a flood of things"
+  },
+  "airwaves": {
+    "p": "/ˈeəweɪvz/",
+    "t": "广播电波",
+    "en": "channels through which radio or TV signals are broadcast"
+  },
+  "blatant": {
+    "p": "/ˈbleɪtənt/",
+    "t": "明显的；公然的",
+    "en": "done openly and unashamedly"
+  },
+  "arrests": {
+    "p": "/əˈrests/",
+    "t": "逮捕",
+    "en": "acts of taking someone into legal custody"
+  },
+  "trounced": {
+    "p": "/traʊnst/",
+    "t": "彻底击败",
+    "en": "defeated decisively"
+  },
+  "drowned": {
+    "p": "/draʊnd/",
+    "t": "淹死；淹没",
+    "en": "died by submersion in water; overwhelmed"
+  },
+  "booing": {
+    "p": "/ˈbuːɪŋ/",
+    "t": "发出嘘声",
+    "en": "shouting 'boo' to show disapproval"
+  },
+  "favorability": {
+    "p": "/ˌfeɪvərəˈbɪləti/",
+    "t": "好感度",
+    "en": "the degree to which someone is liked or approved of"
+  },
+  "nominating": {
+    "p": "/ˈnɒmɪneɪtɪŋ/",
+    "t": "提名",
+    "en": "proposing someone as a candidate"
+  },
+  "flawed": {
+    "p": "/flɔːd/",
+    "t": "有缺陷的",
+    "en": "having imperfections or weaknesses"
+  },
+  "decency": {
+    "p": "/ˈdiːsənsi/",
+    "t": "体面；正派",
+    "en": "behavior that conforms to standards of morality"
+  },
+  "pedophile": {
+    "p": "/ˈpiːdəfaɪl/",
+    "t": "恋童癖者",
+    "en": "a person sexually attracted to children"
+  },
+  "shielded": {
+    "p": "/ˈʃiːldɪd/",
+    "t": "保护；遮蔽",
+    "en": "protected from danger or harm"
+  },
+  "discusses": {
+    "p": "/dɪˈskʌsɪz/",
+    "t": "讨论",
+    "en": "talks about a subject in detail"
+  },
+  "liberty": {
+    "p": "/ˈlɪbəti/",
+    "t": "自由",
+    "en": "the state of being free from oppressive restrictions"
+  },
+  "chaplain": {
+    "p": "/ˈtʃæplɪn/",
+    "t": "牧师；随军神父",
+    "en": "a clergy member attached to an institution or military unit"
+  },
+  "liberalleaning": {
+    "p": "/ˈlɪbərəlˌliːnɪŋ/",
+    "t": "倾向自由派的",
+    "en": "having a tendency toward liberal views"
+  },
+  "restoring": {
+    "p": "/rɪˈstɔːrɪŋ/",
+    "t": "恢复；修复",
+    "en": "bringing back to a former condition"
+  },
+  "normalcy": {
+    "p": "/ˈnɔːməlsi/",
+    "t": "常态",
+    "en": "the state of being normal"
+  },
+  "cattle": {
+    "p": "/ˈkætl/",
+    "t": "牛；牲口",
+    "en": "large domesticated animals kept for meat or milk"
+  },
+  "religiosity": {
+    "p": "/rɪˌlɪdʒiˈɒsəti/",
+    "t": "宗教虔诚",
+    "en": "strong religious feeling or devotion"
+  },
+  "agreeing": {
+    "p": "/əˈɡriːɪŋ/",
+    "t": "同意",
+    "en": "having the same opinion; consenting"
+  },
+  "evidenced": {
+    "p": "/ˈevɪdənst/",
+    "t": "证明；显示",
+    "en": "shown or indicated clearly"
+  },
+  "buyer": {
+    "p": "/ˈbaɪə/",
+    "t": "买家",
+    "en": "a person who purchases something"
+  },
+  "remorse": {
+    "p": "/rɪˈmɔːs/",
+    "t": "懊悔；悔恨",
+    "en": "deep regret for a wrong committed"
   }
 }
