@@ -60513,5 +60513,570 @@
     "p": "/rɪˈmɔːs/",
     "t": "懊悔；悔恨",
     "en": "deep regret for a wrong committed"
+  },
+  "exercised": {
+    "p": "/ˈeksəsaɪzd/",
+    "t": "锻炼过的；行使的",
+    "en": "having taken physical exercise; put into use"
+  },
+  "sedentary": {
+    "p": "/ˈsedntri/",
+    "t": "久坐的；固定不动的",
+    "en": "involving much sitting and little physical activity"
+  },
+  "nonexercise": {
+    "p": "/ˌnɒnˈeksəsaɪz/",
+    "t": "非运动的",
+    "en": "not related to or involving physical exercise"
+  },
+  "thermogenesis": {
+    "p": "/ˌθɜːməʊˈdʒenəsɪs/",
+    "t": "产热作用",
+    "en": "the production of heat, especially in the body"
+  },
+  "tapping": {
+    "p": "/ˈtæpɪŋ/",
+    "t": "轻敲；轻拍",
+    "en": "striking lightly and repeatedly"
+  },
+  "washing": {
+    "p": "/ˈwɒʃɪŋ/",
+    "t": "洗涤；洗的衣物",
+    "en": "the act of cleaning with water; clothes being washed"
+  },
+  "flexing": {
+    "p": "/ˈfleksɪŋ/",
+    "t": "弯曲；屈伸",
+    "en": "bending a joint or tightening a muscle"
+  },
+  "fidgeting": {
+    "p": "/ˈfɪdʒɪtɪŋ/",
+    "t": "坐立不安；小动作",
+    "en": "making small restless movements"
+  },
+  "fidget": {
+    "p": "/ˈfɪdʒɪt/",
+    "t": "坐立不安；摆弄",
+    "en": "move or act restlessly"
+  },
+  "boredom": {
+    "p": "/ˈbɔːdəm/",
+    "t": "无聊；厌烦",
+    "en": "the state of feeling weary and uninterested"
+  },
+  "inactive": {
+    "p": "/ɪnˈæktɪv/",
+    "t": "不活跃的；闲置的",
+    "en": "not engaging in activity; idle"
+  },
+  "contractions": {
+    "p": "/kənˈtrækʃnz/",
+    "t": "收缩；宫缩",
+    "en": "tightenings of muscles; shortened forms of words"
+  },
+  "habitual": {
+    "p": "/həˈbɪtʃuəl/",
+    "t": "习惯性的；惯常的",
+    "en": "done regularly as a habit"
+  },
+  "vacuuming": {
+    "p": "/ˈvækjuːmɪŋ/",
+    "t": "用吸尘器清扫",
+    "en": "cleaning with a vacuum cleaner"
+  },
+  "purposeful": {
+    "p": "/ˈpɜːpəsfl/",
+    "t": "有目的的；坚定的",
+    "en": "having a clear aim or purpose"
+  },
+  "basket": {
+    "p": "/ˈbɑːskɪt/",
+    "t": "篮子；筐",
+    "en": "a container made of woven material"
+  },
+  "trolley": {
+    "p": "/ˈtrɒli/",
+    "t": "手推车；有轨电车",
+    "en": "a cart with wheels for carrying things"
+  },
+  "strengthened": {
+    "p": "/ˈstreŋθnd/",
+    "t": "加强的；增强的",
+    "en": "made stronger"
+  },
+  "kilos": {
+    "p": "/ˈkiːləʊz/",
+    "t": "公斤；千克",
+    "en": "kilograms"
+  },
+  "piggybacking": {
+    "p": "/ˈpɪɡibækɪŋ/",
+    "t": "骑背；搭便车；借用",
+    "en": "carrying on one's back; building on something existing"
+  },
+  "locker": {
+    "p": "/ˈlɒkə(r)/",
+    "t": "储物柜；寄物柜",
+    "en": "a small lockable cupboard for storing things"
+  },
+  "enjoyable": {
+    "p": "/ɪnˈdʒɔɪəbl/",
+    "t": "令人愉快的",
+    "en": "giving pleasure and enjoyment"
+  },
+  "timeefficient": {
+    "p": "/ˌtaɪm ɪˈfɪʃnt/",
+    "t": "省时的；高效的",
+    "en": "using time in a productive way without waste"
+  },
+  "unashamedly": {
+    "p": "/ˌʌnəˈʃeɪmɪdli/",
+    "t": "不知羞耻地；毫不掩饰地",
+    "en": "in a way showing no shame or embarrassment"
+  },
+  "benefitting": {
+    "p": "/ˈbenɪfɪtɪŋ/",
+    "t": "受益；有益于",
+    "en": "receiving or giving an advantage"
+  },
+  "breach": {
+    "p": "/briːtʃ/",
+    "t": "违反；缺口",
+    "en": "an act of breaking a law or agreement; a gap"
+  },
+  "cyberhacks": {
+    "p": "/ˈsaɪbəhæks/",
+    "t": "网络黑客攻击",
+    "en": "illegal break-ins into computer systems"
+  },
+  "watchers": {
+    "p": "/ˈwɒtʃəz/",
+    "t": "观察者；监视者",
+    "en": "people who watch or observe closely"
+  },
+  "prepper": {
+    "p": "/ˈprepə/",
+    "t": "末日准备者",
+    "en": "a person who prepares for emergencies or disasters"
+  },
+  "stocking": {
+    "p": "/ˈstɒkɪŋ/",
+    "t": "存货；长袜",
+    "en": "the act of storing goods; a long sock"
+  },
+  "selfreplicate": {
+    "p": "/ˌselfˈreplɪkeɪt/",
+    "t": "自我复制",
+    "en": "to make copies of itself"
+  },
+  "internetconnected": {
+    "p": "/ˈɪntənetkənektɪd/",
+    "t": "联网的",
+    "en": "connected to the internet"
+  },
+  "fridges": {
+    "p": "/frɪdʒɪz/",
+    "t": "冰箱",
+    "en": "refrigerators"
+  },
+  "vacuums": {
+    "p": "/ˈvækjuːmz/",
+    "t": "真空吸尘器；真空",
+    "en": "vacuum cleaners; empty spaces"
+  },
+  "singularity": {
+    "p": "/ˌsɪŋɡjəˈlærəti/",
+    "t": "奇点",
+    "en": "a point where technology surpasses human control"
+  },
+  "comprehend": {
+    "p": "/ˌkɒmprɪˈhend/",
+    "t": "理解",
+    "en": "to understand fully"
+  },
+  "blockbuster": {
+    "p": "/ˈblɒkbʌstə/",
+    "t": "轰动大片；巨型炸弹",
+    "en": "a highly successful film or product"
+  },
+  "valuation": {
+    "p": "/ˌvæljuˈeɪʃn/",
+    "t": "估值",
+    "en": "an estimation of worth"
+  },
+  "trillion": {
+    "p": "/ˈtrɪljən/",
+    "t": "万亿",
+    "en": "a million million"
+  },
+  "skimp": {
+    "p": "/skɪmp/",
+    "t": "节省；吝啬",
+    "en": "to spend or use less than needed"
+  },
+  "catalyze": {
+    "p": "/ˈkætəlaɪz/",
+    "t": "催化；促成",
+    "en": "to cause or speed up a change"
+  },
+  "altruism": {
+    "p": "/ˈæltruɪzəm/",
+    "t": "利他主义",
+    "en": "selfless concern for others"
+  },
+  "prides": {
+    "p": "/praɪdz/",
+    "t": "自豪；狮群",
+    "en": "feelings of satisfaction; groups of lions"
+  },
+  "commonsense": {
+    "p": "/ˌkɒmənˈsens/",
+    "t": "常识",
+    "en": "practical good judgment"
+  },
+  "calculations": {
+    "p": "/ˌkælkjuˈleɪʃnz/",
+    "t": "计算",
+    "en": "acts of computing or estimating"
+  },
+  "galaxybrained": {
+    "p": "/ˈɡæləksibreɪnd/",
+    "t": "银河级天才的（讽刺）",
+    "en": "supposedly genius-level (often ironic)"
+  },
+  "hubris": {
+    "p": "/ˈhjuːbrɪs/",
+    "t": "傲慢",
+    "en": "excessive pride or self-confidence"
+  },
+  "evermorepowerful": {
+    "p": "/ˌevəmɔːˈpaʊəfl/",
+    "t": "日益强大的",
+    "en": "increasingly powerful"
+  },
+  "practicing": {
+    "p": "/ˈpræktɪsɪŋ/",
+    "t": "从业的；练习",
+    "en": "working in a profession; doing repeatedly"
+  },
+  "galling": {
+    "p": "/ˈɡɔːlɪŋ/",
+    "t": "令人恼怒的",
+    "en": "annoying and humiliating"
+  },
+  "funder": {
+    "p": "/ˈfʌndə/",
+    "t": "资助者",
+    "en": "a person or body that provides funding"
+  },
+  "gamble": {
+    "p": "/ˈɡæmbl/",
+    "t": "赌博；冒险",
+    "en": "to risk money or take a chance"
+  },
+  "defecting": {
+    "p": "/dɪˈfektɪŋ/",
+    "t": "叛逃",
+    "en": "abandoning one's country or group"
+  },
+  "extinct": {
+    "p": "/ɪkˈstɪŋkt/",
+    "t": "灭绝的",
+    "en": "no longer existing"
+  },
+  "galaxybrain": {
+    "p": "/ˈɡæləksibreɪn/",
+    "t": "银河脑（讽刺高见）",
+    "en": "an ironically overrated brilliant idea"
+  },
+  "roulette": {
+    "p": "/ruːˈlet/",
+    "t": "轮盘赌",
+    "en": "a gambling game with a spinning wheel"
+  },
+  "broadening": {
+    "p": "/ˈbrɔːdnɪŋ/",
+    "t": "扩大",
+    "en": "making or becoming wider"
+  },
+  "pauses": {
+    "p": "/pɔːzɪz/",
+    "t": "暂停",
+    "en": "temporary stops"
+  },
+  "netnegative": {
+    "p": "/ˌnetˈneɡətɪv/",
+    "t": "净负面的",
+    "en": "having an overall negative effect"
+  },
+  "netpositive": {
+    "p": "/ˌnetˈpɒzətɪv/",
+    "t": "净正面的",
+    "en": "having an overall positive effect"
+  },
+  "firestorm": {
+    "p": "/ˈfaɪəstɔːm/",
+    "t": "风暴性大火；猛烈批评",
+    "en": "a huge destructive fire; fierce criticism"
+  },
+  "superintelligence": {
+    "p": "/ˌsuːpərɪnˈtelɪdʒəns/",
+    "t": "超级智能",
+    "en": "intelligence far beyond human level"
+  },
+  "rewind": {
+    "p": "/ˌriːˈwaɪnd/",
+    "t": "倒回",
+    "en": "to wind back to an earlier point"
+  },
+  "indications": {
+    "p": "/ˌɪndɪˈkeɪʃnz/",
+    "t": "迹象",
+    "en": "signs or pieces of evidence"
+  },
+  "rumors": {
+    "p": "/ˈruːməz/",
+    "t": "谣言",
+    "en": "unverified stories circulating"
+  },
+  "rivalry": {
+    "p": "/ˈraɪvlri/",
+    "t": "竞争；对抗",
+    "en": "competition between rivals"
+  },
+  "hastened": {
+    "p": "/ˈheɪsnd/",
+    "t": "加速；催促",
+    "en": "made happen sooner"
+  },
+  "arrival": {
+    "p": "/əˈraɪvl/",
+    "t": "到达",
+    "en": "the act of reaching a place"
+  },
+  "demonstrating": {
+    "p": "/ˈdemənstreɪtɪŋ/",
+    "t": "证明；演示",
+    "en": "showing clearly; proving"
+  },
+  "sophistication": {
+    "p": "/səˌfɪstɪˈkeɪʃn/",
+    "t": "复杂；老练",
+    "en": "advanced complexity or refinement"
+  },
+  "achieving": {
+    "p": "/əˈtʃiːvɪŋ/",
+    "t": "实现",
+    "en": "successfully reaching a goal"
+  },
+  "endtoend": {
+    "p": "/ˌendtəˈend/",
+    "t": "端到端的",
+    "en": "from one end to the other, complete"
+  },
+  "accelerating": {
+    "p": "/əkˈseləreɪtɪŋ/",
+    "t": "加速",
+    "en": "increasing in speed"
+  },
+  "swarm": {
+    "p": "/swɔːm/",
+    "t": "蜂群；成群移动",
+    "en": "a large group moving together"
+  },
+  "botnet": {
+    "p": "/ˈbɒtnet/",
+    "t": "僵尸网络",
+    "en": "a network of infected computers"
+  },
+  "staffers": {
+    "p": "/ˈstɑːfəz/",
+    "t": "职员",
+    "en": "employees, especially in an organization"
+  },
+  "reckon": {
+    "p": "/ˈrekən/",
+    "t": "认为；估算",
+    "en": "to think or calculate"
+  },
+  "modal": {
+    "p": "/ˈməʊdl/",
+    "t": "模态的；最常见的",
+    "en": "relating to mode; most common"
+  },
+  "error": {
+    "p": "/ˈerə/",
+    "t": "错误",
+    "en": "a mistake"
+  },
+  "strengthens": {
+    "p": "/ˈstreŋθnz/",
+    "t": "加强",
+    "en": "makes stronger"
+  },
+  "weakening": {
+    "p": "/ˈwiːkənɪŋ/",
+    "t": "削弱",
+    "en": "making or becoming weaker"
+  },
+  "jettisoning": {
+    "p": "/ˈdʒetɪsnɪŋ/",
+    "t": "抛弃",
+    "en": "throwing away or abandoning"
+  },
+  "logic": {
+    "p": "/ˈlɒdʒɪk/",
+    "t": "逻辑",
+    "en": "reasoning according to principles"
+  },
+  "pacing": {
+    "p": "/ˈpeɪsɪŋ/",
+    "t": "步调；踱步",
+    "en": "rate of movement; walking back and forth"
+  },
+  "capabilities": {
+    "p": "/ˌkeɪpəˈbɪlətiz/",
+    "t": "能力",
+    "en": "abilities to do things"
+  },
+  "unilateral": {
+    "p": "/ˌjuːnɪˈlætərəl/",
+    "t": "单方面的",
+    "en": "done by one side only"
+  },
+  "treaties": {
+    "p": "/ˈtriːtiz/",
+    "t": "条约",
+    "en": "formal agreements between states"
+  },
+  "perennial": {
+    "p": "/pəˈreniəl/",
+    "t": "长期的；多年生的",
+    "en": "lasting a long time; recurring"
+  },
+  "starters": {
+    "p": "/ˈstɑːtəz/",
+    "t": "开胃菜；起步者",
+    "en": "first courses; people who begin"
+  },
+  "generalpurpose": {
+    "p": "/ˌdʒenrəlˈpɜːpəs/",
+    "t": "通用的",
+    "en": "suitable for many uses"
+  },
+  "colloquium": {
+    "p": "/kəˈləʊkwiəm/",
+    "t": "学术研讨会",
+    "en": "an academic seminar or conference"
+  },
+  "objected": {
+    "p": "/əbˈdʒektɪd/",
+    "t": "反对",
+    "en": "expressed disagreement"
+  },
+  "worries": {
+    "p": "/ˈwʌriz/",
+    "t": "担忧",
+    "en": "feelings of anxiety"
+  },
+  "scourges": {
+    "p": "/ˈskɜːdʒɪz/",
+    "t": "灾祸",
+    "en": "things causing great suffering"
+  },
+  "monopoly": {
+    "p": "/məˈnɒpəli/",
+    "t": "垄断",
+    "en": "exclusive control of a market"
+  },
+  "grudgingly": {
+    "p": "/ˈɡrʌdʒɪŋli/",
+    "t": "不情愿地",
+    "en": "reluctantly"
+  },
+  "concede": {
+    "p": "/kənˈsiːd/",
+    "t": "承认；让步",
+    "en": "to admit or yield"
+  },
+  "bilateral": {
+    "p": "/ˌbaɪˈlætərəl/",
+    "t": "双边的",
+    "en": "involving two sides"
+  },
+  "conceded": {
+    "p": "/kənˈsiːdɪd/",
+    "t": "承认了；让步了",
+    "en": "admitted or yielded"
+  },
+  "worldview": {
+    "p": "/ˈwɜːldvjuː/",
+    "t": "世界观",
+    "en": "a person's overall perspective on life"
+  },
+  "madness": {
+    "p": "/ˈmædnəs/",
+    "t": "疯狂",
+    "en": "insanity or extreme foolishness"
+  },
+  "cesspool": {
+    "p": "/ˈsespuːl/",
+    "t": "污水池；污秽之地",
+    "en": "a filthy pit; a corrupt place"
+  },
+  "amplifies": {
+    "p": "/ˈæmplɪfaɪz/",
+    "t": "放大",
+    "en": "increases the strength of"
+  },
+  "dangers": {
+    "p": "/ˈdeɪndʒəz/",
+    "t": "危险",
+    "en": "things that cause harm"
+  },
+  "proposes": {
+    "p": "/prəˈpəʊzɪz/",
+    "t": "提议",
+    "en": "suggests as a plan"
+  },
+  "intuitions": {
+    "p": "/ˌɪntjuˈɪʃnz/",
+    "t": "直觉",
+    "en": "instinctive understandings"
+  },
+  "trains": {
+    "p": "/treɪnz/",
+    "t": "火车；训练",
+    "en": "railway vehicles; teaches skills"
+  },
+  "repackaged": {
+    "p": "/ˌriːˈpækɪdʒd/",
+    "t": "重新包装",
+    "en": "packaged again in a new form"
+  },
+  "peeling": {
+    "p": "/ˈpiːlɪŋ/",
+    "t": "剥皮；脱落",
+    "en": "removing a layer or coming off"
+  },
+  "fucking": {
+    "p": "/ˈfʌkɪŋ/",
+    "t": "他妈的（粗俗强调）",
+    "en": "vulgar intensive"
+  },
+  "legislation": {
+    "p": "/ˌledʒɪsˈleɪʃn/",
+    "t": "立法；法律",
+    "en": "laws made by a legislature"
+  },
+  "farright": {
+    "p": "/ˌfɑːˈraɪt/",
+    "t": "极右翼的",
+    "en": "extremely right-wing"
+  },
+  "antilgbtq": {
+    "p": "/ˌæntiˌeldʒiːbiːtiːˈkjuː/",
+    "t": "反LGBTQ的",
+    "en": "opposed to LGBTQ people"
   }
 }
