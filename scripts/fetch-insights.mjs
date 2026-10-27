@@ -4,7 +4,7 @@
 import fs from 'fs';
 import path from 'path';
 import { createRequire } from 'module';
-import { validate, linkQuality } from './validate-feed.mjs';
+import { validate, linkQuality, gateNewItem } from './validate-feed.mjs';
 
 const ROOT = path.resolve('.');
 const sources = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/sources.json'), 'utf-8'));
@@ -216,6 +216,20 @@ function parseHTML(html, base, sel) {
   for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
   return uniq;
 }
+// 抓正文（零 token）：取文章页前若干 <p> 拼成正文（≤2000字），用于"厚度门槛"与前端展示
+async function deriveBody(link, maxLen = 2000) {
+  try {
+    const html = await getText(link);
+    const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
+    const parts = [];
+    for (const p of ps) {
+      const t = clean(p);
+      if (t.length >= 30) { parts.push(t); if (parts.join(' ').length >= maxLen) break; }
+    }
+    return parts.join(' ').slice(0, maxLen);
+  } catch (e) { return ''; }
+}
+
 // 回源文章页抓真实发布日期（同 fetch-news 策略）：meta published_time / <time datetime> / 文本日期
 async function deriveDate(link) {
   try {
@@ -393,11 +407,16 @@ function readFeed() {
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(itLink); } catch (e) { } }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
+            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党才入池
+            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, {});
+            if (!gres.ok) { rejected.push(`[${grp}] ${it.title} -> ${gres.reason}`); continue; }
+            // 抓正文（零 token）：用于厚度门槛与前端展示
+            const body = await deriveBody(itLink);
             // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
               title: sanitizeTitle(it.title), source: s.name, link: itLink,
               topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
-              summary, date: pubDate.toISOString().slice(0, 10),
+              summary, body, date: pubDate.toISOString().slice(0, 10),
               core: '', view: '', action: '', origin: s.name,
             });
             seen.add(itLink);

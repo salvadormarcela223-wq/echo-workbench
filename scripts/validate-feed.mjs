@@ -206,6 +206,35 @@ export async function validateNet(feed, report) {
   return report;
 }
 
+// —— A 标准闸门（静态·零 token）：新条目入池前必过 ——
+// 仅针对「新抓取」的条目；已发布的存量条目沿用"全部留存"设计，不回溯拦截（避免再次卡死整库）。
+// 范围拦截（news 必须电子烟/减害、insights 必须 FMCG/食品/餐饮）由各 fetch 脚本的 isTobacco 负责，
+// 本函数只补「时间真实且不过期」+「非标题党」两条此前未强制的项。
+export const PLATFORM_FLOOR = new Date('2026-08-01T00:00:00Z'); // 平台搭建日（存量不早于首条）
+export const MAX_AGE_DAYS = 3;        // 新内容超 3 天旧 → 拒收（用户 2026-10-27 拍板）
+const MIN_SUMMARY = 20;               // 摘要过短(<20字)视为标题党代理判断
+
+export function gateNewItem(item, group, opts = {}) {
+  const now = opts.now || new Date();
+  const title = (item.title || '').toString().trim();
+  const summary = (item.summary || '').toString().trim();
+  const date = item.date || item.pubDate;
+  // 1) 时间真实且不过期
+  if (date) {
+    const d = new Date(date);
+    if (!isNaN(d)) {
+      if (d < PLATFORM_FLOOR) return { ok: false, reason: `发布日 ${date} 早于平台首条(${PLATFORM_FLOOR.toISOString().slice(0, 10)})，过期` };
+      const ageDays = (now - d) / 864e5;
+      if (ageDays > MAX_AGE_DAYS) return { ok: false, reason: `发布日 ${date} 已超 ${MAX_AGE_DAYS} 天(${ageDays.toFixed(1)}天)，拒收` };
+    }
+  }
+  // 2) 非标题党：摘要为空 / 摘要=标题 / 摘要过短
+  if (!summary) return { ok: false, reason: '摘要为空（标题党），拒收' };
+  if (summary === title) return { ok: false, reason: '摘要与标题完全相同（标题党），拒收' };
+  if (summary.length < MIN_SUMMARY) return { ok: false, reason: `摘要仅 ${summary.length} 字（标题党），拒收` };
+  return { ok: true };
+}
+
 // CLI
 const __filename = fileURLToPath(import.meta.url);
 if (process.argv[1] && path.resolve(process.argv[1]) === __filename) {

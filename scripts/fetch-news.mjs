@@ -4,7 +4,8 @@
 import fs from 'fs';
 import path from 'path';
 import { pathToFileURL } from 'url';
-import { validate } from './validate-feed.mjs';
+import { createRequire } from 'module';
+import { validate, gateNewItem } from './validate-feed.mjs';
 
 const ROOT = path.resolve('.');
 const sources = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/sources.json'), 'utf-8'));
@@ -111,6 +112,71 @@ export async function deriveSummary(link, fallback) {
     }
   } catch (e) { }
   return fallback ? clean(fallback).slice(0, 160) : '';
+}
+
+// 抓正文（零 token）：取文章页前若干 <p> 拼成正文（≤2000字），用于"厚度门槛"与前端展示
+export async function deriveBody(link, maxLen = 2000) {
+  try {
+    const html = await getText(link);
+    const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
+    const parts = [];
+    for (const p of ps) {
+      const t = clean(p);
+      if (t.length >= 30) { parts.push(t); if (parts.join(' ').length >= maxLen) break; }
+    }
+    return parts.join(' ').slice(0, maxLen);
+  } catch (e) { return ''; }
+}
+
+// —— 浏览器渲染抓取（type:"browser"）：针对 WAF/反爬站（Vaping360 / 2firsts 等），
+// 普通 fetch 被 403/空，改用本机 Chrome 渲染后再抽链接。跨平台加载 puppeteer（与 fetch-insights 同款修复）。
+function loadPuppeteer() {
+  const bases = [
+    'C:/Users/VOOPOO/.workbuddy/binaries/node/workspace/',
+    path.join(ROOT, 'node_modules'),
+    ROOT,
+  ];
+  const tried = [];
+  for (const b of bases) {
+    try { return createRequire(path.resolve(b, '__probe__.js'))('puppeteer'); }
+    catch (e) { tried.push(`${b} (${e.code || e.message})`); }
+  }
+  try { return createRequire(import.meta.url)('puppeteer'); }
+  catch (e) { tried.push(`self (${e.code || e.message})`); }
+  throw new Error('puppeteer 不可用，已尝试: ' + tried.join(' | '));
+}
+async function fetchBrowserHTML(url, waitMs = 7000) {
+  let browser;
+  try {
+    const puppeteer = loadPuppeteer();
+    browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const page = await browser.newPage();
+    await page.setUserAgent(UA);
+    await page.setRequestInterception(true);
+    page.on('request', (r) => { const t = r.resourceType(); (['image', 'font', 'stylesheet', 'media'].includes(t)) ? r.abort() : r.continue(); });
+    try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 }); } catch (e) { /* 重型 JS 站常超时，继续抓已加载的 DOM */ }
+    await new Promise((r) => setTimeout(r, waitMs));
+    for (let i = 0; i < 10; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 500)); }
+    await new Promise((r) => setTimeout(r, 2500));
+    return await page.content();
+  } finally { try { if (browser) await browser.close(); } catch (e) { } }
+}
+function parseBrowser(html, base, articleRe) {
+  const out = [];
+  const re = new RegExp('<a[^>]+href="([^"]*(?:' + articleRe + ')[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
+  let m;
+  while ((m = re.exec(html))) {
+    try {
+      const href = stripTracking(new URL(m[1], base).href);
+      const title = clean(m[2]);
+      if (!title || title.length < 6) continue;
+      if (GENERIC.test(title)) continue;
+      out.push({ title, link: href, pub: '', desc: '' });
+    } catch (e) { }
+  }
+  const seen = new Set(); const uniq = [];
+  for (const x of out) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
+  return uniq;
 }
 
 // 回源文章页抓取真实发布日期：优先 <meta article:published_time/og:published_time/datePublished>，
@@ -229,11 +295,23 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
   for (const grp of ['news']) {
     for (const s of sources[grp]) {
       try {
-        const txt = await getText(s.url);
-        let items;
-        if (s.type === 'rss') items = parseRSS(txt, s.url);
-        else if (s.type === 'listdate') items = parseListDate(txt, s.url, s.sel || '');
-        else items = parseHTML(txt, s.url, s.sel || '');
+        let txt = '';
+        let items = [];
+        if (s.type === 'browser') {
+          // WAF/反爬站：普通 fetch 被 403，改用本机 Chrome 渲染后抽链接（单源容错，失败跳过不影响其他源）
+          try {
+            txt = await fetchBrowserHTML(s.url, s.wait || 7000);
+            items = parseBrowser(txt, s.url, s.articleRe || '[a-z0-9\\-]+/[a-z0-9\\-]+');
+          } catch (be) {
+            console.log(`\n=== [${grp}] ${s.name} 浏览器渲染失败(已跳过该源，不影响其他): ${be.message} ===`);
+            items = [];
+          }
+        } else {
+          txt = await getText(s.url);
+          if (s.type === 'rss') items = parseRSS(txt, s.url);
+          else if (s.type === 'listdate') items = parseListDate(txt, s.url, s.sel || '');
+          else items = parseHTML(txt, s.url, s.sel || '');
+        }
         console.log(`\n=== [${grp}] ${s.name} (${s.type}) 抓到 ${items.length} 条 ===`);
         items.slice(0, 4).forEach((it) => console.log(`  • ${it.title}\n    ${it.link}`));
         if (writeBack && feed) {
@@ -255,6 +333,11 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) {} }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期(已回源文章页仍找不到)，已跳过`); continue; }
+            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党才入池
+            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, {});
+            if (!gres.ok) { rejected.push(`[${grp}] ${it.title} -> ${gres.reason}`); continue; }
+            // 抓正文（零 token）：用于厚度门槛与前端展示
+            const body = await deriveBody(it.link);
             // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
               title: it.title,
@@ -264,6 +347,7 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
               dimension: s.dimension || '',
               region: s.region || '',
               summary,
+              body,
               date: pubDate.toISOString().slice(0, 10),
               impact: '',   // 留空，由 AI 解读步骤(enrich)填充后再过闸门
               action: '',

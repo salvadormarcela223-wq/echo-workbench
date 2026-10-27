@@ -55,6 +55,41 @@
       "type": "rss",
       "dimension": "电子烟",
       "region": "英国"
+    },
+    {
+      "name": "Vaping360",
+      "url": "https://www.vaping360.com/",
+      "type": "browser",
+      "articleRe": "[a-z0-9\\-]+/[a-z0-9\\-]+",
+      "dimension": "电子烟",
+      "region": "全球"
+    },
+    {
+      "name": "2firsts 中文",
+      "url": "https://cn.2firsts.com/",
+      "type": "browser",
+      "articleRe": "[a-z0-9_\\-]+",
+      "wait": 12000,
+      "dimension": "电子烟",
+      "region": "中国"
+    },
+    {
+      "name": "2firsts 英文",
+      "url": "https://en.2firsts.com/",
+      "type": "browser",
+      "articleRe": "[a-z0-9_\\-]+",
+      "wait": 12000,
+      "dimension": "电子烟",
+      "region": "全球"
+    },
+    {
+      "name": "中国经济网·电子烟",
+      "url": "https://www.ce.cn/cysc/newmain/yc/",
+      "type": "browser",
+      "articleRe": "/yc/",
+      "wait": 12000,
+      "dimension": "电子烟",
+      "region": "中国"
     }
   ],
   "insights": [
