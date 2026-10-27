@@ -104,7 +104,7 @@ export async function getText(url, retries = 4) {
 export async function deriveSummary(link, fallback) {
   if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
   try {
-    const html = await getText(link);
+    const html = await fetchArticleHTML(link);
     const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
     for (const p of ps) {
       const t = clean(p);
@@ -117,7 +117,7 @@ export async function deriveSummary(link, fallback) {
 // 抓正文（零 token）：取文章页前若干 <p> 拼成正文（≤2000字），用于"厚度门槛"与前端展示
 export async function deriveBody(link, maxLen = 2000) {
   try {
-    const html = await getText(link);
+    const html = await fetchArticleHTML(link);
     const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
     const parts = [];
     for (const p of ps) {
@@ -145,11 +145,10 @@ function loadPuppeteer() {
   catch (e) { tried.push(`self (${e.code || e.message})`); }
   throw new Error('puppeteer 不可用，已尝试: ' + tried.join(' | '));
 }
-async function fetchBrowserHTML(url, waitMs = 7000) {
-  let browser;
+async function fetchBrowserHTML(url, waitMs = 7000, browser = null) {
+  let localBrowser = false;
   try {
-    const puppeteer = loadPuppeteer();
-    browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    if (!browser) { const puppeteer = loadPuppeteer(); browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] }); localBrowser = true; }
     const page = await browser.newPage();
     await page.setUserAgent(UA);
     await page.setRequestInterception(true);
@@ -159,16 +158,18 @@ async function fetchBrowserHTML(url, waitMs = 7000) {
     for (let i = 0; i < 10; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 500)); }
     await new Promise((r) => setTimeout(r, 2500));
     return await page.content();
-  } finally { try { if (browser) await browser.close(); } catch (e) { } }
+  } finally { try { if (localBrowser && browser) await browser.close(); } catch (e) { } }
 }
 function parseBrowser(html, base, articleRe) {
+  // 解码 HTML 实体（关键：2firsts 等站链接含 &amp;id= 实体，不解码会被 new URL 变成畸形地址 → 回源 404 → 被判"无真实日期"拒收）
+  const dec = (s) => (s || '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
   const out = [];
   const re = new RegExp('<a[^>]+href="([^"]*(?:' + articleRe + ')[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
   let m;
   while ((m = re.exec(html))) {
     try {
-      const href = stripTracking(new URL(m[1], base).href);
-      const title = clean(m[2]);
+      const href = stripTracking(new URL(dec(m[1]), base).href);
+      const title = dec(clean(m[2]));
       if (!title || title.length < 6) continue;
       if (GENERIC.test(title)) continue;
       out.push({ title, link: href, pub: '', desc: '' });
@@ -179,12 +180,46 @@ function parseBrowser(html, base, articleRe) {
   return uniq;
 }
 
+// 共享浏览器实例：浏览器型源（Vaping360/2firsts 等 Cloudflare 站）连文章页也挡普通 fetch，
+// 故列表与文章页抓取共用同一个浏览器，避免每条文章都启停一次浏览器（省资源、提速）。
+let _sharedBrowser = null;
+async function getSharedBrowser() {
+  if (!_sharedBrowser) {
+    const puppeteer = loadPuppeteer();
+    _sharedBrowser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+  }
+  return _sharedBrowser;
+}
+async function closeSharedBrowser() { if (_sharedBrowser) { try { await _sharedBrowser.close(); } catch (e) {} _sharedBrowser = null; } }
+
+// 抓文章页 HTML：先试普通 fetch（快）；被 Cloudflare 拦（短页面/挑战词）则降级用浏览器渲染。
+// 浏览器型源的文章页必须走浏览器，否则拿不到真实日期/正文。
+async function fetchArticleHTML(url) {
+  try {
+    const html = await getText(url);
+    if (html && html.length > 800 && !/cloudflare|just a moment|verify you are human|attention required/i.test(html)) return html;
+  } catch (e) {}
+  try {
+    const browser = await getSharedBrowser();
+    const page = await browser.newPage();
+    await page.setUserAgent(UA);
+    await page.setRequestInterception(true);
+    page.on('request', (r) => { const t = r.resourceType(); (['image', 'font', 'stylesheet', 'media'].includes(t)) ? r.abort() : r.continue(); });
+    try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 }); } catch (e) {}
+    await new Promise((r) => setTimeout(r, 6000));
+    for (let i = 0; i < 8; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 300)); }
+    const html = await page.content();
+    await page.close();
+    return html || '';
+  } catch (e) { return ''; }
+}
+
 // 回源文章页抓取真实发布日期：优先 <meta article:published_time/og:published_time/datePublished>，
 // 其次 <time datetime>，最后退回正文文本里的日期模式（January 5, 2026 / 5 January 2026 / 2026-01-05）。
 // 尽力而为，拿不到返回 null（由上层决定跳过，绝不伪造）。
 export async function deriveDate(link) {
   try {
-    const html = await getText(link);
+    const html = await fetchArticleHTML(link);
     const metaRe = /<meta[^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["'][^>]+content=["']([^"']+)["']|content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:article:published_time|article:modified_time|og:published_time|datePublished)["']/i;
     const m = html.match(metaRe);
     if (m) { const d = new Date(m[1] || m[2]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
@@ -288,6 +323,7 @@ export function parseHTML(html, base, sel) {
 
 if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
 (async () => {
+ try {
   let newCount = 0;
   const rejected = [];
   // 每日自动抓取只针对「行业资讯」：真实近期新闻 + AI 写顾问视角。
@@ -299,9 +335,18 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
         let items = [];
         if (s.type === 'browser') {
           // WAF/反爬站：普通 fetch 被 403，改用本机 Chrome 渲染后抽链接（单源容错，失败跳过不影响其他源）
+          // 反爬偶发返回空（挑战页），最多重试 3 次、每次加长等待，提升 2firsts 等易抖源的稳定性
           try {
-            txt = await fetchBrowserHTML(s.url, s.wait || 7000);
-            items = parseBrowser(txt, s.url, s.articleRe || '[a-z0-9\\-]+/[a-z0-9\\-]+');
+            const browser = await getSharedBrowser();
+            let lastErr = '';
+            const maxTry = 3;
+            for (let attempt = 0; attempt < maxTry; attempt++) {
+              txt = await fetchBrowserHTML(s.url, (s.wait || 7000) + attempt * 4000, browser);
+              items = parseBrowser(txt, s.url, s.articleRe || '[a-z0-9\\-]+/[a-z0-9\\-]+');
+              if (items.length > 0) break;
+              lastErr = `第${attempt + 1}次渲染得 0 条`;
+            }
+            if (items.length === 0 && lastErr) console.log(`\n=== [${grp}] ${s.name} 浏览器渲染连续 ${maxTry} 次得 0 条(反爬拦截，已跳过): ${lastErr} ===`);
           } catch (be) {
             console.log(`\n=== [${grp}] ${s.name} 浏览器渲染失败(已跳过该源，不影响其他): ${be.message} ===`);
             items = [];
@@ -382,5 +427,8 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
     console.log('\n（仅预览，未写回 feed.json；加 --write 才会合并并过闸门）');
   }
   if (rejected.length) { console.log(`\n⚠️ 本次抓取拦截 ${rejected.length} 条不合格内容（未进线上）`); }
+ } finally {
+  await closeSharedBrowser();
+ }
 })();
 }

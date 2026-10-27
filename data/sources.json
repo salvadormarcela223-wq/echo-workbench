@@ -57,10 +57,11 @@
       "region": "英国"
     },
     {
-      "name": "Vaping360",
-      "url": "https://www.vaping360.com/",
+      "name": "Vaping360(电子烟新闻)",
+      "url": "https://www.vaping360.com/vape-news/",
       "type": "browser",
-      "articleRe": "[a-z0-9\\-]+/[a-z0-9\\-]+",
+      "articleRe": "/vape-news/[a-z0-9\\-]+",
+      "wait": 10000,
       "dimension": "电子烟",
       "region": "全球"
     },
