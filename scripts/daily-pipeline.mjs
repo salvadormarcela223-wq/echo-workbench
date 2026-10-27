@@ -193,6 +193,8 @@ function tryRun(cmd, label) {
       process.exit(0);
     }
     const url = 'https://' + token + '@github.com/salvadormarcela223-wq/echo-workbench.git';
+    // 推送前先合并远端（避免与本地未推送提交/多设备撞车导致 non-fast-forward 丢失；冲突以本流水线最新产出为准）
+    try { execSync('git pull --no-rebase -X ours ' + url + ' master', { cwd: ROOT, stdio: 'inherit' }); } catch (e) { console.log('（合并远端提示，可忽略：' + ((e && e.message) || e) + '）'); }
     run('git push ' + url + ' master');
     console.log('✅ 已推送到线上');
   }

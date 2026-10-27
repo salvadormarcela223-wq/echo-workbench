@@ -16,19 +16,23 @@ const LOCAL = process.argv.includes('--local');
 const API_URL = 'https://raw.githubusercontent.com/salvadormarcela223-wq/echo-workbench/master/data/feed.json';
 const LOCAL_PATH = path.join(process.cwd(), 'data/feed.json');
 
-// 烟草类关键词（行业资讯专属）：与 fetch-news 的 TOBACCO_RE 对齐（含英文 tobacco/cigarette、私烟/走私烟等），避免真烟草新闻被误判
-const TOB = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|私烟|走私烟|卷烟|雪茄|鼻烟|低温本草|雾化器|KT&G|凉味剂|凉感|薄荷醇|薄荷|烟草公司|烟草巨头|烟草商|菲莫|英美烟草|帝烟|日本烟草|中烟|IQOS/i;
+// 烟草类关键词（行业资讯专属）：与 fetch-news 的 TOBACCO_RE 对齐（含品牌名/设备/监管术语），避免真烟草新闻被误判
+const TOB = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|私烟|走私烟|卷烟|雪茄|鼻烟|低温本草|雾化器|KT&G|凉味剂|凉感|薄荷醇|薄荷|烟草公司|烟草巨头|烟草商|菲莫|英美烟草|帝烟|日本烟草|中烟|IQOS|VAPORESSO|DOJO|BLAST|OXVA|Fumot|SKE|Eleaf|ALP|BAT|ITC|ITGA|NicoLeaks|Arethia|JUUL|Vuse|NJOY|Logic|Naked\s*100|CrossBar|Turning\s*Point|ENDS|MTL|DTL|dry\s*hit|换弹|口吸|肺吸|醋酸纤维|烟农|缉私|打私|烟叶|烟丝|减害|大麻|cannabis|canna/i;
+// 专业提升「非烟草」判定用窄正则：只用产品级术语，避免 BAT→Bath、ITC→FMCG 集团 等品牌/缩写误报
+const TOB_INS = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟|卷烟|雪茄|鼻烟|低温本草|雾化器|薄荷醇|PMTA|大麻|cannabis|canna/i;
 
 function get(url) {
   return new Promise((res, rej) => {
-    https.get(url, { headers: { 'User-Agent': 'echo-selfcheck' } }, r => {
+    const req = https.get(url, { headers: { 'User-Agent': 'echo-selfcheck' }, timeout: 10000 }, r => {
       let d = ''; r.on('data', c => d += c); r.on('end', () => {
         if (url.includes('api.github.com')) {
           try { const j = JSON.parse(d); res(Buffer.from(j.content, 'base64').toString('utf8')); }
           catch (e) { rej(e); }
         } else res(d);
       });
-    }).on('error', rej);
+    });
+    req.on('timeout', () => req.destroy(new Error('self-check: 请求超时(10s)')));
+    req.on('error', rej);
   });
 }
 
@@ -60,14 +64,17 @@ function check(name, cond, detail = '') {
   let newsBad = news.filter(it => !TOB.test((it.title || '') + (it.summary || '')));
   inc(check(`行业资讯全部为烟草/电子烟相关 (${news.length}条)`, newsBad.length === 0, newsBad.length ? `疑似错分: ` + newsBad.slice(0, 3).map(x => x.title.slice(0, 30)).join(' / ') : '全部命中'));
   // 专业提升只查标题+来源（不查 core：core 是顾问分析正文，提到"电子烟行业"属合理跨界语境，不应误判为烟草内容）
-  let insBad = ins.filter(it => TOB.test((it.title || '') + (it.origin || '')));
+  let insBad = ins.filter(it => TOB_INS.test((it.title || '') + (it.origin || '')));
   inc(check(`专业提升全部为非烟草 (${ins.length}条)`, insBad.length === 0, insBad.length ? `疑似错分: ` + insBad.slice(0, 3).map(x => x.title.slice(0, 30)).join(' / ') : '全部不含'));
 
   console.log('\n【B. 字段完整性】');
   inc(check('行业资讯 summary 无空', news.filter(it => isEmpty(it.summary)).length === 0));
   inc(check('行业资讯 impact(顾问解读) 无空', news.filter(it => isEmpty(it.impact)).length === 0));
   inc(check('专业提升 core 无空', ins.filter(it => isEmpty(it.core)).length === 0));
-  inc(check('专业提升 view 无空', ins.filter(it => isEmpty(it.view)).length === 0));
+  // 双维度 schema：view(旧) 或 viewCMI/viewSensory(新) 任一非空即视为已填视角，三者全空才算缺失
+  // lens=neither（文章与 CMI/感官都不相关）属正常无视角状态，不判缺失，避免误报
+  const insViewEmpty = ins.filter(it => it.lens !== 'neither' && isEmpty(it.viewCMI) && isEmpty(it.viewSensory) && isEmpty(it.view)).length;
+  inc(check('专业提升 视角(viewCMI/viewSensory) 无空', insViewEmpty === 0, insViewEmpty ? `空 ${insViewEmpty} 条` : '全部有视角'));
   inc(check('专业提升 action 无空', ins.filter(it => isEmpty(it.action)).length === 0));
   inc(check('专业提升 topic 标签非空', ins.filter(it => isEmpty(it.topic)).length === 0, ins.filter(it => isEmpty(it.topic)).length ? `空 ${ins.filter(it => isEmpty(it.topic)).length} 条` : '全部有标签'));
 
