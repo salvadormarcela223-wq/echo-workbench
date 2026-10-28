@@ -100,18 +100,26 @@ export async function getText(url, retries = 4) {
   throw lastErr;
 }
 
+// 跳过像 CSS/脚本噪声的 <p> 块（含 { } @ ; 等样式标记或几乎无文字），避免把页面样式当成正文/摘要
+function isProseLike(t) {
+  if (!t || t.length < 20) return false;
+  if (/[{};@]|function\s*\(|@font-face|@media|@import/.test(t)) return false;
+  const letters = (t.match(/[一-龥a-zA-Z]/g) || []).length;
+  return letters >= Math.min(20, t.length * 0.4);
+}
+
 // 从文章页抽取第一段作为要点摘要（保证不为空）
 export async function deriveSummary(link, fallback) {
-  if (fallback && fallback.length >= 40) return clean(fallback).slice(0, 160);
+  if (fallback && fallback.length >= 40 && isProseLike(fallback)) return clean(fallback).slice(0, 160);
   try {
     const html = await fetchArticleHTML(link);
     const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
     for (const p of ps) {
       const t = clean(p);
-      if (t.length >= 40) return t.slice(0, 160);
+      if (isProseLike(t)) return t.slice(0, 160);
     }
   } catch (e) { }
-  return fallback ? clean(fallback).slice(0, 160) : '';
+  return fallback && isProseLike(fallback) ? clean(fallback).slice(0, 160) : '';
 }
 
 // 抓正文（零 token）：取文章页前若干 <p> 拼成正文（≤2000字），用于"厚度门槛"与前端展示
@@ -122,7 +130,7 @@ export async function deriveBody(link, maxLen = 2000) {
     const parts = [];
     for (const p of ps) {
       const t = clean(p);
-      if (t.length >= 30) { parts.push(t); if (parts.join(' ').length >= maxLen) break; }
+      if (isProseLike(t)) { parts.push(t); if (parts.join(' ').length >= maxLen) break; }
     }
     return parts.join(' ').slice(0, maxLen);
   } catch (e) { return ''; }

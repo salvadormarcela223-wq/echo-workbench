@@ -57,6 +57,13 @@
       "region": "英国"
     },
     {
+      "name": "Vapor Authority(英文电子烟新闻)",
+      "url": "https://www.vaporauthority.com/blogs/news.atom",
+      "type": "rss",
+      "dimension": "电子烟",
+      "region": "全球"
+    },
+    {
       "name": "Vaping360(电子烟新闻)",
       "url": "https://www.vaping360.com/vape-news/",
       "type": "browser",
@@ -75,21 +82,19 @@
       "region": "中国"
     },
     {
-      "name": "2firsts 英文",
-      "url": "https://en.2firsts.com/",
-      "type": "browser",
-      "articleRe": "[a-z0-9_\\-]+",
-      "wait": 12000,
+      "name": "中国经济网·电子烟",
+      "url": "https://www.ce.cn/cysc/newmain/yc/jsxw/",
+      "type": "html",
+      "sel": "",
       "dimension": "电子烟",
-      "region": "全球"
+      "region": "中国"
     },
     {
-      "name": "中国经济网·电子烟",
-      "url": "https://www.ce.cn/cysc/newmain/yc/",
-      "type": "browser",
-      "articleRe": "/yc/",
-      "wait": 12000,
-      "dimension": "电子烟",
+      "name": "东方烟草网(中文监管)",
+      "url": "https://www.eastobacco.com/ty/node_81_10.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
       "region": "中国"
     }
   ],
