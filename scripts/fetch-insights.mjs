@@ -97,6 +97,9 @@ function parseBrowser(html, base, articleRe) {
 const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著|Global|Europe|Asia|Americas|North America|Latin America|APAC|EMEA|About|Working at Innova|Vacancies|Global Reach|All news|Business|New product development|Download|Newsletter subscription|Careers|Media Kit|Advertise|Contact us|Terms of Use|Privacy Policy|Cookie Policy)$/i;
 // 地区导航页/平台概览页 URL 模式（不是真正的文章或报告）
 const NAV_URL_RE = /\/(?:region|country|platform|about|overview|solutions|services|topics|careers|subscribe|newsletter|contact|privacy|terms|media-kit|advertise)\/$/i;
+// Ipsos 等站 RSS 会把「栏目/主题聚合页」(如 /en-us/future/technology-society) 当成 <item> 吐出；
+// 真实文章路径是 /en-us/<slug>（locale 之后仅 1 段）。locale 之后 ≥2 段或命中 hub 一律视为栏目页，不入池（修不删·防复发）。
+const SECTION_HUB_RE = /\/(?:future|what-we-do|our-thinking|topics|insights|expertise|sectors|categories|subjects|knowledge-centre|knowledge-center|our-expertise)\//i;
 
 // 内容兜底路由：涉及「电子烟 / 烟草 / 尼古丁替代」的只归行业资讯(news)，若误入专业提升则丢弃，由 news 源补充。
 const TOBACCO_RE = /电子烟|电子雾|烟草|尼古丁|烟油|烟弹|雾化|雾化物|悦刻|RELX|思摩尔|SMOORE|雾芯|PMTA|加热不燃烧|HNB|无烟烟草|口含烟|snus|嚼烟|vape|vaping|e-cig|e-cigarette|tobacco|cigarette|hookah|水烟/i;
@@ -397,6 +400,13 @@ function readFeed() {
             // 单段路径 = 栏目/导航页（如 Innova /enhanced-by-ai/、PackagingInsights /policy-and-regulation.html），文章页通常 ≥2 段
             const _up = new URL(itLink, s.url).pathname.replace(/\/+$/, '');
             if (_up.split('/').filter(Boolean).length === 1) { rejected.push(`[${grp}] ${it.title} -> 单段栏目页，非文章`); continue; }
+            // Ipsos 栏目/主题聚合页防护（修不删·防复发）：Ipsos RSS 把 /en-us/future/<topic> 这类栏目页当文章吐出，
+            // 真实文章为 /en-us/<slug>（locale 之后仅 1 段）；locale 之后 ≥2 段或命中 hub 即视为栏目页，非文章
+            if (s.name === 'Ipsos') {
+              const _seg = _up.split('/').filter(Boolean);
+              const _after = _seg.length > 1 ? _seg.slice(1) : _seg;
+              if (_after.length >= 2 || SECTION_HUB_RE.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> Ipsos 栏目/聚合页，非文章`); continue; }
+            }
             // 内容兜底：涉及烟草/电子烟的内容不归入专业提升（应属行业资讯），直接丢弃由 news 源补充
             if (isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 含烟草/电子烟内容，不归入专业提升（应属行业资讯）`); continue; }
             const lq = linkQuality(itLink);

@@ -31,15 +31,25 @@ function run(cmd) {
   execSync(cmd, { cwd: ROOT, stdio: 'inherit' });
 }
 
+// 原子写：先写临时文件再 rename，避免写入中途被中断导致 feed.json / feed.js 半截损坏（M 项）
+function atomicWrite(target, data) {
+  const tmp = target + '.tmp.' + process.pid;
+  fs.writeFileSync(tmp, data);
+  fs.renameSync(tmp, target);
+}
+
 // 单版块独立执行：失败只跳过该版块，不影响其他版块继续抓取与最终发布
 // 根治「串跑隐患」：任一步报错（如某网站临时打不开）不再冻结整站更新
+// N 项：失败版块显式记入 failedSections，发布前统一告警，确保「非静默缺失」（线上保留上一版该版块内容）
+const failedSections = [];
 function tryRun(cmd, label) {
   try {
     console.log('\n$ ' + cmd);
     execSync(cmd, { cwd: ROOT, stdio: 'inherit' });
     return true;
   } catch (e) {
-    console.log(`⚠️ ${label} 执行失败（已跳过该版块，继续其余版块）：${(e && e.message) || e}`);
+    console.log(`\n⚠️⚠️ [版块失败] ${label} 执行失败（已跳过该版块；线上保留上一版对应内容，非静默缺失）：${(e && e.message) || e}`);
+    failedSections.push(label);
     return false;
   }
 }
@@ -72,6 +82,11 @@ function tryRun(cmd, label) {
   // tryRun('node scripts/fetch-wechat.mjs --write', '微信行业资讯抓取');
   tryRun('node scripts/fetch-insights.mjs --write', '专业提升抓取');
   tryRun('node scripts/fetch-readings.mjs --draft' + (DRY ? ' --dry' : ''), '英语阅读抓取');
+
+  // N 项：抓取阶段失败版块统一告警（不静默缺失）
+  if (failedSections.length) {
+    console.log(`\n⚠️⚠️ 本次以下版块抓取失败，线上将保留上一版对应内容（已显式标记，非静默缺失）：${failedSections.join('、')}`);
+  }
 
   // 2. AI 填充解读（DeepSeek）——循环补填直到全满或连续失败
   //    单轮可能因速率限制/超时漏掉部分条目（如首次跑64/86条），必须自动追补
@@ -134,7 +149,7 @@ function tryRun(cmd, label) {
   if (dropped.length) {
     console.log(`\n♻️ 自愈：丢弃 ${dropped.length} 条富集失败的条目（其余照常发布）：`);
     dropped.slice(0, 40).forEach((t) => console.log('  - ' + t));
-    fs.writeFileSync(DRAFT, JSON.stringify(cleaned, null, 2));
+    atomicWrite(DRAFT, JSON.stringify(cleaned, null, 2));
   }
   const report = validate(cleaned, {});
   if (!report.ok) {
@@ -151,11 +166,11 @@ function tryRun(cmd, label) {
   }
 
   // 4. 草稿 → 线上 feed.json + 刷新缓存版本号
-  fs.copyFileSync(DRAFT, LIVE);
+  atomicWrite(LIVE, fs.readFileSync(DRAFT));
   let js = fs.readFileSync(FEEDJS, 'utf-8').replace(/^﻿/, '');
   const stamp = new Date().toISOString().slice(0, 10).replace(/-/g, '') + 'd' + Date.now().toString(36).slice(-4);
   js = js.replace(/feed\.json\?v=[0-9a-z]+/, 'feed.json?v=' + stamp);
-  fs.writeFileSync(FEEDJS, js);
+  atomicWrite(FEEDJS, js);
   console.log('✅ 已发布到 feed.json（缓存版本 ' + stamp + '）');
 
   // 5. 提交 + 推送
