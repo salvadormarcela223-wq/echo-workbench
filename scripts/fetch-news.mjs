@@ -50,7 +50,12 @@ export function isTobacco(it, srcName) {
   const meta = [srcName, it.source, it.origin].filter(Boolean).join(' ');
   // 内容明显是非烟草主题且无任何烟草词 -> 非烟草（拦截烟草媒体发的跨界新闻，如「滴滴出海·新能源」）
   if (NONTOB_STRONG.test(content) && !TOBACCO_RE.test(content)) return false;
-  return TOBACCO_RE.test(content) || TOBACCO_RE.test(meta);
+  // 源名兜底：仅对"本身是烟草/电子烟专媒"的源生效。
+  // 综合类站点（如中国经济网·电子烟）名字虽含"电子烟"，但整页是泛产经，不能用源名放行，
+  // 必须正文真含烟草词才归入行业资讯（否则会灌入跑题内容，如数字经济/楼市/小家电新闻）。
+  const NAME_FALLBACK_BLOCK = /中国经济网|ce\.cn/i;
+  if (!NAME_FALLBACK_BLOCK.test(meta) && TOBACCO_RE.test(meta)) return true;
+  return TOBACCO_RE.test(content);
 }
 
 // 自动分类：当源配置未指定 cat 时，根据标题关键词+来源推断分类
