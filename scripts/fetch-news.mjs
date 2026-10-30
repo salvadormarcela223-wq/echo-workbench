@@ -423,6 +423,7 @@ export async function scrapeBrowserDOM(browser, url, articleRe, wait = 9000) {
       const h = a.getAttribute('href') || '';
       if (!re.test(h)) return false;
       if (/(?:\/vape-news|\/news)\/?$/i.test(h)) return false;       // 排除栏目/板块入口
+      if (/(?:\/news\/list|\/topic|\/tag\/detail|\/news\/editorial|\/subject\/detail)/i.test(h)) return false; // 排除 2firsts 等站的列表/专题/标签页（非文章本体）
       if (a.closest('nav, header, [class*="menu__" i], [class*="sidebar" i], [class*="nav" i]')) return false; // 排除导航/菜单里的同名链接（仅 Vaping360 的 menu__ 结构，不影响 2firsts 正文列表）
       return true;
     });

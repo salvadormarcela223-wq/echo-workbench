@@ -344,6 +344,7 @@ async function main() {
       curated: false,
       link: pick.link,
       date: pick.pub || new Date().toISOString().slice(0, 10),
+      summary: (stripHtml(pick.desc).replace(/\s+/g, ' ').trim().slice(0, 140)) || articleText.replace(/\s+/g, ' ').trim().slice(0, 140),
       body: buildBody(articleText, vocab),
       cn: cn,
       phrases: phrases,
