@@ -61418,5 +61418,800 @@
     "p": "/ˈmænlinəs/",
     "t": "男子气概",
     "en": "the quality of being manly"
+  },
+  "dinosaurkilling": {
+    "p": "/ˈdaɪnəsɔːˌkɪlɪŋ/",
+    "t": "杀恐龙的",
+    "en": "killing dinosaurs"
+  },
+  "teething": {
+    "p": "/ˈtiːðɪŋ/",
+    "t": "长牙；出牙期",
+    "en": "the process of growing teeth"
+  },
+  "wandered": {
+    "p": "/ˈwɒndəd/",
+    "t": "漫游；徘徊",
+    "en": "moved about without a fixed course"
+  },
+  "swaying": {
+    "p": "/ˈsweɪɪŋ/",
+    "t": "摇摆；摇曳",
+    "en": "moving slowly from side to side"
+  },
+  "savannah": {
+    "p": "/səˈvænə/",
+    "t": "热带草原",
+    "en": "a grassy plain in tropical regions"
+  },
+  "africanus": {
+    "p": "/ˌæfrɪˈkɑːnəs/",
+    "t": "非洲的（拉丁学名）",
+    "en": "Latin for 'African'"
+  },
+  "raptor": {
+    "p": "/ˈræptə/",
+    "t": "猛禽；盗龙",
+    "en": "a bird of prey or a dromaeosaurid dinosaur"
+  },
+  "dived": {
+    "p": "/daɪvd/",
+    "t": "潜水；俯冲",
+    "en": "plunged headfirst into water or downward"
+  },
+  "upsetting": {
+    "p": "/ʌpˈsetɪŋ/",
+    "t": "令人不安的",
+    "en": "causing distress or worry"
+  },
+  "puncture": {
+    "p": "/ˈpʌŋktʃə/",
+    "t": "刺穿；穿孔",
+    "en": "a small hole made by a sharp object"
+  },
+  "sockets": {
+    "p": "/ˈsɒkɪts/",
+    "t": "窝；插座",
+    "en": "hollows into which something fits"
+  },
+  "talons": {
+    "p": "/ˈtælənz/",
+    "t": "利爪",
+    "en": "sharp claws of a bird of prey"
+  },
+  "mammoths": {
+    "p": "/ˈmæməθs/",
+    "t": "猛犸象",
+    "en": "extinct large hairy elephants"
+  },
+  "mastodons": {
+    "p": "/ˈmæstədɒnz/",
+    "t": "乳齿象",
+    "en": "extinct elephant-like mammals"
+  },
+  "sloths": {
+    "p": "/slɒθs/",
+    "t": "树懒",
+    "en": "slow-moving tree-dwelling mammals"
+  },
+  "sabretoothed": {
+    "p": "/ˈseɪbətuːθt/",
+    "t": "剑齿的",
+    "en": "having long curved canine teeth"
+  },
+  "childeating": {
+    "p": "/ˈtʃaɪldˌiːtɪŋ/",
+    "t": "吃小孩的",
+    "en": "eating children"
+  },
+  "nonavian": {
+    "p": "/nɒnˈeɪviən/",
+    "t": "非鸟类的",
+    "en": "not relating to birds"
+  },
+  "dinosaurs": {
+    "p": "/ˈdaɪnəsɔːz/",
+    "t": "恐龙",
+    "en": "extinct large reptiles of the Mesozoic era"
+  },
+  "skies": {
+    "p": "/skaɪz/",
+    "t": "天空（复数）",
+    "en": "the atmosphere seen from the earth"
+  },
+  "reign": {
+    "p": "/reɪn/",
+    "t": "统治；支配",
+    "en": "to hold royal or dominant power"
+  },
+  "legends": {
+    "p": "/ˈledʒəndz/",
+    "t": "传说",
+    "en": "traditional stories handed down"
+  },
+  "childsnatching": {
+    "p": "/ˈtʃaɪldˌsnætʃɪŋ/",
+    "t": "拐骗儿童",
+    "en": "the act of snatching children"
+  },
+  "blanketed": {
+    "p": "/ˈblæŋkɪtɪd/",
+    "t": "覆盖；笼罩",
+    "en": "covered as with a blanket"
+  },
+  "suited": {
+    "p": "/ˈsuːtɪd/",
+    "t": "适合的",
+    "en": "appropriate or fitted"
+  },
+  "surviving": {
+    "p": "/səˈvaɪvɪŋ/",
+    "t": "幸存的",
+    "en": "continuing to live or exist"
+  },
+  "grounddwelling": {
+    "p": "/ˈɡraʊndˌdwelɪŋ/",
+    "t": "地栖的",
+    "en": "living on the ground"
+  },
+  "beaked": {
+    "p": "/biːkt/",
+    "t": "有喙的",
+    "en": "having a beak"
+  },
+  "planteaters": {
+    "p": "/ˈplɑːntˌiːtəz/",
+    "t": "食草动物",
+    "en": "animals that eat plants"
+  },
+  "demon": {
+    "p": "/ˈdiːmən/",
+    "t": "恶魔",
+    "en": "an evil spirit"
+  },
+  "oceangoing": {
+    "p": "/ˈəʊʃənˌɡəʊɪŋ/",
+    "t": "远洋的",
+    "en": "designed for travelling on the ocean"
+  },
+  "sandersi": {
+    "p": "/sænˈdɜːsi/",
+    "t": "桑德斯（学名）",
+    "en": "specific epithet honouring Sanders"
+  },
+  "wingspan": {
+    "p": "/ˈwɪŋspæn/",
+    "t": "翼展",
+    "en": "the distance between the tips of wings"
+  },
+  "vacant": {
+    "p": "/ˈveɪkənt/",
+    "t": "空的；空缺的",
+    "en": "empty or unoccupied"
+  },
+  "monstrous": {
+    "p": "/ˈmɒnstrəs/",
+    "t": "巨大的；可怕的",
+    "en": "huge and frightening"
+  },
+  "contend": {
+    "p": "/kənˈtend/",
+    "t": "主张；竞争",
+    "en": "to argue or compete"
+  },
+  "raptors": {
+    "p": "/ˈræptəz/",
+    "t": "猛禽；盗龙（复数）",
+    "en": "birds of prey or dromaeosaurids"
+  },
+  "primatologist": {
+    "p": "/ˌpraɪməˈtɒlədʒɪst/",
+    "t": "灵长类动物学家",
+    "en": "a specialist in primates"
+  },
+  "preying": {
+    "p": "/ˈpreɪɪŋ/",
+    "t": "捕食",
+    "en": "hunting and killing for food"
+  },
+  "crowned": {
+    "p": "/kraʊnd/",
+    "t": "有冠的；加冕的",
+    "en": "having a crown or top"
+  },
+  "similarity": {
+    "p": "/ˌsɪmɪˈlærəti/",
+    "t": "相似性",
+    "en": "the state of being similar"
+  },
+  "talon": {
+    "p": "/ˈtælən/",
+    "t": "利爪",
+    "en": "a sharp claw of a bird of prey"
+  },
+  "childs": {
+    "p": "/tʃaɪldz/",
+    "t": "孩子的（所有格变体）",
+    "en": "variant possessive of child"
+  },
+  "skulls": {
+    "p": "/skʌlz/",
+    "t": "头骨",
+    "en": "bony frameworks of the head"
+  },
+  "monkeys": {
+    "p": "/ˈmʌŋkiz/",
+    "t": "猴子",
+    "en": "primates of the simian group"
+  },
+  "orbital": {
+    "p": "/ˈɔːbɪtəl/",
+    "t": "眼眶的；轨道的",
+    "en": "relating to the eye socket or an orbit"
+  },
+  "pecked": {
+    "p": "/pekt/",
+    "t": "啄",
+    "en": "struck with a beak"
+  },
+  "reviewers": {
+    "p": "/rɪˈvjuːəz/",
+    "t": "评论者；审稿人",
+    "en": "people who review or assess"
+  },
+  "identical": {
+    "p": "/aɪˈdentɪkl/",
+    "t": "完全相同的",
+    "en": "exactly the same"
+  },
+  "predation": {
+    "p": "/prɪˈdeɪʃn/",
+    "t": "捕食",
+    "en": "the act of preying on other animals"
+  },
+  "examine": {
+    "p": "/ɪɡˈzæmɪn/",
+    "t": "检查；审视",
+    "en": "to inspect closely"
+  },
+  "assemblages": {
+    "p": "/əˈsemblɪdʒɪz/",
+    "t": "集合体；组合",
+    "en": "collections of things or fossils"
+  },
+  "paleoanthropological": {
+    "p": "/ˌpæliəʊˌænθrəpəˈlɒdʒɪkl/",
+    "t": "古人类学的",
+    "en": "relating to the study of ancient humans"
+  },
+  "archaeologist": {
+    "p": "/ˌɑːkiˈɒlədʒɪst/",
+    "t": "考古学家",
+    "en": "a specialist in archaeology"
+  },
+  "hominins": {
+    "p": "/ˈhɒmɪnɪnz/",
+    "t": "人亚科动物",
+    "en": "members of the human lineage"
+  },
+  "predated": {
+    "p": "/prɪˈdeɪtɪd/",
+    "t": "捕食；早于",
+    "en": "preyed upon or existed earlier than"
+  },
+  "evade": {
+    "p": "/ɪˈveɪd/",
+    "t": "逃避；躲避",
+    "en": "to escape or avoid"
+  },
+  "leopards": {
+    "p": "/ˈlepədz/",
+    "t": "豹",
+    "en": "large spotted wild cats"
+  },
+  "hyenas": {
+    "p": "/haɪˈiːnəz/",
+    "t": "鬣狗",
+    "en": "scavenging carnivorous mammals"
+  },
+  "crocodiles": {
+    "p": "/ˈkrɒkədaɪlz/",
+    "t": "鳄鱼",
+    "en": "large aquatic reptiles"
+  },
+  "interdependence": {
+    "p": "/ˌɪntədɪˈpendəns/",
+    "t": "相互依存",
+    "en": "mutual reliance"
+  },
+  "mutual": {
+    "p": "/ˈmjuːtʃuəl/",
+    "t": "相互的",
+    "en": "shared or reciprocal"
+  },
+  "evading": {
+    "p": "/ɪˈveɪdɪŋ/",
+    "t": "逃避",
+    "en": "escaping or avoiding"
+  },
+  "lions": {
+    "p": "/ˈlaɪənz/",
+    "t": "狮子",
+    "en": "large social wild cats"
+  },
+  "wolves": {
+    "p": "/wʊlvz/",
+    "t": "狼",
+    "en": "wild carnivorous canines"
+  },
+  "ambush": {
+    "p": "/ˈæmbʊʃ/",
+    "t": "伏击",
+    "en": "a surprise attack from hiding"
+  },
+  "stealthy": {
+    "p": "/ˈstelθi/",
+    "t": "偷偷的；隐秘的",
+    "en": "acting quietly and secretly"
+  },
+  "sizes": {
+    "p": "/ˈsaɪzɪz/",
+    "t": "尺寸；大小",
+    "en": "dimensions or magnitudes"
+  },
+  "emergence": {
+    "p": "/ɪˈmɜːdʒəns/",
+    "t": "出现；涌现",
+    "en": "the process of coming into being"
+  },
+  "fragment": {
+    "p": "/ˈfræɡmənt/",
+    "t": "碎片",
+    "en": "a small broken piece"
+  },
+  "kickstarted": {
+    "p": "/ˈkɪkstɑːtɪd/",
+    "t": "启动；促使开始",
+    "en": "started or stimulated"
+  },
+  "generalised": {
+    "p": "/ˈdʒenrəlaɪzd/",
+    "t": "概括的；普遍的",
+    "en": "broad or not specialized"
+  },
+  "crossover": {
+    "p": "/ˈkrɒsəʊvə/",
+    "t": "交叉；跨界",
+    "en": "a transition across categories"
+  },
+  "teratorns": {
+    "p": "/ˈterətɔːnz/",
+    "t": "畸鸟（史前猛禽）",
+    "en": "extinct giant predatory birds"
+  },
+  "carnivorous": {
+    "p": "/kɑːˈnɪvərəs/",
+    "t": "食肉的",
+    "en": "feeding on flesh"
+  },
+  "condorlike": {
+    "p": "/ˈkɒndəlɑɪk/",
+    "t": "似秃鹫的",
+    "en": "resembling a condor"
+  },
+  "boasted": {
+    "p": "/ˈbəʊstɪd/",
+    "t": "拥有；自夸",
+    "en": "possessed proudly or bragged"
+  },
+  "wingspans": {
+    "p": "/ˈwɪŋspænz/",
+    "t": "翼展（复数）",
+    "en": "distances between wing tips"
+  },
+  "scavengers": {
+    "p": "/ˈskævɪndʒəz/",
+    "t": "食腐动物",
+    "en": "animals that feed on dead matter"
+  },
+  "updraught": {
+    "p": "/ˈʌpdrɑːft/",
+    "t": "上升气流",
+    "en": "an upward current of air"
+  },
+  "avian": {
+    "p": "/ˈeɪviən/",
+    "t": "鸟类的",
+    "en": "relating to birds"
+  },
+  "anatomical": {
+    "p": "/ˌænəˈtɒmɪkl/",
+    "t": "解剖学的",
+    "en": "relating to body structure"
+  },
+  "collections": {
+    "p": "/kəˈlekʃnz/",
+    "t": "收藏；集合",
+    "en": "groups of gathered items"
+  },
+  "teratorn": {
+    "p": "/ˈterətɔːn/",
+    "t": "畸鸟（史前猛禽）",
+    "en": "an extinct giant predatory bird"
+  },
+  "mythology": {
+    "p": "/mɪˈθɒlədʒi/",
+    "t": "神话",
+    "en": "a body of myths"
+  },
+  "thunder": {
+    "p": "/ˈθʌndə/",
+    "t": "雷；雷声",
+    "en": "the loud sound after lightning"
+  },
+  "incredibilis": {
+    "p": "/ɪnˌkredɪˈbiːlɪs/",
+    "t": "不可思议的（拉丁语）",
+    "en": "Latin for 'incredible'"
+  },
+  "terrorised": {
+    "p": "/ˈterəraɪzd/",
+    "t": "恐吓；使恐惧",
+    "en": "frightened or intimidated"
+  },
+  "woodburnensis": {
+    "p": "/wʊdˌbɜːˈnensɪs/",
+    "t": "伍德本（学名）",
+    "en": "specific epithet from Woodburn"
+  },
+  "monster": {
+    "p": "/ˈmɒnstə/",
+    "t": "怪物",
+    "en": "a frightening creature"
+  },
+  "harpy": {
+    "p": "/ˈhɑːpi/",
+    "t": "哈比鹰；鹰身女妖",
+    "en": "a large eagle or a mythical bird-woman"
+  },
+  "preyed": {
+    "p": "/preɪd/",
+    "t": "捕食",
+    "en": "hunted for food"
+  },
+  "mtall": {
+    "p": "/məˈtɔːl/",
+    "t": "（拼写有误）金属的？",
+    "en": "likely a typo, possibly 'metallic'"
+  },
+  "strike": {
+    "p": "/straɪk/",
+    "t": "打击；攻击",
+    "en": "to hit or attack"
+  },
+  "pelvises": {
+    "p": "/ˈpelvɪsɪz/",
+    "t": "骨盆",
+    "en": "bony structures of the hip"
+  },
+  "persisted": {
+    "p": "/pəˈsɪstɪd/",
+    "t": "持续；坚持",
+    "en": "continued firmly"
+  },
+  "storks": {
+    "p": "/stɔːks/",
+    "t": "鹳",
+    "en": "large long-legged wading birds"
+  },
+  "swooped": {
+    "p": "/swuːpt/",
+    "t": "俯冲",
+    "en": "dived rapidly downward"
+  },
+  "fastened": {
+    "p": "/ˈfɑːsnd/",
+    "t": "固定；系紧",
+    "en": "secured or attached"
+  },
+  "servant": {
+    "p": "/ˈsɜːvənt/",
+    "t": "仆人",
+    "en": "a person who serves others"
+  },
+  "momentarily": {
+    "p": "/ˈməʊməntrəli/",
+    "t": "片刻地；暂时地",
+    "en": "for a very short time"
+  },
+  "hallooing": {
+    "p": "/həˈluːɪŋ/",
+    "t": "高喊",
+    "en": "shouting to attract attention"
+  },
+  "scaring": {
+    "p": "/ˈskeərɪŋ/",
+    "t": "惊吓",
+    "en": "frightening"
+  },
+  "uninjured": {
+    "p": "/ʌnˈɪndʒəd/",
+    "t": "未受伤的",
+    "en": "not harmed"
+  },
+  "plunged": {
+    "p": "/plʌndʒd/",
+    "t": "猛冲；跳入",
+    "en": "dived or thrust suddenly"
+  },
+  "epoch": {
+    "p": "/ˈiːpɒk/",
+    "t": "时代；纪元",
+    "en": "a distinct period of time"
+  },
+  "propelled": {
+    "p": "/prəˈpeld/",
+    "t": "推进；推动",
+    "en": "driven forward"
+  },
+  "stoneage": {
+    "p": "/ˈstəʊneɪdʒ/",
+    "t": "石器时代",
+    "en": "the early period of human tools"
+  },
+  "shrunk": {
+    "p": "/ʃrʌŋk/",
+    "t": "缩小",
+    "en": "became smaller"
+  },
+  "bloodcurdling": {
+    "p": "/ˈblʌdkɜːdlɪŋ/",
+    "t": "令人毛骨悚然的",
+    "en": "causing great horror"
+  },
+  "monsters": {
+    "p": "/ˈmɒnstəz/",
+    "t": "怪物（复数）",
+    "en": "frightening creatures"
+  },
+  "demise": {
+    "p": "/dɪˈmaɪz/",
+    "t": "死亡；终结",
+    "en": "death or end"
+  },
+  "megafauna": {
+    "p": "/ˈmeɡəfɔːnə/",
+    "t": "巨型动物群",
+    "en": "large animals of a region or era"
+  },
+  "persists": {
+    "p": "/pəˈsɪsts/",
+    "t": "持续；坚持",
+    "en": "continues firmly"
+  },
+  "revere": {
+    "p": "/rɪˈvɪə/",
+    "t": "崇敬",
+    "en": "to regard with deep respect"
+  },
+  "exited": {
+    "p": "/ˈeksɪtɪd/",
+    "t": "退出；离开",
+    "en": "went out or departed"
+  },
+  "stabilise": {
+    "p": "/ˈsteɪbəlaɪz/",
+    "t": "使稳定",
+    "en": "to make or become stable"
+  },
+  "glaciers": {
+    "p": "/ˈɡlæsiəz/",
+    "t": "冰川",
+    "en": "large masses of moving ice"
+  },
+  "tainted": {
+    "p": "/ˈteɪntɪd/",
+    "t": "受污染的；败坏的",
+    "en": "contaminated or corrupted"
+  },
+  "parked": {
+    "p": "/pɑːkt/",
+    "t": "停放的",
+    "en": "left in a place temporarily"
+  },
+  "pedestrians": {
+    "p": "/pəˈdestriənz/",
+    "t": "行人",
+    "en": "people walking on foot"
+  },
+  "trickortreaters": {
+    "p": "/ˌtrɪkɔːˈtriːtəz/",
+    "t": "玩不给糖就捣蛋的人",
+    "en": "people going door to door for Halloween candy"
+  },
+  "trickortreat": {
+    "p": "/ˌtrɪkɔːˈtriːt/",
+    "t": "不给糖就捣蛋",
+    "en": "to ask for candy at Halloween"
+  },
+  "decked": {
+    "p": "/dekt/",
+    "t": "装饰的",
+    "en": "decorated or adorned"
+  },
+  "costumes": {
+    "p": "/ˈkɒstjuːmz/",
+    "t": "服装；戏服",
+    "en": "outfits worn for a role or event"
+  },
+  "razor": {
+    "p": "/ˈreɪzə/",
+    "t": "剃刀",
+    "en": "a sharp cutting instrument"
+  },
+  "rainbow": {
+    "p": "/ˈreɪnbəʊ/",
+    "t": "彩虹",
+    "en": "a multicolored arc in the sky"
+  },
+  "fentanyl": {
+    "p": "/ˈfentənɪl/",
+    "t": "芬太尼",
+    "en": "a potent synthetic opioid"
+  },
+  "narcoticspiked": {
+    "p": "/nɑːˈkɒtɪk spaɪkt/",
+    "t": "掺有毒品的",
+    "en": "laced with narcotics"
+  },
+  "unfounded": {
+    "p": "/ʌnˈfaʊndɪd/",
+    "t": "无根据的",
+    "en": "not based on fact"
+  },
+  "hallowed": {
+    "p": "/ˈhæləʊd/",
+    "t": "神圣的",
+    "en": "regarded as holy or sacred"
+  },
+  "pediatrics": {
+    "p": "/ˌpiːdiˈætrɪks/",
+    "t": "儿科",
+    "en": "the branch of medicine for children"
+  },
+  "costume": {
+    "p": "/ˈkɒstjuːm/",
+    "t": "服装；戏服",
+    "en": "an outfit worn for a role or event"
+  },
+  "corroborates": {
+    "p": "/kəˈrɒbəreɪts/",
+    "t": "证实",
+    "en": "confirms or supports a statement"
+  },
+  "heighten": {
+    "p": "/ˈhaɪtn/",
+    "t": "提高；加强",
+    "en": "to make more intense"
+  },
+  "pedestrian": {
+    "p": "/pəˈdestriən/",
+    "t": "行人",
+    "en": "a person walking on foot"
+  },
+  "peripheral": {
+    "p": "/pəˈrɪfərəl/",
+    "t": "外围的",
+    "en": "relating to the edge or margin"
+  },
+  "streetcrossing": {
+    "p": "/ˈstriːt ˌkrɒsɪŋ/",
+    "t": "人行横道",
+    "en": "a place for pedestrians to cross a street"
+  },
+  "partygoers": {
+    "p": "/ˈpɑːtiˌɡəʊəz/",
+    "t": "参加聚会的人",
+    "en": "people attending a party"
+  },
+  "impaired": {
+    "p": "/ɪmˈpeəd/",
+    "t": "受损的",
+    "en": "weakened or damaged"
+  },
+  "occasion": {
+    "p": "/əˈkeɪʒn/",
+    "t": "场合；时机",
+    "en": "a particular event or time"
+  },
+  "motor": {
+    "p": "/ˈməʊtə/",
+    "t": "发动机；机动",
+    "en": "an engine or powered by one"
+  },
+  "fatalities": {
+    "p": "/fəˈtælətiz/",
+    "t": "死亡人数",
+    "en": "deaths caused by an event"
+  },
+  "roaming": {
+    "p": "/ˈrəʊmɪŋ/",
+    "t": "漫游；游荡",
+    "en": "moving about without a fixed purpose"
+  },
+  "distracted": {
+    "p": "/dɪˈstræktɪd/",
+    "t": "分心的",
+    "en": "unable to concentrate"
+  },
+  "infotainment": {
+    "p": "/ˌɪnfəʊˈteɪnmənt/",
+    "t": "信息娱乐系统",
+    "en": "systems providing information and entertainment"
+  },
+  "summed": {
+    "p": "/sʌmd/",
+    "t": "总结；合计",
+    "en": "totaled or summarized"
+  },
+  "interacts": {
+    "p": "/ˌɪntərˈækts/",
+    "t": "互动",
+    "en": "acts together with others"
+  },
+  "fivelane": {
+    "p": "/ˈfaɪv leɪn/",
+    "t": "五车道的",
+    "en": "having five lanes"
+  },
+  "crosswalk": {
+    "p": "/ˈkrɒswɔːk/",
+    "t": "人行横道",
+    "en": "a marked path for pedestrians to cross"
+  },
+  "carfree": {
+    "p": "/ˈkɑː friː/",
+    "t": "无车的",
+    "en": "without cars"
+  },
+  "cardependent": {
+    "p": "/ˈkɑː dɪˌpendənt/",
+    "t": "依赖汽车的",
+    "en": "relying on cars"
+  },
+  "popsicle": {
+    "p": "/ˈpɒpsɪkl/",
+    "t": "冰棍",
+    "en": "a frozen treat on a stick"
+  },
+  "melts": {
+    "p": "/melts/",
+    "t": "融化",
+    "en": "becomes liquid by heat"
+  },
+  "traversable": {
+    "p": "/ˈtrævəsəbl/",
+    "t": "可通行的",
+    "en": "able to be crossed or traveled"
+  },
+  "sidewalks": {
+    "p": "/ˈsaɪdwɔːks/",
+    "t": "人行道",
+    "en": "paths for pedestrians beside roads"
+  },
+  "preventive": {
+    "p": "/prɪˈventɪv/",
+    "t": "预防性的",
+    "en": "intended to prevent something"
+  },
+  "walkable": {
+    "p": "/ˈwɔːkəbl/",
+    "t": "适合步行的",
+    "en": "easy or safe to walk around"
+  },
+  "hauls": {
+    "p": "/hɔːlz/",
+    "t": "拖运；运输量",
+    "en": "pulls or transports something heavy"
   }
 }
