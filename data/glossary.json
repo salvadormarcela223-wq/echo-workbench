@@ -61078,5 +61078,345 @@
     "p": "/ˌæntiˌeldʒiːbiːtiːˈkjuː/",
     "t": "反LGBTQ的",
     "en": "opposed to LGBTQ people"
+  },
+  "uncovers": {
+    "p": "/ʌnˈkʌvəz/",
+    "t": "揭露；发现",
+    "en": "reveals or discovers something hidden"
+  },
+  "littlediscussed": {
+    "p": "/ˌlɪtl dɪˈskʌst/",
+    "t": "鲜少讨论的",
+    "en": "rarely talked about"
+  },
+  "girlfriend": {
+    "p": "/ˈɡɜːlfrend/",
+    "t": "女朋友",
+    "en": "a female romantic partner"
+  },
+  "suggestion": {
+    "p": "/səˈdʒestʃən/",
+    "t": "建议；暗示",
+    "en": "an idea or plan proposed; a hint"
+  },
+  "personas": {
+    "p": "/pəˈsəʊnəz/",
+    "t": "形象；人格面具",
+    "en": "the aspects of someone's character presented to others"
+  },
+  "psychiatrists": {
+    "p": "/saɪˈkaɪətrɪsts/",
+    "t": "精神科医生",
+    "en": "doctors who treat mental disorders"
+  },
+  "bankrupt": {
+    "p": "/ˈbæŋkrʌpt/",
+    "t": "破产的",
+    "en": "unable to pay one's debts; financially ruined"
+  },
+  "astronomically": {
+    "p": "/ˌæstrəˈnɒmɪkli/",
+    "t": "极其；天文数字地",
+    "en": "to an extremely large degree"
+  },
+  "untold": {
+    "p": "/ʌnˈtəʊld/",
+    "t": "数不清的；未讲述的",
+    "en": "too great to be counted; not told"
+  },
+  "merge": {
+    "p": "/mɜːdʒ/",
+    "t": "合并；融合",
+    "en": "to combine or join into one"
+  },
+  "personified": {
+    "p": "/pəˈsɒnɪfaɪd/",
+    "t": "人格化；化身",
+    "en": "embodied as a person; a perfect example of"
+  },
+  "soandso": {
+    "p": "/ˈsəʊ ən səʊ/",
+    "t": "某某人",
+    "en": "a person whose name is not specified"
+  },
+  "whove": {
+    "p": "/huːv/",
+    "t": "who have 的缩写",
+    "en": "contraction of 'who have'"
+  },
+  "unsettling": {
+    "p": "/ʌnˈsetlɪŋ/",
+    "t": "令人不安的",
+    "en": "causing anxiety or unease"
+  },
+  "filings": {
+    "p": "/ˈfaɪlɪŋz/",
+    "t": "（法律/官方）备案文件",
+    "en": "officially submitted documents or records"
+  },
+  "legalese": {
+    "p": "/ˌliːɡəˈliːz/",
+    "t": "法律术语",
+    "en": "complicated language used in legal documents"
+  },
+  "exceptions": {
+    "p": "/ɪkˈsepʃənz/",
+    "t": "例外",
+    "en": "cases that do not follow a rule"
+  },
+  "bankruptcies": {
+    "p": "/ˈbæŋkrʌptsiz/",
+    "t": "破产（复数）",
+    "en": "instances of being legally unable to pay debts"
+  },
+  "harnessed": {
+    "p": "/ˈhɑːnɪst/",
+    "t": "利用；驾驭",
+    "en": "controlled and put to use"
+  },
+  "profiles": {
+    "p": "/ˈprəʊfaɪlz/",
+    "t": "简介；档案",
+    "en": "descriptions or summaries of people or things"
+  },
+  "reams": {
+    "p": "/riːmz/",
+    "t": "大量（纸张/文字）",
+    "en": "large quantities of paper or writing"
+  },
+  "decisive": {
+    "p": "/dɪˈsaɪsɪv/",
+    "t": "果断的；决定性的",
+    "en": "able to make decisions quickly; determining the outcome"
+  },
+  "champion": {
+    "p": "/ˈtʃæmpiən/",
+    "t": "冠军；拥护者",
+    "en": "a winner; one who defends a cause"
+  },
+  "bankruptcy": {
+    "p": "/ˈbæŋkrʌptsi/",
+    "t": "破产",
+    "en": "legal status of being unable to pay debts"
+  },
+  "delete": {
+    "p": "/dɪˈliːt/",
+    "t": "删除",
+    "en": "to remove or erase"
+  },
+  "jurisdiction": {
+    "p": "/ˌdʒʊərɪsˈdɪkʃən/",
+    "t": "司法管辖权",
+    "en": "the official power to make legal decisions"
+  },
+  "deletion": {
+    "p": "/dɪˈliːʃən/",
+    "t": "删除",
+    "en": "the act of removing or erasing something"
+  },
+  "narrowing": {
+    "p": "/ˈnærəʊɪŋ/",
+    "t": "变窄；缩小",
+    "en": "becoming narrower or more limited"
+  },
+  "abrupt": {
+    "p": "/əˈbrʌpt/",
+    "t": "突然的；生硬的",
+    "en": "sudden and unexpected; curt in manner"
+  },
+  "bulldozed": {
+    "p": "/ˈbʊldəʊzd/",
+    "t": "推倒；强行清除",
+    "en": "demolished or cleared with a bulldozer; forced through"
+  },
+  "momentous": {
+    "p": "/məˈmentəs/",
+    "t": "重大的",
+    "en": "of great importance or significance"
+  },
+  "installment": {
+    "p": "/ɪnˈstɔːlmənt/",
+    "t": "分期付款；一期",
+    "en": "one of several parts of a payment or series"
+  },
+  "tackling": {
+    "p": "/ˈtæklɪŋ/",
+    "t": "应对；处理",
+    "en": "dealing with or attempting to solve a problem"
+  },
+  "reassure": {
+    "p": "/ˌriːəˈʃʊə/",
+    "t": "使安心",
+    "en": "to comfort and remove someone's doubts"
+  },
+  "circumstance": {
+    "p": "/ˈsɜːkəmstəns/",
+    "t": "情况；环境",
+    "en": "a fact or condition affecting a situation"
+  },
+  "reinforced": {
+    "p": "/ˌriːɪnˈfɔːst/",
+    "t": "加强的；加固的",
+    "en": "strengthened or made more robust"
+  },
+  "understate": {
+    "p": "/ˌʌndəˈsteɪt/",
+    "t": "轻描淡写；低估",
+    "en": "to describe something as less important than it is"
+  },
+  "relayed": {
+    "p": "/rɪˈleɪd/",
+    "t": "转达；传达",
+    "en": "passed on or transmitted information"
+  },
+  "welldefended": {
+    "p": "/ˌwel dɪˈfendɪd/",
+    "t": "防守严密的",
+    "en": "strongly protected or well-argued"
+  },
+  "administer": {
+    "p": "/ədˈmɪnɪstə/",
+    "t": "管理；执行；给予",
+    "en": "to manage or put into effect; to give a drug"
+  },
+  "midseptember": {
+    "p": "/ˌmɪd sepˈtembə/",
+    "t": "九月中旬",
+    "en": "the middle part of September"
+  },
+  "rolls": {
+    "p": "/rəʊlz/",
+    "t": "卷状物；名单；滚动",
+    "en": "cylindrical items, lists, or acts of rolling"
+  },
+  "dismissals": {
+    "p": "/dɪsˈmɪslz/",
+    "t": "解雇；驳回",
+    "en": "acts of removing someone from a job or rejecting something"
+  },
+  "appealed": {
+    "p": "/əˈpiːld/",
+    "t": "上诉；呼吁",
+    "en": "made an urgent request or challenged a decision legally"
+  },
+  "noncitizens": {
+    "p": "/ˌnɒnˈsɪtɪzənz/",
+    "t": "非公民",
+    "en": "people who are not citizens of a country"
+  },
+  "sided": {
+    "p": "/ˈsaɪdɪd/",
+    "t": "站在…一边",
+    "en": "aligned oneself with a particular party"
+  },
+  "excoriated": {
+    "p": "/ɪkˈskɔːrieɪtɪd/",
+    "t": "严厉批评",
+    "en": "criticized very harshly"
+  },
+  "wreak": {
+    "p": "/riːk/",
+    "t": "造成（破坏）",
+    "en": "to cause great damage or harm"
+  },
+  "unnervingly": {
+    "p": "/ʌnˈnɜːvɪŋli/",
+    "t": "令人不安地",
+    "en": "in a way that makes one feel anxious or frightened"
+  },
+  "tangible": {
+    "p": "/ˈtændʒəbl/",
+    "t": "有形的；切实的",
+    "en": "perceptible by touch; clear and definite"
+  },
+  "unsettled": {
+    "p": "/ʌnˈsetld/",
+    "t": "不安的；未解决的",
+    "en": "anxious; not resolved or settled"
+  },
+  "newcomer": {
+    "p": "/ˈnjuːkʌmə/",
+    "t": "新来者",
+    "en": "a person who has recently arrived"
+  },
+  "risked": {
+    "p": "/rɪskt/",
+    "t": "冒险",
+    "en": "exposed to danger or loss"
+  },
+  "enticed": {
+    "p": "/ɪnˈtaɪst/",
+    "t": "引诱",
+    "en": "attracted or tempted someone"
+  },
+  "regimented": {
+    "p": "/ˈredʒɪmentɪd/",
+    "t": "严格管制的",
+    "en": "strictly organized and controlled"
+  },
+  "votecounting": {
+    "p": "/ˈvəʊt ˌkaʊntɪŋ/",
+    "t": "计票",
+    "en": "the process of counting votes"
+  },
+  "prepped": {
+    "p": "/prept/",
+    "t": "准备好的",
+    "en": "prepared or made ready"
+  },
+  "lastingly": {
+    "p": "/ˈlɑːstɪŋli/",
+    "t": "持久地",
+    "en": "in a way that endures"
+  },
+  "overmuch": {
+    "p": "/ˌəʊvəˈmʌtʃ/",
+    "t": "过多地",
+    "en": "too much; excessively"
+  },
+  "affective": {
+    "p": "/əˈfektɪv/",
+    "t": "情感的",
+    "en": "relating to emotions or feelings"
+  },
+  "plaguing": {
+    "p": "/ˈpleɪɡɪŋ/",
+    "t": "困扰",
+    "en": "causing continual trouble or annoyance"
+  },
+  "phenomena": {
+    "p": "/fəˈnɒmɪnə/",
+    "t": "现象",
+    "en": "observable facts or events, plural of phenomenon"
+  },
+  "arroyo": {
+    "p": "/əˈrɔɪəʊ/",
+    "t": "干涸河床",
+    "en": "a steep-sided gully or dry creek bed"
+  },
+  "seasonally": {
+    "p": "/ˈsiːzənəli/",
+    "t": "季节性地",
+    "en": "in a manner relating to the seasons"
+  },
+  "streambeds": {
+    "p": "/ˈstriːmbedz/",
+    "t": "河床",
+    "en": "the channels in which streams flow"
+  },
+  "deserts": {
+    "p": "/ˈdezəts/",
+    "t": "沙漠",
+    "en": "large dry areas of land with little rainfall"
+  },
+  "highway": {
+    "p": "/ˈhaɪweɪ/",
+    "t": "公路",
+    "en": "a main public road"
+  },
+  "manliness": {
+    "p": "/ˈmænlinəs/",
+    "t": "男子气概",
+    "en": "the quality of being manly"
   }
 }
