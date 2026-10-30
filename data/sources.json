@@ -36,10 +36,31 @@
       "type": "rss"
     },
     {
-      "name": "国家烟草局",
+      "name": "国家烟草局·各地要闻",
       "url": "http://www.tobacco.gov.cn/gjyc/gdxw/list.shtml",
       "type": "listdate",
       "sel": "/gjyc/gdxw/",
+      "region": "中国"
+    },
+    {
+      "name": "国家烟草局·通知公告",
+      "url": "http://www.tobacco.gov.cn/gjyc/tzgg/list.shtml",
+      "type": "listdate",
+      "sel": "/gjyc/tzgg/",
+      "region": "中国"
+    },
+    {
+      "name": "国家烟草局·政策文件",
+      "url": "http://www.tobacco.gov.cn/gjyc/zcwjk/zck.shtml?tab=zcwj",
+      "type": "listdate",
+      "sel": "/gjyc/zcwjk/",
+      "region": "中国"
+    },
+    {
+      "name": "国家烟草局·政策解读",
+      "url": "http://www.tobacco.gov.cn/gjyc/zhyw/list.shtml",
+      "type": "listdate",
+      "sel": "/gjyc/zhyw/",
       "region": "中国"
     },
     {
@@ -136,8 +157,64 @@
       "region": "中国"
     },
     {
-      "name": "东方烟草网(中文监管)",
-      "url": "https://www.eastobacco.com/ty/node_81_10.html",
+      "name": "东方烟草网·烟草资讯",
+      "url": "https://www.eastobacco.com/ty/node_81.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·国际",
+      "url": "https://www.eastobacco.com/ty/node_105.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·专卖",
+      "url": "https://www.eastobacco.com/ty/node_95.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·法治",
+      "url": "https://www.eastobacco.com/ty/node_97.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·营销",
+      "url": "https://www.eastobacco.com/ty/node_91.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·科技",
+      "url": "https://www.eastobacco.com/ty/node_99.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·烟叶",
+      "url": "https://www.eastobacco.com/ty/node_87.html",
+      "type": "html",
+      "sel": "content",
+      "dimension": "烟草监管",
+      "region": "中国"
+    },
+    {
+      "name": "东方烟草网·工业",
+      "url": "https://www.eastobacco.com/ty/node_89.html",
       "type": "html",
       "sel": "content",
       "dimension": "烟草监管",
@@ -171,6 +248,46 @@
       "type": "rss"
     },
     {
+      "name": "ScienceDaily 营养",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 健康政策",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/health_policy.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 社会心理",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/social_psychology.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 行为",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/behavior.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 食品技术",
+      "url": "https://www.sciencedaily.com/rss/plants_animals/food_technology.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 饮食减重",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/diet_and_weight_loss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 情绪",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/emotion.xml",
+      "type": "rss"
+    },
+    {
+      "name": "ScienceDaily 健康老龄",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/healthy_aging.xml",
+      "type": "rss"
+    },
+    {
       "name": "Food Safety News",
       "url": "https://www.foodsafetynews.com/feed/",
       "type": "rss"
@@ -196,8 +313,28 @@
       "type": "rss"
     },
     {
-      "name": "Ipsos",
+      "name": "Ipsos 美国",
       "url": "https://www.ipsos.com/en-us/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Ipsos 英国",
+      "url": "https://www.ipsos.com/en-gb/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Ipsos 澳洲",
+      "url": "https://www.ipsos.com/en-au/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Ipsos 法国",
+      "url": "https://www.ipsos.com/fr-fr/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Ipsos 德国",
+      "url": "https://www.ipsos.com/de-de/rss.xml",
       "type": "rss"
     },
     {
