@@ -76,6 +76,28 @@ async function fetchBrowserHTML(url, waitMs = 7000) {
     return await page.content();
   } finally { try { if (browser) await browser.close(); } catch (e) { /* 关闭时偶发 EBUSY 等，忽略，不向外抛，避免拖垮整个 insights 抓取 */ } }
 }
+// 从 <a> 锚文本里抽取「真实标题」：个别站（如 NIQ）把整张卡片(标题+摘要正文)包进 <a>，
+// clean 后就是几百字的整篇文章。这里做护栏，优先级：标题级元素 > class 含 title 的元素 > URL slug 还原。
+function deriveTitleFromAnchor(anchorHtml, href) {
+  let title = clean(anchorHtml);
+  if (title.length <= 120) return title; // 正常长度直接采用，不触发护栏
+  // 1) 卡片内的标题级元素（h1~h4）
+  const h = anchorHtml.match(/<h[1-4][^>]*>([\s\S]*?)<\/h[1-4]>/i);
+  if (h) { const t = clean(h[1]); if (t.length >= 6 && t.length <= 150) return t; }
+  // 2) class 含 title 的元素（如 <span class="card-title">）
+  const tMatch = anchorHtml.match(/<[^>]*class=["'][^"']*title[^"']*["'][^>]*>([\s\S]*?)<\//i);
+  if (tMatch) { const t = clean(tMatch[1]); if (t.length >= 6 && t.length <= 150) return t; }
+  // 3) URL slug 还原（NIQ 等 kebab slug 即真实标题，零网络）
+  try {
+    const seg = new URL(href).pathname.split('/').filter(Boolean);
+    const slug = seg[seg.length - 1] || '';
+    if (slug.includes('-') && !/\d{6,}/.test(slug)) {
+      const t = slug.split('-').map((w) => (w ? w[0].toUpperCase() + w.slice(1) : w)).join(' ').trim();
+      if (t.length >= 8 && t.split(' ').length >= 2) return t;
+    }
+  } catch (e) { /* ignore */ }
+  return title; // 上述都失败，保留原始（仍可能偏长，但至少不主动造垃圾）
+}
 // 用 articleRe（来自源配置）精确匹配文章链接，避免误抓栏目/导航页
 function parseBrowser(html, base, articleRe) {
   const out = [];
@@ -84,7 +106,7 @@ function parseBrowser(html, base, articleRe) {
   while ((m = re.exec(html))) {
     try {
       const href = stripTracking(new URL(m[1], base).href);
-      const title = clean(m[2]);
+      const title = deriveTitleFromAnchor(m[2], href);
       if (!title || title.length < 6) continue;
       if (GENERIC.test(title)) continue;
       out.push({ title, link: href, pub: '', desc: '' });

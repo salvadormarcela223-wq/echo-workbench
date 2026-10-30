@@ -33,7 +33,7 @@ export function clean(s) {
     .replace(/<[^>]+>/g, '')
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
-    .replace(/\s+/g, ' ').trim();
+    .replace(/ /g, ' ').replace(/\s+/g, ' ').trim();
 }
 
 export const GENERIC = /^(首页|更多|登录|注册|联系我们|关于我们|订阅|隐私|条款|Home|More|Menu|Search|Contact|Privacy|Terms|CTP Newsroom|Press Office|Press Announcements|Press Releases|Industry news|Subscribe|Newsletter|Read More|News and Events|Sign Up for Email Updates|Categories|Topics|RSS|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
@@ -173,19 +173,76 @@ async function fetchBrowserHTML(url, waitMs = 7000, browser = null) {
     return await page.content();
   } finally { try { if (localBrowser && browser) await browser.close(); } catch (e) { } }
 }
-function parseBrowser(html, base, articleRe) {
-  // 解码 HTML 实体（关键：2firsts 等站链接含 &amp;id= 实体，不解码会被 new URL 变成畸形地址 → 回源 404 → 被判"无真实日期"拒收）
+// —— 日期/文本解析工具 ——
+const MONTHS = { january: 0, february: 1, march: 2, april: 3, may: 4, june: 5, july: 6, august: 7, september: 8, october: 9, november: 10, december: 11, jan: 0, feb: 1, mar: 2, apr: 3, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+function isValidDate(d) { if (isNaN(d)) return false; const now = new Date(); return d.getFullYear() >= 2015 && d <= now; }
+// 从一段文本里识别真实发布日期：中文 YYYY年M月D日 / ISO YYYY-MM-DD / 英文 Month DD YYYY / DD Month YYYY
+export function parseDateFromText(text) {
+  if (!text) return null;
+  const t = String(text);
+  let m = t.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
+  if (m) { const d = new Date(+m[1], +m[2] - 1, +m[3]); if (isValidDate(d)) return d; }
+  m = t.match(/(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})/);
+  if (m) { const d = new Date(+m[1], +m[2] - 1, +m[3]); if (isValidDate(d)) return d; }
+  m = t.match(/\b([A-Za-z]{3,9})\s+(\d{1,2}),?\s+(\d{4})\b/);
+  if (m && MONTHS[m[1].toLowerCase()] !== undefined) { const d = new Date(+m[3], MONTHS[m[1].toLowerCase()], +m[2]); if (isValidDate(d)) return d; }
+  m = t.match(/\b(\d{1,2})\s+([A-Za-z]{3,9}),?\s+(\d{4})\b/);
+  if (m && MONTHS[m[2].toLowerCase()] !== undefined) { const d = new Date(+m[3], MONTHS[m[2].toLowerCase()], +m[1]); if (isValidDate(d)) return d; }
+  return null;
+}
+// 解析内嵌元数据（2firsts 等 Vue 站）：文章对象形如 id:17426,...,create_time:1786013842,...,title:"...",description:"..."。
+// 返回 { [id]: { date:'YYYY-MM-DD'|null, title, desc } }。create_time 为秒级 Unix 时间戳。
+function extractEmbedMeta(html) {
+  const map = {};
+  if (!/create_time:/.test(html)) return map;
+  const re = /id:(\d+)([\s\S]*?)(?=id:\d+|$)/g;
+  let mm;
+  while ((mm = re.exec(html))) {
+    const id = mm[1];
+    if (map[id]) continue;
+    const chunk = mm[2];
+    const ts = (chunk.match(/create_time:(\d+)/) || [])[1];
+    const title = (chunk.match(/title:"([^"]*)"/) || [])[1];
+    const desc = (chunk.match(/description:"([^"]*)"/) || [])[1];
+    let date = null;
+    if (ts) { const n = parseInt(ts, 10); if (n > 1e9 && n < 2e9) { const d = new Date(n * 1000); if (isValidDate(d)) date = d.toISOString().slice(0, 10); } }
+    map[id] = { date, title, desc };
+  }
+  return map;
+}
+
+export function parseBrowser(html, base, articleRe) {
+  // 解码 HTML 实体（关键：2firsts 等站链接含 &amp;id= 实体，不解码会被 new URL 变成畸形地址 → 回源 404）
   const dec = (s) => (s || '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+  // 浏览器型源（2firsts/Vaping360 等）真实发布日期与摘要就在列表页上，不必回源被墙的文章页：
+  // 2firsts 把元数据（id→create_time 时间戳 + title + description）写在内嵌数据里；
+  // Vaping360 每张卡片有 article-card__date / article-card__desc。
+  const idMeta = extractEmbedMeta(html);
   const out = [];
   const re = new RegExp('<a[^>]+href="([^"]*(?:' + articleRe + ')[^"]*)"[^>]*>([\\s\\S]*?)</a>', 'gi');
   let m;
   while ((m = re.exec(html))) {
     try {
-      const href = stripTracking(new URL(dec(m[1]), base).href);
-      const title = dec(clean(m[2]));
+      const rawHref = dec(m[1]);
+      const href = stripTracking(new URL(rawHref, base).href);
+      const idm = rawHref.match(/[?&]id=(\d+)/);
+      const meta = idm ? idMeta[idm[1]] : null;
+      let title = dec(clean(m[2]));
+      if (meta && meta.title && meta.title.length >= 6) title = meta.title;
       if (!title || title.length < 6) continue;
       if (GENERIC.test(title)) continue;
-      out.push({ title, link: href, pub: '', desc: '' });
+      // 发布日期：优先列表页窗口内真实日期，其次 2firsts 内嵌时间戳
+      let pub = '';
+      const near = html.slice(Math.max(0, m.index - 1000), m.index + 1000);
+      const d = parseDateFromText(near);
+      if (d) pub = d.toISOString().slice(0, 10);
+      else if (meta && meta.date) pub = meta.date;
+      // 摘要：列表卡片里 class 含 desc/excerpt/summary 的元素文本（Vaping360 等）；2firsts 优先用内嵌 description
+      let desc = '';
+      const descM = near.match(/class="[^"]*(?:desc|excerpt|summary|teaser|blurb)[^"]*"[^>]*>([\s\S]*?)<\/(?:div|p|span)>/i);
+      if (descM) { const t = clean(descM[1]); if (isProseLike(t)) desc = t; }
+      if (meta && meta.desc && isProseLike(meta.desc)) desc = meta.desc.slice(0, 400);
+      out.push({ title, link: href, pub, desc: desc.slice(0, 400) });
     } catch (e) { }
   }
   const seen = new Set(); const uniq = [];
@@ -216,9 +273,10 @@ async function fetchArticleHTML(url) {
     const browser = await getSharedBrowser();
     const page = await browser.newPage();
     await page.setUserAgent(UA);
+    await page.evaluateOnNewDocument(() => { try { Object.defineProperty(navigator, 'webdriver', { get: () => false }); } catch (e) {} try { window.chrome = { runtime: {} }; } catch (e) {} });
     await page.setRequestInterception(true);
-    page.on('request', (r) => { const t = r.resourceType(); (['image', 'font', 'stylesheet', 'media'].includes(t)) ? r.abort() : r.continue(); });
-    try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 }); } catch (e) {}
+    page.on('request', (r) => { const t = r.resourceType(); (['image', 'media'].includes(t)) ? r.abort() : r.continue(); });
+    try { await page.goto(url, { waitUntil: 'networkidle2', timeout: 40000 }); } catch (e) {}
     await new Promise((r) => setTimeout(r, 6000));
     for (let i = 0; i < 8; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 300)); }
     const html = await page.content();
@@ -229,7 +287,7 @@ async function fetchArticleHTML(url) {
 
 // 回源文章页抓取真实发布日期：优先 <meta article:published_time/og:published_time/datePublished>，
 // 其次 <time datetime>，最后退回正文文本里的日期模式（January 5, 2026 / 5 January 2026 / 2026-01-05）。
-// 尽力而为，拿不到返回 null（由上层决定跳过，绝不伪造）。
+// 尽力而为，拿不到返回 null（由上层决定跳过，绝不伪造「今天」冒充）。
 export async function deriveDate(link) {
   try {
     const html = await fetchArticleHTML(link);
@@ -241,35 +299,8 @@ export async function deriveDate(link) {
       const dm = tt.match(/datetime=["']([^"']+)["']/i);
       if (dm) { const d = new Date(dm[1]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
     }
-    const text = html.replace(/<[^>]+>/g, ' ');
-    // 中文日期格式（如「2026年8月24日」）：取正文中最大的日期（最新发布日通常 >= 正文提到的其他日期）
-    const cnDates = [...text.matchAll(/\b(\d{4})年(\d{1,2})月(\d{1,2})日\b/g)]
-      .map((m) => new Date(+m[1], +m[2] - 1, +m[3]))
-      .filter((d) => !isNaN(d) && d <= new Date() && d.getFullYear() >= 2015);
-    if (cnDates.length) { cnDates.sort((a, b) => b - a); return cnDates[0]; }
-    const months = { january:0,february:1,march:2,april:3,may:4,june:5,july:6,august:7,september:8,october:9,november:10,december:11,jan:0,feb:1,mar:2,apr:3,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11 };
-    const pats = [
-      /\b([A-Z][a-z]{2,8})\s+(\d{1,2}),?\s+(\d{4})\b/,
-      /\b(\d{1,2})\s+([A-Z][a-z]{2,8}),?\s+(\d{4})\b/,
-      /\b(\d{4})[-/.](\d{1,2})[-/.](\d{1,2})\b/,
-    ];
-    for (const p of pats) {
-      const mm = text.match(p);
-      if (!mm) continue;
-      let d;
-      if (p === pats[2]) d = new Date(+mm[1], +mm[2] - 1, +mm[3]);
-      else {
-        const isFirstMonth = months[mm[1].toLowerCase()] !== undefined;
-        const mon = isFirstMonth ? mm[1].toLowerCase() : mm[2].toLowerCase();
-        const day = isFirstMonth ? +mm[2] : +mm[1];
-        const yr = +mm[3];
-        if (months[mon] === undefined) continue;
-        d = new Date(yr, months[mon], day);
-      }
-      if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d;
-    }
   } catch (e) { }
-  return null;
+  return null; // 取不到真实日期就返回 null，由上层决定跳过，绝不拿「今天」冒充发布日
 }
 
 export function parseRSS(xml, base) {
@@ -334,6 +365,105 @@ export function parseHTML(html, base, sel) {
   return uniq;
 }
 
+// —— 浏览器型源（DOM 抽取）：在已渲染的页面里直接读「链接 + 标题 + 日期 + 摘要」，不再做脆弱的 HTML 字符串切分 ——
+// 处理无年份短日期(10-22)与相对时间(4小时前/3天前)：假定当年，超今天则上一年；相对时间按「现在 - N」算。
+export function parseRelativeOrShortDate(...texts) {
+  const now = new Date();
+  for (const raw of texts) {
+    if (!raw) continue;
+    const t = String(raw);
+    let m = t.match(/(\d+)\s*(?:分钟|min)/i); if (m) { const d = new Date(now.getTime() - (+m[1]) * 60000); if (isValidDate(d)) return d; }
+    m = t.match(/(\d+)\s*(?:小时|hrs?|hours?)/i); if (m) { const d = new Date(now.getTime() - (+m[1]) * 3600000); if (isValidDate(d)) return d; }
+    m = t.match(/(\d+)\s*(?:天|days?|d)\b/i); if (m) { const d = new Date(now.getTime() - (+m[1]) * 86400000); if (isValidDate(d)) return d; }
+    m = t.match(/(\d{1,2})[-/.](\d{1,2})(?![-/.]\d)/);
+    if (m) { let d = new Date(now.getFullYear(), +m[1] - 1, +m[2]); if (!isValidDate(d)) d = new Date(now.getFullYear() - 1, +m[1] - 1, +m[2]); if (isValidDate(d)) return d; }
+  }
+  return null;
+}
+// 清理标题：去掉结尾被网站塞进来的日期后缀（" 10-22" / " 4小时前" 等），只保留真正的标题
+function cleanTitle(title) {
+  return (title || '')
+    .replace(/\s*(\d{1,2})[-/.](\d{1,2})(?![-/.]\d)\s*$/, '')
+    .replace(/\s*(刚刚|\d+\s*(?:分钟|小时|天)前)\s*$/i, '')
+    .replace(/\s+/g, ' ').trim();
+}
+export async function scrapeBrowserDOM(browser, url, articleRe, wait = 9000) {
+  const page = await browser.newPage();
+  await page.setUserAgent(UA);
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8' });
+  // 反爬对抗：抹掉 headless 指纹（webdriver/chrome），避免被 Cloudflare/2firsts 识别为机器人
+  await page.evaluateOnNewDocument(() => {
+    try { Object.defineProperty(navigator, 'webdriver', { get: () => false }); } catch (e) {}
+    try { window.chrome = { runtime: {} }; } catch (e) {}
+  });
+  // 只拦图片/媒体（省流量）。拦截 css/font 会让 SPA 渲染不全、更易触发反爬，故放行
+  await page.setRequestInterception(true);
+  page.on('request', (r) => { const t = r.resourceType(); (['image', 'media'].includes(t)) ? r.abort() : r.continue(); });
+  try { await page.goto(url, { waitUntil: 'networkidle2', timeout: 40000 }); } catch (e) { }
+  await new Promise((r) => setTimeout(r, wait));
+  for (let i = 0; i < 8; i++) { await page.evaluate(() => window.scrollBy(0, 1500)); await new Promise((r) => setTimeout(r, 300)); }
+  // 列表页内嵌数据（2firsts 等 Vue 站把 description / create_time 写在页面脚本里），用于补摘要与日期
+  const html = await page.content();
+  const idMeta = extractEmbedMeta(html);
+  const raw = await page.evaluate((reStr) => {
+    const re = new RegExp(reStr);
+    // 从链接向上找「最外层的卡片容器」：class 含 article-card / news-item / post 的祖先里取最顶层，
+    // 避免误命中 article-card__preview 这类子元素（那样会漏掉同级的日期/摘要）。
+    function cardOf(el) {
+      const cand = [];
+      let n = el;
+      while (n && n !== document.body) {
+        const cls = (n.className || '').toString().split(/\s+/);
+        if (cls.some((c) => /article[-_]?card/i.test(c) || /news[-_]?item/i.test(c) || /post[-_]?item/i.test(c) || /^post$/i.test(c))) cand.push(n);
+        n = n.parentElement;
+      }
+      return cand.length ? cand[cand.length - 1] : (el.parentElement || el);
+    }
+    const links = [...document.querySelectorAll('a')].filter((a) => {
+      const h = a.getAttribute('href') || '';
+      if (!re.test(h)) return false;
+      if (/(?:\/vape-news|\/news)\/?$/i.test(h)) return false;       // 排除栏目/板块入口
+      if (a.closest('nav, header, [class*="menu__" i], [class*="sidebar" i], [class*="nav" i]')) return false; // 排除导航/菜单里的同名链接（仅 Vaping360 的 menu__ 结构，不影响 2firsts 正文列表）
+      return true;
+    });
+    const out = [];
+    for (const a of links) {
+      const card = cardOf(a);
+      let title = (a.innerText || '').trim();
+      if (!title && a.getAttribute('aria-label')) title = a.getAttribute('aria-label').replace(/^Read article:\s*/i, '').trim();
+      let dateText = '';
+      const dateEl = card ? card.querySelector('[class*="date" i]') : null;
+      if (dateEl) dateText = (dateEl.innerText || '').trim();
+      let desc = '';
+      const descEl = card ? card.querySelector('[class*="desc" i], [class*="excerpt" i], [class*="summary" i], [class*="teaser" i]') : null;
+      if (descEl) desc = (descEl.innerText || '').trim();
+      const cardText = card ? (card.innerText || '') : (a.innerText || '');
+      out.push({ title, link: a.href, dateText: dateText.slice(0, 60), desc: desc.slice(0, 600), cardText: cardText.slice(0, 600) });
+    }
+    return out;
+  }, articleRe);
+  await page.close();
+  const seen = new Set(); const out = [];
+  for (const it of raw) {
+    if (!it.title || it.title.length < 6) continue;
+    const href = stripTracking(it.link);
+    if (seen.has(href)) continue; seen.add(href);
+    if (GENERIC.test(it.title)) continue;
+    // 2firsts 等：链接里的 ?id=NNNNN 可去内嵌数据取真实摘要/日期兜底
+    const idm = (href.match(/[?&]id=(\d+)/) || [])[1];
+    const meta = idm ? idMeta[idm] : null;
+    let d = parseDateFromText(it.dateText) || parseDateFromText(it.cardText) || parseRelativeOrShortDate(it.title, it.cardText);
+    if (!d && meta && meta.date) d = new Date(meta.date);
+    const pub = d ? d.toISOString().slice(0, 10) : '';
+    const title = cleanTitle(it.title);
+    let desc = (it.desc || '').replace(/\s+/g, ' ').trim();
+    if ((!desc || desc.length < 10) && meta && meta.desc) desc = meta.desc.replace(/\s+/g, ' ').trim();
+    desc = desc.slice(0, 400);
+    out.push({ title, link: href, pub, desc });
+  }
+  return out;
+}
+
 if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
 (async () => {
  try {
@@ -347,23 +477,29 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
         let txt = '';
         let items = [];
         if (s.type === 'browser') {
-          // WAF/反爬站：普通 fetch 被 403，改用本机 Chrome 渲染后抽链接（单源容错，失败跳过不影响其他源）
-          // 反爬偶发返回空（挑战页），最多重试 3 次、每次加长等待，提升 2firsts 等易抖源的稳定性
+          // WAF/反爬站：普通 fetch 被 403，改用本机 Chrome 渲染后，直接在 DOM 里抽取「链接+标题+日期+摘要」。
+          // 关键：日期与摘要都在列表页的卡片上（Vaping360 有 .article-card__date / .article-card__desc；
+          // 2firsts 等 Vue 站把日期写在标题/卡片文本里，如 "10-22" 或 "4小时前"），根本不必回源被墙的文章页。
+          // 每个浏览器源单独起一个全新浏览器实例：避免 Vaping360 触发 Cloudflare 后，同一个浏览器会话把
+          // 2firsts 也一并拦掉（实测共用浏览器会让后跑的源连续吃挑战页）。
+          let browser = null;
           try {
-            const browser = await getSharedBrowser();
+            const puppeteer = loadPuppeteer();
+            browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
             let lastErr = '';
             const maxTry = 3;
             for (let attempt = 0; attempt < maxTry; attempt++) {
-              txt = await fetchBrowserHTML(s.url, (s.wait || 7000) + attempt * 4000, browser);
-              items = parseBrowser(txt, s.url, s.articleRe || '[a-z0-9\\-]+/[a-z0-9\\-]+');
+              items = await scrapeBrowserDOM(browser, s.url, s.articleRe || '[a-z0-9\\-]+/[a-z0-9\\-]+', (s.wait || 9000) + attempt * 6000);
               if (items.length > 0) break;
               lastErr = `第${attempt + 1}次渲染得 0 条`;
+              // 冷却再重试：Cloudflare 对高频请求会直接喂挑战页，间隔拉大可降低被标记概率
+              if (attempt < maxTry - 1) await new Promise((r) => setTimeout(r, 15000));
             }
             if (items.length === 0 && lastErr) console.log(`\n=== [${grp}] ${s.name} 浏览器渲染连续 ${maxTry} 次得 0 条(反爬拦截，已跳过): ${lastErr} ===`);
           } catch (be) {
             console.log(`\n=== [${grp}] ${s.name} 浏览器渲染失败(已跳过该源，不影响其他): ${be.message} ===`);
             items = [];
-          }
+          } finally { if (browser) { try { await browser.close(); } catch (e) {} } }
         } else {
           txt = await getText(s.url);
           if (s.type === 'rss') items = parseRSS(txt, s.url);
@@ -386,7 +522,8 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
             await new Promise((r) => setTimeout(r, 150)); // 礼貌抓取：避免高频回源被目标站限流（曾致整源 0 条）
             const summary = await deriveSummary(it.link, it.desc);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
-            // 真实发布日期：RSS/HTML 没给就回源文章页抓，再不行才放弃（绝不伪造日期）
+            // 真实发布日期：列表页已给出就用（parseBrowser/parseListDate/parseRSS 已在列表页取到）；
+            // 列表页没有才回源文章页抓；再取不到就放弃这条（绝不伪造「今天」冒充发布日）
             let pubDate = null;
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) {} }
