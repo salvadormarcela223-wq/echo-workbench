@@ -62213,5 +62213,350 @@
     "p": "/hɔːlz/",
     "t": "拖运；运输量",
     "en": "pulls or transports something heavy"
+  },
+  "thermometers": {
+    "p": "/θəˈmɒmɪtəz/",
+    "t": "温度计",
+    "en": "instruments for measuring temperature"
+  },
+  "embarked": {
+    "p": "/ɪmˈbɑːkt/",
+    "t": "着手，开始",
+    "en": "began or started something"
+  },
+  "armpit": {
+    "p": "/ˈɑːmpɪt/",
+    "t": "腋窝",
+    "en": "the hollow under the arm at the shoulder"
+  },
+  "sexes": {
+    "p": "/ˈseksɪz/",
+    "t": "性别",
+    "en": "the categories of male and female"
+  },
+  "signalled": {
+    "p": "/ˈsɪɡnəld/",
+    "t": "示意，发信号",
+    "en": "gave a signal or indication"
+  },
+  "exalted": {
+    "p": "/ɪɡˈzɔːltɪd/",
+    "t": "崇高的，尊贵的",
+    "en": "held in high regard; elevated"
+  },
+  "fastchanging": {
+    "p": "/ˌfɑːstˈtʃeɪndʒɪŋ/",
+    "t": "快速变化的",
+    "en": "changing rapidly"
+  },
+  "counterpart": {
+    "p": "/ˈkaʊntəpɑːt/",
+    "t": "对应物，对等的人",
+    "en": "a person or thing corresponding to another"
+  },
+  "thermalneutral": {
+    "p": "/ˌθɜːməlˈnjuːtrəl/",
+    "t": "热中性的",
+    "en": "relating to a temperature range requiring no extra heat production"
+  },
+  "seminomadic": {
+    "p": "/ˌsemiˈnəʊmædɪk/",
+    "t": "半游牧的",
+    "en": "partly nomadic; moving periodically"
+  },
+  "rainforest": {
+    "p": "/ˈreɪnfɒrɪst/",
+    "t": "雨林",
+    "en": "a dense forest with heavy rainfall"
+  },
+  "averages": {
+    "p": "/ˈævərɪdʒɪz/",
+    "t": "平均数",
+    "en": "typical or mean values"
+  },
+  "expectancy": {
+    "p": "/ɪkˈspektənsi/",
+    "t": "预期，期望",
+    "en": "the state of expecting; anticipated duration"
+  },
+  "tuberculosis": {
+    "p": "/tjuːˌbɜːkjuˈləʊsɪs/",
+    "t": "结核病",
+    "en": "an infectious disease affecting the lungs"
+  },
+  "dysentery": {
+    "p": "/ˈdɪsəntri/",
+    "t": "痢疾",
+    "en": "an intestinal infection causing diarrhoea"
+  },
+  "rheumatic": {
+    "p": "/ruːˈmætɪk/",
+    "t": "风湿性的",
+    "en": "relating to rheumatism"
+  },
+  "osteomyelitis": {
+    "p": "/ˌɒstioʊmaɪəˈlaɪtɪs/",
+    "t": "骨髓炎",
+    "en": "inflammation of bone and bone marrow"
+  },
+  "consumes": {
+    "p": "/kənˈsjuːmz/",
+    "t": "消耗，消费",
+    "en": "uses up or eats"
+  },
+  "shoewearing": {
+    "p": "/ˈʃuːˌweərɪŋ/",
+    "t": "穿鞋的",
+    "en": "wearing shoes"
+  },
+  "hookworm": {
+    "p": "/ˈhʊkwɜːm/",
+    "t": "钩虫",
+    "en": "a parasitic worm infesting the intestines"
+  },
+  "barefoot": {
+    "p": "/ˈbeəfʊt/",
+    "t": "赤脚的",
+    "en": "without shoes"
+  },
+  "cumbersome": {
+    "p": "/ˈkʌmbəsəm/",
+    "t": "笨重的",
+    "en": "heavy and awkward to carry or use"
+  },
+  "boiling": {
+    "p": "/ˈbɔɪlɪŋ/",
+    "t": "沸腾的；极热的",
+    "en": "very hot; at the point of boiling"
+  },
+  "slows": {
+    "p": "/sləʊz/",
+    "t": "减慢",
+    "en": "reduces speed"
+  },
+  "menstrual": {
+    "p": "/ˈmenstruəl/",
+    "t": "月经的",
+    "en": "relating to menstruation"
+  },
+  "rheumatologist": {
+    "p": "/ˌruːməˈtɒlədʒɪst/",
+    "t": "风湿病学家",
+    "en": "a doctor specialising in rheumatic diseases"
+  },
+  "calibration": {
+    "p": "/ˌkælɪˈbreɪʃn/",
+    "t": "校准",
+    "en": "the act of adjusting or marking an instrument"
+  },
+  "veterans": {
+    "p": "/ˈvetərənz/",
+    "t": "老兵，退伍军人",
+    "en": "former members of the armed forces"
+  },
+  "comprised": {
+    "p": "/kəmˈpraɪzd/",
+    "t": "由…组成",
+    "en": "consisted of; made up of"
+  },
+  "accorded": {
+    "p": "/əˈkɔːdɪd/",
+    "t": "给予，授予",
+    "en": "granted or given"
+  },
+  "physicians": {
+    "p": "/fɪˈzɪʃnz/",
+    "t": "内科医生",
+    "en": "medical doctors"
+  },
+  "onagainoffagain": {
+    "p": "/ˌɒnəɡenˈɒfəɡen/",
+    "t": "时断时续的",
+    "en": "stopping and starting repeatedly"
+  },
+  "ranged": {
+    "p": "/reɪndʒd/",
+    "t": "排列；分布；变动",
+    "en": "varied between limits; arranged in a row"
+  },
+  "reprieve": {
+    "p": "/rɪˈpriːv/",
+    "t": "缓刑；暂缓；暂时解脱",
+    "en": "a temporary relief from harm or punishment"
+  },
+  "brokering": {
+    "p": "/ˈbrəʊkərɪŋ/",
+    "t": "居间促成；斡旋",
+    "en": "arranging or negotiating a deal between parties"
+  },
+  "apartnear": {
+    "p": "/əˈpɑːtnɪə/",
+    "t": "既疏远又亲近",
+    "en": "both apart and near; distant yet close"
+  },
+  "instantly": {
+    "p": "/ˈɪnstəntli/",
+    "t": "立即；即刻",
+    "en": "at once; immediately"
+  },
+  "arranging": {
+    "p": "/əˈreɪndʒɪŋ/",
+    "t": "安排；整理；布置",
+    "en": "putting in order or planning"
+  },
+  "evacuation": {
+    "p": "/ɪˌvækjuˈeɪʃn/",
+    "t": "撤离；疏散",
+    "en": "the act of moving people away from danger"
+  },
+  "rapprochement": {
+    "p": "/ræˈprɒʃmɒ̃/",
+    "t": "和解；恢复友好关系",
+    "en": "the establishment of friendly relations"
+  },
+  "brokered": {
+    "p": "/ˈbrəʊkəd/",
+    "t": "经斡旋促成的",
+    "en": "arranged or negotiated by a third party"
+  },
+  "rearm": {
+    "p": "/riˈɑːm/",
+    "t": "重新武装；重整军备",
+    "en": "to arm again with weapons"
+  },
+  "discredit": {
+    "p": "/dɪsˈkredɪt/",
+    "t": "使丧失信誉；诋毁",
+    "en": "to harm the reputation of; to disprove"
+  },
+  "negotiator": {
+    "p": "/nɪˈɡəʊʃieɪtə(r)/",
+    "t": "谈判者；谈判代表",
+    "en": "a person who conducts negotiations"
+  },
+  "kidnapped": {
+    "p": "/ˈkɪdnæpt/",
+    "t": "被绑架的",
+    "en": "taken away by force and held captive"
+  },
+  "browbeaten": {
+    "p": "/ˈbraʊbiːtn/",
+    "t": "被威逼的；被吓住的",
+    "en": "intimidated by overbearing words"
+  },
+  "broker": {
+    "p": "/ˈbrəʊkə(r)/",
+    "t": "经纪人；中间人；斡旋者",
+    "en": "a person who arranges deals between others"
+  },
+  "killings": {
+    "p": "/ˈkɪlɪŋz/",
+    "t": "杀戮；屠杀事件",
+    "en": "acts of killing; murders"
+  },
+  "handover": {
+    "p": "/ˈhændəʊvə(r)/",
+    "t": "移交；交出",
+    "en": "the act of transferring something to another"
+  },
+  "conquer": {
+    "p": "/ˈkɒŋkə(r)/",
+    "t": "征服；克服",
+    "en": "to defeat and take control of; to overcome"
+  },
+  "bombedout": {
+    "p": "/ˌbɒmdˈaʊt/",
+    "t": "被炸毁的",
+    "en": "destroyed by bombing"
+  },
+  "necessities": {
+    "p": "/nəˈsesətiz/",
+    "t": "必需品；必要",
+    "en": "things that are essential or necessary"
+  },
+  "shook": {
+    "p": "/ʃʊk/",
+    "t": "摇动（shake的过去式）；使震惊",
+    "en": "past of shake; caused to feel shock"
+  },
+  "nails": {
+    "p": "/neɪlz/",
+    "t": "钉子；指甲",
+    "en": "metal spikes for fastening; fingernails"
+  },
+  "enthusiast": {
+    "p": "/ɪnˈθjuːziæst/",
+    "t": "爱好者；热衷者",
+    "en": "a person who is very interested in something"
+  },
+  "praising": {
+    "p": "/ˈpreɪzɪŋ/",
+    "t": "赞扬；称赞",
+    "en": "expressing approval or admiration"
+  },
+  "arsonist": {
+    "p": "/ˈɑːsənɪst/",
+    "t": "纵火犯",
+    "en": "a person who deliberately sets fires"
+  },
+  "frankly": {
+    "p": "/ˈfræŋkli/",
+    "t": "坦率地；老实说",
+    "en": "in an honest and direct way"
+  },
+  "export": {
+    "p": "/ɪkˈspɔːt/",
+    "t": "出口；输出",
+    "en": "to send goods abroad for sale"
+  },
+  "alleviate": {
+    "p": "/əˈliːvieɪt/",
+    "t": "减轻；缓解",
+    "en": "to make pain or suffering less severe"
+  },
+  "invading": {
+    "p": "/ɪnˈveɪdɪŋ/",
+    "t": "入侵；侵犯",
+    "en": "entering by force to attack"
+  },
+  "allegiances": {
+    "p": "/əˈliːdʒənsɪz/",
+    "t": "忠诚；效忠",
+    "en": "loyalties to a person, group, or cause"
+  },
+  "rhetorically": {
+    "p": "/rɪˈtɒrɪkli/",
+    "t": "修辞上；反问地",
+    "en": "in a rhetorical manner; for effect rather than answer"
+  },
+  "blowup": {
+    "p": "/ˈbləʊʌp/",
+    "t": "爆炸；争吵；放大",
+    "en": "an explosion, an angry quarrel, or an enlargement"
+  },
+  "flirts": {
+    "p": "/flɜːts/",
+    "t": "调情；轻率对待",
+    "en": "behaves playfully romantically; toys with an idea"
+  },
+  "purposefully": {
+    "p": "/ˈpɜːpəsfli/",
+    "t": "有目的地；坚定地",
+    "en": "with determination and a clear aim"
+  },
+  "shutoffs": {
+    "p": "/ˈʃʌtɒfs/",
+    "t": "切断；关闭；停止供应",
+    "en": "acts of stopping supply or operation"
+  },
+  "staunch": {
+    "p": "/stɔːntʃ/",
+    "t": "坚定的；忠诚的；止住",
+    "en": "loyal and firm; to stop the flow of blood"
+  },
+  "totality": {
+    "p": "/təʊˈtæləti/",
+    "t": "全部；整体",
+    "en": "the whole amount or entirety"
   }
 }
