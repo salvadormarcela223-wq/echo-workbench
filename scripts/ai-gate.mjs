@@ -32,7 +32,7 @@ export const CONFIG = {
     'ipsos', 'mintel', 'nielseniq', 'bain', 'kantar',
     'fda', 'who', '国家烟草局', '东方烟草网', 'tobacco tactics', '2firsts',
     'foodaily', '小食代', 'foodtalks',
-    'pubmed', 'frontiers', 'mdpi',
+    'pubmed', 'frontiers', 'mdpi', 'sciencedirect',
   ],
 
   // 第1层：事件/报名类（命中即 fail，非分析内容）。

@@ -414,6 +414,28 @@
       "cat": "感官研究",
       "dimension": "",
       "region": "国际"
+    },
+    {
+      "name": "ScienceDirect · Food Quality and Preference",
+      "url": "https://www.sciencedirect.com/journal/food-quality-and-preference",
+      "type": "browser",
+      "articleRe": "science/article/pii/",
+      "wait": 12000,
+      "sensory": true,
+      "cat": "感官研究",
+      "dimension": "",
+      "region": "国际"
+    },
+    {
+      "name": "MDPI · Foods",
+      "url": "https://www.mdpi.com/journal/foods",
+      "type": "browser",
+      "articleRe": "2304-8158/\\d+/\\d+",
+      "wait": 10000,
+      "sensory": true,
+      "cat": "感官研究",
+      "dimension": "",
+      "region": "国际"
     }
   ]
 }
