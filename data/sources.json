@@ -430,7 +430,7 @@
       "name": "MDPI · Foods",
       "url": "https://www.mdpi.com/journal/foods",
       "type": "browser",
-      "articleRe": "2304-8158/\\d+/\\d+",
+      "articleRe": "2304-8158/\\d+/\\d+/\\d+(?![\\d/])",
       "wait": 10000,
       "sensory": true,
       "cat": "感官研究",
