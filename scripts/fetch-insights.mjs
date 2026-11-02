@@ -220,6 +220,50 @@ function parseRSS(xml) {
   }
   return out;
 }
+// PubMed E-utilities：RSS 已废，改走官方 API 抓「感官/食品」方向同行评审论文（零 token，不调 DeepSeek）
+// 返回与 parseRSS 同构的 {title, link, desc, pub}，下游过滤/摘要/正文/闸门全部复用
+async function parsePubMed(s) {
+  const term = s.query || '("sensory" OR "chemosensory" OR "taste" OR "flavor" OR "aroma" OR "texture" OR "mouthfeel" OR "olfactory") AND ("food" OR "beverage" OR "nutrition" OR "diet")';
+  const retmax = s.retmax || 25;
+  const esUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(term)}&retmode=json&retmax=${retmax}&sort=date`;
+  let ids = [];
+  try { ids = (JSON.parse(await getText(esUrl))?.esearchresult?.idlist) || []; }
+  catch (e) { console.log(`  [pubmed] esearch 失败: ${e.message}`); return []; }
+  if (!ids.length) return [];
+  let sum = {};
+  try { sum = JSON.parse(await getText(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=${ids.join(',')}&retmode=json`))?.result || {}; }
+  catch (e) { console.log(`  [pubmed] esummary 失败: ${e.message}`); }
+  let absText = '';
+  try { absText = await getText(`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${ids.join(',')}&rettype=abstract&retmode=text`); }
+  catch (e) { console.log(`  [pubmed] efetch 失败: ${e.message}`); }
+  const chunks = absText ? absText.split(/\n\s*\d+\.\s+/).slice(1) : [];
+  const pubToISO = (p) => {
+    if (!p) return '';
+    let m = p.match(/^(\d{4})\/(\d{2})\/(\d{2})/); if (m) return `${m[1]}-${m[2]}-${m[3]}`;
+    m = p.match(/^(\d{4})\s+([A-Za-z]{3})\s+(\d{1,2})/);
+    if (m) { const mo = { Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06', Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12' }; const mm = mo[m[2]]; if (mm) return `${m[1]}-${mm}-${m[3].padStart(2, '0')}`; }
+    return '';
+  };
+  const out = [];
+  for (let i = 0; i < ids.length; i++) {
+    const id = ids[i];
+    const r = sum[id] || {};
+    const title = clean(r.title || '');
+    if (!title) continue;
+    const pub = pubToISO(r.sortpubdate || r.pubdate || '');
+    let desc = '';
+    const chunk = chunks[i] || '';
+    if (chunk) {
+      const ai = chunk.indexOf('Author information:');
+      const tail = ai >= 0 ? chunk.slice(ai + 'Author information:'.length) : chunk.replace(/^[\s\S]*?\n\n/, '');
+      const lines = tail.split('\n').filter((l) => l.trim() && !/^\(\d+\)/.test(l.trim()) && !/electronic address/i.test(l) && !/@/.test(l));
+      desc = clean(lines.join(' ')).replace(/\s+/g, ' ').slice(0, 200);
+    }
+    out.push({ title, link: `https://pubmed.ncbi.nlm.nih.gov/${id}/`, pub, desc });
+  }
+  return out;
+}
+
 function parseHTML(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -375,6 +419,9 @@ function readFeed() {
         } else if (s.type === 'sitemap') {
           // SPA 站：sitemap 给文章 URL + 文章页 JSON-LD（凯度等）
           items = await parseSitemapJsonLd(s);
+        } else if (s.type === 'pubmed') {
+          // PubMed 官方 API（RSS 已废）：抓感官/食品方向同行评审论文
+          items = await parsePubMed(s);
         } else {
           // 单源容错：浏览器源(Bain/WHO/NielsenIQ 等)单独包一层 try，避免个别源渲染超时崩溃拖垮整个 insights 抓取
           if (s.type === 'browser') {

@@ -395,6 +395,25 @@
       "name": "GB 感官分析标准",
       "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=%E6%84%9F%E5%AE%98",
       "type": "gbstd"
+    },
+    {
+      "name": "Frontiers in Nutrition",
+      "type": "rss",
+      "url": "https://www.frontiersin.org/journals/nutrition/rss",
+      "sensory": true,
+      "cat": "感官研究",
+      "dimension": "",
+      "region": "国际"
+    },
+    {
+      "name": "PubMed 感官与食品研究",
+      "type": "pubmed",
+      "query": "(\"sensory\" OR \"chemosensory\" OR \"taste\" OR \"flavor\" OR \"aroma\" OR \"texture\" OR \"mouthfeel\" OR \"olfactory\") AND (\"food\" OR \"beverage\" OR \"nutrition\" OR \"diet\")",
+      "retmax": 25,
+      "sensory": true,
+      "cat": "感官研究",
+      "dimension": "",
+      "region": "国际"
     }
   ]
 }
