@@ -63548,5 +63548,245 @@
     "p": "/ˌɪntrəˈpɑːti/",
     "t": "党内的",
     "en": "occurring within a single political party"
+  },
+  "slumber": {
+    "p": "/ˈslʌmbə/",
+    "t": "睡眠；沉睡",
+    "en": "a state of sleep"
+  },
+  "pinpointed": {
+    "p": "/ˈpɪnpɔɪntɪd/",
+    "t": "精确指出的；定位的",
+    "en": "identified or located with precision"
+  },
+  "sixandahalf": {
+    "p": "/ˌsɪks ənd ə ˈhɑːf/",
+    "t": "六个半",
+    "en": "six and a half"
+  },
+  "heritable": {
+    "p": "/ˈherɪtəbl/",
+    "t": "可遗传的",
+    "en": "able to be inherited genetically"
+  },
+  "familial": {
+    "p": "/fəˈmɪliəl/",
+    "t": "家族的；家族性的",
+    "en": "relating to or occurring in a family"
+  },
+  "intriguing": {
+    "p": "/ɪnˈtriːɡɪŋ/",
+    "t": "引人入胜的；有趣的",
+    "en": "arousing curiosity or interest"
+  },
+  "variations": {
+    "p": "/ˌveəriˈeɪʃnz/",
+    "t": "变化；变异",
+    "en": "differences or changes in form or amount"
+  },
+  "impairment": {
+    "p": "/ɪmˈpeəmənt/",
+    "t": "损伤；损害",
+    "en": "a reduction in function or ability"
+  },
+  "deficits": {
+    "p": "/ˈdefɪsɪts/",
+    "t": "缺陷；不足",
+    "en": "shortfalls or deficiencies"
+  },
+  "fraternal": {
+    "p": "/frəˈtɜːnl/",
+    "t": "异卵的；兄弟的",
+    "en": "relating to brothers; (of twins) non-identical"
+  },
+  "twins": {
+    "p": "/twɪnz/",
+    "t": "双胞胎",
+    "en": "two children born at the same birth"
+  },
+  "shortsleep": {
+    "p": "/ˌʃɔːt ˈsliːp/",
+    "t": "短睡眠",
+    "en": "sleep of short duration"
+  },
+  "lapses": {
+    "p": "/ˈlæpsɪz/",
+    "t": "失误；短暂疏忽",
+    "en": "brief failures or slips"
+  },
+  "nonrem": {
+    "p": "/ˌnɒn ˈrem/",
+    "t": "非快速眼动（睡眠）",
+    "en": "non-rapid eye movement (sleep)"
+  },
+  "slowwave": {
+    "p": "/ˈsləʊ weɪv/",
+    "t": "慢波",
+    "en": "slow-wave (of sleep)"
+  },
+  "sleepers": {
+    "p": "/ˈsliːpəz/",
+    "t": "睡眠者",
+    "en": "people who sleep (in a specified way)"
+  },
+  "influencing": {
+    "p": "/ˈɪnfluənsɪŋ/",
+    "t": "影响",
+    "en": "having an effect on"
+  },
+  "preprint": {
+    "p": "/ˈpriːprɪnt/",
+    "t": "预印本",
+    "en": "a manuscript posted before peer review"
+  },
+  "obstetrician": {
+    "p": "/ˌɒbstəˈtrɪʃn/",
+    "t": "产科医生",
+    "en": "a doctor specializing in childbirth"
+  },
+  "gynaecologist": {
+    "p": "/ˌɡaɪnəˈkɒlədʒɪst/",
+    "t": "妇科医生",
+    "en": "a doctor specializing in women's reproductive health"
+  },
+  "bipolar": {
+    "p": "/ˌbaɪˈpəʊlə/",
+    "t": "双相的；躁郁的",
+    "en": "relating to bipolar disorder"
+  },
+  "tolerance": {
+    "p": "/ˈtɒlərəns/",
+    "t": "耐受性；容忍",
+    "en": "the ability to endure or withstand"
+  },
+  "postnatal": {
+    "p": "/ˌpəʊstˈneɪtl/",
+    "t": "产后的",
+    "en": "occurring after birth"
+  },
+  "genetically": {
+    "p": "/dʒəˈnetɪkli/",
+    "t": "从遗传上；基因上",
+    "en": "by means of genes or heredity"
+  },
+  "curtailed": {
+    "p": "/kɜːˈteɪld/",
+    "t": "缩减的；被缩短的",
+    "en": "reduced or cut short"
+  },
+  "rated": {
+    "p": "/ˈreɪtɪd/",
+    "t": "评定的；分级的",
+    "en": "assessed or given a rating"
+  },
+  "unaware": {
+    "p": "/ˌʌnəˈweə/",
+    "t": "未察觉的",
+    "en": "not conscious or aware of"
+  },
+  "deprivation": {
+    "p": "/ˌdeprɪˈveɪʃn/",
+    "t": "剥夺；匮乏",
+    "en": "the lack or loss of something needed"
+  },
+  "sleeps": {
+    "p": "/sliːps/",
+    "t": "睡眠（复数/第三人称单数）",
+    "en": "periods of sleep; sleeps"
+  },
+  "juggling": {
+    "p": "/ˈdʒʌɡlɪŋ/",
+    "t": "竭力兼顾；杂耍",
+    "en": "managing several things at once; tossing objects"
+  },
+  "whisperer": {
+    "p": "/ˈwɪspərə/",
+    "t": "低语者；善于驯服动物的人",
+    "en": "a person who whispers or is skilled at handling animals"
+  },
+  "souring": {
+    "p": "/ˈsaʊərɪŋ/",
+    "t": "变酸；恶化",
+    "en": "the process of becoming sour or worsening"
+  },
+  "ardent": {
+    "p": "/ˈɑːdnt/",
+    "t": "热心的；热情的",
+    "en": "very enthusiastic or passionate"
+  },
+  "predictions": {
+    "p": "/prɪˈdɪkʃnz/",
+    "t": "预测；预言",
+    "en": "statements about what will happen in the future"
+  },
+  "bellwethers": {
+    "p": "/ˈbelweðəz/",
+    "t": "风向标；领头羊",
+    "en": "things or people that indicate future trends"
+  },
+  "underpinnings": {
+    "p": "/ˌʌndəˈpɪnɪŋz/",
+    "t": "基础；支柱",
+    "en": "foundations or supporting structures"
+  },
+  "phenomenal": {
+    "p": "/fəˈnɒmɪnl/",
+    "t": "非凡的；惊人的",
+    "en": "remarkable or extraordinary"
+  },
+  "disposable": {
+    "p": "/dɪˈspəʊzəbl/",
+    "t": "一次性的；可丢弃的",
+    "en": "intended to be thrown away after use"
+  },
+  "barrel": {
+    "p": "/ˈbærəl/",
+    "t": "桶；枪管",
+    "en": "a cylindrical container or the tube of a gun"
+  },
+  "grace": {
+    "p": "/ɡreɪs/",
+    "t": "优雅；恩惠",
+    "en": "elegance of movement or manner; favor"
+  },
+  "hovering": {
+    "p": "/ˈhɒvərɪŋ/",
+    "t": "盘旋；徘徊",
+    "en": "staying in the air in one place or lingering nearby"
+  },
+  "landslide": {
+    "p": "/ˈlændslaɪd/",
+    "t": "山崩；压倒性胜利",
+    "en": "a collapse of earth or an overwhelming election victory"
+  },
+  "fundamentals": {
+    "p": "/ˌfʌndəˈmentlz/",
+    "t": "基本原则；基础",
+    "en": "basic principles or essential facts"
+  },
+  "clickbaiters": {
+    "p": "/ˈklɪkbeɪtəz/",
+    "t": "标题党",
+    "en": "people who create sensational online content to attract clicks"
+  },
+  "grifters": {
+    "p": "/ˈɡrɪftəz/",
+    "t": "骗子",
+    "en": "people who engage in petty swindling or fraud"
+  },
+  "disagreeing": {
+    "p": "/ˌdɪsəˈɡriːɪŋ/",
+    "t": "不同意；有分歧",
+    "en": "having a different opinion; not agreeing"
+  },
+  "turnout": {
+    "p": "/ˈtɜːnaʊt/",
+    "t": "投票人数；出席人数",
+    "en": "the number of people who attend or vote"
+  },
+  "challenger": {
+    "p": "/ˈtʃælɪndʒə/",
+    "t": "挑战者",
+    "en": "a person who competes against a current holder"
   }
 }
