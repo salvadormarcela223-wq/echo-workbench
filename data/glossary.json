@@ -62558,5 +62558,995 @@
     "p": "/təʊˈtæləti/",
     "t": "全部；整体",
     "en": "the whole amount or entirety"
+  },
+  "snoop": {
+    "p": "/snuːp/",
+    "t": "窥探；打听",
+    "en": "to investigate or pry into something secretly"
+  },
+  "cleverly": {
+    "p": "/ˈklevəli/",
+    "t": "巧妙地；聪明地",
+    "en": "in an intelligent or skilful way"
+  },
+  "artworks": {
+    "p": "/ˈɑːtwɜːks/",
+    "t": "艺术品",
+    "en": "works of art, especially paintings or sculptures"
+  },
+  "antiquity": {
+    "p": "/ænˈtɪkwəti/",
+    "t": "古代；古物",
+    "en": "the ancient past, or an object from ancient times"
+  },
+  "busily": {
+    "p": "/ˈbɪzɪli/",
+    "t": "忙碌地",
+    "en": "in a busy, active manner"
+  },
+  "detective": {
+    "p": "/dɪˈtektɪv/",
+    "t": "侦探",
+    "en": "a person who investigates crimes"
+  },
+  "uploaded": {
+    "p": "/ˌʌpˈləʊdɪd/",
+    "t": "上传的；已上传",
+    "en": "transferred data to a computer or network"
+  },
+  "vendors": {
+    "p": "/ˈvendəz/",
+    "t": "卖家；供应商",
+    "en": "people or companies that sell goods"
+  },
+  "fistsized": {
+    "p": "/ˈfɪst saɪzd/",
+    "t": "拳头大小的",
+    "en": "about the size of a fist"
+  },
+  "bronze": {
+    "p": "/brɒnz/",
+    "t": "青铜；青铜制品",
+    "en": "a brown metal made of copper and tin"
+  },
+  "statuettes": {
+    "p": "/ˌstætʃuˈets/",
+    "t": "小雕像",
+    "en": "small statues or figurines"
+  },
+  "patinated": {
+    "p": "/ˈpætɪneɪtɪd/",
+    "t": "有铜锈的；有光泽的",
+    "en": "having a green or brown surface film from age"
+  },
+  "goblets": {
+    "p": "/ˈɡɒbləts/",
+    "t": "高脚杯",
+    "en": "drinking vessels with a stem and base"
+  },
+  "yellowing": {
+    "p": "/ˈjeləʊɪŋ/",
+    "t": "发黄的",
+    "en": "turning yellow, especially with age"
+  },
+  "globes": {
+    "p": "/ɡləʊbz/",
+    "t": "地球仪；球体",
+    "en": "spherical models of the earth or celestial bodies"
+  },
+  "assortment": {
+    "p": "/əˈsɔːtmənt/",
+    "t": "各式各样；混合物",
+    "en": "a varied collection of things"
+  },
+  "snapshots": {
+    "p": "/ˈsnæpʃɒts/",
+    "t": "快照；照片",
+    "en": "informal photographs taken quickly"
+  },
+  "fairskinned": {
+    "p": "/ˌfeəˈskɪnd/",
+    "t": "肤色浅的",
+    "en": "having light-coloured skin"
+  },
+  "aquamarine": {
+    "p": "/ˌækwəməˈriːn/",
+    "t": "海蓝宝石；浅蓝色",
+    "en": "a pale blue-green gemstone or colour"
+  },
+  "halfunravelled": {
+    "p": "/ˌhɑːf ʌnˈrævld/",
+    "t": "半解开的；半拆散的",
+    "en": "partly undone or disentangled"
+  },
+  "parchment": {
+    "p": "/ˈpɑːtʃmənt/",
+    "t": "羊皮纸",
+    "en": "a writing material made from animal skin"
+  },
+  "tailormade": {
+    "p": "/ˌteɪləˈmeɪd/",
+    "t": "量身定制的",
+    "en": "made specially for a particular purpose or person"
+  },
+  "ntelligence": {
+    "p": "/ɪnˈtelɪdʒəns/",
+    "t": "情报；智力",
+    "en": "information gathered, or the ability to learn"
+  },
+  "sharpened": {
+    "p": "/ˈʃɑːpənd/",
+    "t": "磨快的；变敏锐的",
+    "en": "made sharper or more acute"
+  },
+  "craft": {
+    "p": "/krɑːft/",
+    "t": "工艺；手艺；船",
+    "en": "skill in making things, or a boat or aircraft"
+  },
+  "plundered": {
+    "p": "/ˈplʌndəd/",
+    "t": "掠夺的",
+    "en": "stolen goods, especially by force"
+  },
+  "statues": {
+    "p": "/ˈstætʃuːz/",
+    "t": "雕像",
+    "en": "carved or cast figures of people or animals"
+  },
+  "coins": {
+    "p": "/kɔɪnz/",
+    "t": "硬币",
+    "en": "flat pieces of metal used as money"
+  },
+  "medals": {
+    "p": "/ˈmedlz/",
+    "t": "奖章；勋章",
+    "en": "metal discs awarded as honours or prizes"
+  },
+  "stamps": {
+    "p": "/stæmps/",
+    "t": "邮票；印章",
+    "en": "small adhesive labels for postage, or devices for imprinting"
+  },
+  "paving": {
+    "p": "/ˈpeɪvɪŋ/",
+    "t": "铺路材料；铺砌",
+    "en": "material used to form a hard surface on the ground"
+  },
+  "heisters": {
+    "p": "/ˈhaɪstəz/",
+    "t": "抢劫者",
+    "en": "people who commit robberies, especially of banks"
+  },
+  "glossed": {
+    "p": "/ɡlɒst/",
+    "t": "有光泽的；注释的",
+    "en": "given a shine, or provided with explanations"
+  },
+  "shadows": {
+    "p": "/ˈʃædəʊz/",
+    "t": "阴影；暗处",
+    "en": "dark areas cast by objects blocking light"
+  },
+  "looted": {
+    "p": "/ˈluːtɪd/",
+    "t": "被掠夺的",
+    "en": "stolen, especially during war or unrest"
+  },
+  "altars": {
+    "p": "/ˈɔːltəz/",
+    "t": "祭坛",
+    "en": "raised structures used for religious offerings"
+  },
+  "excavated": {
+    "p": "/ˈekskəveɪtɪd/",
+    "t": "挖掘出的",
+    "en": "dug out, especially archaeological sites"
+  },
+  "antique": {
+    "p": "/ænˈtiːk/",
+    "t": "古董；古老的",
+    "en": "an old and valuable object, or belonging to the past"
+  },
+  "auctions": {
+    "p": "/ˈɔːkʃənz/",
+    "t": "拍卖",
+    "en": "public sales where goods go to the highest bidder"
+  },
+  "digitised": {
+    "p": "/ˈdɪdʒɪtaɪzd/",
+    "t": "数字化的",
+    "en": "converted into digital form"
+  },
+  "repository": {
+    "p": "/rɪˈpɒzətri/",
+    "t": "仓库；存放处",
+    "en": "a place where things are stored"
+  },
+  "keywords": {
+    "p": "/ˈkiːwɜːdz/",
+    "t": "关键词",
+    "en": "significant words used for searching or indexing"
+  },
+  "querying": {
+    "p": "/ˈkwɪəriɪŋ/",
+    "t": "查询；询问",
+    "en": "asking questions or searching a database"
+  },
+  "timeconsuming": {
+    "p": "/ˈtaɪm kənsjuːmɪŋ/",
+    "t": "耗时的",
+    "en": "taking a long time to do"
+  },
+  "clumsy": {
+    "p": "/ˈklʌmzi/",
+    "t": "笨拙的",
+    "en": "awkward in movement or handling"
+  },
+  "artefact": {
+    "p": "/ˈɑːtɪfækt/",
+    "t": "人工制品；文物",
+    "en": "an object made by humans, especially of historical interest"
+  },
+  "blowouts": {
+    "p": "/ˈbləʊaʊts/",
+    "t": "爆胎；彻底失败",
+    "en": "sudden tyre bursts, or easy victories"
+  },
+  "recognises": {
+    "p": "/ˈrekəɡnaɪzɪz/",
+    "t": "认出；承认",
+    "en": "identifies or acknowledges"
+  },
+  "polices": {
+    "p": "/pəˈliːsɪz/",
+    "t": "监管；巡查",
+    "en": "enforces rules or maintains order in"
+  },
+  "searchandcomparison": {
+    "p": "/ˈsɜːtʃ ənd kəmˈpærɪsn/",
+    "t": "搜索与比对",
+    "en": "the process of searching and comparing"
+  },
+  "conceived": {
+    "p": "/kənˈsiːvd/",
+    "t": "构思的；设想的",
+    "en": "formed an idea or plan in the mind"
+  },
+  "fingerprints": {
+    "p": "/ˈfɪŋɡəprɪnts/",
+    "t": "指纹",
+    "en": "impressions made by the ridges of fingers"
+  },
+  "pairing": {
+    "p": "/ˈpeərɪŋ/",
+    "t": "配对",
+    "en": "the act of putting two things together"
+  },
+  "shades": {
+    "p": "/ʃeɪdz/",
+    "t": "色调；阴影",
+    "en": "varieties of colour, or areas of darkness"
+  },
+  "colour": {
+    "p": "/ˈkʌlə/",
+    "t": "颜色",
+    "en": "the property of reflecting light of a particular wavelength"
+  },
+  "silhouettes": {
+    "p": "/ˌsɪluˈets/",
+    "t": "剪影；轮廓",
+    "en": "dark outlines of objects against a lighter background"
+  },
+  "rearranged": {
+    "p": "/ˌriːəˈreɪndʒd/",
+    "t": "重新排列的",
+    "en": "put into a different order or position"
+  },
+  "altarpieces": {
+    "p": "/ˈɔːltəpiːsɪz/",
+    "t": "祭坛画",
+    "en": "paintings or carvings placed above an altar"
+  },
+  "slivers": {
+    "p": "/ˈslɪvəz/",
+    "t": "碎片；薄片",
+    "en": "thin, narrow pieces or fragments"
+  },
+  "tweaked": {
+    "p": "/twiːkt/",
+    "t": "微调的",
+    "en": "adjusted slightly"
+  },
+  "ystery": {
+    "p": "/ˈmɪstəri/",
+    "t": "谜；神秘",
+    "en": "something unexplained or secret"
+  },
+  "surfaced": {
+    "p": "/ˈsɜːfɪst/",
+    "t": "浮现；出现",
+    "en": "came to light or appeared"
+  },
+  "clutches": {
+    "p": "/ˈklʌtʃɪz/",
+    "t": "紧抓；离合器",
+    "en": "grips tightly, or mechanisms for engaging gears"
+  },
+  "manner": {
+    "p": "/ˈmænə/",
+    "t": "方式；举止",
+    "en": "a way of doing something, or behaviour"
+  },
+  "disguise": {
+    "p": "/dɪsˈɡaɪz/",
+    "t": "伪装",
+    "en": "a change of appearance to hide one's identity"
+  },
+  "fetched": {
+    "p": "/fetʃt/",
+    "t": "取来；售得",
+    "en": "went to get something, or sold for a price"
+  },
+  "resembled": {
+    "p": "/rɪˈzembld/",
+    "t": "类似；像",
+    "en": "looked like or was similar to"
+  },
+  "erased": {
+    "p": "/ɪˈreɪzd/",
+    "t": "擦除的",
+    "en": "removed or rubbed out completely"
+  },
+  "pagan": {
+    "p": "/ˈpeɪɡən/",
+    "t": "异教的；异教徒",
+    "en": "relating to polytheistic religions, or a follower of one"
+  },
+  "marketplaces": {
+    "p": "/ˈmɑːkɪtpleɪsɪz/",
+    "t": "市场",
+    "en": "places where goods are bought and sold"
+  },
+  "ecommerce": {
+    "p": "/ˈiːkɒmɜːs/",
+    "t": "电子商务",
+    "en": "buying and selling conducted online"
+  },
+  "continuously": {
+    "p": "/kənˈtɪnjuəsli/",
+    "t": "连续不断地",
+    "en": "without stopping or interruption"
+  },
+  "crawl": {
+    "p": "/krɔːl/",
+    "t": "爬行；缓慢移动",
+    "en": "to move slowly on hands and knees, or move very slowly"
+  },
+  "catalogues": {
+    "p": "/ˈkætəlɒɡz/",
+    "t": "目录",
+    "en": "lists of items arranged systematically"
+  },
+  "stolenart": {
+    "p": "/ˈstəʊlən ɑːt/",
+    "t": "被盗艺术品",
+    "en": "art that has been stolen"
+  },
+  "gallery": {
+    "p": "/ˈɡæləri/",
+    "t": "画廊；美术馆",
+    "en": "a room or building for displaying art"
+  },
+  "robbery": {
+    "p": "/ˈrɒbəri/",
+    "t": "抢劫",
+    "en": "the crime of taking property by force"
+  },
+  "backrooms": {
+    "p": "/ˈbækruːmz/",
+    "t": "后室；密室",
+    "en": "rooms behind the main area, often private"
+  },
+  "trawls": {
+    "p": "/trɔːlz/",
+    "t": "搜罗；拖网",
+    "en": "searches thoroughly, or fishes with a net"
+  },
+  "auction": {
+    "p": "/ˈɔːkʃən/",
+    "t": "拍卖",
+    "en": "a public sale to the highest bidder"
+  },
+  "bullet": {
+    "p": "/ˈbʊlɪt/",
+    "t": "子弹",
+    "en": "a projectile fired from a gun"
+  },
+  "authentication": {
+    "p": "/ɔːˌθentɪˈkeɪʃən/",
+    "t": "鉴定；认证",
+    "en": "the process of proving something is genuine"
+  },
+  "thief": {
+    "p": "/θiːf/",
+    "t": "小偷",
+    "en": "a person who steals"
+  },
+  "multiplier": {
+    "p": "/ˈmʌltɪplaɪə/",
+    "t": "乘数；倍数",
+    "en": "a number by which another is multiplied"
+  },
+  "consulting": {
+    "p": "/kənˈsʌltɪŋ/",
+    "t": "咨询；查阅",
+    "en": "seeking advice or information from"
+  },
+  "lowquality": {
+    "p": "/ˌləʊ ˈkwɒləti/",
+    "t": "低质量的",
+    "en": "of poor standard or condition"
+  },
+  "artwork": {
+    "p": "/ˈɑːtwɜːk/",
+    "t": "艺术品",
+    "en": "a work of art, especially a painting"
+  },
+  "authorised": {
+    "p": "/ˈɔːθəraɪzd/",
+    "t": "授权的；经批准的",
+    "en": "given official permission"
+  },
+  "authenticity": {
+    "p": "/ˌɔːθenˈtɪsəti/",
+    "t": "真实性",
+    "en": "the quality of being genuine"
+  },
+  "hangs": {
+    "p": "/hæŋz/",
+    "t": "悬挂",
+    "en": "suspends or is suspended from above"
+  },
+  "disciple": {
+    "p": "/dɪˈsaɪpl/",
+    "t": "门徒；追随者",
+    "en": "a follower or student of a teacher"
+  },
+  "authenticated": {
+    "p": "/ɔːˈθentɪkeɪtɪd/",
+    "t": "经鉴定的；真实的",
+    "en": "proven to be genuine"
+  },
+  "conserved": {
+    "p": "/kənˈsɜːvd/",
+    "t": "保存的；保护的",
+    "en": "preserved from damage or decay"
+  },
+  "masterpiece": {
+    "p": "/ˈmɑːstəpiːs/",
+    "t": "杰作",
+    "en": "a work of outstanding skill or artistry"
+  },
+  "disciples": {
+    "p": "/dɪˈsaɪplz/",
+    "t": "门徒",
+    "en": "followers or students of a teacher"
+  },
+  "forgery": {
+    "p": "/ˈfɔːdʒəri/",
+    "t": "伪造品",
+    "en": "a fraudulent copy of an object or document"
+  },
+  "abounds": {
+    "p": "/əˈbaʊndz/",
+    "t": "大量存在",
+    "en": "exists in large numbers"
+  },
+  "duplicates": {
+    "p": "/ˈdjuːplɪkeɪts/",
+    "t": "复制品",
+    "en": "exact copies of something"
+  },
+  "imperceptible": {
+    "p": "/ˌɪmpəˈseptəbl/",
+    "t": "难以察觉的",
+    "en": "too slight to be noticed"
+  },
+  "brushstroke": {
+    "p": "/ˈbrʌʃstrəʊk/",
+    "t": "笔触",
+    "en": "a mark made by a brush in painting"
+  },
+  "authenticate": {
+    "p": "/ɔːˈθentɪkeɪt/",
+    "t": "鉴定；证实",
+    "en": "to prove something is genuine"
+  },
+  "fabricate": {
+    "p": "/ˈfæbrɪkeɪt/",
+    "t": "伪造；制造",
+    "en": "to invent false information or make something"
+  },
+  "realistic": {
+    "p": "/ˌrɪəˈlɪstɪk/",
+    "t": "逼真的；现实的",
+    "en": "resembling real life, or showing good judgement"
+  },
+  "watchlist": {
+    "p": "/ˈwɒtʃlɪst/",
+    "t": "监视名单",
+    "en": "a list of people or items to be monitored"
+  },
+  "icons": {
+    "p": "/ˈaɪkɒnz/",
+    "t": "图标；偶像",
+    "en": "symbols on screens, or revered figures"
+  },
+  "tiles": {
+    "p": "/taɪlz/",
+    "t": "瓷砖；瓦片",
+    "en": "flat pieces used for covering surfaces"
+  },
+  "imagerecognition": {
+    "p": "/ˈɪmɪdʒ rɪˌkɒɡnɪʃən/",
+    "t": "图像识别",
+    "en": "the automated identification of objects in images"
+  },
+  "blurry": {
+    "p": "/ˈblɜːri/",
+    "t": "模糊的",
+    "en": "unclear or out of focus"
+  },
+  "anted": {
+    "p": "/ˈwɒntɪd/",
+    "t": "被通缉的；需要的",
+    "en": "sought by police, or desired"
+  },
+  "thefts": {
+    "p": "/θefts/",
+    "t": "盗窃",
+    "en": "acts of stealing"
+  },
+  "thieves": {
+    "p": "/θiːvz/",
+    "t": "小偷们",
+    "en": "people who steal"
+  },
+  "collector": {
+    "p": "/kəˈlektə/",
+    "t": "收藏家",
+    "en": "a person who gathers items of interest"
+  },
+  "freeport": {
+    "p": "/ˈfriːpɔːt/",
+    "t": "自由港",
+    "en": "a port where goods are handled without customs duty"
+  },
+  "ruined": {
+    "p": "/ˈruːɪnd/",
+    "t": "毁坏的",
+    "en": "destroyed or in a state of decay"
+  },
+  "spying": {
+    "p": "/ˈspaɪɪŋ/",
+    "t": "间谍活动；窥探",
+    "en": "secretly watching or gathering information"
+  },
+  "chalked": {
+    "p": "/tʃɔːkt/",
+    "t": "用粉笔写的；记下的",
+    "en": "written with chalk, or recorded"
+  },
+  "devalue": {
+    "p": "/ˌdiːˈvæljuː/",
+    "t": "贬值；降低价值",
+    "en": "to reduce the worth or value of something"
+  },
+  "antiquities": {
+    "p": "/ænˈtɪkwətiz/",
+    "t": "古物；文物",
+    "en": "ancient objects of historical value"
+  },
+  "reseller": {
+    "p": "/ˌriːˈselə/",
+    "t": "转售商",
+    "en": "a person or business that sells goods again"
+  },
+  "inheriting": {
+    "p": "/ɪnˈherɪtɪŋ/",
+    "t": "继承",
+    "en": "receiving property or traits from a predecessor"
+  },
+  "splashy": {
+    "p": "/ˈsplæʃi/",
+    "t": "惹眼的；铺张的",
+    "en": "showy or attracting attention"
+  },
+  "multimilliondollar": {
+    "p": "/ˌmʌltiˈmɪljən dɒlə/",
+    "t": "数百万美元的",
+    "en": "worth several million dollars"
+  },
+  "artheist": {
+    "p": "/ˈɑːt haɪst/",
+    "t": "艺术品盗窃",
+    "en": "the theft of works of art"
+  },
+  "lacks": {
+    "p": "/læks/",
+    "t": "缺乏",
+    "en": "is without or has insufficient of"
+  },
+  "sentimental": {
+    "p": "/ˌsentɪˈmentl/",
+    "t": "有情感的；多愁善感的",
+    "en": "relating to feelings, often nostalgic"
+  },
+  "elated": {
+    "p": "/iˈleɪtɪd/",
+    "t": "兴高采烈的",
+    "en": "extremely happy and excited"
+  },
+  "imperil": {
+    "p": "/ɪmˈperəl/",
+    "t": "危及，使陷于危险",
+    "en": "to put at risk of being harmed or destroyed"
+  },
+  "grudge": {
+    "p": "/ɡrʌdʒ/",
+    "t": "怨恨，不满",
+    "en": "a persistent feeling of resentment or ill will"
+  },
+  "angrily": {
+    "p": "/ˈæŋɡrəli/",
+    "t": "愤怒地",
+    "en": "in a manner showing strong displeasure"
+  },
+  "relitigating": {
+    "p": "/ˌriːˈlɪtɪɡeɪtɪŋ/",
+    "t": "重新争论，重提诉讼",
+    "en": "arguing or contesting a matter again"
+  },
+  "nearunanimously": {
+    "p": "/ˌnɪər juːˈnænɪməsli/",
+    "t": "几乎一致地",
+    "en": "with almost complete agreement"
+  },
+  "populist": {
+    "p": "/ˈpɒpjəlɪst/",
+    "t": "民粹主义者；民粹的",
+    "en": "a person claiming to represent ordinary people against elites"
+  },
+  "faction": {
+    "p": "/ˈfækʃn/",
+    "t": "派系，小集团",
+    "en": "a small organized dissenting group within a larger one"
+  },
+  "centrists": {
+    "p": "/ˈsentrɪsts/",
+    "t": "中间派人士",
+    "en": "people holding moderate political views"
+  },
+  "vocal": {
+    "p": "/ˈvəʊkl/",
+    "t": "直言不讳的，发声的",
+    "en": "expressing opinions freely and loudly"
+  },
+  "culmination": {
+    "p": "/ˌkʌlmɪˈneɪʃn/",
+    "t": "顶点，高潮",
+    "en": "the highest or final point of something"
+  },
+  "consolidate": {
+    "p": "/kənˈsɒlɪdeɪt/",
+    "t": "巩固，合并",
+    "en": "to make stronger or combine into one"
+  },
+  "enthusiastically": {
+    "p": "/ɪnˌθjuːziˈæstɪkli/",
+    "t": "热情地",
+    "en": "with eager and lively interest"
+  },
+  "hardfought": {
+    "p": "/ˌhɑːdˈfɔːt/",
+    "t": "艰苦争取的",
+    "en": "achieved only after great struggle"
+  },
+  "pledged": {
+    "p": "/pledʒd/",
+    "t": "承诺，保证",
+    "en": "promised solemnly to do something"
+  },
+  "criticize": {
+    "p": "/ˈkrɪtɪsaɪz/",
+    "t": "批评，指责",
+    "en": "to express disapproval of someone or something"
+  },
+  "reiterated": {
+    "p": "/riːˈɪtəreɪtɪd/",
+    "t": "重申",
+    "en": "said something again for emphasis"
+  },
+  "stunningly": {
+    "p": "/ˈstʌnɪŋli/",
+    "t": "惊人地",
+    "en": "in a remarkably surprising manner"
+  },
+  "turnabout": {
+    "p": "/ˈtɜːnəbaʊt/",
+    "t": "转变，逆转",
+    "en": "a complete change of policy or opinion"
+  },
+  "dayslong": {
+    "p": "/ˈdeɪzlɒŋ/",
+    "t": "持续数日的",
+    "en": "lasting for several days"
+  },
+  "rivals": {
+    "p": "/ˈraɪvlz/",
+    "t": "对手，竞争者",
+    "en": "people competing for the same goal"
+  },
+  "unity": {
+    "p": "/ˈjuːnəti/",
+    "t": "团结，统一",
+    "en": "the state of being joined as a whole"
+  },
+  "soured": {
+    "p": "/ˈsaʊəd/",
+    "t": "变糟的，恶化的",
+    "en": "became unpleasant or deteriorated"
+  },
+  "denounce": {
+    "p": "/dɪˈnaʊns/",
+    "t": "谴责，公开指责",
+    "en": "to publicly condemn as wrong"
+  },
+  "kindly": {
+    "p": "/ˈkaɪndli/",
+    "t": "友善地；亲切的",
+    "en": "in a caring and gentle manner"
+  },
+  "praised": {
+    "p": "/preɪzd/",
+    "t": "赞扬",
+    "en": "expressed approval or admiration for"
+  },
+  "mentioning": {
+    "p": "/ˈmenʃnɪŋ/",
+    "t": "提及",
+    "en": "referring to something briefly"
+  },
+  "vociferously": {
+    "p": "/vəˈsɪfərəsli/",
+    "t": "大声疾呼地",
+    "en": "in a loud and forceful manner"
+  },
+  "resigned": {
+    "p": "/rɪˈzaɪnd/",
+    "t": "辞职的；顺从的",
+    "en": "having formally given up a position; accepting reluctantly"
+  },
+  "rejoin": {
+    "p": "/ˌriːˈdʒɔɪn/",
+    "t": "重新加入；回答",
+    "en": "to join again or reply"
+  },
+  "despicable": {
+    "p": "/dɪˈspɪkəbl/",
+    "t": "可鄙的，卑劣的",
+    "en": "deserving hatred and contempt"
+  },
+  "betrayal": {
+    "p": "/bɪˈtreɪəl/",
+    "t": "背叛",
+    "en": "the act of being disloyal to someone"
+  },
+  "fianc": {
+    "p": "/fiˈɒnseɪ/",
+    "t": "未婚夫",
+    "en": "a man engaged to be married"
+  },
+  "donor": {
+    "p": "/ˈdəʊnə(r)/",
+    "t": "捐赠者",
+    "en": "a person who gives money or goods"
+  },
+  "fissure": {
+    "p": "/ˈfɪʃə(r)/",
+    "t": "裂缝，分歧",
+    "en": "a split or division, especially in a group"
+  },
+  "redistricted": {
+    "p": "/ˌriːˈdɪstrɪktɪd/",
+    "t": "重新划分选区的",
+    "en": "divided into new political districts"
+  },
+  "biggestever": {
+    "p": "/ˈbɪɡɪst ˈevə(r)/",
+    "t": "有史以来最大的",
+    "en": "the largest that has ever existed"
+  },
+  "hugged": {
+    "p": "/hʌɡd/",
+    "t": "拥抱",
+    "en": "embraced closely with the arms"
+  },
+  "bigtent": {
+    "p": "/ˌbɪɡˈtent/",
+    "t": "包容广泛的",
+    "en": "welcoming a wide range of views or members"
+  },
+  "nasty": {
+    "p": "/ˈnɑːsti/",
+    "t": "恶劣的，令人不快的",
+    "en": "very unpleasant or disagreeable"
+  },
+  "disunity": {
+    "p": "/dɪsˈjuːnəti/",
+    "t": "不团结，分裂",
+    "en": "lack of unity or agreement"
+  },
+  "uninterested": {
+    "p": "/ʌnˈɪntrəstɪd/",
+    "t": "不感兴趣的",
+    "en": "not interested; indifferent"
+  },
+  "doubts": {
+    "p": "/daʊts/",
+    "t": "疑虑，怀疑",
+    "en": "feelings of uncertainty"
+  },
+  "reignited": {
+    "p": "/ˌriːɪɡˈnaɪtɪd/",
+    "t": "重新点燃，再度引发",
+    "en": "caused to start burning or become intense again"
+  },
+  "proelsayed": {
+    "p": "/ˌprəʊ ɛlˈsaɪd/",
+    "t": "支持埃尔赛义德的",
+    "en": "in favor of El-Sayed"
+  },
+  "prime": {
+    "p": "/praɪm/",
+    "t": "首要的；最好的",
+    "en": "of first importance or best quality"
+  },
+  "minister": {
+    "p": "/ˈmɪnɪstə(r)/",
+    "t": "部长，大臣",
+    "en": "a senior government official"
+  },
+  "commentator": {
+    "p": "/ˈkɒmənteɪtə(r)/",
+    "t": "评论员",
+    "en": "a person who comments on events or issues"
+  },
+  "uncle": {
+    "p": "/ˈʌŋkl/",
+    "t": "叔叔，舅舅",
+    "en": "the brother of one's parent"
+  },
+  "unambiguous": {
+    "p": "/ˌʌnæmˈbɪɡjuəs/",
+    "t": "明确的，不含糊的",
+    "en": "clear and having only one meaning"
+  },
+  "disavows": {
+    "p": "/ˌdɪsəˈvaʊz/",
+    "t": "否认，不承认",
+    "en": "denies any responsibility for or connection with"
+  },
+  "emissaries": {
+    "p": "/ˈemɪsəriz/",
+    "t": "使者，特使",
+    "en": "people sent on a special mission"
+  },
+  "ultimatum": {
+    "p": "/ˌʌltɪˈmeɪtəm/",
+    "t": "最后通牒",
+    "en": "a final demand with a threat of consequences"
+  },
+  "leaked": {
+    "p": "/liːkt/",
+    "t": "泄露的",
+    "en": "revealed unofficially to the public"
+  },
+  "litigating": {
+    "p": "/ˈlɪtɪɡeɪtɪŋ/",
+    "t": "提起诉讼，打官司",
+    "en": "taking legal action in court"
+  },
+  "contents": {
+    "p": "/ˈkɒntents/",
+    "t": "内容，目录",
+    "en": "the things contained in something"
+  },
+  "relevance": {
+    "p": "/ˈreləvəns/",
+    "t": "相关性，重要性",
+    "en": "the quality of being closely connected or applicable"
+  },
+  "ostracized": {
+    "p": "/ˈɒstrəsaɪzd/",
+    "t": "排斥，排挤",
+    "en": "excluded from a group or society"
+  },
+  "aides": {
+    "p": "/eɪdz/",
+    "t": "助手，助理",
+    "en": "assistants to a person in authority"
+  },
+  "heartbroken": {
+    "p": "/ˈhɑːtbrəʊkən/",
+    "t": "心碎的，极度伤心的",
+    "en": "suffering from intense grief or disappointment"
+  },
+  "roommates": {
+    "p": "/ˈruːmmeɪts/",
+    "t": "室友",
+    "en": "people who share a room or residence"
+  },
+  "betrayed": {
+    "p": "/bɪˈtreɪd/",
+    "t": "背叛",
+    "en": "was disloyal to or deceived"
+  },
+  "jihadist": {
+    "p": "/dʒɪˈhɑːdɪst/",
+    "t": "圣战分子",
+    "en": "a militant advocating violent holy war"
+  },
+  "revulsion": {
+    "p": "/rɪˈvʌlʃn/",
+    "t": "厌恶，反感",
+    "en": "a strong feeling of disgust"
+  },
+  "overthetop": {
+    "p": "/ˌəʊvə ðə ˈtɒp/",
+    "t": "过分的，夸张的",
+    "en": "excessive or exaggerated"
+  },
+  "condemnations": {
+    "p": "/ˌkɒndemˈneɪʃnz/",
+    "t": "谴责",
+    "en": "expressions of strong disapproval"
+  },
+  "factional": {
+    "p": "/ˈfækʃənl/",
+    "t": "派系的，小集团的",
+    "en": "relating to a faction within a group"
+  },
+  "pseudorepublicans": {
+    "p": "/ˌsjuːdəʊ rɪˈpʌblɪkənz/",
+    "t": "假共和党人",
+    "en": "people falsely claiming to be Republicans"
+  },
+  "empower": {
+    "p": "/ɪmˈpaʊə(r)/",
+    "t": "赋予权力，使有能力",
+    "en": "to give power or authority to"
+  },
+  "nominated": {
+    "p": "/ˈnɒmɪneɪtɪd/",
+    "t": "提名的",
+    "en": "formally proposed as a candidate"
+  },
+  "moderates": {
+    "p": "/ˈmɒdərəts/",
+    "t": "温和派",
+    "en": "people with moderate, not extreme, views"
+  },
+  "underperformance": {
+    "p": "/ˌʌndəpəˈfɔːməns/",
+    "t": "表现不佳",
+    "en": "failure to perform as well as expected"
+  },
+  "intraparty": {
+    "p": "/ˌɪntrəˈpɑːti/",
+    "t": "党内的",
+    "en": "occurring within a single political party"
   }
 }
