@@ -216,6 +216,7 @@ const MIN_SUMMARY = 20;               // 摘要过短(<20字)视为标题党代�
 
 export function gateNewItem(item, group, opts = {}) {
   const now = opts.now || new Date();
+  const MAX_AGE = opts.maxAgeDays ?? MAX_AGE_DAYS;
   const title = (item.title || '').toString().trim();
   const summary = (item.summary || '').toString().trim();
   const date = item.date || item.pubDate;
@@ -225,7 +226,7 @@ export function gateNewItem(item, group, opts = {}) {
     if (!isNaN(d)) {
       if (d < PLATFORM_FLOOR) return { ok: false, reason: `发布日 ${date} 早于平台首条(${PLATFORM_FLOOR.toISOString().slice(0, 10)})，过期` };
       const ageDays = (now - d) / 864e5;
-      if (ageDays > MAX_AGE_DAYS) return { ok: false, reason: `发布日 ${date} 已超 ${MAX_AGE_DAYS} 天(${ageDays.toFixed(1)}天)，拒收` };
+      if (ageDays > MAX_AGE) return { ok: false, reason: `发布日 ${date} 已超 ${MAX_AGE} 天(${ageDays.toFixed(1)}天)，拒收` };
     }
   }
   // 2) 非标题党：摘要为空 / 摘要=标题 / 摘要过短

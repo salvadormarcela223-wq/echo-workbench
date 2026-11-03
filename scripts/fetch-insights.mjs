@@ -225,7 +225,7 @@ function parseRSS(xml) {
 async function parsePubMed(s) {
   const term = s.query || '("sensory" OR "chemosensory" OR "taste" OR "flavor" OR "aroma" OR "texture" OR "mouthfeel" OR "olfactory") AND ("food" OR "beverage" OR "nutrition" OR "diet")';
   const retmax = s.retmax || 25;
-  const esUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(term)}&retmode=json&retmax=${retmax}&sort=date`;
+  const esUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(term)}&retmode=json&retmax=${retmax}&sort=date&datetype=pdat&mindate=2026/08/01&maxdate=2030`;
   let ids = [];
   try { ids = (JSON.parse(await getText(esUrl))?.esearchresult?.idlist) || []; }
   catch (e) { console.log(`  [pubmed] esearch 失败: ${e.message}`); return []; }
@@ -296,6 +296,22 @@ async function deriveBody(link, maxLen = 2000) {
       if (t.length >= 30) { parts.push(t); if (parts.join(' ').length >= maxLen) break; }
     }
     return parts.join(' ').slice(0, maxLen);
+  } catch (e) { return ''; }
+}
+
+// 浏览器源回退：文章页被反爬(403)导致 deriveSummary 拿不到摘要时，
+// 从「已成功渲染的列表页 HTML」中抽取该链接附近的文本片段作为摘要，避免整本期刊因缺摘要被清空。
+function snippetNearLink(html, link) {
+  try {
+    let idx = html.indexOf(link);
+    if (idx < 0) {
+      const seg = new URL(link).pathname.replace(/\/+$/, '').split('/').pop();
+      if (!seg) return '';
+      idx = html.indexOf(seg);
+      if (idx < 0) return '';
+    }
+    const win = html.slice(idx, idx + 700).replace(/<[^>]+>/g, ' ');
+    return clean(win).replace(/\s+/g, ' ').slice(0, 220).trim();
   } catch (e) { return ''; }
 }
 
@@ -471,7 +487,8 @@ function readFeed() {
             if (/\/topics\/|\/solutions\//.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> 栏目/方案聚合页，非文章`); continue; }
             // 单段路径 = 栏目/导航页（如 Innova /enhanced-by-ai/、PackagingInsights /policy-and-regulation.html），文章页通常 ≥2 段
             const _up = new URL(itLink, s.url).pathname.replace(/\/+$/, '');
-            if (_up.split('/').filter(Boolean).length === 1) { rejected.push(`[${grp}] ${it.title} -> 单段栏目页，非文章`); continue; }
+            // PubMed 文章链接为单段 ID（/pubmed/42970311/）属正常文章页，不按栏目页拦截
+            if (_up.split('/').filter(Boolean).length === 1 && !/pubmed\.ncbi\.nlm\.nih\.gov/.test(itLink)) { rejected.push(`[${grp}] ${it.title} -> 单段栏目页，非文章`); continue; }
             // Ipsos 栏目/主题聚合页防护（修不删·防复发）：Ipsos RSS 把 /en-us/future/<topic> 这类栏目页当文章吐出，
             // 真实文章为 /en-us/<slug>（locale 之后仅 1 段）；locale 之后 ≥2 段或命中 hub 即视为栏目页，非文章
             if (s.name === 'Ipsos') {
@@ -483,14 +500,21 @@ function readFeed() {
             if (isTobacco(it)) { rejected.push(`[${grp}] ${it.title} -> 含烟草/电子烟内容，不归入专业提升（应属行业资讯）`); continue; }
             const lq = linkQuality(itLink);
             if (!lq.ok) { rejected.push(`[${grp}] ${it.title} -> ${lq.reason}`); continue; }
-            const summary = await deriveSummary(itLink, it.desc);
+            let summary = await deriveSummary(itLink, it.desc);
+            // 浏览器源回退：文章页被反爬导致摘要为空时，从已渲染列表页 HTML 抽链接附近片段
+            if (!summary && s.type === 'browser') summary = snippetNearLink(txt, itLink);
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
+            // 学术感官源(sensoryFilter:false)放宽新鲜度：期刊论文非每日发布，3 天会清空整栏；其余仍 3 天
+            const isAcademic = s.sensory && s.sensoryFilter === false;
+            const maxAge = isAcademic ? 45 : 3;
             let pubDate = null;
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(itLink); } catch (e) { } }
+            // 学术源无解析日期时退回抓取日（来自期刊当前列表，确为近期），避免整本期刊因缺日期被清空
+            if (!pubDate && isAcademic) pubDate = new Date();
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
             // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党才入池
-            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, {});
+            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, { maxAgeDays: maxAge });
             if (!gres.ok) { rejected.push(`[${grp}] ${it.title} -> ${gres.reason}`); continue; }
             // 抓正文（零 token）：用于厚度门槛与前端展示
             const body = await deriveBody(itLink);
