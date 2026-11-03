@@ -63788,5 +63788,780 @@
     "p": "/ˈtʃælɪndʒə/",
     "t": "挑战者",
     "en": "a person who competes against a current holder"
+  },
+  "mutilation": {
+    "p": "/ˌmjuːtɪˈleɪʃn/",
+    "t": "残害；毁损",
+    "en": "the act of severely damaging or disfiguring a body or thing"
+  },
+  "livers": {
+    "p": "/ˈlɪvəz/",
+    "t": "肝脏（复数）",
+    "en": "plural of liver, the large organ that filters blood"
+  },
+  "extracted": {
+    "p": "/ɪkˈstræktɪd/",
+    "t": "提取的；拔出的",
+    "en": "removed or taken out, especially by force or effort"
+  },
+  "culprit": {
+    "p": "/ˈkʌlprɪt/",
+    "t": "罪犯；肇事者",
+    "en": "a person or thing responsible for a wrong or problem"
+  },
+  "carcass": {
+    "p": "/ˈkɑːkəs/",
+    "t": "尸体；残骸",
+    "en": "the dead body of an animal"
+  },
+  "weighed": {
+    "p": "/weɪd/",
+    "t": "称重；权衡（过去式）",
+    "en": "past tense of weigh; measured mass or considered carefully"
+  },
+  "gaping": {
+    "p": "/ˈɡeɪpɪŋ/",
+    "t": "张开的；裂开的",
+    "en": "wide open, as a hole or wound"
+  },
+  "underside": {
+    "p": "/ˈʌndəsaɪd/",
+    "t": "底面；下侧",
+    "en": "the lower or bottom surface of something"
+  },
+  "necropsy": {
+    "p": "/ˈnekrɒpsi/",
+    "t": "尸检（动物）",
+    "en": "an autopsy performed on an animal"
+  },
+  "carcasses": {
+    "p": "/ˈkɑːkəsɪz/",
+    "t": "尸体（复数）",
+    "en": "plural of carcass; dead bodies of animals"
+  },
+  "distinctive": {
+    "p": "/dɪˈstɪŋktɪv/",
+    "t": "独特的；有特色的",
+    "en": "characteristic and easily distinguishable"
+  },
+  "ramifications": {
+    "p": "/ˌræmɪfɪˈkeɪʃnz/",
+    "t": "后果；分支",
+    "en": "complex consequences or branches of an action"
+  },
+  "necropsies": {
+    "p": "/ˈnekrɒpsiz/",
+    "t": "动物尸检（复数）",
+    "en": "plural of necropsy; autopsies on animals"
+  },
+  "culprits": {
+    "p": "/ˈkʌlprɪts/",
+    "t": "罪犯（复数）",
+    "en": "plural of culprit; those responsible for wrongdoing"
+  },
+  "orcas": {
+    "p": "/ˈɔːkəz/",
+    "t": "虎鲸（复数）",
+    "en": "plural of orca; killer whales"
+  },
+  "brothers": {
+    "p": "/ˈbrʌðəz/",
+    "t": "兄弟（复数）",
+    "en": "plural of brother; male siblings"
+  },
+  "christened": {
+    "p": "/ˈkrɪsnd/",
+    "t": "命名；施洗",
+    "en": "named at baptism or formally given a name"
+  },
+  "dorsal": {
+    "p": "/ˈdɔːsl/",
+    "t": "背部的",
+    "en": "relating to the back or upper side"
+  },
+  "broadnose": {
+    "p": "/ˈbrɔːdnəʊz/",
+    "t": "宽鼻的",
+    "en": "having a broad nose, as in broadnose sevengill shark"
+  },
+  "sevengill": {
+    "p": "/ˈsevnɡɪl/",
+    "t": "七鳃的",
+    "en": "having seven gill slits, as a shark species"
+  },
+  "stout": {
+    "p": "/staʊt/",
+    "t": "粗壮的；结实的",
+    "en": "thick and strong in build"
+  },
+  "prehistoriclooking": {
+    "p": "/ˌpriːhɪˈstɒrɪk ˈlʊkɪŋ/",
+    "t": "外表像史前的",
+    "en": "appearing as if from prehistoric times"
+  },
+  "coastline": {
+    "p": "/ˈkəʊstlaɪn/",
+    "t": "海岸线",
+    "en": "the outline of a coast"
+  },
+  "drivethrough": {
+    "p": "/ˈdraɪvθruː/",
+    "t": "免下车服务处",
+    "en": "a facility where one can be served without leaving a vehicle"
+  },
+  "patrolled": {
+    "p": "/pəˈtrəʊld/",
+    "t": "巡逻（过去式）",
+    "en": "past tense of patrol; moved around to guard or monitor"
+  },
+  "suspicions": {
+    "p": "/səˈspɪʃnz/",
+    "t": "怀疑（复数）",
+    "en": "plural of suspicion; feelings that something is wrong"
+  },
+  "piecing": {
+    "p": "/ˈpiːsɪŋ/",
+    "t": "拼凑；组合",
+    "en": "joining parts together to form a whole"
+  },
+  "hobbyist": {
+    "p": "/ˈhɒbiɪst/",
+    "t": "业余爱好者",
+    "en": "a person who pursues an activity as a hobby"
+  },
+  "filmed": {
+    "p": "/fɪlmd/",
+    "t": "拍摄（过去式）",
+    "en": "past tense of film; recorded on camera"
+  },
+  "snout": {
+    "p": "/snaʊt/",
+    "t": "口鼻部；吻部",
+    "en": "the projecting nose and mouth of an animal"
+  },
+  "pectoral": {
+    "p": "/ˈpektərəl/",
+    "t": "胸部的；胸鳍",
+    "en": "relating to the chest or breast"
+  },
+  "prowess": {
+    "p": "/ˈpraʊəs/",
+    "t": "高超技能；英勇",
+    "en": "great skill or bravery"
+  },
+  "lengthy": {
+    "p": "/ˈleŋθi/",
+    "t": "漫长的；冗长的",
+    "en": "long in duration or extent"
+  },
+  "migrations": {
+    "p": "/maɪˈɡreɪʃnz/",
+    "t": "迁徙（复数）",
+    "en": "plural of migration; movements to new areas"
+  },
+  "buoyancy": {
+    "p": "/ˈbɔɪənsi/",
+    "t": "浮力；乐观",
+    "en": "the ability to float or rise"
+  },
+  "highenergy": {
+    "p": "/ˌhaɪ ˈenədʒi/",
+    "t": "高能量的",
+    "en": "involving or requiring a lot of energy"
+  },
+  "tongues": {
+    "p": "/tʌŋz/",
+    "t": "舌头（复数）",
+    "en": "plural of tongue; muscular organs in the mouth"
+  },
+  "baleen": {
+    "p": "/bəˈliːn/",
+    "t": "鲸须",
+    "en": "keratinous plates in whale mouths for filtering food"
+  },
+  "nutritionally": {
+    "p": "/njuˈtrɪʃənəli/",
+    "t": "在营养上",
+    "en": "in terms of nutrition"
+  },
+  "familydriven": {
+    "p": "/ˈfæməli ˈdrɪvn/",
+    "t": "家庭驱动的",
+    "en": "motivated or organized around family"
+  },
+  "gulls": {
+    "p": "/ɡʌlz/",
+    "t": "海鸥（复数）",
+    "en": "plural of gull; seabirds"
+  },
+  "scavenged": {
+    "p": "/ˈskævɪndʒd/",
+    "t": "觅食腐肉；捡拾",
+    "en": "searched for and ate discarded or dead matter"
+  },
+  "residue": {
+    "p": "/ˈrezɪdjuː/",
+    "t": "残留物",
+    "en": "a small amount left after a process"
+  },
+  "mutilated": {
+    "p": "/ˈmjuːtɪleɪtɪd/",
+    "t": "被残害的",
+    "en": "severely damaged or disfigured"
+  },
+  "ashore": {
+    "p": "/əˈʃɔː/",
+    "t": "在岸上；上岸",
+    "en": "on or to the shore"
+  },
+  "accomplice": {
+    "p": "/əˈkʌmplɪs/",
+    "t": "共犯",
+    "en": "a person who helps another commit a crime"
+  },
+  "filmmaker": {
+    "p": "/ˈfɪlmmeɪkə/",
+    "t": "电影制作人",
+    "en": "a person who directs or produces films"
+  },
+  "zoomed": {
+    "p": "/zuːmd/",
+    "t": "快速移动；拉近镜头",
+    "en": "moved quickly or adjusted a lens to enlarge"
+  },
+  "upside": {
+    "p": "/ˈʌpsaɪd/",
+    "t": "上面；优势",
+    "en": "the upper side or a positive aspect"
+  },
+  "reemerge": {
+    "p": "/ˌriːɪˈmɜːdʒ/",
+    "t": "重新出现",
+    "en": "to come into view again"
+  },
+  "bumping": {
+    "p": "/ˈbʌmpɪŋ/",
+    "t": "碰撞；颠簸",
+    "en": "hitting or knocking against something"
+  },
+  "bleeding": {
+    "p": "/ˈbliːdɪŋ/",
+    "t": "流血",
+    "en": "losing blood"
+  },
+  "induces": {
+    "p": "/ɪnˈdjuːsɪz/",
+    "t": "引起；诱导",
+    "en": "causes or brings about"
+  },
+  "paralysed": {
+    "p": "/ˈpærəlaɪzd/",
+    "t": "瘫痪的；麻痹的",
+    "en": "unable to move or function"
+  },
+  "tonic": {
+    "p": "/ˈtɒnɪk/",
+    "t": "强直的；滋补的",
+    "en": "relating to continuous muscle contraction, or invigorating"
+  },
+  "immobility": {
+    "p": "/ˌɪməˈbɪləti/",
+    "t": "不能移动；静止",
+    "en": "the state of being unable to move"
+  },
+  "neutralised": {
+    "p": "/ˈnjuːtrəlaɪzd/",
+    "t": "中和；使失效",
+    "en": "made ineffective or neutral"
+  },
+  "abdomen": {
+    "p": "/ˈæbdəmən/",
+    "t": "腹部",
+    "en": "the belly or lower part of the torso"
+  },
+  "energyrich": {
+    "p": "/ˈenədʒi rɪtʃ/",
+    "t": "富含能量的",
+    "en": "containing a high amount of energy"
+  },
+  "counterattack": {
+    "p": "/ˈkaʊntərətæk/",
+    "t": "反击",
+    "en": "an attack made in response to an attack"
+  },
+  "matriarch": {
+    "p": "/ˈmeɪtriɑːk/",
+    "t": "女家长；女首领",
+    "en": "a dominant female leading a family or group"
+  },
+  "forensics": {
+    "p": "/fəˈrensɪks/",
+    "t": "法医学；取证",
+    "en": "scientific methods used in investigating crime"
+  },
+  "abruptly": {
+    "p": "/əˈbrʌptli/",
+    "t": "突然地",
+    "en": "suddenly and unexpectedly"
+  },
+  "forage": {
+    "p": "/ˈfɒrɪdʒ/",
+    "t": "觅食；搜寻",
+    "en": "to search widely for food or supplies"
+  },
+  "nocturnally": {
+    "p": "/nɒkˈtɜːnəli/",
+    "t": "在夜间地",
+    "en": "at night; during the night"
+  },
+  "surmise": {
+    "p": "/səˈmaɪz/",
+    "t": "推测",
+    "en": "to suppose that something is true without evidence"
+  },
+  "spanning": {
+    "p": "/ˈspænɪŋ/",
+    "t": "跨越；横跨",
+    "en": "extending across a period or area"
+  },
+  "baited": {
+    "p": "/ˈbeɪtɪd/",
+    "t": "装饵的；诱引的",
+    "en": "fitted with bait to attract animals"
+  },
+  "hooks": {
+    "p": "/hʊks/",
+    "t": "钩子（复数）",
+    "en": "plural of hook; curved devices for catching"
+  },
+  "fisheries": {
+    "p": "/ˈfɪʃəriz/",
+    "t": "渔业（复数）",
+    "en": "places or industries where fish are caught"
+  },
+  "bycatch": {
+    "p": "/ˈbaɪkætʃ/",
+    "t": "副渔获物",
+    "en": "unintended fish or animals caught in fishing gear"
+  },
+  "beaches": {
+    "p": "/ˈbiːtʃɪz/",
+    "t": "海滩（复数）",
+    "en": "plural of beach; sandy or pebbly shores"
+  },
+  "longline": {
+    "p": "/ˈlɒŋlaɪn/",
+    "t": "延绳钓",
+    "en": "a fishing line with many baited hooks"
+  },
+  "exacerbating": {
+    "p": "/ɪɡˈzæsəbeɪtɪŋ/",
+    "t": "加剧的",
+    "en": "making a problem worse"
+  },
+  "sharkeating": {
+    "p": "/ˈʃɑːk iːtɪŋ/",
+    "t": "吃鲨鱼的",
+    "en": "feeding on sharks"
+  },
+  "tagging": {
+    "p": "/ˈtæɡɪŋ/",
+    "t": "标记；贴标签",
+    "en": "attaching a tag for identification or tracking"
+  },
+  "vacating": {
+    "p": "/vəˈkeɪtɪŋ/",
+    "t": "腾出；撤离",
+    "en": "leaving or giving up a place"
+  },
+  "cranial": {
+    "p": "/ˈkreɪniəl/",
+    "t": "颅骨的",
+    "en": "relating to the skull"
+  },
+  "displacement": {
+    "p": "/dɪsˈpleɪsmənt/",
+    "t": "位移；取代",
+    "en": "the act of moving something from its place"
+  },
+  "impacting": {
+    "p": "/ɪmˈpæktɪŋ/",
+    "t": "影响；冲击",
+    "en": "having a strong effect on something"
+  },
+  "disappearance": {
+    "p": "/ˌdɪsəˈpɪərəns/",
+    "t": "消失",
+    "en": "the act of ceasing to be visible or existing"
+  },
+  "inconclusive": {
+    "p": "/ˌɪnkənˈkluːsɪv/",
+    "t": "非决定性的；无定论的",
+    "en": "not leading to a firm conclusion"
+  },
+  "crossroads": {
+    "p": "/ˈkrɒsrəʊdz/",
+    "t": "十字路口；关键时刻",
+    "en": "a point where two roads meet; a critical decision point"
+  },
+  "placards": {
+    "p": "/ˈplækɑːdz/",
+    "t": "标语牌",
+    "en": "signs or posters carried in public, often for protest"
+  },
+  "chant": {
+    "p": "/tʃɑːnt/",
+    "t": "反复呼喊；吟唱",
+    "en": "to repeat words or a phrase rhythmically"
+  },
+  "homelessness": {
+    "p": "/ˈhəʊmləsnəs/",
+    "t": "无家可归",
+    "en": "the state of lacking a home"
+  },
+  "settle": {
+    "p": "/ˈsetl/",
+    "t": "解决；定居；安顿",
+    "en": "to resolve, or to establish residence"
+  },
+  "parliamentary": {
+    "p": "/ˌpɑːləˈmentri/",
+    "t": "议会的",
+    "en": "relating to a parliament"
+  },
+  "govern": {
+    "p": "/ˈɡʌvn/",
+    "t": "统治；治理",
+    "en": "to rule or control a country or organization"
+  },
+  "lessdiscussed": {
+    "p": "/ˌlesdɪˈskʌst/",
+    "t": "较少讨论的",
+    "en": "discussed less often"
+  },
+  "governed": {
+    "p": "/ˈɡʌvnd/",
+    "t": "被统治的；受管理的",
+    "en": "ruled or controlled"
+  },
+  "deadlock": {
+    "p": "/ˈdedlɒk/",
+    "t": "僵局",
+    "en": "a situation where no progress can be made"
+  },
+  "taboo": {
+    "p": "/təˈbuː/",
+    "t": "禁忌",
+    "en": "a social prohibition or something forbidden"
+  },
+  "portraying": {
+    "p": "/pɔːˈtreɪɪŋ/",
+    "t": "描绘；扮演",
+    "en": "depicting or representing"
+  },
+  "terrorism": {
+    "p": "/ˈterərɪzəm/",
+    "t": "恐怖主义",
+    "en": "the use of violence for political aims"
+  },
+  "asterisk": {
+    "p": "/ˈæstərɪsk/",
+    "t": "星号",
+    "en": "the symbol *"
+  },
+  "governs": {
+    "p": "/ˈɡʌvnz/",
+    "t": "统治；治理",
+    "en": "rules or controls"
+  },
+  "fades": {
+    "p": "/feɪdz/",
+    "t": "褪色；逐渐消失",
+    "en": "gradually becomes less bright or disappears"
+  },
+  "nationalist": {
+    "p": "/ˈnæʃnəlɪst/",
+    "t": "民族主义者",
+    "en": "a supporter of nationalism"
+  },
+  "legitimizes": {
+    "p": "/lɪˈdʒɪtɪmaɪzɪz/",
+    "t": "使合法化；使正当化",
+    "en": "makes legitimate or acceptable"
+  },
+  "convicted": {
+    "p": "/kənˈvɪktɪd/",
+    "t": "被定罪的",
+    "en": "found guilty of a crime"
+  },
+  "overseen": {
+    "p": "/ˌəʊvəˈsiːn/",
+    "t": "被监督的",
+    "en": "supervised or monitored"
+  },
+  "shekels": {
+    "p": "/ˈʃeklz/",
+    "t": "谢克尔（以色列货币）",
+    "en": "Israeli currency units"
+  },
+  "sanctioned": {
+    "p": "/ˈsæŋkʃnd/",
+    "t": "被制裁的；获批准的",
+    "en": "penalized, or officially approved"
+  },
+  "murders": {
+    "p": "/ˈmɜːdəz/",
+    "t": "谋杀；凶杀",
+    "en": "unlawful killings"
+  },
+  "uninvestigated": {
+    "p": "/ˌʌnɪnˈvestɪɡeɪtɪd/",
+    "t": "未调查的",
+    "en": "not examined or investigated"
+  },
+  "antinetanyahu": {
+    "p": "/ˌæntɪˌnetənˈjɑːhuː/",
+    "t": "反内塔尼亚胡的",
+    "en": "opposed to Benjamin Netanyahu"
+  },
+  "demolition": {
+    "p": "/ˌdeməˈlɪʃn/",
+    "t": "拆除；毁坏",
+    "en": "the act of tearing down a building"
+  },
+  "protesting": {
+    "p": "/prəˈtestɪŋ/",
+    "t": "抗议",
+    "en": "expressing objection publicly"
+  },
+  "ministers": {
+    "p": "/ˈmɪnɪstəz/",
+    "t": "部长；大臣",
+    "en": "senior government officials"
+  },
+  "settlerright": {
+    "p": "/ˈsetləˈraɪt/",
+    "t": "定居者右翼",
+    "en": "the right wing associated with settlers"
+  },
+  "hawkish": {
+    "p": "/ˈhɔːkɪʃ/",
+    "t": "鹰派的；强硬的",
+    "en": "favouring aggressive or hardline policies"
+  },
+  "ultraorthodox": {
+    "p": "/ˌʌltrəˈɔːθədɒks/",
+    "t": "极端正统派的",
+    "en": "extremely orthodox, especially in religion"
+  },
+  "broadcasters": {
+    "p": "/ˈbrɔːdkɑːstəz/",
+    "t": "广播机构；播音员",
+    "en": "organizations or people that transmit broadcasts"
+  },
+  "overdue": {
+    "p": "/ˌəʊvəˈdjuː/",
+    "t": "过期的；迟到的",
+    "en": "past the due time"
+  },
+  "rallied": {
+    "p": "/ˈrælid/",
+    "t": "集结；重整",
+    "en": "gathered or brought together for a cause"
+  },
+  "petitions": {
+    "p": "/pəˈtɪʃnz/",
+    "t": "请愿书",
+    "en": "formal written requests signed by many people"
+  },
+  "hurdle": {
+    "p": "/ˈhɜːdl/",
+    "t": "障碍；难关",
+    "en": "an obstacle to overcome"
+  },
+  "disentangle": {
+    "p": "/ˌdɪsɪnˈtæŋɡl/",
+    "t": "解开；摆脱",
+    "en": "to free from entanglement"
+  },
+  "leverages": {
+    "p": "/ˈliːvərɪdʒɪz/",
+    "t": "利用；杠杆作用",
+    "en": "uses to maximum advantage"
+  },
+  "shamelessly": {
+    "p": "/ˈʃeɪmləsli/",
+    "t": "无耻地",
+    "en": "without shame"
+  },
+  "mushroom": {
+    "p": "/ˈmʌʃrʊm/",
+    "t": "蘑菇；迅速增长",
+    "en": "a fungus; to grow rapidly"
+  },
+  "antizionist": {
+    "p": "/ˌæntɪˈzaɪənɪst/",
+    "t": "反犹太复国主义的",
+    "en": "opposed to Zionism"
+  },
+  "concessions": {
+    "p": "/kənˈseʃnz/",
+    "t": "让步；特许权",
+    "en": "things conceded or granted"
+  },
+  "signaling": {
+    "p": "/ˈsɪɡnəlɪŋ/",
+    "t": "发出信号；示意",
+    "en": "indicating or communicating by signals"
+  },
+  "bargain": {
+    "p": "/ˈbɑːɡɪn/",
+    "t": "协议；讨价还价",
+    "en": "an agreement; to negotiate"
+  },
+  "parliament": {
+    "p": "/ˈpɑːləmənt/",
+    "t": "议会；国会",
+    "en": "a legislative body"
+  },
+  "convenes": {
+    "p": "/kənˈviːnz/",
+    "t": "召集；召开",
+    "en": "calls together or assembles"
+  },
+  "frogs": {
+    "p": "/frɒɡz/",
+    "t": "青蛙",
+    "en": "small tailless amphibians"
+  },
+  "egalitarian": {
+    "p": "/ɪˌɡælɪˈteəriən/",
+    "t": "平等主义的",
+    "en": "believing in equal rights for all"
+  },
+  "nationalservice": {
+    "p": "/ˈnæʃnəlˈsɜːvɪs/",
+    "t": "国民服役",
+    "en": "compulsory service to the nation"
+  },
+  "pollsters": {
+    "p": "/ˈpəʊlstəz/",
+    "t": "民意调查者",
+    "en": "people who conduct opinion polls"
+  },
+  "undercut": {
+    "p": "/ˌʌndəˈkʌt/",
+    "t": "削弱；削价竞争",
+    "en": "to weaken or offer cheaper prices"
+  },
+  "cheered": {
+    "p": "/tʃɪəd/",
+    "t": "欢呼；喝彩",
+    "en": "shouted in encouragement or joy"
+  },
+  "apartheid": {
+    "p": "/əˈpɑːtheɪt/",
+    "t": "种族隔离",
+    "en": "a system of racial segregation"
+  },
+  "irredeemable": {
+    "p": "/ˌɪrɪˈdiːməbl/",
+    "t": "不可救药的；无法挽回的",
+    "en": "impossible to redeem or save"
+  },
+  "depended": {
+    "p": "/dɪˈpendɪd/",
+    "t": "依赖；取决于",
+    "en": "relied on"
+  },
+  "doubted": {
+    "p": "/ˈdaʊtɪd/",
+    "t": "怀疑",
+    "en": "questioned or distrusted"
+  },
+  "staunchest": {
+    "p": "/ˈstɔːntʃɪst/",
+    "t": "最坚定的；最忠诚的",
+    "en": "most loyal or committed"
+  },
+  "rehabilitate": {
+    "p": "/ˌriːəˈbɪlɪteɪt/",
+    "t": "使康复；改造",
+    "en": "to restore to health or normal life"
+  },
+  "antizionists": {
+    "p": "/ˌæntɪˈzaɪənɪsts/",
+    "t": "反犹太复国主义者",
+    "en": "people opposed to Zionism"
+  },
+  "composed": {
+    "p": "/kəmˈpəʊzd/",
+    "t": "组成；镇定",
+    "en": "made up of; calm"
+  },
+  "normalizes": {
+    "p": "/ˈnɔːməlaɪzɪz/",
+    "t": "使正常化",
+    "en": "makes normal or standard"
+  },
+  "illegitimate": {
+    "p": "/ˌɪlɪˈdʒɪtɪmət/",
+    "t": "非法的；不正当的",
+    "en": "not valid or lawful"
+  },
+  "settlements": {
+    "p": "/ˈsetlmənts/",
+    "t": "定居点；协议",
+    "en": "places where people settle; agreements"
+  },
+  "sustain": {
+    "p": "/səˈsteɪn/",
+    "t": "维持；支撑",
+    "en": "to keep going or support"
+  },
+  "flatly": {
+    "p": "/ˈflætli/",
+    "t": "断然地；平淡地",
+    "en": "in an outright or dull manner"
+  },
+  "defer": {
+    "p": "/dɪˈfɜː/",
+    "t": "推迟；遵从",
+    "en": "to postpone or yield to"
+  },
+  "annexation": {
+    "p": "/ˌænekˈseɪʃn/",
+    "t": "吞并；兼并",
+    "en": "the act of taking territory"
+  },
+  "shortlived": {
+    "p": "/ˌʃɔːtˈlɪvd/",
+    "t": "短暂的",
+    "en": "lasting only a short time"
+  },
+  "inquiry": {
+    "p": "/ɪnˈkwaɪəri/",
+    "t": "调查；询问",
+    "en": "an investigation or question"
+  },
+  "repealing": {
+    "p": "/rɪˈpiːlɪŋ/",
+    "t": "废除；撤销",
+    "en": "revoking a law"
+  },
+  "overhaul": {
+    "p": "/ˌəʊvəˈhɔːl/",
+    "t": "彻底改革；大修",
+    "en": "a thorough examination and repair"
+  },
+  "appointing": {
+    "p": "/əˈpɔɪntɪŋ/",
+    "t": "任命；指定",
+    "en": "assigning to a position"
+  },
+  "reneged": {
+    "p": "/rɪˈniːɡd/",
+    "t": "背信；食言",
+    "en": "failed to honour a commitment"
   }
 }
