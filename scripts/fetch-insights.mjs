@@ -455,7 +455,10 @@ function readFeed() {
           for (const it of items) {
             if (seen.has(it.link)) continue;
             // 感官研究专属源：先用标题+摘要过滤（避免对无关文章做链接解析，省请求）
-            if (s.sensory && (!SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || '')) || SENSORY_EXCLUDE.test(it.title + ' ' + (it.desc || '')))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
+            // 说明：sensory:true 仅作「打感官研究标签」用；是否再按关键词硬筛，由 s.sensoryFilter 决定。
+            //   - 泛源(ScienceDaily/Google News 等)保留 s.sensoryFilter!==false 的默认严格筛选，只 cherry-pick 命中感官词的文章；
+            //   - 专门学术期刊源(Frontiers/PubMed/ScienceDirect/MDPI)设 sensoryFilter:false，整本期刊即感官/食品研究，放行全部文章，不再因标题没写「sensory」等词被误杀。
+            if (s.sensory && s.sensoryFilter !== false && (!SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || '')) || SENSORY_EXCLUDE.test(it.title + ' ' + (it.desc || '')))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
             // Google News RSS 的链接是跳转链接，先解析为真实文章 URL（解析不到就丢弃）
             let itLink = it.link;
             if (/news\.google\.com/.test(itLink)) {

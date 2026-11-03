@@ -403,7 +403,8 @@
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",
-      "region": "国际"
+      "region": "国际",
+      "sensoryFilter": false
     },
     {
       "name": "PubMed 感官与食品研究",
@@ -413,7 +414,8 @@
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",
-      "region": "国际"
+      "region": "国际",
+      "sensoryFilter": false
     },
     {
       "name": "ScienceDirect · Food Quality and Preference",
@@ -424,7 +426,8 @@
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",
-      "region": "国际"
+      "region": "国际",
+      "sensoryFilter": false
     },
     {
       "name": "MDPI · Foods",
@@ -435,7 +438,8 @@
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",
-      "region": "国际"
+      "region": "国际",
+      "sensoryFilter": false
     }
   ]
 }
