@@ -64633,5 +64633,580 @@
     "p": "/ˈpɒlɪtɪkɪŋ/",
     "t": "政治活动；拉选票",
     "en": "engaging in political activity, often for personal advantage"
+  },
+  "topping": {
+    "p": "/ˈtɒpɪŋ/",
+    "t": "配料，浇头",
+    "en": "a layer of food placed on top of another food"
+  },
+  "swept": {
+    "p": "/swept/",
+    "t": "扫（sweep的过去式/过去分词）",
+    "en": "past tense and past participle of sweep"
+  },
+  "globe": {
+    "p": "/ɡləʊb/",
+    "t": "地球；球体",
+    "en": "the earth or a spherical representation of it"
+  },
+  "popularly": {
+    "p": "/ˈpɒpjələli/",
+    "t": "普遍地，通俗地",
+    "en": "by many people; generally"
+  },
+  "birthplace": {
+    "p": "/ˈbɜːθpleɪs/",
+    "t": "出生地，发源地",
+    "en": "the place where someone was born or something originated"
+  },
+  "lineup": {
+    "p": "/ˈlaɪnʌp/",
+    "t": "阵容，一排",
+    "en": "a group of people or things arranged in a line or assembled"
+  },
+  "pancakes": {
+    "p": "/ˈpænkeɪks/",
+    "t": "煎饼，薄烤饼",
+    "en": "thin flat cakes fried in a pan"
+  },
+  "thenstandard": {
+    "p": "/ðənˈstændəd/",
+    "t": "当时的标准（then standard）",
+    "en": "the standard at that time"
+  },
+  "toppings": {
+    "p": "/ˈtɒpɪŋz/",
+    "t": "配料（复数）",
+    "en": "layers of food placed on top of other food"
+  },
+  "pepperoni": {
+    "p": "/ˌpepəˈrəʊni/",
+    "t": "意大利辣香肠",
+    "en": "a spicy Italian sausage, often sliced on pizza"
+  },
+  "southoftheborder": {
+    "p": "/ˌsaʊθəvðəˈbɔːdə/",
+    "t": "边界以南的（South of the Border）",
+    "en": "located south of the border, especially Mexico relative to the US"
+  },
+  "sweetandsour": {
+    "p": "/ˌswiːtəndˈsaʊə/",
+    "t": "糖醋的，酸甜的",
+    "en": "having a flavour combining sweet and sour tastes"
+  },
+  "flavours": {
+    "p": "/ˈfleɪvəz/",
+    "t": "味道，风味（复数）",
+    "en": "distinctive tastes of food or drink"
+  },
+  "cheeseandtomatosauce": {
+    "p": "/tʃiːzəndtəˈmɑːtəʊsɔːs/",
+    "t": "奶酪番茄酱",
+    "en": "a sauce made of cheese and tomatoes"
+  },
+  "sliced": {
+    "p": "/slaɪst/",
+    "t": "切成片的",
+    "en": "cut into thin flat pieces"
+  },
+  "sweetandsalty": {
+    "p": "/ˌswiːtəndˈsɔːlti/",
+    "t": "甜咸的",
+    "en": "combining sweet and salty tastes"
+  },
+  "menus": {
+    "p": "/ˈmenjuːz/",
+    "t": "菜单（复数）",
+    "en": "lists of dishes available in a restaurant"
+  },
+  "abomination": {
+    "p": "/əˌbɒmɪˈneɪʃn/",
+    "t": "令人憎恶的事物",
+    "en": "something that causes disgust or hatred"
+  },
+  "pizzas": {
+    "p": "/ˈpiːtsəz/",
+    "t": "披萨（复数）",
+    "en": "flat baked bread topped with cheese, tomato and other ingredients"
+  },
+  "mostliked": {
+    "p": "/ˈməʊstlaɪkt/",
+    "t": "最受喜欢的",
+    "en": "liked by the greatest number of people"
+  },
+  "coincided": {
+    "p": "/ˌkəʊɪnˈsaɪdɪd/",
+    "t": "同时发生，巧合",
+    "en": "happened at the same time"
+  },
+  "gracing": {
+    "p": "/ˈɡreɪsɪŋ/",
+    "t": "装饰，使增光",
+    "en": "adding beauty or honour to something"
+  },
+  "consisting": {
+    "p": "/kənˈsɪstɪŋ/",
+    "t": "由……组成",
+    "en": "being made up or composed of"
+  },
+  "grill": {
+    "p": "/ɡrɪl/",
+    "t": "烤架；烧烤",
+    "en": "a device or method for cooking food over direct heat"
+  },
+  "reworking": {
+    "p": "/ˌriːˈwɜːkɪŋ/",
+    "t": "重新加工，改写",
+    "en": "the act of changing or processing something again"
+  },
+  "spamandpineapple": {
+    "p": "/spæməndˈpaɪnæpl/",
+    "t": "午餐肉和菠萝",
+    "en": "a combination of Spam luncheon meat and pineapple"
+  },
+  "soldiers": {
+    "p": "/ˈsəʊldʒəz/",
+    "t": "士兵（复数）",
+    "en": "members of an army"
+  },
+  "salty": {
+    "p": "/ˈsɔːlti/",
+    "t": "咸的",
+    "en": "tasting of or containing salt"
+  },
+  "umami": {
+    "p": "/uːˈmɑːmi/",
+    "t": "鲜味",
+    "en": "a savoury taste characteristic of meat, cheese and soy sauce"
+  },
+  "pilaf": {
+    "p": "/ˈpiːlæf/",
+    "t": "肉饭，抓饭",
+    "en": "a dish of rice cooked in broth with meat or vegetables"
+  },
+  "mixes": {
+    "p": "/ˈmɪksɪz/",
+    "t": "混合物；混合（动词）",
+    "en": "combinations of things, or the act of combining"
+  },
+  "pomegranate": {
+    "p": "/ˈpɒmɪɡrænɪt/",
+    "t": "石榴",
+    "en": "a round fruit with a tough skin and many red seeds"
+  },
+  "dinners": {
+    "p": "/ˈdɪnəz/",
+    "t": "晚餐（复数）",
+    "en": "evening meals or formal meals"
+  },
+  "turkey": {
+    "p": "/ˈtɜːki/",
+    "t": "火鸡；土耳其",
+    "en": "a large bird eaten as food, or the country Turkey"
+  },
+  "marshmallows": {
+    "p": "/ˌmɑːʃˈmæləʊz/",
+    "t": "棉花糖（复数）",
+    "en": "soft spongy sweets made from sugar and gelatin"
+  },
+  "saltedcaramel": {
+    "p": "/ˌsɔːltɪdˈkærəml/",
+    "t": "咸焦糖",
+    "en": "caramel flavoured with added salt"
+  },
+  "intrinsically": {
+    "p": "/ɪnˈtrɪnzɪkli/",
+    "t": "本质上，内在地",
+    "en": "in a way that belongs naturally to something"
+  },
+  "flavourlayering": {
+    "p": "/ˈfleɪvəˌleɪərɪŋ/",
+    "t": "风味分层",
+    "en": "the building up of multiple layers of flavour"
+  },
+  "layering": {
+    "p": "/ˈleɪərɪŋ/",
+    "t": "分层，叠加",
+    "en": "arranging in layers"
+  },
+  "sensing": {
+    "p": "/ˈsensɪŋ/",
+    "t": "感知，感觉",
+    "en": "becoming aware of something through the senses"
+  },
+  "carbohydrate": {
+    "p": "/ˌkɑːbəʊˈhaɪdreɪt/",
+    "t": "碳水化合物",
+    "en": "a substance such as sugar or starch that provides energy"
+  },
+  "punch": {
+    "p": "/pʌntʃ/",
+    "t": "冲击力；潘趣酒；用拳打",
+    "en": "a strong impact or flavour, a fruit drink, or to hit with a fist"
+  },
+  "pineapples": {
+    "p": "/ˈpaɪnæplz/",
+    "t": "菠萝（复数）",
+    "en": "large tropical fruits with spiky skin and sweet yellow flesh"
+  },
+  "sucrose": {
+    "p": "/ˈsuːkrəʊz/",
+    "t": "蔗糖",
+    "en": "the common sugar obtained from sugar cane or beet"
+  },
+  "fructose": {
+    "p": "/ˈfrʌktəʊz/",
+    "t": "果糖",
+    "en": "a simple sugar found in fruit and honey"
+  },
+  "acidic": {
+    "p": "/əˈsɪdɪk/",
+    "t": "酸性的",
+    "en": "having a sour taste or low pH"
+  },
+  "tartness": {
+    "p": "/ˈtɑːtnəs/",
+    "t": "酸味",
+    "en": "a sharp sour taste"
+  },
+  "palatable": {
+    "p": "/ˈpælətəbl/",
+    "t": "可口的，美味的",
+    "en": "pleasant to taste"
+  },
+  "fruity": {
+    "p": "/ˈfruːti/",
+    "t": "果味的",
+    "en": "tasting or smelling of fruit"
+  },
+  "aroma": {
+    "p": "/əˈrəʊmə/",
+    "t": "香气",
+    "en": "a distinctive pleasant smell"
+  },
+  "flavour": {
+    "p": "/ˈfleɪvə/",
+    "t": "味道，风味",
+    "en": "the distinctive taste of a food or drink"
+  },
+  "breadlike": {
+    "p": "/ˈbredlaɪk/",
+    "t": "像面包的",
+    "en": "resembling bread in taste or texture"
+  },
+  "freshcut": {
+    "p": "/ˈfreʃkʌt/",
+    "t": "新切的",
+    "en": "recently cut"
+  },
+  "shopbought": {
+    "p": "/ˈʃɒpbɔːt/",
+    "t": "商店买的，现成的",
+    "en": "bought ready-made from a shop"
+  },
+  "ovens": {
+    "p": "/ˈʌvnz/",
+    "t": "烤箱（复数）",
+    "en": "enclosed chambers for baking or roasting food"
+  },
+  "woodfired": {
+    "p": "/ˈwʊdfaɪəd/",
+    "t": "用木柴烧的",
+    "en": "heated or cooked using wood as fuel"
+  },
+  "odours": {
+    "p": "/ˈəʊdəz/",
+    "t": "气味（复数）",
+    "en": "distinctive smells, often unpleasant"
+  },
+  "sausage": {
+    "p": "/ˈsɒsɪdʒ/",
+    "t": "香肠",
+    "en": "minced meat in a cylindrical casing"
+  },
+  "compound": {
+    "p": "/ˈkɒmpaʊnd/",
+    "t": "化合物；复合的",
+    "en": "a substance formed from two or more elements, or made of parts"
+  },
+  "ethyl": {
+    "p": "/ˈiːθaɪl/",
+    "t": "乙基",
+    "en": "the chemical group or radical C2H5"
+  },
+  "acetate": {
+    "p": "/ˈæsɪteɪt/",
+    "t": "醋酸盐，乙酸酯",
+    "en": "a salt or ester of acetic acid"
+  },
+  "furfural": {
+    "p": "/ˈfɜːfjəræl/",
+    "t": "糠醛",
+    "en": "a colourless aromatic liquid aldehyde derived from plant material"
+  },
+  "imparts": {
+    "p": "/ɪmˈpɑːts/",
+    "t": "赋予，传授",
+    "en": "gives or communicates a quality"
+  },
+  "almond": {
+    "p": "/ˈɑːmənd/",
+    "t": "杏仁",
+    "en": "an oval nut with a hard shell and edible kernel"
+  },
+  "bready": {
+    "p": "/ˈbredi/",
+    "t": "有面包味的",
+    "en": "having the taste or smell of bread"
+  },
+  "polarises": {
+    "p": "/ˈpəʊləraɪzɪz/",
+    "t": "使两极分化",
+    "en": "divides people into opposing groups"
+  },
+  "caramel": {
+    "p": "/ˈkærəml/",
+    "t": "焦糖",
+    "en": "sugar heated until brown, used for flavour and colour"
+  },
+  "methyl": {
+    "p": "/ˈmeθɪl/",
+    "t": "甲基",
+    "en": "the chemical group CH3"
+  },
+  "sweetening": {
+    "p": "/ˈswiːtnɪŋ/",
+    "t": "加甜；甜味剂",
+    "en": "making something sweet or a substance that sweetens"
+  },
+  "cooks": {
+    "p": "/kʊks/",
+    "t": "烹饪；厨师（复数）",
+    "en": "prepares food by heating, or people who cook"
+  },
+  "saltier": {
+    "p": "/ˈsɔːltiə/",
+    "t": "更咸的",
+    "en": "more salty"
+  },
+  "neutralise": {
+    "p": "/ˈnjuːtrəlaɪz/",
+    "t": "中和，抵消",
+    "en": "make something ineffective by an opposite force"
+  },
+  "methylbutanal": {
+    "p": "/ˌmeθɪlˈbjuːtənæl/",
+    "t": "甲基丁醛",
+    "en": "a chemical compound with a malty aroma"
+  },
+  "nutty": {
+    "p": "/ˈnʌti/",
+    "t": "有坚果味的；古怪的",
+    "en": "tasting of nuts, or slightly eccentric"
+  },
+  "cheddar": {
+    "p": "/ˈtʃedə/",
+    "t": "切达奶酪",
+    "en": "a firm yellow cheese originally from England"
+  },
+  "mozzarella": {
+    "p": "/ˌmɒtsəˈrelə/",
+    "t": "马苏里拉奶酪",
+    "en": "a soft white Italian cheese"
+  },
+  "palate": {
+    "p": "/ˈpælət/",
+    "t": "味觉，上颚",
+    "en": "the sense of taste or the roof of the mouth"
+  },
+  "cleansers": {
+    "p": "/ˈklenzəz/",
+    "t": "清洁剂（复数）",
+    "en": "substances that clean"
+  },
+  "doughnuts": {
+    "p": "/ˈdəʊnʌts/",
+    "t": "甜甜圈（复数）",
+    "en": "small fried cakes, often ring-shaped and sweet"
+  },
+  "conquered": {
+    "p": "/ˈkɒŋkəd/",
+    "t": "征服，攻克",
+    "en": "defeated or took control of by force"
+  },
+  "exotic": {
+    "p": "/ɪɡˈzɒtɪk/",
+    "t": "异国的，奇异的",
+    "en": "originating in a distant country; strikingly unusual"
+  },
+  "alternating": {
+    "p": "/ˈɔːltəneɪtɪŋ/",
+    "t": "交替的",
+    "en": "occurring in turn repeatedly"
+  },
+  "astringent": {
+    "p": "/əˈstrɪndʒənt/",
+    "t": "涩的；收敛剂",
+    "en": "causing a dry puckering sensation in the mouth"
+  },
+  "fattiness": {
+    "p": "/ˈfætinəs/",
+    "t": "油腻感，脂肪含量",
+    "en": "the quality of containing fat"
+  },
+  "rinsing": {
+    "p": "/ˈrɪnsɪŋ/",
+    "t": "冲洗",
+    "en": "washing with clean water"
+  },
+  "acidity": {
+    "p": "/əˈsɪdəti/",
+    "t": "酸度",
+    "en": "the level of acid in a substance"
+  },
+  "cleanse": {
+    "p": "/klenz/",
+    "t": "清洗，净化",
+    "en": "make thoroughly clean"
+  },
+  "doughy": {
+    "p": "/ˈdəʊi/",
+    "t": "面团似的，未烤熟的",
+    "en": "resembling dough; soft and undercooked"
+  },
+  "tomato": {
+    "p": "/təˈmɑːtəʊ/",
+    "t": "番茄，西红柿",
+    "en": "a soft red fruit eaten as a vegetable"
+  },
+  "cheesy": {
+    "p": "/ˈtʃiːzi/",
+    "t": "奶酪味的；俗气的",
+    "en": "tasting of cheese, or cheap and poor quality"
+  },
+  "goodness": {
+    "p": "/ˈɡʊdnəs/",
+    "t": "优良，美德；天哪",
+    "en": "the quality of being good, or an exclamation of surprise"
+  },
+  "freshly": {
+    "p": "/ˈfreʃli/",
+    "t": "刚刚，新鲜地",
+    "en": "recently; in a fresh manner"
+  },
+  "hamandpineapple": {
+    "p": "/hæməndˈpaɪnæpl/",
+    "t": "火腿和菠萝",
+    "en": "a combination of ham and pineapple"
+  },
+  "lovers": {
+    "p": "/ˈlʌvəz/",
+    "t": "爱好者（复数）",
+    "en": "people who greatly enjoy something"
+  },
+  "haters": {
+    "p": "/ˈheɪtəz/",
+    "t": "讨厌者（复数）",
+    "en": "people who strongly dislike something"
+  },
+  "notentirelyserious": {
+    "p": "/ˌnɒtɪnˈtaɪəliˈsɪəriəs/",
+    "t": "不完全严肃的",
+    "en": "not completely serious"
+  },
+  "hannesson": {
+    "p": "/ˈhænəsən/",
+    "t": "汉内松（人名）",
+    "en": "a surname, here a person's name"
+  },
+  "clarifying": {
+    "p": "/ˈklærəfaɪɪŋ/",
+    "t": "澄清，阐明",
+    "en": "making something clear or easier to understand"
+  },
+  "chimed": {
+    "p": "/tʃaɪmd/",
+    "t": "鸣响；附和",
+    "en": "rang musically, or joined in agreement"
+  },
+  "softened": {
+    "p": "/ˈsɒfnd/",
+    "t": "变软，缓和",
+    "en": "made or became soft or less severe"
+  },
+  "bloodbath": {
+    "p": "/ˈblʌdbɑːθ/",
+    "t": "血洗；大屠杀；惨败",
+    "en": "a massacre or a very violent event; a disastrous defeat"
+  },
+  "shellacking": {
+    "p": "/ʃəˈlækɪŋ/",
+    "t": "惨败；痛打",
+    "en": "a severe defeat or beating"
+  },
+  "shakeup": {
+    "p": "/ˈʃeɪkʌp/",
+    "t": "重大改组；调整",
+    "en": "a major reorganization or restructuring"
+  },
+  "firings": {
+    "p": "/ˈfaɪərɪŋz/",
+    "t": "解雇；开除",
+    "en": "instances of dismissing someone from a job"
+  },
+  "skate": {
+    "p": "/skeɪt/",
+    "t": "滑冰；溜冰；回避",
+    "en": "to move on ice skates; to avoid dealing with something"
+  },
+  "secretaries": {
+    "p": "/ˈsekrətriz/",
+    "t": "秘书（复数）；部长（复数）",
+    "en": "people employed to do clerical work; government ministers"
+  },
+  "eyeing": {
+    "p": "/ˈaɪɪŋ/",
+    "t": "注视；打量；觊觎",
+    "en": "looking at closely or with interest"
+  },
+  "radioactively": {
+    "p": "/ˌreɪdiəʊˈæktɪvli/",
+    "t": "放射性地",
+    "en": "in a radioactive manner"
+  },
+  "impeachment": {
+    "p": "/ɪmˈpiːtʃmənt/",
+    "t": "弹劾",
+    "en": "the process of charging a public official with misconduct"
+  },
+  "soontobevacant": {
+    "p": "/ˌsuːntəbiːˈveɪkənt/",
+    "t": "即将空缺的",
+    "en": "about to become vacant"
+  },
+  "underdog": {
+    "p": "/ˈʌndədɒɡ/",
+    "t": "处于劣势者；弱者",
+    "en": "a person or team expected to lose"
+  },
+  "chatter": {
+    "p": "/ˈtʃætə/",
+    "t": "喋喋不休；闲聊；鸣叫",
+    "en": "to talk casually and rapidly; to make rapid sounds"
+  },
+  "dismally": {
+    "p": "/ˈdɪzməli/",
+    "t": "阴沉地；凄惨地；糟糕地",
+    "en": "in a gloomy, depressing, or very poor manner"
+  },
+  "deprived": {
+    "p": "/dɪˈpraɪvd/",
+    "t": "贫困的；被剥夺的",
+    "en": "lacking basic necessities or advantages"
+  },
+  "transient": {
+    "p": "/ˈtrænziənt/",
+    "t": "短暂的；临时的；流动人员",
+    "en": "lasting only a short time; temporary"
   }
 }
