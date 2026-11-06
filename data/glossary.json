@@ -65698,5 +65698,680 @@
     "p": "/ˌmetəˈfɪzɪkl/",
     "t": "形而上学的；抽象的",
     "en": "relating to abstract philosophical matters"
+  },
+  "saffron": {
+    "p": "/ˈsæfrən/",
+    "t": "藏红花；番红花",
+    "en": "a spice made from the dried stigmas of a crocus flower"
+  },
+  "coveted": {
+    "p": "/ˈkʌvɪtɪd/",
+    "t": "令人垂涎的；梦寐以求的",
+    "en": "greatly desired or eagerly sought after"
+  },
+  "spice": {
+    "p": "/spaɪs/",
+    "t": "香料；调味品",
+    "en": "an aromatic substance used to flavour food"
+  },
+  "shopkeeper": {
+    "p": "/ˈʃɒpkiːpə/",
+    "t": "店主",
+    "en": "a person who owns and runs a shop"
+  },
+  "openair": {
+    "p": "/ˌəʊpənˈeə/",
+    "t": "户外的；露天的",
+    "en": "taking place outdoors, not inside a building"
+  },
+  "shelves": {
+    "p": "/ʃelvz/",
+    "t": "架子；搁板（复数）",
+    "en": "flat horizontal boards used for storing or displaying things"
+  },
+  "overflowing": {
+    "p": "/ˌəʊvəˈfləʊɪŋ/",
+    "t": "满溢的；溢出的",
+    "en": "filled beyond capacity so that contents spill over"
+  },
+  "dried": {
+    "p": "/draɪd/",
+    "t": "干燥的；晒干的",
+    "en": "preserved by having moisture removed"
+  },
+  "glanced": {
+    "p": "/ɡlɑːnst/",
+    "t": "瞥了一眼",
+    "en": "looked briefly or quickly at something"
+  },
+  "entrance": {
+    "p": "/ˈentrəns/",
+    "t": "入口；进入",
+    "en": "a place or opening through which one enters"
+  },
+  "softly": {
+    "p": "/ˈsɒftli/",
+    "t": "轻柔地；柔和地",
+    "en": "in a gentle or quiet manner"
+  },
+  "uplands": {
+    "p": "/ˈʌpləndz/",
+    "t": "高地；丘陵地带",
+    "en": "elevated or hilly regions of land"
+  },
+  "saffronproducing": {
+    "p": "/ˈsæfrən prəˈdjuːsɪŋ/",
+    "t": "出产藏红花的",
+    "en": "producing saffron"
+  },
+  "brighter": {
+    "p": "/ˈbraɪtə/",
+    "t": "更明亮的；更鲜艳的",
+    "en": "more luminous or vivid in colour"
+  },
+  "threads": {
+    "p": "/θredz/",
+    "t": "细丝；线（复数）",
+    "en": "thin strands or filaments"
+  },
+  "woven": {
+    "p": "/ˈwəʊvən/",
+    "t": "编织的；织成的",
+    "en": "made by interlacing threads or strands"
+  },
+  "wedding": {
+    "p": "/ˈwedɪŋ/",
+    "t": "婚礼",
+    "en": "a marriage ceremony"
+  },
+  "valleys": {
+    "p": "/ˈvæliz/",
+    "t": "山谷（复数）",
+    "en": "low areas of land between hills or mountains"
+  },
+  "prized": {
+    "p": "/praɪzd/",
+    "t": "珍贵的；珍视的",
+    "en": "highly valued or esteemed"
+  },
+  "exports": {
+    "p": "/ˈekspɔːts/",
+    "t": "出口货物；出口（复数）",
+    "en": "goods sold and shipped to another country"
+  },
+  "harvests": {
+    "p": "/ˈhɑːvɪsts/",
+    "t": "收成；收获（复数）",
+    "en": "the gathering of crops; the crops gathered"
+  },
+  "cherished": {
+    "p": "/ˈtʃerɪʃt/",
+    "t": "珍爱的；珍视的",
+    "en": "held dear; treasured"
+  },
+  "roadside": {
+    "p": "/ˈrəʊdsaɪd/",
+    "t": "路边的",
+    "en": "the area beside a road"
+  },
+  "plateau": {
+    "p": "/ˈplætəʊ/",
+    "t": "高原；台地",
+    "en": "an area of raised flat land"
+  },
+  "midoctober": {
+    "p": "/ˌmɪd ɒkˈtəʊbə/",
+    "t": "十月中旬",
+    "en": "the middle part of October"
+  },
+  "midnovember": {
+    "p": "/ˌmɪd nəʊˈvembə/",
+    "t": "十一月中旬",
+    "en": "the middle part of November"
+  },
+  "crocus": {
+    "p": "/ˈkrəʊkəs/",
+    "t": "番红花；藏红花（植物）",
+    "en": "a small spring-flowering plant of the iris family"
+  },
+  "meticulously": {
+    "p": "/məˈtɪkjələsli/",
+    "t": "一丝不苟地；细致地",
+    "en": "with great attention to detail"
+  },
+  "wicker": {
+    "p": "/ˈwɪkə/",
+    "t": "柳条编的；藤编的",
+    "en": "made of interlaced pliable twigs or stems"
+  },
+  "baskets": {
+    "p": "/ˈbɑːskɪts/",
+    "t": "篮子（复数）",
+    "en": "containers made of woven material"
+  },
+  "farmer": {
+    "p": "/ˈfɑːmə/",
+    "t": "农民；农场主",
+    "en": "a person who owns or manages a farm"
+  },
+  "clusters": {
+    "p": "/ˈklʌstəz/",
+    "t": "簇；群（复数）",
+    "en": "groups of similar things gathered closely together"
+  },
+  "unevenly": {
+    "p": "/ʌnˈiːvənli/",
+    "t": "不均匀地；参差不齐地",
+    "en": "in an irregular or unequal manner"
+  },
+  "flowering": {
+    "p": "/ˈflaʊərɪŋ/",
+    "t": "开花的；花期",
+    "en": "producing flowers; the period of blooming"
+  },
+  "sativus": {
+    "p": "/səˈtiːvəs/",
+    "t": "栽培的（拉丁语种加词）",
+    "en": "Latin epithet meaning cultivated"
+  },
+  "purpleflowered": {
+    "p": "/ˈpɜːpl flaʊəd/",
+    "t": "开紫花的",
+    "en": "having purple flowers"
+  },
+  "stigmas": {
+    "p": "/ˈstɪɡməz/",
+    "t": "柱头（复数）",
+    "en": "the receptive tips of a flower's pistil"
+  },
+  "ounce": {
+    "p": "/aʊns/",
+    "t": "盎司",
+    "en": "a unit of weight equal to about 28 grams"
+  },
+  "blooms": {
+    "p": "/bluːmz/",
+    "t": "花朵；开花（复数/动词）",
+    "en": "flowers; produces flowers"
+  },
+  "saffrons": {
+    "p": "/ˈsæfrənz/",
+    "t": "藏红花（复数）",
+    "en": "plural of saffron; the spice or its colour"
+  },
+  "presentday": {
+    "p": "/ˌprezntˈdeɪ/",
+    "t": "当今的；现在的",
+    "en": "current; existing now"
+  },
+  "crocin": {
+    "p": "/ˈkrəʊsɪn/",
+    "t": "藏红花素",
+    "en": "a carotenoid pigment found in saffron"
+  },
+  "marriages": {
+    "p": "/ˈmærɪdʒɪz/",
+    "t": "婚姻；婚礼（复数）",
+    "en": "the state of being married; wedding ceremonies"
+  },
+  "kettles": {
+    "p": "/ˈketlz/",
+    "t": "水壶（复数）",
+    "en": "containers with spouts used for boiling water"
+  },
+  "salted": {
+    "p": "/ˈsɔːltɪd/",
+    "t": "加盐的；腌制的",
+    "en": "seasoned or preserved with salt"
+  },
+  "simmered": {
+    "p": "/ˈsɪməd/",
+    "t": "炖；用文火慢煮",
+    "en": "cooked gently just below boiling point"
+  },
+  "mornings": {
+    "p": "/ˈmɔːnɪŋz/",
+    "t": "早晨（复数）",
+    "en": "the early parts of the day before noon"
+  },
+  "yields": {
+    "p": "/jiːldz/",
+    "t": "产量；产出（复数/动词）",
+    "en": "amounts produced; produces as a result"
+  },
+  "snowmelt": {
+    "p": "/ˈsnəʊmelt/",
+    "t": "融雪；雪水",
+    "en": "water from melting snow"
+  },
+  "grower": {
+    "p": "/ˈɡrəʊə/",
+    "t": "种植者；栽培者",
+    "en": "a person who grows crops or plants"
+  },
+  "irrigation": {
+    "p": "/ˌɪrɪˈɡeɪʃn/",
+    "t": "灌溉",
+    "en": "the supply of water to land to help crops grow"
+  },
+  "corms": {
+    "p": "/kɔːmz/",
+    "t": "球茎（复数）",
+    "en": "rounded underground plant stems that store food"
+  },
+  "borewells": {
+    "p": "/ˈbɔːwelz/",
+    "t": "钻井；机井（复数）",
+    "en": "deep narrow wells drilled for water"
+  },
+  "sprinkler": {
+    "p": "/ˈsprɪŋklə/",
+    "t": "喷灌器；洒水器",
+    "en": "a device that sprays water over land"
+  },
+  "pipelines": {
+    "p": "/ˈpaɪplaɪnz/",
+    "t": "管道（复数）",
+    "en": "long tubes for conveying water, gas, or oil"
+  },
+  "repairs": {
+    "p": "/rɪˈpeəz/",
+    "t": "修理；维修（复数）",
+    "en": "acts of fixing something broken or damaged"
+  },
+  "occupy": {
+    "p": "/ˈɒkjupaɪ/",
+    "t": "占据；占用",
+    "en": "to fill or take up space or time"
+  },
+  "bloomed": {
+    "p": "/bluːmd/",
+    "t": "开花了",
+    "en": "produced flowers; blossomed"
+  },
+  "porcupines": {
+    "p": "/ˈpɔːkjupaɪnz/",
+    "t": "豪猪（复数）",
+    "en": "rodents covered with sharp quills"
+  },
+  "patches": {
+    "p": "/ˈpætʃɪz/",
+    "t": "小块土地；斑块（复数）",
+    "en": "small areas distinct from their surroundings"
+  },
+  "burrowed": {
+    "p": "/ˈbʌrəʊd/",
+    "t": "挖洞；掘穴",
+    "en": "dug holes or tunnels in the ground"
+  },
+  "porcupine": {
+    "p": "/ˈpɔːkjupaɪn/",
+    "t": "豪猪",
+    "en": "a large rodent covered with sharp spines"
+  },
+  "scrubland": {
+    "p": "/ˈskrʌblænd/",
+    "t": "灌木丛地；矮林",
+    "en": "land covered with low bushes and shrubs"
+  },
+  "trader": {
+    "p": "/ˈtreɪdə/",
+    "t": "商人；交易者",
+    "en": "a person who buys and sells goods"
+  },
+  "lined": {
+    "p": "/laɪnd/",
+    "t": "排列成行的；有内衬的",
+    "en": "arranged in a row; having an inner layer"
+  },
+  "cartons": {
+    "p": "/ˈkɑːtənz/",
+    "t": "纸箱；纸盒（复数）",
+    "en": "containers made of cardboard"
+  },
+  "weighing": {
+    "p": "/ˈweɪɪŋ/",
+    "t": "称重；权衡",
+    "en": "measuring the weight of something"
+  },
+  "packets": {
+    "p": "/ˈpækɪts/",
+    "t": "小包；小袋（复数）",
+    "en": "small packages or containers"
+  },
+  "sells": {
+    "p": "/selz/",
+    "t": "出售；销售",
+    "en": "offers for sale; exchanges for money"
+  },
+  "substitution": {
+    "p": "/ˌsʌbstɪˈtjuːʃn/",
+    "t": "替代；替换",
+    "en": "the act of replacing one thing with another"
+  },
+  "safflower": {
+    "p": "/ˈsæflaʊə/",
+    "t": "红花（植物）",
+    "en": "a thistle-like plant whose flowers yield oil and dye"
+  },
+  "turmeric": {
+    "p": "/ˈtɜːmərɪk/",
+    "t": "姜黄",
+    "en": "a yellow spice derived from a plant root"
+  },
+  "adulteration": {
+    "p": "/əˌdʌltəˈreɪʃn/",
+    "t": "掺假；掺杂",
+    "en": "the act of making something impure by adding inferior substances"
+  },
+  "blended": {
+    "p": "/ˈblendɪd/",
+    "t": "混合的；掺混的",
+    "en": "mixed together thoroughly"
+  },
+  "incomes": {
+    "p": "/ˈɪnkʌmz/",
+    "t": "收入（复数）",
+    "en": "money received from work or investments"
+  },
+  "obscures": {
+    "p": "/əbˈskjʊəz/",
+    "t": "使模糊；掩盖",
+    "en": "makes unclear or difficult to see"
+  },
+  "traceability": {
+    "p": "/ˌtreɪsəˈbɪləti/",
+    "t": "可追溯性",
+    "en": "the ability to trace the origin of something"
+  },
+  "horticulture": {
+    "p": "/ˈhɔːtɪkʌltʃə/",
+    "t": "园艺学；园艺",
+    "en": "the science and art of cultivating plants"
+  },
+  "humidity": {
+    "p": "/hjuːˈmɪdəti/",
+    "t": "湿度",
+    "en": "the amount of water vapour in the air"
+  },
+  "climaterelated": {
+    "p": "/ˈklaɪmət rɪˌleɪtɪd/",
+    "t": "与气候有关的",
+    "en": "connected with or caused by climate"
+  },
+  "frankincense": {
+    "p": "/ˈfræŋkɪnsens/",
+    "t": "乳香",
+    "en": "an aromatic resin used in incense"
+  },
+  "trafficked": {
+    "p": "/ˈtræfɪkt/",
+    "t": "非法交易的；贩运的",
+    "en": "traded illegally"
+  },
+  "pangolins": {
+    "p": "/ˈpæŋɡəlɪnz/",
+    "t": "穿山甲（复数）",
+    "en": "scaly anteaters often illegally traded"
+  },
+  "familys": {
+    "p": "/ˈfæmɪliz/",
+    "t": "家庭的（所有格，非标准拼写）",
+    "en": "belonging to a family (nonstandard possessive)"
+  },
+  "drying": {
+    "p": "/ˈdraɪɪŋ/",
+    "t": "干燥；晾干",
+    "en": "the process of becoming or making dry"
+  },
+  "faint": {
+    "p": "/feɪnt/",
+    "t": "微弱的；淡淡的",
+    "en": "very slight; barely perceptible"
+  },
+  "earthy": {
+    "p": "/ˈɜːθi/",
+    "t": "泥土般的；土味的",
+    "en": "resembling or suggestive of soil"
+  },
+  "scent": {
+    "p": "/sent/",
+    "t": "气味；香味",
+    "en": "a distinctive smell, especially a pleasant one"
+  },
+  "ousts": {
+    "p": "/aʊsts/",
+    "t": "驱逐；罢免",
+    "en": "drives out or removes from a position"
+  },
+  "mayor": {
+    "p": "/meə/",
+    "t": "市长",
+    "en": "the elected head of a city government"
+  },
+  "factory": {
+    "p": "/ˈfæktəri/",
+    "t": "工厂",
+    "en": "a building where goods are manufactured"
+  },
+  "metascience": {
+    "p": "/ˈmetəsaɪəns/",
+    "t": "元科学",
+    "en": "the scientific study of science itself"
+  },
+  "compel": {
+    "p": "/kəmˈpel/",
+    "t": "强迫",
+    "en": "to force or oblige someone to do something"
+  },
+  "fewest": {
+    "p": "/ˈfjuːɪst/",
+    "t": "最少的",
+    "en": "the smallest number of"
+  },
+  "suburbanized": {
+    "p": "/səˈbɜːbənaɪzd/",
+    "t": "郊区化的",
+    "en": "made into or characterized by suburbs"
+  },
+  "caroriented": {
+    "p": "/ˈkɑːrˌɔːrientɪd/",
+    "t": "以汽车为导向的",
+    "en": "designed around the use of cars"
+  },
+  "sprawling": {
+    "p": "/ˈsprɔːlɪŋ/",
+    "t": "蔓延的；无序扩展的",
+    "en": "spreading out over a large area in an untidy way"
+  },
+  "notionally": {
+    "p": "/ˈnəʊʃənəli/",
+    "t": "名义上地",
+    "en": "in a theoretical or nominal way, not in reality"
+  },
+  "evidently": {
+    "p": "/ˈevɪdəntli/",
+    "t": "显然地",
+    "en": "in a way that is clearly apparent"
+  },
+  "directtocamera": {
+    "p": "/dəˈrekt tə ˈkæmərə/",
+    "t": "直接面对镜头的",
+    "en": "speaking directly to the camera"
+  },
+  "rents": {
+    "p": "/rents/",
+    "t": "租金",
+    "en": "payments made for the use of property"
+  },
+  "urgency": {
+    "p": "/ˈɜːdʒənsi/",
+    "t": "紧迫性",
+    "en": "the quality of requiring immediate attention"
+  },
+  "accommodate": {
+    "p": "/əˈkɒmədeɪt/",
+    "t": "容纳；提供住宿",
+    "en": "to provide room or lodging for"
+  },
+  "mayoralty": {
+    "p": "/ˈmeərəlti/",
+    "t": "市长职位",
+    "en": "the office or term of a mayor"
+  },
+  "wield": {
+    "p": "/wiːld/",
+    "t": "行使；挥舞",
+    "en": "to hold and use power or a tool"
+  },
+  "denser": {
+    "p": "/ˈdensə/",
+    "t": "更密集的",
+    "en": "more closely packed or crowded"
+  },
+  "bewildering": {
+    "p": "/bɪˈwɪldərɪŋ/",
+    "t": "令人困惑的",
+    "en": "causing confusion or puzzlement"
+  },
+  "fasttrack": {
+    "p": "/ˈfɑːsttræk/",
+    "t": "快速通道；加速推进",
+    "en": "to speed up the progress of"
+  },
+  "dragged": {
+    "p": "/dræɡd/",
+    "t": "拖拽",
+    "en": "pulled along forcefully or with effort"
+  },
+  "singlefamily": {
+    "p": "/ˈsɪŋɡl ˈfæməli/",
+    "t": "单户的",
+    "en": "designed for one family only"
+  },
+  "retroactively": {
+    "p": "/ˌretrəʊˈæktɪvli/",
+    "t": "追溯地",
+    "en": "applying to past events or situations"
+  },
+  "breathtaking": {
+    "p": "/ˈbreθteɪkɪŋ/",
+    "t": "令人惊叹的",
+    "en": "astonishing or awe-inspiring"
+  },
+  "dysfunction": {
+    "p": "/dɪsˈfʌŋkʃn/",
+    "t": "功能失调",
+    "en": "abnormal or impaired functioning"
+  },
+  "observer": {
+    "p": "/əbˈzɜːvə/",
+    "t": "观察者",
+    "en": "a person who watches or notices something"
+  },
+  "functionally": {
+    "p": "/ˈfʌŋkʃənəli/",
+    "t": "功能上地",
+    "en": "in terms of function or practical operation"
+  },
+  "gutted": {
+    "p": "/ˈɡʌtɪd/",
+    "t": "内部毁坏的；极度失望的",
+    "en": "having the interior destroyed; deeply disappointed"
+  },
+  "transit": {
+    "p": "/ˈtrænzɪt/",
+    "t": "交通；运输",
+    "en": "the carrying of people or goods from one place to another"
+  },
+  "upzoning": {
+    "p": "/ˈʌpzəʊnɪŋ/",
+    "t": "提高分区密度",
+    "en": "rezoning to allow denser development"
+  },
+  "densified": {
+    "p": "/ˈdensɪfaɪd/",
+    "t": "使密集化",
+    "en": "made denser or more concentrated"
+  },
+  "firedamaged": {
+    "p": "/ˈfaɪəˌdæmɪdʒd/",
+    "t": "火灾损坏的",
+    "en": "damaged by fire"
+  },
+  "fireprone": {
+    "p": "/ˈfaɪəprəʊn/",
+    "t": "易发生火灾的",
+    "en": "susceptible to catching fire"
+  },
+  "density": {
+    "p": "/ˈdensəti/",
+    "t": "密度",
+    "en": "the degree of compactness of a substance or area"
+  },
+  "antibuilding": {
+    "p": "/ˌæntiˈbɪldɪŋ/",
+    "t": "反对建筑的",
+    "en": "opposed to construction or development"
+  },
+  "treaded": {
+    "p": "/ˈtredɪd/",
+    "t": "踩踏；行走",
+    "en": "walked or stepped on"
+  },
+  "gingerly": {
+    "p": "/ˈdʒɪndʒəli/",
+    "t": "小心翼翼地",
+    "en": "in a careful or cautious manner"
+  },
+  "affiliation": {
+    "p": "/əˌfɪliˈeɪʃn/",
+    "t": "隶属关系",
+    "en": "a connection or association with a group"
+  },
+  "supplyside": {
+    "p": "/səˈplaɪ saɪd/",
+    "t": "供给侧",
+    "en": "relating to the supply side of an economy"
+  },
+  "populism": {
+    "p": "/ˈpɒpjəlɪzəm/",
+    "t": "民粹主义",
+    "en": "a political approach appealing to ordinary people against elites"
+  },
+  "endorse": {
+    "p": "/ɪnˈdɔːs/",
+    "t": "支持；背书",
+    "en": "to declare public approval or support"
+  },
+  "socialdemocratic": {
+    "p": "/ˌsəʊʃl ˌdeməˈkrætɪk/",
+    "t": "社会民主主义的",
+    "en": "relating to a political ideology favoring gradual social reform"
+  },
+  "sincere": {
+    "p": "/sɪnˈsɪə/",
+    "t": "真诚的",
+    "en": "genuine and honest in feeling"
+  },
+  "tenant": {
+    "p": "/ˈtenənt/",
+    "t": "租户",
+    "en": "a person who rents property"
+  },
+  "stabilization": {
+    "p": "/ˌsteɪbəlaɪˈzeɪʃn/",
+    "t": "稳定化",
+    "en": "the process of making something stable"
+  },
+  "syntheses": {
+    "p": "/ˈsɪnθəsiːz/",
+    "t": "综合；合成",
+    "en": "combinations of parts into a whole"
+  },
+  "orthodoxies": {
+    "p": "/ˈɔːθədɒksiz/",
+    "t": "正统观念",
+    "en": "accepted or traditional beliefs"
   }
 }
