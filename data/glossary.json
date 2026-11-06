@@ -65208,5 +65208,495 @@
     "p": "/ˈtrænziənt/",
     "t": "短暂的；临时的；流动人员",
     "en": "lasting only a short time; temporary"
+  },
+  "clicked": {
+    "p": "/klɪkt/",
+    "t": "点击了",
+    "en": "past tense of click; pressed a mouse button"
+  },
+  "fraudulent": {
+    "p": "/ˈfrɔːdjʊlənt/",
+    "t": "欺诈的",
+    "en": "involving deception for financial gain"
+  },
+  "ransomware": {
+    "p": "/ˈrænsəmweə/",
+    "t": "勒索软件",
+    "en": "malware that encrypts data and demands payment"
+  },
+  "cybercriminals": {
+    "p": "/ˈsaɪbəkrɪmɪnəlz/",
+    "t": "网络罪犯",
+    "en": "people who commit crimes using computers"
+  },
+  "cybercrime": {
+    "p": "/ˈsaɪbə kraɪm/",
+    "t": "网络犯罪",
+    "en": "criminal activity carried out via computers or the internet"
+  },
+  "professionalised": {
+    "p": "/prəˈfeʃənəlaɪzd/",
+    "t": "专业化的",
+    "en": "made professional in organization or method"
+  },
+  "cybersecurity": {
+    "p": "/ˌsaɪbəsɪˈkjʊərəti/",
+    "t": "网络安全",
+    "en": "protection of computer systems from attack"
+  },
+  "internets": {
+    "p": "/ˈɪntənets/",
+    "t": "互联网（复数）",
+    "en": "plural of internet; interconnected computer networks"
+  },
+  "lures": {
+    "p": "/ljʊəz/",
+    "t": "诱饵；引诱",
+    "en": "things that tempt or attract; entices"
+  },
+  "linguistically": {
+    "p": "/lɪŋˈɡwɪstɪkli/",
+    "t": "语言上地",
+    "en": "in terms of language"
+  },
+  "impersonate": {
+    "p": "/ɪmˈpɜːsəneɪt/",
+    "t": "冒充",
+    "en": "to pretend to be another person"
+  },
+  "banks": {
+    "p": "/bæŋks/",
+    "t": "银行（复数）",
+    "en": "financial institutions; plural of bank"
+  },
+  "spyware": {
+    "p": "/ˈspaɪweə/",
+    "t": "间谍软件",
+    "en": "software that secretly gathers user information"
+  },
+  "deepfakes": {
+    "p": "/ˈdiːpfeɪks/",
+    "t": "深度伪造",
+    "en": "manipulated videos or audio made with AI"
+  },
+  "encrypted": {
+    "p": "/ɪnˈkrɪptɪd/",
+    "t": "加密的",
+    "en": "converted into code to prevent unauthorized access"
+  },
+  "starter": {
+    "p": "/ˈstɑːtə/",
+    "t": "起始的；开胃菜",
+    "en": "first course; something that starts"
+  },
+  "prepackaged": {
+    "p": "/ˌpriːˈpækɪdʒd/",
+    "t": "预先包装的",
+    "en": "packaged before sale"
+  },
+  "phishing": {
+    "p": "/ˈfɪʃɪŋ/",
+    "t": "网络钓鱼",
+    "en": "fraudulently obtaining information by posing as trustworthy"
+  },
+  "technically": {
+    "p": "/ˈteknɪkli/",
+    "t": "技术上地",
+    "en": "according to technical facts or strict meaning"
+  },
+  "scams": {
+    "p": "/skæmz/",
+    "t": "骗局",
+    "en": "fraudulent schemes; plural of scam"
+  },
+  "verifying": {
+    "p": "/ˈverɪfaɪɪŋ/",
+    "t": "核实",
+    "en": "checking or proving to be true"
+  },
+  "continent": {
+    "p": "/ˈkɒntɪnənt/",
+    "t": "大陆",
+    "en": "one of the earth's large landmasses"
+  },
+  "disparities": {
+    "p": "/dɪˈspærətiz/",
+    "t": "差异",
+    "en": "differences, especially unfair ones"
+  },
+  "penetration": {
+    "p": "/ˌpenɪˈtreɪʃn/",
+    "t": "渗透；穿透",
+    "en": "act of entering or piercing; infiltration"
+  },
+  "fixedline": {
+    "p": "/fɪkst laɪn/",
+    "t": "固定电话线路",
+    "en": "telephone connection using physical wires"
+  },
+  "cybercrimerelated": {
+    "p": "/ˈsaɪbə kraɪm rɪleɪtɪd/",
+    "t": "与网络犯罪相关的",
+    "en": "related to cybercrime"
+  },
+  "detection": {
+    "p": "/dɪˈtekʃn/",
+    "t": "检测",
+    "en": "discovery or identification of something"
+  },
+  "malware": {
+    "p": "/ˈmælweə/",
+    "t": "恶意软件",
+    "en": "software designed to damage or gain unauthorized access"
+  },
+  "squads": {
+    "p": "/skwɒdz/",
+    "t": "小队",
+    "en": "small groups working together; plural of squad"
+  },
+  "cybercriminal": {
+    "p": "/ˈsaɪbəkrɪmɪnəl/",
+    "t": "网络罪犯",
+    "en": "a person who commits computer-related crimes"
+  },
+  "pacemakers": {
+    "p": "/ˈpeɪsmeɪkəz/",
+    "t": "心脏起搏器",
+    "en": "devices that regulate the heartbeat"
+  },
+  "selfdriving": {
+    "p": "/ˌself ˈdraɪvɪŋ/",
+    "t": "自动驾驶的",
+    "en": "operating a vehicle without human control"
+  },
+  "hackers": {
+    "p": "/ˈhækəz/",
+    "t": "黑客",
+    "en": "people who gain unauthorized access to computer systems"
+  },
+  "lawenforcement": {
+    "p": "/lɔː ɪnˈfɔːsmənt/",
+    "t": "执法",
+    "en": "agencies that enforce laws"
+  },
+  "administrations": {
+    "p": "/ədˌmɪnɪˈstreɪʃnz/",
+    "t": "行政部门；政府",
+    "en": "governments or management bodies"
+  },
+  "criminalise": {
+    "p": "/ˈkrɪmɪnəlaɪz/",
+    "t": "使非法",
+    "en": "to make something illegal"
+  },
+  "revised": {
+    "p": "/rɪˈvaɪzd/",
+    "t": "修订的",
+    "en": "altered or improved after review"
+  },
+  "lockdowns": {
+    "p": "/ˈlɒkdaʊnz/",
+    "t": "封锁",
+    "en": "restrictions on movement, often for emergencies"
+  },
+  "disasters": {
+    "p": "/dɪˈzɑːstəz/",
+    "t": "灾难",
+    "en": "events causing great damage or loss"
+  },
+  "translating": {
+    "p": "/trænzˈleɪtɪŋ/",
+    "t": "翻译",
+    "en": "converting text from one language to another"
+  },
+  "password": {
+    "p": "/ˈpɑːswɜːd/",
+    "t": "密码",
+    "en": "secret string used to gain access"
+  },
+  "twostep": {
+    "p": "/tuː step/",
+    "t": "两步的",
+    "en": "involving two stages or steps"
+  },
+  "verification": {
+    "p": "/ˌverɪfɪˈkeɪʃn/",
+    "t": "验证",
+    "en": "process of checking truth or accuracy"
+  },
+  "passkeys": {
+    "p": "/ˈpɑːskiːz/",
+    "t": "通行密钥",
+    "en": "digital credentials replacing passwords"
+  },
+  "passwordless": {
+    "p": "/ˈpɑːswɜːdləs/",
+    "t": "无密码的",
+    "en": "not requiring a password"
+  },
+  "biometrics": {
+    "p": "/ˌbaɪəʊˈmetrɪks/",
+    "t": "生物识别",
+    "en": "use of physical characteristics for identification"
+  },
+  "goldrush": {
+    "p": "/ˈɡəʊldrʌʃ/",
+    "t": "淘金热",
+    "en": "sudden surge of people seeking wealth"
+  },
+  "speculative": {
+    "p": "/ˈspekjələtɪv/",
+    "t": "投机性的；推测的",
+    "en": "based on conjecture or risky investment"
+  },
+  "canvassing": {
+    "p": "/ˈkænvəsɪŋ/",
+    "t": "游说；拉票",
+    "en": "the activity of soliciting votes or support"
+  },
+  "shrunken": {
+    "p": "/ˈʃrʌŋkən/",
+    "t": "萎缩的；缩水的",
+    "en": "having become smaller or shriveled"
+  },
+  "mellow": {
+    "p": "/ˈmeləʊ/",
+    "t": "柔和的；醇厚的",
+    "en": "soft, gentle, and pleasant; not harsh"
+  },
+  "squarely": {
+    "p": "/ˈskweəli/",
+    "t": "直接地；正对着地",
+    "en": "directly and firmly; without evasion"
+  },
+  "operatives": {
+    "p": "/ˈɒpərətɪvz/",
+    "t": "特工；操作人员",
+    "en": "agents or workers engaged in secret or practical work"
+  },
+  "uninspiring": {
+    "p": "/ˌʌnɪnˈspaɪərɪŋ/",
+    "t": "不鼓舞人心的；乏味的",
+    "en": "not exciting or stimulating; dull"
+  },
+  "renewedly": {
+    "p": "/rɪˈnjuːɪdli/",
+    "t": "重新地；再次地",
+    "en": "in a renewed manner; again"
+  },
+  "blued": {
+    "p": "/bluːd/",
+    "t": "染成蓝色的；变蓝的",
+    "en": "made blue or turned blue"
+  },
+  "blowout": {
+    "p": "/ˈbləʊaʊt/",
+    "t": "爆胎；大胜；盛大庆典",
+    "en": "a burst tire, an easy victory, or a large festive occasion"
+  },
+  "anticruelty": {
+    "p": "/ˌæntiˈkruːəlti/",
+    "t": "反虐待的",
+    "en": "opposed to cruelty, especially to animals"
+  },
+  "neighborly": {
+    "p": "/ˈneɪbəli/",
+    "t": "友好的；睦邻的",
+    "en": "friendly and helpful toward neighbors"
+  },
+  "characteristically": {
+    "p": "/ˌkærəktəˈrɪstɪkli/",
+    "t": "典型地；特有地",
+    "en": "in a way typical of a person or thing"
+  },
+  "gracious": {
+    "p": "/ˈɡreɪʃəs/",
+    "t": "亲切的；有礼貌的",
+    "en": "courteous, kind, and pleasant"
+  },
+  "slinging": {
+    "p": "/ˈslɪŋɪŋ/",
+    "t": "投掷；悬挂",
+    "en": "throwing or hanging something loosely"
+  },
+  "anodyne": {
+    "p": "/ˈænədaɪn/",
+    "t": "止痛药；平淡无奇的",
+    "en": "a painkiller; inoffensive and dull"
+  },
+  "incivility": {
+    "p": "/ˌɪnsɪˈvɪləti/",
+    "t": "无礼；粗鲁",
+    "en": "rude or impolite behavior"
+  },
+  "insults": {
+    "p": "/ˈɪnsʌlts/",
+    "t": "侮辱；辱骂",
+    "en": "offensive remarks or actions"
+  },
+  "curses": {
+    "p": "/ˈkɜːsɪz/",
+    "t": "咒骂；诅咒",
+    "en": "offensive words or wishes of harm"
+  },
+  "epithets": {
+    "p": "/ˈepɪθets/",
+    "t": "侮辱性称呼；绰号",
+    "en": "abusive or descriptive terms used of a person"
+  },
+  "innuendos": {
+    "p": "/ˌɪnjuˈendəʊz/",
+    "t": "影射；暗讽",
+    "en": "indirect remarks implying something derogatory"
+  },
+  "undisguised": {
+    "p": "/ˌʌndɪsˈɡaɪzd/",
+    "t": "不加掩饰的；公开的",
+    "en": "open and not concealed"
+  },
+  "animus": {
+    "p": "/ˈænɪməs/",
+    "t": "敌意；恶意",
+    "en": "hostility or ill feeling"
+  },
+  "legislate": {
+    "p": "/ˈledʒɪsleɪt/",
+    "t": "立法；制定法律",
+    "en": "to make laws"
+  },
+  "pursuing": {
+    "p": "/pəˈsjuːɪŋ/",
+    "t": "追求；从事",
+    "en": "following or seeking to achieve something"
+  },
+  "cruelest": {
+    "p": "/ˈkruːəlɪst/",
+    "t": "最残忍的",
+    "en": "most cruel; showing the greatest indifference to suffering"
+  },
+  "lawabiding": {
+    "p": "/ˈlɔːəbaɪdɪŋ/",
+    "t": "守法的",
+    "en": "obeying the law"
+  },
+  "ejected": {
+    "p": "/ɪˈdʒektɪd/",
+    "t": "被驱逐；被弹出",
+    "en": "forced or thrown out"
+  },
+  "mocks": {
+    "p": "/mɒks/",
+    "t": "嘲笑；模仿",
+    "en": "teases or ridicules; imitates derisively"
+  },
+  "humiliates": {
+    "p": "/hjuːˈmɪlieɪts/",
+    "t": "羞辱；使丢脸",
+    "en": "makes someone feel ashamed or foolish"
+  },
+  "offputting": {
+    "p": "/ˌɒfˈpʊtɪŋ/",
+    "t": "令人反感的；令人不快的",
+    "en": "unpleasant or disconcerting; discouraging"
+  },
+  "tearing": {
+    "p": "/ˈteərɪŋ/",
+    "t": "撕裂；扯破",
+    "en": "pulling apart or ripping"
+  },
+  "strategist": {
+    "p": "/ˈstrætədʒɪst/",
+    "t": "战略家；策划者",
+    "en": "a person skilled in planning strategy"
+  },
+  "prevailed": {
+    "p": "/prɪˈveɪld/",
+    "t": "获胜；盛行",
+    "en": "proved more powerful; was widespread"
+  },
+  "pasts": {
+    "p": "/pɑːsts/",
+    "t": "过去；往事",
+    "en": "previous times or histories"
+  },
+  "sunshine": {
+    "p": "/ˈsʌnʃaɪn/",
+    "t": "阳光；欢乐",
+    "en": "the light of the sun; cheerfulness"
+  },
+  "circles": {
+    "p": "/ˈsɜːklz/",
+    "t": "圈子；界",
+    "en": "groups of people with shared interests"
+  },
+  "bonafide": {
+    "p": "/ˌbəʊnəˈfaɪdi/",
+    "t": "真正的；真诚的",
+    "en": "genuine and authentic"
+  },
+  "jerks": {
+    "p": "/dʒɜːks/",
+    "t": "猛拉；蠢人",
+    "en": "sudden pulls; foolish or contemptible people"
+  },
+  "calmer": {
+    "p": "/ˈkɑːmə/",
+    "t": "更平静的",
+    "en": "more peaceful and free from agitation"
+  },
+  "prevail": {
+    "p": "/prɪˈveɪl/",
+    "t": "获胜；盛行",
+    "en": "to prove more powerful or become widespread"
+  },
+  "slogging": {
+    "p": "/ˈslɒɡɪŋ/",
+    "t": "苦干；艰难行进",
+    "en": "working hard or walking with effort"
+  },
+  "underplotted": {
+    "p": "/ˌʌndəˈplɒtɪd/",
+    "t": "情节薄弱的",
+    "en": "having an insufficiently developed plot"
+  },
+  "distractions": {
+    "p": "/dɪˈstrækʃənz/",
+    "t": "分心之物；消遣",
+    "en": "things that divert attention or entertain"
+  },
+  "print": {
+    "p": "/prɪnt/",
+    "t": "印刷；打印",
+    "en": "to produce text or images on paper"
+  },
+  "ebooks": {
+    "p": "/ˈiːbʊks/",
+    "t": "电子书",
+    "en": "digital books read on electronic devices"
+  },
+  "anticommunist": {
+    "p": "/ˌæntiˈkɒmjʊnɪst/",
+    "t": "反共产主义的",
+    "en": "opposed to communism"
+  },
+  "fervor": {
+    "p": "/ˈfɜːvə/",
+    "t": "热情；狂热",
+    "en": "intense and passionate feeling"
+  },
+  "confronted": {
+    "p": "/kənˈfrʌntɪd/",
+    "t": "面对；对抗",
+    "en": "faced or dealt with directly"
+  },
+  "thorny": {
+    "p": "/ˈθɔːni/",
+    "t": "棘手的；多刺的",
+    "en": "difficult or problematic; full of thorns"
+  },
+  "metaphysical": {
+    "p": "/ˌmetəˈfɪzɪkl/",
+    "t": "形而上学的；抽象的",
+    "en": "relating to abstract philosophical matters"
   }
 }
