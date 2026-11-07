@@ -66373,5 +66373,85 @@
     "p": "/ˈɔːθədɒksiz/",
     "t": "正统观念",
     "en": "accepted or traditional beliefs"
+  },
+  "batted": {
+    "p": "/ˈbætɪd/",
+    "t": "击球的；用球棒击打的",
+    "en": "hit with a bat; past tense of bat"
+  },
+  "decisively": {
+    "p": "/dɪˈsaɪsɪvli/",
+    "t": "果断地；决定性地",
+    "en": "in a manner that settles an issue or shows determination"
+  },
+  "cruised": {
+    "p": "/kruːzd/",
+    "t": "巡航；乘船游览",
+    "en": "traveled smoothly at a steady speed or on a cruise"
+  },
+  "currents": {
+    "p": "/ˈkʌrənts/",
+    "t": "水流；电流；潮流",
+    "en": "flows of water, air, or electricity; prevailing trends"
+  },
+  "penalized": {
+    "p": "/ˈpiːnəlaɪzd/",
+    "t": "处罚；使处于不利地位",
+    "en": "imposed a penalty on; put at a disadvantage"
+  },
+  "transitoriented": {
+    "p": "/ˈtrænzɪtˌɔːrientɪd/",
+    "t": "以公共交通为导向的",
+    "en": "designed around or focused on public transit"
+  },
+  "stateowned": {
+    "p": "/ˈsteɪtˌəʊnd/",
+    "t": "国有的",
+    "en": "owned by the government"
+  },
+  "paychecks": {
+    "p": "/ˈpeɪtʃeks/",
+    "t": "工资支票；薪水",
+    "en": "checks or payments of wages to employees"
+  },
+  "uplift": {
+    "p": "/ˈʌplɪft/",
+    "t": "提升；振奋",
+    "en": "raise or improve morally, spiritually, or physically"
+  },
+  "truthfully": {
+    "p": "/ˈtruːθfəli/",
+    "t": "诚实地；如实地",
+    "en": "in an honest and factual manner"
+  },
+  "cheerleaders": {
+    "p": "/ˈtʃɪəliːdəz/",
+    "t": "啦啦队队员",
+    "en": "people who lead cheers to encourage a team or crowd"
+  },
+  "assert": {
+    "p": "/əˈsɜːt/",
+    "t": "断言；主张；维护",
+    "en": "state confidently or defend a right or claim"
+  },
+  "proai": {
+    "p": "/ˌprəʊ eɪ ˈaɪ/",
+    "t": "支持人工智能的",
+    "en": "in favor of or supporting artificial intelligence"
+  },
+  "guardrails": {
+    "p": "/ˈɡɑːdreɪlz/",
+    "t": "护栏；防护措施",
+    "en": "protective barriers or safety limits"
+  },
+  "penny": {
+    "p": "/ˈpeni/",
+    "t": "便士；一分钱",
+    "en": "a small unit of currency; a coin of low value"
+  },
+  "pollute": {
+    "p": "/pəˈluːt/",
+    "t": "污染",
+    "en": "contaminate with harmful substances"
   }
 }
