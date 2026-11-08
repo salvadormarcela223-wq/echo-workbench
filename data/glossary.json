@@ -66453,5 +66453,475 @@
     "p": "/pəˈluːt/",
     "t": "污染",
     "en": "contaminate with harmful substances"
+  },
+  "ballerinas": {
+    "p": "/ˌbæləˈriːnəz/",
+    "t": "芭蕾舞女演员（复数）",
+    "en": "female ballet dancers"
+  },
+  "chatty": {
+    "p": "/ˈtʃæti/",
+    "t": "健谈的；闲聊的",
+    "en": "talkative; informal in style"
+  },
+  "madeup": {
+    "p": "/ˈmeɪdʌp/",
+    "t": "编造的；虚构的；化了妆的",
+    "en": "invented or fabricated; also wearing makeup"
+  },
+  "daisy": {
+    "p": "/ˈdeɪzi/",
+    "t": "雏菊",
+    "en": "a small white flower with a yellow centre"
+  },
+  "peculiarshaped": {
+    "p": "/pɪˈkjuːliəʃeɪpt/",
+    "t": "形状奇特的",
+    "en": "having an unusual or strange shape"
+  },
+  "blotted": {
+    "p": "/ˈblɒtɪd/",
+    "t": "弄脏的； blot 的过去式",
+    "en": "stained or marked with ink; past of blot"
+  },
+  "baking": {
+    "p": "/ˈbeɪkɪŋ/",
+    "t": "烘焙；烤制",
+    "en": "cooking food by dry heat in an oven"
+  },
+  "fairy": {
+    "p": "/ˈfeəri/",
+    "t": "仙女；小精灵",
+    "en": "a small magical being with wings"
+  },
+  "practising": {
+    "p": "/ˈpræktɪsɪŋ/",
+    "t": "练习；从事（职业）",
+    "en": "doing something repeatedly to improve; working as a professional"
+  },
+  "handstands": {
+    "p": "/ˈhændstændz/",
+    "t": "倒立（复数）",
+    "en": "acts of balancing upside down on the hands"
+  },
+  "cartwheels": {
+    "p": "/ˈkɑːtwiːlz/",
+    "t": "侧手翻（复数）",
+    "en": "sideways somersaults with hands on the ground"
+  },
+  "foursome": {
+    "p": "/ˈfɔːsəm/",
+    "t": "四人一组；四人活动",
+    "en": "a group of four people"
+  },
+  "figment": {
+    "p": "/ˈfɪɡmənt/",
+    "t": "虚构的事物",
+    "en": "something invented or imagined"
+  },
+  "imaginary": {
+    "p": "/ɪˈmædʒɪnəri/",
+    "t": "想象中的；虚构的",
+    "en": "existing only in the imagination"
+  },
+  "multicoloured": {
+    "p": "/ˌmʌltiˈkʌləd/",
+    "t": "多色的；五彩缤纷的",
+    "en": "having many colours"
+  },
+  "alligators": {
+    "p": "/ˈælɪɡeɪtəz/",
+    "t": "短吻鳄（复数）",
+    "en": "large reptiles of the crocodile family"
+  },
+  "downs": {
+    "p": "/daʊnz/",
+    "t": "丘陵；down 的复数",
+    "en": "rolling uplands; plural of down"
+  },
+  "materialised": {
+    "p": "/məˈtɪəriəlaɪzd/",
+    "t": "实现；具体化（过去式）",
+    "en": "became real or actual; appeared"
+  },
+  "trailed": {
+    "p": "/treɪld/",
+    "t": "拖；尾随（过去式）",
+    "en": "dragged or followed behind"
+  },
+  "storytellers": {
+    "p": "/ˈstɔːriteləz/",
+    "t": "讲故事的人（复数）",
+    "en": "people who tell stories"
+  },
+  "vivid": {
+    "p": "/ˈvɪvɪd/",
+    "t": "生动的；鲜艳的",
+    "en": "producing strong clear images; bright"
+  },
+  "customised": {
+    "p": "/ˈkʌstəmaɪzd/",
+    "t": "定制的",
+    "en": "modified to suit a particular customer"
+  },
+  "evershifting": {
+    "p": "/ˈevəʃɪftɪŋ/",
+    "t": "不断变化的",
+    "en": "constantly changing"
+  },
+  "whims": {
+    "p": "/wɪmz/",
+    "t": "一时的兴致；怪念头（复数）",
+    "en": "sudden fanciful desires"
+  },
+  "carton": {
+    "p": "/ˈkɑːtn/",
+    "t": "纸盒；纸板箱",
+    "en": "a cardboard container"
+  },
+  "ballet": {
+    "p": "/ˈbæleɪ/",
+    "t": "芭蕾舞",
+    "en": "a classical form of dance"
+  },
+  "jumped": {
+    "p": "/dʒʌmpt/",
+    "t": "跳（过去式）",
+    "en": "leapt; past of jump"
+  },
+  "leapt": {
+    "p": "/lept/",
+    "t": "跳跃（过去式）",
+    "en": "jumped; past of leap"
+  },
+  "leotards": {
+    "p": "/ˈliːətɑːdz/",
+    "t": "紧身连衣裤（复数）",
+    "en": "tight-fitting garments worn by dancers"
+  },
+  "tutus": {
+    "p": "/ˈtuːtuːz/",
+    "t": "芭蕾舞短裙（复数）",
+    "en": "short skirts worn by ballerinas"
+  },
+  "slippers": {
+    "p": "/ˈslɪpəz/",
+    "t": "拖鞋；舞鞋（复数）",
+    "en": "soft shoes worn indoors or for dancing"
+  },
+  "enigma": {
+    "p": "/ɪˈnɪɡmə/",
+    "t": "谜；难以理解的事物",
+    "en": "something mysterious or puzzling"
+  },
+  "tidbits": {
+    "p": "/ˈtɪdbɪts/",
+    "t": "趣闻；小片食物（复数）",
+    "en": "small pieces of interesting news or food"
+  },
+  "allegros": {
+    "p": "/əˈleɡrəʊz/",
+    "t": "快板（复数）",
+    "en": "fast musical passages or movements"
+  },
+  "entertain": {
+    "p": "/ˌentəˈteɪn/",
+    "t": "娱乐；招待",
+    "en": "to amuse or provide hospitality"
+  },
+  "foggy": {
+    "p": "/ˈfɒɡi/",
+    "t": "有雾的；模糊的",
+    "en": "filled with fog; unclear"
+  },
+  "slick": {
+    "p": "/slɪk/",
+    "t": "光滑的；熟练的",
+    "en": "smooth and glossy; skilful"
+  },
+  "explosions": {
+    "p": "/ɪkˈspləʊʒənz/",
+    "t": "爆炸（复数）",
+    "en": "sudden violent bursts"
+  },
+  "splattered": {
+    "p": "/ˈsplætəd/",
+    "t": "溅洒的",
+    "en": "spattered or splashed with liquid"
+  },
+  "chimney": {
+    "p": "/ˈtʃɪmni/",
+    "t": "烟囱",
+    "en": "a vertical pipe for carrying smoke"
+  },
+  "developmental": {
+    "p": "/dɪˌveləpˈmentl/",
+    "t": "发展的；发育的",
+    "en": "relating to growth or development over time"
+  },
+  "psychopathology": {
+    "p": "/ˌsaɪkəʊpəˈθɒlədʒi/",
+    "t": "精神病理学",
+    "en": "the study of mental disorders"
+  },
+  "materialise": {
+    "p": "/məˈtɪəriəlaɪz/",
+    "t": "实现；具体化",
+    "en": "to become real or actual"
+  },
+  "fantastical": {
+    "p": "/fænˈtæstɪkl/",
+    "t": "奇异的；幻想的",
+    "en": "strange and imaginative; unreal"
+  },
+  "nezdas": {
+    "p": "/ˈnezdəz/",
+    "t": "（专有名词，人名/术语）",
+    "en": "proper noun; a name or term"
+  },
+  "neurotypical": {
+    "p": "/ˌnjʊərəʊˈtɪpɪkl/",
+    "t": "神经典型的",
+    "en": "having typical neurological development"
+  },
+  "indulge": {
+    "p": "/ɪnˈdʌldʒ/",
+    "t": "纵容；沉溺",
+    "en": "to allow oneself to enjoy something"
+  },
+  "companionships": {
+    "p": "/kəmˈpænjənʃɪps/",
+    "t": "陪伴；友谊（复数）",
+    "en": "relationships of companionship"
+  },
+  "riskfree": {
+    "p": "/ˈrɪskfriː/",
+    "t": "无风险的",
+    "en": "involving no risk"
+  },
+  "forum": {
+    "p": "/ˈfɔːrəm/",
+    "t": "论坛；讨论会",
+    "en": "a place for discussion"
+  },
+  "entity": {
+    "p": "/ˈentəti/",
+    "t": "实体；存在物",
+    "en": "a thing with distinct existence"
+  },
+  "apologise": {
+    "p": "/əˈpɒlədʒaɪz/",
+    "t": "道歉",
+    "en": "to express regret for a fault"
+  },
+  "predicament": {
+    "p": "/prɪˈdɪkəmənt/",
+    "t": "困境；窘境",
+    "en": "a difficult situation"
+  },
+  "developmentally": {
+    "p": "/dɪˌveləpˈmentəli/",
+    "t": "在发展方面；发育上",
+    "en": "in terms of development or growth"
+  },
+  "sensemaking": {
+    "p": "/ˈsensmeɪkɪŋ/",
+    "t": "意义建构",
+    "en": "the process of making sense of experience"
+  },
+  "selfgenerated": {
+    "p": "/ˌselfˈdʒenəreɪtɪd/",
+    "t": "自我生成的",
+    "en": "produced by oneself"
+  },
+  "plaits": {
+    "p": "/plæts/",
+    "t": "辫子（复数）",
+    "en": "braids of hair"
+  },
+  "shirt": {
+    "p": "/ʃɜːt/",
+    "t": "衬衫",
+    "en": "a garment for the upper body"
+  },
+  "workrelated": {
+    "p": "/ˈwɜːkrɪleɪtɪd/",
+    "t": "与工作有关的",
+    "en": "connected with one's job"
+  },
+  "simulation": {
+    "p": "/ˌsɪmjuˈleɪʃn/",
+    "t": "模拟；仿真",
+    "en": "an imitation of a real situation"
+  },
+  "affection": {
+    "p": "/əˈfekʃn/",
+    "t": "喜爱；感情",
+    "en": "a feeling of fondness"
+  },
+  "adulthoods": {
+    "p": "/ˈædʌlthʊdz/",
+    "t": "成年期（复数）",
+    "en": "periods or states of being adult"
+  },
+  "stressors": {
+    "p": "/ˈstresəz/",
+    "t": "压力源（复数）",
+    "en": "things that cause stress"
+  },
+  "mastering": {
+    "p": "/ˈmɑːstərɪŋ/",
+    "t": "掌握；精通",
+    "en": "acquiring complete knowledge or skill"
+  },
+  "neared": {
+    "p": "/nɪəd/",
+    "t": "接近（过去式）",
+    "en": "came close to"
+  },
+  "huddled": {
+    "p": "/ˈhʌdld/",
+    "t": "蜷缩；挤在一起",
+    "en": "crowded or curled up closely"
+  },
+  "undulating": {
+    "p": "/ˈʌndjuleɪtɪŋ/",
+    "t": "起伏的；波状的",
+    "en": "moving with a wavelike motion"
+  },
+  "warmth": {
+    "p": "/wɔːmθ/",
+    "t": "温暖；热情",
+    "en": "the quality of being warm"
+  },
+  "pirouette": {
+    "p": "/ˌpɪruˈet/",
+    "t": "（芭蕾）旋转",
+    "en": "a spin on one foot in ballet"
+  },
+  "trailing": {
+    "p": "/ˈtreɪlɪŋ/",
+    "t": "拖曳；尾随",
+    "en": "dragging or following behind"
+  },
+  "hindsight": {
+    "p": "/ˈhaɪndsaɪt/",
+    "t": "事后聪明；后见之明",
+    "en": "understanding of a situation only after it has happened"
+  },
+  "pride": {
+    "p": "/praɪd/",
+    "t": "自豪；骄傲；自尊",
+    "en": "a feeling of deep satisfaction or self-respect"
+  },
+  "academically": {
+    "p": "/ˌækəˈdemɪkli/",
+    "t": "学业上；学术上",
+    "en": "in a way relating to education, schools, or scholarly study"
+  },
+  "preoccupation": {
+    "p": "/priːˌɒkjʊˈpeɪʃn/",
+    "t": "全神贯注；当务之急",
+    "en": "a state of being absorbed in thought or occupied with something"
+  },
+  "executing": {
+    "p": "/ˈeksɪkjuːtɪŋ/",
+    "t": "执行；实施",
+    "en": "carrying out or putting a plan or action into effect"
+  },
+  "nonhuman": {
+    "p": "/ˌnɒnˈhjuːmən/",
+    "t": "非人类的",
+    "en": "not belonging to or characteristic of human beings"
+  },
+  "sentience": {
+    "p": "/ˈsentiəns/",
+    "t": "感知能力；意识",
+    "en": "the capacity to feel, perceive, or experience subjectively"
+  },
+  "mechanistic": {
+    "p": "/ˌmekəˈnɪstɪk/",
+    "t": "机械论的；机械式的",
+    "en": "explaining things as resulting from mechanical processes"
+  },
+  "overlooking": {
+    "p": "/ˌəʊvəˈlʊkɪŋ/",
+    "t": "忽视；俯瞰",
+    "en": "failing to notice something, or looking down on from above"
+  },
+  "selfrecognition": {
+    "p": "/ˌselfˌrekəɡˈnɪʃn/",
+    "t": "自我识别；自我认知",
+    "en": "the ability to recognize oneself, as in a mirror"
+  },
+  "modalities": {
+    "p": "/məʊˈdælətiz/",
+    "t": "方式；形式；模式",
+    "en": "ways or modes in which something is done or experienced"
+  },
+  "octopuses": {
+    "p": "/ˈɒktəpəsɪz/",
+    "t": "章鱼（复数）",
+    "en": "plural of octopus; eight-armed sea mollusks"
+  },
+  "impress": {
+    "p": "/ɪmˈpres/",
+    "t": "给…留下深刻印象；使钦佩",
+    "en": "to make someone feel admiration and respect"
+  },
+  "preconceived": {
+    "p": "/ˌpriːkənˈsiːvd/",
+    "t": "事先形成的；预想的",
+    "en": "formed in advance before having enough knowledge or experience"
+  },
+  "chimpanzees": {
+    "p": "/ˌtʃɪmpænˈziːz/",
+    "t": "黑猩猩（复数）",
+    "en": "plural of chimpanzee; intelligent African apes"
+  },
+  "neglecting": {
+    "p": "/nɪˈɡlektɪŋ/",
+    "t": "忽视；疏忽",
+    "en": "failing to care for or give proper attention to"
+  },
+  "behaviorally": {
+    "p": "/bɪˈheɪvjərəli/",
+    "t": "在行为上",
+    "en": "in terms of behavior"
+  },
+  "nurse": {
+    "p": "/nɜːs/",
+    "t": "护士；看护；哺育",
+    "en": "a person trained to care for the sick, or to feed and care for young"
+  },
+  "analgesics": {
+    "p": "/ˌænəlˈdʒiːzɪks/",
+    "t": "止痛药（复数）",
+    "en": "plural of analgesic; drugs that relieve pain"
+  },
+  "antidepressants": {
+    "p": "/ˌæntidɪˈpresnts/",
+    "t": "抗抑郁药（复数）",
+    "en": "plural of antidepressant; drugs used to treat depression"
+  },
+  "ancestral": {
+    "p": "/ænˈsestrəl/",
+    "t": "祖先的；祖传的",
+    "en": "relating to or inherited from ancestors"
+  },
+  "proportionate": {
+    "p": "/prəˈpɔːʃənət/",
+    "t": "成比例的；相称的",
+    "en": "corresponding in size or amount to something else"
+  },
+  "monstera": {
+    "p": "/mɒnˈstɪərə/",
+    "t": "龟背竹（一种植物）",
+    "en": "a tropical plant with large perforated leaves"
+  },
+  "agentic": {
+    "p": "/eɪˈdʒentɪk/",
+    "t": "能动性的；有主体性的",
+    "en": "relating to the capacity to act independently and make choices"
   }
 }
