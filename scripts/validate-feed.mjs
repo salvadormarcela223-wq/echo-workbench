@@ -76,10 +76,11 @@ export function validate(feed, opts = {}) {
           if (!it[f] || !String(it[f]).trim()) emptyFields.push({ tag, field: f, reason: `${tag} 字段「${f}」为空（会显示空白）` });
         }
         // 视角字段：view(旧) 或 viewCMI/viewSensory(新) 任一非空即通过；
-        // 但 lens=neither（文章与 CMI/感官都不相关）属正常无视角状态，不判缺失，避免误拦发布
+        // lens=neither（AI 判定与 CMI/感官均不相关）2026-11-09 起不再放行：此类条目在发布清理阶段整体丢弃，
+        // 防止无关文献混入「感官研究」板块（2026-11-06 用户裁决：专业提升只留真正相关内容）
         if (!skipImpactEmpty) {
           const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
-          if (!hasView && it.lens !== 'neither') emptyFields.push({ tag, field: 'view', reason: `${tag} 字段「view/viewCMI/viewSensory」均为空（会显示空白）` });
+          if (!hasView) emptyFields.push({ tag, field: 'view', reason: `${tag} 字段「view/viewCMI/viewSensory」均为空${it.lens === 'neither' ? '（且 AI 判定 lens=neither 不相关，发布时将丢弃）' : '（会显示空白）'}` });
         }
       }
       if (it.link) {
@@ -180,7 +181,8 @@ export function dropUnfillable(feed) {
         const core = (it.core || '').toString().trim();
         const action = (it.action || '').toString().trim();
         const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
-        if (!core || !action || (!hasView && it.lens !== 'neither')) { dropped.push(tag + '（core/action/view 空）'); return; }
+        // lens=neither（AI 判定与 CMI/感官均不相关）与空视角同等处理：发布清理阶段整体丢弃（2026-11-09 生效）
+        if (!core || !action || !hasView) { dropped.push(tag + '（core/action/view 空' + (it.lens === 'neither' ? ' · lens=neither AI判定不相关' : '') + '）'); return; }
       }
       keep.push(it);
     });

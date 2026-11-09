@@ -264,6 +264,65 @@ async function parsePubMed(s) {
   return out;
 }
 
+// OpenAlex 主题检索：按 primary_topic.id 精确拉「感官分析」主题近期论文（免费、无密钥，自带摘要/DOI/真实发布日期）。
+// 2026-11-09 起作为感官研究主力源（实测 T12114「Sensory Analysis and Statistical Methods」近 10 篇 10/10 直接相关）。
+async function parseOpenAlex(s) {
+  const days = s.days || 30;
+  const retmax = s.retmax || 25;
+  const from = new Date(Date.now() - days * 86400000).toISOString().slice(0, 10);
+  const url = `https://api.openalex.org/works?filter=primary_topic.id:${s.topicId || 'T12114'},from_publication_date:${from},language:en&sort=publication_date:desc&per_page=${retmax}&select=id,title,doi,publication_date,abstract_inverted_index,primary_location,ids,type`;
+  let works = [];
+  try { works = (JSON.parse(await getText(url)))?.results || []; }
+  catch (e) { console.log(`  [openalex] 检索失败: ${e.message}`); return []; }
+  // 倒排摘要还原（OpenAlex 特有结构：{词: [出现位置数组]}）
+  const rebuildAbstract = (inv) => {
+    if (!inv) return '';
+    const pos = [];
+    for (const [w, idxs] of Object.entries(inv)) for (const i of idxs) pos[i] = w;
+    return pos.filter(Boolean).join(' ');
+  };
+  const SKIP_TYPE = /(preprint|editorial|paratext|erratum)/i;
+  const out = [];
+  for (const w of works) {
+    const title = clean(w.title || '');
+    if (!title || SKIP_TYPE.test(w.type || '')) continue;
+    const landing = (w.primary_location && w.primary_location.landing_page_url) || '';
+    const link = /^https?:/.test(landing) ? landing : (w.doi ? `https://doi.org/${String(w.doi).replace(/^https?:\/\/doi\.org\//, '')}` : (w.ids && w.ids.openalex) || '');
+    if (!link || !/^https?:/.test(link)) continue;
+    out.push({ title, link, pub: w.publication_date || '', desc: rebuildAbstract(w.abstract_inverted_index).slice(0, 300) });
+  }
+  return out;
+}
+
+// Crossref 期刊 TOC：按 ISSN 拉感官期刊最新论文（官方合法 API，替代被反爬卡死的 ScienceDirect/Wiley 页面抓取）。
+// 实测 FQP(0950-3293) 100% 相关；Journal of Sensory Studies=1745-459X；Journal of Texture Studies=1745-4603。
+async function parseCrossref(s) {
+  const days = s.days || 30;
+  const retmax = s.retmax || 25;
+  const from = new Date(Date.now() - days * 86400000).toISOString().slice(0, 10);
+  const issns = Array.isArray(s.issn) ? s.issn : [s.issn];
+  const items = [];
+  for (const issn of issns) {
+    const url = `https://api.crossref.org/journals/${issn}/works?filter=from-pub-date:${from},type:journal-article&rows=${retmax}&sort=published&order=desc&select=title,DOI,abstract,published`;
+    try {
+      const msg = (JSON.parse(await getText(url)))?.message || {};
+      for (const w of (msg.items || [])) {
+        const title = clean((w.title || [])[0] || '');
+        if (!title || !w.DOI) continue;
+        const dp = (w.published && w.published['date-parts'] && w.published['date-parts'][0]) || [];
+        const pub = dp.length >= 3 ? `${dp[0]}-${String(dp[1]).padStart(2, '0')}-${String(dp[2]).padStart(2, '0')}`
+          : (dp.length === 2 ? `${dp[0]}-${String(dp[1]).padStart(2, '0')}-01` : '');
+        // Crossref 摘要多为 JATS XML（<jats:p> 等），clean() 已剥标签
+        const abs = clean(w.abstract || '').slice(0, 300);
+        items.push({ title, link: `https://doi.org/${w.DOI}`, pub, desc: abs });
+      }
+    } catch (e) { console.log(`  [crossref] ${issn} 检索失败: ${e.message}`); }
+  }
+  const seen = new Set(); const uniq = [];
+  for (const x of items) { if (!seen.has(x.link)) { seen.add(x.link); uniq.push(x); } }
+  return uniq;
+}
+
 function parseHTML(html, base, sel) {
   const out = [];
   const esc = (sel || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -438,6 +497,12 @@ function readFeed() {
         } else if (s.type === 'pubmed') {
           // PubMed 官方 API（RSS 已废）：抓感官/食品方向同行评审论文
           items = await parsePubMed(s);
+        } else if (s.type === 'openalex') {
+          // OpenAlex 主题 API：按主题 id 精确拉感官科学论文（零密钥，2026-11-09 主力源）
+          items = await parseOpenAlex(s);
+        } else if (s.type === 'crossref') {
+          // Crossref 期刊 TOC API：按 ISSN 拉感官期刊最新论文（合法稳定，替代反爬重的页面抓取）
+          items = await parseCrossref(s);
         } else {
           // 单源容错：浏览器源(Bain/WHO/NielsenIQ 等)单独包一层 try，避免个别源渲染超时崩溃拖垮整个 insights 抓取
           if (s.type === 'browser') {
@@ -472,8 +537,10 @@ function readFeed() {
             if (seen.has(it.link)) continue;
             // 感官研究专属源：先用标题+摘要过滤（避免对无关文章做链接解析，省请求）
             // 说明：sensory:true 仅作「打感官研究标签」用；是否再按关键词硬筛，由 s.sensoryFilter 决定。
-            //   - 泛源(ScienceDaily/Google News 等)保留 s.sensoryFilter!==false 的默认严格筛选，只 cherry-pick 命中感官词的文章；
-            //   - 专门学术期刊源(Frontiers/PubMed/ScienceDirect/MDPI)设 sensoryFilter:false，整本期刊即感官/食品研究，放行全部文章，不再因标题没写「sensory」等词被误杀。
+            //   - 泛源(ScienceDaily 等)保留 s.sensoryFilter!==false 的默认严格筛选，只 cherry-pick 命中感官词的文章；
+            //   - 2026-11-09 起学术感官源改为「主题/期刊级精确源」(OpenAlex 主题 id + Crossref ISSN TOC + PubMed 短语查询)，
+            //     天然只出感官/相关内容，无需词表筛选(sensoryFilter:false)；最终相关性由 AI lens 判定把关——
+            //     lens=neither 的条目在发布清理阶段被整体丢弃(见 validate-feed.mjs dropUnfillable，2026-11-09 生效)。
             if (s.sensory && s.sensoryFilter !== false && (!SENSORY_RE.test(it.title + ' ' + (it.desc || '') + ' ' + (it.summary || '')) || SENSORY_EXCLUDE.test(it.title + ' ' + (it.desc || '')))) { rejected.push(`[${grp}] ${it.title} -> 非感官研究主题`); continue; }
             // Google News RSS 的链接是跳转链接，先解析为真实文章 URL（解析不到就丢弃）
             let itLink = it.link;

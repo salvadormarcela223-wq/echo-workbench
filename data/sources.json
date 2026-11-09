@@ -100,7 +100,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 资讯·快讯",
@@ -109,7 +110,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 资讯·厂商",
@@ -118,7 +120,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 资讯·合规",
@@ -127,7 +130,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 产品",
@@ -136,7 +140,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 特别报道",
@@ -145,7 +150,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "2firsts 专题",
@@ -154,7 +160,8 @@
       "articleRe": "id=\\d+",
       "wait": 12000,
       "dimension": "电子烟",
-      "region": "中国"
+      "region": "中国",
+      "enabled": false
     },
     {
       "name": "东方烟草网·烟草资讯",
@@ -397,9 +404,11 @@
       "type": "gbstd"
     },
     {
-      "name": "Frontiers in Nutrition",
-      "type": "rss",
-      "url": "https://www.frontiersin.org/journals/nutrition/rss",
+      "name": "OpenAlex · 感官科学(主题精选)",
+      "type": "openalex",
+      "topicId": "T12114",
+      "days": 30,
+      "retmax": 25,
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",
@@ -409,7 +418,19 @@
     {
       "name": "PubMed 感官与食品研究",
       "type": "pubmed",
-      "query": "(\"sensory\" OR \"chemosensory\" OR \"taste\" OR \"flavor\" OR \"aroma\" OR \"texture\" OR \"mouthfeel\" OR \"olfactory\") AND (\"food\" OR \"beverage\" OR \"nutrition\" OR \"diet\")",
+      "retmax": 25,
+      "query": "(\"sensory evaluation\"[tiab] OR \"sensory analysis\"[tiab] OR \"sensory profil*\"[tiab] OR \"descriptive analysis\"[tiab] OR \"sensory panel*\"[tiab] OR \"consumer acceptance\"[tiab] OR \"taste perception\"[tiab] OR \"flavour perception\"[tiab] OR \"flavor perception\"[tiab]) AND (\"food\"[tiab] OR \"beverage\"[tiab] OR \"nutrition\"[tiab])",
+      "sensory": true,
+      "cat": "感官研究",
+      "dimension": "",
+      "region": "国际",
+      "sensoryFilter": false
+    },
+    {
+      "name": "Food Quality and Preference (Crossref)",
+      "type": "crossref",
+      "issn": "0950-3293",
+      "days": 30,
       "retmax": 25,
       "sensory": true,
       "cat": "感官研究",
@@ -418,23 +439,14 @@
       "sensoryFilter": false
     },
     {
-      "name": "ScienceDirect · Food Quality and Preference",
-      "url": "https://www.sciencedirect.com/journal/food-quality-and-preference",
-      "type": "browser",
-      "articleRe": "science/article/pii/",
-      "wait": 12000,
-      "sensory": true,
-      "cat": "感官研究",
-      "dimension": "",
-      "region": "国际",
-      "sensoryFilter": false
-    },
-    {
-      "name": "MDPI · Foods",
-      "url": "https://www.mdpi.com/journal/foods",
-      "type": "browser",
-      "articleRe": "2304-8158/\\d+/\\d+/\\d+(?![\\d/])",
-      "wait": 10000,
+      "name": "J. Sensory Studies / J. Texture Studies (Crossref)",
+      "type": "crossref",
+      "issn": [
+        "1745-459X",
+        "1745-4603"
+      ],
+      "days": 30,
+      "retmax": 25,
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",

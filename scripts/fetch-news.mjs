@@ -474,6 +474,8 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
   // 专业提升(insights)是精选常青分析（已有完整 core/view/action），不放进每日抓取的半成品池。
   for (const grp of ['news']) {
     for (const s of sources[grp]) {
+      // 源级开关：sources.json 里 "enabled": false 的源直接跳过（如反爬 0 收益且曾拖垮全局的 2firsts 浏览器源）
+      if (s.enabled === false) { console.log(`\n=== [news] ${s.name} 已禁用(enabled:false)，跳过 ===`); continue; }
       try {
         let txt = '';
         let items = [];
