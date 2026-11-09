@@ -8,8 +8,30 @@
   const U = window.UI;
   const esc = U.esc, ico = U.ico;
 
-  const NEWS_CATS = ['政策法规', '监管执法', '出口贸易', '市场数据', '巨头动向', '海外监管', '趋势洞察', '产品技术'];
-  const CAT_COLOR = { '政策法规': 'c1', '监管执法': 'c4', '出口贸易': 'c3', '市场数据': 'c2', '巨头动向': 'c5', '海外监管': 'c4', '趋势洞察': 'c1', '产品技术': 'c3' };
+  // 7 主题 MECE（定本 v5，两板块共用同一套）。与 scripts/topic7.mjs 保持一致，改一处须同步另一处。
+  const TOPIC7 = ['产业动态', '政策与标准', '市场与数据', '消费者与用户', '产品与感官', '趋势与前瞻', '战略与方法'];
+  const T7_COLOR = { '产业动态': 'c5', '政策与标准': 'c4', '市场与数据': 'c2', '消费者与用户': 'c1', '产品与感官': 'c3', '趋势与前瞻': 'c1', '战略与方法': 'c2' };
+  // 旧桶名 → 7 主题：仅「展示层归一」，让存量条目仍能被 7 主题筛到，feed.json 数据绝不改写
+  const LEGACY7 = {
+    '政策法规': '政策与标准', '监管执法': '政策与标准', '海外监管': '政策与标准',
+    '欧洲监管': '政策与标准', '控烟监管': '政策与标准', '烟草监管': '政策与标准',
+    '出口贸易': '产业动态', '巨头动向': '产业动态', '企业动态': '产业动态',
+    '市场数据': '市场与数据', '市场动态': '市场与数据', '趋势洞察': '趋势与前瞻', '产品技术': '产品与感官', '电子烟': '产品与感官',
+    '感官研究': '产品与感官', '感官分析': '产品与感官', '包装趋势': '产品与感官',
+    '食品饮料': '产品与感官', '快消日化': '产品与感官', '技术 · 工具': '产品与感官', '消费电子': '产品与感官',
+    '消费者洞察': '消费者与用户', '体验设计': '消费者与用户', '餐饮消费': '消费者与用户',
+    '市场洞察': '市场与数据', '零售渠道': '市场与数据',
+    '出海趋势': '趋势与前瞻', '食品科学 · 趋势': '趋势与前瞻',
+    '行业洞察': '战略与方法', '行业态势': '战略与方法', '学术 · 争议': '战略与方法',
+    '方法论 · AI': '战略与方法', '品牌营销': '战略与方法'
+  };
+  function topic7Of(v, group) {
+    if (TOPIC7.indexOf(v) >= 0) return v;
+    if (v && LEGACY7[v]) return LEGACY7[v];
+    return group === 'news' ? '产业动态' : '市场与数据';
+  }
+  const NEWS_CATS = TOPIC7;
+  const CAT_COLOR = T7_COLOR;
 function tagColor(map, key) {
   if (map[key]) return map[key];
   // 未定义颜色：按哈希稳定分配 c1-c5
@@ -20,8 +42,8 @@ function tagColor(map, key) {
   return pool[h % pool.length];
 }
 
-  const TOPICS = ['方法论 · AI', '感官分析', '消费者洞察', '体验设计', '食品科学 · 趋势', '技术 · 工具', '行业态势', '学术 · 争议'];
-  const T_COLOR = { '方法论 · AI': 'c3', '感官分析': 'c1', '消费者洞察': 'c2', '体验设计': 'c5', '食品科学 · 趋势': 'c2', '技术 · 工具': 'c3', '行业态势': 'c1', '学术 · 争议': 'c4' };
+  const TOPICS = TOPIC7;
+  const T_COLOR = T7_COLOR;
 
   const heatBar = n => '<span class="heat">' + [1, 2, 3, 4, 5].map(i => '<i class="' + (i <= (n || 3) ? 'on' : '') + '"></i>').join('') + '</span>';
 
@@ -38,7 +60,7 @@ function tagColor(map, key) {
     if (!box) return;
     const all = S.s.news;
     const list = all.filter(n => {
-      if (nFilter !== '全部' && n.cat !== nFilter) return false;
+      if (nFilter !== '全部' && topic7Of(n.cat, 'news') !== nFilter) return false;
       if (nQuery) {
         const q = nQuery.toLowerCase();
         return (n.title + n.summary + n.source + (n.impact || '')).toLowerCase().includes(q);
@@ -46,8 +68,8 @@ function tagColor(map, key) {
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    const allCats = [...new Set(all.map(n => n.cat).filter(Boolean))];
-    const cats = ['全部'].concat(allCats.sort());
+    // 筛选器固定为 7 主题 MECE（定本 v5）；存量旧桶经 topic7Of 归一后仍能被对应主题筛到
+    const cats = ['全部'].concat(TOPIC7);
     const hot = all.filter(n => (n.heat || 0) >= 5).length;
     const mo = new Date().toISOString().slice(0, 7);
     // 本月新增：优先按入库日期(addedAt)统计真实抓取量，无 addedAt 的旧条目退回文章日期
@@ -82,7 +104,7 @@ function tagColor(map, key) {
           '<td class="td-date">' + esc(n.date) + '</td>' +
           '<td><div class="td-title">' + (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.source) + '</div></td>' +
-          '<td><span class="tag ' + tagColor(CAT_COLOR, n.cat) + '">' + esc(n.cat || '未分类') + '</span></td>' +
+          '<td><span class="tag ' + tagColor(CAT_COLOR, topic7Of(n.cat, 'news')) + '">' + esc(topic7Of(n.cat, 'news')) + '</span></td>' +
           '<td>' + esc(n.summary) + '</td>' +
           '<td><div class="quote">' + esc(n.impact || '—') + '</div></td>' +
           '<td>' + heatBar(n.heat) + '</td>' +
@@ -106,7 +128,7 @@ function tagColor(map, key) {
   }
 
   function newsForm(n) {
-    const d = n || { date: S.today(), title: '', source: '', cat: '政策法规', summary: '', impact: '', heat: 3, link: '' };
+    const d = n || { date: S.today(), title: '', source: '', cat: '产业动态', summary: '', impact: '', heat: 3, link: '' };
     U.modal({
       title: n ? '编辑资讯' : '添加资讯',
       body:
@@ -159,7 +181,7 @@ function tagColor(map, key) {
     if (!box) return;
     const all = S.s.insights;
     const list = all.filter(n => {
-      if (iFilter !== '全部' && n.topic !== iFilter) return false;
+      if (iFilter !== '全部' && topic7Of(n.topic, 'insights') !== iFilter) return false;
       if (iQuery) {
         const q = iQuery.toLowerCase();
         return (n.title + n.core + n.origin + (n.view || '') + (n.viewCMI || '') + (n.viewSensory || '') + (n.action || '')).toLowerCase().includes(q);
@@ -167,8 +189,8 @@ function tagColor(map, key) {
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    const allTopics = [...new Set(all.map(n => n.topic).filter(Boolean))];
-    const topics = ['全部'].concat(allTopics.sort());
+    // 筛选器固定为 7 主题 MECE（定本 v5）；存量旧桶经 topic7Of 归一后仍能被对应主题筛到
+    const topics = ['全部'].concat(TOPIC7);
 
     box.innerHTML =
       '<div class="stats stagger">' +
@@ -197,7 +219,7 @@ function tagColor(map, key) {
         list.slice(0, iShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
-          '<td><span class="tag ' + tagColor(T_COLOR, n.topic) + '">' + esc(n.topic || '未分类') + '</span></td>' +
+          '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>' +
           '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
@@ -224,7 +246,7 @@ function tagColor(map, key) {
   }
 
   function insightForm(n) {
-    const d = n || { date: S.today(), topic: '感官分析', title: '', origin: '', region: '', core: '', view: '', viewCMI: '', viewSensory: '', action: '', link: '' };
+    const d = n || { date: S.today(), topic: '消费者与用户', title: '', origin: '', region: '', core: '', view: '', viewCMI: '', viewSensory: '', action: '', link: '' };
     U.modal({
       title: n ? '编辑情报' : '添加情报',
       body:

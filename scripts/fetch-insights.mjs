@@ -5,6 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import { createRequire } from 'module';
 import { validate, linkQuality, gateNewItem } from './validate-feed.mjs';
+import { classifyTopic7 } from './topic7.mjs';
 
 const ROOT = path.resolve('.');
 const sources = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/sources.json'), 'utf-8'));
@@ -527,7 +528,7 @@ function readFeed() {
               const gbItems = await parseGBStd(txt);
               for (const it of gbItems) {
                 if (seen.has(it.link)) continue;
-                add.push({ title: it.title, source: s.name, link: it.link, topic: '感官研究', cat: '', dimension: '', region: '中国', summary: it.summary, date: it.date, core: '', view: '', action: '', origin: s.name });
+                add.push({ title: it.title, source: s.name, link: it.link, topic: classifyTopic7(it.title + ' ' + it.summary, s.name, grp), cat: '', dimension: '', region: '中国', summary: it.summary, date: it.date, core: '', view: '', action: '', origin: s.name });
                 seen.add(it.link);
               }
             } catch (e) { console.log(`=== [${grp}] ${s.name} gbstd 失败: ${e.message} ===`); }
@@ -580,15 +581,17 @@ function readFeed() {
             // 学术源无解析日期时退回抓取日（来自期刊当前列表，确为近期），避免整本期刊因缺日期被清空
             if (!pubDate && isAcademic) pubDate = new Date();
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期，已跳过`); continue; }
-            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党才入池
-            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, { maxAgeDays: maxAge });
+            // 7 主题归类（定本 v5·零 token）：两板块共用同一套，按主知识对象落入唯一主题
+            const topic7 = classifyTopic7(sanitizeTitle(it.title) + ' ' + summary, s.name, grp);
+            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党、主题合规才入池
+            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10), topic: topic7 }, grp, { maxAgeDays: maxAge });
             if (!gres.ok) { rejected.push(`[${grp}] ${it.title} -> ${gres.reason}`); continue; }
             // 抓正文（零 token）：用于厚度门槛与前端展示
             const body = await deriveBody(itLink);
             // 全部留存：不再按时间丢弃（用户 2026-09-08 要求）
             add.push({
               title: sanitizeTitle(it.title), source: s.name, link: itLink,
-              topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
+              topic: topic7, cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, body, date: pubDate.toISOString().slice(0, 10),
               addedAt: new Date().toISOString().slice(0, 10),   // 入库日期：统计「今日新增」用，与论文真实发表日(date)区分
               core: '', view: '', action: '', origin: s.name,

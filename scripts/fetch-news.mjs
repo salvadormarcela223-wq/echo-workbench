@@ -6,6 +6,7 @@ import path from 'path';
 import { pathToFileURL } from 'url';
 import { createRequire } from 'module';
 import { validate, gateNewItem } from './validate-feed.mjs';
+import { classifyTopic7 } from './topic7.mjs';
 
 const ROOT = path.resolve('.');
 const sources = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/sources.json'), 'utf-8'));
@@ -531,8 +532,10 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(it.link); } catch (e) {} }
             if (!pubDate) { rejected.push(`[${grp}] ${it.title} -> 无真实发布日期(已回源文章页仍找不到)，已跳过`); continue; }
-            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党才入池
-            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10) }, grp, {});
+            // 7 主题归类（定本 v5·零 token）：新条目按主知识对象落入唯一主题，两板块共用同一套
+            const cat7 = classifyTopic7(it.title + ' ' + summary, s.name, grp);
+            // A 标准闸门（静态·零 token）：新内容时间真实且不过期、非标题党、主题合规才入池
+            const gres = gateNewItem({ title: it.title, summary, date: pubDate.toISOString().slice(0, 10), topic: cat7 }, grp, {});
             if (!gres.ok) { rejected.push(`[${grp}] ${it.title} -> ${gres.reason}`); continue; }
             // 抓正文（零 token）：用于厚度门槛与前端展示
             const body = await deriveBody(it.link);
@@ -541,7 +544,7 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
               title: it.title,
               link: it.link,
               source: s.name,
-              cat: s.cat || autoCat(it, s.name),
+              cat: cat7,
               dimension: s.dimension || '',
               region: s.region || '',
               summary,

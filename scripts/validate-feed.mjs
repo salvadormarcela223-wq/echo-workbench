@@ -7,6 +7,7 @@
 import fs from 'fs';
 import path from 'path';
 import { URL, fileURLToPath } from 'url';
+import { isTopic7 } from './topic7.mjs';
 
 const ROOT = path.resolve('.');
 
@@ -222,6 +223,10 @@ export function gateNewItem(item, group, opts = {}) {
   const title = (item.title || '').toString().trim();
   const summary = (item.summary || '').toString().trim();
   const date = item.date || item.pubDate;
+  // 0) 主题合规（定本 v5）：新条目带 topic 时必须落入 7 主题 MECE 之一；存量条目不经此闸门，不受影响
+  if (item.topic && !isTopic7(item.topic)) {
+    return { ok: false, reason: `主题「${item.topic}」不属于 7 主题 MECE，拒收` };
+  }
   // 1) 时间真实且不过期
   if (date) {
     const d = new Date(date);
