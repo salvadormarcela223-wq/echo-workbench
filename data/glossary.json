@@ -67113,5 +67113,435 @@
     "p": "/ˌθriːˈtɜːm/",
     "t": "三届的；三任期的",
     "en": "involving three terms of office"
+  },
+  "renewables": {
+    "p": "/rɪˈnjuːəblz/",
+    "t": "可再生能源",
+    "en": "energy sources that can be naturally replenished"
+  },
+  "emitter": {
+    "p": "/ɪˈmɪtə/",
+    "t": "排放者",
+    "en": "a person or thing that emits something, especially pollutants"
+  },
+  "pillar": {
+    "p": "/ˈpɪlə/",
+    "t": "支柱",
+    "en": "a tall vertical structure or a fundamental support"
+  },
+  "undertook": {
+    "p": "/ˌʌndəˈtʊk/",
+    "t": "承担（过去式）",
+    "en": "past tense of undertake; took on a task or responsibility"
+  },
+  "modernisation": {
+    "p": "/ˌmɒdənaɪˈzeɪʃn/",
+    "t": "现代化",
+    "en": "the process of making something modern"
+  },
+  "reliance": {
+    "p": "/rɪˈlaɪəns/",
+    "t": "依赖",
+    "en": "dependence on someone or something"
+  },
+  "megafarms": {
+    "p": "/ˈmeɡəfɑːmz/",
+    "t": "巨型农场",
+    "en": "very large-scale farms"
+  },
+  "monumental": {
+    "p": "/ˌmɒnjuˈmentl/",
+    "t": "巨大的；纪念碑式的",
+    "en": "very great or significant; like a monument"
+  },
+  "fivefold": {
+    "p": "/ˈfaɪvfəʊld/",
+    "t": "五倍的",
+    "en": "five times as much or as many"
+  },
+  "watershed": {
+    "p": "/ˈwɔːtəʃed/",
+    "t": "分水岭；转折点",
+    "en": "a turning point or a dividing ridge between drainage areas"
+  },
+  "assesses": {
+    "p": "/əˈsesɪz/",
+    "t": "评估（第三人称单数）",
+    "en": "evaluates or estimates the nature or quality of something"
+  },
+  "downsized": {
+    "p": "/ˈdaʊnsaɪzd/",
+    "t": "缩小规模（过去式）",
+    "en": "reduced in size or number, especially of a workforce"
+  },
+  "steelmaking": {
+    "p": "/ˈstiːlmeɪkɪŋ/",
+    "t": "炼钢",
+    "en": "the process of producing steel"
+  },
+  "mounted": {
+    "p": "/ˈmaʊntɪd/",
+    "t": "增加；安装（过去式）",
+    "en": "increased or was fixed in position"
+  },
+  "rooftops": {
+    "p": "/ˈruːftɒps/",
+    "t": "屋顶（复数）",
+    "en": "the outer surfaces of roofs"
+  },
+  "turbines": {
+    "p": "/ˈtɜːbaɪnz/",
+    "t": "涡轮机（复数）",
+    "en": "machines with rotating blades that generate power"
+  },
+  "spree": {
+    "p": "/spriː/",
+    "t": "狂热活动；放纵",
+    "en": "a period of unrestrained activity"
+  },
+  "airconditioning": {
+    "p": "/ˈeəkəndɪʃənɪŋ/",
+    "t": "空调",
+    "en": "a system for controlling the temperature and humidity of air"
+  },
+  "climatepolicy": {
+    "p": "/ˈklaɪmətˌpɒləsi/",
+    "t": "气候政策",
+    "en": "a policy relating to climate change mitigation or adaptation"
+  },
+  "generates": {
+    "p": "/ˈdʒenəreɪts/",
+    "t": "产生（第三人称单数）",
+    "en": "produces or creates something"
+  },
+  "surged": {
+    "p": "/sɜːdʒd/",
+    "t": "激增（过去式）",
+    "en": "increased suddenly and strongly"
+  },
+  "terawatthours": {
+    "p": "/ˈterəwɒtˌaʊəz/",
+    "t": "太瓦时",
+    "en": "units of energy equal to one trillion watt-hours"
+  },
+  "costcompetitive": {
+    "p": "/ˌkɒstkəmˈpetətɪv/",
+    "t": "具有成本竞争力的",
+    "en": "able to compete on price"
+  },
+  "coalpowered": {
+    "p": "/ˈkəʊlˌpaʊəd/",
+    "t": "燃煤的",
+    "en": "powered by coal"
+  },
+  "fleet": {
+    "p": "/fliːt/",
+    "t": "车队；船队",
+    "en": "a group of vehicles or ships"
+  },
+  "cornerstone": {
+    "p": "/ˈkɔːnəstəʊn/",
+    "t": "基石",
+    "en": "a fundamental basis or essential part"
+  },
+  "buses": {
+    "p": "/ˈbʌsɪz/",
+    "t": "公共汽车（复数）",
+    "en": "large road vehicles for carrying passengers"
+  },
+  "newenergy": {
+    "p": "/ˌnjuːˈenədʒi/",
+    "t": "新能源",
+    "en": "new or renewable forms of energy"
+  },
+  "hybrids": {
+    "p": "/ˈhaɪbrɪdz/",
+    "t": "混合动力车（复数）",
+    "en": "vehicles using both electric and combustion power"
+  },
+  "hydrogen": {
+    "p": "/ˈhaɪdrədʒən/",
+    "t": "氢",
+    "en": "a chemical element, the lightest gas"
+  },
+  "scooters": {
+    "p": "/ˈskuːtəz/",
+    "t": "踏板车（复数）",
+    "en": "small vehicles with a footboard or small wheels"
+  },
+  "baton": {
+    "p": "/ˈbætɒn/",
+    "t": "接力棒；指挥棒",
+    "en": "a stick passed in a relay or used by a conductor"
+  },
+  "exponentially": {
+    "p": "/ˌekspəˈnenʃəli/",
+    "t": "指数地",
+    "en": "at a rate proportional to the current value"
+  },
+  "heavyduty": {
+    "p": "/ˌheviˈdjuːti/",
+    "t": "重型的",
+    "en": "designed for heavy use or severe conditions"
+  },
+  "fleets": {
+    "p": "/fliːts/",
+    "t": "车队（复数）",
+    "en": "groups of vehicles or ships"
+  },
+  "curtailments": {
+    "p": "/kɜːˈteɪlmənts/",
+    "t": "削减（复数）",
+    "en": "reductions or restrictions in amount"
+  },
+  "rapidcharging": {
+    "p": "/ˈræpɪdˌtʃɑːdʒɪŋ/",
+    "t": "快速充电",
+    "en": "charging at high speed"
+  },
+  "modes": {
+    "p": "/məʊdz/",
+    "t": "模式（复数）",
+    "en": "ways or manners of doing something"
+  },
+  "netzero": {
+    "p": "/ˌnetˈzɪərəʊ/",
+    "t": "净零",
+    "en": "a balance between emissions produced and removed"
+  },
+  "surplus": {
+    "p": "/ˈsɜːpləs/",
+    "t": "盈余；过剩",
+    "en": "an amount left over after needs are met"
+  },
+  "energystorage": {
+    "p": "/ˈenədʒiˌstɔːrɪdʒ/",
+    "t": "储能",
+    "en": "the capture and storage of energy for later use"
+  },
+  "underused": {
+    "p": "/ˌʌndəˈjuːzd/",
+    "t": "未充分利用的",
+    "en": "not used to full capacity"
+  },
+  "profitability": {
+    "p": "/ˌprɒfɪtəˈbɪləti/",
+    "t": "盈利能力",
+    "en": "the ability to make a profit"
+  },
+  "powertrading": {
+    "p": "/ˈpaʊəˌtreɪdɪŋ/",
+    "t": "电力交易",
+    "en": "the buying and selling of electrical power"
+  },
+  "bending": {
+    "p": "/ˈbendɪŋ/",
+    "t": "弯曲",
+    "en": "the act of curving or forcing into a curve"
+  },
+  "decoupling": {
+    "p": "/diːˈkʌplɪŋ/",
+    "t": "脱钩",
+    "en": "separating or disconnecting two linked things"
+  },
+  "caregivers": {
+    "p": "/ˈkeəɡɪvəz/",
+    "t": "照料者",
+    "en": "people who care for others"
+  },
+  "eldercare": {
+    "p": "/ˈeldəkeə/",
+    "t": "养老护理",
+    "en": "care for elderly people"
+  },
+  "boomers": {
+    "p": "/ˈbuːməz/",
+    "t": "婴儿潮一代",
+    "en": "people born during a baby boom"
+  },
+  "assistants": {
+    "p": "/əˈsɪstənts/",
+    "t": "助手",
+    "en": "people who help others"
+  },
+  "looms": {
+    "p": "/luːmz/",
+    "t": "隐现；逼近",
+    "en": "appears as a threat; approaches"
+  },
+  "bathe": {
+    "p": "/beɪð/",
+    "t": "洗澡；沐浴",
+    "en": "to wash in water"
+  },
+  "federalstate": {
+    "p": "/ˈfedərəl steɪt/",
+    "t": "联邦制国家",
+    "en": "a state with a federal system"
+  },
+  "impoverished": {
+    "p": "/ɪmˈpɒvərɪʃt/",
+    "t": "贫困的",
+    "en": "very poor"
+  },
+  "payer": {
+    "p": "/ˈpeɪə/",
+    "t": "付款人",
+    "en": "a person who pays"
+  },
+  "bipartisanfriendly": {
+    "p": "/ˌbaɪˈpɑːtɪzən ˈfrendli/",
+    "t": "两党友好的",
+    "en": "friendly to both political parties"
+  },
+  "cosponsors": {
+    "p": "/ˌkəʊˈspɒnsəz/",
+    "t": "共同提案人",
+    "en": "joint sponsors of a bill"
+  },
+  "understaffed": {
+    "p": "/ˌʌndəˈstɑːft/",
+    "t": "人手不足的",
+    "en": "having too few staff"
+  },
+  "openings": {
+    "p": "/ˈəʊpənɪŋz/",
+    "t": "空缺职位",
+    "en": "available jobs or positions"
+  },
+  "reintroduced": {
+    "p": "/ˌriːɪntrəˈdjuːst/",
+    "t": "重新提出",
+    "en": "presented again"
+  },
+  "unused": {
+    "p": "/ˌʌnˈjuːzd/",
+    "t": "未使用的",
+    "en": "not used"
+  },
+  "dignified": {
+    "p": "/ˈdɪɡnɪfaɪd/",
+    "t": "有尊严的",
+    "en": "showing dignity"
+  },
+  "pairs": {
+    "p": "/peəz/",
+    "t": "成对；配对",
+    "en": "sets of two"
+  },
+  "residency": {
+    "p": "/ˈrezɪdənsi/",
+    "t": "居留权；居住",
+    "en": "the state of living somewhere; residence"
+  },
+  "pitched": {
+    "p": "/pɪtʃt/",
+    "t": "推销；投掷",
+    "en": "promoted or threw"
+  },
+  "agingpopulation": {
+    "p": "/ˈeɪdʒɪŋ ˌpɒpjuˈleɪʃən/",
+    "t": "老龄化人口",
+    "en": "a population growing older"
+  },
+  "caregiver": {
+    "p": "/ˈkeəɡɪvə/",
+    "t": "照料者",
+    "en": "a person who cares for others"
+  },
+  "surpass": {
+    "p": "/səˈpɑːs/",
+    "t": "超过",
+    "en": "to exceed"
+  },
+  "authorization": {
+    "p": "/ˌɔːθəraɪˈzeɪʃən/",
+    "t": "授权",
+    "en": "official permission"
+  },
+  "immigrationrelated": {
+    "p": "/ˌɪmɪˈɡreɪʃən rɪˈleɪtɪd/",
+    "t": "与移民相关的",
+    "en": "related to immigration"
+  },
+  "abovemarket": {
+    "p": "/əˈbʌv ˈmɑːkɪt/",
+    "t": "高于市场的",
+    "en": "higher than market level"
+  },
+  "qualifying": {
+    "p": "/ˈkwɒlɪfaɪɪŋ/",
+    "t": "符合资格的",
+    "en": "meeting requirements"
+  },
+  "repay": {
+    "p": "/rɪˈpeɪ/",
+    "t": "偿还",
+    "en": "to pay back"
+  },
+  "reflected": {
+    "p": "/rɪˈflektɪd/",
+    "t": "反映；反射",
+    "en": "showed or mirrored"
+  },
+  "behaved": {
+    "p": "/bɪˈheɪvd/",
+    "t": "表现",
+    "en": "acted in a certain way"
+  },
+  "crafting": {
+    "p": "/ˈkrɑːftɪŋ/",
+    "t": "精心制作",
+    "en": "making with care"
+  },
+  "onerous": {
+    "p": "/ˈəʊnərəs/",
+    "t": "繁重的",
+    "en": "burdensome"
+  },
+  "farmworkers": {
+    "p": "/ˈfɑːmwɜːkəz/",
+    "t": "农场工人",
+    "en": "people who work on farms"
+  },
+  "statelevel": {
+    "p": "/ˈsteɪt ˌlevəl/",
+    "t": "州级",
+    "en": "at the state level"
+  },
+  "mandates": {
+    "p": "/ˈmændeɪts/",
+    "t": "强制要求",
+    "en": "official requirements"
+  },
+  "bonuses": {
+    "p": "/ˈbəʊnəsɪz/",
+    "t": "奖金",
+    "en": "extra payments"
+  },
+  "casualties": {
+    "p": "/ˈkæʒuəltiz/",
+    "t": "伤亡人员",
+    "en": "people killed or injured"
+  },
+  "assisted": {
+    "p": "/əˈsɪstɪd/",
+    "t": "协助的",
+    "en": "helped"
+  },
+  "parole": {
+    "p": "/pəˈrəʊl/",
+    "t": "假释",
+    "en": "release of a prisoner before term ends"
+  },
+  "credits": {
+    "p": "/ˈkredɪts/",
+    "t": "抵免；学分",
+    "en": "amounts deducted or earned"
+  },
+  "lowhanging": {
+    "p": "/ˌləʊ ˈhæŋɪŋ/",
+    "t": "低垂的；易得的",
+    "en": "easy to reach or achieve"
   }
 }
