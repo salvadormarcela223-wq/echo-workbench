@@ -181,7 +181,8 @@ function tagColor(map, key) {
     if (!box) return;
     const all = S.s.insights;
     const list = all.filter(n => {
-      if (iFilter !== '全部' && topic7Of(n.topic, 'insights') !== iFilter) return false;
+      // 题录（专业文献·未获取全文）没有做 7 主题归类，不参与具体主题筛选，只在「全部」下可见
+      if (iFilter !== '全部' && (n.lit === 'citation' || topic7Of(n.topic, 'insights') !== iFilter)) return false;
       if (iQuery) {
         const q = iQuery.toLowerCase();
         return (n.title + n.core + n.origin + (n.view || '') + (n.viewCMI || '') + (n.viewSensory || '') + (n.action || '')).toLowerCase().includes(q);
@@ -219,7 +220,10 @@ function tagColor(map, key) {
         list.slice(0, iShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
-          '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>' +
+          // 题录未做 7 主题归类（框架：分类须通读全文），显示中性标识，不套兜底主题以免出现假分类
+          (n.lit === 'citation'
+            ? '<td><span class="tag" style="opacity:.65">仅题录</span></td>'
+            : '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>') +
           '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
           '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') +

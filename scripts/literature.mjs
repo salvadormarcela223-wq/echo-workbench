@@ -19,7 +19,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { classifyTopic7 } from './topic7.mjs';
+import { isTopic7 } from './topic7.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const ROOT = path.resolve(path.dirname(__filename), '..');
@@ -51,12 +51,14 @@ export const CLASSIFY_SYS = `你是专业文献分类助手。只判断下面这
 - sensory：感官评价/描述性分析/感官panel/CATA/偏好测试/感知机制/风味质地测评方法
 - consumer：消费者行为/偏好/接受度/购买意愿/细分/用户调研/消费心理
 - marketing：品牌/广告/定价/渠道/传播/市场策略/消费营销
-明确排除（excluded=true）：食品安全/召回/污染爆发、细菌/微生物/发酵/菌种、食品化学/成分表征/加工工艺/代谢组学/挥发物检测、纯医学临床/营养流行病学/农学育种。
+明确排除（excluded=true，仅用户点名的三类）：食品安全/召回/污染、细菌/微生物/发酵/菌种、食品化学/成分分析。
+除上述外，一律只按「是否属于 sensory / consumer / marketing 三类」判定，不扩大排除范围。
 只输出一个 JSON 对象：{"inScope":true|false,"classes":["sensory"],"excluded":true|false,"reason":"一句中文理由"}。
 不要 markdown、不要解释文字。`;
 
 export function buildClassifyPrompt(it) {
-  return `标题：${String(it?.title || '').slice(0, 300)}\n摘要：${String(it?.summary || '').slice(0, 500)}\n来源：${String(it?.source || it?.origin || '')}\n请判断主题归属。`;
+  // 框架 2.2：只看标题＋摘要，轻量判三类，不写解读。不掺入来源等其它输入。
+  return `标题：${String(it?.title || '').slice(0, 300)}\n摘要：${String(it?.summary || '').slice(0, 500)}\n请判断主题归属。`;
 }
 
 // 解析 AI 返回（纯函数，便于本地零 token 测试）
@@ -79,10 +81,6 @@ export async function fetchFullArticle(link) {
     const html = await r.text();
     out.html = html.slice(0, 150000);
     const finalUrl = r.url || link;
-    // 页面类型：点的是全文/PDF 链接，还是摘要/落地页
-    if (/\.pdf(\?|$)|full.?text|\/pmc\/|articles\/PMC|sciencedirect\.com\/science\/article|onlinelibrary\.wiley\.com\/doi\/full/i.test(finalUrl)) out.linkType = 'fulltext';
-    else if (/pubmed\.ncbi|doi\.org|\/abstract|abstract\b/i.test(finalUrl)) out.linkType = 'abstract';
-    else out.linkType = 'landing';
     // 正文：取所有 <p>，剥标签，拼起来（不截断）
     const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
     const parts = [];
@@ -91,6 +89,12 @@ export async function fetchFullArticle(link) {
       if (t.length >= 30) parts.push(t);
     }
     out.text = parts.join(' ').trim();
+    // 页面类型（框架环节 3.2 / 4.4）：只记录「这次抓取实际落在什么页面」这个抓取当场即知的客观事实。
+    //   不用原始链接字面猜（doi.org 会 302 跳到期刊正文页），也不掺入正文长度 / 参考文献
+    //   （那是硬特征第 1、3 条的事）。「是不是整篇全文」由环节 4 的五条硬特征判定，此处不判。
+    const intercepted = out.status !== 200 || /cookies-required|just a moment|enable javascript|access denied|cf-challenge|verify you are human/i.test(out.html);
+    const abstractPage = /pubmed\.ncbi\.nlm\.nih\.gov|\/abstract\b|cookies-required/i.test(finalUrl);
+    out.linkType = (intercepted || abstractPage) ? 'abstract' : 'fulltext';
   } catch (e) { out.error = String(e.message || e).slice(0, 80); }
   return out;
 }
@@ -172,8 +176,10 @@ async function askDeepSeek(userPrompt, sys) {
   return JSON.parse(m[0]);
 }
 
-// ── 题录构造（环节 ⑤B）：只留基本信息，不写解读 ──────────────
-export function buildCitation(it, topic, classes) {
+// ── 题录构造（环节 ⑤B）：只留框架 5B.1 指定的基本信息，不写解读、不做归类 ──────
+// 框架 5B.1：标题、来源、可点开的原文链接、真实日期 ＋「未获取全文」标记。
+// 不写 topic：7 主题归类按你 16:12 的要求只能在通读全文后做（环节 5A），题录没有全文，不静态猜类别。
+export function buildCitation(it, classes) {
   return {
     title: String(it?.title || '').trim(),
     link: String(it?.link || '').trim(),
@@ -182,12 +188,9 @@ export function buildCitation(it, topic, classes) {
     date: String(it?.date || '').trim(),
     addedAt: String(it?.addedAt || new Date().toISOString().slice(0, 10)).trim(),
     summary: String(it?.summary || '').trim(),
-    topic,
-    cat: '',
-    dimension: '',
     region: String(it?.region || '国际').trim(),
-    lit: 'citation',       // 题录标记：无解读、不送 AI
-    litClasses: classes,   // 三类命中
+    lit: 'citation',       // 题录标记：无解读、不送 AI（闸门/富集据此放行）
+    litClasses: classes,   // 环节 2 的三类命中结果
     litFullText: false,    // 未获取全文
     fullTextNote: '未获取全文',
   };
@@ -210,10 +213,19 @@ export async function processLiterature(feed, opts = {}) {
     if (!isLitItem(it)) { keep.push(it); continue; }   // 其它条目原样不动
     stat.lit++;
 
-    // 环节 ②：三类准入
-    let cls;
-    try { cls = await classify(it); }
-    catch (e) { stat.parseFail++; log(`  [三类判定失败] 舍弃：${String(it.title).slice(0, 40)} — ${e.message}`); stat.dropped++; continue; }
+    // 环节 ②：三类准入（框架 0.2/2.6：先于一切、对每一条统一执行、与有没有全文无关）
+    // AI 偶发失败是技术故障，重试让「每条都判三类」真正执行到位（不是新业务规则）。
+    let cls = null;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try { cls = await classify(it); break; } catch (e) { /* 重试 */ }
+    }
+    if (!cls) {
+      // 判定始终没完成：本条尚未确认属于三类，不能放进平台（守 0.3：非三类绝不混入）；
+      // 也不伪装成「非三类舍弃」静默丢掉——显式告警、单独计数，下次日更重新抓取判定。
+      stat.parseFail++;
+      log(`  [三类判定失败·非舍弃] 本轮暂不入选、下次重判：${String(it.title).slice(0, 40)}`);
+      continue;
+    }
     if (!cls.pass) { stat.dropped++; log(`  [非三类] 舍弃：${String(it.title).slice(0, 40)} — ${cls.reason}`); continue; }
     stat.admitted++;
 
@@ -225,8 +237,8 @@ export async function processLiterature(feed, opts = {}) {
       // 环节 ⑤A：全文 → AI 通读精读
       try {
         const d = await deepRead(it, art.text);
-        const topic = ['产业动态', '政策与标准', '市场与数据', '消费者与用户', '产品与感官', '趋势与前瞻', '战略与方法'].includes(d.topic)
-          ? d.topic : classifyTopic7(String(it.title) + ' ' + String(it.summary || ''), it.source, 'insights');
+        // 7 主题归类由「通读全文的 AI」产出（框架 5A.5）；AI 未给合法主题时不静态猜、留空由展示层归一。
+        const topic = isTopic7(d.topic) ? d.topic : '';
         keep.push({
           ...it, topic, lit: 'full', litClasses: cls.classes, litFullText: true,
           core: String(d.core || '').trim(), viewCMI: String(d.viewCMI || '').trim(),
@@ -238,12 +250,12 @@ export async function processLiterature(feed, opts = {}) {
       } catch (e) {
         // 精读失败 → 保守降级为题录（绝不编造解读）
         stat.readFail++;
-        keep.push(buildCitation(it, classifyTopic7(String(it.title) + ' ' + String(it.summary || ''), it.source, 'insights'), cls.classes));
+        keep.push(buildCitation(it, cls.classes));
         stat.citation++;
       }
     } else {
       // 环节 ⑤B：非全文 → 只留题录
-      keep.push(buildCitation(it, classifyTopic7(String(it.title) + ' ' + String(it.summary || ''), it.source, 'insights'), cls.classes));
+      keep.push(buildCitation(it, cls.classes));
       stat.citation++;
     }
   }
