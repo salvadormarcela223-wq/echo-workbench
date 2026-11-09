@@ -83,6 +83,10 @@ function tryRun(cmd, label) {
   tryRun('node scripts/fetch-insights.mjs --write', '专业提升抓取');
   tryRun('node scripts/fetch-readings.mjs --draft' + (DRY ? ' --dry' : ''), '英语阅读抓取');
 
+  // 1b. 专业文献专属处理（唯一定本 v5）：只作用于 4 个专业文献源，其余条目原样不动。
+  //     三类准入 → 全文核对 → 全文精读 / 题录两路。内部会调用 DeepSeek，故 --dry（零 token 编排验证）时跳过。
+  if (!DRY) tryRun('node scripts/literature.mjs', '专业文献处理');
+
   // N 项：抓取阶段失败版块统一告警（不静默缺失）
   if (failedSections.length) {
     console.log(`\n⚠️⚠️ 本次以下版块抓取失败，线上将保留上一版对应内容（已显式标记，非静默缺失）：${failedSections.join('、')}`);
@@ -124,9 +128,12 @@ function tryRun(cmd, label) {
     const check = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
     const emptyImpacts = (check.news || []).filter(n => !n.impact || !n.impact.trim()).length;
     const emptyCores = (check.insights || []).filter(n =>
-      !n.core || !n.core.trim() || !n.action || !n.action.trim() ||
-      // 双维度：view(旧) 或 viewCMI/viewSensory(新) 任一非空即视为已填，三者全空才算缺失
-      (!(n.view && n.view.trim()) && !(n.viewCMI && n.viewCMI.trim()) && !(n.viewSensory && n.viewSensory.trim()))
+      // 题录（专业文献·未获取全文）不写解读是设计如此，不计入空核心字段，避免无谓多跑 AI 轮次
+      n.lit !== 'citation' && (
+        !n.core || !n.core.trim() || !n.action || !n.action.trim() ||
+        // 双维度：view(旧) 或 viewCMI/viewSensory(新) 任一非空即视为已填，三者全空才算缺失
+        (!(n.view && n.view.trim()) && !(n.viewCMI && n.viewCMI.trim()) && !(n.viewSensory && n.viewSensory.trim()))
+      )
     ).length;
     console.log(`本轮结束 → 剩余空 impact: ${emptyImpacts}, 空核心字段: ${emptyCores}`);
 

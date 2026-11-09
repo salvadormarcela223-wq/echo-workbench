@@ -222,10 +222,17 @@ function tagColor(map, key) {
           '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>' +
           '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
           (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
-          '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
-          '<td>' + esc(n.core) + '</td>' +
-          '<td>' + dualView(n) + '</td>' +
-          '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>' +
+          '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') +
+          (n.lit === 'citation' ? ' · <span style="color:var(--amber, #BA7517)">仅题录 · 未获取全文</span>' : '') + '</div></td>' +
+          (n.lit === 'citation'
+            // 题录：不写解读是设计如此。三栏合并成一句明确提示，绝不留空白、绝不放编造的解读。
+            ? '<td colspan="3" style="color:var(--color-text-secondary);font-size:12.5px;line-height:1.6">' +
+              '该文献未获取到全文，按你的要求只保留题录、不生成解读。点上方标题打开原文自行获取资源。' +
+              (n.litClasses && n.litClasses.length ? '<div style="margin-top:4px;color:var(--color-text-tertiary)">命中方向：' + esc(n.litClasses.join(' / ')) + '</div>' : '') +
+              '</td>'
+            : '<td>' + esc(n.core) + '</td>' +
+              '<td>' + dualView(n) + '</td>' +
+              '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>') +
           '<td><div class="row-act">' +
           '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
           '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +

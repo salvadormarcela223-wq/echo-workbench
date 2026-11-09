@@ -71,17 +71,27 @@ export function validate(feed, opts = {}) {
       // 专业提升(insights)渲染读 core/view/action，闸门必须真实验证这三项（不能只看 legacy 的 impact）
       // 双维度框架：新条目只写 viewCMI/viewSensory，旧 view 故意留空；故「视角」只要 view / viewCMI / viewSensory 任一非空即算已填
       if (g === 'insights') {
-        for (const f of ['core', 'action']) {
-          // 抓取草稿阶段：三栏待 DeepSeek 填充，放行；严格发布阶段(skipImpactEmpty=false)会拦截
-          if (skipImpactEmpty) continue;
-          if (!it[f] || !String(it[f]).trim()) emptyFields.push({ tag, field: f, reason: `${tag} 字段「${f}」为空（会显示空白）` });
-        }
-        // 视角字段：view(旧) 或 viewCMI/viewSensory(新) 任一非空即通过；
-        // lens=neither（AI 判定与 CMI/感官均不相关）2026-11-09 起不再放行：此类条目在发布清理阶段整体丢弃，
-        // 防止无关文献混入「感官研究」板块（2026-11-06 用户裁决：专业提升只留真正相关内容）
-        if (!skipImpactEmpty) {
-          const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
-          if (!hasView) emptyFields.push({ tag, field: 'view', reason: `${tag} 字段「view/viewCMI/viewSensory」均为空${it.lens === 'neither' ? '（且 AI 判定 lens=neither 不相关，发布时将丢弃）' : '（会显示空白）'}` });
+        // 题录（专业文献·未获取全文，唯一定本 v5）：按用户要求「不写解读」，core/action/view 空是设计如此，
+        // 不判空字段；改查「证据链齐不齐」——真实日期、可点链接、三类命中、未获取全文标记。
+        const isCitation = it.lit === 'citation';
+        if (isCitation) {
+          if (!it.date || !String(it.date).trim()) report.critical.push(`${tag} 题录缺真实发布日期`);
+          if (!it.link || !String(it.link).trim()) report.critical.push(`${tag} 题录缺可点原文链接`);
+          if (!Array.isArray(it.litClasses) || !it.litClasses.length) report.critical.push(`${tag} 题录缺三类命中标记`);
+          if (it.fullTextNote !== '未获取全文') report.critical.push(`${tag} 题录缺「未获取全文」标记`);
+        } else {
+          for (const f of ['core', 'action']) {
+            // 抓取草稿阶段：三栏待 DeepSeek 填充，放行；严格发布阶段(skipImpactEmpty=false)会拦截
+            if (skipImpactEmpty) continue;
+            if (!it[f] || !String(it[f]).trim()) emptyFields.push({ tag, field: f, reason: `${tag} 字段「${f}」为空（会显示空白）` });
+          }
+          // 视角字段：view(旧) 或 viewCMI/viewSensory(新) 任一非空即通过；
+          // lens=neither（AI 判定与 CMI/感官均不相关）2026-11-09 起不再放行：此类条目在发布清理阶段整体丢弃，
+          // 防止无关文献混入「感官研究」板块（2026-11-06 用户裁决：专业提升只留真正相关内容）
+          if (!skipImpactEmpty) {
+            const hasView = (it.view && it.view.trim()) || (it.viewCMI && it.viewCMI.trim()) || (it.viewSensory && it.viewSensory.trim());
+            if (!hasView) emptyFields.push({ tag, field: 'view', reason: `${tag} 字段「view/viewCMI/viewSensory」均为空${it.lens === 'neither' ? '（且 AI 判定 lens=neither 不相关，发布时将丢弃）' : '（会显示空白）'}` });
+          }
         }
       }
       if (it.link) {
@@ -178,6 +188,10 @@ export function dropUnfillable(feed) {
       if (!title || !link || !summary) { dropped.push(tag + '（缺标题/链接/摘要）'); return; }
       if (g === 'news') {
         if (!(it.impact && String(it.impact).trim())) { dropped.push(tag + '（impact 空）'); return; }
+      } else if (it.lit === 'citation') {
+        // 题录（专业文献·未获取全文）：不写解读是设计如此，只保留基本信息，不按空解读字段丢弃（唯一定本 v5）
+        keep.push(it);
+        return;
       } else {
         const core = (it.core || '').toString().trim();
         const action = (it.action || '').toString().trim();

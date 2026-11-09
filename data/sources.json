@@ -419,7 +419,7 @@
       "name": "PubMed 感官与食品研究",
       "type": "pubmed",
       "retmax": 25,
-      "query": "(\"sensory evaluation\"[tiab] OR \"sensory analysis\"[tiab] OR \"sensory profil*\"[tiab] OR \"descriptive analysis\"[tiab] OR \"sensory panel*\"[tiab] OR \"consumer acceptance\"[tiab] OR \"taste perception\"[tiab] OR \"flavour perception\"[tiab] OR \"flavor perception\"[tiab]) AND (\"food\"[tiab] OR \"beverage\"[tiab] OR \"nutrition\"[tiab])",
+      "query": "(\"sensory evaluation\"[tiab] OR \"sensory panel*\"[tiab] OR \"descriptive sensory analysis\"[tiab] OR \"CATA\"[tiab] OR \"consumer test*\"[tiab] OR \"consumer preference*\"[tiab] OR \"consumer acceptance\"[tiab] OR \"purchase intent\"[tiab] OR \"willingness to pay\"[tiab] OR \"choice experiment\"[tiab] OR \"conjoint\"[tiab] OR \"food marketing\"[tiab] OR \"brand perception\"[tiab]) AND (\"food\"[tiab] OR \"beverage\"[tiab]) NOT (fermentation[tiab] OR microbial[tiab] OR \"volatile profile\"[tiab] OR metabolit*[tiab] OR \"food safety\"[tiab] OR pathogen*[tiab] OR contaminat*[tiab] OR GC-MS[tiab] OR bacteri*[tiab])",
       "sensory": true,
       "cat": "感官研究",
       "dimension": "",

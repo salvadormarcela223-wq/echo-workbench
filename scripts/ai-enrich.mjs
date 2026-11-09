@@ -230,6 +230,9 @@ export function buildTasks(feed) {
     const arr = feed[group] || [];
     const cands = [];
     arr.forEach((it, idx) => {
+      // 专业文献（唯一定本 v5）由 literature.mjs 独占处理：
+      // full = 已精读填好；citation = 题录，按用户要求「不写解读」，一律不再送通用 AI。
+      if (it.lit) return;
       const miss = [];
       if (group === 'news') {
         if (isEmpty(it.impact)) miss.push('impact');
