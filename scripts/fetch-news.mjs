@@ -547,6 +547,7 @@ if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
               summary,
               body,
               date: pubDate.toISOString().slice(0, 10),
+              addedAt: new Date().toISOString().slice(0, 10),   // 入库日期：统计「今日新增」用，与文章发表日(date)区分
               impact: '',   // 留空，由 AI 解读步骤(enrich)填充后再过闸门
               action: '',
               origin: s.name,

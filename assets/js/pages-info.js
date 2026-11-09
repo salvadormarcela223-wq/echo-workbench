@@ -50,7 +50,8 @@ function tagColor(map, key) {
     const cats = ['全部'].concat(allCats.sort());
     const hot = all.filter(n => (n.heat || 0) >= 5).length;
     const mo = new Date().toISOString().slice(0, 7);
-    const thisMonth = all.filter(n => String(n.date).startsWith(mo)).length;
+    // 本月新增：优先按入库日期(addedAt)统计真实抓取量，无 addedAt 的旧条目退回文章日期
+    const thisMonth = all.filter(n => String(n.addedAt || n.date || '').startsWith(mo)).length;
 
     box.innerHTML =
       '<div class="stats stagger">' +

@@ -590,6 +590,7 @@ function readFeed() {
               title: sanitizeTitle(it.title), source: s.name, link: itLink,
               topic: s.cat || s.dimension || (SENSORY_RE.test(it.title + ' ' + it.summary) && !SENSORY_EXCLUDE.test(it.title + ' ' + (it.summary || '')) ? '感官研究' : autoTopic(it.title + ' ' + it.summary)), cat: s.cat || '', dimension: s.dimension || '', region: s.region || '',
               summary, body, date: pubDate.toISOString().slice(0, 10),
+              addedAt: new Date().toISOString().slice(0, 10),   // 入库日期：统计「今日新增」用，与论文真实发表日(date)区分
               core: '', view: '', action: '', origin: s.name,
             });
             seen.add(itLink);
