@@ -1,18 +1,19 @@
 // Echo 每日流水线（端到端自动更新）：
-//   1) 抓取真实近期行业资讯 → 暂存草稿 feed-draft.json（impact 暂空）
-//   2) 调用 DeepSeek(deepseek-chat) 为草稿里的空 impact 生成中文「顾问视角」
-//   3) 严格质量闸门（impact 必须已填，否则中止）
+//   1) 抓取真实近期行业资讯 → 暂存草稿 feed-draft.json
+//   2) 情报阀门（框架 v4 定本）：L0-L2 零 token 规则 → L3 每天一次批量 AI 判「值得读」+ 中文短标题/中译摘要
+//   3) 严格质量闸门（题录条目查题录字段，不再要求解读字段）
 //   4) 草稿 → 线上 feed.json + 刷新缓存版本号
 //   5) 提交并推送（读取桌面令牌，不删除）
+// 说明：情报条目（news/insights 非文献）停发 AI 解读（用户 2026-11-10 拍板）；
+//       AI 精读只存在于「文献深读」（literature.mjs）与手动开关 deepread.mjs。
 // 用法：
 //   node scripts/daily-pipeline.mjs           # 完整跑（含发布+推送）
-//   node scripts/daily-pipeline.mjs --test    # 只跑 1~3（抓取+AI填充+质检），不发布不推送（⚠️ 会真实消耗 DeepSeek）
-//   node scripts/daily-pipeline.mjs --dry     # 只跑抓取，绝不调用 DeepSeek（0 token 消耗），验证抓取/编排改动首选
+//   node scripts/daily-pipeline.mjs --test    # 只跑到质检，不发布不推送
+//   node scripts/daily-pipeline.mjs --dry     # 只跑抓取+阀门L0-L2，绝不调用 DeepSeek（0 token），验证抓取/编排改动首选
 import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { enrich, buildTasks } from './ai-enrich.mjs';
 import { validate, dropUnfillable } from './validate-feed.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -87,69 +88,29 @@ function tryRun(cmd, label) {
   //     三类准入 → 全文核对 → 全文精读 / 题录两路。内部会调用 DeepSeek，故 --dry（零 token 编排验证）时跳过。
   if (!DRY) tryRun('node scripts/literature.mjs', '专业文献处理');
 
+  // 1c. 情报阀门（框架 v4 定本 2026-11-10）：L0-L2 零 token，L3 每天最多一次批量 AI。
+  //     --dry 时阀门纯预览（不改草稿、0 token）。
+  tryRun('node scripts/valve.mjs' + (DRY ? ' --dry' : ''), '情报阀门');
+
   // N 项：抓取阶段失败版块统一告警（不静默缺失）
   if (failedSections.length) {
     console.log(`\n⚠️⚠️ 本次以下版块抓取失败，线上将保留上一版对应内容（已显式标记，非静默缺失）：${failedSections.join('、')}`);
   }
 
-  // 2. AI 填充解读（DeepSeek）——循环补填直到全满或连续失败
-  //    单轮可能因速率限制/超时漏掉部分条目（如首次跑64/86条），必须自动追补
-  // --dry：只统计待富集条数，绝不调用 DeepSeek（0 token 消耗），验证抓取/编排改动一律用它
+  // 2. 情报条目不再送 AI 写解读（框架 v4：阀门已把关，解读停发，token 大头砍掉）。
+  //    --dry：只统计 pending 数，绝不调用 DeepSeek（0 token 消耗），验证抓取/编排改动一律用它
   if (DRY) {
     const dryFeed = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^\uFEFF/, ''));
-    const pend = buildTasks(dryFeed);
-    const newsPend = pend.filter((t) => t.group === 'news').length;
-    const insPend = pend.filter((t) => t.group === 'insights').length;
+    const newsPend = (dryFeed.news || []).filter((n) => n.valve === 'pending').length;
+    const insPend = (dryFeed.insights || []).filter((n) => n.valve === 'pending').length;
     console.log('\n（--dry 模式：未调用 DeepSeek，本次 0 次 AI 调用、0 token 消耗）');
-    console.log(`[预览] 若正式发布，将向 DeepSeek 发送 ${pend.length} 条（行业资讯 ${newsPend} / 专业提升 ${insPend}）`);
+    console.log('[预览] 阀门疑似待 L3 判定（--dry 纯预览，未改草稿）：行业资讯 ' + newsPend + ' / 专业提升 ' + insPend);
     console.log('\n✅ 抓取编排验证完成（--dry 不发布、不推送）');
     process.exit(0);
   }
 
-  // TEST 模式会真实调用 DeepSeek，先报个数，避免又稀里糊涂烧掉一大笔
-  if (TEST) {
-    const t = buildTasks(JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^\uFEFF/, '')));
-    console.log(`\n⚠️ TEST 模式会真实调用 DeepSeek，预计发送 ${t.length} 条（会产生 token 消耗）`);
-    console.log('   若只是验证抓取/编排，请改用 --dry（0 消耗）');
-  }
-
-  const MAX_ENRICH_ROUNDS = 3;
-  // 每条最多送 2 次 AI（单次调用内部已各自重试 3 次），防止顽固条目每轮都被重发、白烧 token
-  const MAX_ATTEMPTS_PER_ITEM = 2;
-  const attempts = new Map(); // key -> 已尝试次数
-  for (let round = 1; round <= MAX_ENRICH_ROUNDS; round++) {
-    console.log(`\n--- AI 填充 第 ${round}/${MAX_ENRICH_ROUNDS} 轮 ---`);
-    const skip = new Set([...attempts.entries()].filter(([, n]) => n >= MAX_ATTEMPTS_PER_ITEM).map(([k]) => k));
-    const res = await enrich(DRAFT, { skip });
-    (res.attempted || []).forEach((k) => attempts.set(k, (attempts.get(k) || 0) + 1));
-    if (res.fail > 0) console.log(`⚠️ 本轮 ${res.fail} 条失败`);
-
-    // 每轮结束后检查还有多少空字段
-    const check = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
-    const emptyImpacts = (check.news || []).filter(n => !n.impact || !n.impact.trim()).length;
-    const emptyCores = (check.insights || []).filter(n =>
-      // 题录（专业文献·未获取全文）不写解读是设计如此，不计入空核心字段，避免无谓多跑 AI 轮次
-      n.lit !== 'citation' && (
-        !n.core || !n.core.trim() || !n.action || !n.action.trim() ||
-        // 双维度：view(旧) 或 viewCMI/viewSensory(新) 任一非空即视为已填，三者全空才算缺失
-        (!(n.view && n.view.trim()) && !(n.viewCMI && n.viewCMI.trim()) && !(n.viewSensory && n.viewSensory.trim()))
-      )
-    ).length;
-    console.log(`本轮结束 → 剩余空 impact: ${emptyImpacts}, 空核心字段: ${emptyCores}`);
-
-    if (emptyImpacts === 0 && emptyCores === 0) {
-      console.log('✅ 所有字段已填满，无需继续');
-      break;
-    }
-    if (round < MAX_ENRICH_ROUNDS) {
-      console.log(`🔄 还有空字段，3s 后开始第 ${round + 1} 轮补填...`);
-      await new Promise(r => setTimeout(r, 3000));
-    } else {
-      console.log(`⚠️ 已达最大轮次(${MAX_ENRICH_ROUNDS})，仍有 ${emptyImpacts} 条空 impact / ${emptyCores} 条空核心字段`);
-    }
-  }
-
-  // 3. 严格质检 + 自愈：富集多轮仍填不出的条目先丢弃，其余照常发布（不再因少数顽固空白整体停更）
+  // 3. 严格质检 + 自愈：题录条目（valve=pass / lit=citation）只查题录字段；
+  //    残余的富集空白类坏条目（极旧存量）先丢弃，其余照常发布
   const draftRaw = JSON.parse(fs.readFileSync(DRAFT, 'utf-8').replace(/^﻿/, ''));
   // 全部留存：按用户 2026-09-08 要求，发布前不再清理任何陈旧条目（原 45 天 prune 逻辑已移除）
   const { cleaned, dropped } = dropUnfillable(draftRaw);
@@ -187,7 +148,7 @@ function tryRun(cmd, label) {
   try { execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
   try { execSync('git config user.name "github-actions[bot]"', { cwd: ROOT, stdio: 'inherit' }); } catch (e) {}
   try {
-    execSync('git commit -m "每日自动更新：抓取真实近期行业资讯 + DeepSeek 生成顾问视角"', { cwd: ROOT, stdio: 'inherit' });
+    execSync('git commit -m "每日自动更新：抓取真实近期资讯 + 阀门把关（框架 v4）"', { cwd: ROOT, stdio: 'inherit' });
   } catch (e) {
     console.log('（无内容变更，跳过提交）');
   }

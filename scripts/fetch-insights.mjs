@@ -574,7 +574,7 @@ function readFeed() {
             if (!summary) { rejected.push(`[${grp}] ${it.title} -> 摘要为空，已拦截`); continue; }
             // 学术感官源(sensoryFilter:false)放宽新鲜度：期刊论文非每日发布，3 天会清空整栏；其余仍 3 天
             const isAcademic = s.sensory && s.sensoryFilter === false;
-            const maxAge = isAcademic ? 45 : 3;
+            const maxAge = isAcademic ? 45 : 7; // 2026-11-10 用户拍板：时效窗口 7 天（学术源单独放宽不变）
             let pubDate = null;
             if (it.pub) { const pd = new Date(it.pub); if (!isNaN(pd) && pd <= new Date()) pubDate = pd; }
             if (!pubDate) { try { pubDate = await deriveDate(itLink); } catch (e) { } }

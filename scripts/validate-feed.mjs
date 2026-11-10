@@ -59,11 +59,17 @@ export function validate(feed, opts = {}) {
     const arr = feed[g] || [];
     arr.forEach((it, idx) => {
       const tag = `${g}[${idx}]`;
+      // 情报题录（valve=pass）/文献题录（lit=citation）的解读字段空是设计如此，不查。
       // 专业提升(insights)渲染不读 impact，只查它真正渲染的字段；news 查 impact
-      const fields = g === 'news' ? ['title', 'link', 'summary', 'impact'] : ['title', 'link', 'summary'];
+      const fields = g === 'news' ? ['title', 'link', 'summary'] : ['title', 'link', 'summary'];
       for (const f of fields) {
-        if (f === 'impact' && skipImpactEmpty) continue; // 抓取阶段 impact 由 AI 后续填充，暂不强拦
         if (!it[f] || !String(it[f]).trim()) emptyFields.push({ tag, field: f, reason: `${tag} 字段「${f}」为空（会显示空白）` });
+      }
+      if (it.valve === 'pass') {
+        // 情报题录（valve=pass，框架 v4）：必查真实日期 + 可点链接 + 领域标签（解读字段空是设计如此）
+        if (!it.date || !String(it.date).trim()) report.critical.push(`${tag} 题录缺真实发布日期`);
+        if (!it.link || !String(it.link).trim()) report.critical.push(`${tag} 题录缺可点原文链接`);
+        if (!(it.domain && String(it.domain).trim())) report.critical.push(`${tag} 情报题录缺领域标签`);
       }
       // 栏目页标题黑名单：网站目录/订阅/通用占位标题不允许当文章发布
       const genT = /^(subscribe|newsletter|read more|press announcements|press releases|industry news|sign up for email updates|news and events|媒体中心|聚焦中国|全球视野|贝恩专著)$/i;
@@ -73,13 +79,14 @@ export function validate(feed, opts = {}) {
       if (g === 'insights') {
         // 题录（专业文献·未获取全文，唯一定本 v5）：按用户要求「不写解读」，core/action/view 空是设计如此，
         // 不判空字段；改查「证据链齐不齐」——真实日期、可点链接、三类命中、未获取全文标记。
+        // （情报题录 valve=pass 已在上面单独查过题录字段，此处跳过）
         const isCitation = it.lit === 'citation';
         if (isCitation) {
           if (!it.date || !String(it.date).trim()) report.critical.push(`${tag} 题录缺真实发布日期`);
           if (!it.link || !String(it.link).trim()) report.critical.push(`${tag} 题录缺可点原文链接`);
           if (!Array.isArray(it.litClasses) || !it.litClasses.length) report.critical.push(`${tag} 题录缺三类命中标记`);
           if (it.fullTextNote !== '未获取全文') report.critical.push(`${tag} 题录缺「未获取全文」标记`);
-        } else {
+        } else if (it.valve !== 'pass') {
           for (const f of ['core', 'action']) {
             // 抓取草稿阶段：三栏待 DeepSeek 填充，放行；严格发布阶段(skipImpactEmpty=false)会拦截
             if (skipImpactEmpty) continue;
@@ -186,6 +193,12 @@ export function dropUnfillable(feed) {
       const link = (it.link || '').toString().trim();
       const summary = (it.summary || '').toString().trim();
       if (!title || !link || !summary) { dropped.push(tag + '（缺标题/链接/摘要）'); return; }
+      if (it.valve === 'pass') {
+        // 情报题录（valve=pass，框架 v4）：无解读是设计如此，只查题录要素，不按空解读字段丢弃
+        if (!(it.date || '').toString().trim()) { dropped.push(tag + '（情报题录缺日期）'); return; }
+        if (!(it.domain || '').toString().trim()) { dropped.push(tag + '（情报题录缺领域标签）'); return; }
+        keep.push(it); return;
+      }
       if (g === 'news') {
         if (!(it.impact && String(it.impact).trim())) { dropped.push(tag + '（impact 空）'); return; }
       } else if (it.lit === 'citation') {
@@ -228,7 +241,7 @@ export async function validateNet(feed, report) {
 // 范围拦截（news 必须电子烟/减害、insights 必须 FMCG/食品/餐饮）由各 fetch 脚本的 isTobacco 负责，
 // 本函数只补「时间真实且不过期」+「非标题党」两条此前未强制的项。
 export const PLATFORM_FLOOR = new Date('2026-08-01T00:00:00Z'); // 平台搭建日（存量不早于首条）
-export const MAX_AGE_DAYS = 3;        // 新内容超 3 天旧 → 拒收（用户 2026-10-27 拍板）
+export const MAX_AGE_DAYS = 7;        // 新内容超 7 天旧 → 拒收（用户 2026-11-10 拍板，覆盖旧 3 天；与 valve-config.json freshnessDays 一致）
 const MIN_SUMMARY = 20;               // 摘要过短(<20字)视为标题党代理判断
 
 export function gateNewItem(item, group, opts = {}) {

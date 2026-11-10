@@ -7,7 +7,6 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { aiWorthiness, CONFIG as GATE_CONFIG } from './ai-gate.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const ROOT = path.resolve('.');
@@ -217,63 +216,13 @@ function isBadSummary(v) {
   return false;
 }
 
-// 构建「待富集」任务清单（纯本地计算，绝不调用 DeepSeek）
-// 供正式富集与 --dry 预览共用：在花 token 之前先看清楚要发多少条
-// 关键：标题/摘要重生成只对「新条目」(fresh, 即本就缺 core/view/action/impact 的条目) 触发，
-// 已填充的存量条目不会被重新富集，从而「存量不动、只改后续输出」。
-//
-// 2026-10-30 新增：送 DeepSeek 前先过 ai-gate 评分闸门（零 token），
-// 流水线报道/通稿/纯产品上新/活动日程 等低价值内容在此被拦掉，不花 token；
-// 并在单次调用内按分数取 top（每日预算安全网）。仅影响未来新文章，存量不动。
+// 构建「待富集」任务清单 —— 框架 v4（2026-11-10 用户拍板）后恒返回空：
+// 情报条目的进门把关由 valve.mjs（L0-L3 四级阀门）接管，AI 解读对 news/insights 停发，
+// 内容 worthy 与否在阀门判、不在这里判。本函数保留仅为兼容旧调用（enrich CLI）不再产生任何 AI 调用。
+// readings 的三个函数（translateWords / translateFullText / extractPhrases）不受影响，照常工作。
 export function buildTasks(feed) {
-  const build = (group) => {
-    const arr = feed[group] || [];
-    const cands = [];
-    arr.forEach((it, idx) => {
-      // 专业文献（唯一定本 v5）由 literature.mjs 独占处理：
-      // full = 已精读填好；citation = 题录，按用户要求「不写解读」，一律不再送通用 AI。
-      if (it.lit) return;
-      const miss = [];
-      if (group === 'news') {
-        if (isEmpty(it.impact)) miss.push('impact');
-        if (isBadSummary(it.summary)) miss.push('summary');
-      } else {
-        if (isEmpty(it.core)) miss.push('core');
-        if (isEmpty(it.action)) miss.push('action');
-        const hasOldView = !isEmpty(it.view);
-        if (!hasOldView) {
-          if (!it.lens) {
-            miss.push('lens', 'viewCMI', 'viewSensory');
-          } else if (it.lens === 'neither') {
-            // 与 CMI/感官都不相关：本就无专项视角，不算缺失
-          } else {
-            if (it.lens === 'cmi' || it.lens === 'both') if (isEmpty(it.viewCMI)) miss.push('viewCMI');
-            if (it.lens === 'sensory' || it.lens === 'both') if (isEmpty(it.viewSensory)) miss.push('viewSensory');
-          }
-        }
-      }
-      const fresh = miss.length > 0;
-      if (fresh && isBadTitle(it.title)) miss.push('title');
-      if (fresh && isBadSummary(it.summary)) miss.push('summary');
-      if (!miss.length) return;
-
-      // —— AI 解读准入闸门（零 token）——
-      const w = aiWorthiness(it, group);
-      if (!w.pass) {
-        // 低价值/流水线报道：跳过，不送 DeepSeek。仅记日志供 --dry 预览观察。
-        if (process.env.AI_GATE_DEBUG) console.log(`  [gate] 跳过 ${group}[${idx}] 「${String(it.title || '').slice(0, 36)}」— ${w.reason}`);
-        return;
-      }
-      cands.push({ group, idx, missing: miss, key: `${group}:${idx}`, score: w.score });
-    });
-    // 第3层预算：按分数降序取 top（每日安全网；真实日增量低于上限，通常全过）
-    const cap = GATE_CONFIG.budget[group] ?? Infinity;
-    cands.sort((a, b) => b.score - a.score);
-    return cands.slice(0, cap);
-  };
-
-  const tasks = [...build('news'), ...build('insights')];
-  return tasks;
+  void feed;
+  return [];
 }
 
 // opts.skip: Set<key> —— 已尝试到上限、仍填不满的条目不再重复送 AI

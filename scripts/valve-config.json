@@ -1,0 +1,25 @@
+{
+  "_comment": "情报阀门配置（框架 v4 定本 2026-11-10，用户逐条拍板）。所有可调项集中在此，改动经 git 提交留痕，不埋代码里。时效 7 天为用户 2026-11-10 拍板（覆盖旧 3 天）。",
+  "freshnessDays": 7,
+  "minBodyChars": { "news": 600, "insights": 800 },
+  "hardMinChars": 150,
+  "bodyHeadForAI": 300,
+  "batchCap": 60,
+  "zhTitleMax": 20,
+  "zhSummaryMax": 120,
+  "domains": ["感官科学", "品牌营销", "消费者洞察", "政策法规", "市场数据", "企业战略"],
+  "truncationRe": "(阅读全文|read\\s+more$|全文请见|continued\\s+after\\s+the\\s+jump|\\.\\.\\.\\s*$)",
+  "paywallRe": "(subscribe\\s+to\\s+(continue|read)|sign\\s+in\\s+to\\s+read|log\\s+in\\s+to\\s+read|create\\s+a?\\s?(free\\s+)?account\\s+to\\s+(read|continue)|members?\\s+only|会员专享|订阅后可见|付费专享|登录后阅读)",
+  "exclusionRe": "(food\\s+safety|foodborne|salmonella|e-?\\s?coli|listeria|campylobacter|norovirus|pathogen|contaminant|mycotoxin|pesticide\\s+residue|microbial\\s+(risk|contamination)|microbiome|metabolomic|volatile\\s+profile|GC-?MS|食品安全|食安|食源性|致病菌|病原菌|真菌毒素|农残|微生物污染|代谢组)",
+  "eventRe": "(register\\s*now|sign\\s*up\\s*(here|now)|webinar\\s*(?::|on|—)|conference\\s+agenda|save\\s+the\\s+date|visit\\s+us\\s+at\\s+booth|RSVP|开展[^。]{0,16}活动|举办[^。]{0,16}活动|活动报名)",
+  "prRe": "(is\\s+pleased\\s+to\\s+(announce|share)|we\\s+are\\s+pleased\\s+to\\s+(announce|share)|press\\s+release|announces\\s+(the\\s+)?(appointment|addition|partnership))",
+  "promoRe": "(promo\\s*code|discount\\s*code|coupon|\\bdeal\\b|\\bsale\\b|\\d{1,2}\\s*%\\s*(off|discount)|折扣|促销|优惠|限时特价|省钱挑战)",
+  "domainLexicon": {
+    "感官科学": ["sensory", "flavor", "flavour", "aroma", "taste", "texture", "mouthfeel", "descriptive analysis", "CATA", "tasting panel", "palatability", "odor", "olfact", "sensory panel", "感官", "风味", "香气", "味觉", "嗅觉", "质构", "口感", "描述性分析"],
+    "品牌营销": ["brand", "marketing", "advertis", "campaign", "sponsorship", "promotion", "pricing", "brand building", "品牌", "营销", "广告", "定价", "推广"],
+    "消费者洞察": ["consumer", "shopper", "purchase intent", "buying behavior", "buying behaviour", "consumer preference", "willingness to pay", "consumer survey", "消费者", "购买意愿", "偏好", "用户研究", "消费行为", "消费者洞察"],
+    "政策法规": ["regulation", "regulatory", "policy", "compliance", "flavor ban", "nicotine tax", "excise", "TPD", "directive", "legislation", "FDA", "court", "lawsuit", "bill", "监管", "政策", "法规", "立法", "标准", "公告", "通知", "征税", "禁令", "条例"],
+    "市场数据": ["market share", "market size", "revenue", "sales", "growth", "forecast", "shipment", "valuation", "market report", "市场份额", "市场规模", "销量", "销售额", "营收", "增长", "预测", "出货", "数据"],
+    "企业战略": ["merger", "acquisition", "M&A", "IPO", "strategy", "investment", "expansion", "capacity", "supply chain", "layoff", "headquarters", "factory", "工厂", "并购", "战略", "投资", "产能", "供应链", "裁员", "扩产", "投产"]
+  }
+}
