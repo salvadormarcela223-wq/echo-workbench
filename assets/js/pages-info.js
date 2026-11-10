@@ -109,7 +109,7 @@ function tagColor(map, key) {
 
       (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
         '<thead><tr><th style="min-width:82px">日期</th><th style="min-width:280px">资讯标题</th><th style="min-width:82px">领域</th>' +
-        '<th style="min-width:320px">要点摘要</th><th style="min-width:90px">解读</th><th style="min-width:56px">热度</th><th style="width:66px"></th></tr></thead><tbody>' +
+        '<th style="min-width:300px">要点摘要</th><th style="min-width:300px">解读</th><th style="min-width:56px">热度</th><th style="width:66px"></th></tr></thead><tbody>' +
         list.slice(0, nShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
@@ -275,7 +275,7 @@ function tagColor(map, key) {
           '</tbody></table></div></div>' : emptyBox('没有匹配的文献'))
         : (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
           '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:82px">领域</th><th style="min-width:280px">标题 / 来源</th>' +
-          '<th style="min-width:340px">要点摘要</th><th style="min-width:220px">解读</th><th style="width:66px"></th></tr></thead><tbody>' +
+          '<th style="min-width:340px">要点摘要</th><th style="min-width:300px">解读</th><th style="width:66px"></th></tr></thead><tbody>' +
           list.slice(0, iShow).map(n =>
             '<tr>' +
             '<td class="td-date">' + esc(n.date) + '</td>' +
