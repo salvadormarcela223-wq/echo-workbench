@@ -67543,5 +67543,690 @@
     "p": "/ˌləʊ ˈhæŋɪŋ/",
     "t": "低垂的；易得的",
     "en": "easy to reach or achieve"
+  },
+  "incontinence": {
+    "p": "/ɪnˈkɒntɪnəns/",
+    "t": "失禁",
+    "en": "inability to control urination or defecation"
+  },
+  "morphine": {
+    "p": "/ˈmɔːfiːn/",
+    "t": "吗啡",
+    "en": "a strong opioid pain-relieving drug"
+  },
+  "surgeons": {
+    "p": "/ˈsɜːdʒənz/",
+    "t": "外科医生（复数）",
+    "en": "doctors who perform operations"
+  },
+  "protruded": {
+    "p": "/prəˈtruːdɪd/",
+    "t": "伸出，突出（过去式）",
+    "en": "stuck out or extended beyond a surface"
+  },
+  "stomach": {
+    "p": "/ˈstʌmək/",
+    "t": "胃；腹部",
+    "en": "the organ that digests food; the belly"
+  },
+  "perforate": {
+    "p": "/ˈpɜːfəreɪt/",
+    "t": "穿孔，打洞",
+    "en": "to make a hole through something"
+  },
+  "texted": {
+    "p": "/ˈtekstɪd/",
+    "t": "发短信（过去式）",
+    "en": "sent a text message"
+  },
+  "blinding": {
+    "p": "/ˈblaɪndɪŋ/",
+    "t": "令人目眩的；致盲的",
+    "en": "so bright as to cause blindness; dazzling"
+  },
+  "retching": {
+    "p": "/ˈretʃɪŋ/",
+    "t": "干呕",
+    "en": "making the movements of vomiting without bringing anything up"
+  },
+  "groggy": {
+    "p": "/ˈɡrɒɡi/",
+    "t": "昏昏沉沉的",
+    "en": "dazed and weak, especially after sleep or anaesthesia"
+  },
+  "sixinch": {
+    "p": "/sɪks ɪntʃ/",
+    "t": "六英寸（的）",
+    "en": "measuring six inches"
+  },
+  "incision": {
+    "p": "/ɪnˈsɪʒn/",
+    "t": "切口",
+    "en": "a surgical cut made in the body"
+  },
+  "pelvis": {
+    "p": "/ˈpelvɪs/",
+    "t": "骨盆",
+    "en": "the bony structure at the base of the spine"
+  },
+  "drainage": {
+    "p": "/ˈdreɪnɪdʒ/",
+    "t": "引流；排水",
+    "en": "the removal of fluid from a wound or cavity"
+  },
+  "urinary": {
+    "p": "/ˈjʊərɪnəri/",
+    "t": "泌尿的",
+    "en": "relating to urine or the organs that produce it"
+  },
+  "faecal": {
+    "p": "/ˈfiːkl/",
+    "t": "粪便的",
+    "en": "relating to faeces"
+  },
+  "listened": {
+    "p": "/ˈlɪsnd/",
+    "t": "听（过去式）",
+    "en": "gave attention to sound"
+  },
+  "revisit": {
+    "p": "/ˌriːˈvɪzɪt/",
+    "t": "重访，重新审视",
+    "en": "to visit or examine again"
+  },
+  "empowered": {
+    "p": "/ɪmˈpaʊəd/",
+    "t": "被赋权的",
+    "en": "given power or confidence to act"
+  },
+  "births": {
+    "p": "/bɜːθs/",
+    "t": "分娩（复数）",
+    "en": "instances of giving birth"
+  },
+  "perinatal": {
+    "p": "/ˌperɪˈneɪtl/",
+    "t": "围产期的",
+    "en": "relating to the period around childbirth"
+  },
+  "mindbogglingly": {
+    "p": "/ˈmaɪndˌbɒɡlɪŋli/",
+    "t": "令人难以置信地",
+    "en": "in an astonishingly difficult-to-comprehend way"
+  },
+  "caesarean": {
+    "p": "/sɪˈzeəriən/",
+    "t": "剖腹产（的）",
+    "en": "relating to a surgical delivery of a baby"
+  },
+  "stitches": {
+    "p": "/ˈstɪtʃɪz/",
+    "t": "缝针，缝线",
+    "en": "loops of thread used to sew up a wound"
+  },
+  "undone": {
+    "p": "/ʌnˈdʌn/",
+    "t": "被解开的；未完成的",
+    "en": "unfastened or ruined; not completed"
+  },
+  "complication": {
+    "p": "/ˌkɒmplɪˈkeɪʃn/",
+    "t": "并发症",
+    "en": "a secondary problem arising from a condition or procedure"
+  },
+  "bowels": {
+    "p": "/ˈbaʊəlz/",
+    "t": "肠，肠道",
+    "en": "the intestines"
+  },
+  "classed": {
+    "p": "/klɑːst/",
+    "t": "被归类",
+    "en": "categorized or grouped"
+  },
+  "newborn": {
+    "p": "/ˈnjuːbɔːn/",
+    "t": "新生儿（的）",
+    "en": "a recently born baby"
+  },
+  "worsened": {
+    "p": "/ˈwɜːsnd/",
+    "t": "恶化（过去式）",
+    "en": "became worse"
+  },
+  "rationally": {
+    "p": "/ˈræʃənəli/",
+    "t": "理性地",
+    "en": "in a logical and reasonable manner"
+  },
+  "mustered": {
+    "p": "/ˈmʌstəd/",
+    "t": "鼓起（勇气）；召集",
+    "en": "gathered or summoned up"
+  },
+  "contacted": {
+    "p": "/ˈkɒntæktɪd/",
+    "t": "联系（过去式）",
+    "en": "got in touch with"
+  },
+  "adhesions": {
+    "p": "/ədˈhiːʒnz/",
+    "t": "粘连",
+    "en": "bands of scar tissue joining tissues or organs"
+  },
+  "obstruction": {
+    "p": "/əbˈstrʌkʃn/",
+    "t": "阻塞，梗阻",
+    "en": "a blockage"
+  },
+  "ambulance": {
+    "p": "/ˈæmbjələns/",
+    "t": "救护车",
+    "en": "a vehicle for transporting sick or injured people"
+  },
+  "constricting": {
+    "p": "/kənˈstrɪktɪŋ/",
+    "t": "收缩的，束紧的",
+    "en": "tightening or narrowing"
+  },
+  "obstructions": {
+    "p": "/əbˈstrʌkʃnz/",
+    "t": "阻塞物（复数）",
+    "en": "blockages"
+  },
+  "healed": {
+    "p": "/hiːld/",
+    "t": "愈合（过去式）",
+    "en": "became healthy again after injury"
+  },
+  "stoic": {
+    "p": "/ˈstəʊɪk/",
+    "t": "坚忍的",
+    "en": "enduring pain or hardship without complaint"
+  },
+  "midwifery": {
+    "p": "/ˌmɪdˈwɪfəri/",
+    "t": "助产术，助产学",
+    "en": "the profession of assisting at childbirth"
+  },
+  "vaginally": {
+    "p": "/vəˈdʒaɪnəli/",
+    "t": "经阴道地",
+    "en": "through the vagina"
+  },
+  "kidney": {
+    "p": "/ˈkɪdni/",
+    "t": "肾",
+    "en": "an organ that filters blood and produces urine"
+  },
+  "caesareans": {
+    "p": "/sɪˈzeəriənz/",
+    "t": "剖腹产（复数）",
+    "en": "surgical deliveries of babies"
+  },
+  "clots": {
+    "p": "/klɒts/",
+    "t": "血块，凝块",
+    "en": "thickened masses of blood"
+  },
+  "cesarean": {
+    "p": "/sɪˈzeəriən/",
+    "t": "剖腹产（的）（美式拼写）",
+    "en": "relating to a surgical delivery of a baby"
+  },
+  "ectopic": {
+    "p": "/ekˈtɒpɪk/",
+    "t": "异位的",
+    "en": "occurring in an abnormal position, especially of pregnancy"
+  },
+  "fertilised": {
+    "p": "/ˈfɜːtəlaɪzd/",
+    "t": "受精的",
+    "en": "made fertile or united with a sperm"
+  },
+  "uterus": {
+    "p": "/ˈjuːtərəs/",
+    "t": "子宫",
+    "en": "the organ in which a fetus develops"
+  },
+  "placenta": {
+    "p": "/pləˈsentə/",
+    "t": "胎盘",
+    "en": "the organ nourishing the fetus in the womb"
+  },
+  "accreta": {
+    "p": "/əˈkriːtə/",
+    "t": "植入性（胎盘）",
+    "en": "abnormally adherent, as of placenta to the womb"
+  },
+  "attaches": {
+    "p": "/əˈtætʃɪz/",
+    "t": "附着，连接",
+    "en": "fastens or joins to something"
+  },
+  "surgical": {
+    "p": "/ˈsɜːdʒɪkl/",
+    "t": "外科的",
+    "en": "relating to surgery"
+  },
+  "theatre": {
+    "p": "/ˈθɪətə/",
+    "t": "手术室",
+    "en": "an operating room"
+  },
+  "perforation": {
+    "p": "/ˌpɜːfəˈreɪʃn/",
+    "t": "穿孔",
+    "en": "a hole made through a body part"
+  },
+  "occurrences": {
+    "p": "/əˈkʌrənsɪz/",
+    "t": "发生，事件（复数）",
+    "en": "instances of something happening"
+  },
+  "undergoes": {
+    "p": "/ˌʌndəˈɡəʊz/",
+    "t": "经历，接受",
+    "en": "experiences or is subjected to"
+  },
+  "surgically": {
+    "p": "/ˈsɜːdʒɪkli/",
+    "t": "通过手术地",
+    "en": "by means of surgery"
+  },
+  "bladder": {
+    "p": "/ˈblædə/",
+    "t": "膀胱",
+    "en": "the organ that stores urine"
+  },
+  "lacerations": {
+    "p": "/ˌlæsəˈreɪʃnz/",
+    "t": "撕裂伤（复数）",
+    "en": "deep cuts or tears in the flesh"
+  },
+  "vaginal": {
+    "p": "/vəˈdʒaɪnl/",
+    "t": "阴道的",
+    "en": "relating to the vagina"
+  },
+  "fourthdegree": {
+    "p": "/fɔːθ dɪˈɡriː/",
+    "t": "四度的",
+    "en": "of the fourth and most severe degree"
+  },
+  "sphincter": {
+    "p": "/ˈsfɪŋktə/",
+    "t": "括约肌",
+    "en": "a ring of muscle that controls an opening"
+  },
+  "rectum": {
+    "p": "/ˈrektəm/",
+    "t": "直肠",
+    "en": "the final section of the large intestine"
+  },
+  "tokophobia": {
+    "p": "/ˌtəʊkəˈfəʊbiə/",
+    "t": "分娩恐惧症",
+    "en": "an intense fear of pregnancy and childbirth"
+  },
+  "pelvic": {
+    "p": "/ˈpelvɪk/",
+    "t": "骨盆的",
+    "en": "relating to the pelvis"
+  },
+  "prolapse": {
+    "p": "/ˈprəʊlæps/",
+    "t": "脱垂",
+    "en": "a slipping down of an organ from its normal position"
+  },
+  "thyroid": {
+    "p": "/ˈθaɪrɔɪd/",
+    "t": "甲状腺",
+    "en": "a gland in the neck that produces hormones"
+  },
+  "peripartum": {
+    "p": "/ˌperɪˈpɑːtəm/",
+    "t": "围产期的",
+    "en": "occurring around the time of childbirth"
+  },
+  "cardiomyopathy": {
+    "p": "/ˌkɑːdiəʊmaɪˈɒpəθi/",
+    "t": "心肌病",
+    "en": "a disease of the heart muscle"
+  },
+  "obstetric": {
+    "p": "/əbˈstetrɪk/",
+    "t": "产科的",
+    "en": "relating to childbirth and its care"
+  },
+  "fistula": {
+    "p": "/ˈfɪstjʊlə/",
+    "t": "瘘管",
+    "en": "an abnormal passage between two organs"
+  },
+  "curved": {
+    "p": "/kɜːvd/",
+    "t": "弯曲的",
+    "en": "bent or having a curve"
+  },
+  "tweezers": {
+    "p": "/ˈtwiːzəz/",
+    "t": "镊子",
+    "en": "a small tool for picking up small objects"
+  },
+  "perineal": {
+    "p": "/ˌperɪˈniːəl/",
+    "t": "会阴的",
+    "en": "relating to the perineum"
+  },
+  "pudendal": {
+    "p": "/pjuːˈdendl/",
+    "t": "阴部的",
+    "en": "relating to the external genitals"
+  },
+  "traumatised": {
+    "p": "/ˈtrɔːmətaɪzd/",
+    "t": "受创伤的",
+    "en": "deeply distressed or psychologically injured"
+  },
+  "grazing": {
+    "p": "/ˈɡreɪzɪŋ/",
+    "t": "擦伤",
+    "en": "a superficial scrape of the skin"
+  },
+  "episiotomy": {
+    "p": "/ɪˌpiːziˈɒtəmi/",
+    "t": "会阴切开术",
+    "en": "a surgical cut at the vaginal opening during birth"
+  },
+  "babys": {
+    "p": "/ˈbeɪbiz/",
+    "t": "婴儿的（所有格）",
+    "en": "belonging to a baby"
+  },
+  "forceps": {
+    "p": "/ˈfɔːseps/",
+    "t": "产钳，镊子",
+    "en": "an instrument for grasping, used in delivery"
+  },
+  "ventouse": {
+    "p": "/vɒnˈtuːs/",
+    "t": "真空吸引器",
+    "en": "a suction cup used to assist delivery"
+  },
+  "suction": {
+    "p": "/ˈsʌkʃn/",
+    "t": "抽吸",
+    "en": "the act of drawing fluid or tissue away by suction"
+  },
+  "reconstructive": {
+    "p": "/ˌriːkənˈstrʌktɪv/",
+    "t": "重建的",
+    "en": "relating to the rebuilding of damaged tissue"
+  },
+  "revolves": {
+    "p": "/rɪˈvɒlvz/",
+    "t": "围绕，旋转",
+    "en": "moves in a circle; centres on"
+  },
+  "genitals": {
+    "p": "/ˈdʒenɪtlz/",
+    "t": "生殖器",
+    "en": "the external sexual organs"
+  },
+  "urethra": {
+    "p": "/jʊˈriːθrə/",
+    "t": "尿道",
+    "en": "the tube through which urine leaves the body"
+  },
+  "welldocumented": {
+    "p": "/wel ˈdɒkjumentɪd/",
+    "t": "有充分记录的",
+    "en": "thoroughly recorded or evidenced"
+  },
+  "midwife": {
+    "p": "/ˈmɪdwaɪf/",
+    "t": "助产士",
+    "en": "a person trained to assist women in childbirth"
+  },
+  "stitching": {
+    "p": "/ˈstɪtʃɪŋ/",
+    "t": "缝合",
+    "en": "sewing up a wound with thread"
+  },
+  "endure": {
+    "p": "/ɪnˈdjʊə/",
+    "t": "忍受",
+    "en": "to suffer patiently"
+  },
+  "flashbacks": {
+    "p": "/ˈflæʃbæks/",
+    "t": "闪回（复数）",
+    "en": "vivid memories of a past traumatic event"
+  },
+  "stoma": {
+    "p": "/ˈstəʊmə/",
+    "t": "造口",
+    "en": "an artificial opening in the body for waste"
+  },
+  "wrapper": {
+    "p": "/ˈræpə/",
+    "t": "包装纸",
+    "en": "a covering that wraps something"
+  },
+  "unsupported": {
+    "p": "/ˌʌnsəˈpɔːtɪd/",
+    "t": "缺乏支持的",
+    "en": "not given help or backing"
+  },
+  "premenstrual": {
+    "p": "/ˌpriːˈmenstruəl/",
+    "t": "经前的",
+    "en": "occurring before menstruation"
+  },
+  "dysphoric": {
+    "p": "/dɪsˈfɒrɪk/",
+    "t": "烦躁不安的",
+    "en": "feeling a state of unease or dissatisfaction"
+  },
+  "hopelessness": {
+    "p": "/ˈhəʊpləsnəs/",
+    "t": "绝望",
+    "en": "a feeling of having no hope"
+  },
+  "irritability": {
+    "p": "/ˌɪrɪtəˈbɪləti/",
+    "t": "易怒",
+    "en": "the tendency to become annoyed easily"
+  },
+  "nightmares": {
+    "p": "/ˈnaɪtmeəz/",
+    "t": "噩梦（复数）",
+    "en": "frightening dreams"
+  },
+  "whilst": {
+    "p": "/waɪlst/",
+    "t": "当……时；然而",
+    "en": "while; during the time that"
+  },
+  "doula": {
+    "p": "/ˈduːlə/",
+    "t": "导乐（分娩陪护）",
+    "en": "a trained companion who supports a woman in childbirth"
+  },
+  "embarrassed": {
+    "p": "/ɪmˈbærəst/",
+    "t": "尴尬的",
+    "en": "feeling ashamed or self-conscious"
+  },
+  "obstetrics": {
+    "p": "/əbˈstetrɪks/",
+    "t": "产科学",
+    "en": "the branch of medicine dealing with childbirth"
+  },
+  "misconceptions": {
+    "p": "/ˌmɪskənˈsepʃnz/",
+    "t": "误解（复数）",
+    "en": "incorrect beliefs or ideas"
+  },
+  "expectation": {
+    "p": "/ˌekspekˈteɪʃn/",
+    "t": "期望",
+    "en": "a belief that something will happen"
+  },
+  "physiotherapy": {
+    "p": "/ˌfɪziəʊˈθerəpi/",
+    "t": "物理治疗",
+    "en": "treatment using physical methods such as exercise"
+  },
+  "benefited": {
+    "p": "/ˈbenɪfɪtɪd/",
+    "t": "受益（过去式）",
+    "en": "gained an advantage from something"
+  },
+  "neurotic": {
+    "p": "/njʊəˈrɒtɪk/",
+    "t": "神经质的",
+    "en": "excessively anxious or emotionally unstable"
+  },
+  "steals": {
+    "p": "/stiːlz/",
+    "t": "偷走；悄然夺去",
+    "en": "takes something without permission; takes away"
+  },
+  "paramour": {
+    "p": "/ˈpærəmʊə/",
+    "t": "情人；情妇",
+    "en": "an illicit lover"
+  },
+  "purported": {
+    "p": "/pəˈpɔːtɪd/",
+    "t": "据称的；声称的",
+    "en": "alleged or claimed to be true"
+  },
+  "undercover": {
+    "p": "/ˌʌndəˈkʌvə/",
+    "t": "秘密的；卧底的",
+    "en": "done secretly, especially by police"
+  },
+  "flightless": {
+    "p": "/ˈflaɪtləs/",
+    "t": "不能飞的",
+    "en": "unable to fly"
+  },
+  "sordid": {
+    "p": "/ˈsɔːdɪd/",
+    "t": "肮脏的；卑鄙的",
+    "en": "dirty, squalid, or morally base"
+  },
+  "serialized": {
+    "p": "/ˈsɪəriəlaɪzd/",
+    "t": "连载的；连续出版的",
+    "en": "published or broadcast in installments"
+  },
+  "compromised": {
+    "p": "/ˈkɒmprəmaɪzd/",
+    "t": "受损的；妥协的",
+    "en": "weakened or damaged; settled by concession"
+  },
+  "sneeze": {
+    "p": "/sniːz/",
+    "t": "打喷嚏",
+    "en": "to expel air suddenly through the nose and mouth"
+  },
+  "highpowered": {
+    "p": "/ˌhaɪˈpaʊəd/",
+    "t": "大功率的；有权势的",
+    "en": "powerful or energetic; having great power"
+  },
+  "graphics": {
+    "p": "/ˈɡræfɪks/",
+    "t": "图形；图像",
+    "en": "visual images or designs"
+  },
+  "programmers": {
+    "p": "/ˈprəʊɡræməz/",
+    "t": "程序员",
+    "en": "people who write computer programs"
+  },
+  "fifth": {
+    "p": "/fɪfθ/",
+    "t": "第五",
+    "en": "constituting number five in a sequence"
+  },
+  "extends": {
+    "p": "/ɪkˈstendz/",
+    "t": "延伸；扩展",
+    "en": "stretches out or enlarges in scope"
+  },
+  "sicced": {
+    "p": "/sɪkt/",
+    "t": "唆使；放（狗）去咬",
+    "en": "set upon or urged to attack"
+  },
+  "smuggle": {
+    "p": "/ˈsmʌɡl/",
+    "t": "走私；偷运",
+    "en": "to move goods illegally across a border"
+  },
+  "unsettle": {
+    "p": "/ʌnˈsetl/",
+    "t": "使不安；扰乱",
+    "en": "to make uneasy or disturbed"
+  },
+  "wobbles": {
+    "p": "/ˈwɒblz/",
+    "t": "摇晃；摇摆",
+    "en": "moves unsteadily from side to side"
+  },
+  "concentrating": {
+    "p": "/ˈkɒnsntreɪtɪŋ/",
+    "t": "集中；专注",
+    "en": "focusing attention or gathering together"
+  },
+  "unproductive": {
+    "p": "/ˌʌnprəˈdʌktɪv/",
+    "t": "无成效的；不生产的",
+    "en": "not producing useful results"
+  },
+  "unquantified": {
+    "p": "/ʌnˈkwɒntɪfaɪd/",
+    "t": "未量化的",
+    "en": "not measured or expressed as a quantity"
+  },
+  "optimize": {
+    "p": "/ˈɒptɪmaɪz/",
+    "t": "优化",
+    "en": "to make as effective or efficient as possible"
+  },
+  "commodify": {
+    "p": "/kəˈmɒdɪfaɪ/",
+    "t": "商品化",
+    "en": "to treat as a commodity for trade"
+  },
+  "undermines": {
+    "p": "/ˌʌndəˈmaɪnz/",
+    "t": "削弱；破坏",
+    "en": "weakens or damages gradually"
+  },
+  "cheerful": {
+    "p": "/ˈtʃɪəfl/",
+    "t": "快乐的；高兴的",
+    "en": "noticeably happy and optimistic"
+  },
+  "greeting": {
+    "p": "/ˈɡriːtɪŋ/",
+    "t": "问候；招呼",
+    "en": "a word or gesture of welcome"
+  },
+  "hello": {
+    "p": "/həˈləʊ/",
+    "t": "你好",
+    "en": "used as a greeting"
+  },
+  "contemporaneous": {
+    "p": "/kənˌtempəˈreɪniəs/",
+    "t": "同时期的；同时代的",
+    "en": "existing or occurring at the same time"
   }
 }
