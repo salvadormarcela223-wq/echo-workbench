@@ -17,9 +17,8 @@
 //
 // 判定结果写回条目：
 //   valve:'pass'    → 进平台（题录）。规则直过的没有中文短标题/中译摘要（0 token 设计如此），前端回退原标题/原摘要
-//   不值得/残缺/过期/重复/食安/L3未判定(pending) → 从草稿移除 + 写入 data/valve-discards.jsonl（误杀可复查）
-//   注：草稿每天由 fetch 从 live 重建，pending 不入平台即自然离开本批；多数源列表保留数日，
-//       未判条目会在后续轮次重新进来重判（框架：「本轮不入选、显式告警、宁缺毋滥」）
+//   不值得/残缺/过期/重复/食安/L3未判定 → 从草稿移除 + 写入 data/valve-discards.jsonl（层标记 L3-pending，可复查）
+//   L3 失败条目「本轮不入选 + 显式告警」，绝不静默放行；若次日源列表仍给出该条会重新进阀重判
 //
 // 用法：
 //   node scripts/valve.mjs          # 完整跑（L3 会调 DeepSeek，全天仅 1 次批量）
@@ -41,9 +40,6 @@ const RE = {
   truncation: new RegExp(CFG.truncationRe, 'i'),
   paywall: new RegExp(CFG.paywallRe, 'i'),
   exclusion: new RegExp(CFG.exclusionRe, 'i'),
-  event: new RegExp(CFG.eventRe, 'i'),
-  pr: new RegExp(CFG.prRe, 'i'),
-  promo: new RegExp(CFG.promoRe, 'i'),
 };
 const DOMAIN_RES = Object.fromEntries(
   Object.entries(CFG.domainLexicon).map(([d, words]) => [d, new RegExp('(' + words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'i')])
@@ -114,7 +110,7 @@ function l0(c, seenTitles) {
   const age = (now - d) / 864e5;
   if (age > CFG.freshnessDays) { discard(it, c.g, 'L0', `发布日 ${it.date} 超 ${CFG.freshnessDays} 天窗口（${age.toFixed(1)}天）`); return false; }
   const nt = normTitle(it.title);
-  if (nt && seenTitles.has(nt)) { discard(it, c.g, 'L0', '同事件重复（同批已有同题条目）'); return false; }
+  if (nt && seenTitles.has(nt)) { discard(it, c.g, 'L0', '同事件重复（已有同题条目）'); return false; }
   if (nt) seenTitles.add(nt);
   return true;
 }
@@ -140,13 +136,9 @@ function l1(c) {
 // —— L2：领域闸（0 token，三态）——
 function l2(c) {
   const it = c.it;
-  // 标题 + 摘要 + 正文头 300 字一起判（真实案例：FSN 文章标题无食安字样，正文头/摘要才有——只看标题会漏）
-  const text = clean(it.title) + ' ' + clean(it.summary) + ' ' + clean(it.body).slice(0, CFG.bodyHeadForAI);
+  // 判定文本 = 标题 + 摘要（框架 v4 原样，不得扩到正文）
+  const text = clean(it.title) + ' ' + clean(it.summary);
   if (RE.exclusion.test(text)) { discard(it, c.g, 'L2', '食安/菌/化学（内容级排除，用户 2026-11-10 拍板）'); return { state: 'reject' }; }
-  // 「不值得」硬排除（0 token）：活动/报名、纯通稿、纯促销/折扣——用户判据里的明确不值得项，在规则层直接拦
-  if (RE.event.test(text)) { discard(it, c.g, 'L2', '活动/报名类（非资讯）'); return { state: 'reject' }; }
-  if (RE.pr.test(text)) { discard(it, c.g, 'L2', '纯通稿 boilerplate'); return { state: 'reject' }; }
-  if (RE.promo.test(text)) { discard(it, c.g, 'L2', '纯促销/折扣/上新（非资讯）'); return { state: 'reject' }; }
   let best = '', bestHits = 0;
   for (const [d, re] of Object.entries(DOMAIN_RES)) {
     const hits = (text.match(new RegExp(re.source, 'gi')) || []).length;
@@ -204,6 +196,18 @@ async function l3(batch) {
 
   const stats = { L0: 0, L1: 0, L2: 0, rulePass: 0, aiPass: 0, pending: 0 };
   const seenTitles = new Set();
+  // 「同事件多源只留一条」（框架 v3/v4）：草稿里已有的非候选条目标题全部算作已存在，
+  // 防止跨天同事件报道（昨天已进一条、今天另一源再发）重复入平台
+  {
+    const candSet = new Set(cands.map((c) => c.it));
+    for (const g of ['news', 'insights']) {
+      (feed[g] || []).forEach((it) => {
+        if (it.lit || it.custom || candSet.has(it)) return;
+        const nt = normTitle(it.title);
+        if (nt) seenTitles.add(nt);
+      });
+    }
+  }
   const toL3 = [];
   for (const c of cands) {
     if (!l0(c, seenTitles)) { stats.L0++; continue; }

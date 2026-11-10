@@ -34,15 +34,10 @@
     if (v && LEGACY7[v]) return LEGACY7[v];
     return group === 'news' ? '产业动态' : '市场与数据';
   }
-  // 7 主题 → 6 领域（仅展示层归一，让存量条目在领域筛选下仍可见；数据绝不改写）
-  const TOPIC2DOMAIN = {
-    '产业动态': '企业战略', '政策与标准': '政策法规', '市场与数据': '市场数据',
-    '消费者与用户': '消费者洞察', '产品与感官': '感官科学', '趋势与前瞻': '市场数据', '战略与方法': '企业战略'
-  };
-  // 条目领域标签：新条目读 domain（阀门 L2/L3 打标）；存量条目经 7 主题展示层映射归一
+  // 条目领域标签：只读 domain（阀门 L2/L3 打标）。存量条目没有该字段 → 显示「—」，不硬归任何领域
+  // （此前我自行拍的「7主题→6领域」映射已按用户 2026-11-10 指令删除）
   function domainOf(n) {
-    if (DOMAINS.indexOf(n.domain) >= 0) return n.domain;
-    return TOPIC2DOMAIN[topic7Of(n.cat || n.topic, '')] || '';
+    return DOMAINS.indexOf(n.domain) >= 0 ? n.domain : '';
   }
   // 题录展示：优先中文短标题/中译摘要（L3 产出），规则直过条目回退原标题/原摘要
   const showTitle = (n) => n.zhTitle || n.title;
@@ -84,7 +79,7 @@ function tagColor(map, key) {
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    // 筛选器 = 六领域（框架 v4：6 领域管情报）；存量条目经 7 主题展示层映射归一后仍能被筛到
+    // 筛选器 = 六领域（框架 v4：6 领域管情报）；存量条目无领域标签，仅在「全部」下可见
     const cats = ['全部'].concat(DOMAINS);
     const hot = all.filter(n => (n.heat || 0) >= 5).length;
     const mo = new Date().toISOString().slice(0, 7);
@@ -172,10 +167,11 @@ function tagColor(map, key) {
     });
   }
 
-  /* ================= 板块二 · 专业提升（内部双子区，框架 v4） =================
-     版块不拆：板块内部上「前沿情报」（题录流，六领域筛选），下「文献深读」（AI 精读，7 主题筛选）。 */
-  let iFilter = '全部', iQuery = '', iShow = 30;   // 前沿情报子区
-  let dFilter = '全部', dQuery = '', dShow = 30;   // 文献深读子区
+  /* ================= 板块二 · 专业提升（框架 v4，用户 2026-11-10 明确布局） =================
+     单一情报流：「文献深读」与六领域标签放在同一栏 chip 里，不是独立子区。
+     点「文献深读」→ 显示文献条目，其下第二行为 7 主题筛选（双标签方案：7 主题只管文献）。 */
+  let iFilter = '全部', iQuery = '', iShow = 30;   // iFilter：'全部' | 六领域之一 | '文献深读'
+  let dFilter = '全部', dShow = 30;                // 文献深读视图下的 7 主题筛选
 
   window.Pages.insight = function (view) {
     view.innerHTML = '<div class="scroll"><div class="wrap page" id="pgBody"></div></div>';
@@ -200,72 +196,107 @@ function tagColor(map, key) {
     const box = document.getElementById('pgBody');
     if (!box) return;
     const all = S.s.insights;
-    const intel = all.filter(n => !n.lit);
-    const deep = all.filter(n => !!n.lit);
-    box.innerHTML =
-      '<div class="stats stagger">' +
-      stat('情报总量', intel.length, '条') +
-      stat('本月新增', intel.filter(x => String(x.addedAt || x.date || '').startsWith(new Date().toISOString().slice(0, 7))).length, '条') +
-      stat('文献深读', deep.length, '篇') +
-      stat('英文原文', all.filter(x => /[a-zA-Z]{4,}/.test(x.title)).length, '篇') +
-      '</div>' +
-      '<div id="pgIntel"></div>' +
-      '<div id="pgDeep" style="margin-top:26px"></div>';
-    paintIntel(intel);
-    paintDeep(deep);
-  }
-
-  /* ---- 子区一：前沿情报（题录流，六领域筛选） ---- */
-  function paintIntel(intel) {
-    const box = document.getElementById('pgIntel');
-    if (!box) return;
-    const list = intel.filter(n => {
-      if (iFilter !== '全部' && domainOf(n) !== iFilter) return false;
+    const deep = iFilter === '文献深读';   // true = 文献深读视图；false = 情报题录视图
+    const list = (deep ? all.filter(n => !!n.lit) : all.filter(n => !n.lit)).filter(n => {
+      if (deep) {
+        // 文献题录（未获取全文）没有 7 主题归类，不参与具体主题筛选，只在「全部」下可见
+        if (dFilter !== '全部' && (n.lit === 'citation' || topic7Of(n.topic, 'insights') !== dFilter)) return false;
+      } else {
+        if (iFilter !== '全部' && domainOf(n) !== iFilter) return false;
+      }
       if (iQuery) {
         const q = iQuery.toLowerCase();
-        return (n.title + (n.zhTitle || '') + n.summary + (n.zhSummary || '') + n.core + n.origin).toLowerCase().includes(q);
+        return (n.title + (n.zhTitle || '') + n.summary + (n.zhSummary || '') + n.core + n.origin + (n.view || '') + (n.viewCMI || '') + (n.viewSensory || '') + (n.action || '')).toLowerCase().includes(q);
       }
       return true;
     }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
-    const domains = ['全部'].concat(DOMAINS);
+    // 筛选栏：六领域 + 「文献深读」同一栏（用户明确要求）
+    const chips = ['全部'].concat(DOMAINS).concat(['文献深读']);
+    const mo = new Date().toISOString().slice(0, 7);
+    const intelCount = all.filter(n => !n.lit).length;
+    const deepCount = all.length - intelCount;
+
     box.innerHTML =
+      '<div class="stats stagger">' +
+      stat('情报总量', intelCount, '条') +
+      stat('本月新增', all.filter(x => String(x.addedAt || x.date || '').startsWith(mo)).length, '条') +
+      stat('文献深读', deepCount, '篇') +
+      stat('覆盖领域', DOMAINS.length, '类') +
+      '</div>' +
+
       '<div class="sec-head">' +
-      '<div class="sec-title">前沿情报 · 六领域速递</div>' +
-      '<div class="sec-note">进门经四级阀门把关（时效 7 天 / 信息完整 / 领域相关 / 值得读）· 点标题看原文</div>' +
+      '<div class="sec-title">专业提升 · 六领域情报 + 文献深读</div>' +
+      '<div class="sec-note">' + (deep
+        ? '文献经 AI 精读全文 · 15 年市场用户研究 / 感官专家视角 · CMI / 感官双维度'
+        : '进门经四级阀门把关（时效 7 天 / 信息完整 / 领域相关 / 值得读）· 点标题看原文') + '</div>' +
       '<div class="spacer"></div>' +
       '<button class="btn primary" id="iAdd">' + ico('plus') + '添加</button>' +
       '</div>' +
 
       '<div style="display:flex;gap:10px;align-items:center;margin-bottom:14px;flex-wrap:wrap">' +
-      '<div class="chips">' + domains.map(c =>
+      '<div class="chips">' + chips.map(c =>
         '<button class="chip' + (c === iFilter ? ' on' : '') + '" data-tp="' + esc(c) + '">' + esc(c) + '</button>').join('') + '</div>' +
-      '<input class="inp" id="iQ" placeholder="搜索标题、机构或关键词…" style="max-width:230px;margin-left:auto" value="' + esc(iQuery) + '">' +
+      '<input class="inp" id="iQ" placeholder="搜索标题、来源或关键词…" style="max-width:230px;margin-left:auto" value="' + esc(iQuery) + '">' +
       '</div>' +
 
-      (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
-        '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:82px">领域</th><th style="min-width:280px">标题 / 来源</th>' +
-        '<th style="min-width:340px">要点摘要</th><th style="min-width:220px">解读</th><th style="width:66px"></th></tr></thead><tbody>' +
-        list.slice(0, iShow).map(n =>
-          '<tr>' +
-          '<td class="td-date">' + esc(n.date) + '</td>' +
-          '<td><span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n) || '—') + '</span></td>' +
-          '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
-          (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(showTitle(n)) + '</a>' : esc(showTitle(n))) + '</div>' +
-          '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
-          '<td>' + esc(showSummary(n)) + '</td>' +
-          // 框架 v4：情报条目不做 AI 解读（用户拍板）。存量已有解读的照旧显示，一字不动。
-          '<td>' + ((n.core || n.view || n.viewCMI || n.viewSensory)
-            ? (n.core ? '<div style="margin-bottom:4px">' + esc(n.core) + '</div>' : '') + dualView(n) + (n.action ? '<div style="margin-top:4px;color:var(--sage);font-size:12px">' + esc(n.action) + '</div>' : '')
-            : '<span style="color:var(--color-text-tertiary)">—</span>') + '</td>' +
-          '<td><div class="row-act">' +
-          '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
-          '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
-          '</div></td></tr>').join('') +
-        '</tbody></table></div></div>' + (list.length > iShow ? '<div style="text-align:center;margin:14px 0"><button class="btn" id="iMore">加载更多 · 已显示 ' + Math.min(iShow, list.length) + ' / ' + list.length + '</button></div>' : '')
-        : emptyBox('没有匹配的情报'));
+      // 文献深读视图：第二行 7 主题 chips（双标签方案：7 主题只筛文献）
+      (deep ? '<div style="display:flex;gap:10px;align-items:center;margin-bottom:14px;flex-wrap:wrap">' +
+      '<div class="chips">' + ['全部'].concat(TOPIC7).map(c =>
+        '<button class="chip' + (c === dFilter ? ' on' : '') + '" data-dp="' + esc(c) + '">' + esc(c) + '</button>').join('') + '</div>' +
+      '</div>' : '') +
 
-    box.querySelectorAll('[data-tp]').forEach(b => b.onclick = () => { iFilter = b.dataset.tp; iShow = 30; paintInsight(); });
+      (deep
+        ? (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
+          '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
+          '<th style="min-width:320px">核心内容</th><th style="min-width:330px">CMI / 感官视角</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
+          list.slice(0, iShow).map(n =>
+            '<tr>' +
+            '<td class="td-date">' + esc(n.date) + '</td>' +
+            (n.lit === 'citation'
+              ? '<td><span class="tag" style="opacity:.65">仅题录</span></td>'
+              : '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>') +
+            '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
+            (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
+            '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') +
+            (n.lit === 'citation' ? ' · <span style="color:var(--amber, #BA7517)">仅题录 · 未获取全文</span>' : '') + '</div></td>' +
+            (n.lit === 'citation'
+              ? '<td colspan="3" style="color:var(--color-text-secondary);font-size:12.5px;line-height:1.6">' +
+                '该文献未获取到全文，按你的要求只保留题录、不生成解读。点上方标题打开原文自行获取资源。' +
+                (n.litClasses && n.litClasses.length ? '<div style="margin-top:4px;color:var(--color-text-tertiary)">命中方向：' + esc(n.litClasses.join(' / ')) + '</div>' : '') +
+                '</td>'
+              : '<td>' + esc(n.core) + '</td>' +
+                '<td>' + dualView(n) + '</td>' +
+                '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>') +
+            '<td><div class="row-act">' +
+            '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
+            '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
+            '</div></td></tr>').join('') +
+          '</tbody></table></div></div>' : emptyBox('没有匹配的文献'))
+        : (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
+          '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:82px">领域</th><th style="min-width:280px">标题 / 来源</th>' +
+          '<th style="min-width:340px">要点摘要</th><th style="min-width:220px">解读</th><th style="width:66px"></th></tr></thead><tbody>' +
+          list.slice(0, iShow).map(n =>
+            '<tr>' +
+            '<td class="td-date">' + esc(n.date) + '</td>' +
+            '<td><span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n) || '—') + '</span></td>' +
+            '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
+            (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(showTitle(n)) + '</a>' : esc(showTitle(n))) + '</div>' +
+            '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
+            '<td>' + esc(showSummary(n)) + '</td>' +
+            '<td>' + ((n.core || n.view || n.viewCMI || n.viewSensory || n.action)
+              ? (n.core ? '<div style="margin-bottom:4px">' + esc(n.core) + '</div>' : '') + dualView(n) + (n.action ? '<div style="margin-top:4px;color:var(--sage);font-size:12px">' + esc(n.action) + '</div>' : '')
+              : '<span style="color:var(--color-text-tertiary)">—</span>') + '</td>' +
+            '<td><div class="row-act">' +
+            '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
+            '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
+            '</div></td></tr>').join('') +
+          '</tbody></table></div></div>' : emptyBox('没有匹配的情报'))) +
+
+      (list.length > iShow ? '<div style="text-align:center;margin:14px 0"><button class="btn" id="iMore">加载更多 · 已显示 ' + Math.min(iShow, list.length) + ' / ' + list.length + '</button></div>' : '');
+
+    box.querySelectorAll('[data-tp]').forEach(b => b.onclick = () => { iFilter = b.dataset.tp; dFilter = '全部'; iShow = 30; paintInsight(); });
+    box.querySelectorAll('[data-dp]').forEach(b => b.onclick = () => { dFilter = b.dataset.dp; iShow = 30; paintInsight(); });
     const q = document.getElementById('iQ');
     q.oninput = () => { iQuery = q.value; iShow = 30; const p = q.selectionStart; paintInsight(); const q2 = document.getElementById('iQ'); q2.focus(); q2.setSelectionRange(p, p); };
     const moreI = document.getElementById('iMore');
@@ -273,76 +304,7 @@ function tagColor(map, key) {
     document.getElementById('iAdd').onclick = () => insightForm(null);
     box.querySelectorAll('[data-ed]').forEach(b => b.onclick = () => insightForm(S.find('insights', b.dataset.ed)));
     box.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => {
-      U.confirmBox('删除情报', '确定删除这条情报吗？', () => { S.remove('insights', b.dataset.rm); paintInsight(); window.rerender(); });
-    });
-  }
-
-  /* ---- 子区二：文献深读（AI 精读解读，7 主题筛选；位于前沿情报之后，用户拍板） ---- */
-  function paintDeep(deep) {
-    const box = document.getElementById('pgDeep');
-    if (!box) return;
-    const list = deep.filter(n => {
-      // 文献题录（未获取全文）没有 7 主题归类，不参与具体主题筛选，只在「全部」下可见
-      if (dFilter !== '全部' && (n.lit === 'citation' || topic7Of(n.topic, 'insights') !== dFilter)) return false;
-      if (dQuery) {
-        const q = dQuery.toLowerCase();
-        return (n.title + n.core + n.origin + (n.view || '') + (n.viewCMI || '') + (n.viewSensory || '') + (n.action || '')).toLowerCase().includes(q);
-      }
-      return true;
-    }).sort((a, b) => String(b.date).localeCompare(String(a.date)));
-
-    const topics = ['全部'].concat(TOPIC7);
-    box.innerHTML =
-      '<div class="sec-head">' +
-      '<div class="sec-title">文献深读 · AI 精读解读</div>' +
-      '<div class="sec-note">本区内容经 AI 精读全文后，以 15 年市场用户研究 / 感官专家视角生成解读 · CMI / 感官双维度</div>' +
-      '<div class="spacer"></div>' +
-      '</div>' +
-
-      '<div style="display:flex;gap:10px;align-items:center;margin-bottom:14px;flex-wrap:wrap">' +
-      '<div class="chips">' + topics.map(c =>
-        '<button class="chip' + (c === dFilter ? ' on' : '') + '" data-dp="' + esc(c) + '">' + esc(c) + '</button>').join('') + '</div>' +
-      '<input class="inp" id="dQ" placeholder="搜索文献标题或关键词…" style="max-width:230px;margin-left:auto" value="' + esc(dQuery) + '">' +
-      '</div>' +
-
-      (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
-        '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
-        '<th style="min-width:320px">核心内容</th><th style="min-width:330px">CMI / 感官视角</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
-        list.slice(0, dShow).map(n =>
-          '<tr>' +
-          '<td class="td-date">' + esc(n.date) + '</td>' +
-          // 文献题录未做 7 主题归类（框架：分类须通读全文），显示中性标识，不套兜底主题以免出现假分类
-          (n.lit === 'citation'
-            ? '<td><span class="tag" style="opacity:.65">仅题录</span></td>'
-            : '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>') +
-          '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
-          (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
-          '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') +
-          (n.lit === 'citation' ? ' · <span style="color:var(--amber, #BA7517)">仅题录 · 未获取全文</span>' : '') + '</div></td>' +
-          (n.lit === 'citation'
-            // 题录：不写解读是设计如此。三栏合并成一句明确提示，绝不留空白、绝不放编造的解读。
-            ? '<td colspan="3" style="color:var(--color-text-secondary);font-size:12.5px;line-height:1.6">' +
-              '该文献未获取到全文，按你的要求只保留题录、不生成解读。点上方标题打开原文自行获取资源。' +
-              (n.litClasses && n.litClasses.length ? '<div style="margin-top:4px;color:var(--color-text-tertiary)">命中方向：' + esc(n.litClasses.join(' / ')) + '</div>' : '') +
-              '</td>'
-            : '<td>' + esc(n.core) + '</td>' +
-              '<td>' + dualView(n) + '</td>' +
-              '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>') +
-          '<td><div class="row-act">' +
-          '<button class="icon-btn" data-ded="' + n.id + '">' + ico('edit') + '</button>' +
-          '<button class="icon-btn del" data-drm="' + n.id + '">' + ico('trash') + '</button>' +
-          '</div></td></tr>').join('') +
-        '</tbody></table></div></div>' + (list.length > dShow ? '<div style="text-align:center;margin:14px 0"><button class="btn" id="dMore">加载更多 · 已显示 ' + Math.min(dShow, list.length) + ' / ' + list.length + '</button></div>' : '')
-        : emptyBox('没有匹配的文献'));
-
-    box.querySelectorAll('[data-dp]').forEach(b => b.onclick = () => { dFilter = b.dataset.dp; dShow = 30; paintInsight(); });
-    const q = document.getElementById('dQ');
-    q.oninput = () => { dQuery = q.value; dShow = 30; const p = q.selectionStart; paintInsight(); const q2 = document.getElementById('dQ'); q2.focus(); q2.setSelectionRange(p, p); };
-    const moreD = document.getElementById('dMore');
-    if (moreD) moreD.onclick = () => { dShow += 30; paintInsight(); };
-    box.querySelectorAll('[data-ded]').forEach(b => b.onclick = () => insightForm(S.find('insights', b.dataset.ded)));
-    box.querySelectorAll('[data-drm]').forEach(b => b.onclick = () => {
-      U.confirmBox('删除文献', '确定删除这条文献吗？', () => { S.remove('insights', b.dataset.drm); paintInsight(); window.rerender(); });
+      U.confirmBox('删除条目', '确定删除这条内容吗？', () => { S.remove('insights', b.dataset.rm); paintInsight(); window.rerender(); });
     });
   }
 

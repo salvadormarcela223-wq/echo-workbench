@@ -11,9 +11,6 @@
   "truncationRe": "(阅读全文|read\\s+more$|全文请见|continued\\s+after\\s+the\\s+jump|\\.\\.\\.\\s*$)",
   "paywallRe": "(subscribe\\s+to\\s+(continue|read)|sign\\s+in\\s+to\\s+read|log\\s+in\\s+to\\s+read|create\\s+a?\\s?(free\\s+)?account\\s+to\\s+(read|continue)|members?\\s+only|会员专享|订阅后可见|付费专享|登录后阅读)",
   "exclusionRe": "(food\\s+safety|foodborne|salmonella|e-?\\s?coli|listeria|campylobacter|norovirus|pathogen|contaminant|mycotoxin|pesticide\\s+residue|microbial\\s+(risk|contamination)|microbiome|metabolomic|volatile\\s+profile|GC-?MS|食品安全|食安|食源性|致病菌|病原菌|真菌毒素|农残|微生物污染|代谢组)",
-  "eventRe": "(register\\s*now|sign\\s*up\\s*(here|now)|webinar\\s*(?::|on|—)|conference\\s+agenda|save\\s+the\\s+date|visit\\s+us\\s+at\\s+booth|RSVP|开展[^。]{0,16}活动|举办[^。]{0,16}活动|活动报名)",
-  "prRe": "(is\\s+pleased\\s+to\\s+(announce|share)|we\\s+are\\s+pleased\\s+to\\s+(announce|share)|press\\s+release|announces\\s+(the\\s+)?(appointment|addition|partnership))",
-  "promoRe": "(promo\\s*code|discount\\s*code|coupon|\\bdeal\\b|\\bsale\\b|\\d{1,2}\\s*%\\s*(off|discount)|折扣|促销|优惠|限时特价|省钱挑战)",
   "domainLexicon": {
     "感官科学": ["sensory", "flavor", "flavour", "aroma", "taste", "texture", "mouthfeel", "descriptive analysis", "CATA", "tasting panel", "palatability", "odor", "olfact", "sensory panel", "感官", "风味", "香气", "味觉", "嗅觉", "质构", "口感", "描述性分析"],
     "品牌营销": ["brand", "marketing", "advertis", "campaign", "sponsorship", "promotion", "pricing", "brand building", "品牌", "营销", "广告", "定价", "推广"],
