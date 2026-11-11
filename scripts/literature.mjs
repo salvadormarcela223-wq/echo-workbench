@@ -8,10 +8,13 @@
    ① 源头收窄：sources.json 里 PubMed query 改三类精确短语 + NOT 排除（抓取前，零 token）
    ② 进门判三类：sensory / consumer / marketing —— AI 轻量归类，只看标题+摘要，不写解读【花少量 token】
       · 非三类 → 当场舍弃；三类 → 全部入选平台（不再问全文）
-   ③ 抓正文：程序动作，零 token
+   ③ 抓正文：程序动作，零 token；被反爬拦截（403/WAF/空壳）自动降级走浏览器渲染通道（用户 2026-11-11 已批）
    ④ 核对「是不是整篇全文」：五条硬特征，零 token
-      1 末尾参考文献  2 完整章节  3 长度与收尾  4 页面类型(全文/PDF vs 摘要/落地页)  5 FullText/PDF 入口与订阅墙
+      1 末尾参考文献（补判据：页面存在 REFERENCES 节标题也算，针对懒加载页面；用户 2026-11-11 已批）
+      2 完整章节  3 长度与收尾  4 页面类型(全文/PDF vs 摘要/落地页)
+      5 FullText/PDF 入口与订阅墙（只认真正拦内容的词，不认站点导航通用登录字样；2026-11-11 修正误报）
       · 五条全齐 → 全文；缺一或拿不准 → 按「不是全文」办
+      · 未获全文时自动试 OpenAlex 免费全文替代地址再抓一次（用户 2026-11-11 已批）
    ⑤A 全文 → AI 通读全文精读【花 token】（15 年专家视角、引用证据、禁编造、CMI/感官双维、归 7 主题）
    ⑤B 非全文 → 只留题录（标题/来源/可点链接/真实日期/「未获取全文」标记），不送 AI、不写解读【零 token】
    ⑥ 发布前查证据链（validate-feed 里给题录放行，不查空解读字段）
@@ -19,6 +22,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
 import { isTopic7 } from './topic7.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -80,23 +84,87 @@ export async function fetchFullArticle(link) {
     out.status = r.status;
     const html = await r.text();
     out.html = html.slice(0, 150000);
-    const finalUrl = r.url || link;
-    // 正文：取所有 <p>，剥标签，拼起来（不截断）
-    const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
-    const parts = [];
-    for (const p of ps) {
-      const t = p.replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-      if (t.length >= 30) parts.push(t);
-    }
-    out.text = parts.join(' ').trim();
-    // 页面类型（框架环节 3.2 / 4.4）：只记录「这次抓取实际落在什么页面」这个抓取当场即知的客观事实。
-    //   不用原始链接字面猜（doi.org 会 302 跳到期刊正文页），也不掺入正文长度 / 参考文献
-    //   （那是硬特征第 1、3 条的事）。「是不是整篇全文」由环节 4 的五条硬特征判定，此处不判。
-    const intercepted = out.status !== 200 || /cookies-required|just a moment|enable javascript|access denied|cf-challenge|verify you are human/i.test(out.html);
-    const abstractPage = /pubmed\.ncbi\.nlm\.nih\.gov|\/abstract\b|cookies-required/i.test(finalUrl);
-    out.linkType = (intercepted || abstractPage) ? 'abstract' : 'fulltext';
+    extractInto(out, html, r.url || link);
   } catch (e) { out.error = String(e.message || e).slice(0, 80); }
+  // 用户已批（2026-11-11）：普通抓取被拦（403/WAF 特征/空壳/网络失败）→ 改走浏览器渲染通道重抓一次。
+  // 实测案例：Wiley hybrid OA 文章（doi.org/10.1111/joss.70202）普通抓取 403，浏览器渲染可拿到整篇全文。
+  const blocked = out.status !== 200 || !!out.error || out.text.length < 200 ||
+    /cookies-required|just a moment|enable javascript|access denied|cf-challenge|verify you are human/i.test(out.html);
+  if (blocked) {
+    const b = await fetchBrowserFullText(link);
+    if (b && b.text.length > out.text.length) return b;
+  }
   return out;
+}
+
+// 从 HTML 抽正文（所有 <p> 剥标签拼接，不截断）并按「实际落地页」记页面类型——普通/浏览器两通道共用
+function extractInto(out, html, finalUrl) {
+  const ps = html.match(/<p[\s\S]*?<\/p>/gi) || [];
+  const parts = [];
+  for (const p of ps) {
+    const t = p.replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+    if (t.length >= 30) parts.push(t);
+  }
+  out.text = parts.join(' ').trim();
+  // 页面类型（框架环节 3.2 / 4.4）：只记录「这次抓取实际落在什么页面」这个抓取当场即知的客观事实。
+  //   不用原始链接字面猜（doi.org 会 302 跳到期刊正文页），也不掺入正文长度 / 参考文献
+  //   （那是硬特征第 1、3 条的事）。「是不是整篇全文」由环节 4 的五条硬特征判定，此处不判。
+  const intercepted = out.status !== 200 || /cookies-required|just a moment|enable javascript|access denied|cf-challenge|verify you are human/i.test(html);
+  const abstractPage = /pubmed\.ncbi\.nlm\.nih\.gov|\/abstract\b|cookies-required/i.test(String(finalUrl));
+  out.linkType = (intercepted || abstractPage) ? 'abstract' : 'fulltext';
+}
+
+// 浏览器渲染抓取（与 fetch-news / fetch-insights 同款通道，针对 WAF/反爬站）
+function loadPuppeteerLit() {
+  const bases = [
+    'C:/Users/VOOPOO/.workbuddy/binaries/node/workspace/', // 本机已装 Chrome 缓存的 Node 工作区
+    path.join(ROOT, 'node_modules'),                       // CI/云端 `npm i puppeteer` 后的位置
+    ROOT,
+  ];
+  const tried = [];
+  for (const b of bases) {
+    try { return createRequire(path.resolve(b, '__probe__.js'))('puppeteer'); }
+    catch (e) { tried.push(`${b} (${e.code || e.message})`); }
+  }
+  try { return createRequire(import.meta.url)('puppeteer'); }
+  catch (e) { tried.push(`self (${e.code || e.message})`); }
+  throw new Error('puppeteer 不可用，已尝试: ' + tried.join(' | '));
+}
+
+async function fetchBrowserFullText(link) {
+  let browser;
+  try {
+    const puppeteer = loadPuppeteerLit();
+    browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+    const page = await browser.newPage();
+    await page.setUserAgent(UA);
+    const r = await page.goto(link, { waitUntil: 'networkidle2', timeout: 60000 });
+    await new Promise((res) => setTimeout(res, 6000));
+    const html = await page.content();
+    const out = { text: '', html: '', status: r ? r.status() : 0, linkType: 'unknown' };
+    // 存储前剥掉 script/style：新派页面 1MB+ 多为脚本，不剥会在 150k 截断处把正文标记截掉
+    out.html = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '').slice(0, 400000);
+    extractInto(out, html, page.url() || link);
+    return out;
+  } catch (e) { return null; }
+  finally { if (browser) { try { await browser.close(); } catch (_) { /* 关闭失败忽略 */ } } }
+}
+
+// OpenAlex 免费全文替代地址（用户已批 2026-11-11）：DOI 可解析时查 open_access.oa_url / best_oa_location，
+// 与原链接不同才返回替代抓取结果；查不到/失败/相同 → null（维持原结果）。零 token。
+async function fetchOaAlternative(it, fetchArt) {
+  try {
+    const m = String(it.link || '').match(/doi\.org\/(10\.\S+)$/i);
+    if (!m) return null;
+    const doi = m[1].replace(/[).,;'"]+$/, '');
+    const r = await fetch('https://api.openalex.org/works/doi:' + doi, { signal: AbortSignal.timeout(15000) });
+    if (!r.ok) return null;
+    const j = await r.json();
+    const oa = j.open_access || {};
+    const altUrl = oa.oa_url || (j.best_oa_location || {}).landing_page_url || '';
+    if (!oa.is_oa || !altUrl || altUrl.replace(/\/$/, '') === String(it.link).replace(/\/$/, '')) return null;
+    return await fetchArt(altUrl);
+  } catch (e) { return null; }
 }
 
 // 五条硬特征判定（纯函数）。全部满足才是「整篇全文」；缺一或拿不准 → 不是全文。
@@ -105,8 +173,12 @@ export function checkFullText({ text = '', html = '', linkType = 'unknown', stat
   const h = String(html || '');
   const low = t.toLowerCase();
 
-  // 1) 末尾是否有参考文献列表
-  const hasRefs = /references|bibliography|参考文献|cited (literature|references)|literature cited/i.test(low.slice(-6000));
+  // 1) 末尾是否有参考文献列表。
+  //    用户已批（2026-11-11）补充判据：新派出版社（Wiley 等）参考文献列表懒加载、末尾正文检不出，
+  //    但页面里存在「REFERENCES」节标题（h2/h3 / section-title）也承认有参考文献——实测该文章正文 4-5.5 万字、标题在页面中确实存在。
+  const hasRefs = /references|bibliography|参考文献|cited (literature|references)|literature cited/i.test(low.slice(-6000))
+    || /<h[23][^>]*>[^<]{0,40}references/i.test(h)
+    || /section-title[^>]*>\s*<span>\s*references/i.test(h);
 
   // 2) 是否有完整章节结构（引言/方法/结果/讨论，至少 3 个独立章节标记）
   const secHits = ['introduction', 'materials and methods', 'methods', 'results', 'discussion', 'conclusion', '引言', '方法', '结果', '讨论', '结论']
@@ -121,9 +193,12 @@ export function checkFullText({ text = '', html = '', linkType = 'unknown', stat
   // 4) 页面类型：抓的是全文/PDF 页面（不是摘要页/落地页）
   const isFullPage = linkType === 'fulltext';
 
-  // 5) 页面标记：有 Full Text/PDF 入口，且正文没被订阅墙挡住
+  // 5) 页面标记：有 Full Text/PDF 入口，且正文没被订阅墙挡住。
+  //    2026-11-11 修正：删掉「institutional access/login / sign in to access/view」——这些是站点导航通用字样，
+  //    开放获取文章页面上同样存在，会把免费全文误判成被墙（实测案例：Wiley hybrid OA 文章 4/5 卡在这条）。
+  //    只保留真正拦内容的词：购买/订阅正文、登录后阅读。
   const hasFullEntry = /full text|download pdf|view pdf|get pdf|read full|阅读全文|下载全文|pdf\b/i.test(h);
-  const paywalled = /subscribe to (read|access)|purchase (this|the) article|institutional (access|login)|sign in to (read|access|view)|buy this article|订阅后阅读|登录后查看|购买全文/i.test(h);
+  const paywalled = /subscribe to (read|access)|purchase (this|the) article|sign in to read|buy this article|订阅后阅读|登录后查看|购买全文/i.test(h);
   const hasEntry = hasFullEntry && !paywalled;
 
   const checks = { refs: hasRefs, sections: hasSections, length: hasLength, pageType: isFullPage, entry: hasEntry };
@@ -230,8 +305,18 @@ export async function processLiterature(feed, opts = {}) {
     stat.admitted++;
 
     // 环节 ③④：抓正文 + 五条硬特征
-    const art = await fetchArt(it.link);
-    const ft = checkFullText({ text: art.text, html: art.html, linkType: art.linkType, status: art.status });
+    let art = await fetchArt(it.link);
+    let ft = checkFullText({ text: art.text, html: art.html, linkType: art.linkType, status: art.status });
+
+    // 用户已批（2026-11-11）：没拿到全文时，试 OpenAlex 给的免费全文替代地址（OA 副本/仓库版）再抓一次。
+    // 仅当 DOI 可解析、且替代地址与原链接不同时才走；仍判不出全文就维持原结果，绝不放水。
+    if (!ft.isFull) {
+      const alt = await fetchOaAlternative(it, fetchArt);
+      if (alt) {
+        const ft2 = checkFullText({ text: alt.text, html: alt.html, linkType: alt.linkType, status: alt.status });
+        if (ft2.isFull && ft2.passed > ft.passed) { art = alt; ft = ft2; }
+      }
+    }
 
     if (ft.isFull && art.text) {
       // 环节 ⑤A：全文 → AI 通读精读
