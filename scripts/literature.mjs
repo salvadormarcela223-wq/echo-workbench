@@ -77,7 +77,20 @@ export function parseClassify(obj, it) {
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 
 // 抓正文：不截断（deriveBody 有 2000 字上限，这里不用它）。零 token。
+// 用户已批（2026-11-11）：整个抓取失败重试 3 次（与三类判定同款待遇）——实测浏览器渲染通道存在瞬时故障
+// （同链接 4 次测试失败 1 次，重跑即好），失败的文章次日抓取源列表仍在，会自然重判。
 export async function fetchFullArticle(link) {
+  let last = { text: '', html: '', status: 0, linkType: 'unknown' };
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    last = await fetchFullArticleOnce(link);
+    // 拿到可用正文就收工；没拿到隔 2 秒再试
+    if (last.text.length >= 200) return last;
+    if (attempt < 3) await new Promise((r) => setTimeout(r, 2000));
+  }
+  return last;
+}
+
+async function fetchFullArticleOnce(link) {
   const out = { text: '', html: '', status: 0, linkType: 'unknown' };
   try {
     const r = await fetch(link, { redirect: 'follow', headers: { 'User-Agent': UA, 'Accept-Language': 'en-US,en;q=0.9' }, signal: AbortSignal.timeout(20000) });
