@@ -303,6 +303,18 @@ table.tbl tbody tr:hover .row-act { opacity: 1; }
   color: var(--ink-2); font-size: 12.5px; line-height: 1.72;
 }
 
+/* 长文本 3 行折叠 + 展开（用户 2026-11-12：排版须美观易读，不做大量拖动） */
+.clamp3 {
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3;
+  overflow: hidden; word-break: break-word;
+}
+.clamp3.open { display: block; -webkit-line-clamp: unset; }
+.clamp-x {
+  font-size: 11px; color: var(--accent); cursor: pointer; user-select: none;
+  display: inline-block; margin-top: 3px; opacity: .85;
+}
+.clamp-x:hover { opacity: 1; text-decoration: underline; }
+
 /* ================= 待办 ================= */
 .todo {
   display: flex; align-items: flex-start; gap: 12px;

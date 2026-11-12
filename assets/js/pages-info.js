@@ -58,6 +58,23 @@ function tagColor(map, key) {
 
   const heatBar = n => '<span class="heat">' + [1, 2, 3, 4, 5].map(i => '<i class="' + (i <= (n || 3) ? 'on' : '') + '"></i>').join('') + '</span>';
 
+  // 长文本 3 行折叠 + 「展开」（用户 2026-11-12：排版须美观易读，不做大量左右/上下拖动）
+  function clampHtml(txt) {
+    // 显示层兜底：摘要在抓取时可能混入 HTML 标签/图片地址（含截断在标签中间的 <img... 无闭合 >），纯文本化后再展示
+    const t = String(txt || '')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/<[^>]*$/, ' ')
+      .replace(/\s+/g, ' ').trim();
+    if (!t) return '<span style="color:var(--color-text-tertiary)">—</span>';
+    return '<div class="clamp3" data-clamp>' + esc(t) + '</div>' + (t.length > 64 ? '<span class="clamp-x" data-x>展开</span>' : '');
+  }
+  function bindClamp(box) {
+    box.querySelectorAll('[data-x]').forEach(el => el.onclick = () => {
+      const open = el.previousElementSibling.classList.toggle('open');
+      el.textContent = open ? '收起' : '展开';
+    });
+  }
+
   /* ================= 板块一 · 行业资讯（情报题录流，框架 v4） ================= */
   let nFilter = '全部', nQuery = '', nShow = 30; // nShow：分页——每次多加载 30 条（全部留存后的性能兜底）
 
@@ -107,16 +124,15 @@ function tagColor(map, key) {
       '<input class="inp" id="nQ" placeholder="搜索标题、来源或关键词…" style="max-width:230px;margin-left:auto" value="' + esc(nQuery) + '">' +
       '</div>' +
 
-      (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
-        '<thead><tr><th style="min-width:82px">日期</th><th style="min-width:280px">资讯标题</th><th style="min-width:82px">领域</th>' +
-        '<th style="min-width:300px">要点摘要</th><th style="min-width:300px">解读</th><th style="min-width:56px">热度</th><th style="width:66px"></th></tr></thead><tbody>' +
+      (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl" style="table-layout:fixed">' +
+        '<thead><tr><th style="width:8%">日期</th><th style="width:33%">资讯标题</th>' +
+        '<th style="width:30%">要点摘要</th><th style="width:20%">解读</th><th style="width:4%">热度</th><th style="width:56px"></th></tr></thead><tbody>' +
         list.slice(0, nShow).map(n =>
           '<tr>' +
           '<td class="td-date">' + esc(n.date) + '</td>' +
           '<td><div class="td-title">' + (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(showTitle(n)) + '</a>' : esc(showTitle(n))) + '</div>' +
-          '<div class="td-sub">' + esc(n.source) + '</div></td>' +
-          '<td><span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n) || '—') + '</span></td>' +
-          '<td>' + esc(showSummary(n)) + '</td>' +
+          '<div class="td-sub">' + esc(n.source) + (domainOf(n) ? ' · <span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n)) + '</span>' : '') + '</div></td>' +
+          '<td>' + clampHtml(showSummary(n)) + '</td>' +
           // 框架 v4：情报条目不做 AI 解读（用户拍板）。存量已有解读的照旧显示，一字不动。
           '<td>' + (n.impact ? '<div class="quote">' + esc(n.impact) + '</div>' : '<span style="color:var(--color-text-tertiary)">—</span>') + '</td>' +
           '<td>' + heatBar(n.heat) + '</td>' +
@@ -133,6 +149,7 @@ function tagColor(map, key) {
     const moreN = document.getElementById('nMore');
     if (moreN) moreN.onclick = () => { nShow += 30; paintNews(); };
     document.getElementById('nAdd').onclick = () => newsForm(null);
+    bindClamp(box);
     box.querySelectorAll('[data-ed]').forEach(b => b.onclick = () => newsForm(S.find('news', b.dataset.ed)));
     box.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => {
       U.confirmBox('删除资讯', '确定删除这条情报吗？', () => { S.remove('news', b.dataset.rm); paintNews(); window.rerender(); });
@@ -185,7 +202,7 @@ function tagColor(map, key) {
     const block = (label, color, txt) =>
       '<div style="border-left:3px solid ' + color + ';padding:4px 0 4px 10px;margin:5px 0">' +
       '<div style="font-size:11px;font-weight:500;color:' + color + ';margin-bottom:3px">' + label + '</div>' +
-      '<div style="font-size:12.5px;line-height:1.55;color:var(--color-text-primary)">' + esc(txt) + '</div></div>';
+      '<div style="font-size:12.5px;line-height:1.55;color:var(--color-text-primary)">' + clampHtml(txt) + '</div></div>';
     let h = '';
     if (c) h += block('CMI 视角', '#185FA5', c);
     if (s) h += block('感官视角', '#3B6D11', s);
@@ -247,43 +264,40 @@ function tagColor(map, key) {
       '</div>' : '') +
 
       (deep
-        ? (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
-          '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:100px">主题</th><th style="min-width:250px">原文标题 / 来源</th>' +
-          '<th style="min-width:320px">核心内容</th><th style="min-width:330px">CMI / 感官视角</th><th style="min-width:220px">长期启发</th><th style="width:66px"></th></tr></thead><tbody>' +
+        ? (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl" style="table-layout:fixed">' +
+          '<thead><tr><th style="width:7%">时间</th><th style="width:27%">原文标题 / 来源</th>' +
+          '<th style="width:23%">核心内容</th><th style="width:26%">CMI / 感官视角</th><th style="width:11%">长期启发</th><th style="width:56px"></th></tr></thead><tbody>' +
           list.slice(0, iShow).map(n =>
             '<tr>' +
             '<td class="td-date">' + esc(n.date) + '</td>' +
-            (n.lit === 'citation'
-              ? '<td><span class="tag" style="opacity:.65">仅题录</span></td>'
-              : '<td><span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span></td>') +
             '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
             (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a>' : esc(n.title)) + '</div>' +
             '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') +
-            (n.lit === 'citation' ? ' · <span style="color:var(--amber, #BA7517)">仅题录 · 未获取全文</span>' : '') + '</div></td>' +
+            (n.lit === 'citation'
+              ? ' · <span style="color:var(--amber, #BA7517)">仅题录 · 未获取全文</span>' + (n.litClasses && n.litClasses.length ? ' · 命中方向：' + esc(n.litClasses.join(' / ')) : '')
+              : (topic7Of(n.topic, 'insights') ? ' · <span class="tag ' + tagColor(T_COLOR, topic7Of(n.topic, 'insights')) + '">' + esc(topic7Of(n.topic, 'insights')) + '</span>' : '')) + '</div></td>' +
             (n.lit === 'citation'
               ? '<td colspan="3" style="color:var(--color-text-secondary);font-size:12.5px;line-height:1.6">' +
                 '该文献未获取到全文，按你的要求只保留题录、不生成解读。点上方标题打开原文自行获取资源。' +
-                (n.litClasses && n.litClasses.length ? '<div style="margin-top:4px;color:var(--color-text-tertiary)">命中方向：' + esc(n.litClasses.join(' / ')) + '</div>' : '') +
                 '</td>'
-              : '<td>' + esc(n.core) + '</td>' +
+              : '<td>' + clampHtml(n.core) + '</td>' +
                 '<td>' + dualView(n) + '</td>' +
-                '<td style="color:var(--sage);font-weight:500">' + esc(n.action || '—') + '</td>') +
+                '<td style="color:var(--sage);font-weight:500">' + clampHtml(n.action || '—') + '</td>') +
             '<td><div class="row-act">' +
             '<button class="icon-btn" data-ed="' + n.id + '">' + ico('edit') + '</button>' +
             '<button class="icon-btn del" data-rm="' + n.id + '">' + ico('trash') + '</button>' +
             '</div></td></tr>').join('') +
           '</tbody></table></div></div>' : emptyBox('没有匹配的文献'))
-        : (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl">' +
-          '<thead><tr><th style="min-width:76px">时间</th><th style="min-width:82px">领域</th><th style="min-width:280px">标题 / 来源</th>' +
-          '<th style="min-width:340px">要点摘要</th><th style="min-width:300px">解读</th><th style="width:66px"></th></tr></thead><tbody>' +
+        : (list.length ? '<div class="tbl-wrap"><div class="tbl-scroll"><table class="tbl" style="table-layout:fixed">' +
+          '<thead><tr><th style="width:7%">时间</th><th style="width:30%">标题 / 来源</th>' +
+          '<th style="width:33%">要点摘要</th><th style="width:24%">解读</th><th style="width:56px"></th></tr></thead><tbody>' +
           list.slice(0, iShow).map(n =>
             '<tr>' +
             '<td class="td-date">' + esc(n.date) + '</td>' +
-            '<td><span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n) || '—') + '</span></td>' +
             '<td><div class="td-title" style="font-family:var(--font-serif);font-size:13.4px">' +
             (n.link ? '<a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(showTitle(n)) + '</a>' : esc(showTitle(n))) + '</div>' +
-            '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + '</div></td>' +
-            '<td>' + esc(showSummary(n)) + '</td>' +
+            '<div class="td-sub">' + esc(n.origin) + (n.region ? ' · ' + esc(n.region) : '') + (domainOf(n) ? ' · <span class="tag ' + tagColor(D_COLOR, domainOf(n)) + '">' + esc(domainOf(n)) + '</span>' : '') + '</div></td>' +
+            '<td>' + clampHtml(showSummary(n)) + '</td>' +
             '<td>' + ((n.core || n.view || n.viewCMI || n.viewSensory || n.action)
               ? (n.core ? '<div style="margin-bottom:4px">' + esc(n.core) + '</div>' : '') + dualView(n) + (n.action ? '<div style="margin-top:4px;color:var(--sage);font-size:12px">' + esc(n.action) + '</div>' : '')
               : '<span style="color:var(--color-text-tertiary)">—</span>') + '</td>' +
@@ -302,6 +316,7 @@ function tagColor(map, key) {
     const moreI = document.getElementById('iMore');
     if (moreI) moreI.onclick = () => { iShow += 30; paintInsight(); };
     document.getElementById('iAdd').onclick = () => insightForm(null);
+    bindClamp(box);
     box.querySelectorAll('[data-ed]').forEach(b => b.onclick = () => insightForm(S.find('insights', b.dataset.ed)));
     box.querySelectorAll('[data-rm]').forEach(b => b.onclick = () => {
       U.confirmBox('删除条目', '确定删除这条内容吗？', () => { S.remove('insights', b.dataset.rm); paintInsight(); window.rerender(); });
