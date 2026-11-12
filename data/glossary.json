@@ -68453,5 +68453,360 @@
     "p": "/prɪˈskrɪpʃnz/",
     "t": "处方（复数）；规定",
     "en": "plural of prescription; written orders for medicine"
+  },
+  "peculiar": {
+    "p": "/pɪˈkjuːliə/",
+    "t": "奇怪的；独特的",
+    "en": "strange or unusual; belonging exclusively to"
+  },
+  "moons": {
+    "p": "/muːnz/",
+    "t": "卫星；月亮（复数）",
+    "en": "natural satellites of planets; plural of moon"
+  },
+  "starhopping": {
+    "p": "/ˈstɑːhɒpɪŋ/",
+    "t": "星际跳跃式旅行",
+    "en": "travelling from star to star in stages"
+  },
+  "extraterrestrials": {
+    "p": "/ˌekstrətəˈrestriəlz/",
+    "t": "外星人",
+    "en": "beings from outside Earth"
+  },
+  "astrobiologist": {
+    "p": "/ˌæstrəʊbaɪˈɒlədʒɪst/",
+    "t": "天体生物学家",
+    "en": "scientist who studies life in the universe"
+  },
+  "phosphine": {
+    "p": "/ˈfɒsfiːn/",
+    "t": "磷化氢",
+    "en": "a colourless, toxic gas (PH3)"
+  },
+  "eruptions": {
+    "p": "/ɪˈrʌpʃənz/",
+    "t": "喷发（复数）",
+    "en": "outbursts, especially of volcanoes"
+  },
+  "burping": {
+    "p": "/ˈbɜːpɪŋ/",
+    "t": "打嗝；喷出",
+    "en": "belching; releasing gas noisily"
+  },
+  "shoeboxsized": {
+    "p": "/ˈʃuːbɒksˌsaɪzd/",
+    "t": "鞋盒大小的",
+    "en": "about the size of a shoebox"
+  },
+  "hitch": {
+    "p": "/hɪtʃ/",
+    "t": "搭便车；钩住",
+    "en": "to obtain a free ride; to fasten or attach"
+  },
+  "detach": {
+    "p": "/dɪˈtætʃ/",
+    "t": "分离；拆卸",
+    "en": "to disconnect or separate"
+  },
+  "looping": {
+    "p": "/ˈluːpɪŋ/",
+    "t": "环形的；成环运动",
+    "en": "moving in or forming loops"
+  },
+  "elliptical": {
+    "p": "/ɪˈlɪptɪkl/",
+    "t": "椭圆的",
+    "en": "shaped like an ellipse; oval"
+  },
+  "shakinghandswithlittlegreenmentype": {
+    "p": "/ˈʃeɪkɪŋ ˈhændz wɪð ˈlɪtl ɡriːn men taɪp/",
+    "t": "与“小绿人”握手类型的",
+    "en": "of the kind involving meeting little green men"
+  },
+  "receiver": {
+    "p": "/rɪˈsiːvə/",
+    "t": "接收器；听筒",
+    "en": "a device that receives signals"
+  },
+  "tuned": {
+    "p": "/tjuːnd/",
+    "t": "调谐的；调准的",
+    "en": "adjusted to a particular frequency"
+  },
+  "fluorescence": {
+    "p": "/flʊəˈresns/",
+    "t": "荧光",
+    "en": "emission of light by a substance"
+  },
+  "frontrunners": {
+    "p": "/ˌfrʌntˈrʌnəz/",
+    "t": "领跑者；领先者",
+    "en": "leading contenders"
+  },
+  "dwarf": {
+    "p": "/dwɔːf/",
+    "t": "矮星；矮小的",
+    "en": "a small star; unusually small"
+  },
+  "greyish": {
+    "p": "/ˈɡreɪɪʃ/",
+    "t": "略带灰色的",
+    "en": "somewhat grey"
+  },
+  "lifeless": {
+    "p": "/ˈlaɪfləs/",
+    "t": "无生命的",
+    "en": "without life; dead"
+  },
+  "orbited": {
+    "p": "/ˈɔːbɪtɪd/",
+    "t": "绕轨道运行",
+    "en": "moved around in an orbit"
+  },
+  "brinelike": {
+    "p": "/ˈbraɪnlaɪk/",
+    "t": "像盐水的",
+    "en": "resembling brine"
+  },
+  "remnants": {
+    "p": "/ˈremnənts/",
+    "t": "残余物；遗迹",
+    "en": "remaining parts; traces"
+  },
+  "phosphorous": {
+    "p": "/ˈfɒsfərəs/",
+    "t": "含磷的；磷的",
+    "en": "relating to or containing phosphorus"
+  },
+  "longlived": {
+    "p": "/ˌlɒŋˈlɪvd/",
+    "t": "长寿的；持久的",
+    "en": "living or lasting a long time"
+  },
+  "radioactive": {
+    "p": "/ˌreɪdiəʊˈæktɪv/",
+    "t": "放射性的",
+    "en": "emitting radiation"
+  },
+  "potassium": {
+    "p": "/pəˈtæsiəm/",
+    "t": "钾",
+    "en": "a soft silvery metallic element (K)"
+  },
+  "chemically": {
+    "p": "/ˈkemɪkli/",
+    "t": "化学上；在化学方面",
+    "en": "in terms of chemistry"
+  },
+  "scoop": {
+    "p": "/skuːp/",
+    "t": "舀；独家新闻",
+    "en": "to pick up with a scoop; an exclusive story"
+  },
+  "vogue": {
+    "p": "/vəʊɡ/",
+    "t": "时尚；流行",
+    "en": "fashion; popular trend"
+  },
+  "lander": {
+    "p": "/ˈlændə/",
+    "t": "着陆器",
+    "en": "a spacecraft that lands on a surface"
+  },
+  "burrow": {
+    "p": "/ˈbʌrəʊ/",
+    "t": "挖洞；地洞",
+    "en": "to dig a hole; a hole dug for shelter"
+  },
+  "reanalysing": {
+    "p": "/ˌriːˈænəlaɪzɪŋ/",
+    "t": "重新分析",
+    "en": "analysing again"
+  },
+  "planetary": {
+    "p": "/ˈplænətri/",
+    "t": "行星的",
+    "en": "relating to planets"
+  },
+  "exoplanets": {
+    "p": "/ˈeksəʊˌplænɪts/",
+    "t": "系外行星",
+    "en": "planets outside our solar system"
+  },
+  "leftfield": {
+    "p": "/ˈleftfiːld/",
+    "t": "出人意料的；非传统的",
+    "en": "unconventional; unexpected"
+  },
+  "planethopping": {
+    "p": "/ˈplænɪtˌhɒpɪŋ/",
+    "t": "行星跳跃式旅行",
+    "en": "travelling from planet to planet"
+  },
+  "civilisations": {
+    "p": "/ˌsɪvəlaɪˈzeɪʃnz/",
+    "t": "文明（复数）",
+    "en": "advanced societies; plural of civilisation"
+  },
+  "depleted": {
+    "p": "/dɪˈpliːtɪd/",
+    "t": "耗尽的；枯竭的",
+    "en": "used up; reduced in quantity"
+  },
+  "terraform": {
+    "p": "/ˈterəfɔːm/",
+    "t": "地球化改造",
+    "en": "to modify a planet to be habitable"
+  },
+  "vicinity": {
+    "p": "/vəˈsɪnəti/",
+    "t": "附近；邻近",
+    "en": "the surrounding area; nearness"
+  },
+  "compositions": {
+    "p": "/ˌkɒmpəˈzɪʃnz/",
+    "t": "组成；成分",
+    "en": "the makeup or constituents of something"
+  },
+  "pulsars": {
+    "p": "/ˈpʌlsɑːz/",
+    "t": "脉冲星（复数）",
+    "en": "rapidly rotating neutron stars emitting pulses"
+  },
+  "citysized": {
+    "p": "/ˈsɪtiˌsaɪzd/",
+    "t": "城市大小的",
+    "en": "about the size of a city"
+  },
+  "pulsar": {
+    "p": "/ˈpʌlsɑː/",
+    "t": "脉冲星",
+    "en": "a rapidly rotating neutron star emitting radiation pulses"
+  },
+  "thrust": {
+    "p": "/θrʌst/",
+    "t": "推力；猛推",
+    "en": "a propulsive force; to push forcefully"
+  },
+  "sphere": {
+    "p": "/sfɪə/",
+    "t": "球体；领域",
+    "en": "a round three-dimensional object"
+  },
+  "stellar": {
+    "p": "/ˈstelə/",
+    "t": "恒星的；极好的",
+    "en": "relating to stars; outstanding"
+  },
+  "steering": {
+    "p": "/ˈstɪərɪŋ/",
+    "t": "操纵；转向",
+    "en": "controlling the direction of movement"
+  },
+  "hunts": {
+    "p": "/hʌnts/",
+    "t": "搜寻；打猎",
+    "en": "searches; pursues for food or discovery"
+  },
+  "beacons": {
+    "p": "/ˈbiːkənz/",
+    "t": "信标；灯塔",
+    "en": "signals or lights used as guides"
+  },
+  "cosmic": {
+    "p": "/ˈkɒzmɪk/",
+    "t": "宇宙的",
+    "en": "relating to the universe"
+  },
+  "weirder": {
+    "p": "/ˈwɪədə/",
+    "t": "更奇怪的",
+    "en": "stranger; more bizarre"
+  },
+  "comets": {
+    "p": "/ˈkɒmɪts/",
+    "t": "彗星（复数）",
+    "en": "icy celestial bodies with tails"
+  },
+  "spaceship": {
+    "p": "/ˈspeɪsʃɪp/",
+    "t": "宇宙飞船",
+    "en": "a spacecraft"
+  },
+  "biologyrich": {
+    "p": "/baɪˈɒlədʒi rɪtʃ/",
+    "t": "生物资源丰富的",
+    "en": "abundant in biological potential"
+  },
+  "plumes": {
+    "p": "/pluːmz/",
+    "t": "羽状物；喷流",
+    "en": "columns of gas, smoke or water"
+  },
+  "spouting": {
+    "p": "/ˈspaʊtɪŋ/",
+    "t": "喷出；喷射",
+    "en": "gushing or shooting out"
+  },
+  "spinning": {
+    "p": "/ˈspɪnɪŋ/",
+    "t": "旋转",
+    "en": "rotating rapidly"
+  },
+  "creatine": {
+    "p": "/ˈkriːətiːn/",
+    "t": "肌酸",
+    "en": "a nitrogenous organic acid found in muscle tissue that supplies energy"
+  },
+  "buffs": {
+    "p": "/bʌfs/",
+    "t": "爱好者；缓冲；抛光",
+    "en": "enthusiasts; or to polish or cushion"
+  },
+  "beforeandafter": {
+    "p": "/bɪˌfɔːrəndˈɑːftə/",
+    "t": "前后对比",
+    "en": "showing the state before and after a change"
+  },
+  "supplementation": {
+    "p": "/ˌsʌplɪmenˈteɪʃn/",
+    "t": "补充；增补",
+    "en": "the act of adding something extra to improve or complete"
+  },
+  "phosphates": {
+    "p": "/ˈfɒsfeɪts/",
+    "t": "磷酸盐",
+    "en": "salts or esters of phosphoric acid"
+  },
+  "biopsies": {
+    "p": "/ˈbaɪɒpsiz/",
+    "t": "活检",
+    "en": "examinations of tissue samples taken from the body"
+  },
+  "middleaged": {
+    "p": "/ˌmɪdlˈeɪdʒd/",
+    "t": "中年的",
+    "en": "being roughly between 45 and 65 years old"
+  },
+  "monohydrate": {
+    "p": "/ˌmɒnəʊˈhaɪdreɪt/",
+    "t": "一水合物",
+    "en": "a compound containing one molecule of water of crystallization"
+  },
+  "scrap": {
+    "p": "/skræp/",
+    "t": "废弃；碎片；取消",
+    "en": "to discard or abandon; a small piece of something"
+  },
+  "littleknown": {
+    "p": "/ˌlɪtlˈnəʊn/",
+    "t": "鲜为人知的",
+    "en": "not widely known or recognized"
+  },
+  "upend": {
+    "p": "/ʌpˈend/",
+    "t": "颠覆；倒置",
+    "en": "to turn upside down or overturn something"
   }
 }
