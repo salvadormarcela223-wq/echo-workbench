@@ -68808,5 +68808,580 @@
     "p": "/ʌpˈend/",
     "t": "颠覆；倒置",
     "en": "to turn upside down or overturn something"
+  },
+  "shroud": {
+    "p": "/ʃraʊd/",
+    "t": "裹尸布；覆盖物；遮蔽",
+    "en": "a cloth used to wrap a corpse; something that covers or conceals"
+  },
+  "gardens": {
+    "p": "/ˈɡɑːdnz/",
+    "t": "花园（复数）",
+    "en": "plots of ground where flowers, vegetables, or plants are cultivated"
+  },
+  "shrouded": {
+    "p": "/ˈʃraʊdɪd/",
+    "t": "被遮蔽的；覆盖的",
+    "en": "covered or concealed, as if by a shroud"
+  },
+  "beggars": {
+    "p": "/ˈbeɡəz/",
+    "t": "乞丐（复数）",
+    "en": "people who live by asking for money or food"
+  },
+  "threewattled": {
+    "p": "/ˌθriːˈwɒtld/",
+    "t": "有三块肉垂的",
+    "en": "having three wattles, as certain birds"
+  },
+  "longtailed": {
+    "p": "/ˌlɒŋˈteɪld/",
+    "t": "长尾的",
+    "en": "having a long tail"
+  },
+  "manakin": {
+    "p": "/ˈmænəkɪn/",
+    "t": "侏儒鸟",
+    "en": "a small brightly coloured tropical American bird"
+  },
+  "famed": {
+    "p": "/feɪmd/",
+    "t": "著名的",
+    "en": "well known; famous"
+  },
+  "courtship": {
+    "p": "/ˈkɔːtʃɪp/",
+    "t": "求偶；追求",
+    "en": "behaviour by which animals attempt to attract a mate"
+  },
+  "blackhanded": {
+    "p": "/ˌblækˈhændɪd/",
+    "t": "黑手的",
+    "en": "having black hands"
+  },
+  "jaguars": {
+    "p": "/ˈdʒæɡjuəz/",
+    "t": "美洲豹（复数）",
+    "en": "large spotted cats of Central and South America"
+  },
+  "pumas": {
+    "p": "/ˈpjuːməz/",
+    "t": "美洲狮（复数）",
+    "en": "large tawny wild cats of the Americas"
+  },
+  "tapirs": {
+    "p": "/ˈteɪpəz/",
+    "t": "貘（复数）",
+    "en": "large hoofed mammals with a long flexible snout"
+  },
+  "carpets": {
+    "p": "/ˈkɑːpɪts/",
+    "t": "地毯；覆盖层（复数）",
+    "en": "thick coverings of woven fabric or of material covering the ground"
+  },
+  "pants": {
+    "p": "/pænts/",
+    "t": "裤子",
+    "en": "trousers or underpants"
+  },
+  "epiphytes": {
+    "p": "/ˈepɪfaɪts/",
+    "t": "附生植物（复数）",
+    "en": "plants that grow on other plants for support"
+  },
+  "swath": {
+    "p": "/swɒθ/",
+    "t": "一长条；一带",
+    "en": "a broad strip or area of something"
+  },
+  "northwestern": {
+    "p": "/ˌnɔːθˈwestən/",
+    "t": "西北的",
+    "en": "situated in or coming from the northwest"
+  },
+  "reforested": {
+    "p": "/ˌriːˈfɒrɪstɪd/",
+    "t": "重新造林的",
+    "en": "planted again with trees"
+  },
+  "enveloped": {
+    "p": "/ɪnˈveləpt/",
+    "t": "被包裹的；被笼罩的",
+    "en": "wrapped up or surrounded completely"
+  },
+  "mountains": {
+    "p": "/ˈmaʊntɪnz/",
+    "t": "山脉；山（复数）",
+    "en": "large natural elevations of the earth's surface"
+  },
+  "easterly": {
+    "p": "/ˈiːstəli/",
+    "t": "向东的；来自东方的",
+    "en": "coming from or towards the east"
+  },
+  "evaporated": {
+    "p": "/ɪˈvæpəreɪtɪd/",
+    "t": "蒸发的",
+    "en": "changed from liquid into vapour"
+  },
+  "upslope": {
+    "p": "/ˈʌpsləʊp/",
+    "t": "上坡的；向上坡",
+    "en": "up a slope; towards higher ground"
+  },
+  "cools": {
+    "p": "/kuːlz/",
+    "t": "冷却；变凉",
+    "en": "makes or becomes less warm"
+  },
+  "condenses": {
+    "p": "/kənˈdensɪz/",
+    "t": "凝结；浓缩",
+    "en": "changes from vapour to liquid; makes denser"
+  },
+  "orchids": {
+    "p": "/ˈɔːkɪdz/",
+    "t": "兰花（复数）",
+    "en": "plants of a large family with showy flowers"
+  },
+  "bromeliads": {
+    "p": "/brəʊˈmiːliædz/",
+    "t": "凤梨科植物（复数）",
+    "en": "tropical American plants of the pineapple family"
+  },
+  "mosses": {
+    "p": "/ˈmɒsɪz/",
+    "t": "苔藓（复数）",
+    "en": "small flowerless green plants growing in damp places"
+  },
+  "lichens": {
+    "p": "/ˈlaɪkənz/",
+    "t": "地衣（复数）",
+    "en": "composite organisms of fungus and alga growing on rocks and trees"
+  },
+  "creak": {
+    "p": "/kriːk/",
+    "t": "嘎吱作响",
+    "en": "make a harsh high-pitched sound when moved"
+  },
+  "canopy": {
+    "p": "/ˈkænəpi/",
+    "t": "树冠层；华盖",
+    "en": "the upper layer of trees in a forest; a covering"
+  },
+  "horizontal": {
+    "p": "/ˌhɒrɪˈzɒntl/",
+    "t": "水平的",
+    "en": "parallel to the horizon; flat"
+  },
+  "epiphyte": {
+    "p": "/ˈepɪfaɪt/",
+    "t": "附生植物",
+    "en": "a plant that grows on another plant for support"
+  },
+  "nonwoody": {
+    "p": "/ˌnɒnˈwʊdi/",
+    "t": "非木质的",
+    "en": "not consisting of wood; herbaceous"
+  },
+  "nutrientdense": {
+    "p": "/ˈnjuːtriənt dens/",
+    "t": "营养密集的",
+    "en": "containing a high concentration of nutrients"
+  },
+  "disproportionately": {
+    "p": "/ˌdɪsprəˈpɔːʃənətli/",
+    "t": "不成比例地",
+    "en": "to an extent out of proportion; excessively"
+  },
+  "augmenting": {
+    "p": "/ɔːɡˈmentɪŋ/",
+    "t": "增加；增强",
+    "en": "making greater by adding to it"
+  },
+  "circulate": {
+    "p": "/ˈsɜːkjəleɪt/",
+    "t": "循环；流通",
+    "en": "move continuously through a closed system"
+  },
+  "millimetre": {
+    "p": "/ˈmɪlɪmiːtə/",
+    "t": "毫米",
+    "en": "a unit of length equal to one thousandth of a metre"
+  },
+  "drastically": {
+    "p": "/ˈdræstɪkli/",
+    "t": "剧烈地；大幅度地",
+    "en": "to a very great and severe extent"
+  },
+  "coalescing": {
+    "p": "/ˌkəʊəˈlesɪŋ/",
+    "t": "合并；结合",
+    "en": "coming together to form one mass or whole"
+  },
+  "unpublished": {
+    "p": "/ʌnˈpʌblɪʃt/",
+    "t": "未发表的",
+    "en": "not published"
+  },
+  "rainfree": {
+    "p": "/ˈreɪn friː/",
+    "t": "无雨的",
+    "en": "without rain"
+  },
+  "cloudwater": {
+    "p": "/ˈklaʊd wɔːtə/",
+    "t": "云水",
+    "en": "water contained in or deposited from clouds"
+  },
+  "imminent": {
+    "p": "/ˈɪmɪnənt/",
+    "t": "即将发生的",
+    "en": "about to happen very soon"
+  },
+  "climatic": {
+    "p": "/klaɪˈmætɪk/",
+    "t": "气候的",
+    "en": "relating to climate"
+  },
+  "wetter": {
+    "p": "/ˈwetə/",
+    "t": "更湿的",
+    "en": "more wet; comparative of wet"
+  },
+  "drier": {
+    "p": "/ˈdraɪə/",
+    "t": "更干的",
+    "en": "more dry; comparative of dry"
+  },
+  "lowland": {
+    "p": "/ˈləʊlənd/",
+    "t": "低地（的）",
+    "en": "low-lying land, especially in contrast to uplands"
+  },
+  "lowlying": {
+    "p": "/ˌləʊˈlaɪɪŋ/",
+    "t": "低洼的",
+    "en": "situated at a low elevation"
+  },
+  "microclimate": {
+    "p": "/ˈmaɪkrəʊklaɪmət/",
+    "t": "微气候",
+    "en": "the climate of a small or restricted area"
+  },
+  "presumed": {
+    "p": "/prɪˈzjuːmd/",
+    "t": "推测的；假定的",
+    "en": "supposed or assumed to be true"
+  },
+  "fungus": {
+    "p": "/ˈfʌŋɡəs/",
+    "t": "真菌",
+    "en": "a spore-producing organism such as a mushroom or mould"
+  },
+  "toads": {
+    "p": "/təʊdz/",
+    "t": "蟾蜍（复数）",
+    "en": "tailless amphibians with dry warty skin"
+  },
+  "dendrobatidis": {
+    "p": "/ˌdendrəʊˈbætɪdɪs/",
+    "t": "蛙壶菌（一种真菌）",
+    "en": "a chytrid fungus that infects amphibians"
+  },
+  "lowlands": {
+    "p": "/ˈləʊləndz/",
+    "t": "低地（复数）",
+    "en": "areas of low-lying land"
+  },
+  "escaping": {
+    "p": "/ɪˈskeɪpɪŋ/",
+    "t": "逃脱；逃离",
+    "en": "getting free from confinement or danger"
+  },
+  "dries": {
+    "p": "/draɪz/",
+    "t": "变干；使干燥",
+    "en": "makes or becomes dry"
+  },
+  "toucans": {
+    "p": "/ˈtuːkænz/",
+    "t": "巨嘴鸟（复数）",
+    "en": "tropical American birds with huge brightly coloured bills"
+  },
+  "resplendent": {
+    "p": "/rɪˈsplendənt/",
+    "t": "灿烂的；华丽的",
+    "en": "dazzlingly beautiful or impressive"
+  },
+  "quetzals": {
+    "p": "/ˈketsəlz/",
+    "t": "凤尾绿咬鹃（复数）",
+    "en": "brilliantly coloured Central American birds with long tail feathers"
+  },
+  "snakes": {
+    "p": "/sneɪks/",
+    "t": "蛇（复数）",
+    "en": "long limbless reptiles that move by gliding"
+  },
+  "terciopelo": {
+    "p": "/ˌtɜːsiəˈpeləʊ/",
+    "t": "矛头蝮（一种毒蛇）",
+    "en": "a large venomous pit viper of Central and South America"
+  },
+  "displacing": {
+    "p": "/dɪsˈpleɪsɪŋ/",
+    "t": "取代；迫使离开",
+    "en": "moving something out of its proper place; replacing"
+  },
+  "finely": {
+    "p": "/ˈfaɪnli/",
+    "t": "精细地；细微地",
+    "en": "in a very small or delicate manner"
+  },
+  "microecosystems": {
+    "p": "/ˌmaɪkrəʊˈiːkəʊsɪstəmz/",
+    "t": "微型生态系统（复数）",
+    "en": "very small ecological systems"
+  },
+  "schedules": {
+    "p": "/ˈʃedjuːlz/",
+    "t": "时间表；日程（复数）",
+    "en": "plans listing times of events or tasks"
+  },
+  "coordinator": {
+    "p": "/kəʊˈɔːdɪneɪtə/",
+    "t": "协调员",
+    "en": "a person who organizes people or activities"
+  },
+  "disperse": {
+    "p": "/dɪˈspɜːs/",
+    "t": "分散；散播",
+    "en": "spread over a wide area"
+  },
+  "faunas": {
+    "p": "/ˈfɔːnəz/",
+    "t": "动物群（复数）",
+    "en": "the animal life of particular regions or periods"
+  },
+  "systematic": {
+    "p": "/ˌsɪstəˈmætɪk/",
+    "t": "系统的；有条理的",
+    "en": "done according to a fixed plan or method"
+  },
+  "canary": {
+    "p": "/kəˈneəri/",
+    "t": "金丝雀",
+    "en": "a small yellow songbird often kept as a pet"
+  },
+  "coalmine": {
+    "p": "/ˈkəʊlmaɪn/",
+    "t": "煤矿",
+    "en": "a mine where coal is extracted"
+  },
+  "immensely": {
+    "p": "/ɪˈmensli/",
+    "t": "极其；非常",
+    "en": "to a very great extent"
+  },
+  "transplanting": {
+    "p": "/trænsˈplɑːntɪŋ/",
+    "t": "移植；移栽",
+    "en": "moving a plant or organ to another place"
+  },
+  "greenhouses": {
+    "p": "/ˈɡriːnhaʊzɪz/",
+    "t": "温室（复数）",
+    "en": "glass or plastic buildings for growing plants"
+  },
+  "extinctions": {
+    "p": "/ɪkˈstɪŋkʃənz/",
+    "t": "灭绝（复数）",
+    "en": "the complete dying out of species"
+  },
+  "baselines": {
+    "p": "/ˈbeɪslaɪnz/",
+    "t": "基线；基准（复数）",
+    "en": "reference points or standards for comparison"
+  },
+  "windy": {
+    "p": "/ˈwɪndi/",
+    "t": "有风的",
+    "en": "characterized by strong winds"
+  },
+  "accompany": {
+    "p": "/əˈkʌmpəni/",
+    "t": "伴随；陪同",
+    "en": "go together with"
+  },
+  "strangler": {
+    "p": "/ˈstræŋɡlə/",
+    "t": "绞杀植物；扼杀者",
+    "en": "a plant that grows around and eventually kills its host tree"
+  },
+  "stripped": {
+    "p": "/strɪpt/",
+    "t": "被剥去的；被剥夺的",
+    "en": "having had covering or contents removed"
+  },
+  "epiphyteless": {
+    "p": "/ˈepɪfaɪtləs/",
+    "t": "无附生植物的",
+    "en": "lacking epiphytes"
+  },
+  "painfully": {
+    "p": "/ˈpeɪnfəli/",
+    "t": "痛苦地；令人痛苦地",
+    "en": "in a way that causes pain or distress"
+  },
+  "insectivorous": {
+    "p": "/ˌɪnsekˈtɪvərəs/",
+    "t": "食虫的",
+    "en": "feeding on insects"
+  },
+  "wettest": {
+    "p": "/ˈwetɪst/",
+    "t": "最湿的",
+    "en": "most wet; superlative of wet"
+  },
+  "astoundingly": {
+    "p": "/əˈstaʊndɪŋli/",
+    "t": "令人震惊地",
+    "en": "in a surprisingly impressive manner"
+  },
+  "selforganising": {
+    "p": "/ˌself ˈɔːɡənaɪzɪŋ/",
+    "t": "自组织的",
+    "en": "organizing itself without external direction"
+  },
+  "nonnative": {
+    "p": "/ˌnɒnˈneɪtɪv/",
+    "t": "非本土的；外来的",
+    "en": "not originating in a particular place"
+  },
+  "trailblazer": {
+    "p": "/ˈtreɪlbleɪzə/",
+    "t": "开拓者；先驱",
+    "en": "a pioneer or innovator"
+  },
+  "tours": {
+    "p": "/tʊəz/",
+    "t": "旅行；游览（复数）",
+    "en": "journeys for pleasure visiting several places"
+  },
+  "windbreakers": {
+    "p": "/ˈwɪndbreɪkəz/",
+    "t": "防风夹克（复数）",
+    "en": "light jackets protecting against the wind"
+  },
+  "reforestation": {
+    "p": "/ˌriːfɒrɪˈsteɪʃn/",
+    "t": "重新造林",
+    "en": "the replanting of trees in a forest area"
+  },
+  "replies": {
+    "p": "/rɪˈplaɪz/",
+    "t": "回答；答复（复数）",
+    "en": "answers given in response"
+  },
+  "betting": {
+    "p": "/ˈbetɪŋ/",
+    "t": "打赌；赌博",
+    "en": "the act of gambling money on an outcome"
+  },
+  "rebrand": {
+    "p": "/ˌriːˈbrænd/",
+    "t": "重塑品牌",
+    "en": "to change the image or name of a brand"
+  },
+  "underconstruction": {
+    "p": "/ˌʌndəkənˈstrʌkʃn/",
+    "t": "在建中",
+    "en": "being built or in the process of construction"
+  },
+  "bruises": {
+    "p": "/ˈbruːzɪz/",
+    "t": "瘀伤；青肿",
+    "en": "discolored injuries on the skin"
+  },
+  "rebranding": {
+    "p": "/ˌriːˈbrændɪŋ/",
+    "t": "品牌重塑",
+    "en": "the process of changing a brand's image or name"
+  },
+  "provoking": {
+    "p": "/prəˈvəʊkɪŋ/",
+    "t": "挑衅的；惹人恼火的",
+    "en": "causing annoyance or strong reaction"
+  },
+  "pasture": {
+    "p": "/ˈpɑːstʃə/",
+    "t": "牧场；牧草地",
+    "en": "land covered with grass for grazing animals"
+  },
+  "streaming": {
+    "p": "/ˈstriːmɪŋ/",
+    "t": "流媒体；在线播放",
+    "en": "playing or sending media continuously over the internet"
+  },
+  "sixfigure": {
+    "p": "/ˌsɪksˈfɪɡə/",
+    "t": "六位数的",
+    "en": "amounting to between 100,000 and 999,999"
+  },
+  "emphasizing": {
+    "p": "/ˈemfəsaɪzɪŋ/",
+    "t": "强调",
+    "en": "giving special importance or prominence to something"
+  },
+  "learnings": {
+    "p": "/ˈlɜːnɪŋz/",
+    "t": "经验教训；所学",
+    "en": "knowledge or lessons gained from experience"
+  },
+  "radiators": {
+    "p": "/ˈreɪdieɪtəz/",
+    "t": "散热器；暖气片",
+    "en": "devices that emit heat to warm a room"
+  },
+  "pledging": {
+    "p": "/ˈpledʒɪŋ/",
+    "t": "承诺；保证",
+    "en": "making a solemn promise or commitment"
+  },
+  "envisioned": {
+    "p": "/ɪnˈvɪʒnd/",
+    "t": "设想；展望",
+    "en": "imagined or pictured as a future possibility"
+  },
+  "nationallevel": {
+    "p": "/ˈnæʃnəl ˈlevl/",
+    "t": "国家级",
+    "en": "at the level of an entire nation"
+  },
+  "romanticist": {
+    "p": "/rəʊˈmæntɪsɪst/",
+    "t": "浪漫主义者",
+    "en": "a person who follows romantic ideas or style"
+  },
+  "assemblyman": {
+    "p": "/əˈsemblimən/",
+    "t": "议员",
+    "en": "a member of a legislative assembly"
+  },
+  "congressperson": {
+    "p": "/ˈkɒŋɡrəspɜːsn/",
+    "t": "国会议员",
+    "en": "a member of the US Congress"
+  },
+  "cofounders": {
+    "p": "/ˌkəʊˈfaʊndəz/",
+    "t": "联合创始人",
+    "en": "people who jointly establish an organization"
+  },
+  "automobile": {
+    "p": "/ˈɔːtəməbiːl/",
+    "t": "汽车",
+    "en": "a road vehicle with four wheels powered by an engine"
   }
 }
