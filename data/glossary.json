@@ -69383,5 +69383,535 @@
     "p": "/ˈɔːtəməbiːl/",
     "t": "汽车",
     "en": "a road vehicle with four wheels powered by an engine"
+  },
+  "uncharted": {
+    "p": "/ʌnˈtʃɑːtɪd/",
+    "t": "未标注的；未知的",
+    "en": "not mapped or explored"
+  },
+  "skeletons": {
+    "p": "/ˈskelɪtnz/",
+    "t": "骨架（复数）",
+    "en": "plural of skeleton; bony frameworks"
+  },
+  "longextinct": {
+    "p": "/ˌlɒŋɪkˈstɪŋkt/",
+    "t": "早已灭绝的",
+    "en": "extinct for a long time"
+  },
+  "nearvertical": {
+    "p": "/ˌnɪəˈvɜːtɪkl/",
+    "t": "近乎垂直的",
+    "en": "almost vertical"
+  },
+  "ledge": {
+    "p": "/ledʒ/",
+    "t": "岩架；壁架",
+    "en": "a narrow shelf, especially on a cliff"
+  },
+  "downclimb": {
+    "p": "/ˈdaʊnklaɪm/",
+    "t": "向下攀爬",
+    "en": "to climb down"
+  },
+  "donned": {
+    "p": "/dɒnd/",
+    "t": "穿上（过去式）",
+    "en": "past tense of don; put on clothing"
+  },
+  "backpack": {
+    "p": "/ˈbækpæk/",
+    "t": "背包",
+    "en": "a bag carried on the back"
+  },
+  "dispensed": {
+    "p": "/dɪˈspenst/",
+    "t": "分发（过去式）",
+    "en": "past tense of dispense; distributed"
+  },
+  "caves": {
+    "p": "/keɪvz/",
+    "t": "洞穴（复数）",
+    "en": "plural of cave; large hollows in rock"
+  },
+  "ladinicus": {
+    "p": "/ləˈdɪnɪkəs/",
+    "t": "（拉丁学名）拉迪尼库斯",
+    "en": "a Latin species epithet"
+  },
+  "sketches": {
+    "p": "/ˈsketʃɪz/",
+    "t": "草图（复数）",
+    "en": "plural of sketch; rough drawings"
+  },
+  "grasses": {
+    "p": "/ˈɡrɑːsɪz/",
+    "t": "草（复数）",
+    "en": "plural of grass; plants of the family Poaceae"
+  },
+  "lunarlike": {
+    "p": "/ˈluːnəlaɪk/",
+    "t": "类似月球的",
+    "en": "resembling the moon"
+  },
+  "surroundings": {
+    "p": "/səˈraʊndɪŋz/",
+    "t": "环境；周围",
+    "en": "the things around someone or something"
+  },
+  "vertiginous": {
+    "p": "/vɜːˈtɪdʒɪnəs/",
+    "t": "令人眩晕的",
+    "en": "causing dizziness, especially from height"
+  },
+  "treasure": {
+    "p": "/ˈtreʒə/",
+    "t": "宝藏；珍宝",
+    "en": "valuable objects or a cherished thing"
+  },
+  "topographic": {
+    "p": "/ˌtɒpəˈɡræfɪk/",
+    "t": "地形学的",
+    "en": "relating to the physical features of an area"
+  },
+  "cavern": {
+    "p": "/ˈkævən/",
+    "t": "大洞穴",
+    "en": "a large cave"
+  },
+  "suspense": {
+    "p": "/səˈspens/",
+    "t": "悬念；焦虑",
+    "en": "a state of anxious uncertainty"
+  },
+  "speleothem": {
+    "p": "/ˈspiːliəθem/",
+    "t": "洞穴沉积物",
+    "en": "a mineral deposit formed in a cave"
+  },
+  "deposit": {
+    "p": "/dɪˈpɒzɪt/",
+    "t": "沉积物；存款",
+    "en": "a layer of material or money placed in an account"
+  },
+  "bedrock": {
+    "p": "/ˈbedrɒk/",
+    "t": "基岩",
+    "en": "solid rock beneath soil"
+  },
+  "skull": {
+    "p": "/skʌl/",
+    "t": "头骨",
+    "en": "the bony framework of the head"
+  },
+  "cervical": {
+    "p": "/ˈsɜːvɪkl/",
+    "t": "颈部的",
+    "en": "relating to the neck"
+  },
+  "dawned": {
+    "p": "/dɔːnd/",
+    "t": "（过去式）破晓；开始明白",
+    "en": "past tense of dawn; began or became clear"
+  },
+  "neighbour": {
+    "p": "/ˈneɪbə/",
+    "t": "邻居",
+    "en": "a person living next door"
+  },
+  "honour": {
+    "p": "/ˈɒnə/",
+    "t": "荣誉；尊敬",
+    "en": "respect or a privilege"
+  },
+  "deposits": {
+    "p": "/dɪˈpɒzɪts/",
+    "t": "沉积物（复数）",
+    "en": "plural of deposit; layers of material"
+  },
+  "beech": {
+    "p": "/biːtʃ/",
+    "t": "山毛榉",
+    "en": "a tree with smooth grey bark"
+  },
+  "jawbone": {
+    "p": "/ˈdʒɔːbəʊn/",
+    "t": "颌骨",
+    "en": "the bone of the jaw"
+  },
+  "alpine": {
+    "p": "/ˈælpaɪn/",
+    "t": "高山的",
+    "en": "relating to high mountains"
+  },
+  "notified": {
+    "p": "/ˈnəʊtɪfaɪd/",
+    "t": "通知（过去式）",
+    "en": "past tense of notify; informed"
+  },
+  "baptism": {
+    "p": "/ˈbæptɪzəm/",
+    "t": "洗礼",
+    "en": "a Christian rite of sprinkling or immersing in water"
+  },
+  "palaeontologists": {
+    "p": "/ˌpæliɒnˈtɒlədʒɪsts/",
+    "t": "古生物学家（复数）",
+    "en": "plural of palaeontologist; fossil scientists"
+  },
+  "contamination": {
+    "p": "/kənˌtæmɪˈneɪʃn/",
+    "t": "污染",
+    "en": "the process of making impure"
+  },
+  "sleepless": {
+    "p": "/ˈsliːpləs/",
+    "t": "失眠的；不眠的",
+    "en": "without sleep"
+  },
+  "trespassing": {
+    "p": "/ˈtrespəsɪŋ/",
+    "t": "擅自进入；非法侵入",
+    "en": "entering property without permission"
+  },
+  "erected": {
+    "p": "/ɪˈrektɪd/",
+    "t": "建立（过去式）",
+    "en": "past tense of erect; built or set up"
+  },
+  "tarpaulin": {
+    "p": "/tɑːˈpɔːlɪn/",
+    "t": "防水帆布",
+    "en": "a heavy waterproof sheet"
+  },
+  "airlifted": {
+    "p": "/ˈeəlɪftɪd/",
+    "t": "空运（过去式）",
+    "en": "past tense of airlift; transported by air"
+  },
+  "inaccessible": {
+    "p": "/ˌɪnəkˈsesəbl/",
+    "t": "难以到达的",
+    "en": "difficult or impossible to reach"
+  },
+  "exploration": {
+    "p": "/ˌekspləˈreɪʃn/",
+    "t": "探索；勘探",
+    "en": "the act of travelling to discover"
+  },
+  "acquainted": {
+    "p": "/əˈkweɪntɪd/",
+    "t": "熟悉的",
+    "en": "familiar with something or someone"
+  },
+  "vertebrate": {
+    "p": "/ˈvɜːtɪbrət/",
+    "t": "脊椎动物",
+    "en": "an animal with a backbone"
+  },
+  "palaeontologist": {
+    "p": "/ˌpæliɒnˈtɒlədʒɪst/",
+    "t": "古生物学家",
+    "en": "a scientist who studies fossils"
+  },
+  "fauna": {
+    "p": "/ˈfɔːnə/",
+    "t": "动物群",
+    "en": "the animals of a region or period"
+  },
+  "excavations": {
+    "p": "/ˌekskəˈveɪʃnz/",
+    "t": "挖掘（复数）",
+    "en": "plural of excavation; digs or hollows"
+  },
+  "reconstruct": {
+    "p": "/ˌriːkənˈstrʌkt/",
+    "t": "重建；复原",
+    "en": "to build or form again"
+  },
+  "sediments": {
+    "p": "/ˈsedɪmənts/",
+    "t": "沉积物（复数）",
+    "en": "plural of sediment; matter that settles"
+  },
+  "rearticulate": {
+    "p": "/ˌriːɑːˈtɪkjuleɪt/",
+    "t": "重新连接（骨骼）",
+    "en": "to join bones together again"
+  },
+  "assemblage": {
+    "p": "/əˈsemblɪdʒ/",
+    "t": "集合体；组合",
+    "en": "a collection or gathering"
+  },
+  "geological": {
+    "p": "/ˌdʒiːəˈlɒdʒɪkl/",
+    "t": "地质的",
+    "en": "relating to geology"
+  },
+  "sealed": {
+    "p": "/siːld/",
+    "t": "密封的",
+    "en": "closed tightly"
+  },
+  "unauthorised": {
+    "p": "/ʌnˈɔːθəraɪzd/",
+    "t": "未经授权的",
+    "en": "without official permission"
+  },
+  "roamed": {
+    "p": "/rəʊmd/",
+    "t": "漫游（过去式）",
+    "en": "past tense of roam; wandered"
+  },
+  "accessed": {
+    "p": "/ˈæksest/",
+    "t": "进入（过去式）",
+    "en": "past tense of access; reached or entered"
+  },
+  "curiosities": {
+    "p": "/ˌkjʊəriˈɒsətiz/",
+    "t": "珍奇物品（复数）",
+    "en": "plural of curiosity; unusual interesting objects"
+  },
+  "tablelike": {
+    "p": "/ˈteɪbllaɪk/",
+    "t": "像桌子的",
+    "en": "resembling a table"
+  },
+  "kindergarten": {
+    "p": "/ˈkɪndəɡɑːtn/",
+    "t": "幼儿园",
+    "en": "a school or class for young children"
+  },
+  "gangraped": {
+    "p": "/ˈɡæŋreɪpt/",
+    "t": "遭轮奸的",
+    "en": "raped by a group of people"
+  },
+  "punitive": {
+    "p": "/ˈpjuːnətɪv/",
+    "t": "惩罚性的",
+    "en": "intended as punishment"
+  },
+  "adjudicatory": {
+    "p": "/əˈdʒuːdɪkətəri/",
+    "t": "裁决的",
+    "en": "relating to judging or adjudication"
+  },
+  "haphazard": {
+    "p": "/hæpˈhæzəd/",
+    "t": "随意的",
+    "en": "lacking order or planning"
+  },
+  "abstinence": {
+    "p": "/ˈæbstɪnəns/",
+    "t": "节制",
+    "en": "the practice of not doing something enjoyable"
+  },
+  "intoxication": {
+    "p": "/ɪnˌtɒksɪˈkeɪʃn/",
+    "t": "醉酒",
+    "en": "the state of being drunk"
+  },
+  "contraception": {
+    "p": "/ˌkɒntrəˈsepʃn/",
+    "t": "避孕",
+    "en": "methods to prevent pregnancy"
+  },
+  "fulfilled": {
+    "p": "/fʊlˈfɪld/",
+    "t": "满足的",
+    "en": "satisfied with one's life"
+  },
+  "thirdyear": {
+    "p": "/ˌθɜːdˈjɪə/",
+    "t": "第三年的",
+    "en": "of the third year"
+  },
+  "litigate": {
+    "p": "/ˈlɪtɪɡeɪt/",
+    "t": "提起诉讼",
+    "en": "to take a dispute to court"
+  },
+  "accusers": {
+    "p": "/əˈkjuːzəz/",
+    "t": "控告者",
+    "en": "people who accuse others"
+  },
+  "accuse": {
+    "p": "/əˈkjuːz/",
+    "t": "指控",
+    "en": "to charge someone with wrongdoing"
+  },
+  "heartbreak": {
+    "p": "/ˈhɑːtbreɪk/",
+    "t": "心碎",
+    "en": "intense emotional suffering"
+  },
+  "casual": {
+    "p": "/ˈkæʒuəl/",
+    "t": "随意的",
+    "en": "relaxed and unconcerned"
+  },
+  "nonverbal": {
+    "p": "/ˌnɒnˈvɜːbl/",
+    "t": "非言语的",
+    "en": "not involving words"
+  },
+  "awkwardness": {
+    "p": "/ˈɔːkwədnəs/",
+    "t": "尴尬",
+    "en": "the state of being awkward"
+  },
+  "insecurity": {
+    "p": "/ˌɪnsɪˈkjʊərəti/",
+    "t": "不安全感",
+    "en": "lack of confidence or certainty"
+  },
+  "bleakly": {
+    "p": "/ˈbliːkli/",
+    "t": "凄凉地",
+    "en": "in a bleak manner"
+  },
+  "tweens": {
+    "p": "/twiːnz/",
+    "t": "青春期前的孩子",
+    "en": "children between about 8 and 12"
+  },
+  "assaults": {
+    "p": "/əˈsɔːlts/",
+    "t": "袭击",
+    "en": "violent attacks"
+  },
+  "synthesizes": {
+    "p": "/ˈsɪnθəsaɪzɪz/",
+    "t": "综合",
+    "en": "combines into a whole"
+  },
+  "ambitiously": {
+    "p": "/æmˈbɪʃəsli/",
+    "t": "有雄心地",
+    "en": "in an ambitious manner"
+  },
+  "toolbox": {
+    "p": "/ˈtuːlbɒks/",
+    "t": "工具箱",
+    "en": "a box for holding tools"
+  },
+  "refraining": {
+    "p": "/rɪˈfreɪnɪŋ/",
+    "t": "克制",
+    "en": "holding oneself back"
+  },
+  "classmate": {
+    "p": "/ˈklɑːsmeɪt/",
+    "t": "同学",
+    "en": "a fellow member of a class"
+  },
+  "grades": {
+    "p": "/ɡreɪdz/",
+    "t": "成绩",
+    "en": "marks or levels of achievement"
+  },
+  "trainings": {
+    "p": "/ˈtreɪnɪŋz/",
+    "t": "培训",
+    "en": "sessions of teaching or practice"
+  },
+  "bystander": {
+    "p": "/ˈbaɪstændə/",
+    "t": "旁观者",
+    "en": "a person who watches without taking part"
+  },
+  "nontrivial": {
+    "p": "/ˌnɒnˈtrɪviəl/",
+    "t": "非平凡的",
+    "en": "not trivial; significant"
+  },
+  "perpetrated": {
+    "p": "/ˈpɜːpətreɪtɪd/",
+    "t": "犯下的",
+    "en": "committed or carried out"
+  },
+  "calculus": {
+    "p": "/ˈkælkjələs/",
+    "t": "微积分",
+    "en": "a branch of mathematics"
+  },
+  "facetoface": {
+    "p": "/ˌfeɪstəˈfeɪs/",
+    "t": "面对面的",
+    "en": "involving direct personal contact"
+  },
+  "pornography": {
+    "p": "/pɔːˈnɒɡrəfi/",
+    "t": "色情",
+    "en": "sexually explicit material"
+  },
+  "objectified": {
+    "p": "/əbˈdʒektɪfaɪd/",
+    "t": "被物化的",
+    "en": "treated as an object"
+  },
+  "dispel": {
+    "p": "/dɪˈspel/",
+    "t": "消除",
+    "en": "to make a feeling or belief disappear"
+  },
+  "candid": {
+    "p": "/ˈkændɪd/",
+    "t": "坦率的",
+    "en": "honest and straightforward"
+  },
+  "hookup": {
+    "p": "/ˈhʊkʌp/",
+    "t": "约炮",
+    "en": "a casual sexual encounter"
+  },
+  "combatting": {
+    "p": "/ˈkɒmbætɪŋ/",
+    "t": "对抗",
+    "en": "fighting or struggling against"
+  },
+  "extricate": {
+    "p": "/ˈekstrɪkeɪt/",
+    "t": "解脱",
+    "en": "to free from a difficulty"
+  },
+  "abstinenceonly": {
+    "p": "/ˈæbstɪnənsˌəʊnli/",
+    "t": "仅禁欲的",
+    "en": "promoting abstinence alone"
+  },
+  "expulsion": {
+    "p": "/ɪkˈspʌlʃn/",
+    "t": "开除",
+    "en": "the act of forcing someone out"
+  },
+  "accuser": {
+    "p": "/əˈkjuːzə/",
+    "t": "控告者",
+    "en": "a person who accuses someone"
+  },
+  "pitiable": {
+    "p": "/ˈpɪtiəbl/",
+    "t": "可怜的",
+    "en": "deserving pity"
+  },
+  "reinfects": {
+    "p": "/ˌriːɪnˈfekts/",
+    "t": "再感染",
+    "en": "infects again"
+  },
+  "vaccinate": {
+    "p": "/ˈvæksɪneɪt/",
+    "t": "接种疫苗",
+    "en": "to give a vaccine to"
+  },
+  "downfall": {
+    "p": "/ˈdaʊnfɔːl/",
+    "t": "垮台",
+    "en": "a sudden loss of power or success"
   }
 }
