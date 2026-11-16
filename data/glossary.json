@@ -70103,5 +70103,495 @@
     "p": "/leɪks/",
     "t": "湖泊（复数）",
     "en": "plural of lake; large bodies of water surrounded by land"
+  },
+  "crust": {
+    "p": "/krʌst/",
+    "t": "地壳；外壳；面包皮",
+    "en": "the outer layer of the earth or a hard outer covering"
+  },
+  "formations": {
+    "p": "/fɔːˈmeɪʃənz/",
+    "t": "形成物；岩层",
+    "en": "structures or arrangements that are formed, especially rock layers"
+  },
+  "supernatural": {
+    "p": "/ˌsuːpəˈnætʃrəl/",
+    "t": "超自然的",
+    "en": "beyond the laws of nature; attributed to forces outside nature"
+  },
+  "chimneys": {
+    "p": "/ˈtʃɪmniz/",
+    "t": "烟囱（复数）",
+    "en": "vertical structures for carrying smoke or air upward"
+  },
+  "tunnels": {
+    "p": "/ˈtʌnlz/",
+    "t": "隧道（复数）",
+    "en": "underground passages"
+  },
+  "dimly": {
+    "p": "/ˈdɪmli/",
+    "t": "昏暗地；模糊地",
+    "en": "with little light; faintly"
+  },
+  "footsteps": {
+    "p": "/ˈfʊtsteps/",
+    "t": "脚步声；足迹",
+    "en": "sounds or marks made by feet"
+  },
+  "blizzard": {
+    "p": "/ˈblɪzəd/",
+    "t": "暴风雪",
+    "en": "a severe snowstorm with strong winds"
+  },
+  "gloves": {
+    "p": "/ɡlʌvz/",
+    "t": "手套（复数）",
+    "en": "coverings for the hands"
+  },
+  "armies": {
+    "p": "/ˈɑːmiz/",
+    "t": "军队（复数）",
+    "en": "organized military forces"
+  },
+  "cavers": {
+    "p": "/ˈkeɪvəz/",
+    "t": "洞穴探险者（复数）",
+    "en": "people who explore caves"
+  },
+  "singlehandedly": {
+    "p": "/ˌsɪŋɡlˈhændɪdli/",
+    "t": "独自一人地",
+    "en": "done by one person alone"
+  },
+  "humanmade": {
+    "p": "/ˌhjuːmənˈmeɪd/",
+    "t": "人造的",
+    "en": "made by humans rather than nature"
+  },
+  "aboveground": {
+    "p": "/əˈbʌvɡraʊnd/",
+    "t": "地面上的",
+    "en": "located or happening on the surface of the ground"
+  },
+  "gruelling": {
+    "p": "/ˈɡruːəlɪŋ/",
+    "t": "累人的；艰苦的",
+    "en": "extremely tiring and demanding"
+  },
+  "expedition": {
+    "p": "/ˌekspəˈdɪʃn/",
+    "t": "探险；远征",
+    "en": "a journey organized for a particular purpose"
+  },
+  "subterranean": {
+    "p": "/ˌsʌbtəˈreɪniən/",
+    "t": "地下的",
+    "en": "existing or occurring under the ground"
+  },
+  "settlement": {
+    "p": "/ˈsetlmənt/",
+    "t": "定居点；聚落",
+    "en": "a place where people establish a community"
+  },
+  "preindustrial": {
+    "p": "/ˌpriːɪnˈdʌstriəl/",
+    "t": "工业化以前的",
+    "en": "before the development of industry"
+  },
+  "intensifying": {
+    "p": "/ɪnˈtensɪfaɪɪŋ/",
+    "t": "加剧的；增强的",
+    "en": "becoming stronger or more intense"
+  },
+  "droughts": {
+    "p": "/draʊts/",
+    "t": "干旱（复数）",
+    "en": "long periods of unusually low rainfall"
+  },
+  "tenfold": {
+    "p": "/ˈtenfəʊld/",
+    "t": "十倍地",
+    "en": "by ten times"
+  },
+  "snowy": {
+    "p": "/ˈsnəʊi/",
+    "t": "多雪的",
+    "en": "covered with or characterized by snow"
+  },
+  "carbonintensive": {
+    "p": "/ˌkɑːbən ɪnˈtensɪv/",
+    "t": "碳密集型的",
+    "en": "involving a large amount of carbon emissions"
+  },
+  "unleashed": {
+    "p": "/ʌnˈliːʃt/",
+    "t": "释放的；引发的",
+    "en": "released or set loose suddenly"
+  },
+  "chickens": {
+    "p": "/ˈtʃɪkɪnz/",
+    "t": "鸡（复数）",
+    "en": "domesticated birds kept for eggs or meat"
+  },
+  "wells": {
+    "p": "/welz/",
+    "t": "井（复数）",
+    "en": "deep holes dug to obtain water or oil"
+  },
+  "shafts": {
+    "p": "/ʃɑːfts/",
+    "t": "竖井；通道（复数）",
+    "en": "long narrow vertical passages"
+  },
+  "vertically": {
+    "p": "/ˈvɜːtɪkli/",
+    "t": "垂直地",
+    "en": "in a vertical direction"
+  },
+  "designating": {
+    "p": "/ˈdezɪɡneɪtɪŋ/",
+    "t": "指定；标明",
+    "en": "officially naming or indicating"
+  },
+  "redefining": {
+    "p": "/ˌriːdɪˈfaɪnɪŋ/",
+    "t": "重新定义",
+    "en": "defining again in a new way"
+  },
+  "livable": {
+    "p": "/ˈlɪvəbl/",
+    "t": "适宜居住的",
+    "en": "suitable for living in"
+  },
+  "catalogued": {
+    "p": "/ˈkætəlɒɡd/",
+    "t": "编入目录的",
+    "en": "recorded or listed systematically"
+  },
+  "quarries": {
+    "p": "/ˈkwɒriz/",
+    "t": "采石场（复数）",
+    "en": "places where stone is extracted"
+  },
+  "catacombs": {
+    "p": "/ˈkætəkuːmz/",
+    "t": "地下墓穴（复数）",
+    "en": "underground cemeteries with tunnels and chambers"
+  },
+  "hypogea": {
+    "p": "/haɪˈpɒdʒiə/",
+    "t": "地下建筑；地下墓室",
+    "en": "underground chambers or tombs"
+  },
+  "kilometers": {
+    "p": "/ˈkɪləmiːtəz/",
+    "t": "公里（复数）",
+    "en": "units of distance equal to 1000 metres"
+  },
+  "masterplan": {
+    "p": "/ˈmɑːstəplæn/",
+    "t": "总体规划",
+    "en": "a comprehensive plan for development"
+  },
+  "pools": {
+    "p": "/puːlz/",
+    "t": "水池（复数）",
+    "en": "small bodies of water"
+  },
+  "converting": {
+    "p": "/kənˈvɜːtɪŋ/",
+    "t": "转换；改造",
+    "en": "changing into another form or use"
+  },
+  "bunkers": {
+    "p": "/ˈbʌŋkəz/",
+    "t": "掩体；地堡（复数）",
+    "en": "reinforced shelters, often underground"
+  },
+  "quake": {
+    "p": "/kweɪk/",
+    "t": "地震；震动",
+    "en": "a shaking or tremor, especially an earthquake"
+  },
+  "earthquakeprone": {
+    "p": "/ˈɜːθkweɪk prəʊn/",
+    "t": "易发生地震的",
+    "en": "likely to experience earthquakes"
+  },
+  "volcanoes": {
+    "p": "/vɒlˈkeɪnəʊz/",
+    "t": "火山（复数）",
+    "en": "mountains that erupt lava and gases"
+  },
+  "confirms": {
+    "p": "/kənˈfɜːmz/",
+    "t": "确认；证实",
+    "en": "establishes the truth of something"
+  },
+  "evaluate": {
+    "p": "/ɪˈvæljueɪt/",
+    "t": "评估",
+    "en": "to assess the value or quality of something"
+  },
+  "airflow": {
+    "p": "/ˈeəfləʊ/",
+    "t": "气流",
+    "en": "the movement of air"
+  },
+  "ductworks": {
+    "p": "/ˈdʌktwɜːks/",
+    "t": "管道系统（复数）",
+    "en": "systems of ducts for air or other fluids"
+  },
+  "harbour": {
+    "p": "/ˈhɑːbə/",
+    "t": "港口；庇护所",
+    "en": "a place of shelter for ships; a refuge"
+  },
+  "dwellings": {
+    "p": "/ˈdwelɪŋz/",
+    "t": "住所（复数）",
+    "en": "places where people live"
+  },
+  "lemons": {
+    "p": "/ˈlemənz/",
+    "t": "柠檬（复数）",
+    "en": "yellow citrus fruits"
+  },
+  "renting": {
+    "p": "/ˈrentɪŋ/",
+    "t": "租用",
+    "en": "paying to use something temporarily"
+  },
+  "crates": {
+    "p": "/kreɪts/",
+    "t": "板条箱（复数）",
+    "en": "boxes made of wood or plastic for storage or transport"
+  },
+  "venturing": {
+    "p": "/ˈventʃərɪŋ/",
+    "t": "冒险进入",
+    "en": "going somewhere risky or unfamiliar"
+  },
+  "everwarmer": {
+    "p": "/ˌevəˈwɔːmə/",
+    "t": "越来越暖的",
+    "en": "becoming increasingly warm"
+  },
+  "rockcarved": {
+    "p": "/ˈrɒkkɑːvd/",
+    "t": "岩石雕刻的",
+    "en": "carved out of rock"
+  },
+  "afterthought": {
+    "p": "/ˈɑːftəθɔːt/",
+    "t": "事后想法；后来添加之物",
+    "en": "something added later without prior planning"
+  },
+  "formalise": {
+    "p": "/ˈfɔːməlaɪz/",
+    "t": "使正式化",
+    "en": "to make official or formal"
+  },
+  "deposed": {
+    "p": "/dɪˈpəʊzd/",
+    "t": "被罢免的；废黜的",
+    "en": "removed from office or power"
+  },
+  "crosssection": {
+    "p": "/ˈkrɒsˌsekʃn/",
+    "t": "横截面；剖面",
+    "en": "a section cut across something, or a representative sample"
+  },
+  "wedge": {
+    "p": "/wedʒ/",
+    "t": "楔子；楔形物；楔入",
+    "en": "a piece of material tapering to a thin edge; to force apart"
+  },
+  "usher": {
+    "p": "/ˈʌʃə(r)/",
+    "t": "引座员；引领",
+    "en": "a person who shows people to seats; to guide or introduce"
+  },
+  "steers": {
+    "p": "/stɪəz/",
+    "t": "驾驶；引导；阉公牛",
+    "en": "guides the direction of; castrated bulls"
+  },
+  "businesswoman": {
+    "p": "/ˈbɪznəswʊmən/",
+    "t": "女商人",
+    "en": "a woman engaged in business"
+  },
+  "hawks": {
+    "p": "/hɔːks/",
+    "t": "鹰；主战派",
+    "en": "birds of prey; people favoring aggressive policies"
+  },
+  "populists": {
+    "p": "/ˈpɒpjəlɪsts/",
+    "t": "民粹主义者",
+    "en": "people who claim to represent ordinary people against elites"
+  },
+  "odder": {
+    "p": "/ˈɒdə(r)/",
+    "t": "更奇怪的",
+    "en": "more strange or unusual"
+  },
+  "bedfellows": {
+    "p": "/ˈbedfeləʊz/",
+    "t": "同床者；盟友（常指奇怪的组合）",
+    "en": "companions or allies, often unlikely ones"
+  },
+  "impede": {
+    "p": "/ɪmˈpiːd/",
+    "t": "阻碍；妨碍",
+    "en": "to delay or block progress"
+  },
+  "scoffed": {
+    "p": "/skɒft/",
+    "t": "嘲笑；狼吞虎咽",
+    "en": "mocked; ate greedily"
+  },
+  "irresponsible": {
+    "p": "/ˌɪrɪˈspɒnsəbl/",
+    "t": "不负责任的",
+    "en": "lacking a sense of responsibility"
+  },
+  "badge": {
+    "p": "/bædʒ/",
+    "t": "徽章；标记",
+    "en": "a small emblem or sign of status"
+  },
+  "espionage": {
+    "p": "/ˈespiənɑːʒ/",
+    "t": "间谍活动",
+    "en": "the practice of spying"
+  },
+  "reins": {
+    "p": "/reɪnz/",
+    "t": "缰绳；控制权",
+    "en": "straps for controlling a horse; means of control"
+  },
+  "knives": {
+    "p": "/naɪvz/",
+    "t": "刀（复数）",
+    "en": "plural of knife; cutting instruments"
+  },
+  "testify": {
+    "p": "/ˈtestɪfaɪ/",
+    "t": "作证；证明",
+    "en": "to give evidence in court; to bear witness"
+  },
+  "briefed": {
+    "p": "/briːft/",
+    "t": "简要通报的",
+    "en": "given essential information or instructions"
+  },
+  "antagonizing": {
+    "p": "/ænˈtæɡənaɪzɪŋ/",
+    "t": "使敌对；激怒",
+    "en": "causing someone to become hostile"
+  },
+  "dominate": {
+    "p": "/ˈdɒmɪneɪt/",
+    "t": "支配；占主导",
+    "en": "to have control or power over"
+  },
+  "committees": {
+    "p": "/kəˈmɪtiz/",
+    "t": "委员会（复数）",
+    "en": "groups appointed for a specific function"
+  },
+  "flabbergasted": {
+    "p": "/ˈflæbəɡɑːstɪd/",
+    "t": "目瞪口呆的",
+    "en": "greatly astonished"
+  },
+  "trumping": {
+    "p": "/ˈtrʌmpɪŋ/",
+    "t": "胜过；打出王牌",
+    "en": "surpassing or outdoing; playing a trump card"
+  },
+  "furiously": {
+    "p": "/ˈfjʊəriəsli/",
+    "t": "狂怒地；猛烈地",
+    "en": "in a very angry or violent manner"
+  },
+  "reining": {
+    "p": "/ˈreɪnɪŋ/",
+    "t": "勒住；控制",
+    "en": "checking or controlling, as with reins"
+  },
+  "centerright": {
+    "p": "/ˌsentəˈraɪt/",
+    "t": "中右翼的",
+    "en": "of or relating to moderate conservative politics"
+  },
+  "corruptly": {
+    "p": "/kəˈrʌptli/",
+    "t": "腐败地；贿赂地",
+    "en": "in a dishonest or illegal manner"
+  },
+  "inauguration": {
+    "p": "/ɪˌnɔːɡjəˈreɪʃn/",
+    "t": "就职典礼；开创",
+    "en": "a formal ceremony of induction into office"
+  },
+  "bribery": {
+    "p": "/ˈbraɪbəri/",
+    "t": "贿赂",
+    "en": "the act of offering money or favors to influence"
+  },
+  "smells": {
+    "p": "/smelz/",
+    "t": "气味；闻起来",
+    "en": "odors; perceives by nose"
+  },
+  "chilling": {
+    "p": "/ˈtʃɪlɪŋ/",
+    "t": "令人恐惧的；冷却",
+    "en": "frightening; making cold"
+  },
+  "intheknow": {
+    "p": "/ˌɪnðəˈnəʊ/",
+    "t": "知情的",
+    "en": "having inside information"
+  },
+  "staking": {
+    "p": "/ˈsteɪkɪŋ/",
+    "t": "打赌；桩定；以…押注",
+    "en": "betting or risking; supporting with a stake"
+  },
+  "scrutinize": {
+    "p": "/ˈskruːtənaɪz/",
+    "t": "仔细检查",
+    "en": "to examine closely and critically"
+  },
+  "parameters": {
+    "p": "/pəˈræmɪtəz/",
+    "t": "参数；界限",
+    "en": "limits or boundaries; measurable factors"
+  },
+  "avert": {
+    "p": "/əˈvɜːt/",
+    "t": "避免；转移（目光）",
+    "en": "to prevent; to turn away"
+  },
+  "centralized": {
+    "p": "/ˈsentrəlaɪzd/",
+    "t": "集中的；中央集权的",
+    "en": "concentrated under a single authority"
+  },
+  "rockstar": {
+    "p": "/ˈrɒkstɑː(r)/",
+    "t": "摇滚明星；杰出人物",
+    "en": "a famous rock musician; an outstanding person"
+  },
+  "rooting": {
+    "p": "/ˈruːtɪŋ/",
+    "t": "生根；支持；翻找",
+    "en": "establishing roots; supporting enthusiastically; searching"
   }
 }
