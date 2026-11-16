@@ -275,8 +275,8 @@
       "type": "rss"
     },
     {
-      "name": "ScienceDaily 食品技术",
-      "url": "https://www.sciencedaily.com/rss/plants_animals/food_technology.xml",
+      "name": "ScienceDaily 食品与农业",
+      "url": "https://www.sciencedaily.com/rss/plants_animals/food_and_agriculture.xml",
       "type": "rss"
     },
     {
@@ -285,8 +285,8 @@
       "type": "rss"
     },
     {
-      "name": "ScienceDaily 情绪",
-      "url": "https://www.sciencedaily.com/rss/mind_brain/emotion.xml",
+      "name": "ScienceDaily 心理学",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/psychology.xml",
       "type": "rss"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "name": "Ipsos 英国",
-      "url": "https://www.ipsos.com/en-gb/rss.xml",
+      "url": "https://www.ipsos.com/en-uk/rss.xml",
       "type": "rss"
     },
     {

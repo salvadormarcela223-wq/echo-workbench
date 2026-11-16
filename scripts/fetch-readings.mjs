@@ -80,22 +80,28 @@ async function resolveRealUrl(url) {
 }
 
 async function fetchText(url, timeoutMs) {
-  timeoutMs = timeoutMs || 15000;
-  const ctrl = new AbortController();
-  const t = setTimeout(function () { ctrl.abort(); }, timeoutMs);
-  try {
-    const r = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-      },
-      signal: ctrl.signal,
-    });
-    if (!r.ok) return null;
-    return await r.text();
-  } catch (e) { return null; }
-  finally { clearTimeout(t); }
+  // 凌晨跑时网络慢/对方偶发限流（实测 The Atlantic 连续 2 天凌晨失败、白天秒通）：
+  // 超时放宽到 30 秒并重试 1 次（与 fetch-news 的 getText 多次重试同款待遇）
+  timeoutMs = timeoutMs || 30000;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const ctrl = new AbortController();
+    const t = setTimeout(function () { ctrl.abort(); }, timeoutMs);
+    try {
+      const r = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'Accept-Language': 'en-US,en;q=0.9',
+        },
+        signal: ctrl.signal,
+      });
+      if (!r.ok) return null;
+      return await r.text();
+    } catch (e) { /* 超时/网络失败：隔 3 秒重试一次 */ }
+    finally { clearTimeout(t); }
+    if (attempt === 0) await new Promise((r) => setTimeout(r, 3000));
+  }
+  return null;
 }
 
 // ═══════════════════════════════════════════════════

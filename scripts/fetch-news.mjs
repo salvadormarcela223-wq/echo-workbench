@@ -300,6 +300,10 @@ export async function deriveDate(link) {
       const dm = tt.match(/datetime=["']([^"']+)["']/i);
       if (dm) { const d = new Date(dm[1]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
     }
+    // 中文站点（东方烟草网等）日期不在 meta/time 标签里，页面自带的「发布时间：2026-11-16」字段才是真实发布日
+    // （实测「发布时间：」与日期之间常隔着 </i> 等标签，须允许中间夹标签）
+    const cn = html.match(/发布时间[：:]?(?:<[^>]+>\s*)*(202[0-9]-[0-9]{1,2}-[0-9]{1,2})/);
+    if (cn) { const d = new Date(cn[1]); if (!isNaN(d) && d <= new Date() && d.getFullYear() >= 2015) return d; }
   } catch (e) { }
   return null; // 取不到真实日期就返回 null，由上层决定跳过，绝不拿「今天」冒充发布日
 }
