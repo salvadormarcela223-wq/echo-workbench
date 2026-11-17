@@ -70593,5 +70593,320 @@
     "p": "/ˈruːtɪŋ/",
     "t": "生根；支持；翻找",
     "en": "establishing roots; supporting enthusiastically; searching"
+  },
+  "smoothies": {
+    "p": "/ˈsmuːðiz/",
+    "t": "冰沙，奶昔",
+    "en": "thick blended drinks made from fruit and dairy or juice"
+  },
+  "omelettes": {
+    "p": "/ˈɒmləts/",
+    "t": "煎蛋卷， omelette 的复数",
+    "en": "folded cooked eggs, plural of omelette"
+  },
+  "irondeficient": {
+    "p": "/ˈaɪən dɪˈfɪʃənt/",
+    "t": "缺铁的",
+    "en": "lacking enough iron in the body"
+  },
+  "haemoglobin": {
+    "p": "/ˌhiːməˈɡləʊbɪn/",
+    "t": "血红蛋白",
+    "en": "the red protein in blood that carries oxygen"
+  },
+  "anaemic": {
+    "p": "/əˈniːmɪk/",
+    "t": "贫血的",
+    "en": "suffering from a lack of red blood cells"
+  },
+  "readily": {
+    "p": "/ˈredɪli/",
+    "t": "容易地，迅速地",
+    "en": "easily or quickly"
+  },
+  "seafood": {
+    "p": "/ˈsiːfuːd/",
+    "t": "海鲜",
+    "en": "edible fish and shellfish"
+  },
+  "nonheme": {
+    "p": "/ˌnɒnˈhiːm/",
+    "t": "非血红素（铁）",
+    "en": "relating to iron from plant sources, not haem"
+  },
+  "absorbs": {
+    "p": "/əbˈzɔːbz/",
+    "t": "吸收",
+    "en": "takes in or soaks up a substance"
+  },
+  "trusty": {
+    "p": "/ˈtrʌsti/",
+    "t": "可靠的",
+    "en": "reliable and dependable"
+  },
+  "oxalates": {
+    "p": "/ˈɒksəleɪts/",
+    "t": "草酸盐",
+    "en": "salts of oxalic acid that can block mineral absorption"
+  },
+  "chard": {
+    "p": "/tʃɑːd/",
+    "t": "甜菜叶，莙荙菜",
+    "en": "a leafy green vegetable with broad stalks"
+  },
+  "lettuce": {
+    "p": "/ˈletɪs/",
+    "t": "生菜，莴苣",
+    "en": "a leafy green vegetable eaten in salads"
+  },
+  "leached": {
+    "p": "/liːtʃt/",
+    "t": "被滤除的，浸出的",
+    "en": "removed or washed out by water passing through"
+  },
+  "steamed": {
+    "p": "/stiːmd/",
+    "t": "蒸的",
+    "en": "cooked with steam"
+  },
+  "ironabsorption": {
+    "p": "/ˈaɪən əbˈzɔːpʃən/",
+    "t": "铁吸收",
+    "en": "the uptake of iron by the body"
+  },
+  "enhancer": {
+    "p": "/ɪnˈhɑːnsə/",
+    "t": "增强剂，促进因素",
+    "en": "something that increases or improves an effect"
+  },
+  "squeezing": {
+    "p": "/ˈskwiːzɪŋ/",
+    "t": "挤压，榨取",
+    "en": "pressing or extracting juice from something"
+  },
+  "toast": {
+    "p": "/təʊst/",
+    "t": "烤面包片；烘烤",
+    "en": "bread browned by heat; to brown by heat"
+  },
+  "phytic": {
+    "p": "/ˈfɪtɪk/",
+    "t": "植酸的",
+    "en": "relating to phytic acid, which inhibits mineral absorption"
+  },
+  "breads": {
+    "p": "/bredz/",
+    "t": "面包（复数）",
+    "en": "types of bread, plural of bread"
+  },
+  "cereals": {
+    "p": "/ˈsɪəriəlz/",
+    "t": "谷物，麦片",
+    "en": "grain foods, often eaten at breakfast"
+  },
+  "fortified": {
+    "p": "/ˈfɔːtɪfaɪd/",
+    "t": "强化的，添加营养的",
+    "en": "having extra nutrients added"
+  },
+  "absorbable": {
+    "p": "/əbˈzɔːbəbl/",
+    "t": "可吸收的",
+    "en": "able to be taken in and absorbed"
+  },
+  "unreactive": {
+    "p": "/ˌʌnrɪˈæktɪv/",
+    "t": "不反应的，惰性的",
+    "en": "not readily reacting chemically"
+  },
+  "shelflife": {
+    "p": "/ˈʃelflaɪf/",
+    "t": "保质期",
+    "en": "the length of time a product stays usable"
+  },
+  "steak": {
+    "p": "/steɪk/",
+    "t": "牛排，肉排",
+    "en": "a thick slice of meat, usually beef"
+  },
+  "tannins": {
+    "p": "/ˈtænɪnz/",
+    "t": "单宁",
+    "en": "astringent plant compounds that can inhibit iron absorption"
+  },
+  "phytates": {
+    "p": "/ˈfaɪteɪts/",
+    "t": "植酸盐",
+    "en": "plant compounds that can reduce mineral absorption"
+  },
+  "milligrams": {
+    "p": "/ˈmɪliɡræmz/",
+    "t": "毫克",
+    "en": "units of mass equal to one thousandth of a gram"
+  },
+  "menstruation": {
+    "p": "/ˌmenstruˈeɪʃən/",
+    "t": "月经",
+    "en": "the monthly discharge of blood from the uterus"
+  },
+  "advise": {
+    "p": "/ədˈvaɪz/",
+    "t": "建议，劝告",
+    "en": "to recommend or give advice"
+  },
+  "eradicated": {
+    "p": "/ɪˈrædɪkeɪtɪd/",
+    "t": "根除的；被消灭的",
+    "en": "completely destroyed or eliminated"
+  },
+  "unraveled": {
+    "p": "/ʌnˈrævəld/",
+    "t": "解开的；被弄清的",
+    "en": "unwoven or solved; explained"
+  },
+  "contracted": {
+    "p": "/kənˈtræktɪd/",
+    "t": "感染的；收缩的",
+    "en": "caught (an illness); shrunk"
+  },
+  "elimination": {
+    "p": "/ɪˌlɪmɪˈneɪʃn/",
+    "t": "消除；淘汰",
+    "en": "the act of removing or getting rid of something"
+  },
+  "unquestioned": {
+    "p": "/ʌnˈkwestʃənd/",
+    "t": "毫无疑问的；未受质疑的",
+    "en": "not doubted or disputed"
+  },
+  "almostunthinkable": {
+    "p": "/ˌɔːlməʊst ʌnˈθɪŋkəbl/",
+    "t": "几乎不可想象的",
+    "en": "nearly impossible to imagine"
+  },
+  "needlessly": {
+    "p": "/ˈniːdləsli/",
+    "t": "不必要地",
+    "en": "in an unnecessary manner"
+  },
+  "hauntingly": {
+    "p": "/ˈhɔːntɪŋli/",
+    "t": "萦绕心头地；令人难忘地",
+    "en": "in a way that lingers in the mind"
+  },
+  "surreal": {
+    "p": "/səˈrɪəl/",
+    "t": "超现实的；离奇的",
+    "en": "bizarre; having a dreamlike quality"
+  },
+  "immunizations": {
+    "p": "/ˌɪmjunaɪˈzeɪʃnz/",
+    "t": "免疫接种",
+    "en": "vaccinations that protect against disease"
+  },
+  "antiscience": {
+    "p": "/ˌæntiˈsaɪəns/",
+    "t": "反科学的",
+    "en": "opposed to or rejecting science"
+  },
+  "kindergarteners": {
+    "p": "/ˈkɪndəɡɑːtnəz/",
+    "t": "幼儿园儿童",
+    "en": "children attending kindergarten"
+  },
+  "insular": {
+    "p": "/ˈɪnsjələ/",
+    "t": "狭隘的；与世隔绝的",
+    "en": "narrow-minded; isolated"
+  },
+  "antivaccine": {
+    "p": "/ˌæntiˈvæksiːn/",
+    "t": "反对疫苗的",
+    "en": "opposed to vaccination"
+  },
+  "sincerely": {
+    "p": "/sɪnˈsɪəli/",
+    "t": "真诚地",
+    "en": "in a genuine and honest way"
+  },
+  "reliefs": {
+    "p": "/rɪˈliːfs/",
+    "t": "缓解；浮雕",
+    "en": "alleviations of pain or distress; raised carvings"
+  },
+  "homeschool": {
+    "p": "/ˌhəʊmˈskuːl/",
+    "t": "在家教育",
+    "en": "to educate children at home"
+  },
+  "unvaccinated": {
+    "p": "/ʌnˈvæksɪneɪtɪd/",
+    "t": "未接种疫苗的",
+    "en": "not having received a vaccine"
+  },
+  "unprotected": {
+    "p": "/ˌʌnprəˈtektɪd/",
+    "t": "未受保护的",
+    "en": "not defended or shielded"
+  },
+  "baseball": {
+    "p": "/ˈbeɪsbɔːl/",
+    "t": "棒球",
+    "en": "a bat-and-ball game played between two teams"
+  },
+  "mixing": {
+    "p": "/ˈmɪksɪŋ/",
+    "t": "混合；交往",
+    "en": "combining or mingling together"
+  },
+  "stubbornly": {
+    "p": "/ˈstʌbənli/",
+    "t": "固执地",
+    "en": "in an obstinate manner"
+  },
+  "aftermath": {
+    "p": "/ˈɑːftəmæθ/",
+    "t": "后果；余波",
+    "en": "the consequences or aftereffects of an event"
+  },
+  "convincing": {
+    "p": "/kənˈvɪnsɪŋ/",
+    "t": "有说服力的",
+    "en": "persuasive; able to convince"
+  },
+  "infectiousness": {
+    "p": "/ɪnˈfekʃəsnəs/",
+    "t": "传染性",
+    "en": "the quality of being contagious"
+  },
+  "rashes": {
+    "p": "/ræʃɪz/",
+    "t": "皮疹",
+    "en": "areas of reddened or inflamed skin"
+  },
+  "stamping": {
+    "p": "/ˈstæmpɪŋ/",
+    "t": "跺脚；盖章",
+    "en": "bringing the foot down hard; imprinting a mark"
+  },
+  "eradicate": {
+    "p": "/ɪˈrædɪkeɪt/",
+    "t": "根除；消灭",
+    "en": "to destroy completely"
+  },
+  "measlesfree": {
+    "p": "/ˈmiːzlz friː/",
+    "t": "无麻疹的",
+    "en": "free from measles"
+  },
+  "chastened": {
+    "p": "/ˈtʃeɪsnd/",
+    "t": "受到惩戒的；变得收敛的",
+    "en": "made to feel humbled or restrained by experience"
+  },
+  "needless": {
+    "p": "/ˈniːdləs/",
+    "t": "不必要的",
+    "en": "unnecessary"
   }
 }
