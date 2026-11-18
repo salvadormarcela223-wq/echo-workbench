@@ -70908,5 +70908,535 @@
     "p": "/ˈniːdləs/",
     "t": "不必要的",
     "en": "unnecessary"
+  },
+  "worthy": {
+    "p": "/ˈwɜːði/",
+    "t": "值得的；有价值的",
+    "en": "deserving effort, attention, or respect"
+  },
+  "poopers": {
+    "p": "/ˈpuːpəz/",
+    "t": "拉屎的人（口语）",
+    "en": "people who defecate (informal)"
+  },
+  "fairest": {
+    "p": "/ˈfeərɪst/",
+    "t": "最公平的；最美的",
+    "en": "most fair or beautiful"
+  },
+  "fourthyear": {
+    "p": "/ˌfɔːθˈjɪə/",
+    "t": "第四年的",
+    "en": "of the fourth year"
+  },
+  "difficile": {
+    "p": "/ˈdɪfɪsiːl/",
+    "t": "困难的；难对付的",
+    "en": "difficult; hard to deal with"
+  },
+  "transplant": {
+    "p": "/trænsˈplɑːnt/",
+    "t": "移植",
+    "en": "to transfer an organ or tissue"
+  },
+  "outcompete": {
+    "p": "/ˌaʊtkəmˈpiːt/",
+    "t": "胜过；竞争过",
+    "en": "to surpass in competition"
+  },
+  "burrito": {
+    "p": "/bʊˈriːtəʊ/",
+    "t": "墨西哥卷饼",
+    "en": "a Mexican dish of a rolled tortilla with filling"
+  },
+  "defecated": {
+    "p": "/ˈdefɪkeɪtɪd/",
+    "t": "排便了",
+    "en": "discharged feces"
+  },
+  "basin": {
+    "p": "/ˈbeɪsn/",
+    "t": "盆；水池",
+    "en": "a bowl-shaped container or sink"
+  },
+  "filtered": {
+    "p": "/ˈfɪltəd/",
+    "t": "过滤的",
+    "en": "passed through a filter"
+  },
+  "cotton": {
+    "p": "/ˈkɒtn/",
+    "t": "棉花",
+    "en": "a soft white fibrous substance from the cotton plant"
+  },
+  "gauze": {
+    "p": "/ɡɔːz/",
+    "t": "纱布",
+    "en": "a thin transparent fabric used for dressing wounds"
+  },
+  "draining": {
+    "p": "/ˈdreɪnɪŋ/",
+    "t": "排水；排液",
+    "en": "causing liquid to flow away"
+  },
+  "sprayed": {
+    "p": "/spreɪd/",
+    "t": "喷洒了",
+    "en": "scattered liquid in small drops"
+  },
+  "colonoscopy": {
+    "p": "/ˌkəʊləˈnɒskəpi/",
+    "t": "结肠镜检查",
+    "en": "examination of the colon with a scope"
+  },
+  "gastroenterologist": {
+    "p": "/ˌɡæstrəʊentəˈrɒlədʒɪst/",
+    "t": "胃肠病学家",
+    "en": "a doctor specializing in the digestive system"
+  },
+  "microbota": {
+    "p": "/maɪˈkrəʊbəʊtə/",
+    "t": "微生物群（变体拼写）",
+    "en": "microbiota; the microorganisms of a habitat"
+  },
+  "irritable": {
+    "p": "/ˈɪrɪtəbl/",
+    "t": "易怒的；过敏的",
+    "en": "easily annoyed; abnormally sensitive"
+  },
+  "orally": {
+    "p": "/ˈɔːrəli/",
+    "t": "口服地；口头地",
+    "en": "by mouth; verbally"
+  },
+  "encapsulated": {
+    "p": "/ɪnˈkæpsjuleɪtɪd/",
+    "t": "被包封的",
+    "en": "enclosed in a capsule or shell"
+  },
+  "fastidious": {
+    "p": "/fæˈstɪdiəs/",
+    "t": "挑剔的；苛求的",
+    "en": "very attentive to detail; hard to please"
+  },
+  "colloquially": {
+    "p": "/kəˈləʊkwiəli/",
+    "t": "口语地；通俗地",
+    "en": "in informal speech"
+  },
+  "pinnacle": {
+    "p": "/ˈpɪnəkl/",
+    "t": "顶峰；顶点",
+    "en": "the highest point"
+  },
+  "defecators": {
+    "p": "/ˈdefɪkeɪtəz/",
+    "t": "排便者",
+    "en": "those who defecate"
+  },
+  "wringer": {
+    "p": "/ˈrɪŋə/",
+    "t": "绞干机；榨干机",
+    "en": "a device for squeezing water from clothes"
+  },
+  "donating": {
+    "p": "/dəʊˈneɪtɪŋ/",
+    "t": "捐献",
+    "en": "giving something for a good cause"
+  },
+  "parasites": {
+    "p": "/ˈpærəsaɪts/",
+    "t": "寄生虫",
+    "en": "organisms living on or in a host"
+  },
+  "multidrugresistant": {
+    "p": "/ˌmʌltiˌdrʌɡrɪˈzɪstənt/",
+    "t": "多重耐药的",
+    "en": "resistant to multiple drugs"
+  },
+  "flush": {
+    "p": "/flʌʃ/",
+    "t": "冲水；冲洗",
+    "en": "to cleanse with a flow of water"
+  },
+  "multivitamins": {
+    "p": "/ˌmʌltiˈvɪtəmɪnz/",
+    "t": "多种维生素",
+    "en": "supplements containing several vitamins"
+  },
+  "microbiologist": {
+    "p": "/ˌmaɪkrəʊbaɪˈɒlədʒɪst/",
+    "t": "微生物学家",
+    "en": "a scientist who studies microorganisms"
+  },
+  "nutfree": {
+    "p": "/ˈnʌtfriː/",
+    "t": "不含坚果的",
+    "en": "containing no nuts"
+  },
+  "healthily": {
+    "p": "/ˈhelθɪli/",
+    "t": "健康地",
+    "en": "in a healthy manner"
+  },
+  "obese": {
+    "p": "/əʊˈbiːs/",
+    "t": "肥胖的",
+    "en": "very overweight"
+  },
+  "overweight": {
+    "p": "/ˌəʊvəˈweɪt/",
+    "t": "超重的",
+    "en": "above normal weight"
+  },
+  "drugresistant": {
+    "p": "/ˌdrʌɡrɪˈzɪstənt/",
+    "t": "耐药的",
+    "en": "resistant to drugs"
+  },
+  "retained": {
+    "p": "/rɪˈteɪnd/",
+    "t": "保留的；滞留的",
+    "en": "kept or held in place"
+  },
+  "pooping": {
+    "p": "/ˈpuːpɪŋ/",
+    "t": "排便（口语）",
+    "en": "defecating (informal)"
+  },
+  "transplantation": {
+    "p": "/ˌtrænsplɑːnˈteɪʃn/",
+    "t": "移植",
+    "en": "the process of transplanting"
+  },
+  "blends": {
+    "p": "/blendz/",
+    "t": "混合物；混合",
+    "en": "mixtures; combines"
+  },
+  "slurry": {
+    "p": "/ˈslʌri/",
+    "t": "泥浆；浆液",
+    "en": "a semi-liquid mixture"
+  },
+  "meshes": {
+    "p": "/ˈmeʃɪz/",
+    "t": "网眼；网筛",
+    "en": "networks of mesh"
+  },
+  "dissolves": {
+    "p": "/dɪˈzɒlvz/",
+    "t": "溶解",
+    "en": "becomes incorporated into a liquid"
+  },
+  "freezing": {
+    "p": "/ˈfriːzɪŋ/",
+    "t": "冷冻；极冷的",
+    "en": "very cold; the act of freezing"
+  },
+  "recurrent": {
+    "p": "/rɪˈkʌrənt/",
+    "t": "反复发生的",
+    "en": "occurring repeatedly"
+  },
+  "ulcerative": {
+    "p": "/ˈʌlsərətɪv/",
+    "t": "溃疡性的",
+    "en": "relating to ulcers"
+  },
+  "colitis": {
+    "p": "/kəˈlaɪtɪs/",
+    "t": "结肠炎",
+    "en": "inflammation of the colon"
+  },
+  "prausnitzii": {
+    "p": "/praʊsˈnɪtsiaɪ/",
+    "t": "普拉梭菌（菌种名）",
+    "en": "a species of gut bacterium"
+  },
+  "butyrate": {
+    "p": "/ˈbjuːtɪreɪt/",
+    "t": "丁酸盐",
+    "en": "a salt of butyric acid"
+  },
+  "pooper": {
+    "p": "/ˈpuːpə/",
+    "t": "拉屎的人（口语）",
+    "en": "one who defecates (informal)"
+  },
+  "finest": {
+    "p": "/ˈfaɪnɪst/",
+    "t": "最好的；最精细的",
+    "en": "of the highest quality"
+  },
+  "superpoopers": {
+    "p": "/ˈsuːpəpuːpəz/",
+    "t": "超级排便者（口语）",
+    "en": "exceptional defecators (informal)"
+  },
+  "unpredictability": {
+    "p": "/ˌʌnprɪˌdɪktəˈbɪləti/",
+    "t": "不可预测性",
+    "en": "the quality of being unpredictable"
+  },
+  "standardised": {
+    "p": "/ˈstændədaɪzd/",
+    "t": "标准化的",
+    "en": "made to conform to a standard"
+  },
+  "enema": {
+    "p": "/ˈenəmə/",
+    "t": "灌肠",
+    "en": "injection of liquid into the rectum"
+  },
+  "pills": {
+    "p": "/pɪlz/",
+    "t": "药丸",
+    "en": "small round doses of medicine"
+  },
+  "spores": {
+    "p": "/spɔːz/",
+    "t": "孢子",
+    "en": "reproductive cells of fungi or bacteria"
+  },
+  "manufactured": {
+    "p": "/ˌmænjuˈfæktʃəd/",
+    "t": "制造的",
+    "en": "made industrially"
+  },
+  "fingernails": {
+    "p": "/ˈfɪŋɡəneɪlz/",
+    "t": "手指甲",
+    "en": "nails on the fingers"
+  },
+  "earwax": {
+    "p": "/ˈɪəwæks/",
+    "t": "耳垢",
+    "en": "a waxy substance secreted in the ear"
+  },
+  "microbiomebased": {
+    "p": "/ˌmaɪkrəʊˈbaɪəʊmbeɪst/",
+    "t": "基于微生物组的",
+    "en": "based on the microbiome"
+  },
+  "manipulates": {
+    "p": "/məˈnɪpjuleɪts/",
+    "t": "操纵；控制",
+    "en": "controls or influences skillfully"
+  },
+  "ultra": {
+    "p": "/ˈʌltrə/",
+    "t": "极端的；超的",
+    "en": "extreme; beyond"
+  },
+  "plantderived": {
+    "p": "/ˈplɑːntdɪˌraɪvd/",
+    "t": "植物来源的",
+    "en": "obtained from plants"
+  },
+  "rainforests": {
+    "p": "/ˈreɪnfɒrɪsts/",
+    "t": "雨林",
+    "en": "dense forests with heavy rainfall"
+  },
+  "unfinished": {
+    "p": "/ʌnˈfɪnɪʃt/",
+    "t": "未完成的",
+    "en": "not completed"
+  },
+  "farfetched": {
+    "p": "/ˌfɑːˈfetʃt/",
+    "t": "牵强的",
+    "en": "improbable or unconvincing"
+  },
+  "nonproliferation": {
+    "p": "/ˌnɒnprəˌlɪfəˈreɪʃn/",
+    "t": "防扩散",
+    "en": "prevention of the spread of nuclear weapons"
+  },
+  "freed": {
+    "p": "/friːd/",
+    "t": "释放了的",
+    "en": "released from captivity or restraint"
+  },
+  "declassifying": {
+    "p": "/ˌdiːˈklæsɪfaɪɪŋ/",
+    "t": "解密",
+    "en": "making previously secret information public"
+  },
+  "transparency": {
+    "p": "/trænsˈpærənsi/",
+    "t": "透明度",
+    "en": "openness and ease of understanding"
+  },
+  "collectively": {
+    "p": "/kəˈlektɪvli/",
+    "t": "集体地",
+    "en": "as a group; together"
+  },
+  "inspect": {
+    "p": "/ɪnˈspekt/",
+    "t": "检查",
+    "en": "examine closely"
+  },
+  "audits": {
+    "p": "/ˈɔːdɪts/",
+    "t": "审计",
+    "en": "official inspections of accounts or processes"
+  },
+  "unintuitively": {
+    "p": "/ˌʌnɪnˈtjuːɪtɪvli/",
+    "t": "违反直觉地",
+    "en": "in a way contrary to intuition"
+  },
+  "aviation": {
+    "p": "/ˌeɪviˈeɪʃn/",
+    "t": "航空",
+    "en": "the operation of aircraft"
+  },
+  "largescale": {
+    "p": "/ˌlɑːdʒˈskeɪl/",
+    "t": "大规模的",
+    "en": "extensive in size or scope"
+  },
+  "schemes": {
+    "p": "/skiːmz/",
+    "t": "计划；方案",
+    "en": "plans or arrangements"
+  },
+  "enforced": {
+    "p": "/ɪnˈfɔːst/",
+    "t": "强制执行的",
+    "en": "compelled to be obeyed"
+  },
+  "goodfaith": {
+    "p": "/ˌɡʊdˈfeɪθ/",
+    "t": "善意的",
+    "en": "honest and sincere in intent"
+  },
+  "restraint": {
+    "p": "/rɪˈstreɪnt/",
+    "t": "克制",
+    "en": "self-control or limitation"
+  },
+  "airstrikes": {
+    "p": "/ˈeəstraɪks/",
+    "t": "空袭",
+    "en": "attacks by aircraft"
+  },
+  "bestlaid": {
+    "p": "/ˌbestˈleɪd/",
+    "t": "精心策划的",
+    "en": "carefully planned"
+  },
+  "disarmament": {
+    "p": "/dɪsˈɑːməmənt/",
+    "t": "裁军",
+    "en": "reduction of military forces and weapons"
+  },
+  "crumbled": {
+    "p": "/ˈkrʌmbld/",
+    "t": "崩溃了的",
+    "en": "broken into pieces; collapsed"
+  },
+  "expired": {
+    "p": "/ɪkˈspaɪəd/",
+    "t": "到期的",
+    "en": "no longer valid"
+  },
+  "tripled": {
+    "p": "/ˈtrɪpld/",
+    "t": "增至三倍",
+    "en": "increased threefold"
+  },
+  "unaddressed": {
+    "p": "/ˌʌnəˈdrest/",
+    "t": "未处理的",
+    "en": "not dealt with"
+  },
+  "normentrepreneurship": {
+    "p": "/ˌnɔːmentrəprəˈnɜːʃɪp/",
+    "t": "规范创业",
+    "en": "entrepreneurship in creating norms"
+  },
+  "declassifies": {
+    "p": "/ˌdiːˈklæsɪfaɪz/",
+    "t": "解密",
+    "en": "makes previously secret information public"
+  },
+  "regarding": {
+    "p": "/rɪˈɡɑːdɪŋ/",
+    "t": "关于",
+    "en": "concerning"
+  },
+  "stockpile": {
+    "p": "/ˈstɒkpaɪl/",
+    "t": "储备",
+    "en": "a large accumulated supply"
+  },
+  "inventories": {
+    "p": "/ˈɪnvəntriz/",
+    "t": "清单；库存",
+    "en": "detailed lists of items"
+  },
+  "distinguishing": {
+    "p": "/dɪˈstɪŋɡwɪʃɪŋ/",
+    "t": "区分",
+    "en": "recognizing a difference"
+  },
+  "initiate": {
+    "p": "/ɪˈnɪʃieɪt/",
+    "t": "发起",
+    "en": "begin or start"
+  },
+  "retested": {
+    "p": "/ˌriːˈtestɪd/",
+    "t": "重新测试",
+    "en": "tested again"
+  },
+  "dangerouscapability": {
+    "p": "/ˈdeɪndʒərəs kəˌpæˈbɪləti/",
+    "t": "危险能力",
+    "en": "a hazardous ability or power"
+  },
+  "summaries": {
+    "p": "/ˈsʌməriz/",
+    "t": "摘要",
+    "en": "brief statements of main points"
+  },
+  "assisting": {
+    "p": "/əˈsɪstɪŋ/",
+    "t": "协助",
+    "en": "helping"
+  },
+  "autonomously": {
+    "p": "/ɔːˈtɒnəməsli/",
+    "t": "自主地",
+    "en": "independently, without external control"
+  },
+  "deployers": {
+    "p": "/dɪˈplɔɪəz/",
+    "t": "部署者",
+    "en": "those who deploy something"
+  },
+  "notify": {
+    "p": "/ˈnəʊtɪfaɪ/",
+    "t": "通知",
+    "en": "inform officially"
+  },
+  "regulator": {
+    "p": "/ˈreɡjuleɪtə(r)/",
+    "t": "监管机构",
+    "en": "an official body that supervises an activity"
+  },
+  "withholding": {
+    "p": "/wɪðˈhəʊldɪŋ/",
+    "t": "扣留",
+    "en": "refusing to give or reveal"
+  },
+  "descending": {
+    "p": "/dɪˈsendɪŋ/",
+    "t": "下降的",
+    "en": "going downwards"
   }
 }
