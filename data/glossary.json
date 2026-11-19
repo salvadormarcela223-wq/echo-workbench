@@ -71438,5 +71438,455 @@
     "p": "/dɪˈsendɪŋ/",
     "t": "下降的",
     "en": "going downwards"
+  },
+  "backs": {
+    "p": "/bæks/",
+    "t": "背部；支持（back的复数/第三人称单数）",
+    "en": "plural of back; supports"
+  },
+  "galloped": {
+    "p": "/ˈɡæləpt/",
+    "t": "（马）疾驰；飞奔（过去式）",
+    "en": "ran fast (of a horse); hurried"
+  },
+  "stables": {
+    "p": "/ˈsteɪblz/",
+    "t": "马厩（复数）",
+    "en": "buildings where horses are kept"
+  },
+  "raining": {
+    "p": "/ˈreɪnɪŋ/",
+    "t": "下雨（现在分词）",
+    "en": "falling as rain"
+  },
+  "elegant": {
+    "p": "/ˈelɪɡənt/",
+    "t": "优雅的；简洁的",
+    "en": "graceful and stylish; pleasingly simple"
+  },
+  "worldfirst": {
+    "p": "/ˌwɜːldˈfɜːst/",
+    "t": "世界首创",
+    "en": "the first of its kind in the world"
+  },
+  "readying": {
+    "p": "/ˈrediɪŋ/",
+    "t": "准备（现在分词）",
+    "en": "making ready; preparing"
+  },
+  "jockey": {
+    "p": "/ˈdʒɒki/",
+    "t": "赛马骑师",
+    "en": "a person who rides horses in races"
+  },
+  "assistanttrainer": {
+    "p": "/əˈsɪstənt ˈtreɪnə/",
+    "t": "助理教练",
+    "en": "a person who assists a trainer"
+  },
+  "elasticated": {
+    "p": "/ɪˈlæstɪkeɪtɪd/",
+    "t": "有弹性的；松紧的",
+    "en": "made elastic, having elastic inserted"
+  },
+  "mares": {
+    "p": "/meəz/",
+    "t": "母马（复数）",
+    "en": "female horses"
+  },
+  "flashes": {
+    "p": "/ˈflæʃɪz/",
+    "t": "闪光；闪现（复数/第三人称单数）",
+    "en": "sudden bright lights; brief appearances"
+  },
+  "wicking": {
+    "p": "/ˈwɪkɪŋ/",
+    "t": "吸湿排汗（的）",
+    "en": "absorbing and drawing away moisture"
+  },
+  "rubberised": {
+    "p": "/ˈrʌbəraɪzd/",
+    "t": "涂橡胶的；橡胶处理的",
+    "en": "coated or treated with rubber"
+  },
+  "electrodes": {
+    "p": "/ɪˈlektrəʊdz/",
+    "t": "电极（复数）",
+    "en": "conductors through which electricity enters or leaves"
+  },
+  "sends": {
+    "p": "/sendz/",
+    "t": "发送；派遣（第三人称单数）",
+    "en": "causes to go; dispatches"
+  },
+  "electrocardiogram": {
+    "p": "/ɪˌlektrəʊˈkɑːdiəɡræm/",
+    "t": "心电图",
+    "en": "a record of the heart's electrical activity"
+  },
+  "graphs": {
+    "p": "/ɡrɑːfs/",
+    "t": "图表（复数）",
+    "en": "diagrams showing data"
+  },
+  "unspoken": {
+    "p": "/ʌnˈspəʊkən/",
+    "t": "未说出口的；默契的",
+    "en": "not expressed in words"
+  },
+  "trainers": {
+    "p": "/ˈtreɪnəz/",
+    "t": "教练；训练者（复数）",
+    "en": "people who train others or animals"
+  },
+  "lightweight": {
+    "p": "/ˈlaɪtweɪt/",
+    "t": "轻量的；轻量级",
+    "en": "weighing less than average"
+  },
+  "racecourses": {
+    "p": "/ˈreɪskɔːsɪz/",
+    "t": "赛马场（复数）",
+    "en": "tracks where horse races are held"
+  },
+  "cardiological": {
+    "p": "/ˌkɑːdiəˈlɒdʒɪkl/",
+    "t": "心脏病学的",
+    "en": "relating to the study of the heart"
+  },
+  "cardiology": {
+    "p": "/ˌkɑːdiˈɒlədʒi/",
+    "t": "心脏病学",
+    "en": "the branch of medicine dealing with the heart"
+  },
+  "heartbeats": {
+    "p": "/ˈhɑːtbiːts/",
+    "t": "心跳（复数）",
+    "en": "pulsations of the heart"
+  },
+  "abnormalities": {
+    "p": "/ˌæbnɔːˈmælətiz/",
+    "t": "异常（复数）",
+    "en": "irregularities; departures from normal"
+  },
+  "horseracings": {
+    "p": "/ˈhɔːsreɪsɪŋz/",
+    "t": "赛马运动（复数，罕见）",
+    "en": "the sport of racing horses"
+  },
+  "racecourse": {
+    "p": "/ˈreɪskɔːs/",
+    "t": "赛马场",
+    "en": "a track where horse races are held"
+  },
+  "jockeys": {
+    "p": "/ˈdʒɒkiz/",
+    "t": "赛马骑师（复数）",
+    "en": "people who ride horses in races"
+  },
+  "spectators": {
+    "p": "/spekˈteɪtəz/",
+    "t": "观众（复数）",
+    "en": "people who watch an event"
+  },
+  "abnormality": {
+    "p": "/ˌæbnɔːˈmæləti/",
+    "t": "异常；反常",
+    "en": "an irregularity; something abnormal"
+  },
+  "postmortem": {
+    "p": "/ˌpəʊstˈmɔːtəm/",
+    "t": "尸检；事后分析",
+    "en": "an examination after death; a review after an event"
+  },
+  "equine": {
+    "p": "/ˈekwaɪn/",
+    "t": "马的；马科的",
+    "en": "relating to horses"
+  },
+  "cardiologists": {
+    "p": "/ˌkɑːdiˈɒlədʒɪsts/",
+    "t": "心脏病专家（复数）",
+    "en": "doctors specializing in the heart"
+  },
+  "racehorses": {
+    "p": "/ˈreɪshɔːsɪz/",
+    "t": "赛马（复数）",
+    "en": "horses bred and trained for racing"
+  },
+  "heartbeat": {
+    "p": "/ˈhɑːtbiːt/",
+    "t": "心跳",
+    "en": "the pulsation of the heart"
+  },
+  "atrial": {
+    "p": "/ˈeɪtriəl/",
+    "t": "心房的",
+    "en": "relating to the heart's atria"
+  },
+  "fibrillation": {
+    "p": "/ˌfaɪbrɪˈleɪʃn/",
+    "t": "纤维性颤动",
+    "en": "rapid irregular contractions of heart muscle"
+  },
+  "stethoscope": {
+    "p": "/ˈsteθəskəʊp/",
+    "t": "听诊器",
+    "en": "an instrument for listening to the heart and lungs"
+  },
+  "exerciseassociated": {
+    "p": "/ˈeksəsaɪz əˈsəʊʃieɪtɪd/",
+    "t": "与运动相关的",
+    "en": "associated with exercise"
+  },
+  "arrhythmias": {
+    "p": "/əˈrɪðmɪəz/",
+    "t": "心律失常（复数）",
+    "en": "irregular heart rhythms"
+  },
+  "racetrack": {
+    "p": "/ˈreɪstræk/",
+    "t": "赛马跑道",
+    "en": "a track for racing"
+  },
+  "finetuning": {
+    "p": "/ˌfaɪnˈtjuːnɪŋ/",
+    "t": "微调",
+    "en": "making small adjustments for better performance"
+  },
+  "rider": {
+    "p": "/ˈraɪdə/",
+    "t": "骑手",
+    "en": "a person who rides a horse"
+  },
+  "trainer": {
+    "p": "/ˈtreɪnə/",
+    "t": "教练；驯马师",
+    "en": "a person who trains people or animals"
+  },
+  "rugby": {
+    "p": "/ˈrʌɡbi/",
+    "t": "橄榄球",
+    "en": "a sport played with an oval ball"
+  },
+  "sensor": {
+    "p": "/ˈsensə/",
+    "t": "传感器",
+    "en": "a device that detects and responds to a signal"
+  },
+  "racetracks": {
+    "p": "/ˈreɪstræks/",
+    "t": "赛马跑道（复数）",
+    "en": "tracks for racing"
+  },
+  "guesswork": {
+    "p": "/ˈɡeswɜːk/",
+    "t": "猜测；臆测",
+    "en": "the process of guessing"
+  },
+  "athletically": {
+    "p": "/æθˈletɪkli/",
+    "t": "运动地；健壮地",
+    "en": "in an athletic manner"
+  },
+  "cautions": {
+    "p": "/ˈkɔːʃnz/",
+    "t": "警告；谨慎（复数/第三人称单数）",
+    "en": "warnings; acts of care"
+  },
+  "exerciserelated": {
+    "p": "/ˈeksəsaɪz rɪˈleɪtɪd/",
+    "t": "与运动相关的",
+    "en": "related to exercise"
+  },
+  "gallops": {
+    "p": "/ˈɡæləps/",
+    "t": "疾驰；飞奔（复数/第三人称单数）",
+    "en": "fast runs of a horse; runs fast"
+  },
+  "bossman": {
+    "p": "/ˈbɒsmæn/",
+    "t": "老板；头儿（口语）",
+    "en": "a boss or leader (informal)"
+  },
+  "leaps": {
+    "p": "/liːps/",
+    "t": "跳跃（复数/第三人称单数）",
+    "en": "jumps; springs"
+  },
+  "rushes": {
+    "p": "/ˈrʌʃɪz/",
+    "t": "冲；匆忙（复数/第三人称单数）",
+    "en": "moves quickly; hurries"
+  },
+  "protector": {
+    "p": "/prəˈtektə/",
+    "t": "保护者；防护装置",
+    "en": "a person or thing that protects"
+  },
+  "smeared": {
+    "p": "/smɪəd/",
+    "t": "涂抹；弄脏（过去式）",
+    "en": "spread or rubbed messily over a surface"
+  },
+  "palpable": {
+    "p": "/ˈpælpəbl/",
+    "t": "明显的；可触知的",
+    "en": "so intense as to seem tangible; noticeable"
+  },
+  "unmanned": {
+    "p": "/ʌnˈmænd/",
+    "t": "无人的；无人驾驶的",
+    "en": "not having a crew; operated without people"
+  },
+  "spirits": {
+    "p": "/ˈspɪrɪts/",
+    "t": "情绪；精神（复数）",
+    "en": "moods; state of mind"
+  },
+  "longerlasting": {
+    "p": "/ˌlɒŋɡəˈlɑːstɪŋ/",
+    "t": "更持久的",
+    "en": "lasting for a longer time"
+  },
+  "linger": {
+    "p": "/ˈlɪŋɡə/",
+    "t": "逗留；徘徊",
+    "en": "stay in a place longer than necessary"
+  },
+  "automated": {
+    "p": "/ˈɔːtəmeɪtɪd/",
+    "t": "自动化的",
+    "en": "operated by automatic equipment"
+  },
+  "overdependent": {
+    "p": "/ˌəʊvədɪˈpendənt/",
+    "t": "过度依赖的",
+    "en": "excessively reliant on something"
+  },
+  "paycheck": {
+    "p": "/ˈpeɪtʃek/",
+    "t": "薪水支票；工资",
+    "en": "a check or payment of wages"
+  },
+  "childless": {
+    "p": "/ˈtʃaɪldləs/",
+    "t": "无子女的",
+    "en": "having no children"
+  },
+  "earning": {
+    "p": "/ˈɜːnɪŋ/",
+    "t": "赚取；收入",
+    "en": "the act of gaining money; income"
+  },
+  "earners": {
+    "p": "/ˈɜːnəz/",
+    "t": "挣钱者；收入者",
+    "en": "people who earn money"
+  },
+  "parenthood": {
+    "p": "/ˈpeərənthʊd/",
+    "t": "父母身份；育儿",
+    "en": "the state of being a parent"
+  },
+  "homeownership": {
+    "p": "/ˈhəʊməʊnəʃɪp/",
+    "t": "房屋所有权",
+    "en": "the state of owning a home"
+  },
+  "pandemicera": {
+    "p": "/pænˈdemɪk ˈɪərə/",
+    "t": "疫情时代",
+    "en": "the period of a pandemic"
+  },
+  "stimulus": {
+    "p": "/ˈstɪmjələs/",
+    "t": "刺激；刺激物",
+    "en": "something that prompts action or growth"
+  },
+  "relieving": {
+    "p": "/rɪˈliːvɪŋ/",
+    "t": "缓解的；减轻的",
+    "en": "reducing pain or distress"
+  },
+  "earnings": {
+    "p": "/ˈɜːnɪŋz/",
+    "t": "收入；收益",
+    "en": "money earned from work or investments"
+  },
+  "intrigued": {
+    "p": "/ɪnˈtriːɡd/",
+    "t": "好奇的；被吸引的",
+    "en": "aroused curiosity or interest"
+  },
+  "prospectively": {
+    "p": "/prəˈspektɪvli/",
+    "t": "前瞻性地；预期地",
+    "en": "in a forward-looking manner"
+  },
+  "vitamins": {
+    "p": "/ˈvɪtəmɪnz/",
+    "t": "维生素",
+    "en": "organic compounds essential for health"
+  },
+  "checklists": {
+    "p": "/ˈtʃeklɪsts/",
+    "t": "清单；核对表",
+    "en": "lists of items to be checked"
+  },
+  "capstone": {
+    "p": "/ˈkæpstəʊn/",
+    "t": "顶点；压顶石；毕业项目",
+    "en": "a crowning achievement or final project"
+  },
+  "wealthier": {
+    "p": "/ˈwelθiə/",
+    "t": "更富有的",
+    "en": "more wealthy"
+  },
+  "lifestyles": {
+    "p": "/ˈlaɪfstaɪlz/",
+    "t": "生活方式",
+    "en": "ways of living"
+  },
+  "wrinkle": {
+    "p": "/ˈrɪŋkl/",
+    "t": "皱纹；小问题",
+    "en": "a small crease or minor problem"
+  },
+  "nevermarried": {
+    "p": "/ˈnevə ˈmærid/",
+    "t": "从未结婚的",
+    "en": "having never been married"
+  },
+  "favorably": {
+    "p": "/ˈfeɪvərəbli/",
+    "t": "有利地；赞同地",
+    "en": "in a positive or approving way"
+  },
+  "witnessing": {
+    "p": "/ˈwɪtnəsɪŋ/",
+    "t": "目睹；见证",
+    "en": "seeing something happen"
+  },
+  "hardship": {
+    "p": "/ˈhɑːdʃɪp/",
+    "t": "艰难；困苦",
+    "en": "severe suffering or difficulty"
+  },
+  "hardships": {
+    "p": "/ˈhɑːdʃɪps/",
+    "t": "艰难困苦",
+    "en": "severe sufferings or difficulties"
+  },
+  "decently": {
+    "p": "/ˈdiːsntli/",
+    "t": "体面地；相当好地",
+    "en": "in a respectable or adequate manner"
+  },
+  "router": {
+    "p": "/ˈruːtə/",
+    "t": "路由器",
+    "en": "a device that forwards data between networks"
   }
 }
