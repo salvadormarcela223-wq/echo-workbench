@@ -71888,5 +71888,210 @@
     "p": "/ˈruːtə/",
     "t": "路由器",
     "en": "a device that forwards data between networks"
+  },
+  "sirens": {
+    "p": "/ˈsaɪərənz/",
+    "t": "塞壬；警报器",
+    "en": "Sea nymphs whose singing lured sailors to destruction; devices making a loud wailing sound"
+  },
+  "mirage": {
+    "p": "/ˈmɪrɑːʒ/",
+    "t": "海市蜃楼；幻象",
+    "en": "An optical illusion of water in a desert; something illusory and unattainable"
+  },
+  "unrepresentative": {
+    "p": "/ˌʌnreprɪˈzentətɪv/",
+    "t": "不具代表性的",
+    "en": "Not typical of or adequately representing a group or whole"
+  },
+  "reassurance": {
+    "p": "/ˌriːəˈʃʊərəns/",
+    "t": "安慰；保证",
+    "en": "Words or actions that remove someone's doubts or fears"
+  },
+  "promotes": {
+    "p": "/prəˈməʊts/",
+    "t": "促进；晋升；推销",
+    "en": "Helps to advance, raises in rank, or advertises a product"
+  },
+  "vetting": {
+    "p": "/ˈvetɪŋ/",
+    "t": "审查；审核",
+    "en": "The process of carefully examining someone or something for suitability"
+  },
+  "illusions": {
+    "p": "/ɪˈluːʒnz/",
+    "t": "错觉；幻想",
+    "en": "False impressions of reality; deceptive appearances or beliefs"
+  },
+  "storewide": {
+    "p": "/ˈstɔːwaɪd/",
+    "t": "全店范围的",
+    "en": "Affecting or applying to all goods or areas of a store"
+  },
+  "mediumsized": {
+    "p": "/ˈmiːdiəm saɪzd/",
+    "t": "中等大小的",
+    "en": "Of a size between small and large"
+  },
+  "applicable": {
+    "p": "/əˈplɪkəbl/",
+    "t": "适用的；可应用的",
+    "en": "Relevant or able to be applied to a particular situation"
+  },
+  "shockingly": {
+    "p": "/ˈʃɒkɪŋli/",
+    "t": "令人震惊地",
+    "en": "in a shocking manner"
+  },
+  "heists": {
+    "p": "/haɪsts/",
+    "t": "抢劫案",
+    "en": "robberies, especially of valuables"
+  },
+  "eternity": {
+    "p": "/ɪˈtɜːnəti/",
+    "t": "永恒",
+    "en": "infinite time; endless duration"
+  },
+  "pelicans": {
+    "p": "/ˈpelɪkənz/",
+    "t": "鹈鹕",
+    "en": "large water birds with a throat pouch"
+  },
+  "manatees": {
+    "p": "/ˌmænəˈtiːz/",
+    "t": "海牛",
+    "en": "large aquatic plant-eating mammals"
+  },
+  "logbook": {
+    "p": "/ˈlɒɡbʊk/",
+    "t": "日志簿",
+    "en": "a book for recording events or data"
+  },
+  "catnip": {
+    "p": "/ˈkætnɪp/",
+    "t": "猫薄荷",
+    "en": "a plant that attracts cats"
+  },
+  "sprees": {
+    "p": "/spriːz/",
+    "t": "狂欢",
+    "en": "periods of unrestrained activity"
+  },
+  "protagonists": {
+    "p": "/prəˈtæɡənɪsts/",
+    "t": "主角",
+    "en": "main characters in a story"
+  },
+  "richest": {
+    "p": "/ˈrɪtʃɪst/",
+    "t": "最富有的",
+    "en": "having the most wealth"
+  },
+  "terrestrial": {
+    "p": "/təˈrestriəl/",
+    "t": "陆地的",
+    "en": "relating to the land or earth"
+  },
+  "migratory": {
+    "p": "/ˈmaɪɡrətri/",
+    "t": "迁徙的",
+    "en": "moving seasonally from one region to another"
+  },
+  "immersive": {
+    "p": "/ɪˈmɜːsɪv/",
+    "t": "沉浸式的",
+    "en": "providing deep involvement or engagement"
+  },
+  "bioluminescence": {
+    "p": "/ˌbaɪəʊˌluːmɪˈnesns/",
+    "t": "生物发光",
+    "en": "light produced by living organisms"
+  },
+  "feather": {
+    "p": "/ˈfeðə/",
+    "t": "羽毛",
+    "en": "one of the light structures covering a bird"
+  },
+  "depicting": {
+    "p": "/dɪˈpɪktɪŋ/",
+    "t": "描绘",
+    "en": "representing in a picture or words"
+  },
+  "rendered": {
+    "p": "/ˈrendəd/",
+    "t": "渲染；呈现",
+    "en": "caused to be; represented or depicted"
+  },
+  "biomes": {
+    "p": "/ˈbaɪəʊmz/",
+    "t": "生物群落",
+    "en": "large ecological communities of plants and animals"
+  },
+  "environs": {
+    "p": "/ɪnˈvaɪrənz/",
+    "t": "周围地区",
+    "en": "the surrounding area"
+  },
+  "wetland": {
+    "p": "/ˈwetlənd/",
+    "t": "湿地",
+    "en": "land covered with shallow water"
+  },
+  "swamps": {
+    "p": "/swɒmps/",
+    "t": "沼泽",
+    "en": "areas of waterlogged ground"
+  },
+  "gamer": {
+    "p": "/ˈɡeɪmə/",
+    "t": "游戏玩家",
+    "en": "a person who plays video games"
+  },
+  "superviolent": {
+    "p": "/ˌsuːpəˈvaɪələnt/",
+    "t": "超级暴力的",
+    "en": "extremely violent"
+  },
+  "triplea": {
+    "p": "/ˌtrɪplˈeɪ/",
+    "t": "3A级（游戏）",
+    "en": "high-budget, high-profile video game"
+  },
+  "diversion": {
+    "p": "/daɪˈvɜːʃn/",
+    "t": "消遣；转移",
+    "en": "an activity that provides amusement; a detour"
+  },
+  "ebird": {
+    "p": "/ˈiːbɜːd/",
+    "t": "eBird（观鸟应用）",
+    "en": "an online bird observation database"
+  },
+  "inaturalist": {
+    "p": "/ˌaɪnætʃrəˈlɪst/",
+    "t": "iNaturalist（自然观察应用）",
+    "en": "a platform for recording observations of nature"
+  },
+  "oldperson": {
+    "p": "/ˈəʊldˌpɜːsn/",
+    "t": "老人",
+    "en": "an elderly person"
+  },
+  "frenemies": {
+    "p": "/ˈfrenəmiz/",
+    "t": "亦敌亦友",
+    "en": "people who are both friends and rivals"
+  },
+  "manatee": {
+    "p": "/ˌmænəˈtiː/",
+    "t": "海牛",
+    "en": "a large aquatic plant-eating mammal"
+  },
+  "reeling": {
+    "p": "/ˈriːlɪŋ/",
+    "t": "蹒跚；震惊",
+    "en": "staggering; feeling shocked or dizzy"
   }
 }
