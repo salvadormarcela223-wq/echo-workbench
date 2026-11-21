@@ -72093,5 +72093,355 @@
     "p": "/ˈriːlɪŋ/",
     "t": "蹒跚；震惊",
     "en": "staggering; feeling shocked or dizzy"
+  },
+  "photographer": {
+    "p": "/fəˈtɒɡrəfə/",
+    "t": "摄影师",
+    "en": "a person who takes photographs"
+  },
+  "balmy": {
+    "p": "/ˈbɑːmi/",
+    "t": "温和的；芳香的",
+    "en": "pleasantly warm and mild"
+  },
+  "jagged": {
+    "p": "/ˈdʒæɡɪd/",
+    "t": "锯齿状的",
+    "en": "having rough, sharp, uneven edges"
+  },
+  "pectorals": {
+    "p": "/ˈpektərəlz/",
+    "t": "胸肌",
+    "en": "the muscles of the chest"
+  },
+  "tucked": {
+    "p": "/tʌkt/",
+    "t": "塞进；收拢",
+    "en": "pushed or folded into a small space"
+  },
+  "squeaking": {
+    "p": "/ˈskwiːkɪŋ/",
+    "t": "发出尖叫声",
+    "en": "making a short, high-pitched sound"
+  },
+  "cowering": {
+    "p": "/ˈkaʊərɪŋ/",
+    "t": "畏缩；蜷缩",
+    "en": "crouching in fear"
+  },
+  "ferry": {
+    "p": "/ˈferi/",
+    "t": "渡船；摆渡",
+    "en": "a boat carrying people or goods across water"
+  },
+  "violently": {
+    "p": "/ˈvaɪələntli/",
+    "t": "猛烈地；暴力地",
+    "en": "in a forceful or brutal manner"
+  },
+  "severed": {
+    "p": "/ˈsevəd/",
+    "t": "切断的",
+    "en": "cut off or separated"
+  },
+  "blowhole": {
+    "p": "/ˈbləʊhəʊl/",
+    "t": "喷气孔；呼吸孔",
+    "en": "a hole for breathing in whales or other animals"
+  },
+  "succumbing": {
+    "p": "/səˈkʌmɪŋ/",
+    "t": "屈服；死于",
+    "en": "yielding to or dying from something"
+  },
+  "grieving": {
+    "p": "/ˈɡriːvɪŋ/",
+    "t": "悲伤的；哀悼的",
+    "en": "feeling deep sorrow"
+  },
+  "distressing": {
+    "p": "/dɪˈstresɪŋ/",
+    "t": "令人痛苦的",
+    "en": "causing anxiety or suffering"
+  },
+  "anomaly": {
+    "p": "/əˈnɒməli/",
+    "t": "异常；反常事物",
+    "en": "something that deviates from the norm"
+  },
+  "charity": {
+    "p": "/ˈtʃærəti/",
+    "t": "慈善；慈善机构",
+    "en": "an organization helping those in need"
+  },
+  "undetected": {
+    "p": "/ˌʌndɪˈtektɪd/",
+    "t": "未被发现的",
+    "en": "not discovered or noticed"
+  },
+  "unreported": {
+    "p": "/ˌʌnrɪˈpɔːtɪd/",
+    "t": "未报告的",
+    "en": "not reported or made known"
+  },
+  "entanglements": {
+    "p": "/ɪnˈtæŋɡlmənts/",
+    "t": "纠缠；缠绕物",
+    "en": "things that entangle or complicate"
+  },
+  "washes": {
+    "p": "/ˈwɒʃɪz/",
+    "t": "冲刷；洗",
+    "en": "cleanses or flows over with water"
+  },
+  "traumas": {
+    "p": "/ˈtrɔːməz/",
+    "t": "创伤",
+    "en": "deep emotional or physical shocks"
+  },
+  "roadkill": {
+    "p": "/ˈrəʊdkɪl/",
+    "t": "路上被撞死的动物",
+    "en": "animals killed by vehicles on roads"
+  },
+  "fractured": {
+    "p": "/ˈfræktʃəd/",
+    "t": "断裂的；破碎的",
+    "en": "broken or cracked"
+  },
+  "sublethal": {
+    "p": "/sʌbˈliːθəl/",
+    "t": "亚致死的",
+    "en": "not strong enough to cause death"
+  },
+  "highdensity": {
+    "p": "/ˌhaɪˈdensəti/",
+    "t": "高密度的",
+    "en": "having a high concentration"
+  },
+  "densities": {
+    "p": "/ˈdensətiz/",
+    "t": "密度",
+    "en": "the amounts of something in a given space"
+  },
+  "overlaps": {
+    "p": "/ˌəʊvəˈlæps/",
+    "t": "重叠；交叉",
+    "en": "parts that cover or coincide with each other"
+  },
+  "highestrisk": {
+    "p": "/ˌhaɪɪstˈrɪsk/",
+    "t": "最高风险的",
+    "en": "having the greatest risk"
+  },
+  "knots": {
+    "p": "/nɒts/",
+    "t": "节；结",
+    "en": "fastenings or units of speed"
+  },
+  "halve": {
+    "p": "/hɑːv/",
+    "t": "减半",
+    "en": "to reduce by half"
+  },
+  "cargo": {
+    "p": "/ˈkɑːɡəʊ/",
+    "t": "货物",
+    "en": "goods carried by a ship or vehicle"
+  },
+  "shippings": {
+    "p": "/ˈʃɪpɪŋz/",
+    "t": "航运；运输",
+    "en": "the transport of goods"
+  },
+  "featuring": {
+    "p": "/ˈfiːtʃərɪŋ/",
+    "t": "以…为特色",
+    "en": "including as a prominent part"
+  },
+  "highrisk": {
+    "p": "/ˌhaɪˈrɪsk/",
+    "t": "高风险的",
+    "en": "involving great risk"
+  },
+  "ferries": {
+    "p": "/ˈferiz/",
+    "t": "渡船",
+    "en": "boats that carry people or goods across water"
+  },
+  "nautical": {
+    "p": "/ˈnɔːtɪkl/",
+    "t": "航海的；海事的",
+    "en": "relating to ships or sailing"
+  },
+  "islands": {
+    "p": "/ˈaɪləndz/",
+    "t": "岛屿",
+    "en": "pieces of land surrounded by water"
+  },
+  "majorities": {
+    "p": "/məˈdʒɒrɪtiz/",
+    "t": "多数；大多数",
+    "en": "the greater number of people or things"
+  },
+  "maneuvering": {
+    "p": "/məˈnuːvərɪŋ/",
+    "t": "操纵；巧妙移动",
+    "en": "the act of moving or manipulating skillfully"
+  },
+  "fittingly": {
+    "p": "/ˈfɪtɪŋli/",
+    "t": "恰当地；适当地",
+    "en": "in a manner that is appropriate or suitable"
+  },
+  "hopefuls": {
+    "p": "/ˈhəʊpfʊlz/",
+    "t": "有希望的人；希望成功者",
+    "en": "people who hope to succeed in something"
+  },
+  "surging": {
+    "p": "/ˈsɜːdʒɪŋ/",
+    "t": "激增的；涌动的",
+    "en": "rising or moving forward suddenly and powerfully"
+  },
+  "toughest": {
+    "p": "/ˈtʌfɪst/",
+    "t": "最艰难的；最强硬的",
+    "en": "most difficult or most resilient"
+  },
+  "presumption": {
+    "p": "/prɪˈzʌmpʃn/",
+    "t": "推测；假定；冒昧",
+    "en": "an assumption or belief taken as true without proof"
+  },
+  "unpersuadable": {
+    "p": "/ˌʌnpəˈsweɪdəbl/",
+    "t": "无法说服的",
+    "en": "not able to be convinced or persuaded"
+  },
+  "persuasion": {
+    "p": "/pəˈsweɪʒn/",
+    "t": "说服；劝说",
+    "en": "the act of convincing someone to do or believe something"
+  },
+  "districts": {
+    "p": "/ˈdɪstrɪkts/",
+    "t": "地区；选区",
+    "en": "areas or regions, often administrative or electoral"
+  },
+  "victorious": {
+    "p": "/vɪkˈtɔːriəs/",
+    "t": "胜利的；获胜的",
+    "en": "having won a victory or achieved success"
+  },
+  "hasten": {
+    "p": "/ˈheɪsn/",
+    "t": "加速；催促",
+    "en": "to cause something to happen sooner or faster"
+  },
+  "racially": {
+    "p": "/ˈreɪʃəli/",
+    "t": "种族上地",
+    "en": "in relation to race or ethnic origin"
+  },
+  "antislavery": {
+    "p": "/ˌæntiˈsleɪvəri/",
+    "t": "反奴隶制的",
+    "en": "opposed to the practice of slavery"
+  },
+  "acquiesced": {
+    "p": "/ˌækwiˈest/",
+    "t": "默许；勉强同意",
+    "en": "accepted or agreed to something reluctantly without protest"
+  },
+  "slavery": {
+    "p": "/ˈsleɪvəri/",
+    "t": "奴隶制；奴役",
+    "en": "the condition of being owned by another person as property"
+  },
+  "vocation": {
+    "p": "/vəʊˈkeɪʃn/",
+    "t": "职业；使命",
+    "en": "a strong feeling of suitability for a particular career or occupation"
+  },
+  "allout": {
+    "p": "/ˌɔːlˈaʊt/",
+    "t": "全力以赴的；全面的",
+    "en": "using all possible effort or resources"
+  },
+  "unfit": {
+    "p": "/ʌnˈfɪt/",
+    "t": "不合适的；不健康的",
+    "en": "not suitable or not in good physical condition"
+  },
+  "prays": {
+    "p": "/preɪz/",
+    "t": "祈祷；祈求",
+    "en": "speaks to a deity in worship or makes an earnest request"
+  },
+  "spear": {
+    "p": "/spɪə(r)/",
+    "t": "矛；长枪",
+    "en": "a weapon with a long shaft and a pointed tip"
+  },
+  "congresswoman": {
+    "p": "/ˈkɒŋɡrəswʊmən/",
+    "t": "女国会议员",
+    "en": "a female member of a congress, especially the US Congress"
+  },
+  "occasions": {
+    "p": "/əˈkeɪʒnz/",
+    "t": "场合；时机",
+    "en": "particular times or events, often special ones"
+  },
+  "awaken": {
+    "p": "/əˈweɪkən/",
+    "t": "唤醒；使觉醒",
+    "en": "to rouse from sleep or make someone aware of something"
+  },
+  "embraces": {
+    "p": "/ɪmˈbreɪsɪz/",
+    "t": "拥抱；欣然接受",
+    "en": "holds closely or accepts willingly and enthusiastically"
+  },
+  "twostate": {
+    "p": "/ˌtuːˈsteɪt/",
+    "t": "两国方案的",
+    "en": "relating to a solution involving two separate states"
+  },
+  "shirk": {
+    "p": "/ʃɜːk/",
+    "t": "逃避；推卸",
+    "en": "to avoid or neglect a duty or responsibility"
+  },
+  "resolutions": {
+    "p": "/ˌrezəˈluːʃnz/",
+    "t": "决议；决心",
+    "en": "formal decisions or firm determinations to do something"
+  },
+  "seventh": {
+    "p": "/ˈsevnθ/",
+    "t": "第七",
+    "en": "coming after the sixth in order"
+  },
+  "nonnegotiable": {
+    "p": "/ˌnɒnnɪˈɡəʊʃiəbl/",
+    "t": "不可谈判的；不容商量的",
+    "en": "not open to discussion or modification"
+  },
+  "grounded": {
+    "p": "/ˈɡraʊndɪd/",
+    "t": "有根据的；脚踏实地的",
+    "en": "well-founded or sensible and down-to-earth"
+  },
+  "dodge": {
+    "p": "/dɒdʒ/",
+    "t": "躲避；闪开",
+    "en": "to avoid something by a sudden movement or clever trick"
+  },
+  "prayerful": {
+    "p": "/ˈpreəfl/",
+    "t": "虔诚的；祈祷的",
+    "en": "characterized by or given to prayer; devout"
   }
 }
