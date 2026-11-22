@@ -72443,5 +72443,410 @@
     "p": "/ˈpreəfl/",
     "t": "虔诚的；祈祷的",
     "en": "characterized by or given to prayer; devout"
+  },
+  "reader": {
+    "p": "/ˈriːdə/",
+    "t": "读者；读物",
+    "en": "a person who reads, or a book for learning reading"
+  },
+  "condensed": {
+    "p": "/kənˈdenst/",
+    "t": "浓缩的；简明的",
+    "en": "made denser or shorter; abridged"
+  },
+  "interdenominational": {
+    "p": "/ˌɪntədɪˌnɒmɪˈneɪʃənl/",
+    "t": "跨教派的",
+    "en": "relating to or involving different religious denominations"
+  },
+  "renewed": {
+    "p": "/rɪˈnjuːd/",
+    "t": "更新的；重新开始的",
+    "en": "made new again; resumed or restored"
+  },
+  "believewhatyouwant": {
+    "p": "/bɪˈliːv wɒt juː wɒnt/",
+    "t": "随你信什么；信不信由你",
+    "en": "an expression meaning you are free to believe whatever you like"
+  },
+  "solace": {
+    "p": "/ˈsɒləs/",
+    "t": "安慰；慰藉",
+    "en": "comfort in sorrow or distress"
+  },
+  "misgivings": {
+    "p": "/ˌmɪsˈɡɪvɪŋz/",
+    "t": "疑虑；担忧",
+    "en": "feelings of doubt or apprehension"
+  },
+  "selfconscious": {
+    "p": "/ˌselfˈkɒnʃəs/",
+    "t": "自我意识的；不自然的",
+    "en": "acutely aware of oneself; awkwardly shy"
+  },
+  "interlopers": {
+    "p": "/ˈɪntələʊpəz/",
+    "t": "闯入者；干涉者",
+    "en": "intruders; people who interfere where they do not belong"
+  },
+  "allure": {
+    "p": "/əˈljʊə/",
+    "t": "诱惑力；吸引",
+    "en": "the quality of being powerfully attractive; to entice"
+  },
+  "churchgoers": {
+    "p": "/ˈtʃɜːtʃˌɡəʊəz/",
+    "t": "常去教堂做礼拜的人",
+    "en": "people who regularly attend church"
+  },
+  "supremely": {
+    "p": "/suːˈpriːmli/",
+    "t": "极其；最高地",
+    "en": "to the highest degree; extremely"
+  },
+  "religions": {
+    "p": "/rɪˈlɪdʒənz/",
+    "t": "宗教",
+    "en": "systems of faith and worship"
+  },
+  "intelligently": {
+    "p": "/ɪnˈtelɪdʒəntli/",
+    "t": "明智地；聪明地",
+    "en": "in a clever or sensible manner"
+  },
+  "cling": {
+    "p": "/klɪŋ/",
+    "t": "紧握；依附",
+    "en": "to hold on tightly or stay close to"
+  },
+  "dignity": {
+    "p": "/ˈdɪɡnəti/",
+    "t": "尊严；庄重",
+    "en": "the state of being worthy of respect; serious manner"
+  },
+  "butter": {
+    "p": "/ˈbʌtə/",
+    "t": "黄油；涂黄油",
+    "en": "a fatty dairy spread; to spread butter on"
+  },
+  "articulate": {
+    "p": "/ɑːˈtɪkjuleɪt/",
+    "t": "清晰表达；口齿伶俐的",
+    "en": "to express clearly; able to speak fluently"
+  },
+  "finetune": {
+    "p": "/ˌfaɪnˈtjuːn/",
+    "t": "微调",
+    "en": "to make small adjustments for better performance"
+  },
+  "wellsprings": {
+    "p": "/ˈwelˌsprɪŋz/",
+    "t": "源泉",
+    "en": "sources of continual supply or origin"
+  },
+  "hardcore": {
+    "p": "/ˈhɑːdkɔː/",
+    "t": "核心的；极端的",
+    "en": "most committed or extreme; explicit"
+  },
+  "prohuman": {
+    "p": "/prəʊˈhjuːmən/",
+    "t": "亲人类的",
+    "en": "favoring or supporting human welfare"
+  },
+  "locating": {
+    "p": "/ləʊˈkeɪtɪŋ/",
+    "t": "定位；找到",
+    "en": "finding the position of; establishing a place"
+  },
+  "insufficient": {
+    "p": "/ˌɪnsəˈfɪʃnt/",
+    "t": "不足的",
+    "en": "not enough; inadequate"
+  },
+  "techaugmented": {
+    "p": "/tek ɔːɡˈmentɪd/",
+    "t": "技术增强的",
+    "en": "enhanced or assisted by technology"
+  },
+  "reaper": {
+    "p": "/ˈriːpə/",
+    "t": "收割者；收割机",
+    "en": "a person or machine that harvests crops"
+  },
+  "scythe": {
+    "p": "/saɪð/",
+    "t": "长柄镰刀",
+    "en": "a long curved blade for cutting grass or crops"
+  },
+  "foregone": {
+    "p": "/fɔːˈɡɒn/",
+    "t": "预先决定的；过去的",
+    "en": "already decided or settled beforehand; past"
+  },
+  "blistering": {
+    "p": "/ˈblɪstərɪŋ/",
+    "t": "极热的；严厉的",
+    "en": "extremely hot or intense; very severe"
+  },
+  "starker": {
+    "p": "/ˈstɑːkə/",
+    "t": "更鲜明的；更荒凉的",
+    "en": "more sharply defined or more bare and desolate"
+  },
+  "archdoomer": {
+    "p": "/ɑːtʃˈduːmə/",
+    "t": "头号末日论者",
+    "en": "a leading or extreme pessimist about the future"
+  },
+  "overpower": {
+    "p": "/ˌəʊvəˈpaʊə/",
+    "t": "压倒；制服",
+    "en": "to defeat or overcome by greater strength"
+  },
+  "wellspecified": {
+    "p": "/ˌwelˈspesɪfaɪd/",
+    "t": "明确规定的",
+    "en": "clearly and fully defined"
+  },
+  "verifiable": {
+    "p": "/ˈverɪfaɪəbl/",
+    "t": "可验证的",
+    "en": "able to be checked or proved true"
+  },
+  "domains": {
+    "p": "/dəˈmeɪnz/",
+    "t": "领域；域",
+    "en": "areas of activity or knowledge; realms"
+  },
+  "unitary": {
+    "p": "/ˈjuːnɪtəri/",
+    "t": "单一的；统一的",
+    "en": "forming a single whole; undivided"
+  },
+  "tantamount": {
+    "p": "/ˈtæntəmaʊnt/",
+    "t": "等同于",
+    "en": "equivalent in effect or meaning"
+  },
+  "glaring": {
+    "p": "/ˈɡleərɪŋ/",
+    "t": "显眼的；刺眼的",
+    "en": "very obvious or conspicuous; dazzling"
+  },
+  "maybes": {
+    "p": "/ˈmeɪbiz/",
+    "t": "可能的事；不确定的回答",
+    "en": "things that are possible; uncertain answers"
+  },
+  "probablys": {
+    "p": "/ˈprɒbəbliz/",
+    "t": "很可能的事",
+    "en": "things that are likely to happen"
+  },
+  "probable": {
+    "p": "/ˈprɒbəbl/",
+    "t": "很可能的",
+    "en": "likely to be true or to happen"
+  },
+  "staging": {
+    "p": "/ˈsteɪdʒɪŋ/",
+    "t": "上演； staging 布置",
+    "en": "the presentation or arrangement of a performance or event"
+  },
+  "disempowering": {
+    "p": "/ˌdɪsɪmˈpaʊərɪŋ/",
+    "t": "使人失去权力的；令人无力的",
+    "en": "making someone feel less powerful or confident"
+  },
+  "misinformation": {
+    "p": "/ˌmɪsɪnfəˈmeɪʃn/",
+    "t": "错误信息；虚假信息",
+    "en": "false or inaccurate information"
+  },
+  "falters": {
+    "p": "/ˈfɔːltəz/",
+    "t": "动摇；蹒跚",
+    "en": "loses strength or momentum; hesitates"
+  },
+  "skyrocket": {
+    "p": "/ˈskaɪrɒkɪt/",
+    "t": "猛增；飙升",
+    "en": "to rise rapidly and steeply"
+  },
+  "unrest": {
+    "p": "/ʌnˈrest/",
+    "t": "动荡；不安",
+    "en": "a state of dissatisfaction and agitation"
+  },
+  "morphs": {
+    "p": "/mɔːfs/",
+    "t": "改变形态；变形",
+    "en": "changes form or shape gradually"
+  },
+  "riots": {
+    "p": "/ˈraɪəts/",
+    "t": "暴乱；骚乱",
+    "en": "violent public disturbances"
+  },
+  "blackouts": {
+    "p": "/ˈblækaʊts/",
+    "t": "停电；暂时失去意识",
+    "en": "periods of power failure or loss of consciousness"
+  },
+  "outargues": {
+    "p": "/ˌaʊtˈɑːɡjuːz/",
+    "t": "辩论胜过",
+    "en": "defeats in argument; argues more convincingly than"
+  },
+  "enslaved": {
+    "p": "/ɪnˈsleɪvd/",
+    "t": "被奴役的",
+    "en": "made a slave; deprived of freedom"
+  },
+  "confronts": {
+    "p": "/kənˈfrʌnts/",
+    "t": "面对；对抗",
+    "en": "faces or challenges directly"
+  },
+  "wicked": {
+    "p": "/ˈwɪkɪd/",
+    "t": "邪恶的；恶劣的",
+    "en": "morally bad; evil"
+  },
+  "decree": {
+    "p": "/dɪˈkriː/",
+    "t": "法令；命令",
+    "en": "an official order issued by authority"
+  },
+  "righteous": {
+    "p": "/ˈraɪtʃəs/",
+    "t": "正义的；正直的",
+    "en": "morally right or justifiable"
+  },
+  "probabilistic": {
+    "p": "/ˌprɒbəbɪˈlɪstɪk/",
+    "t": "概率性的",
+    "en": "based on or involving probability"
+  },
+  "watches": {
+    "p": "/ˈwɒtʃɪz/",
+    "t": "手表；观看",
+    "en": "timepieces; observes attentively"
+  },
+  "floats": {
+    "p": "/fləʊts/",
+    "t": "漂浮；浮动",
+    "en": "rests or moves on liquid or air"
+  },
+  "pities": {
+    "p": "/ˈpɪtiz/",
+    "t": "同情；怜悯",
+    "en": "feels sorrow for the suffering of others"
+  },
+  "survives": {
+    "p": "/səˈvaɪvz/",
+    "t": "幸存；存活",
+    "en": "continues to live or exist"
+  },
+  "shred": {
+    "p": "/ʃred/",
+    "t": "碎片；撕碎",
+    "en": "a small torn piece; to tear into strips"
+  },
+  "comparative": {
+    "p": "/kəmˈpærətɪv/",
+    "t": "比较的；相对的",
+    "en": "relating to comparison; relative"
+  },
+  "memetic": {
+    "p": "/miːˈmetɪk/",
+    "t": "模因的；文化传播的",
+    "en": "relating to memes or the spread of cultural ideas"
+  },
+  "retold": {
+    "p": "/ˌriːˈtəʊld/",
+    "t": "重述的",
+    "en": "told again in a new way"
+  },
+  "causation": {
+    "p": "/kɔːˈzeɪʃn/",
+    "t": "因果关系",
+    "en": "the action of causing something; causal relationship"
+  },
+  "encode": {
+    "p": "/ɪnˈkəʊd/",
+    "t": "编码",
+    "en": "to convert into a coded form"
+  },
+  "hardwon": {
+    "p": "/ˌhɑːdˈwʌn/",
+    "t": "来之不易的",
+    "en": "achieved only after great effort"
+  },
+  "diplomats": {
+    "p": "/ˈdɪpləmæts/",
+    "t": "外交官",
+    "en": "officials representing a country abroad"
+  },
+  "chemists": {
+    "p": "/ˈkemɪsts/",
+    "t": "化学家；药剂师",
+    "en": "scientists who study chemistry; pharmacists"
+  },
+  "nudges": {
+    "p": "/ˈnʌdʒɪz/",
+    "t": "轻推；推动",
+    "en": "gentle pushes; small encouragements"
+  },
+  "knowable": {
+    "p": "/ˈnəʊəbl/",
+    "t": "可知的",
+    "en": "able to be known or understood"
+  },
+  "acquiesce": {
+    "p": "/ˌækwiˈes/",
+    "t": "默许；勉强同意",
+    "en": "to accept or agree reluctantly without protest"
+  },
+  "wellspring": {
+    "p": "/ˈwelˌsprɪŋ/",
+    "t": "源泉",
+    "en": "a source of continual supply"
+  },
+  "visions": {
+    "p": "/ˈvɪʒnz/",
+    "t": "愿景；幻象",
+    "en": "mental images of the future; apparitions"
+  },
+  "ostensibly": {
+    "p": "/ɒˈstensəbli/",
+    "t": "表面上；据说",
+    "en": "apparently or supposedly, though perhaps not truly"
+  },
+  "cedes": {
+    "p": "/siːdz/",
+    "t": "割让；放弃",
+    "en": "gives up or surrenders something"
+  },
+  "inhabitants": {
+    "p": "/ɪnˈhæbɪtənts/",
+    "t": "居民",
+    "en": "people or animals living in a place"
+  },
+  "devotees": {
+    "p": "/ˌdevəˈtiːz/",
+    "t": "爱好者；信徒",
+    "en": "enthusiastic followers or admirers"
+  },
+  "revelations": {
+    "p": "/ˌrevəˈleɪʃnz/",
+    "t": "揭露；启示",
+    "en": "surprising disclosures; divine disclosures"
+  },
+  "revelation": {
+    "p": "/ˌrevəˈleɪʃn/",
+    "t": "揭露；启示",
+    "en": "a surprising disclosure or divine disclosure"
   }
 }
