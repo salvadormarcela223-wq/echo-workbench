@@ -72848,5 +72848,405 @@
     "p": "/ˌrevəˈleɪʃn/",
     "t": "揭露；启示",
     "en": "a surprising disclosure or divine disclosure"
+  },
+  "suppresses": {
+    "p": "/səˈprɛsɪz/",
+    "t": "抑制；压制",
+    "en": "prevents or restrains something"
+  },
+  "downtime": {
+    "p": "/ˈdaʊntaɪm/",
+    "t": "停机时间",
+    "en": "time when a machine or system is not working"
+  },
+  "everstronger": {
+    "p": "/ˈɛvəˈstrɒŋɡə/",
+    "t": "越来越强",
+    "en": "increasingly stronger"
+  },
+  "hurricaneresilient": {
+    "p": "/ˈhʌrɪkən rɪˈzɪliənt/",
+    "t": "抗飓风的",
+    "en": "able to withstand hurricanes"
+  },
+  "selfsufficient": {
+    "p": "/ˌsɛlfsəˈfɪʃənt/",
+    "t": "自给自足的",
+    "en": "able to provide for oneself without outside help"
+  },
+  "discouraged": {
+    "p": "/dɪsˈkʌrɪdʒd/",
+    "t": "气馁的；沮丧的",
+    "en": "having lost confidence or enthusiasm"
+  },
+  "tormented": {
+    "p": "/tɔːˈmɛntɪd/",
+    "t": "饱受折磨的",
+    "en": "experiencing severe physical or mental suffering"
+  },
+  "devastated": {
+    "p": "/ˈdɛvəsteɪtɪd/",
+    "t": "严重破坏的；极度震惊的",
+    "en": "destroyed or severely damaged; deeply shocked"
+  },
+  "islanders": {
+    "p": "/ˈaɪləndəz/",
+    "t": "岛民",
+    "en": "people who live on an island"
+  },
+  "dieseldependent": {
+    "p": "/ˈdiːzəl dɪˈpɛndənt/",
+    "t": "依赖柴油的",
+    "en": "relying on diesel fuel"
+  },
+  "microgrids": {
+    "p": "/ˈmaɪkrəʊɡrɪdz/",
+    "t": "微电网",
+    "en": "small-scale electricity grids that can operate independently"
+  },
+  "independently": {
+    "p": "/ˌɪndɪˈpɛndəntli/",
+    "t": "独立地",
+    "en": "without being controlled or influenced by others"
+  },
+  "hydropower": {
+    "p": "/ˈhaɪdrəʊpaʊə/",
+    "t": "水力发电",
+    "en": "electricity generated from the energy of flowing water"
+  },
+  "reconnect": {
+    "p": "/ˌriːkəˈnɛkt/",
+    "t": "重新连接",
+    "en": "connect again"
+  },
+  "palmfringed": {
+    "p": "/ˈpɑːmfrɪndʒd/",
+    "t": "棕榈树环绕的",
+    "en": "bordered by palm trees"
+  },
+  "levelled": {
+    "p": "/ˈlɛvəld/",
+    "t": "被夷平的；被摧毁的",
+    "en": "flattened or destroyed completely"
+  },
+  "homeless": {
+    "p": "/ˈhəʊmləs/",
+    "t": "无家可归的",
+    "en": "having no home"
+  },
+  "ransacked": {
+    "p": "/ˈrænsækt/",
+    "t": "被洗劫的",
+    "en": "searched and robbed, causing damage"
+  },
+  "devastation": {
+    "p": "/ˌdɛvəˈsteɪʃən/",
+    "t": "毁灭；严重破坏",
+    "en": "severe destruction or damage"
+  },
+  "tailor": {
+    "p": "/ˈteɪlə/",
+    "t": "量身定制",
+    "en": "adapt something to suit a particular purpose"
+  },
+  "reliant": {
+    "p": "/rɪˈlaɪənt/",
+    "t": "依赖的",
+    "en": "dependent on something"
+  },
+  "corrosion": {
+    "p": "/kəˈrəʊʒən/",
+    "t": "腐蚀",
+    "en": "gradual destruction of metal by chemical action"
+  },
+  "pivot": {
+    "p": "/ˈpɪvət/",
+    "t": "转向；以…为核心",
+    "en": "turn or shift to a new strategy or focus"
+  },
+  "islandwide": {
+    "p": "/ˈaɪləndwaɪd/",
+    "t": "全岛范围的",
+    "en": "across the whole island"
+  },
+  "supplying": {
+    "p": "/səˈplaɪɪŋ/",
+    "t": "供应",
+    "en": "providing or furnishing something needed"
+  },
+  "principals": {
+    "p": "/ˈprɪnsəpəlz/",
+    "t": "负责人；校长",
+    "en": "heads of schools or organizations"
+  },
+  "microgrid": {
+    "p": "/ˈmaɪkrəʊɡrɪd/",
+    "t": "微电网",
+    "en": "a small-scale electricity grid that can operate independently"
+  },
+  "gasfired": {
+    "p": "/ˈɡæsfaɪəd/",
+    "t": "燃气驱动的",
+    "en": "powered by gas"
+  },
+  "cleanslate": {
+    "p": "/ˌkliːn ˈsleɪt/",
+    "t": "白纸一张；重新开始",
+    "en": "a fresh start with no prior commitments"
+  },
+  "authored": {
+    "p": "/ˈɔːθəd/",
+    "t": "撰写；创作",
+    "en": "wrote or created something"
+  },
+  "leapfrog": {
+    "p": "/ˈliːpfrɒɡ/",
+    "t": "跨越式发展",
+    "en": "bypass an intermediate stage and advance quickly"
+  },
+  "placing": {
+    "p": "/ˈpleɪsɪŋ/",
+    "t": "放置；安置",
+    "en": "putting something in a particular position"
+  },
+  "centralised": {
+    "p": "/ˈsɛntrəlaɪzd/",
+    "t": "集中式的",
+    "en": "controlled from a single central point"
+  },
+  "islanding": {
+    "p": "/ˈaɪləndɪŋ/",
+    "t": "孤岛运行",
+    "en": "the ability of a grid to operate independently from the main power network"
+  },
+  "disconnect": {
+    "p": "/ˌdɪskəˈnɛkt/",
+    "t": "断开连接",
+    "en": "separate or detach"
+  },
+  "monthlong": {
+    "p": "/ˈmʌnθlɒŋ/",
+    "t": "持续一个月的",
+    "en": "lasting for a month"
+  },
+  "upskill": {
+    "p": "/ˈʌpskɪl/",
+    "t": "提升技能",
+    "en": "teach new or improved skills"
+  },
+  "expects": {
+    "p": "/ɪkˈspɛkts/",
+    "t": "预期；预计",
+    "en": "regards something as likely to happen"
+  },
+  "communityled": {
+    "p": "/kəˈmjuːnɪtiled/",
+    "t": "社区主导的",
+    "en": "led or driven by the community"
+  },
+  "modernise": {
+    "p": "/ˈmɒdənaɪz/",
+    "t": "现代化",
+    "en": "update to modern standards"
+  },
+  "weatherproof": {
+    "p": "/ˈwɛðəpruːf/",
+    "t": "防风雨的",
+    "en": "resistant to damage from weather conditions"
+  },
+  "withstands": {
+    "p": "/wɪðˈstændz/",
+    "t": "经受住；抵挡",
+    "en": "resists or endures something successfully"
+  },
+  "broadcasts": {
+    "p": "/ˈbrɔːdkɑːsts/",
+    "t": "广播；播送",
+    "en": "transmits programs by radio or television"
+  },
+  "chagrin": {
+    "p": "/ˈʃæɡrɪn/",
+    "t": "懊恼；失望",
+    "en": "distress or embarrassment caused by failure or humiliation"
+  },
+  "signify": {
+    "p": "/ˈsɪɡnɪfaɪ/",
+    "t": "表示；意味着",
+    "en": "to be a sign of; indicate"
+  },
+  "capitalists": {
+    "p": "/ˈkæpɪtəlɪsts/",
+    "t": "资本家",
+    "en": "people who own capital and invest in business"
+  },
+  "unlawful": {
+    "p": "/ʌnˈlɔːfl/",
+    "t": "非法的",
+    "en": "not permitted by law; illegal"
+  },
+  "popped": {
+    "p": "/pɒpt/",
+    "t": "突然出现；弹出",
+    "en": "appeared or came out suddenly"
+  },
+  "champagne": {
+    "p": "/ʃæmˈpeɪn/",
+    "t": "香槟酒",
+    "en": "a sparkling white wine from Champagne, France"
+  },
+  "tweeted": {
+    "p": "/ˈtwiːtɪd/",
+    "t": "发推文",
+    "en": "posted a message on Twitter"
+  },
+  "intervened": {
+    "p": "/ˌɪntəˈviːnd/",
+    "t": "干预；介入",
+    "en": "became involved to alter or prevent a situation"
+  },
+  "misconduct": {
+    "p": "/ˌmɪsˈkɒndʌkt/",
+    "t": "不当行为；渎职",
+    "en": "unacceptable or improper behavior, especially by a professional"
+  },
+  "ousting": {
+    "p": "/ˈaʊstɪŋ/",
+    "t": "驱逐；罢免",
+    "en": "the act of forcing someone out of a position"
+  },
+  "techandaipowered": {
+    "p": "/tek ənd eɪ aɪ ˈpaʊəd/",
+    "t": "科技与人工智能驱动的",
+    "en": "driven by technology and artificial intelligence"
+  },
+  "amidst": {
+    "p": "/əˈmɪdst/",
+    "t": "在……之中",
+    "en": "in the middle of; surrounded by"
+  },
+  "epitomize": {
+    "p": "/ɪˈpɪtəmaɪz/",
+    "t": "是……的典型；象征",
+    "en": "to be a perfect example of"
+  },
+  "infamously": {
+    "p": "/ˈɪnfəməsli/",
+    "t": "臭名昭著地",
+    "en": "in a way that is well known for being bad"
+  },
+  "shoot": {
+    "p": "/ʃuːt/",
+    "t": "射击；拍摄",
+    "en": "to fire a weapon or record an image"
+  },
+  "hardball": {
+    "p": "/ˈhɑːdbɔːl/",
+    "t": "强硬手段",
+    "en": "aggressive and uncompromising tactics"
+  },
+  "transferable": {
+    "p": "/trænsˈfɜːrəbl/",
+    "t": "可转移的；可转让的",
+    "en": "able to be moved or passed to another"
+  },
+  "exemplified": {
+    "p": "/ɪɡˈzemplɪfaɪd/",
+    "t": "是……的典范；举例说明",
+    "en": "served as a typical example of"
+  },
+  "bloodied": {
+    "p": "/ˈblʌdɪd/",
+    "t": "流血的；血染的",
+    "en": "covered in blood or wounded"
+  },
+  "assassination": {
+    "p": "/əˌsæsɪˈneɪʃn/",
+    "t": "暗杀",
+    "en": "the murder of a prominent person"
+  },
+  "backers": {
+    "p": "/ˈbækəz/",
+    "t": "支持者；赞助者",
+    "en": "people who support or finance someone or something"
+  },
+  "subpoena": {
+    "p": "/səˈpiːnə/",
+    "t": "传票；传唤",
+    "en": "a legal order requiring someone to appear or produce evidence"
+  },
+  "prohuang": {
+    "p": "/prəʊ hwɑːŋ/",
+    "t": "亲黄（音译）",
+    "en": "supporting Huang (transliteration)"
+  },
+  "dovish": {
+    "p": "/ˈdʌvɪʃ/",
+    "t": "鸽派的；温和的",
+    "en": "favoring peaceful or moderate policies"
+  },
+  "wrongdoing": {
+    "p": "/ˈrɒŋduːɪŋ/",
+    "t": "不法行为；坏事",
+    "en": "illegal or immoral behavior"
+  },
+  "regain": {
+    "p": "/rɪˈɡeɪn/",
+    "t": "重新获得；恢复",
+    "en": "to get back or recover something"
+  },
+  "reinstatement": {
+    "p": "/ˌriːɪnˈsteɪtmənt/",
+    "t": "恢复职位；复职",
+    "en": "the act of restoring someone to a former position"
+  },
+  "reelected": {
+    "p": "/ˌriːɪˈlektɪd/",
+    "t": "再次当选",
+    "en": "elected again to the same position"
+  },
+  "sixyear": {
+    "p": "/sɪks jɪə/",
+    "t": "六年的",
+    "en": "lasting six years"
+  },
+  "absolve": {
+    "p": "/əbˈzɒlv/",
+    "t": "赦免；宣告无罪",
+    "en": "to declare someone free from guilt or blame"
+  },
+  "rehiring": {
+    "p": "/ˌriːˈhaɪərɪŋ/",
+    "t": "重新雇用",
+    "en": "employing someone again"
+  },
+  "triumphant": {
+    "p": "/traɪˈʌmfənt/",
+    "t": "胜利的；得意的",
+    "en": "having won a victory; victorious"
+  },
+  "conducts": {
+    "p": "/kənˈdʌkts/",
+    "t": "进行；实施",
+    "en": "carries out or manages an activity"
+  },
+  "deference": {
+    "p": "/ˈdefərəns/",
+    "t": "尊重；顺从",
+    "en": "respectful submission to another's judgment"
+  },
+  "favortrading": {
+    "p": "/ˈfeɪvə treɪdɪŋ/",
+    "t": "权钱交易；人情交易",
+    "en": "trading political favors, often for personal gain"
+  },
+  "profiteering": {
+    "p": "/ˌprɒfɪˈtɪərɪŋ/",
+    "t": "牟取暴利",
+    "en": "making excessive profits, especially unfairly"
+  },
+  "trades": {
+    "p": "/treɪdz/",
+    "t": "交易；行业",
+    "en": "exchanges of goods or services; occupations"
   }
 }
