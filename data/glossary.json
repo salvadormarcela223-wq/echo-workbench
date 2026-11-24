@@ -73248,5 +73248,210 @@
     "p": "/treɪdz/",
     "t": "交易；行业",
     "en": "exchanges of goods or services; occupations"
+  },
+  "cathartic": {
+    "p": "/kəˈθɑːtɪk/",
+    "t": "宣泄的；导泻的",
+    "en": "providing emotional release or purification"
+  },
+  "learnt": {
+    "p": "/lɜːnt/",
+    "t": "学会的（learn 的过去分词）",
+    "en": "past participle of learn; gained knowledge"
+  },
+  "supervisor": {
+    "p": "/ˈsuːpəvaɪzə/",
+    "t": "主管；监督者",
+    "en": "a person who oversees work or people"
+  },
+  "waiters": {
+    "p": "/ˈweɪtəz/",
+    "t": "服务员（复数）",
+    "en": "people who serve food and drinks at tables"
+  },
+  "promptly": {
+    "p": "/ˈprɒmptli/",
+    "t": "迅速地；准时地",
+    "en": "quickly and without delay"
+  },
+  "unresolved": {
+    "p": "/ˌʌnrɪˈzɒlvd/",
+    "t": "未解决的",
+    "en": "not yet settled or solved"
+  },
+  "watchon": {
+    "p": "/ˈwɒtʃɒn/",
+    "t": "（非标准词）注视；留意",
+    "en": "nonstandard; likely 'watch on', to keep observing"
+  },
+  "rumination": {
+    "p": "/ˌruːmɪˈneɪʃn/",
+    "t": "沉思；反复思考",
+    "en": "deep or repeated thinking about something"
+  },
+  "prioritised": {
+    "p": "/praɪˈɒrətaɪzd/",
+    "t": "优先处理的",
+    "en": "treated as more important; ranked first"
+  },
+  "diary": {
+    "p": "/ˈdaɪəri/",
+    "t": "日记；日程簿",
+    "en": "a book for daily records or appointments"
+  },
+  "reassured": {
+    "p": "/ˌriːəˈʃʊəd/",
+    "t": "使安心的；放心的",
+    "en": "comforted and given confidence"
+  },
+  "workfamily": {
+    "p": "/ˈwɜːkfæməli/",
+    "t": "工作家庭（复合词）",
+    "en": "compound of work and family; work-family balance"
+  },
+  "spill": {
+    "p": "/spɪl/",
+    "t": "洒出；溢出",
+    "en": "to cause liquid to flow over the edge"
+  },
+  "invovles": {
+    "p": "/ɪnˈvɒlvz/",
+    "t": "（拼写错误）涉及",
+    "en": "misspelling of 'involves'; to include or entail"
+  },
+  "instant": {
+    "p": "/ˈɪnstənt/",
+    "t": "立即的；瞬间",
+    "en": "happening immediately; a moment"
+  },
+  "transitioning": {
+    "p": "/trænˈzɪʃnɪŋ/",
+    "t": "过渡；转变中",
+    "en": "in the process of changing from one state to another"
+  },
+  "frees": {
+    "p": "/friːz/",
+    "t": "释放；使自由",
+    "en": "releases or liberates from constraint"
+  },
+  "planahead": {
+    "p": "/ˈplænəhed/",
+    "t": "提前计划（短语）",
+    "en": "to plan in advance"
+  },
+  "doorway": {
+    "p": "/ˈdɔːweɪ/",
+    "t": "门口；出入口",
+    "en": "an opening into a room or building"
+  },
+  "rituals": {
+    "p": "/ˈrɪtʃuəlz/",
+    "t": "仪式；惯例（复数）",
+    "en": "ceremonies or habitual repeated practices"
+  },
+  "flushes": {
+    "p": "/ˈflʌʃɪz/",
+    "t": "脸红；冲洗（复数/三单）",
+    "en": "reddens; rinses or washes out"
+  },
+  "undue": {
+    "p": "/ˌʌnˈdjuː/",
+    "t": "过度的；不适当的",
+    "en": "excessive or unwarranted"
+  },
+  "caucus": {
+    "p": "/ˈkɔːkəs/",
+    "t": "核心会议；党团会议",
+    "en": "a closed meeting of a political party's members to choose candidates or decide policy"
+  },
+  "unwilling": {
+    "p": "/ʌnˈwɪlɪŋ/",
+    "t": "不愿意的",
+    "en": "not willing; reluctant"
+  },
+  "lawless": {
+    "p": "/ˈlɔːləs/",
+    "t": "不守法的；无法无天的",
+    "en": "not obeying the law; without legal control"
+  },
+  "probation": {
+    "p": "/prəˈbeɪʃn/",
+    "t": "缓刑；试用期",
+    "en": "a period of supervision of an offender instead of imprisonment, or a trial period"
+  },
+  "lobbyists": {
+    "p": "/ˈlɒbiɪsts/",
+    "t": "说客（复数）",
+    "en": "people who try to influence legislators on behalf of a group"
+  },
+  "oneman": {
+    "p": "/ˈwʌnmæn/",
+    "t": "一个人的；单人表演的",
+    "en": "performed or operated by one person"
+  },
+  "moneymaking": {
+    "p": "/ˈmʌnimeɪkɪŋ/",
+    "t": "赚钱的；牟利",
+    "en": "producing profit; the act of earning money"
+  },
+  "intervenes": {
+    "p": "/ˌɪntəˈviːnz/",
+    "t": "干预；介入（第三人称单数）",
+    "en": "comes between or becomes involved to change a situation"
+  },
+  "senatorselect": {
+    "p": "/ˈsenətəz ɪˈlekt/",
+    "t": "当选参议员（复数）",
+    "en": "senators who have been elected but not yet taken office"
+  },
+  "negotiation": {
+    "p": "/nɪˌɡəʊʃiˈeɪʃn/",
+    "t": "谈判；协商",
+    "en": "discussion aimed at reaching an agreement"
+  },
+  "recognized": {
+    "p": "/ˈrekəɡnaɪzd/",
+    "t": "被认可的；公认的",
+    "en": "acknowledged or identified as valid or known"
+  },
+  "abducted": {
+    "p": "/æbˈdʌktɪd/",
+    "t": "被绑架的",
+    "en": "taken away illegally by force or deception"
+  },
+  "constituent": {
+    "p": "/kənˈstɪtjuənt/",
+    "t": "选民；组成部分",
+    "en": "a voter in a district, or a component part of something"
+  },
+  "gulag": {
+    "p": "/ˈɡuːlæɡ/",
+    "t": "古拉格；苏联劳改营",
+    "en": "a Soviet forced-labour camp system"
+  },
+  "chainsaw": {
+    "p": "/ˈtʃeɪnsɔː/",
+    "t": "链锯",
+    "en": "a power tool with a toothed chain for cutting"
+  },
+  "lawlessness": {
+    "p": "/ˈlɔːləsnəs/",
+    "t": "无法无天；违法",
+    "en": "the state of being without law or order"
+  },
+  "unifies": {
+    "p": "/ˈjuːnɪfaɪz/",
+    "t": "统一；使一致（第三人称单数）",
+    "en": "makes or becomes united"
+  },
+  "undecided": {
+    "p": "/ˌʌndɪˈsaɪdɪd/",
+    "t": "未决定的；犹豫的",
+    "en": "not yet having made a decision"
+  },
+  "tantalizing": {
+    "p": "/ˈtæntəlaɪzɪŋ/",
+    "t": "诱人的；撩人的",
+    "en": "exciting desire or interest while remaining out of reach"
   }
 }
