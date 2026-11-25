@@ -73453,5 +73453,280 @@
     "p": "/ˈtæntəlaɪzɪŋ/",
     "t": "诱人的；撩人的",
     "en": "exciting desire or interest while remaining out of reach"
+  },
+  "greeted": {
+    "p": "/ˈɡriːtɪd/",
+    "t": "问候了；迎接了",
+    "en": "past tense of greet; welcomed or addressed someone"
+  },
+  "everyones": {
+    "p": "/ˈevriwʌnz/",
+    "t": "每个人的（非标准拼写）",
+    "en": "nonstandard possessive form of everyone"
+  },
+  "gutbusting": {
+    "p": "/ˈɡʌtˌbʌstɪŋ/",
+    "t": "捧腹大笑的；极其滑稽的",
+    "en": "extremely funny; causing loud laughter"
+  },
+  "bleary": {
+    "p": "/ˈblɪəri/",
+    "t": "视线模糊的；睡眼惺忪的",
+    "en": "eyes blurred or dimmed, especially from tiredness"
+  },
+  "smoothing": {
+    "p": "/ˈsmuːðɪŋ/",
+    "t": "使平滑；抚平",
+    "en": "making smooth or even; removing roughness"
+  },
+  "quickmoving": {
+    "p": "/ˌkwɪkˈmuːvɪŋ/",
+    "t": "快速移动的；进展迅速的",
+    "en": "moving or progressing rapidly"
+  },
+  "plasticky": {
+    "p": "/ˈplæstɪki/",
+    "t": "塑料般的；有塑料感的",
+    "en": "resembling plastic in appearance or texture"
+  },
+  "opera": {
+    "p": "/ˈɒprə/",
+    "t": "歌剧",
+    "en": "a dramatic work set to music and sung"
+  },
+  "notifications": {
+    "p": "/ˌnəʊtɪfɪˈkeɪʃənz/",
+    "t": "通知；通告",
+    "en": "messages or alerts informing someone of something"
+  },
+  "straightline": {
+    "p": "/ˈstreɪtlaɪn/",
+    "t": "直线的；直线",
+    "en": "a line that does not curve; straight"
+  },
+  "routers": {
+    "p": "/ˈruːtəz/",
+    "t": "路由器",
+    "en": "devices that forward data between computer networks"
+  },
+  "extenders": {
+    "p": "/ɪkˈstendəz/",
+    "t": "扩展器；延长器",
+    "en": "devices or things that extend range or reach"
+  },
+  "iphone": {
+    "p": "/ˈaɪfəʊn/",
+    "t": "苹果手机",
+    "en": "a smartphone made by Apple"
+  },
+  "iphones": {
+    "p": "/ˈaɪfəʊnz/",
+    "t": "苹果手机（复数）",
+    "en": "plural of iPhone; smartphones made by Apple"
+  },
+  "shownetworkqrcode": {
+    "p": "/ˌʃəʊˈnetwɜːk ˌkjuːɑːˈkəʊd/",
+    "t": "显示网络二维码",
+    "en": "show a QR code for a network"
+  },
+  "kauhpg": {
+    "p": "/ˈkaʊpɡ/",
+    "t": "（无通用释义，疑似专名或拼写）",
+    "en": "unclear; likely a proper noun or typo"
+  },
+  "codeword": {
+    "p": "/ˈkəʊdwɜːd/",
+    "t": "暗语；代号",
+    "en": "a word used as a secret signal or password"
+  },
+  "cinema": {
+    "p": "/ˈsɪnəmə/",
+    "t": "电影院；电影",
+    "en": "a movie theater; the art of films"
+  },
+  "remotes": {
+    "p": "/rɪˈməʊts/",
+    "t": "遥控器（复数）",
+    "en": "plural of remote; remote controls"
+  },
+  "nuisance": {
+    "p": "/ˈnjuːsns/",
+    "t": "麻烦事；讨厌的人或物",
+    "en": "a person or thing causing inconvenience or annoyance"
+  },
+  "deselect": {
+    "p": "/ˌdiːsɪˈlekt/",
+    "t": "取消选择",
+    "en": "to cancel the selection of something"
+  },
+  "threedot": {
+    "p": "/ˈθriːdɒt/",
+    "t": "三点（菜单图标）",
+    "en": "a three-dot icon, often a menu button"
+  },
+  "spammers": {
+    "p": "/ˈspæməz/",
+    "t": "垃圾信息发送者",
+    "en": "people who send unwanted bulk messages"
+  },
+  "weirdest": {
+    "p": "/ˈwɪədɪst/",
+    "t": "最奇怪的",
+    "en": "superlative of weird; most strange"
+  },
+  "memorise": {
+    "p": "/ˈmeməraɪz/",
+    "t": "记住；背熟",
+    "en": "to learn something by heart"
+  },
+  "pulverise": {
+    "p": "/ˈpʌlvəraɪz/",
+    "t": "粉碎；彻底击败",
+    "en": "to reduce to powder; to crush completely"
+  },
+  "files": {
+    "p": "/faɪlz/",
+    "t": "文件（复数）",
+    "en": "collections of data stored under a name"
+  },
+  "downloads": {
+    "p": "/ˈdaʊnləʊdz/",
+    "t": "下载（复数）；已下载的文件",
+    "en": "files transferred from a network to a device"
+  },
+  "backedup": {
+    "p": "/ˌbæktˈʌp/",
+    "t": "备份了的；支持的",
+    "en": "having made a copy for safety; supported"
+  },
+  "detonate": {
+    "p": "/ˈdetəneɪt/",
+    "t": "引爆，使爆炸",
+    "en": "to cause to explode"
+  },
+  "explosives": {
+    "p": "/ɪkˈspləʊsɪvz/",
+    "t": "爆炸物，炸药",
+    "en": "substances that can explode"
+  },
+  "fence": {
+    "p": "/fens/",
+    "t": "栅栏，围栏",
+    "en": "a barrier enclosing an area"
+  },
+  "azide": {
+    "p": "/ˈeɪzaɪd/",
+    "t": "叠氮化物",
+    "en": "a chemical compound containing the N3 group"
+  },
+  "detonation": {
+    "p": "/ˌdetəˈneɪʃn/",
+    "t": "爆炸，引爆",
+    "en": "the act of exploding"
+  },
+  "halted": {
+    "p": "/ˈhɔːltɪd/",
+    "t": "停止的，中断的",
+    "en": "stopped or brought to a halt"
+  },
+  "circuit": {
+    "p": "/ˈsɜːkɪt/",
+    "t": "电路；环行",
+    "en": "a path for electric current; a circular route"
+  },
+  "haste": {
+    "p": "/heɪst/",
+    "t": "匆忙，仓促",
+    "en": "excessive speed or urgency"
+  },
+  "detonating": {
+    "p": "/ˈdetəneɪtɪŋ/",
+    "t": "引爆的，使爆炸的",
+    "en": "causing to explode"
+  },
+  "evacuate": {
+    "p": "/ɪˈvækjueɪt/",
+    "t": "疏散，撤离",
+    "en": "to remove people from a dangerous place"
+  },
+  "neighboring": {
+    "p": "/ˈneɪbərɪŋ/",
+    "t": "邻近的，附近的",
+    "en": "located next to or near"
+  },
+  "munitions": {
+    "p": "/mjuːˈnɪʃnz/",
+    "t": "军火，弹药",
+    "en": "military weapons and ammunition"
+  },
+  "detonations": {
+    "p": "/ˌdetəˈneɪʃnz/",
+    "t": "爆炸（复数）",
+    "en": "multiple acts of exploding"
+  },
+  "thankfully": {
+    "p": "/ˈθæŋkfəli/",
+    "t": "幸亏，感激地",
+    "en": "fortunately; in a grateful manner"
+  },
+  "leaded": {
+    "p": "/ˈledɪd/",
+    "t": "含铅的",
+    "en": "containing lead"
+  },
+  "neurotoxin": {
+    "p": "/ˈnjʊərəʊtɒksɪn/",
+    "t": "神经毒素",
+    "en": "a poison that damages nerve tissue"
+  },
+  "inescapability": {
+    "p": "/ˌɪnɪˌskeɪpəˈbɪləti/",
+    "t": "不可避免性",
+    "en": "the quality of being unavoidable"
+  },
+  "negligence": {
+    "p": "/ˈneɡlɪdʒəns/",
+    "t": "疏忽，过失",
+    "en": "failure to take proper care"
+  },
+  "angsty": {
+    "p": "/ˈæŋsti/",
+    "t": "焦虑的，苦恼的",
+    "en": "experiencing or expressing anxiety"
+  },
+  "planner": {
+    "p": "/ˈplænə(r)/",
+    "t": "计划者；规划手册",
+    "en": "a person who makes plans; a planning book"
+  },
+  "stocked": {
+    "p": "/stɒkt/",
+    "t": "储备的，备有的",
+    "en": "supplied or filled with goods"
+  },
+  "forebears": {
+    "p": "/ˈfɔːbeəz/",
+    "t": "祖先，前辈",
+    "en": "ancestors"
+  },
+  "perigee": {
+    "p": "/ˈperɪdʒiː/",
+    "t": "近地点",
+    "en": "the point in an orbit closest to Earth"
+  },
+  "tonight": {
+    "p": "/təˈnaɪt/",
+    "t": "今晚",
+    "en": "the night of the present day"
+  },
+  "feminism": {
+    "p": "/ˈfemənɪzəm/",
+    "t": "女权主义",
+    "en": "advocacy of women's rights"
+  },
+  "rifle": {
+    "p": "/ˈraɪfl/",
+    "t": "步枪",
+    "en": "a gun with a long spirally grooved barrel"
   }
 }
