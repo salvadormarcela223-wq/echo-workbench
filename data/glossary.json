@@ -73873,5 +73873,270 @@
     "p": "/ˈsnɔːkəlɪŋ/",
     "t": "浮潜",
     "en": "swimming with a snorkel and mask near the surface"
+  },
+  "downbeat": {
+    "p": "/ˈdaʊnbiːt/",
+    "t": "低调的；悲观的；强拍",
+    "en": "(of music) the first beat of a bar; relaxed or pessimistic in mood"
+  },
+  "serene": {
+    "p": "/səˈriːn/",
+    "t": "宁静的；安详的",
+    "en": "calm, peaceful, and untroubled"
+  },
+  "sunsets": {
+    "p": "/ˈsʌnsetɪz/",
+    "t": "日落；晚霞",
+    "en": "the times when the sun goes below the horizon; the colours of the sky then"
+  },
+  "forwardfacing": {
+    "p": "/ˈfɔːwədˌfeɪsɪŋ/",
+    "t": "朝前的；面向未来的",
+    "en": "facing towards the front; oriented towards the future"
+  },
+  "mentality": {
+    "p": "/menˈtæləti/",
+    "t": "心态；思维方式",
+    "en": "a characteristic way of thinking or attitude"
+  },
+  "characterising": {
+    "p": "/ˈkærəktəraɪzɪŋ/",
+    "t": "描绘…的特性；以…为特征",
+    "en": "describing the distinctive qualities of; being typical of"
+  },
+  "demons": {
+    "p": "/ˈdiːmənz/",
+    "t": "恶魔；心魔",
+    "en": "evil spirits; inner fears or troubles that torment a person"
+  },
+  "detectable": {
+    "p": "/dɪˈtektəbl/",
+    "t": "可察觉的；可检测的",
+    "en": "able to be discovered or noticed"
+  },
+  "drill": {
+    "p": "/drɪl/",
+    "t": "钻头；训练；钻孔",
+    "en": "a tool for boring holes; repeated practice; to bore a hole"
+  },
+  "highincome": {
+    "p": "/ˌhaɪˈɪnkʌm/",
+    "t": "高收入的",
+    "en": "earning or yielding a large income"
+  },
+  "illusion": {
+    "p": "/ɪˈluːʒn/",
+    "t": "错觉；幻想",
+    "en": "a false impression or deceptive appearance"
+  },
+  "correlation": {
+    "p": "/ˌkɒrəˈleɪʃn/",
+    "t": "相关性；关联",
+    "en": "a mutual relationship or connection between two things"
+  },
+  "pupiltracking": {
+    "p": "/ˈpjuːplˌtrækɪŋ/",
+    "t": "瞳孔追踪",
+    "en": "the technique of monitoring eye movements by tracking the pupil"
+  },
+  "diagnosing": {
+    "p": "/ˈdaɪəɡnəʊzɪŋ/",
+    "t": "诊断",
+    "en": "identifying an illness or problem by examination"
+  },
+  "brainscan": {
+    "p": "/ˈbreɪnskæn/",
+    "t": "脑部扫描",
+    "en": "an image of the brain produced by a scanning technique"
+  },
+  "prediction": {
+    "p": "/prɪˈdɪkʃn/",
+    "t": "预测；预言",
+    "en": "a statement about what will happen in the future"
+  },
+  "neurological": {
+    "p": "/ˌnjʊərəˈlɒdʒɪkl/",
+    "t": "神经系统的；神经学的",
+    "en": "relating to the nervous system or neurology"
+  },
+  "pupils": {
+    "p": "/ˈpjuːplz/",
+    "t": "瞳孔；学生",
+    "en": "the openings in the centre of the eyes; students"
+  },
+  "pupillometry": {
+    "p": "/ˌpjuːpɪˈlɒmətri/",
+    "t": "瞳孔测量法",
+    "en": "the measurement of pupil size, especially as an indicator of mental activity"
+  },
+  "gazetracking": {
+    "p": "/ˈɡeɪzˌtrækɪŋ/",
+    "t": "视线追踪",
+    "en": "the recording of where and how long a person looks"
+  },
+  "snowboarding": {
+    "p": "/ˈsnəʊbɔːdɪŋ/",
+    "t": "单板滑雪",
+    "en": "the sport of sliding down snow on a single board"
+  },
+  "hooked": {
+    "p": "/hʊkt/",
+    "t": "上瘾的；着迷的；钩状的",
+    "en": "addicted or obsessed; curved like a hook"
+  },
+  "bodytracking": {
+    "p": "/ˈbɒdiˌtrækɪŋ/",
+    "t": "身体追踪",
+    "en": "the monitoring of body movements or physiological data"
+  },
+  "treadmill": {
+    "p": "/ˈtredmɪl/",
+    "t": "跑步机；单调乏味的工作",
+    "en": "an exercise machine for walking or running in place; a tedious routine"
+  },
+  "audible": {
+    "p": "/ˈɔːdəbl/",
+    "t": "听得见的",
+    "en": "able to be heard"
+  },
+  "songbird": {
+    "p": "/ˈsɒŋbɜːd/",
+    "t": "鸣禽；歌鸟",
+    "en": "a bird known for its melodious song"
+  },
+  "angrysounding": {
+    "p": "/ˈæŋɡriˌsaʊndɪŋ/",
+    "t": "听起来愤怒的",
+    "en": "appearing angry from the sound"
+  },
+  "cawing": {
+    "p": "/ˈkɔːɪŋ/",
+    "t": "（乌鸦等的）叫声；呱呱叫",
+    "en": "the harsh cry of a crow or similar bird; making such a cry"
+  },
+  "detects": {
+    "p": "/dɪˈtekts/",
+    "t": "察觉；探测",
+    "en": "discovers or notices something hidden or subtle"
+  },
+  "rewire": {
+    "p": "/ˌriːˈwaɪə/",
+    "t": "重新接线；改变（思维或行为）",
+    "en": "to replace the wiring of; to change established patterns of thinking or behaviour"
+  },
+  "wellestablished": {
+    "p": "/ˌwel ɪˈstæblɪʃt/",
+    "t": "确立已久的；公认的",
+    "en": "long and firmly established; widely recognized"
+  },
+  "symptombased": {
+    "p": "/ˈsɪmptəmˌbeɪst/",
+    "t": "基于症状的",
+    "en": "based on observed symptoms rather than underlying causes"
+  },
+  "diagnosisbased": {
+    "p": "/ˌdaɪəɡˈnəʊsɪsˌbeɪst/",
+    "t": "基于诊断的",
+    "en": "based on a formal diagnosis"
+  },
+  "nefarious": {
+    "p": "/nɪˈfeəriəs/",
+    "t": "邪恶的；不法的",
+    "en": "wicked, criminal, or villainous"
+  },
+  "accomplishment": {
+    "p": "/əˈkʌmplɪʃmənt/",
+    "t": "成就；完成",
+    "en": "something achieved successfully; the act of completing something"
+  },
+  "preai": {
+    "p": "/ˈpriːaɪ/",
+    "t": "（非标准词）",
+    "en": "nonstandard term; no established meaning"
+  },
+  "rereleases": {
+    "p": "/ˌriːrɪˈliːsɪz/",
+    "t": "重新发行；再版",
+    "en": "releases again, as of a film or product"
+  },
+  "catapulted": {
+    "p": "/ˈkætəpʌltɪd/",
+    "t": "被弹射；使一举成名",
+    "en": "launched or propelled suddenly; thrust into prominence"
+  },
+  "completing": {
+    "p": "/kəmˈpliːtɪŋ/",
+    "t": "完成；结束",
+    "en": "finishing or bringing to an end"
+  },
+  "acclaimed": {
+    "p": "/əˈkleɪmd/",
+    "t": "受赞誉的",
+    "en": "publicly praised or applauded"
+  },
+  "triumph": {
+    "p": "/ˈtraɪʌmf/",
+    "t": "胜利；成就",
+    "en": "a great victory or achievement"
+  },
+  "horizon": {
+    "p": "/həˈraɪzn/",
+    "t": "地平线；眼界",
+    "en": "the line where earth meets sky; the limit of one's experience"
+  },
+  "bigbudget": {
+    "p": "/ˌbɪɡˈbʌdʒɪt/",
+    "t": "大预算的",
+    "en": "involving a large amount of money to produce"
+  },
+  "remake": {
+    "p": "/ˈriːmeɪk/",
+    "t": "翻拍；重制",
+    "en": "a new version of a film or other work"
+  },
+  "consolidation": {
+    "p": "/kənˌsɒlɪˈdeɪʃn/",
+    "t": "合并；巩固",
+    "en": "the act of combining into one or making stronger"
+  },
+  "storefront": {
+    "p": "/ˈstɔːfrʌnt/",
+    "t": "店面",
+    "en": "the front of a shop facing the street"
+  },
+  "skyscraper": {
+    "p": "/ˈskaɪskreɪpə(r)/",
+    "t": "摩天大楼",
+    "en": "a very tall building with many floors"
+  },
+  "unhinged": {
+    "p": "/ʌnˈhɪndʒd/",
+    "t": "精神失常的；疯狂的",
+    "en": "mentally unbalanced; wildly irrational"
+  },
+  "materialize": {
+    "p": "/məˈtɪəriəlaɪz/",
+    "t": "实现；具体化",
+    "en": "to become real or actual; to appear"
+  },
+  "programming": {
+    "p": "/ˈprəʊɡræmɪŋ/",
+    "t": "编程；节目编排",
+    "en": "the act of writing computer code; scheduled content"
+  },
+  "incremental": {
+    "p": "/ˌɪŋkrəˈmentl/",
+    "t": "逐步的；递增的",
+    "en": "increasing gradually in small amounts"
+  },
+  "rumor": {
+    "p": "/ˈruːmə(r)/",
+    "t": "谣言；传闻",
+    "en": "unverified information spread among people"
+  },
+  "nailed": {
+    "p": "/neɪld/",
+    "t": "钉住；圆满完成",
+    "en": "fastened with a nail; accomplished perfectly"
   }
 }
