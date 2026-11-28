@@ -74138,5 +74138,535 @@
     "p": "/neɪld/",
     "t": "钉住；圆满完成",
     "en": "fastened with a nail; accomplished perfectly"
+  },
+  "alienlike": {
+    "p": "/ˈeɪliənlaɪk/",
+    "t": "像外星人的",
+    "en": "resembling an alien"
+  },
+  "slime": {
+    "p": "/slaɪm/",
+    "t": "黏液",
+    "en": "a thick, slippery substance"
+  },
+  "moulds": {
+    "p": "/məʊldz/",
+    "t": "霉菌；模具",
+    "en": "fungi that grow on decaying matter; hollow containers for shaping"
+  },
+  "gripped": {
+    "p": "/ɡrɪpt/",
+    "t": "紧握；抓住",
+    "en": "held tightly; seized"
+  },
+  "frost": {
+    "p": "/frɒst/",
+    "t": "霜",
+    "en": "a thin layer of ice crystals formed on cold surfaces"
+  },
+  "hemisphere": {
+    "p": "/ˈhemɪsfɪə/",
+    "t": "半球",
+    "en": "half of a sphere, especially the earth"
+  },
+  "wintry": {
+    "p": "/ˈwɪntri/",
+    "t": "冬天的；寒冷的",
+    "en": "characteristic of winter; cold"
+  },
+  "glory": {
+    "p": "/ˈɡlɔːri/",
+    "t": "荣耀；壮丽",
+    "en": "great honour or magnificence"
+  },
+  "trunk": {
+    "p": "/trʌŋk/",
+    "t": "树干；象鼻；后备箱",
+    "en": "the main stem of a tree; an elephant's long nose; a large case"
+  },
+  "contemplation": {
+    "p": "/ˌkɒntəmˈpleɪʃn/",
+    "t": "沉思",
+    "en": "deep thought or reflection"
+  },
+  "commended": {
+    "p": "/kəˈmendɪd/",
+    "t": "称赞；表扬",
+    "en": "praised or approved"
+  },
+  "daubed": {
+    "p": "/dɔːbd/",
+    "t": "涂抹",
+    "en": "smeared or coated with a substance"
+  },
+  "photography": {
+    "p": "/fəˈtɒɡrəfi/",
+    "t": "摄影",
+    "en": "the art or practice of taking photographs"
+  },
+  "portraits": {
+    "p": "/ˈpɔːtreɪts/",
+    "t": "肖像",
+    "en": "pictures of a person, especially of the face"
+  },
+  "archipelago": {
+    "p": "/ˌɑːkɪˈpeləɡəʊ/",
+    "t": "群岛",
+    "en": "a group of islands"
+  },
+  "derig": {
+    "p": "/diːˈrɪɡ/",
+    "t": "拆卸装备",
+    "en": "to dismantle equipment or rigging"
+  },
+  "lekking": {
+    "p": "/ˈlekɪŋ/",
+    "t": "求偶炫耀",
+    "en": "the behaviour of male animals gathering to display for mates"
+  },
+  "attractiveness": {
+    "p": "/əˈtræktɪvnəs/",
+    "t": "吸引力",
+    "en": "the quality of being appealing or attractive"
+  },
+  "skiers": {
+    "p": "/ˈskiːəz/",
+    "t": "滑雪者",
+    "en": "people who ski"
+  },
+  "slopes": {
+    "p": "/sləʊps/",
+    "t": "斜坡；滑雪坡",
+    "en": "inclined surfaces; ski runs"
+  },
+  "skiing": {
+    "p": "/ˈskiːɪŋ/",
+    "t": "滑雪",
+    "en": "the sport of gliding over snow on skis"
+  },
+  "capercaillies": {
+    "p": "/ˌkæpəˈkeɪliz/",
+    "t": "松鸡",
+    "en": "large woodland grouse of the genus Tetrao"
+  },
+  "miniature": {
+    "p": "/ˈmɪnətʃə/",
+    "t": "微型的；缩影",
+    "en": "very small; a small-scale version"
+  },
+  "fruiting": {
+    "p": "/ˈfruːtɪŋ/",
+    "t": "结果的；产孢实的",
+    "en": "producing fruit or spores"
+  },
+  "mould": {
+    "p": "/məʊld/",
+    "t": "霉菌；模子",
+    "en": "a fungus; a hollow form for shaping"
+  },
+  "adorned": {
+    "p": "/əˈdɔːnd/",
+    "t": "装饰的",
+    "en": "decorated or embellished"
+  },
+  "scintillans": {
+    "p": "/sɪnˈtɪlənz/",
+    "t": "闪烁的（拉丁种名）",
+    "en": "sparkling; a Latin species epithet meaning glittering"
+  },
+  "mushroomlike": {
+    "p": "/ˈmʌʃruːmlaɪk/",
+    "t": "像蘑菇的",
+    "en": "resembling a mushroom"
+  },
+  "mavericks": {
+    "p": "/ˈmævərɪks/",
+    "t": "特立独行者",
+    "en": "independent-minded people who defy convention"
+  },
+  "undergrowth": {
+    "p": "/ˈʌndəɡrəʊθ/",
+    "t": "灌木丛",
+    "en": "low-growing plants beneath trees"
+  },
+  "amoebalike": {
+    "p": "/əˈmiːbəlaɪk/",
+    "t": "像变形虫的",
+    "en": "resembling an amoeba"
+  },
+  "walrus": {
+    "p": "/ˈwɔːlrəs/",
+    "t": "海象",
+    "en": "a large Arctic sea mammal with tusks"
+  },
+  "hunted": {
+    "p": "/ˈhʌntɪd/",
+    "t": "被猎捕的",
+    "en": "chased or pursued for food or sport"
+  },
+  "whiskered": {
+    "p": "/ˈwɪskəd/",
+    "t": "有须的",
+    "en": "having whiskers"
+  },
+  "walruss": {
+    "p": "/ˈwɔːlrəs/",
+    "t": "海象（变体拼写）",
+    "en": "variant spelling of walrus"
+  },
+  "moustache": {
+    "p": "/məˈstɑːʃ/",
+    "t": "胡子",
+    "en": "hair growing above the upper lip"
+  },
+  "mystacial": {
+    "p": "/mɪˈsteɪʃl/",
+    "t": "触须的",
+    "en": "relating to the whiskers on the upper lip"
+  },
+  "vibrissae": {
+    "p": "/vaɪˈbrɪsiː/",
+    "t": "触须",
+    "en": "stiff sensitive hairs, as whiskers"
+  },
+  "hardware": {
+    "p": "/ˈhɑːdweə/",
+    "t": "硬件；五金器具",
+    "en": "physical equipment or tools"
+  },
+  "walruses": {
+    "p": "/ˈwɔːlrəsɪz/",
+    "t": "海象（复数）",
+    "en": "plural of walrus"
+  },
+  "rummage": {
+    "p": "/ˈrʌmɪdʒ/",
+    "t": "翻找",
+    "en": "to search unsystematically"
+  },
+  "morsels": {
+    "p": "/ˈmɔːslz/",
+    "t": "小块食物",
+    "en": "small pieces of food"
+  },
+  "swells": {
+    "p": "/swelz/",
+    "t": "涌浪；膨胀",
+    "en": "long waves; increases in size"
+  },
+  "whirlpool": {
+    "p": "/ˈwɜːlpuːl/",
+    "t": "漩涡",
+    "en": "a rapidly rotating mass of water"
+  },
+  "stormy": {
+    "p": "/ˈstɔːmi/",
+    "t": "暴风雨的",
+    "en": "characterized by storms; turbulent"
+  },
+  "icebergs": {
+    "p": "/ˈaɪsbɜːɡz/",
+    "t": "冰山",
+    "en": "large floating masses of ice"
+  },
+  "shear": {
+    "p": "/ʃɪə/",
+    "t": "剪切；剪",
+    "en": "to cut or break under stress"
+  },
+  "eddies": {
+    "p": "/ˈediz/",
+    "t": "小漩涡",
+    "en": "circular movements of water or air"
+  },
+  "smallscale": {
+    "p": "/ˈsmɔːlskeɪl/",
+    "t": "小规模的",
+    "en": "of limited size or extent"
+  },
+  "deepsea": {
+    "p": "/ˈdiːpsiː/",
+    "t": "深海的",
+    "en": "relating to the deep ocean"
+  },
+  "moody": {
+    "p": "/ˈmuːdi/",
+    "t": "喜怒无常的；阴郁的",
+    "en": "given to unpredictable changes of mood; gloomy"
+  },
+  "paler": {
+    "p": "/ˈpeɪlə/",
+    "t": "更苍白的",
+    "en": "more pale in colour"
+  },
+  "plasmodium": {
+    "p": "/plæzˈməʊdiəm/",
+    "t": "疟原虫；原质团",
+    "en": "a parasitic protozoan; a mass of protoplasm"
+  },
+  "dexterity": {
+    "p": "/dekˈsterəti/",
+    "t": "灵巧",
+    "en": "skill in performing tasks, especially with the hands"
+  },
+  "sprouting": {
+    "p": "/ˈspraʊtɪŋ/",
+    "t": "发芽",
+    "en": "growing shoots; beginning to grow"
+  },
+  "sporangia": {
+    "p": "/spəˈrændʒiə/",
+    "t": "孢子囊",
+    "en": "structures producing spores"
+  },
+  "volcano": {
+    "p": "/vɒlˈkeɪnəʊ/",
+    "t": "火山",
+    "en": "a mountain that erupts lava and ash"
+  },
+  "gentoo": {
+    "p": "/ˈdʒentuː/",
+    "t": "巴布亚企鹅",
+    "en": "a species of penguin, Pygoscelis papua"
+  },
+  "funniest": {
+    "p": "/ˈfʌniɪst/",
+    "t": "最有趣的",
+    "en": "most amusing"
+  },
+  "germinate": {
+    "p": "/ˈdʒɜːmɪneɪt/",
+    "t": "发芽",
+    "en": "to begin to grow, as a seed"
+  },
+  "hatch": {
+    "p": "/hætʃ/",
+    "t": "孵化",
+    "en": "to emerge from an egg"
+  },
+  "amoebae": {
+    "p": "/əˈmiːbiː/",
+    "t": "变形虫（复数）",
+    "en": "plural of amoeba"
+  },
+  "dronemounted": {
+    "p": "/drəʊnˈmaʊntɪd/",
+    "t": "安装在无人机上的",
+    "en": "mounted on a drone"
+  },
+  "fissures": {
+    "p": "/ˈfɪʃəz/",
+    "t": "裂缝",
+    "en": "narrow openings or cracks"
+  },
+  "icescape": {
+    "p": "/ˈaɪsskeɪp/",
+    "t": "冰景",
+    "en": "a landscape dominated by ice"
+  },
+  "purposemade": {
+    "p": "/ˈpɜːpəsmeɪd/",
+    "t": "定制的；专门制作的",
+    "en": "made for a specific purpose"
+  },
+  "stardom": {
+    "p": "/ˈstɑːdəm/",
+    "t": "明星地位；明星身份",
+    "en": "the state of being a famous star"
+  },
+  "onstage": {
+    "p": "/ˌɒnˈsteɪdʒ/",
+    "t": "在舞台上；上台演出",
+    "en": "on or onto the stage"
+  },
+  "funcle": {
+    "p": "/ˈfʌŋkl/",
+    "t": "风趣的叔叔（fun uncle 的缩合）",
+    "en": "a fun uncle; a cool, playful uncle"
+  },
+  "sixmember": {
+    "p": "/ˈsɪksˌmembə/",
+    "t": "六人组成的",
+    "en": "having six members"
+  },
+  "streamed": {
+    "p": "/striːmd/",
+    "t": "流媒体播放的；在线的",
+    "en": "transmitted or played as streaming media"
+  },
+  "contestants": {
+    "p": "/kənˈtestənts/",
+    "t": "参赛者；选手（复数）",
+    "en": "people who compete in a contest"
+  },
+  "viewers": {
+    "p": "/ˈvjuːəz/",
+    "t": "观众；观看者（复数）",
+    "en": "people who watch something, esp. television"
+  },
+  "favorites": {
+    "p": "/ˈfeɪvərɪts/",
+    "t": "最喜爱的人或物；热门人选（复数）",
+    "en": "things or people liked best; top contenders"
+  },
+  "narrowed": {
+    "p": "/ˈnærəʊd/",
+    "t": "缩小；变窄（过去式）",
+    "en": "made or became narrower; reduced"
+  },
+  "helmed": {
+    "p": "/helmd/",
+    "t": "掌舵；领导；执导",
+    "en": "directed or led"
+  },
+  "ceremony": {
+    "p": "/ˈserəməni/",
+    "t": "典礼；仪式",
+    "en": "a formal act or event"
+  },
+  "healthrelated": {
+    "p": "/ˈhelθ rɪˌleɪtɪd/",
+    "t": "与健康有关的",
+    "en": "connected with health"
+  },
+  "absences": {
+    "p": "/ˈæbsənsɪz/",
+    "t": "缺席；不在（复数）",
+    "en": "times of being away or not present"
+  },
+  "performances": {
+    "p": "/pəˈfɔːmənsɪz/",
+    "t": "表演；演出（复数）",
+    "en": "acts of presenting entertainment to an audience"
+  },
+  "medley": {
+    "p": "/ˈmedli/",
+    "t": "混合曲；串烧",
+    "en": "a piece of music made of mixed songs"
+  },
+  "hails": {
+    "p": "/heɪlz/",
+    "t": "来自；称赞；招呼（第三人称单数）",
+    "en": "comes from; acclaims; greets"
+  },
+  "hiatus": {
+    "p": "/haɪˈeɪtəs/",
+    "t": "间歇；中断",
+    "en": "a pause or break in activity"
+  },
+  "sixpiece": {
+    "p": "/ˈsɪkspiːs/",
+    "t": "六件套的；六人组成的",
+    "en": "consisting of six pieces or members"
+  },
+  "auditioning": {
+    "p": "/ɔːˈdɪʃənɪŋ/",
+    "t": "试镜；试演（现在分词）",
+    "en": "taking part in an audition"
+  },
+  "fivepiece": {
+    "p": "/ˈfaɪvpiːs/",
+    "t": "五件套的；五人组成的",
+    "en": "consisting of five pieces or members"
+  },
+  "straddles": {
+    "p": "/ˈstrædlz/",
+    "t": "跨坐；横跨；兼顾（第三人称单数）",
+    "en": "sits or stands with legs across; spans"
+  },
+  "ethos": {
+    "p": "/ˈiːθɒs/",
+    "t": "精神特质；理念",
+    "en": "the characteristic spirit of a group or culture"
+  },
+  "precipice": {
+    "p": "/ˈpresɪpɪs/",
+    "t": "悬崖；险境",
+    "en": "a steep cliff; a dangerous situation"
+  },
+  "headlining": {
+    "p": "/ˈhedlaɪnɪŋ/",
+    "t": "担任主角；领衔演出",
+    "en": "performing as the main act"
+  },
+  "sprains": {
+    "p": "/spreɪnz/",
+    "t": "扭伤（复数或第三人称单数）",
+    "en": "injuries from wrenching a joint; wrenches a joint"
+  },
+  "ankle": {
+    "p": "/ˈæŋkl/",
+    "t": "脚踝",
+    "en": "the joint connecting the foot and leg"
+  },
+  "rehearsals": {
+    "p": "/rɪˈhɜːslz/",
+    "t": "排练（复数）",
+    "en": "practice sessions for a performance"
+  },
+  "pulls": {
+    "p": "/pʊlz/",
+    "t": "拉；拖；吸引力（复数或第三人称单数）",
+    "en": "draws or drags; influences"
+  },
+  "concussion": {
+    "p": "/kənˈkʌʃn/",
+    "t": "脑震荡",
+    "en": "a brain injury from a blow to the head"
+  },
+  "sunglasses": {
+    "p": "/ˈsʌŋɡlɑːsɪz/",
+    "t": "太阳镜",
+    "en": "glasses tinted to protect the eyes from sunlight"
+  },
+  "screams": {
+    "p": "/skriːmz/",
+    "t": "尖叫（复数或第三人称单数）",
+    "en": "loud high-pitched cries"
+  },
+  "bells": {
+    "p": "/belz/",
+    "t": "钟；铃（复数）",
+    "en": "hollow metal devices that ring"
+  },
+  "backtoback": {
+    "p": "/ˌbæk təˈbæk/",
+    "t": "连续的；背靠背的",
+    "en": "consecutive; one after another"
+  },
+  "ringing": {
+    "p": "/ˈrɪŋɪŋ/",
+    "t": "响铃；鸣响（现在分词）",
+    "en": "making a clear resonant sound"
+  },
+  "troubles": {
+    "p": "/ˈtrʌblz/",
+    "t": "麻烦；困难（复数）",
+    "en": "problems or difficulties"
+  },
+  "implodes": {
+    "p": "/ɪmˈpləʊdz/",
+    "t": "内向爆裂；崩溃（第三人称单数）",
+    "en": "bursts inward; collapses suddenly"
+  },
+  "dominations": {
+    "p": "/ˌdɒmɪˈneɪʃnz/",
+    "t": "统治；支配（复数）",
+    "en": "acts of dominating or controlling"
+  },
+  "handicap": {
+    "p": "/ˈhændikæp/",
+    "t": "障碍；不利条件",
+    "en": "a disadvantage that makes achievement harder"
+  },
+  "strategize": {
+    "p": "/ˈstrætədʒaɪz/",
+    "t": "制定策略",
+    "en": "to plan a strategy"
+  },
+  "reconfiguring": {
+    "p": "/ˌriːkənˈfɪɡərɪŋ/",
+    "t": "重新配置（现在分词）",
+    "en": "arranging or configuring again"
   }
 }
